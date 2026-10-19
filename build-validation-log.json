@@ -8,9 +8,10 @@
   },
   {
     "tool": "validate.py",
-    "at": "2026-10-19T17:05:45.632910+00:00",
+    "at": "2026-10-19T17:06:19.648696+00:00",
     "exit_code": 1,
-    "stdout": "{\"repo\": \"Komentar-NL-BWBR0005537\", \"units\": 586, \"verbatim_ratio\": 1.0, \"commentary_chars\": 197045, \"errors\": [\"krátký/chybějící komentář u 414 jednotek: ['art-4:85(0<400)', 'art-4:86(0<400)', 'art-4:87(0<400)', 'art-4:88(0<400)', 'art-4:89(0<400)', 'art-4:90(0<400)', 'art-4:91(0<400)', 'art-4:92(0<400)']\", \"necommitnuté změny v repu\"], \"warnings\": [], \"ok\": false}\n",
-    "stderr": ""
+    "stdout": "{\"repo\": \"Komentar-NL-BWBR0005537\", \"units\": 586, \"verbatim_ratio\": 1.0, \"commentary_chars\": 197045, \"errors\": [\"krátký/chybějící komentář u 414 jednotek: ['art-4:85(0<400)', 'art-4:86(0<400)', 'art-4:87(0<400)', 'art-4:88(0<400)', 'art-4:89(0<400)', 'art-4:90(0<400)', 'art-4:91(0<400)', 'art-4:92(0<400)']\"], \"warnings\": [], \"ok\": false}\n",
+    "stderr": "",
+    "output_git_clean_at_check": true
   }
 ]

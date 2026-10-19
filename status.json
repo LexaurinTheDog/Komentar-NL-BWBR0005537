@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-19T17:05:45.681777+00:00",
+  "updated_at": "2026-10-19T17:06:19.713079+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -627,8 +627,7 @@
       "verbatim_ratio": 1.0,
       "commentary_chars": 197045,
       "errors": [
-        "krátký/chybějící komentář u 414 jednotek: ['art-4:85(0<400)', 'art-4:86(0<400)', 'art-4:87(0<400)', 'art-4:88(0<400)', 'art-4:89(0<400)', 'art-4:90(0<400)', 'art-4:91(0<400)', 'art-4:92(0<400)']",
-        "necommitnuté změny v repu"
+        "krátký/chybějící komentář u 414 jednotek: ['art-4:85(0<400)', 'art-4:86(0<400)', 'art-4:87(0<400)', 'art-4:88(0<400)', 'art-4:89(0<400)', 'art-4:90(0<400)', 'art-4:91(0<400)', 'art-4:92(0<400)']"
       ],
       "warnings": [],
       "ok": false
