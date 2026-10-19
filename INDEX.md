@@ -1,6 +1,6 @@
 # INDEX — Onvoltooid werkmanuscript
 
-62 van 586 commentaareenheden geschreven. De volledige brondekking is afzonderlijk verantwoord.
+81 van 586 commentaareenheden geschreven. De volledige brondekking is afzonderlijk verantwoord.
 
 - [Inleiding](00-inleiding.md)
 - [Bronnen](SOURCES.md)
@@ -9,4 +9,4 @@
 - [Hoofdstuk 2 Verkeer met bestuursorganen](02-deel-02.md) — 25/25
 - [Hoofdstuk 2 Verkeer met bestuursorganen](03-deel-03.md) — 2/2
 - [Hoofdstuk 3 Algemene bepalingen over besluiten](04-deel-04.md) — 25/25
-- [Hoofdstuk 3 Algemene bepalingen over besluiten](05-deel-05.md) — 1/20
+- [Hoofdstuk 3 Algemene bepalingen over besluiten](05-deel-05.md) — 20/20
