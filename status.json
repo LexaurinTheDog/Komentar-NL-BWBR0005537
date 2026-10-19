@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-19T17:00:24.196337+00:00",
+  "updated_at": "2026-10-19T17:03:27.074048+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -15,7 +15,7 @@
   },
   "official_articles": 584,
   "total_units": 586,
-  "completed_units": 147,
+  "completed_units": 171,
   "completed_ids": [
     "art-1:1",
     "art-1:2",
@@ -163,10 +163,7 @@
     "art-4:57",
     "art-4:58",
     "art-4:59",
-    "art-4:60"
-  ],
-  "missing_commentary_ids": [
-    "art-4:3a",
+    "art-4:60",
     "art-4:61",
     "art-4:62",
     "art-4:63",
@@ -190,7 +187,10 @@
     "art-4:81",
     "art-4:82",
     "art-4:83",
-    "art-4:84",
+    "art-4:84"
+  ],
+  "missing_commentary_ids": [
+    "art-4:3a",
     "art-4:85",
     "art-4:86",
     "art-4:87",
