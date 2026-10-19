@@ -46,8 +46,8 @@
   },
   {
     "path": "sources/change-map.json",
-    "sha256": "46d13724c42da4e14ebee07e7165c075a52493669390571186d97bae143bffc3",
-    "bytes": 1179
+    "sha256": "9272dfee27bcf7a51526abd9d3385a9d8d29b08433d956f87a9345b56555a43d",
+    "bytes": 12900
   },
   {
     "path": "sources/current.html",

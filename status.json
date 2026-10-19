@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-19T17:03:27.074048+00:00",
+  "updated_at": "2026-10-19T17:05:45.681777+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -15,7 +15,7 @@
   },
   "official_articles": 584,
   "total_units": 586,
-  "completed_units": 171,
+  "completed_units": 172,
   "completed_ids": [
     "art-1:1",
     "art-1:2",
@@ -101,6 +101,7 @@
     "art-4:1",
     "art-4:2",
     "art-4:3",
+    "art-4:3a",
     "art-4:4",
     "art-4:5",
     "art-4:6",
@@ -190,7 +191,6 @@
     "art-4:84"
   ],
   "missing_commentary_ids": [
-    "art-4:3a",
     "art-4:85",
     "art-4:86",
     "art-4:87",
@@ -620,12 +620,25 @@
   "validation_result": {
     "complete": false,
     "reason": "Volledige gedeelde bouw en eindvalidatie zijn geblokkeerd door ontbrekende commentaren.",
-    "not_independent_review": true
+    "not_independent_review": true,
+    "strict_validator": {
+      "repo": "Komentar-NL-BWBR0005537",
+      "units": 586,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 197045,
+      "errors": [
+        "krátký/chybějící komentář u 414 jednotek: ['art-4:85(0<400)', 'art-4:86(0<400)', 'art-4:87(0<400)', 'art-4:88(0<400)', 'art-4:89(0<400)', 'art-4:90(0<400)', 'art-4:91(0<400)', 'art-4:92(0<400)']",
+        "necommitnuté změny v repu"
+      ],
+      "warnings": [],
+      "ok": false
+    }
   },
   "remaining_limitations": [
     "Niet alle commentaareenheden zijn geschreven.",
     "Nog geen onafhankelijke tweede inhoudelijke beoordeling.",
     "Geen uitputtende rechtspraakrecherche of inventaris van alle lagere en tijdelijke uitzonderingsregelingen.",
     "Technische identifierdekking vervangt geen juridische kwaliteitscontrole."
-  ]
+  ],
+  "technical_audit": "technical-audit.json"
 }
