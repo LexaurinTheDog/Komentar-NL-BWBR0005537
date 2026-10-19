@@ -1,0 +1,13 @@
+# ABRvS 2 februari 2022 — ECLI:NL:RVS:2022:285
+
+Zaaknummer: 202002668/1/A3 (grote kamer). Officiële volledige tekst: [Rechtspraak](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2022:285). Vastgelegd en volledig gelezen op 19 oktober 2026: [XML](../sources/cases/ECLI-NL-RVS-2022-285.xml), [leesafschrift](../sources/cases/ECLI-NL-RVS-2022-285.txt). De lokale corpusversie is teruggevonden; zie het [corpuslog](../sources/cases/local-corpus-check.json).
+
+Het geschil betreft de sluiting van een woning in Harderwijk en de gevolgen voor de huurder en zijn gezin. De bevoegdheid tot sluiting was niet in geschil. De burgemeester verdedigde een terughoudende toetsing en betwistte de door de rechtbank aangenomen gevolgen. Die verdediging moet worden onderscheiden van het beoordelingskader van de Afdeling.
+
+R.o. 7.1–7.3 beperkt het uitgewerkte kader tot een discretionaire bevoegdheid, al dan niet ingevuld met beleidsregels. R.o. 7.4 legt de verhouding tussen doel en gevolgen uit. R.o. 7.7 geeft de aanbeveling van de advocaten-generaal weer; het eigen oordeel van de Afdeling volgt in 7.8–7.10. Geschiktheid, noodzakelijkheid en evenwichtigheid kunnen een rol spelen, maar er bestaat geen categorische verplichting om ieder besluit in dezelfde drie stappen te toetsen. De toetsingsintensiteit volgt een glijdende schaal en hangt mede af van de belangen, gevolgen, beleidsruimte en aantasting van fundamentele rechten.
+
+R.o. 7.11 en 8.1 verbinden dit met artikel 4:84: ook omstandigheden die al in beleid zijn verdisconteerd, kunnen bij concrete toepassing relevant zijn. In r.o. 11.3 acht de Afdeling de afweging van woonbelangen ontoereikend. R.o. 11.4 maakt duidelijk dat dit gebrek nog niet betekende dat sluiting geheel onmogelijk was. Er volgde een opdracht opnieuw op bezwaar te beslissen; de rechterlijke herroeping van het primaire besluit hield geen stand.
+
+Ondersteunde eenheden: artikelen 3:2, 3:4 en 4:84; ook bruikbaar voor het onderscheid tussen vernietiging en zelf voorzien bij artikel 8:72. De bestuurlijke maatregel en het destijds geldende sluitingsbeleid vormen de feitelijke context, geen universeel model voor iedere bevoegdheid.
+
+Tijd en grenzen: de geselecteerde Awb-tekst bevat nog de besproken normen van artikelen 3:4 en 4:84. De uitspraak beslist uitdrukkelijk niet het hele vraagstuk van gebonden bevoegdheden met een formeelwettelijke grondslag. Dit manuscript gebruikt haar niet als bewijs dat formele wetten steeds buiten toepassing kunnen worden gelaten. De sectorale Opiumwet en het beleid zijn niet afzonderlijk geactualiseerd. De aangehaalde conclusie en oudere uitspraken zijn niet zelfstandig als gelezen bronnen verwerkt.

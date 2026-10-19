@@ -1,0 +1,11 @@
+# ABRvS 4 mei 2021 — ECLI:NL:RVS:2021:953
+
+Zaaknummer: 202003081/1/R3. Officiële volledige tekst: [Rechtspraak](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2021:953). Vastgelegd en gelezen op 19 oktober 2026: [XML](../sources/cases/ECLI-NL-RVS-2021-953.xml), [leesafschrift](../sources/cases/ECLI-NL-RVS-2021-953.txt). De lokale nationale corpusversie is gelokaliseerd en de hash staat in [het corpuslog](../sources/cases/local-corpus-check.json).
+
+De zaak betreft een omgevingsvergunning voor een zonnepark. Sommige omwonenden waren door de rechtbank wegens onvoldoende belanghebbendheid niet-ontvankelijk verklaard; de vergunninghouder bepleitte niet-ontvankelijkheid van alle beroepen. Dat zijn partijposities, niet de conclusie van de Afdeling.
+
+In rechtsoverwegingen 4.5–4.8 oordeelt de Afdeling dat een niet-belanghebbende die op basis van een nationaal omgevingsrechtelijk inspraakrecht een zienswijze heeft ingediend, de toegang tot de rechter niet wegens het ontbreken van belanghebbendheid wordt onthouden. Zij betrekt ook verschoonbaar niet of te laat ingediende zienswijzen. Zij beperkt de gronden niet uitsluitend tot procedurele inspraakbezwaren. R.o. 4.9 houdt het relativiteitsvereiste afzonderlijk in beeld. In r.o. 4.10 past zij dit toe omdat iedere eiser een zienswijze had ingediend en het toen toepasselijke recht inspraak aan een ieder gaf. De betrokken beroepen waren ontvankelijk, maar werden uiteindelijk ongegrond verklaard.
+
+Ondersteunde eenheden: artikel 1:2, in samenhang met artikelen 3:15, 8:1 en 8:69a. De zaak maakt het onderscheid tussen toegang en inhoudelijk succes zichtbaar. Zij verandert niet voor alle Awb-procedures de definitie van belanghebbende.
+
+Begrenzing en tijd: de uitspraak past het toenmalige Wabo-regime toe. Die sectorspecifieke grondslag wordt hier niet als huidige vergunningenwet gepresenteerd. Voor toepassing op een huidige zaak moeten de concrete inspraakgrondslag, toepasselijk omgevingsrecht, overgangsrecht en latere rechtspraak worden nagegaan. De tekst van artikelen 1:2 en 8:1 in de voor dit manuscript geselecteerde consolidatie behoudt het in de uitspraak besproken uitgangspunt. Deze kaart bewijst geen uitputtende actualisering van de hele rechtspraaklijn. Andere in de uitspraak aangehaalde arresten zijn niet zelfstandig als gelezen autoriteit in dit manuscript opgenomen.

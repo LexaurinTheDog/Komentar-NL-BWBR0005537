@@ -1,0 +1,23 @@
+[
+  {
+    "ecli": "ECLI-NL-RVS-2021-953",
+    "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2021-953.md",
+    "local_sha256": "1fcad31ec6b258a211fae03da6cf3d1d59a722de9d215a84073f641ac005034d",
+    "official_xml": "sources/cases/ECLI-NL-RVS-2021-953.xml",
+    "plain_text_chars": 36276
+  },
+  {
+    "ecli": "ECLI-NL-RVS-2022-285",
+    "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2022-285.md",
+    "local_sha256": "f452233e6ecfe87d5399427d9550b92f11422f8f184f12309076dc50e2ec5931",
+    "official_xml": "sources/cases/ECLI-NL-RVS-2022-285.xml",
+    "plain_text_chars": 48641
+  },
+  {
+    "ecli": "ECLI-NL-CBB-2024-31",
+    "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/cbb/ecli-nl-cbb-2024-31.md",
+    "local_sha256": "442d56368b2f0d230b1f1b598eb6d80e9a5edae9d3be00efa817b00f3f0db5d6",
+    "official_xml": "sources/cases/ECLI-NL-CBB-2024-31.xml",
+    "plain_text_chars": 31650
+  }
+]

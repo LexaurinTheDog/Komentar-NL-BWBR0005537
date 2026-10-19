@@ -1,0 +1,31 @@
+{
+  "original_sha256": "2e0b3607dd19d61d4278587525d63709f9e6e3059cb7faed9b5bdfaf17433d3c",
+  "official_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+  "same_consolidation_date": true,
+  "intake_article_headings": 571,
+  "official_articles": 584,
+  "canonical_units": 586,
+  "omitted_from_intake": [
+    "bijlage-1",
+    "bijlage-2-art-1",
+    "bijlage-2-art-2",
+    "bijlage-2-art-3",
+    "bijlage-2-art-4",
+    "bijlage-2-art-5",
+    "bijlage-2-art-6",
+    "bijlage-2-art-7",
+    "bijlage-2-art-8",
+    "bijlage-2-art-9",
+    "bijlage-2-art-10",
+    "bijlage-2-art-11",
+    "bijlage-2-art-12",
+    "bijlage-3-art-1",
+    "bijlage-3-art-2"
+  ],
+  "corrections": [
+    "Bijlagen 1–3 ontbreken volledig in de intake; hersteld uit officiële XML.",
+    "Artikel 8:36c heeft twee voorwaardelijke toepassingsvarianten; de parser houdt de ledenreeksen uit elkaar.",
+    "Redactionele extra-noten en opmerkingen over inwerkingtreding staan buiten de wettekst."
+  ],
+  "main_article_wording_comparison": "Mechanische vergelijking van volledige hoofdartikelen volgt in _compare_intake.py; geen bewering dat datumgelijkheid tekstgelijkheid bewijst."
+}

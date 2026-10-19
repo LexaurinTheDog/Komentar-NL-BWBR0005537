@@ -1,0 +1,44 @@
+{
+  "scope": "Selectieve controle van drie richtinggevende uitspraken; geen uitputtende rechtspraakrecherche.",
+  "queries": [
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3ARVS%3A2022%3A285",
+      "accessed_at": "2026-10-19T16:43:45.721455+00:00",
+      "path": "sources/cases/ECLI-NL-RVS-2022-285.xml",
+      "ecli": "ECLI:NL:RVS:2022:285",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "valid_xml": true,
+      "root": "open-rechtspraak",
+      "has_full_judgment": true,
+      "sha256": "51539c998ee4b628a0e119ebfe6a12dc687efa50c9dd5a807bad806193cb8a17",
+      "bytes": 57775
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3ARVS%3A2021%3A953",
+      "accessed_at": "2026-10-19T16:43:46.185289+00:00",
+      "path": "sources/cases/ECLI-NL-RVS-2021-953.xml",
+      "ecli": "ECLI:NL:RVS:2021:953",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "valid_xml": true,
+      "root": "open-rechtspraak",
+      "has_full_judgment": true,
+      "sha256": "aa14a663993a5f38cc3939743060ea23ac1fb1e4573c4d9ef6240db7c254c770",
+      "bytes": 44640
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3ACBB%3A2024%3A31",
+      "accessed_at": "2026-10-19T16:43:46.384945+00:00",
+      "path": "sources/cases/ECLI-NL-CBB-2024-31.xml",
+      "ecli": "ECLI:NL:CBB:2024:31",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "valid_xml": true,
+      "root": "open-rechtspraak",
+      "has_full_judgment": true,
+      "sha256": "14c4220b00829f5103bd46e334a515fcbf8224524049b0c1eb275fd880e7ba2d",
+      "bytes": 45664
+    }
+  ]
+}
