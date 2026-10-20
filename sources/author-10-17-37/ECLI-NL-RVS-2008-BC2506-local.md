@@ -1,0 +1,129 @@
+---
+source: rechtspraak
+country: nl
+document_type: decision
+court: Raad van State
+ecli: ECLI:NL:RVS:2008:BC2506
+date: '2008-01-23'
+date_published: '2013-04-05'
+case_number:
+- 200700877/1
+procedure:
+- Eerste aanleg - meervoudig
+subject:
+- Bestuursrecht
+relations: null
+references:
+- Algemene wet bestuursrecht
+- Algemene wet bestuursrecht 10:35
+- Provinciewet
+- Provinciewet 261
+source_url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2008:BC2506
+download_url: https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2008:BC2506
+chars: 10616
+license: Public Domain Mark
+retrieved_at: '2026-10-05T14:49:51Z'
+---
+
+# ECLI:NL:RVS:2008:BC2506 – Raad van State, 2008-01-23
+
+- **Instantie:** Raad van State
+- **Datum:** 2008-01-23
+- **Zaaknummer:** 200700877/1
+- **Rechtsgebied:** Bestuursrecht
+
+## Inhoudsindicatie
+
+Bij koninklijk besluit van 12 december 2006 heeft de Kroon op voordracht van de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de staatssecretaris van Defensie en de minister van Binnenlandse Zaken en Koninkrijksrelaties (hierna: de Kroon) het besluit van provinciale staten van Limburg (hierna: provinciale staten) van 18 november 2005 tot wijziging van de Provinciale Milieuverordening Limburg (hierna: PML), vernietigd, voor zover het de wijziging van artikel 5.10 van de PML betreft.
+
+## Uitspraak
+
+200700877/1.
+
+Datum uitspraak: 23 januari 2008
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak in het geding tussen:
+
+het college van gedeputeerde staten van Limburg,
+
+appellant,
+
+en
+
+de Kroon op voordracht van de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de staatssecretaris van Defensie en de minister van Binnenlandse Zaken en Koninkrijksrelaties,
+
+verweerster.
+
+1. Procesverloop
+
+Bij koninklijk besluit van 12 december 2006 heeft de Kroon op voordracht van de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de staatssecretaris van Defensie en de minister van Binnenlandse Zaken en Koninkrijksrelaties (hierna: de Kroon) het besluit van provinciale staten van Limburg (hierna: provinciale staten) van 18 november 2005 tot wijziging van de Provinciale Milieuverordening Limburg (hierna: PML), vernietigd, voor zover het de wijziging van artikel 5.10 van de PML betreft.
+
+Tegen dit besluit heeft het college van gedeputeerde staten (hierna: het college) bij brief, bij de Raad van State ingekomen op 25 januari 2007, beroep ingesteld.
+
+De Kroon heeft een verweerschrift ingediend.
+
+Het college heeft nadere stukken ingediend.
+
+De Afdeling heeft de zaak ter zitting behandeld op 30 oktober 2007, waar het college, vertegenwoordigd door mr. B.P.M. van Ravels, advocaat te Breda, P.E.M. Franssen en P.E.M. Kuppers, ambtenaren in dienst van de provincie, en de Kroon, vertegenwoordigd door W.J.A. Vellekoop, ambtenaar in dienst van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, zijn verschenen.
+
+Voorts zijn als belanghebbenden gehoord de minister van Binnenlandse Zaken en Koninkrijksrelaties, vertegenwoordigd door R.J.M.H. de Greef en N.E.H.W. Zwart-Hendrikx, ambtenaren in dienst van het ministerie, en de staatssecretaris van Defensie, vertegenwoordigd door A.J. van Heusden en A.N. Lefferts, ambtenaren in dienst van het ministerie.
+
+Buiten bezwaren van partijen zijn ter zitting nog stukken in het geding gebracht.
+
+2. Overwegingen
+
+2.1. Ingevolge artikel 261 van de Provinciewet kan, voor zover hier van belang, een besluit van het provinciebestuur bij koninklijk besluit worden vernietigd.
+
+Ingevolge artikel 10:35 van de Algemene wet bestuursrecht kan vernietiging alleen geschieden wegens strijd met het recht of het algemeen belang.
+
+Ingevolge artikel 5.10 (oud) van de PML is het verboden airgun- en andere knalapparatuur en motorisch aangedreven werktuigen te bezigen in het kader van opsporingsonderzoeken naar of ontginning van de in de bodem aanwezige stoffen.
+
+Ingevolge artikel 5.10 (nieuw) van de PML is het verboden airgun- en andere knalapparatuur en motorisch aangedreven werktuigen te bezigen.
+
+Ingevolge het ongewijzigde artikel 5.14 van de PML kan van het verbod in artikel 5.10 ontheffing worden verleend. Wanneer het stiltegebied is gelegen binnen het grondgebied van een gemeente beslissen ingevolge het tweede lid burgemeester en wethouders van die gemeente over de ontheffingverlening.
+
+2.2. Voorafgaand aan het koninklijk besluit en het daarbij vernietigde besluit van provinciale staten van 18 november 2005 tot wijziging van de PML (hierna: het PML-besluit) heeft de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer bij besluit van 3 augustus 2005 met toepassing van artikel 40 van de Wet op de Ruimtelijke Ordening (hierna: WRO) vrijstelling verleend van de bepalingen van de bestemmingsplannen "Schinveld-Oost" en "Buitengebied". Reden van deze vrijstelling was om in een deel van de Schinveldse bossen bomen te kunnen kappen en een hakhoutbeheersplan uit te kunnen voeren in verband met de aanleg en instandhouding van een met de NAVO-vliegveiligheidsvoorschriften overeenstemmende obstakelvrije vliegfunnel ten westen van de start- en landingsbaan van de NAVO-vliegbasis Geilenkirchen.
+
+2.3. Het college betoogt dat de Kroon ten onrechte strijd met het recht en het algemeen belang heeft aangenomen als bedoeld in artikel 10:35 van de Algemene wet bestuursrecht. Het voert daartoe aan dat het feit dat op grond van artikel 40 van de WRO vrijstelling van bestemmingsplannen is verleend, niet betekent dat provinciale staten hun bevoegdheid tot het wijzigen van de PML niet mogen uitoefenen. Strijd met doel en strekking van de artikelen 40 en volgende van de WRO is niet op een lijn te stellen met strijd met het recht. Voorts is het belang dat artikel 40 van de WRO beoogt te dienen niet een belang ter bescherming van het milieu, terwijl een verordening als bedoeld in artikel 1.2 van de Wet milieubeheer dat wel is. Daarnaast gaat het niet om een absoluut verbod maar om een verbod behoudens ontheffing. De vrees voor onjuiste toepassing van de PML bij de realisering van één project in één van de 31 Limburgse stiltegebieden binnen één bepaalde periode, kan niet leiden tot de conclusie dat het gewijzigde artikel 5.10 van de PML zelf in strijd is met het recht of het algemeen belang.
+
+2.3.1. De Kroon heeft uiteengezet dat zij het PML-besluit, voor zover het de wijziging van artikel 5.10 van de PML betreft, wegens strijd met de wet heeft vernietigd omdat het besluit tot een onaanvaardbare doorkruising en uitholling van doel en strekking van artikel 40 van de WRO leidt. Bovendien bemoeilijkt en vertraagt het PML-besluit de in algemeen belang noodzakelijk geachte werkzaamheden ten behoeve van het veilig gebruik van de NAVO-vliegbasis Geilenkirchen conform internationale afspraken in NAVO-verband. Door de uitoefening van de bevoegdheid van provinciale staten om de PML te wijzigen wordt het rijksbeleid doorkruist. Derhalve is er volgens de Kroon ook sprake van strijd met het algemeen belang.
+
+2.3.2. De Afdeling overweegt als volgt. Het PML-besluit strekt tot wijziging van artikel 5.10 van de PML waardoor het, behoudens van provincie- dan wel gemeentewege te verlenen ontheffing als bedoeld in artikel 5.14 van de PML, verboden is om airgun- en andere knalapparatuur en motorisch aangedreven werktuigen te bezigen. Vóór de wijziging zag het verbod alleen op het bezigen van genoemde apparatuur en werktuigen in het kader van opsporingsonderzoeken naar of ontginning van de in de bodem aanwezige stoffen.
+
+Niet in geschil is dat provinciale staten tot het nemen van het PML-besluit bevoegd waren en dat het regels bevat inzake het voorkomen of beperken van geluidhinder. Reeds omdat het besluit van 3 augustus 2005 van de minister van Volkshuisvesting, Ruimtelijk Ordening en Milieubeheer een vrijstelling van bestemmingsplannen betreft en het PML-besluit daarentegen ziet op het voorkomen of beperken van geluidhinder, kan er geen sprake van zijn dat het PML-besluit is genomen in strijd met het besluit inzake de verleende vrijstelling. Naar het oordeel van de Afdeling is het besluit om deze reden dan ook niet in strijd met de wet. Strijd met de wet is er ook niet in gelegen dat het gebruik maken van de bevoegdheid om regels te stellen inzake het voorkomen of beperken van geluidhinder in 31 stiltegebieden in Limburg een doorkruising zou zijn van doel en strekking van artikel 40 en volgende van de WRO. De Kroon is alleen dan bevoegd om wegens strijd met de wet een besluit van een lager bestuursorgaan te vernietigen indien dat besluit rechtstreeks in strijd is met de wet. Dat de gewijzigde bepaling in de PML tot gevolg heeft dat voor het motorisch zagen van bomen in de Schinveldse bossen een ontheffing is vereist en derhalve een obstakel kan vormen dat de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer door het verlenen van de vrijstelling op grond van artikel 40 van de WRO had willen voorkomen, maakt niet dat van strijd met de wet sprake is.
+
+Aangezien ook niet is gebleken dat het vernietigde besluit in strijd is met enig algemeen rechtsbeginsel was de Kroon niet bevoegd om wegens strijd met het recht tot vernietiging van dat besluit over te gaan.
+
+Wat betreft de door de Kroon aanwezig geachte strijd met het algemeen belang overweegt de Afdeling dat de Kroon het naleven van internationale afspraken in NAVO-verband ten behoeve van het veilig gebruik van de NAVO-vliegbasis Geilenkirchen door de Nederlandse regering als een algemeen belang heeft kunnen aanmerken. Het dienen van dit algemeen belang wordt door het feit dat voor het motorisch omzagen van bomen in de Schinveldse bossen ten gevolge van de gewijzigde bepaling in de PML een ontheffing is vereist, echter niet onmogelijk gemaakt. Derhalve is van strijd met het algemeen belang geen sprake zodat de Kroon niet bevoegd was om op die grond tot vernietiging van het PML-besluit over te gaan.
+
+2.4. Het beroep is gegrond. Het bestreden besluit komt wegens strijd met het bepaalde in artikel 10:35 van de Algemene wet bestuursrecht voor vernietiging in aanmerking. De overige gronden behoeven geen bespreking meer.
+
+2.5. De Kroon dient op na te melden wijze in de proceskosten te worden veroordeeld.
+
+3. Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State
+
+Recht doende in naam der Koningin:
+
+I. verklaart het beroep gegrond;
+
+II. vernietigt het besluit van de Kroon op voordracht van de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de staatssecretaris van Defensie en de minister van Binnenlandse Zaken en Koninkrijksrelaties van 12 december 2006, kenmerk 06.004556;
+
+III. veroordeelt de Kroon op voordracht van de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de staatssecretaris van Defensie en de minister van Binnenlandse Zaken en Koninkrijksrelaties tot vergoeding van bij het college van gedeputeerde staten van Limburg in verband met de behandeling van het beroep opgekomen proceskosten tot een bedrag van € 644,00 (zegge: zeshonderdvierenveertig euro), geheel toe te rekenen aan door een derde beroepsmatig verleende rechtsbijstand; het dient door de Staat der Nederlanden (het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer) aan het college van gedeputeerde staten van Limburg onder vermelding van het zaaknummer te worden betaald;
+
+IV. gelast dat de Staat der Nederlanden (het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer) aan het college van gedeputeerde staten van Limburg het door dat college voor de behandeling van het beroep betaalde griffierecht ten bedrage van € 281,00 (zegge: tweehonderdeenentachtig euro) vergoedt.
+
+Aldus vastgesteld door mr. W.C.E. Hammerstein-Schoonderwoerd, voorzitter, en drs. H. Borstlap en mr. W. Sorgdrager, leden, in tegenwoordigheid van mr. C. Sparreboom, ambtenaar van Staat.
+
+w.g. Hammerstein-Schoonderwoerd w.g. Sparreboom
+
+voorzitter ambtenaar van Staat
+
+Uitgesproken in het openbaar op 23 januari 2008
+
+43-537.

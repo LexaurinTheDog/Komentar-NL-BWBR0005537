@@ -1,0 +1,155 @@
+{
+  "independent_review": false,
+  "units": [
+    {
+      "id": "art-10:17",
+      "chars": 1482,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:18",
+      "chars": 1513,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:19",
+      "chars": 1493,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:20",
+      "chars": 1563,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:21",
+      "chars": 2103,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:22",
+      "chars": 1641,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:23",
+      "chars": 1573,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:25",
+      "chars": 1489,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:26",
+      "chars": 1504,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:27",
+      "chars": 1513,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:28",
+      "chars": 1591,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:29",
+      "chars": 1504,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:30",
+      "chars": 1507,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:31",
+      "chars": 1844,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:32",
+      "chars": 2037,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:33",
+      "chars": 1473,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:34",
+      "chars": 1423,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:35",
+      "chars": 1954,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:36",
+      "chars": 1423,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:37",
+      "chars": 1629,
+      "source_read": true,
+      "fictional_example": true
+    }
+  ],
+  "all_prior_commentaries_preserved": true,
+  "prior_count": 540,
+  "high_similarity_pairs": [],
+  "checks": [
+    "10:17 exclusion of concurrent competence contrasted with mandate",
+    "10:18 withdrawal of delegation distinguished from withdrawal of individual decisions",
+    "10:19 delegation reference distinguished from acting in name of delegans",
+    "10:20 all three paragraphs and exception for 10:16",
+    "10:21 nondecision acts, responsibility and qualified reference requirement",
+    "10:22 statutory attribution, instructions, information and no assumed substitution",
+    "10:23 statutory source versus internal authorization",
+    "10:25 approval before effectiveness versus permission before adoption",
+    "10:26 by or pursuant to statute",
+    "10:27 limited grounds distinguished from 10:35",
+    "10:28 both judicial categories and supporting grounds",
+    "10:29 severability and three prohibitions",
+    "10:30 prior opportunity, no consensus requirement and reasoning",
+    "10:31 dispatch, notification, alternative single deferrals, positive fiction",
+    "10:32 prior consent and special adoption deadline",
+    "10:33 administrative appeal and judicial annulment excluded",
+    "10:34 formal statute, no automatic power",
+    "10:35 both grounds, full case text and historical-law limit",
+    "10:36 severability distinguished from retention of legal effects",
+    "10:37 judicial grounds, not all future supervision excluded"
+  ],
+  "unresolved_blockers": [],
+  "limitations": [
+    "Author check, not independent review.",
+    "Length and similarity checks do not establish legal quality."
+  ]
+}

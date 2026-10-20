@@ -1,0 +1,27 @@
+{
+  "bounded_author_technical_ok": true,
+  "assigned_units": 20,
+  "preserved_prior_commentaries": 540,
+  "commented_book_units": 560,
+  "remaining_unwritten": 28,
+  "strict_validator": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1082057,
+    "errors": [
+      "krátký/chybějící komentář u 28 jednotek: ['art-10:38(0<400)', 'art-10:39(0<400)', 'art-10:40(0<120)', 'art-10:41(0<400)', 'art-10:42(0<400)', 'art-10:43(0<120)', 'art-10:44(0<400)', 'art-10:45(0<400)']",
+      "necommitnuté změny v repu"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "shared_builder": {
+    "exit_code": 1,
+    "stderr": "CHYBÍ komentář k 28 jednotkám, např.: ['art-10:38', 'art-10:39', 'art-10:40', 'art-10:41', 'art-10:42', 'art-10:43', 'art-10:44', 'art-10:45', 'art-11:1', 'art-11:2']\n"
+  },
+  "build_method": "Shared builder invoked; refuses missing out-of-scope commentary. Only affected chapters rendered with unchanged shared load_units/load_commentary/quote functions.",
+  "source_text_agreement": 1.0,
+  "whole_book_complete": false,
+  "independent_review": false
+}

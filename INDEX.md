@@ -39,3 +39,6 @@
 
 
 [Auteurscheckpoint 9:34–10:16](batch-9-34-10-16-result.json): twintig nieuwe toelichtingen; boek onvoltooid.
+
+
+[Auteurscheckpoint 10:17–10:37](batch-10-17-37-result.json): twintig nieuwe toelichtingen; boek onvoltooid.

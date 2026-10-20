@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-21",
+  "web_queries": [
+    "site.raadvanstate.nl \"10:35\" \"algemeen belang\" vernietiging",
+    "site.raadvanstate.nl \"10:17\" delegatie"
+  ],
+  "local_corpus_root": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak",
+  "selected": "ECLI:NL:RVS:2008:BC2506",
+  "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2008-bc2506.md",
+  "local_sha256": "a97909b047f9d2c48f297c5ae79fe37fb46675c4fc5526e6911745aec475586f",
+  "local_full_text_equals_official": true,
+  "primary_full_text_read": true,
+  "supported_units": [
+    "art-10:35"
+  ],
+  "selected_paragraphs": [
+    "2.1",
+    "2.3.1 (party position only)",
+    "2.3.2 (holding)",
+    "2.4",
+    "dictum"
+  ],
+  "other_assigned_units": "Geen afzonderlijke voldoende relevante geverifieerde uitspraak geselecteerd; analyse op grond van de wet.",
+  "limitations": [
+    "Selective research; no exhaustive subsequent-treatment check.",
+    "Historical WRO and provincial environmental provisions not treated as current law."
+  ]
+}

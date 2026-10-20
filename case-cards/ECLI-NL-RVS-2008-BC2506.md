@@ -1,0 +1,11 @@
+# ABRvS 23 januari 2008 — ECLI:NL:RVS:2008:BC2506
+
+Zaaknummer 200700877/1; Afdeling bestuursrechtspraak van de Raad van State. Ondersteunt uitsluitend de hier toegelichte toepassing van artikel 10:35. [Officiële uitspraak](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2008:BC2506), [volledige officiële XML](../sources/author-10-17-37/ECLI-NL-RVS-2008-BC2506.xml), [leesafschrift](../sources/author-10-17-37/ECLI-NL-RVS-2008-BC2506.txt), [HTTP en hash](../sources/author-10-17-37/verification.json).
+
+De Kroon had een wijziging van de Provinciale Milieuverordening Limburg gedeeltelijk vernietigd. De wijziging bracht motorisch bomenzagen onder een verbod met ontheffingsmogelijkheid. Volgens de Kroon doorkruiste dit een eerder verleende ruimtelijke vrijstelling en het nationale belang van veilig gebruik van de NAVO-vliegbasis Geilenkirchen. Dit zijn de stellingen van de Kroon in 2.3.1, niet de conclusie van de rechter.
+
+In 2.3.2 onderscheidt de Afdeling de ruimtelijke vrijstelling van de provinciale geluidregels. De laatste waren niet rechtstreeks strijdig met de wet; evenmin bleek strijd met algemene rechtsbeginselen. De regering mocht naleving van internationale NAVO-afspraken voor veilig gebruik van de vliegbasis als algemeen belang aanmerken. Maar het ontheffingsvereiste maakte het dienen daarvan niet onmogelijk. Daarom droeg ook die grond de vernietiging niet. Onder 2.4 en in het dictum wordt het beroep gegrond verklaard en het koninklijk besluit vernietigd.
+
+De uitspraak ondersteunt dat het gewicht van een nationaal belang niet zonder beoordeling van het werkelijke effect van het onder toezicht gestelde besluit tot vernietiging leidt. Zij sluit vernietiging wegens nationale belangen niet algemeen uit en stelt niet vast dat ieder ontheffingsvereiste altijd verenigbaar met ieder algemeen belang is. De oude WRO, provinciale milieuregeling en de toenmalige specifieke vernietigingsgrondslag dienen uitsluitend als historische context. Zij worden niet gebruikt als bewijs van huidig ruimtelijk of provinciaal recht. De formulering van 10:35 is tegen de huidige bron gecontroleerd.
+
+Volledige primaire tekst en nationale corpuskopie gelezen voor deze auteursbatch. Geen uitputtend onderzoek van latere behandeling of onafhankelijke tweede beoordeling.

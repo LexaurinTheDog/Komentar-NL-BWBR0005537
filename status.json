@@ -1,6 +1,6 @@
 {
-  "stage": "reviewing_incomplete",
-  "updated_at": "2026-10-20T22:41:17.843945+00:00",
+  "stage": "authoring_incomplete",
+  "updated_at": "2026-10-20T22:47:09.641608+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -17,12 +17,12 @@
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
     "review_verified_at": "2026-10-20T22:03:45.864689+00:00",
     "review_evidence": "sources/review-023/verification.json",
-    "author_batch_verified_at": "2026-10-20T22:38:46.815526+00:00",
-    "author_batch_evidence": "sources/author-9-34-10-16/verification.json"
+    "author_batch_verified_at": "2026-10-20T22:47:09.641608+00:00",
+    "author_batch_evidence": "sources/author-10-17-37/verification.json"
   },
   "official_articles": 584,
   "total_units": 588,
-  "completed_units": 540,
+  "completed_units": 560,
   "completed_ids": [
     "aanhef",
     "art-1:1",
@@ -563,9 +563,7 @@
     "art-10:13",
     "art-10:14",
     "art-10:15",
-    "art-10:16"
-  ],
-  "missing_commentary_ids": [
+    "art-10:16",
     "art-10:17",
     "art-10:18",
     "art-10:19",
@@ -585,7 +583,9 @@
     "art-10:34",
     "art-10:35",
     "art-10:36",
-    "art-10:37",
+    "art-10:37"
+  ],
+  "missing_commentary_ids": [
     "art-10:38",
     "art-10:39",
     "art-10:40",
@@ -800,17 +800,18 @@
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 1049580,
+      "commentary_chars": 1082057,
       "errors": [
-        "krátký/chybějící komentář u 48 jednotek: ['art-10:17(0<120)', 'art-10:18(0<120)', 'art-10:19(0<120)', 'art-10:20(0<400)', 'art-10:21(0<400)', 'art-10:22(0<400)', 'art-10:23(0<400)', 'art-10:25(0<400)']"
+        "krátký/chybějící komentář u 28 jednotek: ['art-10:38(0<400)', 'art-10:39(0<400)', 'art-10:40(0<120)', 'art-10:41(0<400)', 'art-10:42(0<400)', 'art-10:43(0<120)', 'art-10:44(0<400)', 'art-10:45(0<400)']",
+        "necommitnuté změny v repu"
       ],
       "warnings": [],
       "ok": false
     },
-    "evidence": "batch-9-34-10-16-validation.json"
+    "evidence": "batch-10-17-37-validation.json"
   },
   "remaining_limitations": [
-    "48 eenheden buiten deze batch nog ongeschreven.",
+    "28 eenheden buiten deze batch nog ongeschreven.",
     "Deze twintig toelichtingen wachten op onafhankelijke tweede beoordeling.",
     "Selectieve rechtspraak; geen uitputtende dekking of volledige controle van latere behandeling.",
     "Technische validatie bewijst geen juridische kwaliteit."
@@ -844,38 +845,38 @@
     "complete": true,
     "kind": "bounded_author",
     "authored_ids": [
-      "art-9:34",
-      "art-9:35",
-      "art-9:36",
-      "art-9:36a",
-      "art-10:1",
-      "art-10:2",
-      "art-10:3",
-      "art-10:4",
-      "art-10:5",
-      "art-10:6",
-      "art-10:7",
-      "art-10:8",
-      "art-10:9",
-      "art-10:10",
-      "art-10:11",
-      "art-10:12",
-      "art-10:13",
-      "art-10:14",
-      "art-10:15",
-      "art-10:16"
+      "art-10:17",
+      "art-10:18",
+      "art-10:19",
+      "art-10:20",
+      "art-10:21",
+      "art-10:22",
+      "art-10:23",
+      "art-10:25",
+      "art-10:26",
+      "art-10:27",
+      "art-10:28",
+      "art-10:29",
+      "art-10:30",
+      "art-10:31",
+      "art-10:32",
+      "art-10:33",
+      "art-10:34",
+      "art-10:35",
+      "art-10:36",
+      "art-10:37"
     ],
     "completed_units": 20,
     "total_assigned": 20,
-    "written_book_units": 540,
+    "written_book_units": 560,
     "total_book_units": 588,
     "whole_book_complete": false,
     "independent_review": false,
-    "source_preflight": "sources/author-9-34-10-16/preflight-result.json",
-    "validation": "batch-9-34-10-16-validation.json",
+    "source_preflight": "sources/author-10-17-37/preflight-result.json",
+    "validation": "batch-10-17-37-validation.json",
     "unresolved_blockers": [],
     "limitations": [
-      "48 eenheden buiten deze batch nog ongeschreven.",
+      "28 eenheden buiten deze batch nog ongeschreven.",
       "Deze twintig toelichtingen wachten op onafhankelijke tweede beoordeling.",
       "Selectieve rechtspraak; geen uitputtende dekking of volledige controle van latere behandeling.",
       "Technische validatie bewijst geen juridische kwaliteit."
