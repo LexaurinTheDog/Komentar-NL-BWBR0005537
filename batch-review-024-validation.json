@@ -33,8 +33,7 @@
     "verbatim_ratio": 1.0,
     "commentary_chars": 957733,
     "errors": [
-      "krátký/chybějící komentář u 108 jednotek: ['art-8:114(0<400)', 'art-8:115(0<400)', 'art-8:116(0<400)', 'art-8:117(0<120)', 'art-8:118(0<400)', 'art-8:119(0<400)', 'art-9:1(0<400)', 'art-9:2(0<400)']",
-      "necommitnuté změny v repu"
+      "krátký/chybějící komentář u 108 jednotek: ['art-8:114(0<400)', 'art-8:115(0<400)', 'art-8:116(0<400)', 'art-8:117(0<120)', 'art-8:118(0<400)', 'art-8:119(0<400)', 'art-9:1(0<400)', 'art-9:2(0<400)']"
     ],
     "warnings": [],
     "ok": false
@@ -43,5 +42,7 @@
     "exit_code": 1,
     "stderr": "CHYBÍ komentář k 108 jednotkám, např.: ['art-8:114', 'art-8:115', 'art-8:116', 'art-8:117', 'art-8:118', 'art-8:119', 'art-9:1', 'art-9:2', 'art-9:3', 'art-9:4']\n"
   },
-  "build_method": "Shared builder refuses108 missing out-of-scope commentaries; affected chapter rendered using unchanged shared load_units/load_commentary/quote primitives."
+  "build_method": "Shared builder refuses108 missing out-of-scope commentaries; affected chapter rendered using unchanged shared load_units/load_commentary/quote primitives.",
+  "strict_validator_exit_code": 1,
+  "strict_validation_limit": "Only108 unassigned missing commentaries; no assigned-unit validation errors."
 }
