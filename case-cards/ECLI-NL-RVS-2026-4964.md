@@ -1,0 +1,9 @@
+# ABRvS 21 augustus 2026 — ECLI:NL:RVS:2026:4964
+
+Zaak 202600940/1/R4; vereenvoudigde behandeling. [Officiële volledige uitspraak](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:4964), op 20 oktober 2026 geheel gelezen: [XML](../sources/review-003/case-4964.xml), [leesafschrift](../sources/review-003/case-4964.txt), [verificatie](../sources/review-003/additional-verification.json). De [lokale versie en vergelijking](../sources/review-003/local-official-case-comparison.json) blijven afzonderlijk traceerbaar.
+
+De aanvrager verzocht in juli 2025 om wijziging van de functie van een perceel in het omgevingsplan. Volgens de gemeenteraad was de ingebrekestelling van januari 2026 prematuur, omdat de zesmaandentermijn van artikel 3:18 nog liep. Dat is het verweer van de raad, niet het oordeel van de Afdeling.
+
+R.o. 3.2 past de op dezelfde dag in [ECLI:NL:RVS:2026:4905](ECLI-NL-RVS-2026-4905.md) uitgewerkte regel toe: binnen veertien weken een definitief besluit of terinzagelegging van een ontwerp. Geen van beide was gebeurd. Daarom was de raad bij ontvangst van de ingebrekestelling al in gebreke en was het beroep ontvankelijk. R.o. 4 en het dictum verklaren het beroep kennelijk gegrond en vernietigen het niet tijdig beslissen. De raad moet uiterlijk op 13 november 2026 besluiten en bekendmaken, met een rechterlijke dwangsom bij overschrijding.
+
+Ondersteunt uitsluitend de afbakening bij artikel 3:18 en de samenhang met artikel 3:10. Geen veertienwekenregel voor alle sectoren. In r.o. 5 staat 'college', terwijl procespartijen en dictum de raad aanwijzen; deze kaart volgt het dictum voor de veroordeelde instantie. De precieze ontvangst- en termijnfeiten van andere aanvragen moeten zelfstandig worden vastgesteld. De zaak betreft de Omgevingswet; de relevante huidige bepalingen zijn [afzonderlijk gecontroleerd](../sources/review-003/omgevingswet-crossrefs.json). Geen onderzoek van mogelijke verzetprocedures of volledige vervolgline.

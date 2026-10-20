@@ -1,0 +1,310 @@
+{
+  "kind": "review",
+  "complete": true,
+  "scope": "Exactly twenty assigned units; no whole-book completion. Previous batch preserved separately.",
+  "reviewed_at": "2026-10-20T14:13:16.071825+00:00",
+  "decisive_date": "2026-10-19",
+  "selected_effective_version": "2026-08-15_0",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "art-2:11",
+    "art-2:12",
+    "art-2:13",
+    "art-2:14",
+    "art-2:15",
+    "art-2:16",
+    "art-2:17",
+    "art-2:18",
+    "art-2:19",
+    "art-2:20",
+    "art-2:21",
+    "art-2:22",
+    "art-2:23",
+    "art-2:24",
+    "art-2:25",
+    "art-2:26",
+    "art-2:27",
+    "art-3:1",
+    "art-3:2",
+    "art-3:3"
+  ],
+  "changed_commentary_ids": [
+    "art-2:11",
+    "art-2:12",
+    "art-2:13",
+    "art-2:14",
+    "art-2:15",
+    "art-2:16",
+    "art-2:17",
+    "art-2:18",
+    "art-2:19",
+    "art-2:21",
+    "art-2:22",
+    "art-2:23",
+    "art-2:25",
+    "art-2:26",
+    "art-2:27",
+    "art-3:2"
+  ],
+  "unchanged_commentary_ids": [
+    "art-2:20",
+    "art-2:24",
+    "art-3:1",
+    "art-3:3"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "unit_id": "art-2:11",
+      "disposition": "corrected",
+      "finding_and_resolution": "Alle drie leden gelezen: herverzending van bericht, inspanning bij mislukte notificatie en tweede verzendmoment onderscheiden. Invoering en behoud van de vroegere afdeling in de vier overgangscategorieën expliciet afgebakend voor de vervolgartikelen.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.2/Artikel2:11",
+      "source_evidence": "sources/review-002/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:12",
+      "disposition": "corrected",
+      "finding_and_resolution": "Nieuwe mededeling onderscheiden van stille bestandsvervanging en materiële wijzigingsbevoegdheid. Zuivere toelichting versus nieuwe beslissing en afzonderlijke verzendgegevens verduidelijkt.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.2/Artikel2:12",
+      "source_evidence": "sources/review-002/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:13",
+      "disposition": "corrected",
+      "finding_and_resolution": "Alle vier leden en berichtcategorieën gecontroleerd. De daadwerkelijke Tijdelijke regeling BWBR0051634 toegevoegd met specifieke dienst- en berichttabellen, geldingsperiode en onderscheid van het fiscale overgangsrecht.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.3/Artikel2:13",
+      "source_evidence": "sources/review-002/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:14",
+      "disposition": "corrected",
+      "finding_and_resolution": "Reële fout gecorrigeerd: de verlenging uit 2:23 geldt niet voor berichten die werkelijk buiten 2:13 vallen. Verkeerd geadresseerd formeel bezwaar niet zonder onderzoek als ongeldig behandeld.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.3/Artikel2:14",
+      "source_evidence": "sources/review-002/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:15",
+      "disposition": "corrected",
+      "finding_and_resolution": "Beide weigeringsgronden en spoedige mededeling gecontroleerd. Concrete herstelwaarborgen van 4:5, eerste lid, onder b, en 6:6, onder b, toegevoegd; weigering en eindbeslissing gescheiden.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.3/Artikel2:15",
+      "source_evidence": "sources/review-002/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:16",
+      "disposition": "corrected",
+      "finding_and_resolution": "Drie uitzonderingen in lid 1, de afzonderlijke grens van lid 2 en de beperkte koppeling aan 4:5, vijfde lid, uitgewerkt. Geen onvoorwaardelijke verwerking van stukken via willekeurige kanalen aangenomen.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.3/Artikel2:16",
+      "source_evidence": "sources/review-002/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:17",
+      "disposition": "corrected",
+      "finding_and_resolution": "Ontvangstbevestiging en afschrift van rechtstreekse invoer apart getoetst. Uitzonderingen van lid 1 niet doorgetrokken naar de zelfstandige plicht van lid 2.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.3/Artikel2:17",
+      "source_evidence": "sources/review-002/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:18",
+      "disposition": "corrected",
+      "finding_and_resolution": "Functionele betrouwbaarheid, noodzakelijkheid, wettelijke vorm en de drie expliciet genoemde EU-categorieën gecontroleerd. Verbod van aanvullende eisen bij geavanceerde en gekwalificeerde handtekeningen concreet benoemd; fictief voorbeeld toegevoegd.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.3/Artikel2:18",
+      "source_evidence": "sources/review-002/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:19",
+      "disposition": "corrected",
+      "finding_and_resolution": "Drie afzonderlijke verzendmomenten en verhouding tot 2:11 gelezen. Onderdeel c beperkt tot de wettelijke Wdo-voorziening met andere voorziening; geen gelijkstelling met twee willekeurige portalen.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.4/Artikel2:19",
+      "source_evidence": "sources/review-002/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:20",
+      "disposition": "retained_after_review",
+      "finding_and_resolution": "Systeemontvangst, elektronisch toegankelijk worden en later openen onderscheiden. Verwijzingen naar 2:16, 2:17, 2:24 en 2:25 gecontroleerd; de feitelijke ontvangst wordt niet achteraf door interne werkverdeling verschoven. Behouden.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.4/Artikel2:20",
+      "source_evidence": "sources/review-002/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:21",
+      "disposition": "corrected",
+      "finding_and_resolution": "Alle vier leden gecontroleerd: facultatieve verlenging, kenbare mededeling, individuele bescherming met minimum en delegatie. Specifieke waarborg naast 6:11 verduidelijkt, zonder automatische algemene verlenging te veronderstellen.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.5/Artikel2:21",
+      "source_evidence": "sources/review-002/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:22",
+      "disposition": "corrected",
+      "finding_and_resolution": "Niet-verzending, afzien van notificatie en verschoonbare niet-ontvangst onderscheiden. Volledig gelezen uitspraak 2026:4746 toegevoegd uitsluitend voor de regimekeuze; het oordeel over een verzending in 2023 niet als uitleg van het nieuwe artikel gebruikt.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.5/Artikel2:22",
+      "source_evidence": "sources/review-002/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:23",
+      "disposition": "corrected",
+      "finding_and_resolution": "Redelijke kanaalkeuze, ontvangstmoment, reactiemoment en minimum van één werkdag gelezen. Geen nieuwe volledige oorspronkelijke termijn aangenomen; interne kanaalfout onderscheiden van doorzending volgens 6:15.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.5/Artikel2:23",
+      "source_evidence": "sources/review-002/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:24",
+      "disposition": "retained_after_review",
+      "finding_and_resolution": "Voorwaarde 2:16, eerste lid, onder a, wettelijke behandeltermijn, interne doorgeleiding en onverwijlde dubbele mededeling gecontroleerd. Fictieve aanvraag ondersteunt het onderscheid met ontvangst en indieningstermijn. Behouden.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.5/Artikel2:24",
+      "source_evidence": "sources/review-002/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:25",
+      "disposition": "corrected",
+      "finding_and_resolution": "Drie bewijsobjecten en afschrift voor afzender of geadresseerde gecontroleerd. Plaatsing, toegankelijkheid, kennisgeving en kennisneming niet vereenzelvigd; toegevoegde uitleg begrenst de gevolgtrekking uit een plaatsingslog.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.6/Artikel2:25",
+      "source_evidence": "sources/review-002/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:26",
+      "disposition": "corrected",
+      "finding_and_resolution": "Noodzaak wegens techniek, gelijkwaardig alternatief, vier precisie-eisen, voorhang en evaluatie gelezen. Vage evaluatieomschrijving vervangen door exacte minimumtermijn van twaalf maanden, verslag aan Staten-Generaal en standpunt over voortzetting.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.7/Artikel2:26",
+      "source_evidence": "sources/review-002/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:27",
+      "disposition": "corrected",
+      "finding_and_resolution": "Delegatie voor bewaren en vernietigen onderscheiden van een reeds bepaalde termijn. Wdo-verwijzing op officiële tekst gecontroleerd en bereik beperkt tot de genoemde voorziening; checklist behouden.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.8/Artikel2:27",
+      "source_evidence": "sources/review-002/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-3:1",
+      "disposition": "retained_after_review",
+      "finding_and_resolution": "Beide leden en alle betrokken afdelingen gecontroleerd: begrensde toepassing van 3.2 en uitsluiting van 3.6–3.7 bij algemeen verbindende voorschriften; overeenkomstige toepassing van 3.2–3.4 op andere handelingen. Geen beroepsrecht uit die overeenkomstige toepassing afgeleid. Behouden.",
+      "source_official_path": "/Hoofdstuk3/Afdeling3.1/Artikel3:1",
+      "source_evidence": "sources/review-002/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-3:2",
+      "disposition": "corrected",
+      "finding_and_resolution": "Onderzoek naar feiten én belangen en relaties tot 3:9, 3:4 en 3:46 gecontroleerd. Harderwijk geheel herlezen; r.o. 11.3, 11.4 en 13 preciezer toegeschreven en actueel onderzoek onderscheiden van definitief vervallen van sluitingsbevoegdheid. Expliciet fictief voorbeeld toegevoegd.",
+      "source_official_path": "/Hoofdstuk3/Afdeling3.2/Artikel3:2",
+      "source_evidence": "sources/review-002/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-3:3",
+      "disposition": "retained_after_review",
+      "finding_and_resolution": "Doelbinding en te onderscheiden evenredigheidstoets gecontroleerd. Fictieve vergunningweigering gebruikt een verondersteld werkelijk oneigenlijk doel, zonder uit onvrede over het resultaat doelmisbruik af te leiden. Behouden.",
+      "source_official_path": "/Hoofdstuk3/Afdeling3.2/Artikel3:3",
+      "source_evidence": "sources/review-002/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    }
+  ],
+  "review_method": {
+    "fresh_process_second_pass": true,
+    "every_assigned_unit_read_against_official_source": true,
+    "checks_performed": [
+      "Purpose, operative elements, consequences, paragraph and letter distinctions",
+      "Scope, transitional law, commencement and temporary exceptions",
+      "Internal cross-references in full official XML; relevant external references in official texts",
+      "Actual full decision texts, courts holding versus allegations, old-law limits",
+      "Specific examples, coverage, repetition and factual overclaim"
+    ],
+    "external_professional_approval": false
+  },
+  "source_preflight": "preflight-result.json",
+  "technical_evidence": "review-technical.json",
+  "case_law_sources": [
+    {
+      "ecli": "ECLI:NL:RVS:2026:4746",
+      "full_text_read": true,
+      "official_snapshot": "sources/review-002/case-4746.xml",
+      "official_sha256": "b24af9ec0b6bafd4273fd50d9c2601bc858b5b55ad8ee3dc3a6580e4a4c3c5f2",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-4746.md",
+      "local_sha256": "2a579300d183da3408750c5cebaee64f2edc5cf93a58c828b17b808f3f088fa2",
+      "supported_units": [
+        "art-2:22"
+      ],
+      "paragraphs": [
+        "9",
+        "16–19"
+      ],
+      "limit": "Verzending uit 2023, oud digitaal recht; geen oordeel over het nieuwe artikel 2:22."
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2022:285",
+      "full_text_read": true,
+      "official_snapshot": "sources/review-002/case-285.xml",
+      "official_sha256": "51539c998ee4b628a0e119ebfe6a12dc687efa50c9dd5a807bad806193cb8a17",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2022-285.md",
+      "local_sha256": "f452233e6ecfe87d5399427d9550b92f11422f8f184f12309076dc50e2ec5931",
+      "supported_units": [
+        "art-3:2"
+      ],
+      "paragraphs": [
+        "11.3",
+        "11.4",
+        "13"
+      ],
+      "limit": "Onderzoek en afweging bij woningsluiting; vernietiging betekent niet dat sluiting definitief onmogelijk is."
+    }
+  ],
+  "prior_batch_evidence": "sources/review-002/prior-review-result.json",
+  "out_of_scope_work_preserved": {
+    "commentaries": 153,
+    "statutory_units": 588,
+    "canonical_wording_unchanged": true
+  },
+  "whole_book": {
+    "complete": false,
+    "total_units": 588,
+    "commented_units": 173,
+    "missing_commentaries": 415,
+    "not_reviewed_in_this_batch": 568,
+    "cumulative_reviewed_units": 40,
+    "remaining_unreviewed_units": 548
+  },
+  "limitations": [
+    "Selective authority research only; no exhaustive survey of all later cases or sector-specific digital exceptions.",
+    "Temporary regeling BWBR0051634 and its operative scope checked; not every listed sectoral statute independently analysed.",
+    "The explanation of eIDAS references stays within the express wording of Awb 2:18; no independent audit of European technical signature standards.",
+    "Scope is these twenty units; no review or authorship completion for other units.",
+    "The shared full-book build and strict validator remain unsuccessful because 415 commentaries are still missing.",
+    "Technical length and repetition checks support, but do not certify, legal quality."
+  ]
+}

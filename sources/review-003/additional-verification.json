@@ -1,0 +1,88 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0045754/2026-08-15/0/informatie",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0045754/2026-08-15/0/informatie",
+    "content_type": "text/html;charset=UTF-8",
+    "path": "sources/review-003/woo-history.html",
+    "accessed_at": "2026-10-20T14:17:20.181155+00:00",
+    "sha256": "ea58fd8d3bc3970be99238083e9b145e644f8f9a771486e5dd89bf9902fc93af",
+    "bytes": 173158,
+    "accepted_format": true,
+    "latest_effective_on_decisive_date": "2026-08-15",
+    "first_future_change": null
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0004287/2024-01-01/0/informatie",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0004287/2024-01-01/0/informatie",
+    "content_type": "text/html;charset=UTF-8",
+    "path": "sources/review-003/bekendmaking-history.html",
+    "accessed_at": "2026-10-20T14:17:20.401651+00:00",
+    "sha256": "a8ee2577ecebebda2d6edc51103a3c284509c89dfe18dd2bcf2c7eb848ab47fe",
+    "bytes": 58389,
+    "accepted_format": true,
+    "latest_effective_on_decisive_date": "2024-01-01",
+    "first_future_change": null
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:1545",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:1545",
+    "content_type": "application/xml",
+    "path": "sources/review-003/case-1545.xml",
+    "accessed_at": "2026-10-20T14:17:20.558964+00:00",
+    "sha256": "b0ca3a156ea521a34b4ab29a3f1cb333ea34d0869b3e30118e7169776925710f",
+    "bytes": 23501,
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:4905",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:4905",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T14:17:55.804383+00:00",
+    "path": "sources/review-003/case-4905.xml",
+    "bytes": 28979,
+    "sha256": "2ca259e2945d5832aad0874ed06f616c59119c709d30e15f90c46ac5c0395c50",
+    "accepted_format": true,
+    "xml_root": "open-rechtspraak"
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:4964",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:4964",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T14:17:55.957626+00:00",
+    "path": "sources/review-003/case-4964.xml",
+    "bytes": 11639,
+    "sha256": "224bd2a7aa2e14144511cb6e677a8c2ace7056d96d7ab196867da1e9321e64f3",
+    "accepted_format": true,
+    "xml_root": "open-rechtspraak"
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0037885",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0037885/2026-07-01",
+    "content_type": "text/html;charset=UTF-8",
+    "path": "sources/review-003/omgevingswet-current.html",
+    "accessed_at": "2026-10-20T14:21:05.202815+00:00",
+    "sha256": "553f45d61a8af0dea8a3e51003eb587eb6ad54e3d0d6f634b4d95fc8bb9906fc",
+    "bytes": 5996465,
+    "accepted_format": true,
+    "effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 01-07-2026 t/m heden."
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0037885/2026-07-01/0/informatie",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0037885/2026-07-01/0/informatie",
+    "content_type": "text/html;charset=UTF-8",
+    "path": "sources/review-003/omgevingswet-history.html",
+    "accessed_at": "2026-10-20T14:21:05.588490+00:00",
+    "sha256": "f8b7046da92622f3e9d71ac7a09c7992d5861219acc6e2e180e839f54a0b1831",
+    "bytes": 229928,
+    "accepted_format": true,
+    "latest_effective_on_decisive_date": "2026-07-01"
+  }
+]

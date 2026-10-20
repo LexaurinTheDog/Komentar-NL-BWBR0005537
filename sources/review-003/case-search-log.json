@@ -1,0 +1,91 @@
+{
+  "searched_at": "2026-10-20T14:24:09.379778+00:00",
+  "scope": "Selective primary-source and local national corpus research for the twenty assigned articles.",
+  "web_queries": [
+    {
+      "query": "site.raadvanstate.nl \"3:9\" \"vergewissen\" \"2025\"",
+      "selected_url": "https://www.raadvanstate.nl/uitspraken/@157051/202502848-1-a2/"
+    },
+    {
+      "query": "site.raadvanstate.nl \"3:16\" \"2025\" zienswijze termijn",
+      "disposition": "No additional case adopted solely from search results."
+    },
+    {
+      "query": "site.raadvanstate.nl \"3:4\" \"2026\" Harderwijk",
+      "disposition": "Earlier Harderwijk full text reread; no unverified new holding adopted."
+    }
+  ],
+  "local_search_log": "sources/review-003/local-search-log.json",
+  "local_official_comparison": "sources/review-003/local-official-case-comparison.json",
+  "read_full_text": [
+    {
+      "ecli": "ECLI:NL:RVS:2022:285",
+      "units": [
+        "art-3:4"
+      ],
+      "paragraphs": "7.1–7.11; 11.3–11.4; 13",
+      "snapshot": "sources/review-003/case-285.xml"
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2021:953",
+      "units": [
+        "art-3:15"
+      ],
+      "paragraphs": "4.5–4.10; 15–16; dictum",
+      "snapshot": "sources/review-003/case-953.xml"
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2026:1545",
+      "units": [
+        "art-3:9"
+      ],
+      "paragraphs": "5.1–5.2",
+      "snapshot": "sources/review-003/case-1545.xml"
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2026:4905",
+      "units": [
+        "art-3:10",
+        "art-3:18"
+      ],
+      "paragraphs": "4.1–4.3; 5–7",
+      "snapshot": "sources/review-003/case-4905.xml"
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2026:4964",
+      "units": [
+        "art-3:18"
+      ],
+      "paragraphs": "2–4; dictum",
+      "snapshot": "sources/review-003/case-4964.xml"
+    }
+  ],
+  "other_read_local_not_adopted": [
+    {
+      "ecli": "ECLI:NL:RVS:2026:2408",
+      "reason": "Assigned preparation rules appear mainly in annex; no sufficiently relevant own holding adopted for this batch."
+    }
+  ],
+  "no_separate_case_adopted_for": [
+    "art-3:5",
+    "art-3:6",
+    "art-3:7",
+    "art-3:8",
+    "art-3:9a",
+    "art-3:11",
+    "art-3:12",
+    "art-3:13",
+    "art-3:14",
+    "art-3:16",
+    "art-3:17",
+    "art-3:19",
+    "art-3:20",
+    "art-3:21",
+    "art-3:22"
+  ],
+  "limitations": [
+    "No claim that no relevant case exists for technical units; none separately verified and adopted in this selective batch.",
+    "Firecrawl status was checked; no credits available. Official websites and full-text XML APIs used directly.",
+    "Case-953 Wabo context retained; other sectors and later lines not exhaustively reviewed."
+  ]
+}

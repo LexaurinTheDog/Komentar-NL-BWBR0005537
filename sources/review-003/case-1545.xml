@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2026:1545</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-07-09T13:50:57</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-03-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2026-03-18</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">202502848/1/A2</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>AB 2026/100 met annotatie van L.M. Koenraad</rdf:li>
+          <rdf:li>JB 2026/81</rdf:li>
+          <rdf:li>USZ 2026/165 met annotatie van mr. dr. L.M. Koenraad</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2026:1545">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2026:1545</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-03-18T10:17:24</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-03-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2026:1545 Raad van State , 18-03-2026 / 202502848/1/A2</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2026:1545:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluit van 29 september 2022 heeft het college van burgemeester en wethouders van Rotterdam aan [appellant] een boete opgelegd van € 8.000,00 voor het zonder een onttrekkingsvergunning onttrekken van een woning aan de bestemming tot bewoning. Op 18 mei 2022 heeft de Districtsrecherche Rotterdam-Stad van de Politie Eenheid Rotterdam geconstateerd dat een appartement aan de [locatie] in Rotterdam (de woning) werd gebruikt voor illegale gokactiviteiten. Een inspecteur van de politie heeft de bevindingen van de politie opgenomen in een bestuurlijke rapportage van 30 juni 2022. Het college heeft op basis hiervan geconcludeerd dat een deel van de woning niet meer geschikt was voor bewoning en zonder een onttrekkingsvergunning aan de bestemming tot bewoning is onttrokken. Het college heeft [appellant] aangemerkt als gebruiker van de woning en als overtreder van artikel 21, aanhef en onder a, van de Huisvestingswet 2014 (Hw) en artikel 3.1.1 van de Verordening toegang woningmarkt en samenstelling woningvoorraad 2021 (Verordening). Bij besluit van 29 september 2022 heeft het college [appellant] daarom een bestuurlijke boete van € 8.000,00 opgelegd.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2026:1545:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>202502848/1/A2.</para>
+    <para>Datum uitspraak: 18 maart 2026</para>
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para>Uitspraak op het hoger beroep van:</para>
+    <para>[appellant], wonend in [woonplaats],</para>
+    <para>appellant,</para>
+    <para>tegen de uitspraak van de rechtbank Rotterdam van 27 maart 2025 in zaak nr. 24/6601 in het geding tussen:</para>
+    <para>[appellant]</para>
+    <para>en</para>
+    <para>het college van burgemeester en wethouders van Rotterdam.</para>
+    <para>Procesverloop</para>
+    <para>Bij besluit van 29 september 2022 heeft het college aan [appellant] een boete opgelegd van € 8.000,00 voor het zonder een onttrekkingsvergunning onttrekken van een woning aan de bestemming tot bewoning.</para>
+    <para>Bij besluit van 7 juni 2024 heeft het college het door [appellant] daartegen gemaakte bezwaar ongegrond verklaard.</para>
+    <para>Bij uitspraak van 27 maart 2025 heeft de rechtbank het door [appellant] daartegen ingestelde beroep ongegrond verklaard.</para>
+    <para>Tegen deze uitspraak heeft [appellant] hoger beroep ingesteld.</para>
+    <para>Het college heeft een schriftelijke uiteenzetting gegeven.</para>
+    <para>[appellant] heeft nadere stukken ingediend.</para>
+    <para>De Afdeling heeft de zaak op een zitting behandeld op 13 februari 2026, waar [appellant], vertegenwoordigd door mr. N. Claassen, advocaat in Rotterdam, en het college, vertegenwoordigd door mr. M.A.C. Kooij en mr. F.E. Slingerland, zijn verschenen.</para>
+    <para>Overwegingen</para>
+    <para>Inleiding</para>
+    <para>1.       Op 18 mei 2022 heeft de Districtsrecherche Rotterdam-Stad van de Politie Eenheid Rotterdam geconstateerd dat een appartement aan de [locatie] in Rotterdam (de woning) werd gebruikt voor illegale gokactiviteiten. Een inspecteur van de politie heeft de bevindingen van de politie opgenomen in een bestuurlijke rapportage van 30 juni 2022. Het college heeft op basis hiervan geconcludeerd dat een deel van de woning niet meer geschikt was voor bewoning en zonder een onttrekkingsvergunning aan de bestemming tot bewoning is onttrokken. Het college heeft [appellant] aangemerkt als gebruiker van de woning en als overtreder van artikel 21, aanhef en onder a, van de Huisvestingswet 2014 (Hw) en artikel 3.1.1 van de Verordening toegang woningmarkt en samenstelling woningvoorraad 2021 (Verordening). Bij besluit van 29 september 2022 heeft het college [appellant] daarom een bestuurlijke boete van € 8.000,00 opgelegd.</para>
+    <para>2.       Het wettelijk kader is opgenomen in de bijlage, die deel uitmaakt van deze uitspraak.</para>
+    <para>Uitspraak van de rechtbank</para>
+    <para>3.       De rechtbank heeft overwogen dat niet in geschil is dat de woning zonder onttrekkingsvergunning aan de bestemming tot bewoning is onttrokken. De gehele benedenverdieping werd gebruikt voor illegale gokactiviteiten.</para>
+    <para>De rechtbank heeft geoordeeld dat het college op basis van de informatie uit de bestuurlijke rapportage heeft mogen concluderen dat [appellant] kan worden aangemerkt als gebruiker van de woning. [appellant] heeft verschillende feiten uit de bestuurlijke rapportage betwist, maar deze betwisting niet met objectief tegenbewijs onderbouwd. De politie heeft hem op basis van camerabeelden geïdentificeerd. De enkele stelling van [appellant] dat hij niet op de camerabeelden te zien zou zijn en dat hij een broer heeft die op hem lijkt, is naar het oordeel van de rechtbank onvoldoende om aan de herkenning door de politie te twijfelen. De rechtbank heeft overwogen dat [appellant] heeft gesteld dat hij niet betrokken zou zijn geweest bij de verhuizing van de pokerspullen naar de woning, maar het college heeft gesteld dat dit niet aan de boeteoplegging ten grondslag is gelegd. Dat geldt ook voor het punt dat [appellant] niet is aangetroffen in de woning en dat bij hem geen toegangstag is aangetroffen. De rechtbank heeft overwogen dat volgens het college uit de bestuurlijke rapportage blijkt dat [appellant] deze tag wel tot zijn beschikking had en dat de politie heeft waargenomen dat hij zich geregeld toegang heeft verschaft tot de woning. Verder heeft [appellant] in beroep nog een printscreen van een chatgesprek ingediend. De rechtbank heeft vastgesteld dat hij heeft nagelaten dit stuk te voorzien van een objectieve en toetsbare onderbouwing, waardoor hieraan onvoldoende betekenis toekomt om aan de bevindingen van de politie te twijfelen.</para>
+    <para>Naar het oordeel van de rechtbank is niet gebleken van verminderde verwijtbaarheid, een beperkte ernst van de overtreding, noch van een geringe financiële draagkracht. Daarbij geldt dat het college de verwijtbaarheid niet hoeft te bewijzen, maar deze mag veronderstellen als het daderschap vaststaat. Over de stelling van [appellant] dat het gaat om een overtreding van beperkte ernst, heeft het college terecht opgemerkt dat het onttrekken van woonruimte, gelet op de schaarse woningvoorraad en de grote druk op de woningmarkt, op zichzelf genomen al een ernstige overtreding is. [appellant] heeft verder geen gegevens overgelegd die inzicht geven in zijn draagkracht. Daarmee is naar het oordeel van de rechtbank niet aannemelijk gemaakt dat zijn financiële draagkracht gering is.</para>
+    <para>De rechtbank is [appellant] niet gevolgd in zijn stelling dat de besluitvorming van het college in strijd is met de onschuldpresumptie, die in het tweede lid van artikel 6 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM) is opgenomen. [appellant] heeft onvoldoende kenbaar gemaakt welke geschilpunten in deze procedure samenhangen met de strafrechtelijke procedure. Het feit dat een strafzaak wegens verdenking van witwassen zou zijn geseponeerd, is daarvoor onvoldoende. Dat maakt tenslotte niet dat er geen onttrekking van de woning kan zijn.</para>
+    <para>Hoger beroep</para>
+    <para>4.       Niet is in geschil dat de woning zonder ontrekkingsvergunning aan de bestemming tot bewoning is onttrokken. [appellant] heeft op de zitting bij de Afdeling zijn betoog dat in het primaire besluit van 29 september 2022 niet is gemotiveerd waarom hij op grond van de inspectie en de bestuurlijke rapportage als gebruiker aangemerkt zou moeten worden, ingetrokken.</para>
+    <para>5.       [appellant] betoogt dat de rechtbank niet heeft onderkend dat op het college een vergewisplicht rust als bedoeld in artikel 3:9 van de Algemene wet bestuursrecht (Awb). Volgens [appellant] heeft de rechtbank ten onrechte geoordeeld dat het college op basis van de informatie uit de bestuurlijke rapportage heeft mogen concluderen dat [appellant] kan worden aangemerkt als gebruiker van de woning. Hij is tijdens de inspectie niet aangetroffen in de woning en bij hem is geen sleutel van de woning gevonden. De in de woning aangetroffen personen hebben niet belastend over hem verklaard. Verder is zijn woning [locatie] niet doorzocht, terwijl hij verdachte zou zijn. [appellant] voert verder aan dat niet wordt gemotiveerd waaruit blijkt dat hij op de camerabeelden is te zien en dat hij een broer heeft die op hem lijkt. Hij betwist dan ook dat hij als gebruiker van de woning kan worden herkend of benoemd. Ook blijkt uit de bestuurlijke rapportage niet wanneer hij de woning heeft betreden en of de betreding verband houdt met poker. Ook is hij niet betrokken geweest bij de verhuizing van de pokerspullen naar de woning. De bestuurlijke rapportage bevat ten onrechte geen informatie over de beelden van de andere onderzochte woningen en bewoners. Verder betwist [appellant] dat zijn telefoon is getapt. Ook betwist hij de op de tapgesprekken gebaseerde bevindingen van de politie in de bestuurlijke rapportage. Uit de door hem overgelegde schermafbeeldingen van WhatsApp-gesprekken met de beheerder van het wooncomplex blijkt dat hij niet was betrokken bij de illegale gokactiviteiten.</para>
+    <para>5.1.    Een bestuursorgaan mag, onverminderd zijn eigen verantwoordelijkheid om een besluit zorgvuldig voor te bereiden, in beginsel afgaan op de juistheid van de bevindingen in een op ambtseed of ambtsbelofte opgemaakte en ondertekende bestuurlijke rapportage, voor zover deze bevindingen eigen waarnemingen van de opsteller van de rapportage weergeven. Als die bevindingen worden betwist, moet worden onderzocht of, gelet op de aard en inhoud van die betwisting, grond bestaat voor zodanige twijfel aan die bevindingen, dat deze niet of niet volledig aan de vaststelling van de overtreding ten grondslag kunnen worden gelegd.</para>
+    <para>5.2.    Anders dan [appellant] betoogt, is de rechtbank hem terecht niet gevolgd in de stelling dat op het college een vergewisplicht rust als bedoeld in artikel 3:9 van de Awb. Daarin staat dat indien een besluit berust op een onderzoek naar feiten en gedragingen dat door een adviseur is verricht, het bestuursorgaan zich ervan dient te vergewissen dat dit onderzoek op zorgvuldige wijze heeft plaatsgevonden. De rechtbank heeft terecht overwogen dat de bestuurlijke rapportage geen rapport van een adviseur is die op grond van afdeling 3.3 van de Awb is ingeschakeld. De bestuurlijke rapportage is door een inspecteur van de politie opgesteld op basis van op ambtsbelofte opgemaakte processen-verbaal, politiemutaties en openbare bronnen. De door [appellant] genoemde uitspraak van de Centrale Raad van Beroep van 15 mei 2021 (ECLI:NL:CRVB:2012:BW6525) leidt niet tot een ander oordeel, omdat het in die zaak, anders dan hier, wel gaat om een advies van een deskundige als bedoeld in artikel 3:9 van de Awb. Ook de door hem genoemde uitspraak van de rechtbank Gelderland van 15 december 2021 (ECLI:NL:RBGEL:2021:6745) biedt geen grond voor een ander oordeel, omdat in die zaak de rechtszoekende, anders dan [appellant], een bestuurlijke rapportage met objectief tegenbewijs heeft betwist. Verder heeft [appellant] met de enkele verwijzing naar literatuur over bestuurlijke rapportages niets concreets aangevoerd over de aan de besluitvorming van het college ten grondslag gelegde bestuurlijke rapportage.</para>
+    <para>5.3.    De inhoudelijke gronden die [appellant] in hoger beroep heeft aangevoerd over de bestuurlijke rapportage zijn zo goed als een herhaling van wat hij in beroep heeft aangevoerd. De rechtbank is gemotiveerd op die gronden ingegaan. [appellant] heeft geen redenen aangevoerd waarom de gemotiveerde beoordeling van die gronden in de rechtbankuitspraak onjuist of onvolledig zou zijn. De Afdeling kan zich vinden in het oordeel en daar ten grondslag liggende overwegingen van de rechtbank in haar uitspraak in 5.1 tot en met 5.8, zoals die ook hiervoor in 3 zijn weergegeven. De Afdeling voegt hier nog het volgende aan toe.</para>
+    <para>De enkele stelling van [appellant] dat niet blijkt dat zijn telefoon is getapt en dat de processen-verbaal van de gesprekken ontbreken, geeft geen aanleiding om op dit punt aan de bestuurlijke rapportage te twijfelen. In de bestuurlijke rapportage is vermeld dat de telefoon van [appellant] meerdere weken is opgenomen en uitgeluisterd. Ook zijn de tapgesprekken beschreven. Verder heeft [appellant] zijn stelling dat sprake is van een persoonsverwisseling met zijn broer niet op enige wijze onderbouwd. Zo heeft hij geen foto’s ter onderbouwing van zijn stelling overgelegd. Daar staat tegenover dat de politie hem heeft herkend en dat het college mag uitgaan van de juistheid daarvan. De politie is voldoende in staat om te observeren en te registeren en heeft geen belang bij onjuistheden in haar verslaglegging dan wel het weglaten van relevante omstandigheden. [appellant] wordt evenmin gevolgd in zijn betoog dat de bestuurlijke rapportage onvolledig is omdat daarin niets is vermeld over de camerabeelden van de andere onderzochte woningen op dezelfde verdieping. Het gaat in deze zaak om de woning op [locatie]. Niet is gebleken dat de rapportage op dit punt onvolledig is. Verder heeft [appellant] in hoger beroep schermafbeeldingen overgelegd van een WhatsApp-gesprek dat hij op de avond van de politie-inval heeft gehad met de beheerder van het wooncomplex en waarin hij op een tijdstip vóór de inval klaagt over het gokken in de woning. Het college heeft opgemerkt dat volgens deze schermafbeeldingen het gesprek weliswaar kort voor de politie-inval heeft plaatsgevonden, maar dat het tijdstip van een gevoerd WhatsApp-gesprek eenvoudig kan worden gewijzigd door de instelling van de tijd op de telefoon te wijzigen. De Afdeling overweegt dat de authenticiteit van de overgelegde schermafbeeldingen om die reden niet kan worden vastgesteld en dat die daarom geen objectief bewijs bieden voor twijfel aan de conclusie dat [appellant] overtreder is.</para>
+    <para>5.4.    Het betoog slaagt niet.</para>
+    <para>6.       [appellant] betoogt dat de rechtbank niet heeft onderkend dat de besluitvorming van het college in strijd is met de in artikel 6, tweede lid, van het EVRM opgenomen onschuldpresumptie. Hij is door het Openbaar Ministerie niet aangemerkt als verdachte en is niet strafrechtelijk vervolgd. Hij is wel gehoord over de in zijn woning aangetroffen geldbedragen op verdenking van witwassen, maar die zaak is uiteindelijk geseponeerd wegens gebrek aan bewijs. Er is hierdoor geen strafdossier beschikbaar gekomen waarmee [appellant] zich in deze zaak heeft kunnen verweren. Volgens hem is daarmee ten onrechte geen rekening gehouden.</para>
+    <para>6.1.    Ook de gronden die [appellant] in hoger beroep op dit punt heeft aangevoerd zijn nagenoeg een herhaling van wat hij in beroep heeft aangevoerd. De rechtbank is gemotiveerd op die gronden ingegaan. [appellant] heeft geen redenen aangevoerd waarom het gemotiveerde oordeel van de rechtbank dat de besluitvorming van het college niet in strijd is met de onschuldpresumptie, onjuist of onvolledig zou zijn. De Afdeling kan zich vinden in het oordeel van de rechtbank en de daaraan ten grondslag liggende overwegingen in 7.1 en 7.2 van de rechtbankuitspraak. Dat [appellant] niet beschikt over een strafdossier, betekent niet dat hij daarom geen enkel tegenbewijs kan leveren.</para>
+    <para>Het betoog slaagt niet.</para>
+    <para>7.       Het hoger beroep is ongegrond. De Afdeling bevestigt de uitspraak van de rechtbank.</para>
+    <para>8.       Het college hoeft geen proceskosten te vergoeden.</para>
+    <para>Beslissing</para>
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para>bevestigt de aangevallen uitspraak.</para>
+    <para>Aldus vastgesteld door mr. A.B. Blomberg, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. A.J. Jansen, griffier.</para>
+    <para>w.g. Blomberg</para>
+    <para>lid van de enkelvoudige kamer</para>
+    <para>w.g. Jansen</para>
+    <para>griffier</para>
+    <para>Uitgesproken in het openbaar op 18 maart 2026</para>
+    <para>609</para>
+    <para> </para>
+    <para>BIJLAGE</para>
+    <para> </para>
+    <para>Wettelijk kader</para>
+    <para>Algemene wet bestuursrecht</para>
+    <para>Artikel 3:9 luidt:</para>
+    <para>Indien een besluit berust op een onderzoek naar feiten en gedragingen dat door een adviseur is verricht, dient het bestuursorgaan zich ervan te vergewissen dat dit onderzoek op zorgvuldige wijze heeft plaatsgevonden.</para>
+    <para>Artikel 5:46 luidt:</para>
+    <para>1. De wet bepaalt de bestuurlijke boete die wegens een bepaalde overtreding ten hoogste kan worden opgelegd.</para>
+    <para>[…]</para>
+    <para>3. Indien de hoogte van een bestuurlijke boete bij wettelijk voorschrift is vastgesteld, legt het bestuursorgaan niettemin een lagere bestuurlijke boete op indien de overtreder aannemelijk maakt dat de vastgestelde bestuurlijke boete wegens bijzondere omstandigheden te hoog is.</para>
+    <para>[…].</para>
+    <para>Huisvestingswet 2014</para>
+    <para>Artikel 21 luidt:</para>
+    <para>1. Het is verboden om een woonruimte, behorend tot een met het oog op het behoud of de samenstelling van de woonruimtevoorraad door de gemeenteraad in de huisvestingsverordening aangewezen categorie woonruimte en die is gelegen in een in de huisvestingsverordening aangewezen gebied, zonder vergunning van burgemeester en wethouders:</para>
+    <para>a. anders dan ten behoeve van de bewoning of het gebruik als kantoor of praktijkruimte door de eigenaar aan de bestemming tot bewoning onttrekken of onttrokken houden:</para>
+    <para>[…].</para>
+    <para>Artikel 35 luidt:</para>
+    <para>1. De gemeenteraad kan in de huisvestingsverordening bepalen dat een bestuurlijke boete kan worden opgelegd ter zake van de overtreding van de verboden bedoeld in […] artikel 21 […]. Burgermeester en wethouders zijn bevoegd tot het opleggen van een bestuurlijke boete.</para>
+    <para>2. De op te leggen bestuurlijke boete bedraagt ten hoogste:</para>
+    <para>[…]</para>
+    <para>c. het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, voor overtreding van de verboden, bedoeld in […] artikel 21 […].</para>
+    <para>3. De gemeenteraad stelt in de huisvestingsverordening het bedrag vast van de bestuurlijke boete die voor de verschillende overtredingen kan worden opgelegd.</para>
+    <para>Verordening toegang woningmarkt en samenstelling woningvoorraad 2021</para>
+    <para>Artikel 3.1.1 luidt:</para>
+    <para>1. Het verbod bedoeld in artikel 21, eerste lid, onderdeel a, van de Huisvestingswet 2014 is van toepassing op alle woonruimten gelegen in de gemeente Rotterdam.</para>
+    <para>[…].</para>
+    <para>Artikel 4.4 luidt:</para>
+    <para>1. Het college kan een bestuurlijke boete opleggen bij overtreding van:</para>
+    <para>a. […] artikel 21 […] van de Huisvestingswet 2014 […].</para>
+    <para>2. De in het eerste lid bedoelde boete bedraagt:</para>
+    <para>a. voor de eerste overtreding van […] de artikelen 21 […] van de Huisvestingswet 2014 de bedragen die in de tabellen 1 tot en met 11 en tabel 13 in bijlage 4 zijn opgenomen in de kolom ‘eerste overtreding’;</para>
+    <para>[…].</para>
+    <para>Bijlage 4. Bedragen bestuurlijke boete als bedoeld in artikel 4.4</para>
+    <para>
+      <inlinemediaobject>
+        <imageobject>
+          <imagedata align="center" scale="100" fileref="0224e0d6-6b2c-46f5-a62e-d49dad99a091" depth="210" width="671" format="image/png" />
+        </imageobject>
+      </inlinemediaobject>
+    </para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>

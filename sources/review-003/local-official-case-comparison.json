@@ -1,0 +1,42 @@
+[
+  {
+    "ecli": "ECLI:NL:RVS:2022:285",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2022-285.md",
+    "local_sha256": "f452233e6ecfe87d5399427d9550b92f11422f8f184f12309076dc50e2ec5931",
+    "official_path": "sources/review-003/case-285.xml",
+    "main_full_text_equal_ignoring_whitespace": true,
+    "diff_excerpt": []
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2021:953",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2021-953.md",
+    "local_sha256": "1fcad31ec6b258a211fae03da6cf3d1d59a722de9d215a84073f641ac005034d",
+    "official_path": "sources/review-003/case-953.xml",
+    "main_full_text_equal_ignoring_whitespace": true,
+    "diff_excerpt": []
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2026:1545",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-1545.md",
+    "local_sha256": "f4ff60a19832bd4f4efd1ce9519e0a1b3f8e0065560b66cc711e0c7bd0768d44",
+    "official_path": "sources/review-003/case-1545.xml",
+    "main_full_text_equal_ignoring_whitespace": true,
+    "diff_excerpt": []
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2026:4905",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-4905.md",
+    "local_sha256": "76a8cbe3aa8366ef8b5d0a125e02388874779bcc9b8f7d8153d65e9d4f5c4e18",
+    "official_path": "sources/review-003/case-4905.xml",
+    "main_full_text_equal_ignoring_whitespace": true,
+    "diff_excerpt": []
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2026:4964",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-4964.md",
+    "local_sha256": "a764387f9b61ad5c8764071ece47b6c2857d996146a70d110d2a0a8035694288",
+    "official_path": "sources/review-003/case-4964.xml",
+    "main_full_text_equal_ignoring_whitespace": true,
+    "diff_excerpt": []
+  }
+]

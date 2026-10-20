@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2026:4964</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-08-26T10:33:45</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-08-25</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2026-08-21</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">202600940/1/R4</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#vereenvoudigdeBehandeling">Vereenvoudigde behandeling</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2026:4964">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2026:4964</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-08-25T08:37:36</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-08-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2026:4964 Raad van State , 21-08-2026 / 202600940/1/R4</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2026:4964:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>[appellant] heeft beroep ingesteld tegen het niet tijdig nemen van een besluit door de raad van de gemeente Bunnik op zijn aanvraag om een besluit waarmee het omgevingsplan wordt gewijzigd. Op 17 juli 2025 heeft [appellant] de raad verzocht het omgevingsplan van de gemeente Bunnik te wijzigen. Het verzoek houdt in dat de functie die is toegewezen aan het perceel [locatie] in Bunnik wordt gewijzigd van ‘bedrijf’ naar ‘wonen’. Op 12 januari 2026 heeft [appellant] de raad in gebreke gesteld en de raad verzocht binnen twee alsnog een besluit te nemen. [appellant] heeft vervolgens beroep ingesteld tegen het niet tijdig nemen van een besluit door de raad op zijn verzoek. In beroep betoogt hij dat de raad nog geen besluit heeft genomen, ook niet nadat hij de raad in gebreke had gesteld bij brief van 12 januari 2026. Hij verzoekt de Afdeling daarom om de raad op te dragen binnen een korte termijn alsnog een besluit te nemen op zijn aanvraag en een dwangsom vast te stellen voor elke dag dat de raad zich niet aan de termijn houdt.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2026:4964:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>202600940/1/R4.</para>
+    <para>Datum uitspraak: 21 augustus 2026</para>
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para>Uitspraak met toepassing van artikel 8:54, eerste lid, van de Algemene wet bestuursrecht (Awb) in het geding tussen:</para>
+    <para>[appellant], wonend in woonplaats],</para>
+    <para>appellant,</para>
+    <para>en</para>
+    <para>de raad van de gemeente Bunnik,</para>
+    <para>verweerder.</para>
+    <para>Procesverloop</para>
+    <para>[appellant] heeft beroep ingesteld tegen het niet tijdig nemen van een besluit door de raad op zijn aanvraag om een besluit waarmee het omgevingsplan wordt gewijzigd.</para>
+    <para>De raad heeft een verweerschrift ingediend.</para>
+    <para>Overwegingen</para>
+    <para>De gronden van het beroep en het verweer daartegen</para>
+    <para>1.       Op 17 juli 2025 heeft [appellant] de raad verzocht het omgevingsplan van de gemeente Bunnik te wijzigen. Het verzoek houdt in dat de functie die is toegewezen aan het perceel [locatie] in Bunnik wordt gewijzigd van ‘bedrijf’ naar ‘wonen’. Op 12 januari 2026 heeft [appellant] de raad in gebreke gesteld en de raad verzocht binnen twee alsnog een besluit te nemen.</para>
+    <para>[appellant] heeft vervolgens beroep ingesteld tegen het niet tijdig nemen van een besluit door de raad op zijn verzoek. In beroep betoogt hij dat de raad nog geen besluit heeft genomen, ook niet nadat hij de raad in gebreke had gesteld bij brief van 12 januari 2026. Hij verzoekt de Afdeling daarom om de raad op te dragen binnen een korte termijn alsnog een besluit te nemen op zijn aanvraag en een dwangsom vast te stellen voor elke dag dat de raad zich niet aan de termijn houdt.</para>
+    <para>2.       De raad stelt zich op het standpunt dat hij ten tijde van de ontvangst van de brief van 12 januari 2026 nog niet in gebreke was een besluit te nemen en verwijst daarbij naar artikel 16.30, eerste lid, van de Omgevingswet (Ow) en artikel 3:18, eerste lid, van de Awb. De raad betoogt dat uit die artikelen een beslistermijn van zes maanden volgt om op de aanvraag van [appellant] een besluit te nemen en dat die termijn bij het ontvangen van de brief van 12 januari 2026 nog niet was verstreken. De ingebrekestelling was daarom prematuur en het was voor [appellant] dan ook nog niet mogelijk beroep in te stellen tegen het niet tijdig nemen van een besluit, aldus de raad.</para>
+    <para>De beoordeling van het beroep</para>
+    <para>3.       Een beroep dat gericht is tegen het niet tijdig nemen van een besluit kan worden ingediend zodra het bestuursorgaan in gebreke is om tijdig een besluit te nemen en twee weken zijn verstreken na de dag waarop de belanghebbende het bestuursorgaan schriftelijk heeft medegedeeld dat het in gebreke is. Dit volgt uit artikel 6:12, tweede lid, van de Awb. Allereerst is daarom van belang of de raad ten tijde van de ontvangst van de brief van 12 januari 2026 in gebreke was tijdig een besluit te nemen. Zoals de Afdeling eerder heeft overwogen is een ingebrekestelling die is ingediend voordat de beslistermijn is afgelopen, immers geen ingebrekestelling als bedoeld in artikel 4:17, eerste lid, van de Awb. Zij verwijst daarvoor naar haar uitspraak van 9 februari 2011, ECLI:NL:RVS:2011:BP3711.</para>
+    <para>3.1.    [appellant] heeft de raad op 17 juli 2025 verzocht om het omgevingsplan van de gemeente Bunnik te wijzigen. Zijn aanvraag is gedaan ná 1 januari 2024, wat betekent dat op zijn aanvraag onder meer de Omgevingswet van toepassing is.</para>
+    <para>3.2.    Bij uitspraak van vandaag, ECLI:NL:RVS:2026:4905, heeft de Afdeling geoordeeld dat wanneer het bevoegde gezag een aanvraag tot wijziging van het omgevingsplan ontvangt, het bevoegd gezag binnen 14 weken na ontvangst van die aanvraag moet overgaan tot het nemen van een definitief besluit dan wel een ontwerp van een besluit ter inzage moet leggen. De raad heeft geen van beide gedaan. Ten tijde van de ontvangst van de brief van 12 januari 2026 was de raad dan ook in gebreke. Dat betekent dat het beroep van [appellant] ontvankelijk is.</para>
+    <para>4.       Omdat de raad nog geen besluit heeft genomen op de aanvraag van [appellant], is het beroep kennelijk gegrond. Het met een besluit gelijk te stellen niet tijdig nemen van een besluit moet worden vernietigd.</para>
+    <para>5.       Gelet op het voorgaande en gezien artikel 8:55d, eerste lid, van de Awb dient het college alsnog een besluit te nemen op de aanvraag van [appellant]. De Afdeling zal daartoe een termijn op grond van artikel 8:55d, derde lid, stellen.</para>
+    <para>De Afdeling bepaalt verder met toepassing van artikel 8:55d, tweede lid, van de Awb dat het college een dwangsom aan [appellant] verbeurt voor iedere dag dat het college in gebreke blijft deze uitspraak na te leven. De Afdeling stelt de dwangsom vast op € 100,00 per dag, met een maximum van € 15.000,00.</para>
+    <para>6.       De raad moet de proceskosten te vergoeden. Daarbij zal de Afdeling een wegingsfactor van 0,5 (licht) hanteren.</para>
+    <para>Beslissing</para>
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para>I.        verklaart het beroep gegrond;</para>
+    <para>II.       vernietigt het met een besluit gelijk te stellen niet tijdig nemen van een besluit op de aanvraag van [appellant];</para>
+    <para>III.      draagt het de raad van de gemeente Bunnik op om uiterlijk op 13 november 2026 een besluit te nemen en dit op de wettelijk voorgeschreven wijze bekend te maken;</para>
+    <para>IV.      bepaalt dat de raad van de gemeente Bunnik aan [appellant] een dwangsom verbeurt voor elke dag waarmee de raad de hiervoor genoemde termijn voor de bekendmaking van het besluit overschrijdt, waarbij de hoogte van de dwangsom € 100,00 per dag bedraagt, met een maximum van € 15.000,00;</para>
+    <para>V.       veroordeelt de raad van de gemeente Bunnik tot vergoeding van de bij [appellant] in verband met de behandeling opgekomen proceskosten tot een bedrag van € 467,00, geheel toe te rekenen aan door een derde beroepsmatig verleende rechtsbijstand;</para>
+    <para>VI.      gelast dat de raad van de gemeente Bunnik aan [appellant] het door hem voor de behandeling van het beroep betaalde griffierecht ten bedrage van € 200,00 vergoedt.</para>
+    <para>Aldus vastgesteld door mr. H.J.M. Besselink, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. C. Sparreboom, griffier.</para>
+    <para>w.g. Besselink</para>
+    <para>lid van de enkelvoudige kamer</para>
+    <para>w.g. Sparreboom</para>
+    <para>griffier</para>
+    <para>Uitgesproken in het openbaar op 21 augustus 2026</para>
+    <para>195-1089</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>
