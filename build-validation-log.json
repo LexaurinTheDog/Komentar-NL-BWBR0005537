@@ -12,5 +12,20 @@
   },
   "checkpoint_method": "Render genuinely authored text in affected chapters 10 and 11 using shared loading and quote functions. Unmodified shared whole-book gate retained.",
   "bounded_authoring_complete": true,
-  "whole_book_complete": false
+  "whole_book_complete": false,
+  "shared_strict_validation": {
+    "exit_code": 1,
+    "result": {
+      "repo": "Komentar-NL-BWBR0005537",
+      "units": 588,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 372885,
+      "errors": [
+        "krátký/chybějící komentář u 368 jednotek: ['art-4:131(0<400)', 'art-5:1(0<400)', 'art-5:2(0<400)', 'art-5:3(0<400)', 'art-5:4(0<400)', 'art-5:5(0<120)', 'art-5:6(0<120)', 'art-5:7(0<120)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "evidence": "batch-4-111-130-validation.json"
+  }
 }
