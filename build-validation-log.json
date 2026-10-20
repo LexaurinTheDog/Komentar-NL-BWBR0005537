@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T18:39:30.437073+00:00",
+  "checked_at": "2026-10-20T18:45:47.982120+00:00",
   "shared_builder": {
     "command": [
       "python3",
@@ -10,7 +10,7 @@
     "stdout": "",
     "stderr": "CHYBÍ komentář k 208 jednotkám, např.: ['art-8:36', 'art-8:36a', 'art-8:36b', 'art-8:36c--digitaal', 'art-8:36c--overig', 'art-8:36d', 'art-8:36e', 'art-8:36ea', 'art-8:36f', 'art-8:36g']\n"
   },
-  "checkpoint_method": "Gedeelde volledige bouwer uitgevoerd en ongewijzigd gelaten. Alleen de twee betrokken hoofdstukken met werkelijke commentaren herbouwd via gedeelde loaders/quote. Geen vervangende tekst voor ontbrekende eenheden.",
-  "bounded_authoring_complete": true,
+  "checkpoint_method": "Re-render actual written chapters 18 and 19 using unchanged shared loaders and quote. Global build gates unchanged; no invented missing-unit prose.",
+  "bounded_review_complete": true,
   "whole_book_complete": false
 }

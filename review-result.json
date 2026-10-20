@@ -1,196 +1,195 @@
 {
   "complete": true,
   "task": "bounded_independent_second_pass",
-  "scope": "Exactly the assigned twenty stable ids art-8:2–art-8:17; not the whole book.",
-  "reviewed_at": "2026-10-20T18:26:51.661006+00:00",
+  "scope": "Exactly assigned articles 8:18–8:35, including 8:28a and 8:32a; not whole book.",
+  "reviewed_at": "2026-10-20T18:45:47.982120+00:00",
   "decisive_date": "2026-10-19",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "art-8:2",
-    "art-8:3",
-    "art-8:4",
-    "art-8:5",
-    "art-8:6",
-    "art-8:7",
-    "art-8:8",
-    "art-8:9",
-    "art-8:10",
-    "art-8:10a",
-    "art-8:11",
-    "art-8:12",
-    "art-8:12a",
-    "art-8:12b",
-    "art-8:13",
-    "art-8:13a",
-    "art-8:14",
-    "art-8:15",
-    "art-8:16",
-    "art-8:17"
+    "art-8:18",
+    "art-8:19",
+    "art-8:20",
+    "art-8:21",
+    "art-8:22",
+    "art-8:23",
+    "art-8:24",
+    "art-8:25",
+    "art-8:26",
+    "art-8:27",
+    "art-8:28",
+    "art-8:28a",
+    "art-8:29",
+    "art-8:30",
+    "art-8:31",
+    "art-8:32",
+    "art-8:32a",
+    "art-8:33",
+    "art-8:34",
+    "art-8:35"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "unit_id": "art-8:2",
+      "unit_id": "art-8:18",
       "status": "retained_after_review",
-      "review": "Beide leden en onderdelen gelezen tegen officiële XML en artikel 3 Ambtenarenwet 2017. Hoedanigheidsverband, nagelaten betrekkingen/rechtverkrijgenden, publiekrechtelijk SER-handelen en schriftelijke goedkeuringsweigering zijn onderscheiden. Geen algemene route voor alle overheidswerknemers. Goedkeuring tegenover weigering en blijvende voorprocedure juist; politievoorbeeld past binnen bron.",
+      "review": "Alle zes leden gelezen tegen officiële XML en VII B Stb. 2025,333 met inwerkingtreding Stb. 2025,414. Andere meervoudige kamer, gelegenheid horen, kennelijkheid zonder zitting, gemotiveerde openbare beslissing en mededeling, misbruik en rechtsmiddelverbod juist. 2026:3129 werkelijk op zitting behandeld; discrepantie oud lidnummer 4 tegenover huidig 5 terecht vermeld. Financieel-belangvoorbeeld past bij toets; behouden.",
       "resolved": true
     },
     {
-      "unit_id": "art-8:3",
+      "unit_id": "art-8:19",
       "status": "retained_after_review",
-      "review": "Beide leden met onderdelen gelezen. Regeling, intrekking/inwerkingtreding en goedkeuring zijn gescheiden van privaatrechtelijke voorbereiding en 6:3. Volledige 2022:2221 bevestigt exceptieve toetsing van lagere verordening en vernietiging gehele plan. Geen rechtstreekse AVV-route of actualisering historisch natuurrecht. Vergunningvoorbeeld relevant; behouden.",
+      "review": "Drie leden gelezen. Rechterlijk initiatief en verwijzing naar 8:15 onderscheiden van partijwraking en berusting 8:17. Schriftelijk gemotiveerd uitgangspunt, beide momenten voor mondeling verzoek en schorsing alleen bij verzoek ter zitting correct. Geen vaste dagentermijn verzonnen. Voorbeeld gezamenlijk vermogensbelang relevant; behouden.",
       "resolved": true
     },
     {
-      "unit_id": "art-8:4",
+      "unit_id": "art-8:20",
       "status": "retained_after_review",
-      "review": "Alle vier leden met alle onderdelen en uitzonderingen gelezen. 2:15, aanmaning/dwangbevel, 7:1a/7:10/7:24, coördinatie en schade onderscheiden. Hoofdstuk 2 onverlet en dienstplichtuitzonderingen behouden. Hoedanigheidsexceptie, examenoordeel, technische beoordelingen en begrensde verkiezings-/ambtshandelingen correct. Voorbeeld verwisselt cijfer en inschrijving niet.",
+      "review": "Drie leden gelezen. Meervoudige kamer zonder verzoeker, spoed, motivering en onverwijlde mededeling aan partijen/rechter en rechtsmiddelverbod alle behandeld. Geen verplichte zitting of uitdrukkelijke openbare-uitspraakregel uit 8:18 ingevoegd. Voorbeeld afwijzing op concrete band en checklist over incident versus hoofdzaak juist; behouden.",
       "resolved": true
     },
     {
-      "unit_id": "art-8:5",
+      "unit_id": "art-8:21",
       "status": "retained_after_review",
-      "review": "Leden 1 en 2 aan bron getoetst, inclusief artikel 1 bijlage 2. Negatieve lijst en open/voorheen mogelijke administratieve route hebben verschillende functies. Geen herleving door ongebruikt verstrijken. Verwijzingen naar 7:1 en 6:15 gelezen; doorzending niet als inhoudelijke vrijstelling gepresenteerd. Behouden.",
+      "review": "Alle leden plus BW1 artikel 349 in toestand 2025-07-05 gelezen. Wettelijke vertegenwoordiging, vrijstelling kantonrechtermachtiging, redelijk kunnen waarderen van belangen en zelfstandige voorlopige vertegenwoordiging onderscheiden. Ontbreken vertegenwoordiger versus niet-beschikbaarheid met spoed, einde benoeming beide situaties juist. Minderjarigenvoorbeeld verwart gemachtigde en wettelijk vertegenwoordiger niet; behouden.",
       "resolved": true
     },
     {
-      "unit_id": "art-8:6",
-      "status": "retained_after_review",
-      "review": "Beide leden en relevante hoofdstuk-2-verwijzingen gelezen. Rechtbank als uitgangspunt, bijzondere wettelijke toedeling en relatieve bevoegdheid niet verwisseld. 8:113(2) vereist een uitdrukkelijke rechterlijke bepaling; voorbeeld laat geen automatische terugkeer na iedere vernietiging ontstaan. Behouden.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-8:7",
-      "status": "retained_after_review",
-      "review": "Vier leden gelezen. Zetelregels voor provinciale/gemeentelijke/waterschaps- en Wgr-organen versus Nederlandse woonplaats/fallback, exclusieve rechtbank en causaal verbonden nadeelcompensatie volledig behandeld. Hofregel beperkt tot leden 1 en 2. Voorbeeld geeft geen onbewezen concreet rechtbankarrondissement; behouden.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-8:8",
-      "status": "retained_after_review",
-      "review": "Alle vijf leden gelezen. Zelfde besluit en meer bevoegde rechtbanken als voorwaarden, indieningsprioriteit en gelijktijdigheidsrangorde onderscheiden. Verplichte verwijzing/stukken, onverwijlde orgaanmelding en eigen rechtstreeks-beroepregeling 7:1a juist. Geen rangorde op grond van zittingsplanning. Externe rechtbankvolgorde niet toegepast; beperking transparant.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-8:9",
-      "status": "retained_after_review",
-      "review": "Gehele norm gelezen. Geschil tussen rechtbanken uitsluitend over 8:7; hoogste sectorrechter volgens eigen hogerberoepsbevoegdheid. Geen universele bevoegdheidsconflictregel of zelfstandig partijrechtsmiddel aangenomen. Voorbeeld raakt juiste toerekeningsvraag en afdelingschecklist volgt wettelijke volgorde. Behouden.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-8:10",
-      "status": "retained_after_review",
-      "review": "Vier leden gelezen. Enkelvoudige aanvang bij rechtbank, verplichte verwijzing bij ongeschiktheid tegenover facultatieve andere gevallen, terugverwijzing en voortzetting bestaande stand juist. Voorbeeld geeft geen nieuw beroepschrift of nieuwe termijn; hoor en wederhoor niet opzijgezet. Behouden.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-8:10a",
-      "status": "retained_after_review",
-      "review": "Vijf leden gelezen. Andere bestuursrechters starten meervoudig, facultatieve enkelvoudige verwijzing tegenover verplichte terugverwijzing onderscheiden. Grote kamer alleen voor rechtseenheid/ontwikkeling en hof uitgezonderd; conclusie is apart instrument. Iedere stand/voortzetting en CBb-voorbeeld passend. Behouden.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-8:11",
-      "status": "retained_after_review",
-      "review": "Beide leden gelezen. Zelfde behandelingsregels gelden voor alle bedoelde kamers; enkelvoudig lid heeft voorzittersbevoegdheden én verplichtingen. Geen nieuwe termijn of algemene gerechtsvoorzittersfunctie uit verwijzing afgeleid. Voorbeeld passend; behouden.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-8:12",
-      "status": "retained_after_review",
-      "review": "Gehele norm en 8:47 gelezen. Geheel/gedeeltelijk rechterlijk vooronderzoek onderscheiden van deskundigenonderzoek en eindbeslissing. Geen verzonnen algemene reactietermijn; toepasselijke tegenspraak voor onderzoeksresultaten behouden. Subsidievoorbeeld en afdelingschecklist specifiek; behouden.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-8:12a",
+      "unit_id": "art-8:22",
       "status": "corrected",
-      "review": "Alle acht leden gelezen. Opdrachtgevers, kamerbeperking, eigen/ander collegelid en instemming, vormvereisten, zes weken vanaf sluiting versus twee vanaf verzending juist. 8:64 en 8:79(2) tegen bron gelezen. Aanvulling maakt derdenafschriften/uittreksels en eigen kostenregeling expliciet. Geen beraadslaging door opsteller of bindende werking; fictief voorbeeld behouden.",
+      "review": "Twee leden plus volledige Fw 25,27,31 in toestand 2026-09-01 gelezen. Boedelrecht tegenover persoonlijke positie en overeenkomstige toepassing bij drie insolventievormen juist. Aangescherpt: 27(2) ontslag van instantie op verzoek tegenover voortzetting buiten bezwaar boedel; overneming ook zonder oproep. 31: curator of betrokken schuldeiser beroept zich bij wettelijke voortzetting op nietigheid met bewezen bewuste benadeling en wetenschap wederpartij. Uitzondering lid 2 blijft beperkt tot 25(2)/27 en eerdere uitnodiging vóór faillissement. Voorbeeld passend.",
       "resolved": true
     },
     {
-      "unit_id": "art-8:12b",
+      "unit_id": "art-8:23",
+      "status": "retained_after_review",
+      "review": "Beide leden gelezen met 8:24 en 8:27. Aangewezen collegeleden, Kroon en betrokken ministers correct; orgaan blijft partij. Gevolmachtigde ambtenaar geen zelfstandige orgaanpositie; persoonlijke oproeping bepaalde leden blijft mogelijk. Vergunningvoorbeeld onderscheidt aanwijzing en machtiging; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-8:24",
+      "status": "retained_after_review",
+      "review": "Drie leden gelezen met 6:6,6:17 en 8:27. Bijstand versus vertegenwoordiging, facultatieve schriftelijke machtiging en uitzondering advocaat juist. Bewijs volmacht versus werkelijke bevoegdheid en herstel van indieningsgebrek zorgvuldig begrensd; intrekking niet zonder opdracht. Geen advocatenplicht afgeleid. Voorbeeld dochter relevante onderscheid; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-8:25",
       "status": "corrected",
-      "review": "Alle zes leden gelezen en volledige IsoSun-uitspraak met vragenbijlage gecontroleerd. Aanvulling onderscheidt door college vast te stellen indieningstermijn voor derden van wettelijke vierwekentermijn voor partijen. Verplichte mededeling, facultatieve wensenronde, verlenging en zittingsuitnodigingen juist. 46 reacties geen wettelijke maatstaf of stemming; latere natuurontwikkelingen buiten beperkte holding.",
+      "review": "Drie leden en volledig HR 2020:1730 gelezen. Ernstige bezwaren, uitzondering advocaat, mededeling aan beide betrokkenen en uiterst karakter, hoor/keuzetermijn, zaak/instantiebegrenzing juist. Aangescherpt met 2.2.5: redenen in beginsel uit gedrag eigen instantie; overige bekende gedragingen waarderingscontext, geen automatische doorwerking weigering elders. Conclusie AG en geciteerd lager oordeel onderscheiden van arrest. Voorbeeld waarborgt cliënttoegang.",
       "resolved": true
     },
     {
-      "unit_id": "art-8:13",
+      "unit_id": "art-8:26",
       "status": "retained_after_review",
-      "review": "Vier leden gelezen. Twee aanhangige zaken, wenselijke behandeling bij één rechtbank, verzoek tot aanvang zitting en instemming ontvangende rechtbank voor stukken onderscheiden. Verwijzing geen automatische voeging; hof-overeenkomstige toepassing correct. Voorbeeld schept geen aanspraak door partijwens; behouden.",
+      "review": "Twee leden en volledige RVS 2023:4471 gelezen. Initiatieven en uiterste tijdstip sluiting zitting correct; 1:2 vereist belanghebbendheid, 8:12b andere figuur. 5.1: foutieve toelating niet zelfstandige vernietigingsgrond in concrete zaak; materiële projectfout verklaart vernietiging. Staatscourant met eventueel aanvullend middel en geen herstel eigen beroepstermijn juist. Vergunninghoudervoorbeeld passend; behouden.",
       "resolved": true
     },
     {
-      "unit_id": "art-8:13a",
+      "unit_id": "art-8:27",
       "status": "retained_after_review",
-      "review": "Officiële vervallen plaats opnieuw gecontroleerd. Geen historische norm als actueel ingevuld. Nummering en waarschuwing bij oude processtukken functioneel behouden; geen ononderzocht historisch intrekkingsmotief toegevoegd.",
+      "review": "Beide leden gelezen. Verplichte oproeping onderscheiden van uitnodiging, modaliteit persoonlijk of bij gemachtigde bepalend. Verlangde inlichtingen, waarschuwing 8:31 en oproeping bepaalde bestuurder/collegelid behandeld. 8:28a en 8:29 correct begrenzingen; verhindering vraagt beoordeling en is geen automatische ontheffing. Ziekenhuisvoorbeeld en rol stichting/bestuurder relevant; behouden.",
       "resolved": true
     },
     {
-      "unit_id": "art-8:14",
+      "unit_id": "art-8:28",
       "status": "retained_after_review",
-      "review": "Beide leden gelezen. Zelfde of verwant onderwerp, voeging én splitsing, verzoek tot sluiting zitting correct. Afzonderlijke ontvankelijkheid/positie blijven herkenbaar; geen zelfstandige overname van andere rechter aangenomen. Subsidievoorbeeld en afdelingschecklist behouden.",
+      "review": "Gehele bepaling met 8:45 gelezen. Alleen rechterlijk verzoek schept deze partijplicht, geen vraag wederpartij; schriftelijke informatie, rechterlijke termijn en verplichte verwijzing 8:31 juist. Geen wettelijke uniforme termijn toegevoegd. Boetezwijgrecht en gewichtige redenen blijven behouden; archiefvoorbeeld onderscheidt onmogelijkheid/onwil; behouden.",
       "resolved": true
     },
     {
-      "unit_id": "art-8:15",
+      "unit_id": "art-8:28a",
       "status": "retained_after_review",
-      "review": "Norm en volledige 2025:2001 gelezen. Concrete behandelende rechter, partij en feiten, vermoeden onpartijdigheid, objectieve vrees en subjectieve ervaring goed onderscheiden. Procesbeslissingen niet categorisch irrelevant maar wraking geen verkapt rechtsmiddel. Partijstellingen niet als feit aanvaard; voorbeeld behouden.",
+      "review": "Twee leden plus 5:10a gelezen. Beroep tegen bestuurlijke boete, beboete partij en verklaren over overtreding correct afgebakend. Eigen rechterlijke cautieplicht vóór verhoor onderscheiden van bestuurlijke cautie. Geen onbeperkte uitzondering documenten of verschijning en geen 8:31-sanctie op wettelijk zwijgen afgeleid. Cijferopgavevoorbeeld geen schulderkenning; behouden.",
       "resolved": true
     },
     {
-      "unit_id": "art-8:16",
+      "unit_id": "art-8:29",
       "status": "corrected",
-      "review": "Vijf leden, 2017:2719 en wijzigingswet/inwerkingtreding gelezen. Briefdatum 19 september en ontvangst 20 september expliciet gemaakt naast zitting 5 september; rechterlijk gebruikte veertiendagenformulering geen vaste termijn. Schriftelijk/mondeling, alle gronden tegelijk, nieuw bekend geworden feiten en schorsing correct. Sinds 1 januari 2026 onthouding behoudens onuitstelbare behandeling geverifieerd; oude zaak alleen voor lid 1.",
+      "review": "Alle zes leden en volledig overzicht RVS 2020:1367 gelezen. Weigering tegenover beperkte kennisneming, Woo-ondergrens, rechterlijke toets, verval plicht, toestemming en verwijzing andere kamer juist. Woo-opgevraagde stukken in lid 6 niet met overige processtukken verward. Aangescherpt met r.o.9: ook partij over wie informatie gaat kan bescherming vragen indien orgaan dat nalaat. Oude Wob-praktijk in 15 geen huidige wettelijke route. Samenvattingen/politiebelangen als concreet oordeel 18.2; voorbeeld en zaakkaart passend.",
       "resolved": true
     },
     {
-      "unit_id": "art-8:17",
+      "unit_id": "art-8:30",
+      "status": "retained_after_review",
+      "review": "Gehele norm met 8:47 en 8:48 gelezen. Rechterlijk benoemde deskundige, specifieke onderzoeksopdracht en termijn, medewerkingsplicht en waarschuwing 8:31 correct. Partijrapport niet gelijkgesteld; geen zelfstandige fysieke dwangbevoegdheid. Medische gegevensbescherming en reactie op verslag blijven gelden. Voorbeeld over de muur weegt concrete verhindering en alternatieven; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-8:31",
+      "status": "retained_after_review",
+      "review": "Gehele bepaling en volledig HR 2018:672 gelezen. Alle vier plichten, vooraf bestaande verplichting en gerechtvaardigde weigering/zwijgen correct onderscheiden. Vrije gevolgtrekking geen automatische sanctie. 3.4.2 v: partijen horen voordat gevolgtrekkingen worden verbonden tenzij direct passeren verzuim. Arrestboetevermindering uitsluitend redelijke termijn; belastingcontext niet algemene automatische bewijsomkering. Voorbeeld ontbrekend controledocument proportioneel; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-8:32",
+      "status": "retained_after_review",
+      "review": "Beide leden plus 8:39 gelezen. Gezondheid partij tegenover onevenredige privacyschade ander onderscheiden. Inzage via advocaat, arts of bijzonder toegelaten gemachtigde; gewone 8:24-volmacht voor andere helper onvoldoende. Geen verwisseling met uitsluitend rechterlijke kennisneming/toestemming onder 8:29. Concreet rapportvoorbeeld en effectieve belangenbehartiging juist; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-8:32a",
+      "status": "retained_after_review",
+      "review": "Gehele norm plus 8:42 en 8:69 gelezen. Voorafgaand rechterlijk verzoek, stelling en relevante passage beide vereist, facultatief buiten beschouwing laten en geen automatische niet-ontvankelijkheid. Aanvulling rechtsgronden en eigen overlegplicht orgaan blijven onderscheiden. Jaarverslagenvoorbeeld en checklist gericht en bruikbaar; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-8:33",
       "status": "corrected",
-      "review": "Gehele norm en huidige 8:18/8:19 gelezen. Berusting eigen keuze rechter, geen erkenning feitelijke klacht of overwinning hoofdzaak; meerdere rechters afzonderlijk. Toegevoegd dat huidige 8:18(3) kennelijke gevallen zonder zitting laat afdoen door meervoudige wrakingskamer. Berusting, verschoning en oordeel kamer niet verwisseld.",
+      "review": "Vier leden met geselecteerde Rv 165,172–178 en Awb 8:37,8:60,8:63 gelezen. Getuige door rechter opgeroepen tegenover partij/getuige door partij, oproepinhoud, verschoning en facultatieve eed juist. Aangescherpt: exacte selectie 173(1) eerste volzin,2,3 met partijverzoek, kosten, maximum een jaar, waarheidsvindingsbelang en beëindiging. 172-explootvoorwaarde gemeld met overeenkomstige bestuursrechtelijke toepassing, geen automatische gijzeling uit enkele vraagweigering. Geen integrale civiele beëdigingsregel ingevoegd. Buurvoorbeeld misdrijfgevaar passend.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-8:34",
+      "status": "retained_after_review",
+      "review": "Twee leden plus 8:47 en Rv165 gelezen. Aanvaarde benoeming, onpartijdig en naar beste weten; onderzoeksmethode eigen uitleg, rechter blijft juridisch beslissen. Vier weken vanaf dag na verzending verslag volgens 8:47(5), verlenging lid6 juist. Alleen 165(2)b en(3), geen verwantschapsverschoning onder(a). Akoestisch-deskundigenvoorbeeld concrete relatie; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-8:35",
+      "status": "retained_after_review",
+      "review": "Beide leden en Rv172/178 gelezen. Aanvaarding plus rechterlijke oproeping voor verschijnplicht, onpartijdigheid/beste weten en verplichte oproepinhoud juist. Dwang en kosten onder voorwaarden; geen algemene kosteloze-tolkclaim. Tolk onderscheiden van gemachtigde/deskundige en informele familiehulp. Zakenpartnerconflict en afzonderlijke verzuimbeoordeling relevant; eindchecklist meegelezen; behouden.",
       "resolved": true
     }
   ],
   "limitations": [
-    "Uitsluitend de twintig genoemde eenheden onafhankelijk inhoudelijk beoordeeld; geen hele-boekvoltooiing.",
-    "228 eenheden buiten deze opdracht blijven ongeschreven en zonder tweede beoordeling.",
-    "Vier bestaande officiële uitspraken volledig opnieuw gelezen; rechtspraakonderzoek en latere-behandelingscontrole zijn selectief.",
-    "Afzonderlijke amicusreacties en aangehechte rechtbankuitspraak bij IsoSun niet als zelfstandige autoriteiten onderzocht; historisch materieel natuurrecht geen actuele 2026-handleiding.",
-    "Geen concreet forum op basis van de volledige externe rechtbankenrangorde aangewezen; Wet op de rechterlijke indeling niet integraal zelfstandig onderzocht.",
-    "Firecrawl heeft nul resterende credits; rechtstreekse officiële HTTP-downloads zijn geslaagd.",
-    "Tekstidentiteit, lengte en herhalingscontrole bewijzen op zichzelf geen juridische kwaliteit."
+    "208 eenheden buiten deze reviewopdracht blijven ongeschreven; het gehele boek is onvoltooid.",
+    "Vijf bestaande volledige officiële uitspraken herlezen; rechtspraakdekking en controle van latere behandeling zijn selectief.",
+    "Drie lokale bodies stemmen onder witruimtenormalisatie geheel overeen; twee HR-derivaten verschillen in serialisatie. De officiële volledige tekst is leidend.",
+    "De vorige en geselecteerde wetstoestand zijn afzonderlijk gecontroleerd; niet alle historische versies zijn gedownload.",
+    "Firecrawl had nul tegoed; negentien rechtstreekse officiële responsen zijn wel opgehaald en gevalideerd.",
+    "Tekstidentiteit, lengte en herhalingscontrole zijn technische controles en bewijzen niet zelfstandig juridische kwaliteit. Geen externe professionele goedkeuring."
   ],
   "changed_ids": [
-    "art-8:12a",
-    "art-8:12b",
-    "art-8:16",
-    "art-8:17"
+    "art-8:22",
+    "art-8:25",
+    "art-8:29",
+    "art-8:33"
   ],
   "unchanged_ids": [
-    "art-8:2",
-    "art-8:3",
-    "art-8:4",
-    "art-8:5",
-    "art-8:6",
-    "art-8:7",
-    "art-8:8",
-    "art-8:9",
-    "art-8:10",
-    "art-8:10a",
-    "art-8:11",
-    "art-8:12",
-    "art-8:13",
-    "art-8:13a",
-    "art-8:14",
-    "art-8:15"
+    "art-8:18",
+    "art-8:19",
+    "art-8:20",
+    "art-8:21",
+    "art-8:23",
+    "art-8:24",
+    "art-8:26",
+    "art-8:27",
+    "art-8:28",
+    "art-8:28a",
+    "art-8:30",
+    "art-8:31",
+    "art-8:32",
+    "art-8:32a",
+    "art-8:34",
+    "art-8:35"
   ],
   "every_assigned_unit_read_against_source": true,
   "outside_scope_commentaries_preserved": true,
-  "source_preflight": "sources/review-018/preflight-result.json",
+  "source_preflight": "sources/review-019/preflight-result.json",
   "technical_support": "review-technical.json",
-  "case_law_evidence": "sources/review-018/case-search-log.json",
+  "case_law_evidence": "sources/review-019/authority-review.json",
   "whole_book_complete": false,
   "bounded_technical_validation_passed": true,
-  "validation_evidence": "batch-review-018-validation.json",
+  "validation_evidence": "batch-review-019-validation.json",
   "strict_validation": "strict-validation.json",
   "global_failure_outside_assigned_scope": true
 }

@@ -5265,14 +5265,239 @@
     "bytes": 6152
   },
   {
+    "path": "sources/review-019/ECLI-NL-HR-2018-672-local.md",
+    "sha256": "8eab42cc42dce18bd83c31dbff2914cb690c44d612755d8a853bb0589874dfc7",
+    "bytes": 14926
+  },
+  {
+    "path": "sources/review-019/ECLI-NL-HR-2018-672.txt",
+    "sha256": "eba8dd3f8e205f0e1dfaf98791e6ce3ac8b54730c13bb66fa821b03b93a94ccd",
+    "bytes": 14085
+  },
+  {
+    "path": "sources/review-019/ECLI-NL-HR-2018-672.xml",
+    "sha256": "3ab65005dcd07f0e770d5a390e43e7546c424b8aebe9a1751ed840021561aef8",
+    "bytes": 22767
+  },
+  {
+    "path": "sources/review-019/ECLI-NL-HR-2020-1730-local.md",
+    "sha256": "d287e5c790cd58ee9bcb58f75d0f4979d219c43fab06868160cc577432660e92",
+    "bytes": 9953
+  },
+  {
+    "path": "sources/review-019/ECLI-NL-HR-2020-1730.txt",
+    "sha256": "b6355e5257a3fb675099c24c73aac6e8718255a959635ce63d8e9b5dcb5d6eb9",
+    "bytes": 9470
+  },
+  {
+    "path": "sources/review-019/ECLI-NL-HR-2020-1730.xml",
+    "sha256": "fe6dbdcfa0b910de959c78f74120b646ac02fa7bc875dbcf47b3064e221e9919",
+    "bytes": 17047
+  },
+  {
+    "path": "sources/review-019/ECLI-NL-RVS-2020-1367-local.md",
+    "sha256": "862f6d65978fc05af958bdb6a65e96009823a9c4d7612411a7edb4d6afcf8c7a",
+    "bytes": 19915
+  },
+  {
+    "path": "sources/review-019/ECLI-NL-RVS-2020-1367.txt",
+    "sha256": "03aef28297d7d4b70e115c20e6ea98d359047fe36271605944eb8a36b8474439",
+    "bytes": 18300
+  },
+  {
+    "path": "sources/review-019/ECLI-NL-RVS-2020-1367.xml",
+    "sha256": "aa5c73a49722f6379607819c80b7063d2226620af8bc582ccf45d5f7114ee979",
+    "bytes": 25073
+  },
+  {
+    "path": "sources/review-019/ECLI-NL-RVS-2023-4471-local.md",
+    "sha256": "6fabfd93706b3c035def3b4a8c7acc214b6b55c24be35683e926375e46fb7df9",
+    "bytes": 21990
+  },
+  {
+    "path": "sources/review-019/ECLI-NL-RVS-2023-4471.txt",
+    "sha256": "55b950bd29d3df8e149438e5a620d4c98d304ce55a787914be0b68fa3796954b",
+    "bytes": 20310
+  },
+  {
+    "path": "sources/review-019/ECLI-NL-RVS-2023-4471.xml",
+    "sha256": "93e3a552bcc7b31c415bff8c3e566a81f9880e6d325a37b142ff3486f2a65be8",
+    "bytes": 27230
+  },
+  {
+    "path": "sources/review-019/ECLI-NL-RVS-2026-3129-local.md",
+    "sha256": "854cb65e4d03642a2789cf901ba67740201094522fd8f081a7aab748e0d58588",
+    "bytes": 8325
+  },
+  {
+    "path": "sources/review-019/ECLI-NL-RVS-2026-3129.txt",
+    "sha256": "a94e5b008719f721208a189f12f80bfca234331e393efeb8b5aede7debb5d25a",
+    "bytes": 6553
+  },
+  {
+    "path": "sources/review-019/ECLI-NL-RVS-2026-3129.xml",
+    "sha256": "5aee7cc5db472bd68af0ff28bf893227b5e3754712514cca4e964b10d52e139e",
+    "bytes": 12005
+  },
+  {
+    "path": "sources/review-019/assigned-source-records.json",
+    "sha256": "deb622fa269c07ff4c68c96de4900e476f9f7a3f46cfe3920aed1d094f2ff75c",
+    "bytes": 21223
+  },
+  {
+    "path": "sources/review-019/authority-review.json",
+    "sha256": "1f5c6826fc92a4b6e73f32511ec160b1d2f3d39c27a51affea5092917e72114e",
+    "bytes": 8617
+  },
+  {
+    "path": "sources/review-019/baseline.json",
+    "sha256": "c31731d97f9e4bc89ae8aadd5468c3c14b8d71170229642508d4c72dde2c7db5",
+    "bytes": 145
+  },
+  {
+    "path": "sources/review-019/bw1-current.html",
+    "sha256": "20b42579d9914da5a2f60654b1af84e9f96a3c729d16f52d6ab8d622197a912d",
+    "bytes": 4149158
+  },
+  {
+    "path": "sources/review-019/bw1-history.html",
+    "sha256": "c658fd55ea0884b46ad35f2a97bbb8ae6e74f408a93f6cb7c53ff94155879c5f",
+    "bytes": 758606
+  },
+  {
+    "path": "sources/review-019/bw1.xml",
+    "sha256": "1818aea1ec4939872836a85f11f809ce9b3d9ee1a3bbfc439f5b8cf5d6dbaa2d",
+    "bytes": 2310878
+  },
+  {
+    "path": "sources/review-019/case-search-log.json",
+    "sha256": "9c727ab6cb36ef0541eb8050ad0753164ac952bddbe2754093b53cfe15e79a73",
+    "bytes": 2150
+  },
+  {
+    "path": "sources/review-019/coverage-recheck.json",
+    "sha256": "fff1c92bafa10c3623ac9bd27da7f7009963ba1698878b63570096bc08d6aacb",
+    "bytes": 20966
+  },
+  {
+    "path": "sources/review-019/current.html",
+    "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+    "bytes": 4204181
+  },
+  {
+    "path": "sources/review-019/external-version-check.json",
+    "sha256": "079af2a8cc8c2780163d3727994e047c7e0d3c760aa12e6d6cff07689703b05e",
+    "bytes": 373955
+  },
+  {
+    "path": "sources/review-019/faillissementswet-current.html",
+    "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+    "bytes": 4132921
+  },
+  {
+    "path": "sources/review-019/faillissementswet-history.html",
+    "sha256": "d54ae98227fade267a0b5db0a7b6acb215fb71998e46856989dfbb5025e6b79e",
+    "bytes": 605819
+  },
+  {
+    "path": "sources/review-019/faillissementswet.xml",
+    "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+    "bytes": 2557947
+  },
+  {
+    "path": "sources/review-019/history-rows.json",
+    "sha256": "94dfd41b2b4c971dd4749226389aad77cbd10d8c0b543d4115100b296fd09bd3",
+    "bytes": 143907
+  },
+  {
+    "path": "sources/review-019/history.html",
+    "sha256": "a25286d6c51373e410f6155a42414450bd1035cedd879b03ec8da76ca7414096",
+    "bytes": 1762757
+  },
+  {
+    "path": "sources/review-019/internal-crossrefs.json",
+    "sha256": "c9032b73ae5a030313ba8fa2a31e22e80d7083fc4377444e19b46d9b00be1b6f",
+    "bytes": 20411
+  },
+  {
+    "path": "sources/review-019/preflight-result.json",
+    "sha256": "89115103689f03d698d88e6b776977ce9cf374fb5cb301d6bd30297c480f181c",
+    "bytes": 3158
+  },
+  {
+    "path": "sources/review-019/prior-preflight-result.json",
+    "sha256": "0209ea9e73d03c22c475d4d94f1148f14b0ce9ba39cbe6e6aedeb4a3977e6fbd",
+    "bytes": 133955
+  },
+  {
+    "path": "sources/review-019/prior-review-result.json",
+    "sha256": "804357d644be79a71f5532ec36b70989c4f9ce71c45cdd6f14462b8693dfbcb3",
+    "bytes": 11530
+  },
+  {
+    "path": "sources/review-019/prior-status.json",
+    "sha256": "40152250ab0925b8d6c8ba82f5c68a736634282f2f88760f5f017ee7dc33a4a9",
+    "bytes": 25354
+  },
+  {
+    "path": "sources/review-019/review-result.json",
+    "sha256": "d82a7906f49bee19e652cf83d37a60fafb816300aa19c25ef1fb6592cb443515",
+    "bytes": 13086
+  },
+  {
+    "path": "sources/review-019/rv-current.html",
+    "sha256": "c7e252556560bf60b864821d2dc54aa4fd6ee05c784ccd10ae86407257554a7d",
+    "bytes": 9181258
+  },
+  {
+    "path": "sources/review-019/rv-history.html",
+    "sha256": "bc74029f635acd1d2c5ff6e45c19484ff04099c0cc877aa044ac29bd2f5f5ca9",
+    "bytes": 1527250
+  },
+  {
+    "path": "sources/review-019/rv.xml",
+    "sha256": "4dc98d0268b4cddcb60c9a4a2c0b63370ee722469068bbc3277258d6d6dcd8db",
+    "bytes": 5070581
+  },
+  {
+    "path": "sources/review-019/selected.xml",
+    "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "bytes": 2622149
+  },
+  {
+    "path": "sources/review-019/stb-2025-333.xml",
+    "sha256": "4889e6fd48537284d19185ea0ceefecd93e0bf62216a738d60327c32d031791f",
+    "bytes": 45290
+  },
+  {
+    "path": "sources/review-019/stb-2025-414.xml",
+    "sha256": "90912b64b8a5b8d9a07e336bd08d74bd0a48af48c0b723117ed019530af44bf3",
+    "bytes": 10282
+  },
+  {
+    "path": "sources/review-019/technical-check.json",
+    "sha256": "bfbd731617781d9d8414ad2e17c6eb2d9d95c2903d192ef94bb543ee2599bae0",
+    "bytes": 1631
+  },
+  {
+    "path": "sources/review-019/verification.json",
+    "sha256": "f82b898520d4ca2c26d543a7abc7872b6b53c94958cfa1b580c21ee6e31d38e4",
+    "bytes": 9709
+  },
+  {
+    "path": "sources/review-019/wraking-amendment-check.json",
+    "sha256": "1ad8052b8e555795253965ffffceb9b6181f202122133cddb6fff5abf0726d09",
+    "bytes": 3005
+  },
+  {
     "path": "sources/structural-inventory.json",
     "sha256": "9f4631e4a7cf252d0a1785d04ae3a072a198d3a430bae6df2bb11487b179414d",
     "bytes": 22075
   },
   {
     "path": "sources/verification.json",
-    "sha256": "1a0ad8715bc3a61d0bd516a7579395c56ec97d9f027c7341b679ed456d59b07d",
-    "bytes": 329125
+    "sha256": "7423e7513257324c5aacb2647060b82422f72584fe4f14f722ba6fb60e85906a",
+    "bytes": 339973
   },
   {
     "path": "sources/version-analysis.json",

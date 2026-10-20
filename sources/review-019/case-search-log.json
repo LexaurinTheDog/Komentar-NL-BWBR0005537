@@ -1,0 +1,50 @@
+{
+  "reviewed_at": "2026-10-20T18:43:44.323555+00:00",
+  "method": "Targeted re-verification of all five authorities actually cited in the twenty assigned commentaries; full official bodies read; exact ECLI lookup in local national corpus and local snapshots saved. No new case search or exhaustive later-treatment review claimed.",
+  "queries": [
+    "ECLI:NL:HR:2020:1730",
+    "ECLI:NL:RVS:2020:1367",
+    "ECLI:NL:RVS:2023:4471",
+    "ECLI:NL:HR:2018:672",
+    "ECLI:NL:RVS:2026:3129"
+  ],
+  "source_urls": [
+    "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2020:1730",
+    "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2020:1367",
+    "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2023:4471",
+    "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:672",
+    "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:3129"
+  ],
+  "read_and_used": [
+    "ECLI:NL:HR:2020:1730",
+    "ECLI:NL:RVS:2020:1367",
+    "ECLI:NL:RVS:2023:4471",
+    "ECLI:NL:HR:2018:672",
+    "ECLI:NL:RVS:2026:3129"
+  ],
+  "no_individually_verified_case_added_for": [
+    "art-8:19",
+    "art-8:20",
+    "art-8:21",
+    "art-8:22",
+    "art-8:23",
+    "art-8:24",
+    "art-8:27",
+    "art-8:28",
+    "art-8:28a",
+    "art-8:30",
+    "art-8:32",
+    "art-8:32a",
+    "art-8:33",
+    "art-8:34",
+    "art-8:35"
+  ],
+  "no_case_scope": "No separate authority added for fifteen mainly statutory units; this does not imply no case law exists.",
+  "local_comparison": "Three full normalized bodies found verbatim; two HR derivatives preserve paragraph labels and differ in serialization, so direct normalized full-body substring check remains false. Official full text governs.",
+  "firecrawl": "Status checked on 20 October 2026: authenticated, zero credits. No Firecrawl extraction claimed. All nineteen direct official fetches accepted.",
+  "limitations": [
+    "Selective authorities, no exhaustive later-treatment audit.",
+    "Cited decisions do not independently verify all cases referred to within them.",
+    "Historical substantive Wnb and Wob rules not substituted for current text."
+  ]
+}

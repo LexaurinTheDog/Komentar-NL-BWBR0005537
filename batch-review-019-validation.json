@@ -1,0 +1,55 @@
+{
+  "checked_at": "2026-10-20T18:46:35.474900+00:00",
+  "bounded_review_complete": true,
+  "reviewed_ids": [
+    "art-8:18",
+    "art-8:19",
+    "art-8:20",
+    "art-8:21",
+    "art-8:22",
+    "art-8:23",
+    "art-8:24",
+    "art-8:25",
+    "art-8:26",
+    "art-8:27",
+    "art-8:28",
+    "art-8:28a",
+    "art-8:29",
+    "art-8:30",
+    "art-8:31",
+    "art-8:32",
+    "art-8:32a",
+    "art-8:33",
+    "art-8:34",
+    "art-8:35"
+  ],
+  "units_reviewed": 20,
+  "assigned_commentary_minimum_failures": 0,
+  "statutory_text_agreement": 1.0,
+  "all_588_official_texts_compared": true,
+  "source_coverage_ok": true,
+  "outside_scope_360_commentaries_preserved": true,
+  "strict_validator_exit_code": 1,
+  "strict_validator": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 749793,
+    "errors": [
+      "krátký/chybějící komentář u 208 jednotek: ['art-8:36(0<400)', 'art-8:36a(0<400)', 'art-8:36b(0<400)', 'art-8:36c--digitaal(0<400)', 'art-8:36c--overig(0<400)', 'art-8:36d(0<400)', 'art-8:36e(0<400)', 'art-8:36ea(0<400)']",
+      "necommitnuté změny v repu"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "whole_book_complete": false,
+  "global_failure_outside_assigned_scope": true,
+  "output_clean_at_strict_check": false,
+  "limitations": [
+    "Shared build and strict validator remain blocked by 208 unwritten units outside scope.",
+    "Technical checks do not certify legal quality."
+  ],
+  "local_link_errors": 0,
+  "local_links_checked": 1246,
+  "exact_repeated_commentary_paragraphs": 0
+}

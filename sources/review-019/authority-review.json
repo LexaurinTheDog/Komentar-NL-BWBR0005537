@@ -1,0 +1,141 @@
+[
+  {
+    "ecli": "ECLI:NL:HR:2020:1730",
+    "court": "Hoge Raad",
+    "date": "2020-11-06",
+    "docket": "19/05365",
+    "paragraphs": "2.2.2–2.2.6; toepassing 2.3.1–2.3.5; dictum",
+    "supported_units": [
+      "art-8:25"
+    ],
+    "case_card": "case-cards/ECLI-NL-HR-2020-1730.md",
+    "official_full_text_read": true,
+    "sha256": "fe6dbdcfa0b910de959c78f74120b646ac02fa7bc875dbcf47b3064e221e9919",
+    "official_full_text_read_again": true,
+    "full_text_byte_identical_to_authored_snapshot": true,
+    "official_snapshot": "sources/review-019/ECLI-NL-HR-2020-1730.xml",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2020-1730.md",
+    "local_snapshot": "sources/review-019/ECLI-NL-HR-2020-1730-local.md",
+    "local_sha256": "d287e5c790cd58ee9bcb58f75d0f4979d219c43fab06868160cc577432660e92",
+    "normalized_full_body_in_local": false,
+    "review": "Volledig arrest inclusief procesverloop en dictum gelezen. 2.2.2–2.2.6 dragen de toelichting; 2.2.5 motiveert primair aan de hand van gedrag in eigen instantie, met overige bekende gedragingen als waarderingscontext. 2.3 citeert eerst rechtbank en beoordeelt daarna zelf de klachten. AG-voorstel geen holding; beroep ongegrond.",
+    "long_paragraph_comparison": {
+      "paragraphs": 17,
+      "matched": 16,
+      "unmatched": [
+        "op het beroep in cassatie tegen de uitspraak van de Rechtbank Gelderland van 29 oktober 2019, nr. AWB 19/272, op het verzet van belanghebbende tegen een uitspraak van de Rechtbank betreffende een door belanghebbende op aangifte voldaan bedrag aan belasting van personenauto's en motorrijwielen. De uitspraak van de Rechtbank is aan dit arrest gehecht."
+      ],
+      "finding": "Alle lange inhoudelijke overwegingen letterlijk in lokaal corpus gevonden. Alleen twee lange inleidende identificatieparagrafen wijken in de HR-derivaten door opmaak af."
+    }
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2020:1367",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State",
+    "date": "2020-06-10",
+    "docket": "202001087/2/A3 en 202001097/2/A3",
+    "paragraphs": "7–14 en 17; concrete toepassing 18–19; context 1–6, 15–16 en dictum",
+    "supported_units": [
+      "art-8:29"
+    ],
+    "case_card": "case-cards/ECLI-NL-RVS-2020-1367.md",
+    "official_full_text_read": true,
+    "sha256": "aa5c73a49722f6379607819c80b7063d2226620af8bc582ccf45d5f7114ee979",
+    "official_full_text_read_again": true,
+    "full_text_byte_identical_to_authored_snapshot": true,
+    "official_snapshot": "sources/review-019/ECLI-NL-RVS-2020-1367.xml",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2020-1367.md",
+    "local_snapshot": "sources/review-019/ECLI-NL-RVS-2020-1367-local.md",
+    "local_sha256": "862f6d65978fc05af958bdb6a65e96009823a9c4d7612411a7edb4d6afcf8c7a",
+    "normalized_full_body_in_local": true,
+    "review": "Volledige beslissing 1–19 en dictum gelezen. 7–14 ondersteunen belangenafweging; 9 beschermt ook partij over wie informatie gaat indien orgaan nalaat afscherming te vragen. 18 is verzoekers standpunt, 18.2 rechterlijke afweging, 19 en dictum toewijzing. Oude vijfledige Wob-tekst en praktijk in 15 onderscheiden van huidige Woo-lid 6. Geen huidige algemene procesregeling uit historische uitspraak afgeleid.",
+    "long_paragraph_comparison": {
+      "paragraphs": 35,
+      "matched": 35,
+      "unmatched": [],
+      "finding": "Alle lange paragrafen letterlijk in lokaal corpus gevonden."
+    }
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2023:4471",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State",
+    "date": "2023-12-06",
+    "docket": "202100814/1/R3",
+    "paragraphs": "5–5.1; voor context gehele uitspraak 1–11.2 en dictum",
+    "supported_units": [
+      "art-8:26"
+    ],
+    "case_card": "case-cards/ECLI-NL-RVS-2023-4471.md",
+    "official_full_text_read": true,
+    "sha256": "93e3a552bcc7b31c415bff8c3e566a81f9880e6d325a37b142ff3486f2a65be8",
+    "official_full_text_read_again": true,
+    "full_text_byte_identical_to_authored_snapshot": true,
+    "official_snapshot": "sources/review-019/ECLI-NL-RVS-2023-4471.xml",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2023-4471.md",
+    "local_snapshot": "sources/review-019/ECLI-NL-RVS-2023-4471-local.md",
+    "local_sha256": "6fabfd93706b3c035def3b4a8c7acc214b6b55c24be35683e926375e46fb7df9",
+    "normalized_full_body_in_local": true,
+    "review": "Volledige uitspraak 1–11.2 en dictum gelezen. 5 is betoog, 5.1 oordeel: college b&w geen belanghebbende bij provinciaal handhavingsbesluit, deelname onjuist maar hier onvoldoende vernietigingsgrond. Vernietiging volgt uit andere projectbeoordelingsfout. Historisch materieel natuurrecht uitsluitend context; geen actuele instructie.",
+    "long_paragraph_comparison": {
+      "paragraphs": 39,
+      "matched": 39,
+      "unmatched": [],
+      "finding": "Alle lange paragrafen letterlijk in lokaal corpus gevonden."
+    }
+  },
+  {
+    "ecli": "ECLI:NL:HR:2018:672",
+    "court": "Hoge Raad",
+    "date": "2018-05-04",
+    "docket": "16/04237",
+    "paragraphs": "3.4.2 onder v; context 3.1–3.6, 4–6 en dictum",
+    "supported_units": [
+      "art-8:31"
+    ],
+    "case_card": "case-cards/ECLI-NL-HR-2018-672.md",
+    "official_full_text_read": true,
+    "sha256": "3ab65005dcd07f0e770d5a390e43e7546c424b8aebe9a1751ed840021561aef8",
+    "official_full_text_read_again": true,
+    "full_text_byte_identical_to_authored_snapshot": true,
+    "official_snapshot": "sources/review-019/ECLI-NL-HR-2018-672.xml",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2018-672.md",
+    "local_snapshot": "sources/review-019/ECLI-NL-HR-2018-672-local.md",
+    "local_sha256": "8eab42cc42dce18bd83c31dbff2914cb690c44d612755d8a853bb0589874dfc7",
+    "normalized_full_body_in_local": false,
+    "review": "Volledig arrest en dictum gelezen. 3.4.2 v vereist horen van partijen voordat gevolgtrekkingen worden verbonden als rechter niet meteen aan verzuim voorbijgaat. Database en systematiek in 3.4.3–3.4.5 betreffen 8:42; arrest biedt geen vaste sanctie. Ongegrond cassatieberoep; ambtshalve alleen boetevermindering wegens redelijke termijn. Geen verwarring met sanctie voor stukkenverzuim.",
+    "long_paragraph_comparison": {
+      "paragraphs": 31,
+      "matched": 30,
+      "unmatched": [
+        "gewezen op het beroep in cassatie van [X] te [Z] (hierna: belanghebbende) tegen de uitspraak van het Gerechtshof Arnhem-Leeuwarden van 12 juli 2016, nr. 15/01535, betreffende een aan belanghebbende over het jaar 2007 opgelegde navorderingsaanslag in de inkomstenbelasting/premie volksverzekeringen, de daarbij gegeven boetebeschikking en de daarbij gegeven beschikking inzake heffingsrente. De uitspraak van het Hof is aan dit arrest gehecht."
+      ],
+      "finding": "Alle lange inhoudelijke overwegingen letterlijk in lokaal corpus gevonden. Alleen twee lange inleidende identificatieparagrafen wijken in de HR-derivaten door opmaak af."
+    }
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2026:3129",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State",
+    "date": "2026-05-29",
+    "docket": "202505467/3/A2",
+    "paragraphs": "5–9 en dictum; context procesverloop en 1–4",
+    "supported_units": [
+      "art-8:18"
+    ],
+    "case_card": "case-cards/ECLI-NL-RVS-2026-3129.md",
+    "official_full_text_read": true,
+    "sha256": "5aee7cc5db472bd68af0ff28bf893227b5e3754712514cca4e964b10d52e139e",
+    "official_full_text_read_again": true,
+    "full_text_byte_identical_to_authored_snapshot": true,
+    "official_snapshot": "sources/review-019/ECLI-NL-RVS-2026-3129.xml",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-3129.md",
+    "local_snapshot": "sources/review-019/ECLI-NL-RVS-2026-3129-local.md",
+    "local_sha256": "854cb65e4d03642a2789cf901ba67740201094522fd8f081a7aab748e0d58588",
+    "normalized_full_body_in_local": true,
+    "review": "Volledige beslissing 1–9 en dictum gelezen. 2–3 onderscheiden verzoeker en rechterreactie van eigen beoordeling in 4–9. Inhoudelijk verzoek afgewezen; concreet misbruik in 8, uitsluiting alleen deze zaak in 9 en dictum. Rechterlijke verwijzing naar lid 4 is afwijking ten opzichte van sinds januari 2026 geldend lid 5. Dit bewijst geen toepassing nieuw lid 3; zitting heeft plaatsgevonden.",
+    "long_paragraph_comparison": {
+      "paragraphs": 15,
+      "matched": 15,
+      "unmatched": [],
+      "finding": "Alle lange paragrafen letterlijk in lokaal corpus gevonden."
+    }
+  }
+]

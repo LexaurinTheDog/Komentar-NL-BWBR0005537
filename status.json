@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T18:40:24.230527+00:00",
+  "updated_at": "2026-10-20T18:46:35.474900+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -15,8 +15,8 @@
     "verified_at": "2026-10-20T13:47:01.778268+00:00",
     "current_recheck_date": "2026-10-20",
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
-    "review_verified_at": "2026-10-20T18:26:51.661006+00:00",
-    "review_evidence": "sources/review-018/verification.json",
+    "review_verified_at": "2026-10-20T18:45:47.982120+00:00",
+    "review_evidence": "sources/review-019/verification.json",
     "author_batch_verified_at": "2026-10-20T18:39:30.437073+00:00",
     "author_batch_evidence": "sources/author-8-18-35/verification.json"
   },
@@ -753,33 +753,36 @@
   "coverage": true,
   "validation_result": {
     "complete": false,
-    "reason": "208 eenheden buiten deze auteursbatch missen commentaar; de globale eindcontroles blijven daarop geblokkeerd.",
-    "not_independent_review": true,
+    "reason": "208 ontbrekende toelichtingen buiten de twintig toegewezen revieweenheden.",
+    "not_independent_review": false,
     "whole_book_complete": false,
     "bounded_author_passed": true,
-    "evidence": "batch-8-18-35-validation.json",
+    "evidence": "strict-validation.json",
     "strict_validator": {
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 748322,
+      "commentary_chars": 749793,
       "errors": [
-        "krátký/chybějící komentář u 208 jednotek: ['art-8:36(0<400)', 'art-8:36a(0<400)', 'art-8:36b(0<400)', 'art-8:36c--digitaal(0<400)', 'art-8:36c--overig(0<400)', 'art-8:36d(0<400)', 'art-8:36e(0<400)', 'art-8:36ea(0<400)']"
+        "krátký/chybějící komentář u 208 jednotek: ['art-8:36(0<400)', 'art-8:36a(0<400)', 'art-8:36b(0<400)', 'art-8:36c--digitaal(0<400)', 'art-8:36c--overig(0<400)', 'art-8:36d(0<400)', 'art-8:36e(0<400)', 'art-8:36ea(0<400)']",
+        "necommitnuté změny v repu"
       ],
       "warnings": [],
       "ok": false
     },
-    "validated_at": "2026-10-20T18:40:24.230527+00:00",
+    "validated_at": "2026-10-20T18:46:35.474900+00:00",
     "source_text_agreement": 1.0,
-    "output_clean_at_strict_check": true
+    "output_clean_at_strict_check": false,
+    "independent_review_scope": "Exactly twenty ids in review-result.json; earlier 360 commentaries preserved. Whole book incomplete.",
+    "assigned_batch_passed": true
   },
   "remaining_limitations": [
-    "208 eenheden buiten deze afgebakende auteursopdracht blijven ongeschreven.",
-    "De twintig nieuwe toelichtingen bij 8:18–8:35 wachten op een onafhankelijke tweede beoordeling. Bestaande reviewgegevens zijn behouden.",
-    "Selectief rechtspraakonderzoek, zonder volledige controle van vervolgprocedures of alle latere verwijzingen.",
-    "Nummerafwijking in RVS:2026:3129 gemeld; huidige wet rechtstreeks getoetst. Historische Wob-procedure niet als volledige actuele Woo-regel gebruikt.",
-    "Twee lokale HR-derivaten bevatten niet de volledige officiële body bij witruimtenormalisatie; de volledige primaire XML is opgehaald en gelezen.",
-    "Technische lengte-, tekst- en herhalingscontroles certificeren geen juridische kwaliteit."
+    "208 eenheden buiten deze reviewopdracht blijven ongeschreven; het gehele boek is onvoltooid.",
+    "Vijf bestaande volledige officiële uitspraken herlezen; rechtspraakdekking en controle van latere behandeling zijn selectief.",
+    "Drie lokale bodies stemmen onder witruimtenormalisatie geheel overeen; twee HR-derivaten verschillen in serialisatie. De officiële volledige tekst is leidend.",
+    "De vorige en geselecteerde wetstoestand zijn afzonderlijk gecontroleerd; niet alle historische versies zijn gedownload.",
+    "Firecrawl had nul tegoed; negentien rechtstreekse officiële responsen zijn wel opgehaald en gevalideerd.",
+    "Tekstidentiteit, lengte en herhalingscontrole zijn technische controles en bewijzen niet zelfstandig juridische kwaliteit. Geen externe professionele goedkeuring."
   ],
   "preflight": {
     "complete": true,
@@ -787,18 +790,18 @@
     "scope": "Source and parser only; manuscript incomplete."
   },
   "technical_audit": {
-    "checked_at": "2026-10-20T18:26:52.522651+00:00",
+    "checked_at": "2026-10-20T18:46:35.689167+00:00",
     "independent_review": false,
     "official_text_units_compared": 588,
     "official_xml_text_errors": [],
     "source_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
-    "commented_units": 360,
+    "commented_units": 380,
     "total_units": 588,
-    "commentary_chars": 700375,
+    "commentary_chars": 749793,
     "commentary_minimum_length_failures": [],
     "exact_repeated_paragraphs": [],
     "exact_repeated_long_sentences": [],
-    "local_links_checked": 1161,
+    "local_links_checked": 1246,
     "broken_local_links": [],
     "limitations": [
       "Geen inhoudelijke of onafhankelijke juridische kwaliteitscertificering.",
@@ -832,32 +835,33 @@
     ],
     "completed_units": 20,
     "evidence": "batch-8-18-35-result.json",
-    "independently_reviewed": false
+    "independently_reviewed": true,
+    "independent_review_evidence": "review-result.json"
   },
   "bounded_independent_review": {
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "art-8:2",
-      "art-8:3",
-      "art-8:4",
-      "art-8:5",
-      "art-8:6",
-      "art-8:7",
-      "art-8:8",
-      "art-8:9",
-      "art-8:10",
-      "art-8:10a",
-      "art-8:11",
-      "art-8:12",
-      "art-8:12a",
-      "art-8:12b",
-      "art-8:13",
-      "art-8:13a",
-      "art-8:14",
-      "art-8:15",
-      "art-8:16",
-      "art-8:17"
+      "art-8:18",
+      "art-8:19",
+      "art-8:20",
+      "art-8:21",
+      "art-8:22",
+      "art-8:23",
+      "art-8:24",
+      "art-8:25",
+      "art-8:26",
+      "art-8:27",
+      "art-8:28",
+      "art-8:28a",
+      "art-8:29",
+      "art-8:30",
+      "art-8:31",
+      "art-8:32",
+      "art-8:32a",
+      "art-8:33",
+      "art-8:34",
+      "art-8:35"
     ],
     "evidence": "review-result.json",
     "technical_evidence": "review-technical.json",
@@ -865,7 +869,7 @@
   },
   "cumulative_independent_review": {
     "complete": false,
-    "units_reviewed": 360,
+    "units_reviewed": 380,
     "reviewed_ids": [
       "aanhef",
       "art-1:1",
@@ -1226,12 +1230,32 @@
       "art-8:14",
       "art-8:15",
       "art-8:16",
-      "art-8:17"
+      "art-8:17",
+      "art-8:18",
+      "art-8:19",
+      "art-8:20",
+      "art-8:21",
+      "art-8:22",
+      "art-8:23",
+      "art-8:24",
+      "art-8:25",
+      "art-8:26",
+      "art-8:27",
+      "art-8:28",
+      "art-8:28a",
+      "art-8:29",
+      "art-8:30",
+      "art-8:31",
+      "art-8:32",
+      "art-8:32a",
+      "art-8:33",
+      "art-8:34",
+      "art-8:35"
     ],
-    "prior_cumulative_evidence": "sources/review-018/prior-status.json",
-    "prior_batch_evidence": "sources/review-018/prior-review-result.json",
+    "prior_cumulative_evidence": "sources/review-019/prior-status.json",
+    "prior_batch_evidence": "sources/review-019/prior-review-result.json",
     "current_batch_evidence": "review-result.json",
-    "remaining_units": 228
+    "remaining_units": 208
   },
   "unreviewed_authored_ids": []
 }
