@@ -16,3 +16,6 @@ De Afdeling kwalificeert de verordening, inclusief de kaart, als algemeen verbin
 Dit ondersteunt het procedurele onderscheid tussen uitgesloten rechtstreeks beroep en indirecte toetsing van een lagere algemene regeling. Het is geen bewijs dat ieder algemeen verbindend voorschrift zonder toepassingsbesluit rechtstreeks aanvechtbaar is, of dat dezelfde natuur- en ruimtelijke regels in 2026 gelden. Het geldende 8:3(1)(a) is in de huidige officiële Awb opnieuw gecontroleerd. De oudere materiële regels worden uitsluitend als context vermeld. De uitspraak wordt niet gebruikt als volledige theorie over de toetsing van formele wetten.
 
 Dit is een oorspronkelijke bronkaart bij selectief rechtspraakonderzoek, geen externe of onafhankelijke juridische goedkeuring. Er is geen afzonderlijke volledige controle van alle latere verwijzingen of vervolgprocedures verricht.
+
+
+Tweede inhoudelijke beoordeling op 20 oktober 2026 voor de toegewezen commentaareenheid: de volledige officiële uitspraak is opnieuw gelezen, inclusief de daarin opgenomen bijlage waar aanwezig. De [opnieuw opgehaalde bron](../sources/review-018/ECLI-NL-RVS-2022-2221.xml) is gecontroleerd tegen het lokale nationale corpus; zie [vergelijking](../sources/review-018/case-comparison.json). De hierboven beschreven begrenzing blijft gelden. Dit betreft geen externe professionele goedkeuring.

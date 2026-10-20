@@ -1,0 +1,303 @@
+---
+source: rechtspraak
+country: nl
+document_type: decision
+court: Raad van State
+ecli: ECLI:NL:RVS:2022:2221
+date: '2022-08-03'
+date_published: '2022-08-03'
+case_number:
+- 202002829/1/R2
+procedure:
+- Eerste aanleg - meervoudig
+subject:
+- Bestuursrecht
+relations: null
+references: null
+source_url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2022:2221
+download_url: https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2022:2221
+chars: 19821
+license: Public Domain Mark
+retrieved_at: '2026-10-05T11:25:04Z'
+---
+
+# ECLI:NL:RVS:2022:2221 – Raad van State, 2022-08-03
+
+- **Instantie:** Raad van State
+- **Datum:** 2022-08-03
+- **Zaaknummer:** 202002829/1/R2
+- **Rechtsgebied:** Bestuursrecht
+
+## Inhoudsindicatie
+
+Bij besluit van 23 januari 2020 heeft de raad van de gemeente Oisterwijk het bestemmingsplan "Nieuw Landgoed Reuseldal" vastgesteld. Het bestemmingsplan maakt het mogelijk om binnen het plangebied drie landhuiskavels met een gezamenlijke oppervlakte van 0,95 ha, bijbehorende infrastructuur alsmede 13,4 ha nieuwe natuur te realiseren. Het plangebied ligt ten oosten van de kern Moergestel in het oostelijk beekdal van de Reusel ter hoogte van de Oirschotseweg. In verband met het bestemmingsplan heeft het college van gedeputeerde staten van Noord-Brabant bij besluit van 17 december 2019 de begrenzing van het Natuur Netwerk Brabant nabij de zuidzijde van de Oirschotseweg te Moergestel, zoals aangewezen in de Interim omgevingsverordening Noord- Brabant (IOV), aangepast. Daartoe is de "Wijziging Interim omgevingsverordening Noord-Brabant (IOV) in verband met het plan Nieuw Landgoed Reuseldal; Oisterwijk" vastgesteld. Het Groene Hart Brabant en anderen kunnen zich niet met de vaststelling van het plan verenigen.
+
+## Uitspraak
+
+202002829/1/R2.
+
+Datum uitspraak: 3 augustus 2022
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak in het geding tussen:
+
+Vereniging Het Groene Hart Brabant, gevestigd te Boxtel, Stichting Brabantse Milieufederatie, gevestigd te Tilburg, Stichting Het Noordbrabants Landschap, gevestigd te ’s-Hertogenbosch, en B-Team Oisterwijk, gevestigd te Oisterwijk, (hierna: Het Groene Hart Brabant en anderen),
+
+appellanten,
+
+en
+
+de raad van de gemeente Oisterwijk,
+
+verweerder.
+
+Procesverloop
+
+Bij besluit van 23 januari 2020 heeft de raad het bestemmingsplan "Nieuw Landgoed Reuseldal" vastgesteld.
+
+Tegen dit besluit hebben Het Groene Hart Brabant en anderen beroep ingesteld.
+
+De raad heeft een verweerschrift ingediend.
+
+Daartoe in de gelegenheid gesteld hebben [partij A], [partij B], [partij C] en [partij D] (hierna: [partij A] en anderen), initiatiefnemers, een schriftelijke uiteenzetting gegeven.
+
+De raad en [partij A] en anderen hebben nadere stukken ingediend.
+
+De Afdeling heeft de zaak ter zitting behandeld op 23 september 2021, waar Het Groene Hart Brabant en anderen, vertegenwoordigd door H.C. Gerringa, bijgestaan door mr. R. Hörchner, advocaat te Breda, en de raad, vertegenwoordigd door ing. L.H.M. Kamerling-Hagens en ir. L. van Kempen, bijgestaan door mr. E.P. Euverman, advocaat te Breda, zijn verschenen. Voorts zijn ter zitting [partij A] en anderen, bijgestaan door mr. J.J.J. de Rooij, advocaat te Tilburg, als partij gehoord.
+
+Na sluiting van het onderzoek ter zitting heeft de Afdeling het onderzoek met toepassing van artikel 8:68 van de Algemene wet bestuursrecht (hierna: de Awb) heropend met het oog op het inwinnen van schriftelijke inlichtingen als bedoeld in artikel 8:45 van deze wet. Het college van gedeputeerde staten van Noord-Brabant heeft deze inlichtingen gegeven. De raad, [partij A] en anderen en Het Groene Hart Brabant en anderen hebben daarop gereageerd. Daartoe in de gelegenheid gesteld, heeft geen van de partijen verklaard gebruik te willen maken van het recht om op een nadere zitting te worden gehoord, waarna de Afdeling het onderzoek heeft gesloten.
+
+Overwegingen
+
+Inleiding
+
+1. Het bestemmingsplan maakt het mogelijk om binnen het plangebied drie landhuiskavels met een gezamenlijke oppervlakte van 0,95 ha, bijbehorende infrastructuur alsmede 13,4 ha nieuwe natuur te realiseren. Het plangebied ligt ten oosten van de kern Moergestel in het oostelijk beekdal van de Reusel ter hoogte van de Oirschotseweg. In verband met het bestemmingsplan heeft het college van gedeputeerde staten van Noord-Brabant bij besluit van 17 december 2019 de begrenzing van het Natuur Netwerk Brabant nabij de zuidzijde van de Oirschotseweg te Moergestel, zoals aangewezen in de Interim omgevingsverordening Noord- Brabant (IOV), aangepast. Daartoe is de "Wijziging Interim omgevingsverordening Noord-Brabant (IOV) in verband met het plan Nieuw Landgoed Reuseldal; Oisterwijk" vastgesteld.
+
+Het Groene Hart Brabant en anderen kunnen zich niet met de vaststelling van het plan verenigen. Zij vrezen dat het Natuur Netwerk Brabant (hierna: het NNB) zal worden aangetast als gevolg van de ontwikkelingen waar het plan in voorziet.
+
+Toetsingskader
+
+2. Bij de vaststelling van een bestemmingsplan moet de raad bestemmingen aanwijzen en regels geven die de raad uit het oogpunt van een goede ruimtelijke ordening nodig acht. De raad heeft daarbij beleidsruimte en moet de betrokken belangen afwegen. De Afdeling oordeelt niet zelf of het plan in overeenstemming is met een goede ruimtelijke ordening. De Afdeling beoordeelt aan de hand van de beroepsgronden of het besluit tot vaststelling van het bestemmingsplan in overeenstemming is met het recht. Daarbij kan aan de orde komen of de nadelige gevolgen van het plan onevenredig zijn in verhouding tot de met het plan te dienen doelen.
+
+Wettelijk kader
+
+3. De relevante wettelijke bepalingen die ten grondslag liggen aan de hierna volgende rechtsoverwegingen zijn opgenomen in de bijlage bij deze uitspraak. De bijlage maakt deel uit van deze uitspraak.
+
+Herbegrenzing van het Natuur Netwerk Brabant (NNB)
+
+4. Het Groene Hart Brabant en anderen betogen dat de herbegrenzing van het NNB door aanpassing van de kaart die onderdeel is van de Interim Omgevingsverordening Noord-Brabant (hierna: de IOV) in strijd is met artikel 2.10.5, aanhef en onder b, van het Besluit algemene regels ruimtelijke ordening (hierna: het Barro). Zij voeren aan dat niet is voldaan aan de voorwaarden van dat artikel, omdat geen sprake is van een kleinschalige ontwikkeling, de wezenlijke kenmerken van het Reuseldal worden aangetast, de wezenlijke kenmerken en waarden van het gebied niet worden versterkt en de oppervlakte van het NNB niet gelijk blijft, maar wordt verkleind.
+
+Daarnaast voeren zij aan dat de compensatieregeling in de artikelen 3.22 en 3.23 van de IOV in strijd is met artikel 2.10.5, onder a en b, van het Barro, omdat in die artikelen van de IOV is bepaald dat vernietigd of verstoord NNB areaal binnen niet gerealiseerde delen van het NNB gecompenseerd kan worden.
+
+4.1. De IOV, waarvan de kaart met de begrenzing van het NNB deel uitmaakt, is een algemeen verbindend voorschrift. Daartegen kan, gelet op artikel 8:3, eerste lid, onder a, van de Awb, geen beroep worden ingesteld. Een rechter kan een algemeen verbindend voorschrift, dat geen wet in formele zin is, in een zaak over een besluit dat op dat voorschrift gebaseerd is, echter wel toetsen op rechtmatigheid. In het bijzonder gaat het daarbij om de vraag of het voorschrift niet in strijd is met hogere regelgeving. De rechter komt ook de bevoegdheid toe te beoordelen of dat algemeen verbindend voorschrift een voldoende deugdelijke grondslag biedt voor het besluit waarover de zaak gaat. Bij die indirecte toetsing van het algemeen verbindend voorschrift vormen de algemene rechtsbeginselen van behoorlijk bestuur een belangrijk richtsnoer, waarbij de toetsing wordt verricht op de wijze zoals de Afdeling die heeft uiteengezet in haar uitspraak van 12 februari 2020, ECLI:NL:RVS:2020:452.
+
+4.2. Het college van gedeputeerde staten van Noord-Brabant heeft in de brief van 25 januari 2022 desgevraagd nadere inlichtingen verstrekt over de verhouding tussen het Barro en het NNB van de IOV. Door het college is toegelicht dat het bij het Natuurpact in 2013 heeft aangegeven vast te houden aan de ambitie om 19.969 ha aan nieuwe natuur te realiseren en dat er op het moment 21.211 ha als NNB is begrensd in de IOV. Dat betekent dat er sprake is van een overbegrenzing van 1.242 ha, zo stelt het college. Het beoogde natuurnetwerk Nederland (hierna: NNN) is in de IOV opgenomen in het NNB. De vraag of het deel van het NNB dat ten behoeve van het voorliggende plan is herbegrensd behoorde tot het NNN als bedoeld in artikel 2.10.1, eerste lid, van het Barro kan volgens het college bevestigend noch ontkennend beantwoord worden. Er bestaat namelijk geen planologisch onderscheid tussen het NNN en NNB. Wel bestaat er een onderscheid tussen bestaande natuur en gerealiseerde nieuwe natuur versus de nog niet gerealiseerde nieuwe natuur. Bestaande natuur en gerealiseerde nieuwe natuur maakt volgens het college deel uit van het NNB, en daarmee ook het NNN, maar voor nog niet gerealiseerde natuur kan dat niet met zekerheid gezegd worden. Dit komt omdat de overbegrenzing van 1.242 ha nog niet als natuur is ingericht. Welke delen van het NNB uiteindelijk tot het NNN behoren, hangt af van de omstandigheid of ze feitelijk als nieuwe natuur worden ingericht. Daarbij merkt het college op dat met provinciale staten is afgesproken dat de overbegrenzing uiterlijk in 2027 is beëindigd, zodat de begrenzing van het NNN dan wel NNB op dat moment definitief is. Nu er binnen het deel van het NNB van de IOV dat ten behoeve van het voorliggende plan is herbegrensd nog geen natuur was gerealiseerd, kan de vraag of dat deel behoorde tot het NNN niet beantwoord worden, aldus het college.
+
+4.3. In artikel 2.10.2, eerste lid, van het Barro is bepaald dat bij provinciale verordening de gebieden worden aangewezen die het NNN vormen. De ligging van deze gebieden moet geometrisch worden vastgelegd. Uit de Nota van Toelichting bij het besluit tot wijziging van het Barro (Stb. 2016, 202, p. 15, hierna: de NvT) blijkt dat in het Natuurpact is afgesproken dat de provincies zich inspannen om de planologische begrenzing van het NNN op 31 december 2013 afgerond te hebben. In de NvT staat verder dat deze planologische begrenzing inmiddels daadwerkelijk is afgerond. Gelet hierop en de omstandigheid dat er slechts één natuurnetwerk geometrisch is vastgelegd in de IOV, ziet de Afdeling geen ruimte voor een andere conclusie dan dat het NNB zoals begrensd in de IOV het NNN is als bedoeld in het Barro.
+
+Het voorgaande betekent dat een wijziging van de begrenzing van het NNB ten behoeve van een kleinschalige ontwikkeling op grond van artikel 2.10.5, aanhef en onder b, onderdeel 3, van het Barro alleen mogelijk is voor zover de oppervlakte van het NNB ten minste gelijk blijft. Nu de oppervlakte van het NNB bij het besluit tot wijziging van de IOV van het college van 17 december 2019 ten behoeve van het voorliggende plan met 1,05 ha is afgenomen, zonder dat er een oppervlakte van dezelfde omvang op een andere locatie aan het NNB is toegevoegd, is er sprake van strijd met artikel 2.10.5, aanhef en onder b, onderdeel 3, van het Barro. Daarbij neemt de Afdeling in aanmerking dat titel 2.10 van het Barro geen onderscheid maakt tussen nog niet gerealiseerde natuur en bestaande of nieuw gerealiseerde natuur, maar uitgaat van het NNN zoals planologisch is vastgelegd in de IOV. Derhalve ziet de Afdeling aanleiding voor het oordeel dat het besluit tot wijziging van de IOV van het college van 17 december 2019 onverbindend verklaard moet worden.
+
+Het betoog slaagt.
+
+5. De conclusie is dat het besluit tot wijziging van de IOV van het college van 17 december 2019 in strijd is met artikel 2.10.5, aanhef en onder b, onderdeel 3, van het Barro, omdat de oppervlakte van het NNN als gevolg van dat besluit niet gelijk blijft, maar afneemt met 1,05 ha. Gelet hierop heeft de raad het besluit van 23 januari 2020 niet kunnen baseren op het besluit tot herbegrenzing van het college. Daarnaast heeft de onverbindend verklaring van het besluit van het college van 17 december 2019 tot gevolg dat het plan gronden die behoren tot het NNB voorziet van de bestemmingen "Wonen" en "Verkeer". Nu deze bestemmingen niet strekken tot het behoud, herstel of de duurzame ontwikkeling van ecologische waarden en kenmerken van het NNB, is sprake van strijd met artikel 3.15 van de IOV. De Afdeling komt niet meer toe aan een bespreking van de overige beroepsgronden van Het Groene Hart Brabant en anderen.
+
+Conclusie
+
+6. Gelet op wat Het Groene Hart Brabant en anderen hebben aangevoerd ziet de Afdeling aanleiding voor het oordeel dat het besluit van 23 januari 2020, voor zover daarin aan de gronden met de aanduiding "Natuur Netwerk Brabant" de bestemmingen "Wonen" en "Verkeer" zijn toegekend, in strijd is met artikel 3.15, eerste lid, onder a, van de IOV. Het beroep is gegrond, zodat het bestreden besluit in zoverre moet worden vernietigd. Gelet op de samenhang met de andere plandelen in het plan, ziet de Afdeling aanleiding het gehele plan te vernietigen.
+
+7. Uit een oogpunt van rechtszekerheid en gelet op artikel 1.2.3 van het Besluit ruimtelijke ordening, ziet de Afdeling aanleiding de raad op te dragen het hierna in de beslissing nader aangeduide onderdeel van deze uitspraak binnen vier weken na verzending van de uitspraak te verwerken op de landelijke voorziening, www.ruimtelijkeplannen.nl.
+
+Proceskosten
+
+8. De raad moet de proceskosten vergoeden.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State:
+
+I. verklaart het beroep van Het Groene Hart Brabant en anderen gegrond;
+
+II. vernietigt het besluit van de raad van de gemeente Oisterwijk van 23 januari 2020 tot vaststelling van het bestemmingsplan "Nieuw Landgoed Reuseldal";
+
+III. draagt de raad van de gemeente Oisterwijk op om binnen vier weken na verzending van deze uitspraak ervoor zorg te dragen dat het hiervoor vermelde onderdeel II wordt verwerkt op de landelijke voorziening, www.ruimtelijkeplannen.nl.;
+
+IV. veroordeelt de raad van de gemeente Oisterwijk tot vergoeding van bij Het Groene Hart Brabant en anderen in verband met de behandeling van het beroep opgekomen proceskosten tot een bedrag van € 1.897,50, geheel toe te rekenen aan door een derde beroepsmatig verleende rechtsbijstand, met dien verstande dat bij betaling van genoemd bedrag aan een van hen het bestuursorgaan aan zijn betalingsverplichting heeft voldaan;
+
+V. gelast dat de raad van de gemeente Oisterwijk aan Het Groene Hart Brabant en anderen het door hen voor de behandeling van het beroep betaalde griffierecht ten bedrage van € 354,00 vergoedt, met dien verstande dat bij betaling van genoemd bedrag aan een van hen het bestuursorgaan aan zijn betalingsverplichting heeft voldaan.
+
+Aldus vastgesteld door mr. E. Helder, voorzitter, mr. G.T.J.M. Jurgens en mr. M. Soffers, leden, in tegenwoordigheid van mr. R.P.F. Boermans, griffier.
+
+w.g. Helder
+
+voorzitter
+
+w.g. Boermans
+
+griffier
+
+Uitgesproken in het openbaar op 3 augustus 2022
+
+429-884
+
+BIJLAGE
+
+Besluit algemene regels ruimtelijke ordening
+
+Artikel 2.10.1 luidt:
+
+"1. In deze titel en de daarop berustende bepalingen wordt verstaan onder:
+
+natuurnetwerk Nederland: stelsel van natuurgebieden van internationaal of nationaal belang dat strekt tot de veiligstelling van ecosystemen met de daarbij behorende soorten;
+
+nieuwe bebouwing: het oprichten van bouwwerken, anders dan het vervangen van bouwwerken door bouwwerken van gelijke omvang;
+
+wezenlijke kenmerken en waarden: aanwezige natuurwaarden en, voor gebieden met een bestemming natuur, tevens potentiële natuurwaarden en de daarvoor vereiste bodem- en watercondities, voor zover deze natuurwaarden en condities in het licht van de internationale biodiversiteitdoelstellingen relevant zijn.
+
+[…]."
+
+Artikel 2.10.2 luidt:
+
+"1. Bij provinciale verordening worden de gebieden aangewezen die het natuurnetwerk Nederland vormen. De ligging van die gebieden wordt geometrisch vastgelegd.
+
+[…]."
+
+Artikel 2.10.4 luidt:
+
+"1. Bij provinciale verordening worden regels gesteld die bewerkstelligen dat een bestemmingsplan dat betrekking heeft op een gebied behorende tot het natuurnetwerk Nederland en een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onderdeel a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan wordt afgeweken geen activiteiten mogelijk maken ten opzichte van het ten tijde van inwerkingtreding van de verordening geldende bestemmingsplan, die per saldo leiden tot een significante aantasting van de wezenlijke kenmerken en waarden, of tot een significante vermindering van de oppervlakte van die gebieden, of van de samenhang tussen die gebieden, tenzij:
+
+a. er sprake is van een groot openbaar belang,
+
+b. er geen reële alternatieven zijn, en
+
+c. de negatieve effecten op de wezenlijke kenmerken en waarden, oppervlakte en samenhang worden beperkt en de overblijvende effecten gelijkwaardig worden gecompenseerd.
+
+[…]."
+
+Artikel 2.10.5 luidt:
+
+"De begrenzing, bedoeld in artikel 2.10.2, eerste lid, kan bij provinciale verordening worden gewijzigd:
+
+a. ten behoeve van een verbetering van de samenhang of een betere planologische inpassing van het natuurnetwerk Nederland, voor zover:
+
+1°. de wezenlijke kenmerken en waarden van het natuurnetwerk Nederland worden behouden, en
+
+2°. de oppervlakte van het natuurnetwerk Nederland ten minste gelijk blijft;
+
+b. ten behoeve van een kleinschalige ontwikkeling, voor zover:
+
+1°. de aantasting van de wezenlijke kenmerken en waarden en de samenhang van het natuurnetwerk Nederland beperkt is,
+
+2°. de ontwikkeling per saldo gepaard gaat met een versterking van de wezenlijke kenmerken en waarden van het natuurnetwerk Nederland, of een vergroting van de oppervlakte van het natuurnetwerk Nederland, en
+
+3°. de oppervlakte van het natuurnetwerk Nederland ten minste gelijk blijft;
+
+c. ten behoeve van de toepassing van de krachtens artikel 2.10.4, eerste lid, gestelde regels."
+
+Interim Omgevingsverordening Noord-Brabant
+
+Artikel 3.15 luidt:
+
+"Lid 1
+
+Een bestemmingsplan van toepassing op Natuur Netwerk Brabant:
+
+a. strekt tot het behoud, herstel of de duurzame ontwikkeling van de ecologische waarden en kenmerken;
+
+b. bevat regels gericht op de bescherming van de ecologische waarden en kenmerken en houdt daarbij ook rekening met andere aanwezige waarden en kenmerken, zoals rust, stilte, cultuurhistorische waarden en kenmerken;
+
+c. staat, zolang het Natuur Netwerk Brabant niet is gerealiseerd, bestaande bebouwing en bestaande planologische gebruiksactiviteiten toe.
+
+[…]."
+
+Artikel 3.21 luidt:
+
+"Lid 1
+
+Een bestemmingsplan kan een ontwikkeling binnen Natuur Netwerk Brabant mogelijk maken in het geval dat:
+
+a. de aantasting van areaal Natuur Netwerk Brabant kleinschalig is;
+
+b. de ontwikkeling slechts leidt tot een beperkte aantasting van de ecologische waarden en kenmerken van het Natuur Netwerk Brabant;
+
+c. de ontwikkeling leidt tot een kwalitatieve of kwantitatieve versterking van de ecologische waarden en kenmerken van het Natuur Netwerk Brabant als geheel;
+
+d. er een afweging van alternatieven heeft plaatsgevonden;
+
+e. er sprake is van een goede landschappelijke en natuurlijke inpassing;
+
+f. er bij verlies van ecologische waarden en kenmerken wordt voldaan aan artikel 3.22 Compensatie;
+
+g. op welke wijze de uitvoering en monitoring zijn verzekerd.
+
+[...]."
+
+Artikel 3.22 luidt:
+
+"Lid 1
+
+De verplichte compensatie vindt, naar keuze, plaats door:
+
+1. fysieke compensatie, overeenkomstig artikel 3.23;
+
+2. financiële compensatie, overeenkomstig artikel 3.24.
+
+Lid 2
+
+De omvang van de compensatie wordt bepaald door de omvang van het vernietigde of verstoorde areaal en de ontwikkeltijd van de aangetaste natuur, conform de volgende indeling:
+
+a. natuur met een ontwikkeltijd van 5 jaar of minder: geen toeslag;
+
+b. tussen 5 en 25 jaar te ontwikkelen natuur: toeslag van 1/3 in oppervlak;
+
+c. tussen 25 en 100 jaar te ontwikkelen natuur: toeslag van 2/3 in oppervlak;
+
+d. bij een ontwikkelingsduur van meer dan 100 jaar: de toeslag in oppervlak en de gekapitaliseerde kosten van het ontwikkelingsbeheer is maatwerk;
+
+e. bij verstoring van natuur: maatwerk."
+
+Artikel 3.23 luidt:
+
+"Lid 1
+
+De fysieke compensatie vindt plaats in:
+
+a. de niet gerealiseerde delen van het Natuur Netwerk Brabant;
+
+b. de niet gerealiseerde ecologische verbindingszones.
+
+Lid 2
+
+Fysieke compensatie kan ook plaatsvinden in, aansluitend op of nabij het aangetaste gebied als dit deel uitmaakt van de saldobenadering bedoeld in artikel 3.20 Toepassing van de saldobenadering.
+
+Lid 3
+
+Een bestemmingsplan waarvoor een compensatieplicht geldt, borgt de uitvoering van de compensatie.
+
+Lid 4
+
+De toelichting bij een bestemmingsplan als bedoeld in het derde lid bevat een verantwoording over:
+
+a. de omvang van het netto verlies aan ecologische waarden en kenmerken en op welke locatie dat optreedt;
+
+b. de locatie waar en de wijze waarop het netto verlies, genoemd onder a, wordt gecompenseerd;
+
+c. de kwaliteit en kwantiteit van de compensatie;
+
+d. de termijn van uitvoering;
+
+e. de inhoud en realisatie van de voorgenomen mitigerende en compenserende maatregelen;
+
+f. het reguliere- en ontwikkelingsbeheer.
+
+Lid 5
+
+De uitvoering van de fysieke compensatie wordt binnen drie jaar na onherroepelijk worden van het bestemmingsplan, bedoeld in het derde lid afgerond.
+
+[…].
+
+Lid 7
+
+In afwijking van het vijfde lid kan bij een omvangrijke en zware compensatieverplichting, de uitvoering van de compensatie een termijn van maximaal tien jaar bedragen, gerekend vanaf het onherroepelijk worden van het bestemmingsplan."

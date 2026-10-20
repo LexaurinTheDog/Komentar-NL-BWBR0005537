@@ -16,3 +16,6 @@ Volgens de Afdeling voldeed dit niet aan artikel 8:16, eerste lid. De genoemde o
 De zaak onderbouwt de onmiddellijke indiening na bekendheid met de feiten. Zij stelt geen algemene wettelijke termijn van veertien dagen en evenmin een absoluut verbod op enig overleg met een advocaat. Lid 1 is opnieuw met de geldende Awb vergeleken en in deze kern ongewijzigd. De uitspraak ondersteunt niet de in 2026 toegevoegde tweede zin van lid 5; daarvoor worden de wijzigingswet en het inwerkingtredingsbesluit zelfstandig gebruikt.
 
 Dit is een oorspronkelijke bronkaart bij selectief rechtspraakonderzoek, geen externe of onafhankelijke juridische goedkeuring. Er is geen afzonderlijke volledige controle van alle latere verwijzingen of vervolgprocedures verricht.
+
+
+Tweede inhoudelijke beoordeling op 20 oktober 2026 voor de toegewezen commentaareenheid: de volledige officiële uitspraak is opnieuw gelezen, inclusief de daarin opgenomen bijlage waar aanwezig. De [opnieuw opgehaalde bron](../sources/review-018/ECLI-NL-RVS-2017-2719.xml) is gecontroleerd tegen het lokale nationale corpus; zie [vergelijking](../sources/review-018/case-comparison.json). De hierboven beschreven begrenzing blijft gelden. Dit betreft geen externe professionele goedkeuring.

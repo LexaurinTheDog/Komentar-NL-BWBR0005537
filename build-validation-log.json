@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T18:20:12.916310+00:00",
+  "checked_at": "2026-10-20T18:26:51.661006+00:00",
   "shared_builder": {
     "command": [
       "python3",
@@ -10,7 +10,7 @@
     "stdout": "",
     "stderr": "CHYBÍ komentář k 228 jednotkám, např.: ['art-8:18', 'art-8:19', 'art-8:20', 'art-8:21', 'art-8:22', 'art-8:23', 'art-8:24', 'art-8:25', 'art-8:26', 'art-8:27']\n"
   },
-  "checkpoint_method": "Render affected chapter 18 from actual commentaries using shared loaders and quote. Full builder remains unchanged and blocks only on missing out-of-scope commentary. No scaffolding prose created.",
-  "bounded_authoring_complete": true,
+  "checkpoint_method": "Re-render actual chapter 18 using unchanged shared loaders and quote; all manuscript gates unchanged. No missing-unit prose fabricated.",
+  "bounded_review_complete": true,
   "whole_book_complete": false
 }

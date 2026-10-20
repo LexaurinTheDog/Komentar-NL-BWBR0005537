@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T18:21:14.185078+00:00",
+  "updated_at": "2026-10-20T18:26:51.661006+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -15,8 +15,8 @@
     "verified_at": "2026-10-20T13:47:01.778268+00:00",
     "current_recheck_date": "2026-10-20",
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
-    "review_verified_at": "2026-10-20T18:02:56.762889+00:00",
-    "review_evidence": "sources/review-017/verification.json",
+    "review_verified_at": "2026-10-20T18:26:51.661006+00:00",
+    "review_evidence": "sources/review-018/verification.json",
     "author_batch_verified_at": "2026-10-20T18:20:12.916310+00:00",
     "author_batch_evidence": "sources/author-8-2-17/verification.json"
   },
@@ -738,7 +738,7 @@
   "validation_result": {
     "complete": false,
     "reason": "228 eenheden buiten deze auteursbatch hebben geen commentaar; volledige gedeelde bouw blijft geblokkeerd.",
-    "not_independent_review": true,
+    "not_independent_review": false,
     "strict_validator": {
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
@@ -750,7 +750,7 @@
       "warnings": [],
       "ok": false
     },
-    "independent_review_scope": "Earlier independent review evidence preserved. New author batch 8:2–8:17 awaits independent second pass.",
+    "independent_review_scope": "Exactly twenty ids in review-result.json; earlier 340 independently reviewed units preserved. Whole book incomplete.",
     "validated_at": "2026-10-20T18:21:14.185078+00:00",
     "evidence": "strict-validation.json",
     "bounded_review_passed": true,
@@ -772,12 +772,13 @@
     }
   },
   "remaining_limitations": [
-    "228 eenheden buiten deze auteursopdracht blijven ongeschreven.",
-    "De twintig nieuwe toelichtingen bij 8:2–8:17 wachten op een onafhankelijke tweede beoordeling; eerdere reviewgegevens blijven behouden.",
-    "Selectief rechtspraakonderzoek zonder volledige controle van alle vervolgprocedures.",
-    "De afzonderlijke amicusreacties en aangehechte rechtbankuitspraak in IsoSun zijn niet zelfstandig als autoriteiten onderzocht; geen actuele natuurrechtelijke handleiding.",
-    "De volledige actuele rechtbankenrangorde in de Wet op de rechterlijke indeling is niet afzonderlijk onderzocht; geen concrete forumkeuze daarop gebaseerd.",
-    "Technische tekstidentiteit, minimumlengte en afwezigheid van letterlijke herhaling bewijzen geen juridische kwaliteit."
+    "Uitsluitend de twintig genoemde eenheden onafhankelijk inhoudelijk beoordeeld; geen hele-boekvoltooiing.",
+    "228 eenheden buiten deze opdracht blijven ongeschreven en zonder tweede beoordeling.",
+    "Vier bestaande officiële uitspraken volledig opnieuw gelezen; rechtspraakonderzoek en latere-behandelingscontrole zijn selectief.",
+    "Afzonderlijke amicusreacties en aangehechte rechtbankuitspraak bij IsoSun niet als zelfstandige autoriteiten onderzocht; historisch materieel natuurrecht geen actuele 2026-handleiding.",
+    "Geen concreet forum op basis van de volledige externe rechtbankenrangorde aangewezen; Wet op de rechterlijke indeling niet integraal zelfstandig onderzocht.",
+    "Firecrawl heeft nul resterende credits; rechtstreekse officiële HTTP-downloads zijn geslaagd.",
+    "Tekstidentiteit, lengte en herhalingscontrole bewijzen op zichzelf geen juridische kwaliteit."
   ],
   "preflight": {
     "complete": true,
@@ -830,32 +831,33 @@
     ],
     "completed_units": 20,
     "evidence": "batch-8-2-17-result.json",
-    "independently_reviewed": false
+    "independently_reviewed": true,
+    "independent_review_evidence": "review-result.json"
   },
   "bounded_independent_review": {
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "art-7:12",
-      "art-7:13",
-      "art-7:14",
-      "art-7:14a",
-      "art-7:15",
-      "art-7:16",
-      "art-7:17",
-      "art-7:18",
-      "art-7:19",
-      "art-7:20",
-      "art-7:21",
-      "art-7:22",
-      "art-7:23",
-      "art-7:24",
-      "art-7:25",
-      "art-7:26",
-      "art-7:27",
-      "art-7:27a",
-      "art-7:28",
-      "art-8:1"
+      "art-8:2",
+      "art-8:3",
+      "art-8:4",
+      "art-8:5",
+      "art-8:6",
+      "art-8:7",
+      "art-8:8",
+      "art-8:9",
+      "art-8:10",
+      "art-8:10a",
+      "art-8:11",
+      "art-8:12",
+      "art-8:12a",
+      "art-8:12b",
+      "art-8:13",
+      "art-8:13a",
+      "art-8:14",
+      "art-8:15",
+      "art-8:16",
+      "art-8:17"
     ],
     "evidence": "review-result.json",
     "technical_evidence": "review-technical.json",
@@ -863,7 +865,7 @@
   },
   "cumulative_independent_review": {
     "complete": false,
-    "units_reviewed": 340,
+    "units_reviewed": 360,
     "reviewed_ids": [
       "aanhef",
       "art-1:1",
@@ -1204,12 +1206,32 @@
       "art-7:27",
       "art-7:27a",
       "art-7:28",
-      "art-8:1"
+      "art-8:1",
+      "art-8:2",
+      "art-8:3",
+      "art-8:4",
+      "art-8:5",
+      "art-8:6",
+      "art-8:7",
+      "art-8:8",
+      "art-8:9",
+      "art-8:10",
+      "art-8:10a",
+      "art-8:11",
+      "art-8:12",
+      "art-8:12a",
+      "art-8:12b",
+      "art-8:13",
+      "art-8:13a",
+      "art-8:14",
+      "art-8:15",
+      "art-8:16",
+      "art-8:17"
     ],
-    "prior_cumulative_evidence": "sources/review-017/prior-status.json",
-    "prior_batch_evidence": "sources/review-017/prior-review-result.json",
+    "prior_cumulative_evidence": "sources/review-018/prior-status.json",
+    "prior_batch_evidence": "sources/review-018/prior-review-result.json",
     "current_batch_evidence": "review-result.json",
-    "remaining_units": 248
+    "remaining_units": 228
   },
   "unreviewed_authored_ids": []
 }
