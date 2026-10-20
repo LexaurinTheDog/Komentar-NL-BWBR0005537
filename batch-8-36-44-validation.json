@@ -1,10 +1,32 @@
 {
-  "checked_at": "2026-10-20T18:57:35.623481+00:00",
+  "checked_at": "2026-10-20T18:58:49.654928+00:00",
   "bounded_author_technical_ok": true,
   "authored_units": 20,
   "preserved_prior_commentaries": 380,
   "whole_book_complete": false,
   "global_missing_commentaries": 188,
   "source_text_agreement": 1.0,
-  "independent_review": false
+  "independent_review": false,
+  "strict_validator": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 794197,
+    "errors": [
+      "krátký/chybějící komentář u 188 jednotek: ['art-8:45(0<400)', 'art-8:45a(0<400)', 'art-8:46(0<400)', 'art-8:47(0<400)', 'art-8:48(0<400)', 'art-8:49(0<120)', 'art-8:50(0<400)', 'art-8:51(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "strict_exit_code": 1,
+  "only_global_failure": "188 ontbrekende commentaren buiten de twintig toegewezen ids.",
+  "output_clean_at_strict_check": true,
+  "technical_audit": "technical-audit.json",
+  "completeness": "sources/author-8-36-44/coverage-recheck.json",
+  "independent_coverage_ok": true,
+  "exact_repeated_paragraphs": 0,
+  "exact_repeated_long_sentences": 0,
+  "broken_local_links": 0,
+  "local_links_checked": 1301,
+  "source_manifest_files_verified": 1149
 }

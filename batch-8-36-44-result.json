@@ -86,5 +86,21 @@
     "Selectieve rechtspraak, geen volledige latere-behandelingscontrole. Historische draagkrachtcriteria niet als actuele normen toegepast.",
     "Geen volledige gefaseerde invoeringskaart voor alle gerechten/zaaktypen; toepasselijkheid moet per procedure worden vastgesteld.",
     "Technische lengte- en tekstcontroles bewijzen geen juridische kwaliteit."
-  ]
+  ],
+  "validation_evidence": "batch-8-36-44-validation.json",
+  "strict_validation": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 794197,
+    "errors": [
+      "krátký/chybějící komentář u 188 jednotek: ['art-8:45(0<400)', 'art-8:45a(0<400)', 'art-8:46(0<400)', 'art-8:47(0<400)', 'art-8:48(0<400)', 'art-8:49(0<120)', 'art-8:50(0<400)', 'art-8:51(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "checkpoint_commits": {
+    "work_authorship": "04d53a9c9f5550d3e1bbeb291b3bcc58289354f0",
+    "output_authorship": "e38cb0d2f5cdf7e2c01fe06c49f64245eba13a71"
+  }
 }

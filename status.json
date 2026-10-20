@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T18:57:35.623481+00:00",
+  "updated_at": "2026-10-20T18:58:49.654928+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -768,7 +768,21 @@
     "not_independent_review": true,
     "whole_book_complete": false,
     "bounded_author_passed": true,
-    "evidence": "batch-8-36-44-validation.json"
+    "evidence": "batch-8-36-44-validation.json",
+    "strict_validator": {
+      "repo": "Komentar-NL-BWBR0005537",
+      "units": 588,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 794197,
+      "errors": [
+        "krátký/chybějící komentář u 188 jednotek: ['art-8:45(0<400)', 'art-8:45a(0<400)', 'art-8:46(0<400)', 'art-8:47(0<400)', 'art-8:48(0<400)', 'art-8:49(0<120)', 'art-8:50(0<400)', 'art-8:51(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "validated_at": "2026-10-20T18:58:49.654928+00:00",
+    "source_text_agreement": 1.0,
+    "output_clean_at_strict_check": true
   },
   "remaining_limitations": [
     "188 eenheden buiten deze afgebakende auteursbatch zijn nog ongeschreven.",
