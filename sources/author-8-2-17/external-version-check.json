@@ -1,0 +1,490 @@
+{
+  "verified_at": "2026-10-20T18:17:57.023628+00:00",
+  "decisive_date": "2026-10-19",
+  "batch_date": "2026-10-20",
+  "ambtenarenwet": {
+    "official_url": "https://wetten.overheid.nl/BWBR0001947/2025-07-01",
+    "xml_evidence": "sources/author-8-2-17/ambtenarenwet.xml",
+    "sha256": "ebfc5a1200c37abd31972f7ca695654d53d0db09d919c2a6590e203f6e5dcb78",
+    "current_effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 01-07-2025 t/m heden.",
+    "latest_effective_on_decisive_date": "2025-07-01",
+    "history_rows": [
+      {
+        "date": "2025-07-01",
+        "text": "01-07-2025 Wijziging Datum inwerkingtreding: 01-07-2025 Ontstaansbron: Stb. 2025, 9 Inwerkingtredingsbron: Stb. 2025, 145 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 11-12-2024 Stb. 2025, 9 36440 06-05-2025 Stb. 2025, 145"
+      },
+      {
+        "date": "2024-09-01",
+        "text": "01-09-2024 Wijziging Datum inwerkingtreding: 01-09-2024 Ontstaansbron: Stb. 2024, 109 Inwerkingtredingsbron: Stb. 2024, 154 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 18-04-2024 Stb. 2024, 109 36478 06-06-2024 Stb. 2024, 154"
+      },
+      {
+        "date": "2022-08-01",
+        "text": "01-08-2022 Wijziging Datum inwerkingtreding: 01-08-2022 Ontstaansbron: Stb. 2022, 116 Inwerkingtredingsbron: Stb. 2022, 117 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 23-02-2022 Stb. 2022, 116 35946 11-03-2022 Stb. 2022, 117"
+      },
+      {
+        "date": "2020-01-01",
+        "text": "01-01-2020 Wijziging 11-12-2019 samen met 27-09-2019 samen met 17-04-2019 samen met 09-03-2017 samen met 12-07-2012 Stb. 2019, 483 samen met Stb. 2019, 395 samen met Stb. 2019, 173 samen met Stb. 2017, 123 samen met Stb. 2012, 313 35275 samen met 35089 samen met 35073 samen met 32550 samen met 32891 24-10-2019 Stb. 2019, 385"
+      },
+      {
+        "date": "2018-07-28",
+        "text": "28-07-2018 t/m 25-05-2018 1) Wijziging Datum inwerkingtreding: 28-07-2018 Ontstaansbron: Stb. 2018, 247 Inwerkingtredingsbron: Stb. 2018, 248 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 11-07-2018 Stb. 2018, 247 34939 11-07-2018 Stb. 2018, 248"
+      },
+      {
+        "date": "2018-05-01",
+        "text": "01-05-2018 Wijziging Datum inwerkingtreding: 01-05-2018 Ontstaansbron: Stb. 2017, 317 Inwerkingtredingsbron: Stb. 2018, 119 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 26-07-2017 Stb. 2017, 317 34588 18-04-2018 Stb. 2018, 119"
+      },
+      {
+        "date": "2017-01-01",
+        "text": "01-01-2017 Wijziging Datum inwerkingtreding: 01-01-2017 Ontstaansbron: Stb. 2015, 456 Inwerkingtredingsbron: Stb. 2016, 503 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 02-12-2015 Stb. 2015, 456 34162 09-12-2016 Stb. 2016, 503"
+      },
+      {
+        "date": "2016-08-01",
+        "text": "01-08-2016 t/m 01-01-2016 2) Wijziging Datum inwerkingtreding: 01-08-2016 Ontstaansbron: Stb. 2016, 206 Inwerkingtredingsbron: Stb. 2016, 270 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 18-05-2016 Stb. 2016, 206 34191 29-06-2016 Stb. 2016, 270"
+      },
+      {
+        "date": "2016-07-01",
+        "text": "01-07-2016 Wijziging Datum inwerkingtreding: 01-07-2016 Ontstaansbron: Stb. 2016, 148 samen met Stb. 2016, 147 Inwerkingtredingsbron: Stb. 2016, 196 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 14-04-2016 samen met 14-04-2016 Stb. 2016, 148 samen met Stb. 2016, 147 34105 samen met 33258 22-04-2016 Stb. 2016, 196"
+      },
+      {
+        "date": "2016-01-01",
+        "text": "01-01-2016 Wijziging Datum inwerkingtreding: 01-01-2016 Ontstaansbron: Stb. 2015, 376 Inwerkingtredingsbron: Stb. 2015, 377 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 30-09-2015 Stb. 2015, 376 34073 14-10-2015 Stb. 2015, 377"
+      },
+      {
+        "date": "2015-01-01",
+        "text": "01-01-2015 Wijziging Datum inwerkingtreding: 01-01-2015 Ontstaansbron: Stb. 2014, 571 Inwerkingtredingsbron: Stb. 2014, 576 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 17-12-2014 Stb. 2014, 571 33910 17-12-2014 Stb. 2014, 576"
+      },
+      {
+        "date": "2014-04-01",
+        "text": "01-04-2014 Wijziging Datum inwerkingtreding: 01-04-2014 Ontstaansbron: Stb. 2013, 578 Inwerkingtredingsbron: Stb. 2014, 93 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 11-12-2013 Stb. 2013, 578 33243 11-02-2014 Stb. 2014, 93"
+      },
+      {
+        "date": "2013-07-01",
+        "text": "01-07-2013 Wijziging Datum inwerkingtreding: 01-07-2013 Ontstaansbron: Stb. 2013, 226 Inwerkingtredingsbron: Stb. 2013, 258 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 19-06-2013 Stb. 2013, 226 33455 25-06-2013 Stb. 2013, 258"
+      },
+      {
+        "date": "2013-01-01",
+        "text": "01-01-2013 Wijziging Datum inwerkingtreding: 01-01-2013 Ontstaansbron: Stb. 2012, 680 Inwerkingtredingsbron: Stb. 2012, 681 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 13-12-2012 Stb. 2012, 680 33025 13-12-2012 Stb. 2012, 681"
+      },
+      {
+        "date": "2012-10-01",
+        "text": "01-10-2012 Wijziging Datum inwerkingtreding: 01-10-2012 Ontstaansbron: Stb. 2012, 233 Inwerkingtredingsbron: Stb. 2012, 276 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 24-05-2012 Stb. 2012, 233 32389 13-06-2012 Stb. 2012, 276"
+      },
+      {
+        "date": "2012-07-01",
+        "text": "01-07-2012 Wijziging Datum inwerkingtreding: 01-07-2012 Ontstaansbron: Stb. 2012, 224 Inwerkingtredingsbron: Stb. 2012, 251 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 21-05-2012 Stb. 2012, 224 33065 04-06-2012 Stb. 2012, 251"
+      },
+      {
+        "date": "2012-01-01",
+        "text": "01-01-2012 Wijziging Datum inwerkingtreding: 01-01-2012 Ontstaansbron: Stb. 2011, 500 Inwerkingtredingsbron: Stb. 2011, 592 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 27-10-2011 Stb. 2011, 500 32863 06-12-2011 Stb. 2011, 592"
+      },
+      {
+        "date": "2011-06-22",
+        "text": "22-06-2011 Wijziging Datum inwerkingtreding: 22-06-2011 Ontstaansbron: Stb. 2011, 292 Inwerkingtredingsbron: Stb. 2011, 292 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 06-06-2011 Stb. 2011, 292 32416 06-06-2011 Stb. 2011, 292"
+      },
+      {
+        "date": "2011-01-01",
+        "text": "01-01-2011 tot 10-10-2010 3) Wijziging Datum inwerkingtreding: 01-01-2011 Ontstaansbron: Stb. 2010, 830 Inwerkingtredingsbron: Stb. 2010, 831 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 16-12-2010 Stb. 2010, 830 32428 16-12-2010 Stb. 2010, 831"
+      },
+      {
+        "date": "2010-09-01",
+        "text": "01-09-2010 Wijziging Datum inwerkingtreding: 01-09-2010 Ontstaansbron: Stb. 2010, 175 Inwerkingtredingsbron: Stb. 2010, 236 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 22-04-2010 Stb. 2010, 175 30585 08-06-2010 Stb. 2010, 236"
+      },
+      {
+        "date": "2010-07-01",
+        "text": "01-07-2010 Wijziging Datum inwerkingtreding: 01-07-2010 Ontstaansbron: Stb. 2009, 8 Inwerkingtredingsbron: Stb. 2010, 225 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 11-12-2008 Stb. 2009, 8 31227 14-06-2010 Stb. 2010, 225"
+      },
+      {
+        "date": "2010-02-27",
+        "text": "27-02-2010 Wijziging Datum inwerkingtreding: 27-02-2010 Ontstaansbron: Stb. 2010, 72 Inwerkingtredingsbron: Stb. 2010, 73 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 17-02-2010 Stb. 2010, 72 30424 17-02-2010 Stb. 2010, 73"
+      },
+      {
+        "date": "2009-11-27",
+        "text": "27-11-2009 Wijziging Datum inwerkingtreding: 27-11-2009 Ontstaansbron: Stb. 2009, 486 Inwerkingtredingsbron: Stb. 2009, 486 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 29-10-2009 Stb. 2009, 486 31905 29-10-2009 Stb. 2009, 486"
+      },
+      {
+        "date": "2009-07-01",
+        "text": "01-07-2009 Wijziging Datum inwerkingtreding: 01-07-2009 Ontstaansbron: Stb. 2009, 265 Inwerkingtredingsbron: Stb. 2009, 266 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 25-06-2009 Stb. 2009, 265 31124 25-06-2009 Stb. 2009, 266"
+      },
+      {
+        "date": "2009-01-01",
+        "text": "01-01-2009 Wijziging Datum inwerkingtreding: 01-01-2009 Ontstaansbron: Stb. 2008, 600 Inwerkingtredingsbron: Stb. 2008, 601 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 29-12-2008 Stb. 2008, 600 31514 29-12-2008 Stb. 2008, 601"
+      },
+      {
+        "date": "2007-02-01",
+        "text": "01-02-2007 Wijziging Datum inwerkingtreding: 01-02-2007 Ontstaansbron: Stb. 2004, 493 Inwerkingtredingsbron: Stb. 2006, 587 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 09-09-2004 Stb. 2004, 493 29008 02-11-2006 Stb. 2006, 587"
+      },
+      {
+        "date": "2006-12-20",
+        "text": "20-12-2006 Wijziging Datum inwerkingtreding: 20-12-2006 Ontstaansbron: Stb. 2006, 647 Inwerkingtredingsbron: Stb. 2006, 648 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 20-11-2006 Stb. 2006, 647 30614 06-12-2006 Stb. 2006, 648"
+      },
+      {
+        "date": "2006-10-01",
+        "text": "01-10-2006 Wijziging Datum inwerkingtreding: 01-10-2006 Ontstaansbron: Stb. 2006, 415 Inwerkingtredingsbron: Stb. 2006, 432 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 07-07-2006 Stb. 2006, 415 30186 21-09-2006 Stb. 2006, 432"
+      },
+      {
+        "date": "2006-03-01",
+        "text": "01-03-2006 Wijziging Datum inwerkingtreding: 01-03-2006 Ontstaansbron: Stb. 2005, 695 Inwerkingtredingsbron: Stb. 2005, 695 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 22-12-2005 Stb. 2005, 695 29436 22-12-2005 Stb. 2005, 695"
+      },
+      {
+        "date": "2006-01-01",
+        "text": "01-01-2006 Wijziging Datum inwerkingtreding: 01-01-2006 Ontstaansbron: Stb. 2005, 571 Inwerkingtredingsbron: Stb. 2005, 649 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 20-10-2005 Stb. 2005, 571 27659 09-12-2005 Stb. 2005, 649"
+      },
+      {
+        "date": "2005-01-01",
+        "text": "01-01-2005 t/m 01-01-2002 4) Wijziging Datum inwerkingtreding: 01-01-2005 Ontstaansbron: Stb. 2004, 493 Inwerkingtredingsbron: Stb. 2004, 493 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 09-09-2004 Stb. 2004, 493 29008 09-09-2004 Stb. 2004, 493"
+      },
+      {
+        "date": "2004-10-01",
+        "text": "01-10-2004 Wijziging Datum inwerkingtreding: 01-10-2004 Ontstaansbron: Stb. 2004, 88 Inwerkingtredingsbron: Stb. 2004, 479 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 05-02-2004 Stb. 2004, 88 28992 15-09-2004 Stb. 2004, 479"
+      },
+      {
+        "date": "2004-01-01",
+        "text": "01-01-2004 Wijziging Datum inwerkingtreding: 01-01-2004 Ontstaansbron: Stb. 2003, 376 Inwerkingtredingsbron: Stb. 2003, 386 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 09-10-2003 Stb. 2003, 376 28960 10-10-2003 Stb. 2003, 386"
+      },
+      {
+        "date": "2003-05-01",
+        "text": "01-05-2003 Wijziging Datum inwerkingtreding: 01-05-2003 Ontstaansbron: Stb. 2003, 60 Inwerkingtredingsbron: Stb. 2003, 60 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 23-01-2003 Stb. 2003, 60 27602 23-01-2003 Stb. 2003, 60"
+      },
+      {
+        "date": "2003-03-12",
+        "text": "12-03-2003 Wijziging Datum inwerkingtreding: 12-03-2003 Ontstaansbron: Stb. 2003, 17 Inwerkingtredingsbron: Stb. 2003, 18 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 16-01-2003 Stb. 2003, 17 28384 16-01-2003 Stb. 2003, 18"
+      },
+      {
+        "date": "2003-02-19",
+        "text": "19-02-2003 t/m 07-03-2002 5) Wijziging Datum inwerkingtreding: 19-02-2003 Ontstaansbron: Stb. 2003, 56 Inwerkingtredingsbron: Stb. 2003, 57 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 06-02-2003 Stb. 2003, 56 28243 08-02-2003 Stb. 2003, 57"
+      },
+      {
+        "date": "2002-05-29",
+        "text": "29-05-2002 Wijziging Datum inwerkingtreding: 29-05-2002 Ontstaansbron: Stb. 2002, 148 Inwerkingtredingsbron: Stb. 2002, 196 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 07-02-2002 Stb. 2002, 148 25877 09-04-2002 Stb. 2002, 196"
+      },
+      {
+        "date": "2002-05-15",
+        "text": "15-05-2002 Wijziging Datum inwerkingtreding: 15-05-2002 Ontstaansbron: Stb. 2002, 65 Inwerkingtredingsbron: Stb. 2002, 208 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 30-01-2002 Stb. 2002, 65 27699 26-04-2002 Stb. 2002, 208"
+      },
+      {
+        "date": "2002-03-07",
+        "text": "07-03-2002 Wijziging Datum inwerkingtreding: 07-03-2002 Ontstaansbron: Stb. 2002, 111 Inwerkingtredingsbron: Stb. 2002, 112 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 28-02-2002 Stb. 2002, 111 27751 28-02-2002 Stb. 2002, 112"
+      },
+      {
+        "date": "2002-02-01",
+        "text": "01-02-2002 Wijziging Datum inwerkingtreding: 01-02-2002 Ontstaansbron: Stb. 2001, 562 Inwerkingtredingsbron: Stb. 2001, 562 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 01-11-2001 Stb. 2001, 562 27623 01-11-2001 Stb. 2001, 562"
+      },
+      {
+        "date": "2002-01-01",
+        "text": "01-01-2002 Wijziging Datum inwerkingtreding: 01-01-2002 Ontstaansbron: Stb. 2001, 584 Inwerkingtredingsbron: Stb. 2001, 621 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 06-12-2001 Stb. 2001, 584 27878 10-12-2001 Stb. 2001, 621"
+      },
+      {
+        "date": "2001-09-01",
+        "text": "01-09-2001 Wijziging Datum inwerkingtreding: 01-09-2001 Ontstaansbron: Stb. 2001, 180 Inwerkingtredingsbron: Stb. 2001, 337 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 05-04-2001 Stb. 2001, 180 26410 05-07-2001 Stb. 2001, 337"
+      },
+      {
+        "date": "2001-07-15",
+        "text": "15-07-2001 Wijziging Datum inwerkingtreding: 15-07-2001 Ontstaansbron: Stb. 2001, 70 Inwerkingtredingsbron: Stb. 2001, 327 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 26-01-2001 Stb. 2001, 70 22775 04-07-2001 Stb. 2001, 327"
+      },
+      {
+        "date": "2001-04-01",
+        "text": "01-04-2001 Wijziging Datum inwerkingtreding: 01-04-2001 Ontstaansbron: Stb. 2001, 23 Inwerkingtredingsbron: Stb. 2001, 100 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 13-12-2000 Stb. 2001, 23 27038 16-02-2001 Stb. 2001, 100"
+      },
+      {
+        "date": "2001-02-01",
+        "text": "01-02-2001 Wijziging Datum inwerkingtreding: 01-02-2001 Ontstaansbron: Stb. 2001, 32 Inwerkingtredingsbron: Stb. 2001, 32 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 13-12-2000 Stb. 2001, 32 26947 13-12-2000 Stb. 2001, 32"
+      },
+      {
+        "date": "2000-01-01",
+        "text": "01-01-2000 Wijziging Datum inwerkingtreding: 01-01-2000 Ontstaansbron: Stb. 1999, 185 Inwerkingtredingsbron: Stb. 1999, 471 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 27-03-1999 Stb. 1999, 185 26011 03-11-1999 Stb. 1999, 471"
+      },
+      {
+        "date": "1999-10-01",
+        "text": "01-10-1999 Wijziging Datum inwerkingtreding: 01-10-1999 Ontstaansbron: Stb. 1999, 190 Inwerkingtredingsbron: Stb. 1999, 382 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 03-04-1999 Stb. 1999, 190 23706 06-09-1999 Stb. 1999, 382"
+      },
+      {
+        "date": "1999-07-01",
+        "text": "01-07-1999 Wijziging Datum inwerkingtreding: 01-07-1999 Ontstaansbron: Stb. 1999, 185 Inwerkingtredingsbron: Stb. 1999, 240 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 27-03-1999 Stb. 1999, 185 26011 01-06-1999 Stb. 1999, 240"
+      },
+      {
+        "date": "1999-06-01",
+        "text": "01-06-1999 Wijziging Datum inwerkingtreding: 01-06-1999 Ontstaansbron: Stb. 1999, 194 Inwerkingtredingsbron: Stb. 1999, 198 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 19-04-1999 Stb. 1999, 194 25392 19-05-1999 Stb. 1999, 198"
+      },
+      {
+        "date": "1999-02-17",
+        "text": "17-02-1999 Wijziging Datum inwerkingtreding: 17-02-1999 Ontstaansbron: Stb. 1999, 30 Inwerkingtredingsbron: Stb. 1999, 40 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 134 28-01-1999 Stb. 1999, 30 25836 04-02-1999 Stb. 1999, 40"
+      },
+      {
+        "date": "1998-12-01",
+        "text": "01-12-1998 Wijziging Datum inwerkingtreding: 01-12-1998 Ontstaansbron: Stb. 1998, 446 Inwerkingtredingsbron: Stb. 1998, 622 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 118 25-06-1998 Stb. 1998, 446 23429 09-11-1998 Stb. 1998, 622"
+      },
+      {
+        "date": "1998-01-01",
+        "text": "01-01-1998 Wijziging Datum inwerkingtreding: 01-01-1998 Ontstaansbron: Stb. 1997, 760 Inwerkingtredingsbron: Stb. 1997, 805 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 134 04-12-1997 Stb. 1997, 760 25122 24-12-1997 Stb. 1997, 805"
+      },
+      {
+        "date": "1997-06-13",
+        "text": "13-06-1997 Wijziging Datum inwerkingtreding: 13-06-1997 Ontstaansbron: Stb. 1997, 224 Inwerkingtredingsbron: Stb. 1997, 224 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 125, 125bis 21-05-1997 Stb. 1997, 224 24575 21-05-1997 Stb. 1997, 224"
+      },
+      {
+        "date": "1997-03-01",
+        "text": "01-03-1997 Wijziging Datum inwerkingtreding: 01-03-1997 Ontstaansbron: Stb. 1997, 96 Inwerkingtredingsbron: Stb. 1997, 97 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 26-02-1997 Stb. 1997, 96 25047 26-02-1997 Stb. 1997, 97"
+      },
+      {
+        "date": "1997-02-01",
+        "text": "01-02-1997 Wijziging Datum inwerkingtreding: 01-02-1997 Ontstaansbron: Stb. 1996, 525 Inwerkingtredingsbron: Stb. 1997, 24 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 125e 10-10-1996 Stb. 1996, 525 24023 14-01-1997 Stb. 1997, 24"
+      },
+      {
+        "date": "1997-01-01",
+        "text": "01-01-1997 Wijziging Datum inwerkingtreding: 01-01-1997 Ontstaansbron: Stb. 1996, 619 Inwerkingtredingsbron: Stb. 1996, 660 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 29-11-1996 Stb. 1996, 619 24554 14-12-1996 Stb. 1996, 660"
+      },
+      {
+        "date": "1996-11-01",
+        "text": "01-11-1996 Wijziging Datum inwerkingtreding: 01-11-1996 Ontstaansbron: Stb. 1996, 391 Inwerkingtredingsbron: Stb. 1996, 391 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 125g, 134 03-07-1996 Stb. 1996, 391 24498 03-07-1996 Stb. 1996, 391"
+      },
+      {
+        "date": "1996-01-01",
+        "text": "01-01-1996 Wijziging Datum inwerkingtreding: 01-01-1996 Ontstaansbron: Stb. 1995, 704 Inwerkingtredingsbron: Stb. 1995, 704 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 20-12-1995 Stb. 1995, 704 24231 20-12-1995 Stb. 1995, 704"
+      },
+      {
+        "date": "1995-12-29",
+        "text": "29-12-1995 t/m 01-01-1995 6) Wijziging Datum inwerkingtreding: 29-12-1995 Ontstaansbron: Stb. 1995, 691 Inwerkingtredingsbron: Stb. 1995, 691 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 21-12-1995 Stb. 1995, 691 24326 21-12-1995 Stb. 1995, 691"
+      },
+      {
+        "date": "1995-05-17",
+        "text": "17-05-1995 Wijziging Datum inwerkingtreding: 17-05-1995 Ontstaansbron: Stb. 1995, 250 Inwerkingtredingsbron: Stb. 1995, 250 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 26-04-1995 Stb. 1995, 250 23780 26-04-1995 Stb. 1995, 250"
+      },
+      {
+        "date": "1995-04-12",
+        "text": "12-04-1995 Wijziging Datum inwerkingtreding: 12-04-1995 Ontstaansbron: Stb. 1995, 184 Inwerkingtredingsbron: Stb. 1995, 184 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 125 09-03-1995 Stb. 1995, 184 23792 09-03-1995 Stb. 1995, 184"
+      },
+      {
+        "date": "1995-01-01",
+        "text": "01-01-1995 Wijziging Datum inwerkingtreding: 01-01-1995 Ontstaansbron: Stb. 1994, 916 Inwerkingtredingsbron: Stb. 1994, 917 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 15-12-1994 Stb. 1994, 916 23775 19-12-1994 Stb. 1994, 917"
+      },
+      {
+        "date": "1994-09-01",
+        "text": "01-09-1994 Wijziging 02-03-1994 Stb. 1994, 230 22014 02-03-1994 Stb. 1994, 230"
+      },
+      {
+        "date": "1994-04-01",
+        "text": "01-04-1994 Wijziging Datum inwerkingtreding: 01-04-1994 Ontstaansbron: Stb. 1993, 725 Inwerkingtredingsbron: Stb. 1994, 27 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 78 09-12-1993 Stb. 1993, 725 23088 07-01-1994 Stb. 1994, 27"
+      },
+      {
+        "date": "1994-01-01",
+        "text": "01-01-1994 Wijziging 23-12-1993 Stb. 1993, 690 23258 23-12-1993 Stb. 1993, 693"
+      },
+      {
+        "date": "1993-12-29",
+        "text": "29-12-1993 Tekstplaatsing Stb. 1994, 5"
+      },
+      {
+        "date": "1993-09-10",
+        "text": "10-09-1993 Wijziging Datum inwerkingtreding: 10-09-1993 Ontstaansbron: Stb. 1993, 465 Inwerkingtredingsbron: Stb. 1993, 465 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 06-08-1993 Stb. 1993, 465 22313 06-08-1993 Stb. 1993, 465"
+      },
+      {
+        "date": "1993-04-01",
+        "text": "01-04-1993 Wijziging Datum inwerkingtreding: 01-04-1993 Ontstaansbron: Stb. 1993, 75 Inwerkingtredingsbron: Stb. 1993, 75 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 125a 28-01-1993 Stb. 1993, 75 22541 28-01-1993 Stb. 1993, 75"
+      },
+      {
+        "date": "1993-03-10",
+        "text": "10-03-1993 Wijziging Datum inwerkingtreding: 10-03-1993 Ontstaansbron: Stb. 1993, 75 Inwerkingtredingsbron: Stb. 1993, 75 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 125a 28-01-1993 Stb. 1993, 75 22541 28-01-1993 Stb. 1993, 75"
+      },
+      {
+        "date": "1992-12-01",
+        "text": "01-12-1992 Wijziging Datum inwerkingtreding: 01-12-1992 Ontstaansbron: Stb. 1992, 539 Inwerkingtredingsbron: Stb. 1992, 539 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 115 (vervallen), 116 (vervallen), 117 (vervallen), 118 (vervallen), 119 (vervallen), 120 (vervallen), 121 (vervallen), 122 (vervallen), 123 (vervallen), 123a (vervallen), 123b (vervallen), 124 (vervallen), 131 (vervallen), 132 (vervallen) Titelen: III, III (vervallen) 24-09-1992 Stb. 1992, 539 22377 24-09-1992 Stb. 1992, 539"
+      },
+      {
+        "date": "1992-07-01",
+        "text": "01-07-1992 Wijziging Datum inwerkingtreding: 01-07-1992 Ontstaansbron: Stb. 1992, 278 Inwerkingtredingsbron: Stb. 1992, 299 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 16, 22a, 22b, 23, 23a, 23a, 23b, 23c, 23d, 23e, 3, 38, 4, 5, 78, 10 (vervallen), 14a (vervallen), 15 (vervallen), 17 (vervallen), 18 (vervallen), 19 (vervallen), 20 (vervallen), 21 (vervallen), 22 (vervallen), 23 (vervallen), 4 (vervallen), 5 (vervallen), 6 (vervallen), 7 (vervallen), 8 (vervallen), 9 (vervallen) 03-06-1992 Stb. 1992, 278 21967 17-06-1992 Stb. 1992, 299"
+      },
+      {
+        "date": "1992-01-01",
+        "text": "01-01-1992 Wijziging 02-09-1991 samen met 06-06-1991 Stb. 1991, 444 samen met Stb. 1991, 379 19995 12-12-1991 Stb. 1991, 701"
+      },
+      {
+        "date": "1991-01-01",
+        "text": "01-01-1991 Wijziging Datum inwerkingtreding: 01-01-1991 Ontstaansbron: Stb. 1990, 656 Inwerkingtredingsbron: Stb. 1990, 656 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 21-12-1990 Stb. 1990, 656 21207 21-12-1990 Stb. 1990, 656"
+      },
+      {
+        "date": "1990-06-01",
+        "text": "01-06-1990 Wijziging Datum inwerkingtreding: 01-06-1990 Ontstaansbron: Stb. 1990, 222 Inwerkingtredingsbron: Stb. 1990, 222 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 115 30-05-1990 Stb. 1990, 222 21135 30-05-1990 Stb. 1990, 222"
+      },
+      {
+        "date": "1989-11-01",
+        "text": "01-11-1989 Wijziging Datum inwerkingtreding: 01-11-1989 Ontstaansbron: Stb. 1989, 480 Inwerkingtredingsbron: Stb. 1989, 481 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 125a 25-10-1989 Stb. 1989, 480 21151 26-10-1989 Stb. 1989, 481"
+      },
+      {
+        "date": "1989-07-01",
+        "text": "01-07-1989 Wijziging Datum inwerkingtreding: 01-07-1989 Ontstaansbron: Stb. 1988, 665 Inwerkingtredingsbron: Stb. 1989, 153 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 28-12-1988 Stb. 1988, 665 19095 08-05-1989 Stb. 1989, 153"
+      },
+      {
+        "date": "1989-03-24",
+        "text": "24-03-1989 Wijziging Datum inwerkingtreding: 24-03-1989 Ontstaansbron: Stb. 1988, 230 Inwerkingtredingsbron: Stb. 1988, 686 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 125f, 134 20-04-1988 Stb. 1988, 230 20224 28-12-1988 Stb. 1988, 686"
+      },
+      {
+        "date": "1988-11-02",
+        "text": "02-11-1988 Wijziging Datum inwerkingtreding: 02-11-1988 Ontstaansbron: Stb. 1988, 229 Inwerkingtredingsbron: Stb. 1988, 487 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 125, 125a, 125b, 125c, 125d, 125e, 126, 134, 20, 23a, 25, 3, 58, 134 (vervallen), 20 (vervallen) 20-04-1988 Stb. 1988, 229 19495 01-10-1988 Stb. 1988, 487"
+      },
+      {
+        "date": "1988-04-01",
+        "text": "01-04-1988 Wijziging Datum inwerkingtreding: 01-04-1988 Ontstaansbron: Stb. 1987, 591 Inwerkingtredingsbron: Stb. 1988, 8 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 30, 92 03-12-1987 Stb. 1987, 591 17916 07-01-1988 Stb. 1988, 8"
+      },
+      {
+        "date": "1985-01-01",
+        "text": "01-01-1985 Wijziging Datum inwerkingtreding: 01-01-1985 Ontstaansbron: Stb. 1984, 404 Inwerkingtredingsbron: Stb. 1984, 451 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 27, 127 (vervallen) 30-08-1984 Stb. 1984, 404 16247 01-10-1984 Stb. 1984, 451"
+      },
+      {
+        "date": "1984-11-01",
+        "text": "01-11-1984 Wijziging Datum inwerkingtreding: 01-11-1984 Ontstaansbron: Stb. 1984, 461 Inwerkingtredingsbron: Stb. 1984, 476 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 1, 101b, 102, 103, 106, 110, 110a, 110b, 124, 125, 2, 24, 25, 3, 45, 47, 57, 58, 59, 60, 61, 73, 75, 110 (vervallen), 3 (vervallen), 61 (vervallen) 26-09-1984 Stb. 1984, 461 16955 24-10-1984 Stb. 1984, 476"
+      },
+      {
+        "date": "1984-09-01",
+        "text": "01-09-1984 Wijziging Datum inwerkingtreding: 01-09-1984 Ontstaansbron: Stb. 1984, 302 Inwerkingtredingsbron: Stb. 1984, 302 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 5, 5 (vervallen) 27-06-1984 Stb. 1984, 302 17991 27-06-1984 Stb. 1984, 302"
+      },
+      {
+        "date": "1984-05-01",
+        "text": "01-05-1984 Wijziging Datum inwerkingtreding: 01-05-1984 Ontstaansbron: Stb. 1984, 91 Inwerkingtredingsbron: Stb. 1984, 129 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 128 10-03-1984 Stb. 1984, 91 17524 21-04-1984 Stb. 1984, 129"
+      },
+      {
+        "date": "1981-06-10",
+        "text": "10-06-1981 Wijziging Datum inwerkingtreding: 10-06-1981 Ontstaansbron: Stb. 1981, 35 Inwerkingtredingsbron: Stb. 1981, 326 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 10, 2, 9 04-02-1981 Stb. 1981, 35 14178 15-05-1981 Stb. 1981, 326"
+      },
+      {
+        "date": "1981-01-01",
+        "text": "01-01-1981 Wijziging Datum inwerkingtreding: 01-01-1981 Ontstaansbron: Stb. 1980, 646 Inwerkingtredingsbron: Stb. 1980, 696 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 20-11-1980 Stb. 1980, 646 14182 23-12-1980 Stb. 1980, 696"
+      },
+      {
+        "date": "1978-12-06",
+        "text": "06-12-1978 Wijziging Datum inwerkingtreding: 06-12-1978 Ontstaansbron: Stb. 1978, 564 Inwerkingtredingsbron: Stb. 1978, 564 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 2, 5 17-10-1978 Stb. 1978, 564 14988 17-10-1978 Stb. 1978, 564"
+      },
+      {
+        "date": "1976-10-01",
+        "text": "01-10-1976 Wijziging Datum inwerkingtreding: 01-10-1976 Ontstaansbron: Stb. 1976, 473 Inwerkingtredingsbron: Stb. 1976, 473 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 08-09-1976 Stb. 1976, 473 13847 08-09-1976 Stb. 1976, 473"
+      },
+      {
+        "date": "1976-07-07",
+        "text": "07-07-1976 Wijziging Datum inwerkingtreding: 07-07-1976 Ontstaansbron: Stb. 1976, 321 Inwerkingtredingsbron: Stb. 1976, 321 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 10, 101a, 101b, 18, 5, 52, 60, 62, 71, 72, 73, 74, 87, 9, 10 (vervallen), 11 (vervallen), 12 (vervallen), 13 (vervallen), 14 (vervallen) 02-06-1976 Stb. 1976, 321 13387 02-06-1976 Stb. 1976, 321"
+      },
+      {
+        "date": "1974-03-01",
+        "text": "01-03-1974 Wijziging Datum inwerkingtreding: 01-03-1974 Ontstaansbron: Stb. 1972, 748 Inwerkingtredingsbron: Stb. 1974, 70 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 13-12-1972 Stb. 1972, 748 9935 22-02-1974 Stb. 1974, 70"
+      },
+      {
+        "date": "1973-10-31",
+        "text": "31-10-1973 Wijziging Datum inwerkingtreding: 31-10-1973 Ontstaansbron: Stb. 1973, 471 Inwerkingtredingsbron: Stb. 1973, 471 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 26-09-1973 Stb. 1973, 471 11247 26-09-1973 Stb. 1973, 471"
+      },
+      {
+        "date": "1973-02-10",
+        "text": "10-02-1973 Wijziging Datum inwerkingtreding: 10-02-1973 Ontstaansbron: Stb. 1972, 773 Inwerkingtredingsbron: Stb. 1972, 773 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 21-12-1973 Stb. 1972, 773 12038 21-12-1973 Stb. 1972, 773"
+      },
+      {
+        "date": "1972-10-01",
+        "text": "01-10-1972 Wijziging Datum inwerkingtreding: 01-10-1972 Ontstaansbron: Stb. 1972, 461 Inwerkingtredingsbron: Stb. 1972, 462 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 14a, 20, 5 07-09-1972 Stb. 1972, 461 10808 13-09-1972 Stb. 1972, 462"
+      },
+      {
+        "date": "1967-04-19",
+        "text": "19-04-1967 Wijziging Datum inwerkingtreding: 19-04-1967 Ontstaansbron: Stb. 1967, 197 Inwerkingtredingsbron: Stb. 1967, 197 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 125, 126 22-03-1967 Stb. 1967, 197 8853 22-03-1967 Stb. 1967, 197"
+      },
+      {
+        "date": "1966-01-15",
+        "text": "15-01-1966 t/m 01-01-1966 Wijziging 06-01-1966 Stb. 1966, 6 7980 06-01-1966 Stb. 1966, 6"
+      },
+      {
+        "date": "1966-01-01",
+        "text": "01-01-1966 Wijziging Datum inwerkingtreding: 01-01-1966 Ontstaansbron: Stb. 1966, 6 Inwerkingtredingsbron: Stb. 1966, 6 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 3 06-01-1966 Stb. 1966, 6 7980 06-01-1966 Stb. 1966, 6"
+      },
+      {
+        "date": "1965-04-15",
+        "text": "15-04-1965 Wijziging Datum inwerkingtreding: 15-04-1965 Ontstaansbron: Stb. 1964, 392 Inwerkingtredingsbron: Stb. 1965, 130 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 15-10-1964 Stb. 1964, 392 6808 02-04-1965 Stb. 1965, 130"
+      },
+      {
+        "date": "1964-12-01",
+        "text": "01-12-1964 Wijziging Datum inwerkingtreding: 01-12-1964 Ontstaansbron: Stb. 1964, 315 Inwerkingtredingsbron: Stb. 1964, 393 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 98, 36 (vervallen) 25-07-1964 Stb. 1964, 315 7113 16-10-1964 Stb. 1964, 393"
+      },
+      {
+        "date": "1964-06-01",
+        "text": "01-06-1964 Wijziging Datum inwerkingtreding: 01-06-1964 Ontstaansbron: Stb. 1963, 312 Inwerkingtredingsbron: Stb. 1964, 142 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 30-05-1963 Stb. 1963, 312 6560 08-05-1964 Stb. 1964, 142"
+      },
+      {
+        "date": "1964-01-01",
+        "text": "01-01-1964 Wijziging Datum inwerkingtreding: 01-01-1964 Ontstaansbron: Stb. 1963, 130 Inwerkingtredingsbron: Stb. 1963, 487 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 52, 53, 89 28-03-1963 Stb. 1963, 130 6647 29-11-1963 Stb. 1963, 487"
+      },
+      {
+        "date": "1963-07-01",
+        "text": "01-07-1963 Wijziging Datum inwerkingtreding: 01-07-1963 Ontstaansbron: Stb. 1962, 258 Inwerkingtredingsbron: Stb. 1963, 270 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 28-06-1962 Stb. 1962, 258 5519 26-06-1963 Stb. 1963, 270"
+      },
+      {
+        "date": "1958-05-01",
+        "text": "01-05-1958 Wijziging Datum inwerkingtreding: 01-05-1958 Ontstaansbron: Stb. 1958, 37 Inwerkingtredingsbron: Stb. 1958, 199 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 23-01-1958 Stb. 1958, 37 3884 21-04-1958 Stb. 1958, 199"
+      },
+      {
+        "date": "1957-01-01",
+        "text": "01-01-1957 Wijziging Datum inwerkingtreding: 01-01-1957 Ontstaansbron: Stb. 1955, 396 Inwerkingtredingsbron: Stb. 1956, 591 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 20, 5 15-08-1955 Stb. 1955, 396 3585 06-12-1956 Stb. 1956, 591"
+      },
+      {
+        "date": "1956-08-01",
+        "text": "01-08-1956 Wijziging Datum inwerkingtreding: 01-08-1956 Ontstaansbron: Stb. 1956, 297 Inwerkingtredingsbron: Stb. 1956, 355 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 31-05-1956 Stb. 1956, 297 4156 29-06-1956 Stb. 1956, 355"
+      },
+      {
+        "date": "1952-08-01",
+        "text": "01-08-1952 Wijziging Datum inwerkingtreding: 01-08-1952 Ontstaansbron: Stb. 1966, 86 samen met Stb. 1952, 344 Inwerkingtredingsbron: Stb. 1952, 418 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 18-02-1966 samen met 12-06-1952 Stb. 1966, 86 samen met Stb. 1952, 344 7171 samen met 1679 18-07-1952 Stb. 1952, 418"
+      },
+      {
+        "date": "1950-02-15",
+        "text": "15-02-1950 Wijziging 27-01-1950 Stb. 1950, K 22 873 27-01-1950 Stb. 1950, K 22"
+      },
+      {
+        "date": "1949-07-01",
+        "text": "01-07-1949 Wijziging Datum inwerkingtreding: 01-07-1949 Ontstaansbron: Stb. 1949, J 87 Inwerkingtredingsbron: Stb. 1949, J 230 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 57 25-02-1949 Stb. 1949, J 87 936 02-06-1949 Stb. 1949, J 230"
+      },
+      {
+        "date": "1937-11-01",
+        "text": "01-11-1937 Wijziging Datum inwerkingtreding: 01-11-1937 Ontstaansbron: Stb. 1936, 205 Inwerkingtredingsbron: Stb. 1936, 287 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 20 11-09-1936 Stb. 1936, 205 14-12-1936 Stb. 1936, 287"
+      },
+      {
+        "date": "1937-04-01",
+        "text": "01-04-1937 Wijziging Datum inwerkingtreding: 01-04-1937 Ontstaansbron: Stb. 1936, 205 Inwerkingtredingsbron: Stb. 1936, 287 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 119, 120, 123, 123a, 31, 57, 73 11-09-1936 Stb. 1936, 205 14-12-1936 Stb. 1936, 287"
+      },
+      {
+        "date": "1937-01-01",
+        "text": "01-01-1937 Wijziging Datum inwerkingtreding: 01-01-1937 Ontstaansbron: Stb. 1936, 205 Inwerkingtredingsbron: Stb. 1936, 287 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 108, 115, 130, 14, 15, 17, 21, 28, 29, 36, 43, 5, 51a, 53, 54, 6, 60, 62, 68, 69, 71, 74, 75, 8, 91, 92, 94, 96, 97, 98a, 99, 129 (vervallen), 131 (vervallen), 132 (vervallen), 9 (vervallen), 96 (vervallen) 11-09-1936 Stb. 1936, 205 14-12-1936 Stb. 1936, 287"
+      },
+      {
+        "date": "1936-08-27",
+        "text": "27-08-1936 Wijziging Datum inwerkingtreding: 27-08-1936 Ontstaansbron: Stb. 1936, 306 Inwerkingtredingsbron: Stb. 1936, 306 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 125, 126, 2 17-07-1936 Stb. 1936, 306 17-07-1936 Stb. 1936, 306"
+      },
+      {
+        "date": "1934-01-01",
+        "text": "01-01-1934 Wijziging Datum inwerkingtreding: 01-01-1934 Ontstaansbron: Stb. 1933, 562 Inwerkingtredingsbron: Stb. 1933, 725 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 19, 5 01-11-1933 Stb. 1933, 562 27-12-1933 Stb. 1933, 725"
+      },
+      {
+        "date": "1933-12-01",
+        "text": "01-12-1933 Wijziging Datum inwerkingtreding: 01-12-1933 Ontstaansbron: Stb. 1933, 600 Inwerkingtredingsbron: Stb. 1933, 600 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 125, 126 17-11-1933 Stb. 1933, 600 17-11-1933 Stb. 1933, 600"
+      },
+      {
+        "date": "1933-03-01",
+        "text": "01-03-1933 Nieuwe-regeling Datum inwerkingtreding: 01-03-1933 Ontstaansbron: Stb. 1929, 530 Inwerkingtredingsbron: Stb. 1933, 32 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 10, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 11, 110, 111, 112, 113, 114, 115, 12, 128, 129, 13, 130, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 7, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 8, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 9, 90, 91, 92, 93, 94, 95, 96, 98, 99 12-12-1929 Stb. 1929, 530 26-01-1933 Stb. 1933, 32"
+      },
+      {
+        "date": "1930-09-01",
+        "text": "01-09-1930 Nieuwe-regeling Datum inwerkingtreding: 01-09-1930 Ontstaansbron: Stb. 1929, 530 Inwerkingtredingsbron: Stb. 1930, 6 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 125, 126, 133, 134 12-12-1929 Stb. 1929, 530 07-01-1930 Stb. 1930, 6"
+      },
+      {
+        "date": "1930-03-15",
+        "text": "15-03-1930 Nieuwe-regeling Datum inwerkingtreding: 15-03-1930 Ontstaansbron: Stb. 1929, 530 Inwerkingtredingsbron: Stb. 1930, 6 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. In het overzicht ontbreken een aantal onderdelen waarover onvoldoende informatie aanwezig is. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 1, 116, 117, 118, 119, 120, 121, 122, 123, 124, 127, 131, 132, 135, 136, 137, 2 Titelen: I, II, III, IV §en: 1, 2 12-12-1929 Stb. 1929, 530 07-01-1930 Stb. 1930, 6"
+      }
+    ],
+    "article_3_read": "Een overheidswerkgever sluit geen arbeidsovereenkomst met: a. degenen die zijn benoemd in het ambt van een eenhoofdig bestuursorgaan of als lid van een orgaan of college dat onderdeel uitmaakt van een krachtens publiekrecht ingestelde rechtspersoon, mits zij niet werkzaam zijn onder de verantwoordelijkheid van een ander bestuursorgaan; b. 1°. de rechterlijke ambtenaren, bedoeld in artikel 1, onderdeel b, van de Wet op de rechterlijke organisatie; 2°. de deskundige leden, bedoeld in de artikelen 48, tweede lid, 55a, tweede lid, 66, tweede en derde lid, 67, derde lid, 69, tweede lid, en 70, tweede lid, van de Wet op de rechterlijke organisatie en hun plaatsvervangers; 3°. de militaire leden, bedoeld in de artikelen 54, derde lid, 55, tweede lid, en 68, tweede lid, van de Wet op de rechterlijke organisatie en hun plaatsvervangers; 4°. de bij de Centrale Raad van Beroep en het College van Beroep voor het bedrijfsleven werkzame leden met rechtspraak belast, bedoeld in artikel 2, eerste lid, onderdeel a, van de Beroepswet onderscheidenlijk artikel 3, eerste lid, onderdeel a, van de Wet bestuursrechtspraak bedrijfsorganisatie, alsmede de aldaar werkzame senior-gerechtsauditeurs en gerechtsauditeurs, bedoeld in artikel 4, tweede lid, van de Beroepswet onderscheidenlijk artikel 5, tweede lid, van de Wet bestuursrechtspraak bedrijfsorganisatie; 5°. de voorzitters en leden, bedoeld in artikel 8.16, derde lid, en 8.36, derde lid, van de Wet dieren, en hun plaatsvervangers; 6°. de personen die deel uitmaken van een orgaan als bedoeld in artikel 13, tweede lid, van de Landbouwkwaliteitswet; 7°. de voorzitter en leden van de Accountantskamer, bedoeld in artikel 11 van de Wet tuchtrechtspraak accountants, en hun plaatsvervangers; 8°. de voorzitter en leden, bedoeld in artikel 30 van de Loodsenwet, en hun plaatsvervangers; 9°. de voorzitter en leden van het tuchtcollege voor de scheepvaart, bedoeld in artikel 37 van de Wet bemanning zeeschepen, en hun plaatsvervangers; 10°. de voorzitter en leden van de kamers voor het notariaat, bedoeld in artikel 94 van de Wet op het notarisambt, en hun plaatsvervangers; 11°. de voorzitter en leden-advocaten van de raden van discipline, bedoeld in artikel 46b van de Advocatenwet, en hun plaatsvervangers; 12°. de voorzitter en leden-advocaten van het hof van discipline, bedoeld in artikel 51van de Advocatenwet, en hun plaatsvervangers; 13°. de voorzitter en de leden van de kamer voor gerechtsdeurwaarders, bedoeld in artikel 35van de Gerechtsdeurwaarderswet, en hun plaatsvervangers; 14°. de voorzitters en leden van een tuchtcollege, bedoeld in de artikelen 55 en 56 van de Wet op de beroepen in de individuele gezondheidszorg, en hun plaatsvervangers. 15°. de voorzitters en leden van de grondkamers, bedoeld in artikel 2, eerste lid, van de Uitvoeringswet grondkamers, en hun plaatsvervangers, alsmede de leden van de Centrale grondkamer, bedoeld in artikel 13, eerste lid, van de Uitvoeringswet grondkamers, en hun plaatsvervangers. c. de militaire ambtenaren, bedoeld in artikel 1, eerste lid, onderdeel a, van de Wet ambtenaren defensie, alsmede de burgerlijke ambtenaren, bedoeld in artikel 12o, eerste lid, van de Wet ambtenaren defensie; d. de dienstplichtigen, bedoeld in artikel 1, eerste lid, onderdeel b, van de Kaderwet dienstplicht; e. notarissen en waarnemend notarissen als bedoeld in artikel 2 onderscheidenlijk artikel 29 van de Wet op het notarisambt alsmede gerechtsdeurwaarders en waarnemend gerechtsdeurwaarders als bedoeld in artikel 2 onderscheidenlijk artikel 23 van de Gerechtsdeurwaarderswet; f. de ambtenaren van de politie, bedoeld in artikel 2 van de Politiewet 2012, en de plaatsvervanger van de directeur van de Politieacademie, bedoeld in artikel 76, eerste lid, van de Politiewet 2012."
+  },
+  "awb_8_16_amendment": {
+    "amending_act": "https://zoek.officielebekendmakingen.nl/stb-2025-333.xml",
+    "amending_article": "VII, A",
+    "commencement_decree": "https://zoek.officielebekendmakingen.nl/stb-2025-414.xml",
+    "effective_from": "2026-01-01",
+    "evidence": [
+      "sources/author-8-2-17/stb-2025-333.xml",
+      "sources/author-8-2-17/stb-2025-414.xml"
+    ],
+    "finding": "Article VII is not among the deferred July 2026 exceptions. Express abstention clause in 8:16(5) effective on 1 January 2026; concurrent 8:18 amendments checked for cross-reference."
+  },
+  "limitations": [
+    "De verwijzingen naar wetgeving in historische uitspraken worden niet als actuele materiële normen gebruikt.",
+    "De actuele volgorde van de volledige rechtbankenlijst in artikel 1 Wet op de rechterlijke indeling is niet afzonderlijk onderzocht; geen concreet gerecht op grond van die volgorde aangewezen."
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T18:08:57.423645+00:00",
+  "updated_at": "2026-10-20T18:20:12.916310+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -17,12 +17,12 @@
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
     "review_verified_at": "2026-10-20T18:02:56.762889+00:00",
     "review_evidence": "sources/review-017/verification.json",
-    "author_batch_verified_at": "2026-10-20T18:00:02.515171+00:00",
-    "author_batch_evidence": "sources/author-7-12-8-1/verification.json"
+    "author_batch_verified_at": "2026-10-20T18:20:12.916310+00:00",
+    "author_batch_evidence": "sources/author-8-2-17/verification.json"
   },
   "official_articles": 584,
   "total_units": 588,
-  "completed_units": 340,
+  "completed_units": 360,
   "completed_ids": [
     "aanhef",
     "art-1:1",
@@ -363,9 +363,7 @@
     "art-7:27",
     "art-7:27a",
     "art-7:28",
-    "art-8:1"
-  ],
-  "missing_commentary_ids": [
+    "art-8:1",
     "art-8:2",
     "art-8:3",
     "art-8:4",
@@ -385,7 +383,9 @@
     "art-8:14",
     "art-8:15",
     "art-8:16",
-    "art-8:17",
+    "art-8:17"
+  ],
+  "missing_commentary_ids": [
     "art-8:18",
     "art-8:19",
     "art-8:20",
@@ -682,7 +682,11 @@
       "ECLI:NL:RVS:2021:870",
       "ECLI:NL:RBDHA:2013:BZ9560",
       "ECLI:NL:RVS:2026:929",
-      "ECLI:NL:GHARL:2020:3942"
+      "ECLI:NL:GHARL:2020:3942",
+      "ECLI:NL:RVS:2022:2221",
+      "ECLI:NL:RVS:2023:2969",
+      "ECLI:NL:RVS:2025:2001",
+      "ECLI:NL:RVS:2017:2719"
     ],
     "fetched_not_yet_assessed": [],
     "scope": "selective",
@@ -714,13 +718,27 @@
       "newly_added": [],
       "evidence": "sources/review-017/authority-review.json",
       "scope": "selective"
+    },
+    "author_8_2_17": {
+      "read_and_used": [
+        "ECLI:NL:RVS:2022:2221",
+        "ECLI:NL:RVS:2023:2969",
+        "ECLI:NL:RVS:2025:2001",
+        "ECLI:NL:RVS:2017:2719"
+      ],
+      "evidence": "sources/author-8-2-17/used-cases.json",
+      "scope": "selective",
+      "downloaded_not_used_in_this_batch": [
+        "ECLI:NL:RVS:2020:452",
+        "ECLI:NL:RVS:2022:285"
+      ]
     }
   },
   "coverage": true,
   "validation_result": {
     "complete": false,
-    "reason": "248 eenheden buiten deze reviewopdracht missen commentaar; volledige gedeelde bouw en eindvalidatie blijven geblokkeerd.",
-    "not_independent_review": false,
+    "reason": "228 eenheden buiten deze auteursbatch hebben geen commentaar; volledige gedeelde bouw blijft geblokkeerd.",
+    "not_independent_review": true,
     "strict_validator": {
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
@@ -732,7 +750,7 @@
       "warnings": [],
       "ok": false
     },
-    "independent_review_scope": "Exactly twenty ids in current review-result.json; earlier 320 reviewed units preserved. Whole-book review incomplete.",
+    "independent_review_scope": "Earlier independent review evidence preserved. New author batch 8:2–8:17 awaits independent second pass.",
     "validated_at": "2026-10-20T18:08:57.423645+00:00",
     "evidence": "strict-validation.json",
     "bounded_review_passed": true,
@@ -754,13 +772,12 @@
     }
   },
   "remaining_limitations": [
-    "Precies de twintig toegewezen eenheden inhoudelijk beoordeeld. De eerdere 320 commentaren blijven ongewijzigd; dit is geen review van het hele boek.",
-    "248 eenheden buiten deze opdracht missen commentaar; volledige gedeelde bouw en strikte eindvalidatie blijven geblokkeerd.",
-    "Zes bestaande volledige primaire uitspraken opnieuw gelezen en met hun auteurssnapshot vergeleken. Selectief onderzoek, geen uitputtende latere-behandelingscontrole of onderzoek van alle sectorale afwijkingen.",
-    "Vier lokale volledige bodies stemmen overeen; rechtbank- en hoftekst niet op het nationale ECLI-pad gevonden. De officiële volledige versies zijn leidend.",
-    "Historische onderwijs-, Wabo- en Wahv-regels en bedragen dienen uitsluitend als zaakcontext; geen actueel sectoradvies. Geen zelfstandig ongelezen Europees arrest als bron gebruikt.",
-    "Twee afzonderlijke Awb-toestanden en de versietabel gecontroleerd, niet alle historische toestanden gedownload. Voorwaardelijke digitale reeksen blijven zaakgebonden.",
-    "Technische lengte, tekstovereenstemming en afwezigheid van herhaling bewijzen geen juridische kwaliteit; geen externe professionele goedkeuring."
+    "228 eenheden buiten deze auteursopdracht blijven ongeschreven.",
+    "De twintig nieuwe toelichtingen bij 8:2–8:17 wachten op een onafhankelijke tweede beoordeling; eerdere reviewgegevens blijven behouden.",
+    "Selectief rechtspraakonderzoek zonder volledige controle van alle vervolgprocedures.",
+    "De afzonderlijke amicusreacties en aangehechte rechtbankuitspraak in IsoSun zijn niet zelfstandig als autoriteiten onderzocht; geen actuele natuurrechtelijke handleiding.",
+    "De volledige actuele rechtbankenrangorde in de Wet op de rechterlijke indeling is niet afzonderlijk onderzocht; geen concrete forumkeuze daarop gebaseerd.",
+    "Technische tekstidentiteit, minimumlengte en afwezigheid van letterlijke herhaling bewijzen geen juridische kwaliteit."
   ],
   "preflight": {
     "complete": true,
@@ -790,31 +807,30 @@
   "last_author_batch": {
     "task": "bounded_author",
     "ids": [
-      "art-7:12",
-      "art-7:13",
-      "art-7:14",
-      "art-7:14a",
-      "art-7:15",
-      "art-7:16",
-      "art-7:17",
-      "art-7:18",
-      "art-7:19",
-      "art-7:20",
-      "art-7:21",
-      "art-7:22",
-      "art-7:23",
-      "art-7:24",
-      "art-7:25",
-      "art-7:26",
-      "art-7:27",
-      "art-7:27a",
-      "art-7:28",
-      "art-8:1"
+      "art-8:2",
+      "art-8:3",
+      "art-8:4",
+      "art-8:5",
+      "art-8:6",
+      "art-8:7",
+      "art-8:8",
+      "art-8:9",
+      "art-8:10",
+      "art-8:10a",
+      "art-8:11",
+      "art-8:12",
+      "art-8:12a",
+      "art-8:12b",
+      "art-8:13",
+      "art-8:13a",
+      "art-8:14",
+      "art-8:15",
+      "art-8:16",
+      "art-8:17"
     ],
     "completed_units": 20,
-    "evidence": "batch-7-12-8-1-result.json",
-    "independently_reviewed": true,
-    "review_evidence": "review-result.json"
+    "evidence": "batch-8-2-17-result.json",
+    "independently_reviewed": false
   },
   "bounded_independent_review": {
     "complete": true,

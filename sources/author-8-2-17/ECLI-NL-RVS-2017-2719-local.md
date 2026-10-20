@@ -1,0 +1,87 @@
+---
+source: rechtspraak
+country: nl
+document_type: decision
+court: Raad van State
+ecli: ECLI:NL:RVS:2017:2719
+date: '2017-10-06'
+date_published: '2017-10-09'
+case_number:
+- 201608449/2/A1
+procedure:
+- Wraking
+subject:
+- Bestuursrecht; Omgevingsrecht
+relations: null
+references: null
+source_url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2017:2719
+download_url: https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2017:2719
+chars: 3046
+license: Public Domain Mark
+retrieved_at: '2026-10-05T01:09:01Z'
+---
+
+# ECLI:NL:RVS:2017:2719 – Raad van State, 2017-10-06
+
+- **Instantie:** Raad van State
+- **Datum:** 2017-10-06
+- **Zaaknummer:** 201608449/2/A1
+- **Rechtsgebied:** Bestuursrecht; Omgevingsrecht
+
+## Inhoudsindicatie
+
+Bij brief, bij de Raad van State ingekomen op 20 september 2017, heeft [verzoeker] verzocht om wraking van mr. H. Troostwijk bij de behandeling van de zaak nr. 201608449/1/A1.
+
+## Uitspraak
+
+201608449/2/A1.
+
+Datum beslissing: 6 oktober 2017
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Beslissing op het verzoek van:
+
+[verzoeker], wonend te [woonplaats],
+
+verzoeker,
+
+om wraking (artikel 8:15 van de Algemene wet bestuursrecht, hierna: de Awb) van mr. H. Troostwijk als lid van de enkelvoudige kamer van de Afdeling bij de behandeling van de zaak nr. 201608449/1/A1.
+
+Procesverloop
+
+Bij brief, bij de Raad van State ingekomen op 20 september 2017, heeft [verzoeker] verzocht om wraking van mr. H. Troostwijk bij de behandeling van de zaak nr. 201608449/1/A1.
+
+De staatsraad heeft niet in de wraking berust en heeft geen gebruik gemaakt van de gelegenheid te worden gehoord.
+
+De Afdeling heeft het wrakingsverzoek ter openbare zitting behandeld op 3 oktober 2017, waar [verzoeker] is gehoord.
+
+Overwegingen
+
+1. Artikel 8:15 van de Awb luidt: "Op verzoek van een partij kan elk van de rechters die een zaak behandelen, worden gewraakt op grond van feiten of omstandigheden waardoor de rechterlijke onpartijdigheid schade zou kunnen lijden."
+
+Artikel 8:16, eerste lid, luidt: "Het verzoek wordt gedaan zodra de feiten of omstandigheden aan de verzoeker bekend zijn geworden."
+
+2. De zaak met nr. 201608449/1/A1 is op 5 september 2017 ter zitting behandeld. [verzoeker] heeft zijn verzoek om wraking pas bij brief van 19 september 2017, ingekomen bij de Raad van State op 20 september 2017, ingediend. Aan het verzoek heeft [verzoeker] in essentie ten grondslag gelegd dat de staatsraad tijdens de zitting een aantal opmerkingen heeft gemaakt waardoor [verzoeker] zich gekleineerd voelde. De reden voor het wrakingsverzoek van [verzoeker] is derhalve gelegen in de bejegening door de staatsraad ter zitting van 5 september 2017. Nu het wrakingsverzoek pas op 20 september 2017 bij de Afdeling is ingekomen, is het verzoek niet gedaan zodra de feiten en omstandigheden aan [verzoeker] bekend zijn geworden. [verzoeker] heeft ter zitting van de wrakingskamer weliswaar toegelicht dat zijn advocaat op vakantie was en hij tijd nodig had om een andere advocaat te kunnen raadplegen over de juridische stappen die hij mogelijk kon nemen, maar dit is naar het oordeel van de Afdeling geen omstandigheid die rechtvaardigt dat het verzoek pas veertien dagen na de zitting van 5 september 2017 is ingediend. [verzoeker] heeft aldus niet voldaan aan het in artikel 8:16, eerste lid, van de Algemene wet bestuursrecht neergelegde vereiste.
+
+Om die reden komt de Afdeling niet toe aan een inhoudelijke beslissing op het wrakingsverzoek en kunnen reeds hierom de aangevoerde gronden niet leiden tot inwilliging van het verzoek om wraking.
+
+3. Gelet op het voorgaande dient het verzoek te worden afgewezen.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State:
+
+wijst het verzoek af.
+
+Aldus vastgesteld door mr. M.G.J. Parkins-de Vin, voorzitter, en mr. D.A.C. Slump en mr. S.F.M. Wortmann, leden, in tegenwoordigheid van mr. A. Heinen, griffier.
+
+w.g. Parkins-de Vin w.g. Heinen
+
+voorzitter griffier
+
+Uitgesproken in het openbaar op 6 oktober 2017
+
+632.

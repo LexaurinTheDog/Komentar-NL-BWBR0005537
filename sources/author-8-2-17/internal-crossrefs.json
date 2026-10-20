@@ -1,0 +1,362 @@
+{
+  "read_against_canonical_official_xml": true,
+  "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+  "records": [
+    {
+      "id": "art-1:3",
+      "label": "Artikel 1:3",
+      "title": "",
+      "chapter": 1,
+      "structure": [
+        "Hoofdstuk 1 Inleidende bepalingen",
+        "Titel 1.1 Definities en reikwijdte"
+      ],
+      "text": "1 Onder besluit wordt verstaan: een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling.\n\n2 Onder beschikking wordt verstaan: een besluit dat niet van algemene strekking is, met inbegrip van de afwijzing van een aanvraag daarvan.\n\n3 Onder aanvraag wordt verstaan: een verzoek van een belanghebbende, een besluit te nemen.\n\n4 Onder beleidsregel wordt verstaan: een bij besluit vastgestelde algemene regel, niet zijnde een algemeen verbindend voorschrift, omtrent de afweging van belangen, de vaststelling van feiten of de uitleg van wettelijke voorschriften bij het gebruik van een bevoegdheid van een bestuursorgaan.",
+      "notes": [
+        "Bij Stb. 2001/208 is bepaald dat met ingang van 11 mei 2001 de wijzigingen ook van toepassing zijn op de wetten genoemd in artikel VI, tweede lid van de Derde tranche Algemene wet bestuursrecht."
+      ],
+      "official_path": "/Hoofdstuk1/Titeldeel1.1/Artikel1:3",
+      "effective_from": "1998-01-01",
+      "xml_label_id": "2813934"
+    },
+    {
+      "id": "art-2:15",
+      "label": "Artikel 2:15",
+      "title": "",
+      "chapter": 2,
+      "structure": [
+        "Hoofdstuk 2 Verkeer met bestuursorganen",
+        "Afdeling 2.3 Verkeer langs elektronische weg",
+        "Paragraaf 2.3.3 Verzending aan een bestuursorgaan"
+      ],
+      "text": "1 Een bestuursorgaan kan elektronisch verschafte gegevens en bescheiden weigeren voor zover de aanvaarding daarvan tot een onevenredige belasting voor het bestuursorgaan zou leiden.\n\n2 Een bestuursorgaan kan een elektronisch verzonden bericht weigeren voor zover de betrouwbaarheid of vertrouwelijkheid van het bericht onvoldoende is gewaarborgd, gelet op de aard en de inhoud van het bericht en het doel waarvoor het wordt gebruikt.\n\n3 Het bestuursorgaan deelt een weigering op grond van dit artikel zo spoedig mogelijk aan de afzender mee.",
+      "notes": [
+        "Artikel XV van Stb. 2025/445 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.3/Artikel2:15",
+      "effective_from": "2026-01-01",
+      "xml_label_id": "5860534"
+    },
+    {
+      "id": "art-3:20",
+      "label": "Artikel 3:20",
+      "title": "",
+      "chapter": 4,
+      "structure": [
+        "Hoofdstuk 3 Algemene bepalingen over besluiten",
+        "Afdeling 3.5 Coördinatie van samenhangende besluiten"
+      ],
+      "text": "Deze afdeling is van toepassing op besluiten ten aanzien waarvan dat is bepaald:\n\na. bij wettelijk voorschrift; of\n\nb. bij besluit van de tot het nemen van die besluiten bevoegde bestuursorganen (coördinatiebesluit).",
+      "notes": [],
+      "official_path": "/Hoofdstuk3/Afdeling3.5/Artikel3:20",
+      "effective_from": "2024-01-01",
+      "xml_label_id": "2814444"
+    },
+    {
+      "id": "art-3:21",
+      "label": "Artikel 3:21",
+      "title": "",
+      "chapter": 4,
+      "structure": [
+        "Hoofdstuk 3 Algemene bepalingen over besluiten",
+        "Afdeling 3.5 Coördinatie van samenhangende besluiten"
+      ],
+      "text": "1 Bij of krachtens het wettelijk voorschrift, bedoeld in artikel 3:20, onderdeel a, of in het coördinatiebesluit wordt een coördinerend bestuursorgaan aangewezen.\n\n2 Indien het in een coördinatiebesluit als coördinerend bestuursorgaan aan te wijzen bestuursorgaan niet bevoegd is tot het nemen van een of meer van de te coördineren besluiten, behoeft de aanwijzing de instemming van dat bestuursorgaan.\n\n3 Indien redelijkerwijs niet valt te verwachten dat toepassing van deze afdeling op een besluit de voortgang van de besluitvorming over de te coördineren besluiten in betekenende mate zal versnellen of dat aan deze toepassing anderszins aanmerkelijke voordelen zijn verbonden, kan het coördinerend bestuursorgaan besluiten deze afdeling ten aanzien van dat besluit niet, niet verder of later toe te passen.",
+      "notes": [
+        "Artikel 5.1 van Stb. 2021/135 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk3/Afdeling3.5/Artikel3:21",
+      "effective_from": "2024-01-01",
+      "xml_label_id": "2814454"
+    },
+    {
+      "id": "art-3:25",
+      "label": "Artikel 3:25",
+      "title": "",
+      "chapter": 5,
+      "structure": [
+        "Hoofdstuk 3 Algemene bepalingen over besluiten",
+        "Afdeling 3.5 Coördinatie van samenhangende besluiten"
+      ],
+      "text": "1 Indien op de voorbereiding van een van de besluiten afdeling 3.4 van toepassing is, is die afdeling van toepassing op alle besluiten, met inachtneming van het volgende:\n\na. de ingevolge de artikelen 3:11, 3:14 en 3:44, eerste lid, onderdeel a, vereiste terinzageleggingen geschiedt in ieder geval ten kantore van het coördinerend bestuursorgaan;\n\nb. het coördinerend bestuursorgaan draagt er zorg voor dat de gelegenheid tot het mondeling naar voren brengen van zienswijzen wordt gegeven met betrekking tot alle ontwerpbesluiten gezamenlijk;\n\nc. zienswijzen worden bij het coördinerend bestuursorgaan naar voren gebracht;\n\nd. indien over een ontwerpbesluit zienswijzen naar voren kunnen worden gebracht door een ieder geldt dit eveneens met betrekking tot de andere ontwerpbesluiten;\n\ne. indien een ontwerpbesluit strekt tot uitvoering van een ander besluit dat geen onderdeel uitmaakt van de coördinatie, kunnen zienswijzen geen betrekking hebben op dat andere besluit;\n\nf. het in de gelegenheid stellen te reageren op naar voren gebrachte zienswijzen geschiedt door het coördinerend bestuursorgaan;\n\ng. de ingevolge die afdeling en afdeling 3.6 vereiste mededelingen, kennisgevingen en toezendingen geschieden door het coördinerend bestuursorgaan;\n\nh. in afwijking van artikel 3:18 worden de besluiten genomen binnen een door het coördinerend bestuursorgaan te bepalen termijn, doch uiterlijk binnen de termijn die geldt voor het besluit met de langste beslistermijn;\n\ni. de dag van terinzagelegging van de besluiten door het coördinerend bestuursorgaan is bepalend voor de aanvang van de beroepstermijn ingevolge artikel 6:8, vierde lid.\n\n2 Indien afdeling 3.4 niet van toepassing is, geschiedt de voorbereiding met toepassing of overeenkomstige toepassing van de onderdelen b tot en met h van het eerste lid.",
+      "notes": [
+        "Artikel 5.1 van Stb. 2021/135 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk3/Afdeling3.5/Artikel3:25",
+      "effective_from": "2024-01-01",
+      "xml_label_id": "2814504"
+    },
+    {
+      "id": "art-4:112",
+      "label": "Artikel 4:112",
+      "title": "",
+      "chapter": 10,
+      "structure": [
+        "Hoofdstuk 4 Bijzondere bepalingen over besluiten",
+        "Titel 4.4 Bestuursrechtelijke geldschulden",
+        "Afdeling 4.4.4 Aanmaning en invordering bij dwangbevel",
+        "Paragraaf 4.4.4.1 De aanmaning"
+      ],
+      "text": "1 Het bestuursorgaan maant de schuldenaar die in verzuim is schriftelijk aan tot betaling binnen twee weken, gerekend vanaf de dag na die waarop de aanmaning is toegezonden.\n\n2 Bij wettelijk voorschrift kan een andere termijn worden vastgesteld.\n\n3 De aanmaning vermeldt dat bij niet tijdige betaling deze kan worden afgedwongen door op kosten van de schuldenaar uit te voeren invorderingsmaatregelen.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk4/Titeldeel4.4/Afdeling4.4.4/Paragraaf4.4.4.1/Artikel4:112",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "10066974"
+    },
+    {
+      "id": "art-4:126",
+      "label": "Artikel 4:126",
+      "title": "",
+      "chapter": 11,
+      "structure": [
+        "Hoofdstuk 4 Bijzondere bepalingen over besluiten",
+        "Titel 4.5 Nadeelcompensatie"
+      ],
+      "text": "1 Indien een bestuursorgaan in de rechtmatige uitoefening van zijn publiekrechtelijke bevoegdheid of taak schade veroorzaakt die uitgaat boven het normale maatschappelijke risico en die een benadeelde in vergelijking met anderen onevenredig zwaar treft, kent het bestuursorgaan de benadeelde desgevraagd een vergoeding toe.\n\n2 Schade blijft in elk geval voor rekening van de aanvrager voor zover:\n\na. hij het risico van het ontstaan van de schade heeft aanvaard;\n\nb. hij de schade had kunnen beperken door binnen redelijke grenzen maatregelen te nemen, die tot voorkoming of vermindering van de schade hadden kunnen leiden;\n\nc. de schade anderszins het gevolg is van een omstandigheid die aan de aanvrager kan worden toegerekend of\n\nd. de vergoeding van de schade anderszins is verzekerd.\n\n3 Indien een schadeveroorzakende gebeurtenis als bedoeld in het eerste lid tevens voordeel voor de benadeelde heeft opgeleverd, wordt dit bij de vaststelling van de te vergoeden schade in aanmerking genomen.\n\n4 Het bestuursorgaan kan een vergoeding toekennen in andere vorm dan betaling van een geldsom.",
+      "notes": [
+        "Artikelen IV en V van Stb. 2013/50 bevatten overgangsrecht m.b.t. deze wijziging.",
+        "Blijft tot een bij koninklijk besluit te bepalen tijdstip buiten toepassing voor de vergoeding van schade waarvoor bij wet of beleidsregel een andere regeling is getroffen."
+      ],
+      "official_path": "/Hoofdstuk4/Titeldeel4.5/Artikel4:126",
+      "effective_from": "2024-01-01",
+      "xml_label_id": "12082414"
+    },
+    {
+      "id": "art-6:3",
+      "label": "Artikel 6:3",
+      "title": "",
+      "chapter": 15,
+      "structure": [
+        "Hoofdstuk 6 Algemene bepalingen over bezwaar en beroep",
+        "Afdeling 6.1 Inleidende bepalingen"
+      ],
+      "text": "Een beslissing inzake de procedure ter voorbereiding van een besluit is niet vatbaar voor bezwaar of beroep, tenzij deze beslissing de belanghebbende los van het voor te bereiden besluit rechtstreeks in zijn belang treft.",
+      "notes": [],
+      "official_path": "/Hoofdstuk6/Afdeling6.1/Artikel6:3",
+      "effective_from": "1994-01-01",
+      "xml_label_id": "2814994"
+    },
+    {
+      "id": "art-6:15",
+      "label": "Artikel 6:15",
+      "title": "",
+      "chapter": 15,
+      "structure": [
+        "Hoofdstuk 6 Algemene bepalingen over bezwaar en beroep",
+        "Afdeling 6.2 Overige algemene bepalingen"
+      ],
+      "text": "1 Indien het bezwaar- of beroepschrift wordt ingediend bij een onbevoegd bestuursorgaan of bij een onbevoegde bestuursrechter, wordt het, onder vermelding van de datum van ontvangst, zo spoedig mogelijk doorgezonden aan het bevoegde orgaan, onder gelijktijdige mededeling hiervan aan de afzender.\n\n2 Het eerste lid is van overeenkomstige toepassing indien in plaats van een bezwaarschrift een beroepschrift is ingediend of omgekeerd.\n\n3 Het tijdstip van indiening bij het onbevoegde orgaan is bepalend voor de vraag of het bezwaar- of beroepschrift tijdig is ingediend, behoudens in geval van kennelijk onredelijk gebruik van procesrecht.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2016/288 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk6/Afdeling6.2/Artikel6:15",
+      "effective_from": "2017-06-12",
+      "xml_label_id": "2815124"
+    },
+    {
+      "id": "art-7:1",
+      "label": "Artikel 7:1",
+      "title": "",
+      "chapter": 16,
+      "structure": [
+        "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+        "Afdeling 7.1 Bezwaarschrift voorafgaand aan beroep bij de bestuursrechter"
+      ],
+      "text": "1 Degene aan wie het recht is toegekend beroep bij een bestuursrechter in te stellen, dient alvorens beroep in te stellen bezwaar te maken, tenzij:\n\na. het besluit in bezwaar of in administratief beroep is genomen,\n\nb. het besluit aan goedkeuring is onderworpen,\n\nc. het besluit een goedkeuring of een weigering daarvan inhoudt,\n\nd. het besluit is voorbereid met toepassing van afdeling 3.4,\n\ne. het besluit is genomen op basis van een uitspraak waarin de bestuursrechter met toepassing van artikel 8:72, vierde lid, onderdeel a, heeft bepaald dat afdeling 3.4 geheel of gedeeltelijk buiten toepassing blijft,\n\nf. het beroep zich richt tegen het niet tijdig nemen van een besluit,\n\ng. het besluit is genomen op grond van een voorschrift als genoemd in de bij deze wet behorende Regeling rechtstreeks beroep dan wel het besluit anderszins in die regeling is omschreven.\n\n2 Tegen de beslissing op het bezwaar kan beroep worden ingesteld met toepassing van de voorschriften die gelden voor het instellen van beroep tegen het besluit waartegen bezwaar is gemaakt.",
+      "notes": [
+        "Abusievelijk is een wijzigingsopdracht geformuleerd die niet geheel juist is. Deel C, artikel I, van Stb. 2012/682 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk7/Afdeling7.1/Artikel7:1",
+      "effective_from": "2013-01-01",
+      "xml_label_id": "2815244"
+    },
+    {
+      "id": "art-7:1a",
+      "label": "Artikel 7:1a",
+      "title": "",
+      "chapter": 16,
+      "structure": [
+        "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+        "Afdeling 7.1 Bezwaarschrift voorafgaand aan beroep bij de bestuursrechter"
+      ],
+      "text": "1 In het bezwaarschrift kan de indiener het bestuursorgaan verzoeken in te stemmen met rechtstreeks beroep bij de bestuursrechter, zulks in afwijking van artikel 7:1.\n\n2 Het bestuursorgaan wijst het verzoek in ieder geval af, indien tegen het besluit een ander bezwaarschrift is ingediend waarin eenzelfde verzoek ontbreekt, tenzij dat andere bezwaarschrift kennelijk niet-ontvankelijk is.\n\n3 Het bestuursorgaan kan instemmen met het verzoek indien de zaak daarvoor geschikt is.\n\n4 Het bestuursorgaan beslist zo spoedig mogelijk op het verzoek. Een beslissing tot instemming wordt genomen zodra redelijkerwijs kan worden aangenomen dat geen nieuwe bezwaarschriften zullen worden ingediend. De artikelen 4:7 en 4:8 zijn niet van toepassing.\n\n5 Indien het bestuursorgaan instemt met het verzoek zendt het het bezwaarschrift, onder vermelding van de datum van ontvangst, onverwijld door aan de bevoegde rechter.\n\n6 Een na de instemming ontvangen bezwaarschrift wordt eveneens onverwijld doorgezonden aan de bevoegde rechter. Indien dit bezwaarschrift geen verzoek als bedoeld in het eerste lid bevat, wordt, in afwijking van artikel 8:41, eerste lid, geen griffierecht geheven.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2016/288 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk7/Afdeling7.1/Artikel7:1a",
+      "effective_from": "2017-06-12",
+      "xml_label_id": "5860644"
+    },
+    {
+      "id": "art-7:10",
+      "label": "Artikel 7:10",
+      "title": "",
+      "chapter": 16,
+      "structure": [
+        "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+        "Afdeling 7.2 Bijzondere bepalingen over bezwaar"
+      ],
+      "text": "1 Het bestuursorgaan beslist binnen zes weken of – indien een commissie als bedoeld in artikel 7:13 is ingesteld – binnen twaalf weken, gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.\n\n2 De termijn wordt opgeschort gerekend vanaf de dag na die waarop de indiener is verzocht een verzuim als bedoeld in artikel 6:6 te herstellen, tot de dag waarop het verzuim is hersteld of de daarvoor gestelde termijn ongebruikt is verstreken.\n\n3 Het bestuursorgaan kan de beslissing voor ten hoogste zes weken verdagen.\n\n4 Verder uitstel is mogelijk voor zover:\n\na. alle belanghebbenden daarmee instemmen,\n\nb. de indiener van het bezwaarschrift daarmee instemt en andere belanghebbenden daardoor niet in hun belangen kunnen worden geschaad, of\n\nc. dit nodig is in verband met de naleving van wettelijke procedurevoorschriften.\n\n5 Indien toepassing is gegeven aan het tweede, derde of vierde lid, doet het bestuursorgaan hiervan schriftelijk mededeling aan belanghebbenden.",
+      "notes": [],
+      "official_path": "/Hoofdstuk7/Afdeling7.2/Artikel7:10",
+      "effective_from": "2009-10-01",
+      "xml_label_id": "2815344"
+    },
+    {
+      "id": "art-7:24",
+      "label": "Artikel 7:24",
+      "title": "",
+      "chapter": 17,
+      "structure": [
+        "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+        "Afdeling 7.3 Bijzondere bepalingen over administratief beroep"
+      ],
+      "text": "1 Het beroepsorgaan beslist binnen zestien weken, gerekend vanaf de dag na die waarop de termijn voor het indienen van het beroepschrift is verstreken.\n\n2 Indien het beroepsorgaan evenwel behoort tot dezelfde rechtspersoon als het bestuursorgaan tegen welks besluit het beroep is gericht, beslist het binnen zes weken of – indien een commissie als bedoeld in artikel 7:19, tweede lid, is ingesteld – binnen twaalf weken, gerekend vanaf de dag na die waarop de termijn voor het indienen van het beroepschrift is verstreken.\n\n3 De termijn wordt opgeschort gerekend vanaf de dag na die waarop de indiener is verzocht een verzuim als bedoeld in artikel 6:6 te herstellen, tot de dag waarop het verzuim is hersteld of de daarvoor gestelde termijn ongebruikt is verstreken.\n\n4 Het beroepsorgaan kan de beslissing voor ten hoogste tien weken verdagen.\n\n5 In het geval, bedoeld in het tweede lid, kan het beroepsorgaan de beslissing echter voor ten hoogste zes weken verdagen.\n\n6 Verder uitstel is mogelijk voor zover:\n\na. alle belanghebbenden daarmee instemmen,\n\nb. de indiener van het beroepschrift daarmee instemt en andere belanghebbenden daardoor niet in hun belangen kunnen worden geschaad, of\n\nc. dit nodig is in verband met de naleving van wettelijke procedurevoorschriften.\n\n7 Indien toepassing is gegeven aan het derde, vierde, vijfde of zesde lid, doet het beroepsorgaan hiervan schriftelijk mededeling aan belanghebbenden.",
+      "notes": [],
+      "official_path": "/Hoofdstuk7/Afdeling7.3/Artikel7:24",
+      "effective_from": "2009-10-01",
+      "xml_label_id": "2815494"
+    },
+    {
+      "id": "art-8:18",
+      "label": "Artikel 8:18",
+      "title": "",
+      "chapter": 18,
+      "structure": [
+        "Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter",
+        "Titel 8.1 Algemene bepalingen over het beroep in eerste aanleg",
+        "Afdeling 8.1.4 Wraking en verschoning van rechters"
+      ],
+      "text": "1 Het verzoek om wraking wordt zo spoedig mogelijk ter zitting behandeld door een meervoudige kamer waarin de rechter wiens wraking is verzocht, geen zitting heeft.\n\n2 De verzoeker en de rechter wiens wraking is verzocht, worden in de gelegenheid gesteld te worden gehoord. De meervoudige kamer kan ambtshalve of op verzoek van de verzoeker of de rechter wiens wraking is verzocht, bepalen dat zij niet in elkaars aanwezigheid zullen worden gehoord.\n\n3 Indien het verzoek kennelijk niet-ontvankelijk of kennelijk ongegrond is, kan de meervoudige kamer zonder toepassing te geven aan het eerste en tweede lid beslissen het verzoek zonder behandeling ter zitting af te doen.\n\n4 De meervoudige kamer beslist zo spoedig mogelijk. De meervoudige kamer spreekt de beslissing in het openbaar uit. De beslissing is gemotiveerd en wordt onverwijld aan de verzoeker, de andere partijen en de rechter wiens wraking was verzocht medegedeeld.\n\n5 In geval van misbruik kan de meervoudige kamer bepalen dat een volgend verzoek niet in behandeling wordt genomen. Hiervan wordt in de beslissing melding gemaakt.\n\n6 Tegen de beslissing staat geen rechtsmiddel open.",
+      "notes": [],
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.4/Artikel8:18",
+      "effective_from": "2026-01-01",
+      "xml_label_id": "2815774"
+    },
+    {
+      "id": "art-8:20",
+      "label": "Artikel 8:20",
+      "title": "",
+      "chapter": 18,
+      "structure": [
+        "Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter",
+        "Titel 8.1 Algemene bepalingen over het beroep in eerste aanleg",
+        "Afdeling 8.1.4 Wraking en verschoning van rechters"
+      ],
+      "text": "1 Het verzoek om verschoning wordt zo spoedig mogelijk behandeld door een meervoudige kamer waarin de rechter die om verschoning heeft verzocht, geen zitting heeft.\n\n2 De meervoudige kamer beslist zo spoedig mogelijk. De beslissing is gemotiveerd en wordt onverwijld aan partijen en de rechter die om verschoning had verzocht medegedeeld.\n\n3 Tegen de beslissing staat geen rechtsmiddel open.",
+      "notes": [],
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.4/Artikel8:20",
+      "effective_from": "2026-01-01",
+      "xml_label_id": "2815794"
+    },
+    {
+      "id": "art-8:47",
+      "label": "Artikel 8:47",
+      "title": "",
+      "chapter": 20,
+      "structure": [
+        "Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter",
+        "Titel 8.2 Behandeling van het beroep in eerste aanleg",
+        "Afdeling 8.2.2 Vooronderzoek"
+      ],
+      "text": "1 De bestuursrechter kan een deskundige benoemen voor het instellen van een onderzoek.\n\n2 Bij de benoeming worden vermeld de opdracht die moet worden vervuld en de termijn, bedoeld in het vierde lid.\n\n3 Van het voornemen tot het benoemen van een deskundige als bedoeld in het eerste lid wordt aan partijen mededeling gedaan. De bestuursrechter kan partijen in de gelegenheid stellen om hun wensen omtrent het onderzoek binnen een door hem te bepalen termijn schriftelijk aan hem kenbaar te maken.\n\n4 De bestuursrechter stelt een termijn binnen welke de deskundige aan hem een schriftelijk verslag van het onderzoek uitbrengt.\n\n5 Partijen kunnen binnen vier weken na de dag van verzending van het verslag aan hen schriftelijk hun zienswijze met betrekking tot het verslag naar voren brengen.\n\n6 De bestuursrechter kan de in het vijfde lid bedoelde termijn verlengen.",
+      "notes": [
+        "Deel C, artikel I, van Stb. 2012/682 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.2/Artikel8:47",
+      "effective_from": "2013-01-01",
+      "xml_label_id": "2816124"
+    },
+    {
+      "id": "art-8:56",
+      "label": "Artikel 8:56",
+      "title": "",
+      "chapter": 21,
+      "structure": [
+        "Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter",
+        "Titel 8.2 Behandeling van het beroep in eerste aanleg",
+        "Afdeling 8.2.5 Onderzoek ter zitting"
+      ],
+      "text": "Na afloop van het vooronderzoek worden partijen ten minste drie weken tevoren uitgenodigd om op een in de uitnodiging te vermelden plaats en tijdstip op een zitting van de bestuursrechter te verschijnen.",
+      "notes": [
+        "Deel C, artikel I, van Stb. 2012/682 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.5/Artikel8:56",
+      "effective_from": "2013-01-01",
+      "xml_label_id": "2816244"
+    },
+    {
+      "id": "art-8:64",
+      "label": "Artikel 8:64",
+      "title": "",
+      "chapter": 21,
+      "structure": [
+        "Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter",
+        "Titel 8.2 Behandeling van het beroep in eerste aanleg",
+        "Afdeling 8.2.5 Onderzoek ter zitting"
+      ],
+      "text": "1 De bestuursrechter kan het onderzoek ter zitting schorsen. Hij kan daarbij bepalen dat het vooronderzoek wordt hervat.\n\n2 Indien bij de schorsing geen tijdstip van de nadere zitting is bepaald, bepaalt de bestuursrechter dit zo spoedig mogelijk. De griffier doet zo spoedig mogelijk mededeling aan partijen van het tijdstip van de nadere zitting.\n\n3 In de gevallen waarin schorsing van het onderzoek ter zitting heeft plaatsgevonden, wordt de zaak op de nadere zitting hervat in de stand waarin zij zich bevond.\n\n4 De bestuursrechter kan bepalen dat het onderzoek ter zitting opnieuw wordt aangevangen.\n\n5 De bestuursrechter kan bepalen dat de nadere zitting achterwege blijft indien geen van de partijen, nadat zij zijn gewezen op hun recht ter zitting te worden gehoord, binnen een door hem gestelde redelijke termijn heeft verklaard dat zij gebruik wil maken van dit recht. Artikel 8:57, tweede en derde lid, is van toepassing.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2016/288 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.5/Artikel8:64",
+      "effective_from": "2017-06-12",
+      "xml_label_id": "2816324"
+    },
+    {
+      "id": "art-8:79",
+      "label": "Artikel 8:79",
+      "title": "",
+      "chapter": 22,
+      "structure": [
+        "Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter",
+        "Titel 8.2 Behandeling van het beroep in eerste aanleg",
+        "Afdeling 8.2.6 Uitspraak"
+      ],
+      "text": "1 Binnen twee weken na de dagtekening van de uitspraak stelt de griffier kosteloos een afschrift van de uitspraak of van het proces-verbaal van de mondelinge uitspraak ter beschikking van partijen.\n\n2 Anderen dan partijen kunnen afschriften of uittreksels van de uitspraak of van het proces-verbaal van de mondelinge uitspraak verkrijgen. Met betrekking tot de kosten is het bij en krachtens de Wet tarieven in strafzaken bepaalde van overeenkomstige toepassing.\n\n3 In afwijking van het tweede lid verstrekt de griffier, indien de uitspraak betrekking heeft op de toepassing van de artikelen 101 of 102 van het Verdrag betreffende de werking van de Europese Unie, overeenkomstig artikel 15, tweede lid, van de in artikel 8:45, vierde lid, genoemde verordening onverwijld en kosteloos een afschrift van de uitspraak of van het proces-verbaal van de mondelinge uitspraak aan de Europese Commissie. De verstrekking geschiedt door tussenkomst van de Raad voor de rechtspraak, tenzij het een uitspraak van de Hoge Raad of van de Afdeling bestuursrechtspraak van de Raad van State betreft.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2016/288 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.6/Artikel8:79",
+      "effective_from": "2017-06-12",
+      "xml_label_id": "2816494"
+    },
+    {
+      "id": "art-8:88",
+      "label": "Artikel 8:88",
+      "title": "",
+      "chapter": 22,
+      "structure": [
+        "Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter",
+        "Titel 8.4 Schadevergoeding"
+      ],
+      "text": "1 De bestuursrechter is bevoegd op verzoek van een belanghebbende een bestuursorgaan te veroordelen tot vergoeding van schade die de belanghebbende lijdt of zal lijden als gevolg van:\n\na. een onrechtmatig besluit;\n\nb. een andere onrechtmatige handeling ter voorbereiding van een onrechtmatig besluit;\n\nc. het niet tijdig nemen van een besluit;\n\nd. een andere onrechtmatige handeling van een bestuursorgaan waarbij een persoon als bedoeld in artikel 8:2, eerste lid, onder a, zijn nagelaten betrekkingen of zijn rechtverkrijgenden belanghebbende zijn.\n\n2 Het eerste lid is niet van toepassing indien het besluit van beroep bij de bestuursrechter is uitgezonderd.",
+      "notes": [
+        "Artikelen IV en V van Stb. 2013/50 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk8/Titeldeel8.4/Artikel8:88",
+      "effective_from": "2013-07-01",
+      "xml_label_id": "2816614"
+    },
+    {
+      "id": "art-8:113",
+      "label": "Artikel 8:113",
+      "title": "",
+      "chapter": 23,
+      "structure": [
+        "Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter",
+        "Titel 8.5 Hoger beroep"
+      ],
+      "text": "1 De hogerberoepsrechter bevestigt de uitspraak van de rechtbank, hetzij met overneming, hetzij met verbetering van de gronden, of doet, met gehele of gedeeltelijke vernietiging van de uitspraak, hetgeen de rechtbank zou behoren te doen.\n\n2 Indien de uitspraak van de hogerberoepsrechter ertoe strekt dat het bestuursorgaan een nieuw besluit neemt, kan de uitspraak tevens inhouden dat beroep tegen dat besluit slechts kan worden ingesteld bij de hogerberoepsrechter.",
+      "notes": [
+        "Deel C, artikel I, van Stb. 2012/682 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk8/Titeldeel8.5/Artikel8:113",
+      "effective_from": "2013-01-01",
+      "xml_label_id": "11994774"
+    }
+  ],
+  "annex_reference_scope": "Bijlage 2, artikelen 1–8: wettelijke functies en toedelingsaanhef gecontroleerd; geen volledige afzonderlijke inhoudelijke bespreking van alle sectorale vermeldingen in deze batch."
+}

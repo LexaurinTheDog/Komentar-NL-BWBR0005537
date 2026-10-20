@@ -1,0 +1,50 @@
+[
+  {
+    "ecli": "ECLI:NL:RVS:2022:2221",
+    "court": "ABRvS",
+    "date": "2022-08-03",
+    "docket": "202002829/1/R2",
+    "paragraphs": "r.o. 4.1–6; context 1–3, dictum en wettelijke bijlage",
+    "units": [
+      "art-8:3"
+    ],
+    "case_card": "case-cards/ECLI-NL-RVS-2022-2221.md",
+    "full_official_text_read": true
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2023:2969",
+    "court": "ABRvS",
+    "date": "2023-08-02",
+    "docket": "202103977/1/R2",
+    "paragraphs": "Procesverloop; r.o. 1.3–3, 9.2–10, 13–15; bijlage I met vragen",
+    "units": [
+      "art-8:12b"
+    ],
+    "case_card": "case-cards/ECLI-NL-RVS-2023-2969.md",
+    "full_official_text_read": true
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2025:2001",
+    "court": "ABRvS",
+    "date": "2025-05-02",
+    "docket": "202305937/3/A3",
+    "paragraphs": "r.o. 3–4.1; context 1–2.1 en 5–8, dictum",
+    "units": [
+      "art-8:15"
+    ],
+    "case_card": "case-cards/ECLI-NL-RVS-2025-2001.md",
+    "full_official_text_read": true
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2017:2719",
+    "court": "ABRvS",
+    "date": "2017-10-06",
+    "docket": "201608449/2/A1",
+    "paragraphs": "r.o. 1–3 en dictum",
+    "units": [
+      "art-8:16"
+    ],
+    "case_card": "case-cards/ECLI-NL-RVS-2017-2719.md",
+    "full_official_text_read": true
+  }
+]

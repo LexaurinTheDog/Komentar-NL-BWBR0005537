@@ -1,0 +1,135 @@
+{
+  "checked_at": "2026-10-20T18:18:52.146358+00:00",
+  "kind": "author_self_check",
+  "independent_review": false,
+  "units_checked": 20,
+  "checked_ids": [
+    "art-8:2",
+    "art-8:3",
+    "art-8:4",
+    "art-8:5",
+    "art-8:6",
+    "art-8:7",
+    "art-8:8",
+    "art-8:9",
+    "art-8:10",
+    "art-8:10a",
+    "art-8:11",
+    "art-8:12",
+    "art-8:12a",
+    "art-8:12b",
+    "art-8:13",
+    "art-8:13a",
+    "art-8:14",
+    "art-8:15",
+    "art-8:16",
+    "art-8:17"
+  ],
+  "checks": [
+    {
+      "id": "art-8:2",
+      "checked_distinctions": "Lid 1 aparte hoedanigheidsgebonden handelingen en publiekrechtelijk SER-handelen, geen algehele werknemersroute; lid 2 weigering goedkeuring tegenover uitsluiting goedkeuring 8:3; andere toegangseisen blijven.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-8:3",
+      "checked_distinctions": "Alle categorieën lid 1, lid 2 privaatrechtelijke voorbereiding; kwalificatie niet etiket, exceptieve toetsing onderscheiden, 6:3 en 8:2 begrensd, 2022:2221 materieel historisch.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-8:4",
+      "checked_distinctions": "Alle vier leden en alle onderdelen; elektronische weigering, aanmaning/dwangbevel versus vaststelling, uitstel/coördinatie, schadeverzoek, hoofdstuk 2 onverlet, dienstplichtuitzonderingen, benoemingsexceptie, examens versus inschrijving, specifieke verkiezingsbesluiten.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-8:5",
+      "checked_distinctions": "Negatieve lijst artikel 1 bijlage 2, concrete beperkte omschrijving; administratief beroep open of eerder mogelijk, gevolg ongebruikt laten, beslissing op administratief beroep en doorzending 6:15.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-8:6",
+      "checked_distinctions": "Rechtbank uitgangspunt, andere rechter via hoofdstuk 2 of bijzondere wet, onderscheiden relatief bevoegd; lid 2 vereist toepassing 8:113(2) in eerdere uitspraak, geen automatische terugkeer.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-8:7",
+      "checked_distinctions": "Zetel decentrale en Wgr-organen, woonplaats andere organen en buitenlandse appellant, exclusieve hoofdstuk 3 toedeling, causale nadeelcompensatie, lid 4 beperkte overeenkomstige toepassing bij hof.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-8:8",
+      "checked_distinctions": "Hetzelfde besluit, meerdere bevoegde rechtbanken, eerste indiening en wettelijke gelijktijdigheidsrangorde, verplicht stukken doorzenden en onverwijlde melding orgaan; 7:1a-route eigen rangorde, hof-overeenkomstige toepassing.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-8:9",
+      "checked_distinctions": "Geschil tussen rechtbanken over 8:7, hoogste sectorcollege volgens hogerberoepsbevoegdheid, niet universeel bevoegdheidsgeschil of zelfstandig partijberoep; afdelingchecklist.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-8:10",
+      "checked_distinctions": "Enkelvoudige rechtbank uitgangspunt, verplichte ongeschiktheidsverwijzing versus andere facultatieve gronden, terugverwijzing, elke stand/voortzetting zonder nieuwe beroepstermijn; samenstelling en tegenspraak niet weggeredeneerd.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-8:10a",
+      "checked_distinctions": "Andere bestuursrechter meervoudig, facultatief enkelvoudig/ongeschikt verplicht terug, grote kamer voor rechtsontwikkeling/rechtseenheid zonder hof, conclusie apart, elke stand en voortzetting.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-8:11",
+      "checked_distinctions": "Gelijke behandelingsregels alle bedoelde kamers, enkelvoudige rechter tevens voorzittersbevoegdheden en verplichtingen, geen nieuwe termijnen of algemene gerechtsvoorzitter.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-8:12",
+      "checked_distinctions": "Geheel/gedeeltelijk vooronderzoek, opdracht rechter-commissaris versus eindbeslissing en deskundige 8:47, onderzoeksresultaten/tegenspraak, geen verzonnen algemene reactietermijn; afdelingchecklist.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-8:12a",
+      "checked_distinctions": "Acht leden: genoemde opdrachtgevers, meervoudig/groot, eigen/ander collegelid met instemming, vorm naam/datum/motivering, zes weken vanaf sluiting versus twee vanaf verzending, 8:64 en 8:79(2), geen beraadslaging/binding; checklist.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-8:12b",
+      "checked_distinctions": "Zes leden: drie colleges en kamerbeperking, aankondiging, verplichte partijmededeling versus facultatieve wensen, vier weken verlengbaar, uitnodiging derden plus mededeling partijen, eigen rechtspositie, IsoSun niet algemene natuurhandleiding; checklist.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-8:13",
+      "checked_distinctions": "Twee aanhangige zaken en gewenste behandeling door één rechtbank, verzoek tot aanvang zitting versus 8:14 sluiting, ontvangende instemming/stukken, geen automatische voeging, overeenkomstige hofroute.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-8:13a",
+      "checked_distinctions": "Vervallen slot behouden zonder reconstructie historische bevoegdheid; oud citaat geen actuele grondslag.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-8:14",
+      "checked_distinctions": "Zelfde/verwante onderwerp, voeging en splitsing, ontvankelijkheid/positie per zaak, verzoek tot sluiting, geen overname ander gerecht zonder verwijzingsgrondslag; afdelingchecklist.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-8:15",
+      "checked_distinctions": "Partij, behandelende rechter, concrete feiten per rechter, objectieve vrees versus subjectief ongenoegen, procesbeslissing niet categorisch irrelevant maar geen verkapt hoger beroep; 2025:2001 precies begrensd.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-8:16",
+      "checked_distinctions": "Vijf leden: zodra bekend geen vaste dagen, schriftelijk/mondeling wettelijke momenten, alle bekende feiten tegelijk, nieuwe verzoeken met nieuw bekende feiten, schorsing plus sinds januari 2026 onthouding behoudens onuitstelbaar; oude zaak alleen lid 1 en nieuwe 8:18 apart.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-8:17",
+      "checked_distinctions": "Berusting gewraakte rechter, geen partij-aanspraak of inhoudelijke erkenning, meerdere rechters apart, geen eindbeslissing hoofdzaak, geen berusting/verschoning verwisseld; actuele doorverwijzing 8:18 en onthouding 8:16.",
+      "specific_fictional_example": true
+    }
+  ],
+  "unresolved_blockers": [],
+  "limitations": [
+    "Een andere frisse procedure moet de onafhankelijke tweede beoordeling verrichten.",
+    "Minimumlengte, bronidentiteit en afwezigheid van letterlijke herhaling bewijzen geen juridische kwaliteit."
+  ]
+}

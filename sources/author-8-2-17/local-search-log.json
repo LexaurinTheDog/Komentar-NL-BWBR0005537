@@ -1,0 +1,30 @@
+{
+  "checked_at": "2026-10-20T18:10:24.400065+00:00",
+  "method": "Targeted lookup of selected ECLIs in national court corpora; selective official website searches followed by full official XML.",
+  "cases": [
+    {
+      "ecli": "ECLI:NL:RVS:2020:452",
+      "official_snapshot": "sources/author-8-2-17/ECLI-NL-RVS-2020-452.xml",
+      "sha256": "f52a487f6e66065a6b2480a9b2f2eb57b906dbdbe262e0fac745676dd90268a2",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2020-452.md",
+      "local_exists": true,
+      "normalized_full_body_in_local": true
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2017:2719",
+      "official_snapshot": "sources/author-8-2-17/ECLI-NL-RVS-2017-2719.xml",
+      "sha256": "1974f7c3776cfdd924d0b263d89366f47643b68732d270e804d47a5d6ab2da48",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2017-2719.md",
+      "local_exists": true,
+      "normalized_full_body_in_local": true
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2025:2001",
+      "official_snapshot": "sources/author-8-2-17/ECLI-NL-RVS-2025-2001.xml",
+      "sha256": "3bd444eef9e1e8fd35e73f49309707a624e9035832fd7c7f6274c7ddf54fccf5",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2025-2001.md",
+      "local_exists": true,
+      "normalized_full_body_in_local": true
+    }
+  ]
+}

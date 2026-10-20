@@ -6332,5 +6332,177 @@
       "operative_formulas_present": true
     },
     "unresolved_blockers": []
+  },
+  "author_8_2_17": {
+    "verified_at": "2026-10-20T18:18:52.146358+00:00",
+    "requests": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0005537",
+        "accessed_at": "2026-10-20T18:09:51.947175+00:00",
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+        "content_type": "text/html;charset=UTF-8",
+        "path": "sources/author-8-2-17/current.html",
+        "bytes": 4204181,
+        "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+        "accepted_format": true
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+        "accessed_at": "2026-10-20T18:09:53.819922+00:00",
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+        "content_type": "text/html;charset=UTF-8",
+        "path": "sources/author-8-2-17/history.html",
+        "bytes": 1762757,
+        "sha256": "5df746fb107c61ed84f37894c96b2b31b797db06a5e28b00698228223b2c7e46",
+        "accepted_format": true
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+        "accessed_at": "2026-10-20T18:09:54.928580+00:00",
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+        "content_type": "application/xml",
+        "path": "sources/author-8-2-17/selected.xml",
+        "bytes": 2622149,
+        "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+        "xml_root": "toestand",
+        "accepted_format": true
+      },
+      {
+        "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2020:452",
+        "accessed_at": "2026-10-20T18:10:23.725918+00:00",
+        "http_status": 200,
+        "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2020:452",
+        "content_type": "application/xml",
+        "path": "sources/author-8-2-17/ECLI-NL-RVS-2020-452.xml",
+        "bytes": 184389,
+        "sha256": "f52a487f6e66065a6b2480a9b2f2eb57b906dbdbe262e0fac745676dd90268a2",
+        "xml_root": "open-rechtspraak",
+        "accepted_format": true
+      },
+      {
+        "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2017:2719",
+        "accessed_at": "2026-10-20T18:10:24.098043+00:00",
+        "http_status": 200,
+        "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2017:2719",
+        "content_type": "application/xml",
+        "path": "sources/author-8-2-17/ECLI-NL-RVS-2017-2719.xml",
+        "bytes": 7663,
+        "sha256": "1974f7c3776cfdd924d0b263d89366f47643b68732d270e804d47a5d6ab2da48",
+        "xml_root": "open-rechtspraak",
+        "accepted_format": true
+      },
+      {
+        "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2025:2001",
+        "accessed_at": "2026-10-20T18:10:24.263568+00:00",
+        "http_status": 200,
+        "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2025:2001",
+        "content_type": "application/xml",
+        "path": "sources/author-8-2-17/ECLI-NL-RVS-2025-2001.xml",
+        "bytes": 15248,
+        "sha256": "3bd444eef9e1e8fd35e73f49309707a624e9035832fd7c7f6274c7ddf54fccf5",
+        "xml_root": "open-rechtspraak",
+        "accepted_format": true
+      },
+      {
+        "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2023:2969",
+        "accessed_at": "2026-10-20T18:10:37.866036+00:00",
+        "http_status": 200,
+        "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2023:2969",
+        "content_type": "application/xml",
+        "path": "sources/author-8-2-17/ECLI-NL-RVS-2023-2969.xml",
+        "bytes": 43970,
+        "sha256": "cc0b0beaba29518f74c6e22c8999e04bb99f789abed56efaefe9ddaac6959fea",
+        "xml_root": "open-rechtspraak",
+        "accepted_format": true
+      },
+      {
+        "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2022:285",
+        "accessed_at": "2026-10-20T18:10:38.055217+00:00",
+        "http_status": 200,
+        "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2022:285",
+        "content_type": "application/xml",
+        "path": "sources/author-8-2-17/ECLI-NL-RVS-2022-285.xml",
+        "bytes": 57775,
+        "sha256": "51539c998ee4b628a0e119ebfe6a12dc687efa50c9dd5a807bad806193cb8a17",
+        "xml_root": "open-rechtspraak",
+        "accepted_format": true
+      },
+      {
+        "url": "https://zoek.officielebekendmakingen.nl/stb-2025-333.xml",
+        "accessed_at": "2026-10-20T18:10:38.287259+00:00",
+        "http_status": 200,
+        "final_url": "https://zoek.officielebekendmakingen.nl/stb-2025-333.xml",
+        "content_type": "text/xml",
+        "path": "sources/author-8-2-17/stb-2025-333.xml",
+        "bytes": 45290,
+        "sha256": "4889e6fd48537284d19185ea0ceefecd93e0bf62216a738d60327c32d031791f",
+        "xml_root": "officiele-publicatie",
+        "accepted_format": true
+      },
+      {
+        "url": "https://zoek.officielebekendmakingen.nl/stb-2025-414.xml",
+        "accessed_at": "2026-10-20T18:10:38.498337+00:00",
+        "http_status": 200,
+        "final_url": "https://zoek.officielebekendmakingen.nl/stb-2025-414.xml",
+        "content_type": "text/xml",
+        "path": "sources/author-8-2-17/stb-2025-414.xml",
+        "bytes": 10282,
+        "sha256": "90912b64b8a5b8d9a07e336bd08d74bd0a48af48c0b723117ed019530af44bf3",
+        "xml_root": "officiele-publicatie",
+        "accepted_format": true
+      },
+      {
+        "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2022:2221",
+        "accessed_at": "2026-10-20T18:10:47.696464+00:00",
+        "http_status": 200,
+        "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2022:2221",
+        "content_type": "application/xml",
+        "path": "sources/author-8-2-17/ECLI-NL-RVS-2022-2221.xml",
+        "bytes": 27284,
+        "sha256": "b41b93e6d19f039ca067d491dac523a4a2e65523d6bcc0fee9243f95ba80728f",
+        "xml_root": "open-rechtspraak",
+        "accepted_format": true
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001947",
+        "accessed_at": "2026-10-20T18:11:21.159773+00:00",
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001947/2025-07-01",
+        "content_type": "text/html;charset=UTF-8",
+        "path": "sources/author-8-2-17/ambtenarenwet-current.html",
+        "bytes": 185628,
+        "sha256": "d330f2eae3b92d07fbca8f9233453fcb96cdff80844f0dddaf0b27bc139cdcc8",
+        "accepted_format": true
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001947/2025-07-01_0/xml/BWBR0001947_2025-07-01_0.xml",
+        "accessed_at": "2026-10-20T18:11:28.320969+00:00",
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001947/2025-07-01_0/xml/BWBR0001947_2025-07-01_0.xml",
+        "content_type": "application/xml",
+        "path": "sources/author-8-2-17/ambtenarenwet.xml",
+        "bytes": 113816,
+        "sha256": "ebfc5a1200c37abd31972f7ca695654d53d0db09d919c2a6590e203f6e5dcb78",
+        "xml_root": "toestand",
+        "accepted_format": true
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001947/2025-07-01/0/informatie",
+        "accessed_at": "2026-10-20T18:11:28.609580+00:00",
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001947/2025-07-01/0/informatie",
+        "content_type": "text/html;charset=UTF-8",
+        "path": "sources/author-8-2-17/ambtenarenwet-history.html",
+        "bytes": 425394,
+        "sha256": "69e6cd85e662a2b38a182dfcc3b3f255448614098e6af692ce70c1ef33f81930",
+        "accepted_format": true
+      }
+    ],
+    "preflight": "sources/author-8-2-17/preflight-result.json",
+    "case_cards": "sources/author-8-2-17/used-cases.json",
+    "decisive_date": "2026-10-19"
   }
 }

@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                      xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+   <metadata>
+      <meta name="DCTERMS.publisher" scheme="OVERHEID.Ministerie"
+            content="Ministerie van Justitie en Veiligheid"/>
+      <meta name="DC.creator" scheme="OVERHEID.Ministerie"
+            content="Ministerie van Justitie en Veiligheid"/>
+      <meta name="DCTERMS.isReplacedBy" scheme="OVERHEIDop.StbID" content=""/>
+      <meta name="OVERHEIDop.configuratie" scheme=""
+            content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-StbWet-Web/1.13/xml/MC-OEP-StbWet-Web.xml"/>
+      <meta name="OVERHEIDop.steltVast" scheme="" content=""/>
+      <meta name="DCTERMS.hasPart" scheme="" content=""/>
+      <meta name="DCTERMS.isRequiredBy" scheme="OVERHEIDop.StbID" content=""/>
+      <meta name="OVERHEIDop.ketenID" scheme="" content=""/>
+      <meta name="DC.type" scheme="OVERHEIDop.Staatsblad" content="Wet"/>
+      <meta name="DCTERMS.relation" scheme="" content=""/>
+      <meta name="OVERHEIDop.materieelUitgewerkt" scheme="DCTERMS.W3CDTF" content=""/>
+      <meta name="OVERHEIDop.versieInformatie" scheme="" content=""/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Staatsblad"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype"
+            content="ministerie"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda"
+            content="Recht | Strafrecht"/>
+      <meta name="DC.title"
+            content="Wet van 29 oktober 2025 tot wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering en enige andere wetten in verband met verdere versterking van de strafrechtelijke aanpak van ondermijnende criminaliteit (versterking strafrechtelijke aanpak ondermijnende criminaliteit II)"/>
+      <meta name="OVERHEIDop.jaargang" scheme="DCTERMS.W3CDTF" content="2025"/>
+      <meta name="DC.identifier" scheme="OVERHEIDop.StbID" content="stb-2025-333"/>
+      <meta name="OVERHEIDop.publicationIssue" content="333"/>
+      <meta content="" name="DCTERMS.alternative"/>
+      <meta name="OVERHEIDop.datumOndertekening" scheme="DCTERMS.W3CDTF"
+            content="2025-10-29"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-11-10"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-11-10"/>
+      <meta name="OVERHEIDop.behandeldDossier" content="36463"/>
+   </metadata>
+   <kop>
+      <titel>Staatsblad</titel>
+      <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+   </kop>
+   <staatsblad>
+      <intitule>Wet van 29 oktober 2025 tot wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering en enige andere wetten in verband met verdere versterking van de strafrechtelijke aanpak van ondermijnende criminaliteit (versterking strafrechtelijke aanpak ondermijnende criminaliteit II)</intitule>
+      <wet-besluit>
+         <aanhef>
+            <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+            <considerans>
+               <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+               <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is het wettelijk instrumentarium verder uit te breiden om de ondermijnende criminaliteit beter te kunnen bestrijden;</considerans.al>
+            </considerans>
+            <afkondiging>
+               <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+            </afkondiging>
+         </aanhef>
+         <wettekst>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">I</nr>
+               </kop>
+               <wat type="wijziging">Het Wetboek van Strafrecht wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>In artikel 31, eerste lid, wordt onder vernummering van de onderdelen 3° en 4° tot 4° en 5° een onderdeel ingevoegd, luidende:</wat>
+                  <?xpp qa?><?xpp lead;-1?><wijziging>
+                     <artikeltekst>
+                        <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                           <li>
+                              <li.nr>3°.</li.nr>
+                              <al>bij veroordeling tot taakstraf, voor een tijd van ten minste twee en ten hoogste vijf jaren;</al>
+                           </li>
+                        </lijst>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>In artikel 36e, zevende lid, wordt «eerste en tweede lid» vervangen door «eerste, tweede en derde lid» en wordt na de eerste volzin een zin toegevoegd luidende:</wat>
+                  <?xpp qa?><?xpp lead;-1?><wijziging>
+                     <artikeltekst>
+                        <al>Bij het vaststellen van het bedrag van het wederrechtelijk verkregen voordeel op grond van het derde lid moet voor de toepassing van de vorige zin tevens aannemelijk zijn dat de veroordeelden een economische eenheid vormden die het wederrechtelijk verkregen voordeel heeft genoten.</al>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">Ba</lidnr>
+                  <wat>In artikel 132, eerste lid, wordt «vierde categorie» vervangen door «vijfde categorie».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>In artikel 138aa, tweede lid, wordt «Hij die zich de toegang heeft verschaft tot een in het eerste lid bedoelde plaats» vervangen door «De schuldige die zich de toegang tot de in het eerste lid bedoelde plaats heeft verschaft».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">D</lidnr>
+                  <wat>Artikel 152 wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>Voor de tekst wordt de aanduiding «1» geplaatst.</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>Er wordt een lid toegevoegd, luidende:</wat>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">2.</lidnr>
+                           <al>Bij veroordeling wegens het misdrijf omschreven in artikel 140 kan ontzetting van de in artikel 28, eerste lid, onder 1°, 2° en 4°, vermelde rechten worden uitgesproken en kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf heeft gepleegd.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">E</lidnr>
+                  <wat>Artikel 176c wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>Voor de tekst wordt de aanduiding «1.» geplaatst.</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>Er wordt een lid toegevoegd, luidende:</wat>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">2.</lidnr>
+                           <al>Bij veroordeling wegens het in artikel 173a omschreven misdrijf kan ontzetting van de in artikel 28, eerste lid, onder 1°, 2° en 4°, vermelde rechten worden uitgesproken en kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf heeft gepleegd.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">F</lidnr>
+                  <wat>Artikel 179 wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>Voor de tekst wordt de aanduiding «1.» geplaatst.</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>Er wordt een lid toegevoegd, luidende:</wat>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">2.</lidnr>
+                           <al>Bij veroordeling wegens het misdrijf omschreven in het eerste lid kan ontzetting van de in artikel 28, eerste lid, onder 1°, 2° en 4°, vermelde rechten worden uitgesproken en kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf heeft gepleegd.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">G</lidnr>
+                  <wat>Na artikel 189 wordt een artikel ingevoegd, luidende:</wat>
+                  <wijziging>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">189a</nr>
+                        </kop>
+                        <lid>
+                           <lidnr status="officieel">1.</lidnr>
+                           <al>Degene die opzettelijk een vervoermiddel toerust of inricht met een ruimte die kennelijk is bestemd om de opsporing van strafbare feiten te beletten of te bemoeilijken, wordt gestraft met gevangenisstraf van ten hoogste twee jaar of geldboete van de derde categorie.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2.</lidnr>
+                           <al>Met dezelfde straf wordt gestraft degene die een vervoermiddel voorhanden heeft, wetende dat dit vervoermiddel is toegerust of ingericht met een ruimte als bedoeld in het eerste lid.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">3.</lidnr>
+                           <al>Indien degene van het in het eerste lid omschreven feit een beroep of gewoonte maakt, wordt diegene gestraft met gevangenisstraf van ten hoogste vier jaar of geldboete van de vierde categorie.</al>
+                        </lid>
+                     </artikel>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">H</lidnr>
+                  <wat>Aan artikel 197a wordt een lid toegevoegd, luidende:</wat>
+                  <wijziging>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">9.</lidnr>
+                           <al>Bij veroordeling wegens een van de feiten, omschreven in het eerste en tweede lid, kan ontzetting van de in artikel 28, eerste lid, onder 1°, 2° en 4°, vermelde rechten worden uitgesproken.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">Ha</lidnr>
+                  <wat>In artikel 198, eerste lid, wordt «vierde categorie» vervangen door «vijfde categorie».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">Hb</lidnr>
+                  <wat>In artikel 207, eerste lid, wordt «vierde categorie» vervangen door «vijfde categorie».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">Hc</lidnr>
+                  <wat>In artikel 272, eerste lid, wordt «vierde categorie» vervangen door «vijfde categorie».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">Hd</lidnr>
+                  <wat>In artikel 285, eerste en tweede lid, wordt «vierde categorie» telkens vervangen door «vijfde categorie».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">He</lidnr>
+                  <wat>In artikel 285d, eerste lid, wordt «vierde categorie» vervangen door «vijfde categorie».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">I</lidnr>
+                  <wat>In artikel 286 wordt «tweede lid van artikel 285» vervangen door «eerste en tweede lid van artikel 285».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">J</lidnr>
+                  <wat>In artikel 311, eerste lid, wordt «geldboete van de vierde categorie» vervangen door «geldboete van de vijfde categorie».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">K</lidnr>
+                  <wat>In artikel 420bis.1 wordt «vierde categorie» vervangen door «vijfde categorie».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">L</lidnr>
+                  <wat>In artikel 420quater.1 wordt «vierde categorie» vervangen door «vijfde categorie».</wat>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">II</nr>
+               </kop>
+               <wat type="wijziging">Het Wetboek van Strafvordering wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>Artikel 2, eerste lid, laatste onderdeel, komt te luiden:</wat>
+                  <?xpp qa?><?xpp lead;-1?><wijziging>
+                     <artikeltekst>
+                        <al>de rechtbank Amsterdam, de rechtbank Oost-Brabant, de rechtbank Overijssel en de rechtbank Rotterdam, indien de officier van justitie bij het functioneel parket met de vervolging van het strafbare feit is belast.</al>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>Onder vernummering van het derde lid van artikel 6 tot het tweede lid, vervalt het tweede lid.</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>Artikel 9, derde lid, komt te luiden:</wat>
+                  <wijziging>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">3.</lidnr>
+                           <al>De officier van justitie bij het functioneel parket is belast met de vervolging van de strafbare feiten ten aanzien waarvan dat bij algemene maatregel van bestuur is bepaald.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">D</lidnr>
+                  <wat>In artikel 67, eerste lid, wordt in onderdeel b na «184a, » ingevoegd «189a, eerste en derde lid, ».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">E</lidnr>
+                  <wat>In artikel 70, tweede lid, wordt na «dat de officier van justitie de rechtbank onbevoegd acht en is naar zijne meening een ander college wel bevoegd» ingevoegd «dan wel dat hij de zaak wenst te verenigen met een strafzaak die voor een andere rechtbank in onderzoek is».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">F</lidnr>
+                  <wat>Na artikel 282a wordt een artikel ingevoegd, luidende:</wat>
+                  <wijziging>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">282b</nr>
+                        </kop>
+                        <lid>
+                           <lidnr status="officieel">1.</lidnr>
+                           <al>Indien de rechtbank, op vordering van de officier van justitie of op verzoek van de verdachte, oordeelt dat vereniging van de zaak met een zaak die voor een andere, bevoegde rechtbank in onderzoek is in het belang van een goede rechtsbedeling is, verwijst zij de zaak daarheen. Deze beslissing wordt gemotiveerd. Artikel 282 is van overeenkomstige toepassing.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2.</lidnr>
+                           <al>Alvorens te beslissen hoort de rechtbank de officier van justitie en de verdachte die op de terechtzitting aanwezig is.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">3.</lidnr>
+                           <al>Indien de rechtbank waarnaar een zaak is verwezen instemt met de verwijzing, zendt de griffier van de rechtbank die de zaak heeft verwezen de stukken van het geding zo spoedig mogelijk aan de griffier van eerstgenoemde rechtbank.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">4.</lidnr>
+                           <al>De zaak wordt voor de rechtbank waarnaar die zaak is verwezen op de bestaande tenlastelegging aanhangig gemaakt door oproeping van de verdachte vanwege de officier van justitie tegen de dag van de nadere terechtzitting. Artikel 320 is van overeenkomstige toepassing.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">5.</lidnr>
+                           <al>De zaak wordt op de gewone wijze voortgezet, met dien verstande dat de beraadslaging bedoeld in de artikelen 348 en 350, mede geschiedt naar aanleiding van het onderzoek op de terechtzitting voor de rechtbank die de zaak heeft verwezen, zoals dit volgens het proces-verbaal van die terechtzitting heeft plaats gehad. Artikel 322, vierde lid, is van overeenkomstige toepassing.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">6.</lidnr>
+                           <al>Het onderzoek op de terechtzitting wordt opnieuw aangevangen, tenzij de officier van justitie en de verdachte instemmen met hervatting in de stand waarin het onderzoek zich op het tijdstip van de verwijzing bevond.</al>
+                        </lid>
+                     </artikel>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">G</lidnr>
+                  <wat>Na artikel 419 wordt een artikel ingevoegd, luidende:</wat>
+                  <wijziging>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">419a</nr>
+                        </kop>
+                        <al>In geval van artikel 282b wordt de zaak verwezen naar een ander gerechtshof.</al>
+                     </artikel>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">H</lidnr>
+                  <wat>Aan artikel 513, vijfde lid, wordt een zin toegevoegd, luidende: De rechter wiens wraking is verzocht, onthoudt zich van het verder behandelen van de zaak, waaronder begrepen het nemen van beslissingen, tenzij dit geen uitstel duldt.</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">I</lidnr>
+                  <wat>Artikel 515 wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>In het eerste lid wordt na «zo spoedig mogelijk» toegevoegd «ter zitting».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>In het tweede lid wordt «Het gerecht» vervangen door «De meervoudige kamer».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">3.</nr>
+                     <wat>Onder vernummering van het derde tot en met vijfde lid tot vierde tot en met zesde lid, wordt een lid ingevoegd, luidende:</wat>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">3.</lidnr>
+                           <al>Indien het verzoek kennelijk niet-ontvankelijk of kennelijk ongegrond is, kan de meervoudige kamer zonder toepassing te geven aan het eerste en tweede lid beslissen het verzoek zonder behandeling ter zitting af te doen.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">4.</nr>
+                     <wat>In het vierde lid (nieuw) wordt «Het gerecht» vervangen door «De meervoudige kamer».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">5.</nr>
+                     <wat>In het vijfde lid (nieuw) wordt «het gerecht» vervangen door «de meervoudige kamer».</wat>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">J</lidnr>
+                  <wat>In artikel 518, tweede lid, wordt «Het gerecht» vervangen door «De meervoudige kamer».</wat>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">III</nr>
+               </kop>
+               <wat type="wijziging">De Opiumwet wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">aA</lidnr>
+                  <wat>Onder vernummering van artikel 9a tot artikel 9b wordt na artikel 9 een artikel ingevoegd, luidende:</wat>
+                  <wijziging>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">9a</nr>
+                        </kop>
+                        <lid>
+                           <lidnr status="officieel">1.</lidnr>
+                           <al>In geval van verdenking van een misdrijf waarvoor een geldboete van de vierde categorie kan worden opgelegd, kunnen voorwerpen inbeslaggenomen worden die kunnen dienen tot bewaring van het recht tot verhaal voor een ter zake van dat misdrijf op te leggen maatregel als bedoeld in artikel 13d.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2.</lidnr>
+                           <al>Op inbeslagneming op grond van het eerste lid zijn de bepalingen uit het Wetboek van Strafvordering die betrekking hebben op inbeslagneming op grond van artikel 94a van dat wetboek, van overeenkomstige toepassing.</al>
+                        </lid>
+                     </artikel>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>In artikel 11, tweede lid, wordt «geldboete van de vierde categorie» vervangen door «geldboete van de vijfde categorie».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>Artikel 13a wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>Voor de tekst wordt de aanduiding «1.» geplaatst.</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>Er wordt een lid toegevoegd, luidende:</wat>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">2.</lidnr>
+                           <al>Ontzetting van de in artikel 28, eerste lid, onder 1°, 2° en 4°, van het Wetboek van Strafrecht, vermelde rechten kan worden uitgesproken bij veroordeling wegens een der in de artikelen 10, tweede tot en met vijfde lid, 10a, eerste lid, 10b, tweede lid, 11, derde tot en met vijfde lid, en 11b, eerste lid, omschreven misdrijven en de schuldige kan worden ontzet van de uitoefening van het beroep waarin hij het misdrijf heeft gepleegd.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>In artikel 13b, eerste lid, onder b, wordt na «artikel 10a, eerste lid, onder 3°,» ingevoegd «artikel 10c, eerste lid, onder 3°,».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">D</lidnr>
+                  <wat>In lijst IA onder stofgroep 3 wordt «arylalkyl- of cycloalkylgroep» vervangen door «aryl-, arylalkyl- of cycloalkylgroep».</wat>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">IV</nr>
+               </kop>
+               <wat type="wijziging">De Wet wapens en munitie wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>Na artikel 52 wordt een artikel ingevoegd, luidende:</wat>
+                  <wijziging>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">53</nr>
+                        </kop>
+                        <lid>
+                           <lidnr status="officieel">1.</lidnr>
+                           <al>Ingeval van verdenking van een misdrijf waarvoor een geldboete van de vierde categorie kan worden opgelegd kunnen voorwerpen inbeslaggenomen worden tot bewaring van het recht tot verhaal voor een ter zake van dat misdrijf op te leggen maatregel als bedoeld in artikel 56a.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2.</lidnr>
+                           <al>Op inbeslagneming op grond van het eerste lid zijn de bepalingen uit het Wetboek van Strafvordering die betrekking hebben op inbeslagneming op grond van artikel 94a van dat wetboek, van overeenkomstige toepassing.</al>
+                        </lid>
+                     </artikel>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">Aa</lidnr>
+                  <wat>In artikel 55, derde lid, aanhef, wordt «vier jaar» vervangen door «acht jaar».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>Artikel 55a wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>Voor de tekst wordt de aanduiding «1.» geplaatst.</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>Er wordt een lid toegevoegd, luidende:</wat>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">2.</lidnr>
+                           <al>Bij veroordeling wegens een der misdrijven omschreven in artikel 55, derde tot en met zevende lid, kan ontzetting van de in artikel 28, eerste lid, onder 1°, 2° en 4°, van het Wetboek van Strafrecht vermelde rechten worden uitgesproken en kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf heeft gepleegd.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">V</nr>
+               </kop>
+               <wat type="wijziging">De Wet ter voorkoming van witwassen en financieren van terrorisme wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>Na artikel 17 wordt een artikel ingevoegd, luidende:</wat>
+                  <wijziging>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">17a</nr>
+                        </kop>
+                        <lid>
+                           <lidnr status="officieel">1.</lidnr>
+                           <al>De Financiële inlichtingen eenheid kan ten behoeve van de uitvoering van de taak, bedoeld in artikel 13, aanhef en onderdelen a en b, een instelling verzoeken het uitvoeren van een transactie of meerdere transacties gedurende een periode van ten hoogste vijf werkdagen aan te houden ingeval de Financiële inlichtingen eenheid aanwijzingen heeft dat deze transactie of transacties verband kan of kunnen houden met witwassen of financieren van terrorisme, of indien een financiële inlichtingen eenheid uit een andere staat hierom verzoekt.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2.</lidnr>
+                           <al>De in het eerste lid genoemde periode kan met een termijn van ten hoogste vijf werkdagen worden verlengd indien de Financiële inlichtingen eenheid het in het eerste lid bedoelde verzoek doet op verzoek van een financiële inlichtingen eenheid van een andere staat.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">3.</lidnr>
+                           <al>De Financiële inlichtingen eenheid trekt het verzoek, bedoeld in het eerste lid, voor het aflopen van de termijn, genoemd in het eerste en tweede lid, in zodra zulks mogelijk is.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">4.</lidnr>
+                           <al>De instelling waaraan overeenkomstig het eerste lid een verzoek is gedaan, geeft hieraan onverwijld gevolg.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">5.</lidnr>
+                           <al>Een instelling beschikt over gedragslijnen, procedures en maatregelen die haar in staat stellen te voldoen aan het vierde lid.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">6.</lidnr>
+                           <al>Een instelling informeert een cliënt terstond over toepassing van het vierde lid.</al>
+                        </lid>
+                     </artikel>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>Na artikel 20b wordt een artikel ingevoegd, luidende:</wat>
+                  <wijziging>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">20c</nr>
+                        </kop>
+                        <al>Artikel 20 en artikel 20b zijn van overeenkomstige toepassing op instellingen die gevolg geven aan een verzoek als bedoeld in artikel 17a, eerste lid.</al>
+                     </artikel>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>In artikel 29, onderdeel a, wordt na «17, tweede lid,» ingevoegd «17a, vijfde lid,»</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">D</lidnr>
+                  <wat>In artikel 30, onderdeel a, wordt na «17, tweede lid,» ingevoegd «17a, vijfde lid,»</wat>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">VI</nr>
+               </kop>
+               <wat type="wijziging">De Wet op de economische delicten wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>In artikel 1, onder 1°, wordt «de de Wet voorkoming misbruik chemicaliën» vervangen door «de Wet voorkoming misbruik chemicaliën».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>In artikel 1, onder 2°, wordt in de zinsnede met betrekking tot de Wet ter voorkoming van witwassen en financieren van terrorisme na «17, tweede lid,» ingevoegd «17a, vierde lid,»</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>In artikel 8 wordt «1°» vervangen door «1°.», wordt «2°» vervangen door «2°.» en wordt «3°» vervangen door «3°.»</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">D</lidnr>
+                  <wat>Na artikel 18 wordt een artikel ingevoegd, luidende:</wat>
+                  <wijziging>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">18a</nr>
+                        </kop>
+                        <lid>
+                           <lidnr status="officieel">1.</lidnr>
+                           <al>Ingeval van verdenking van een misdrijf waarvoor een geldboete van de vierde categorie kan worden opgelegd kunnen voorwerpen inbeslaggenomen worden tot bewaring van het recht tot verhaal voor een ter zake van dat misdrijf op te leggen maatregel als bedoeld in artikel 8, onderdeel d.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2.</lidnr>
+                           <al>Op inbeslagneming op grond van het eerste lid zijn de bepalingen uit het Wetboek van Strafvordering die betrekking hebben op inbeslagneming op grond van artikel 94a van dat wetboek, van overeenkomstige toepassing.</al>
+                        </lid>
+                     </artikel>
+                  </wijziging>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">VII</nr>
+               </kop>
+               <wat type="wijziging">De Algemene wet bestuursrecht wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>Aan artikel 8:16, vijfde lid, wordt een zin toegevoegd, luidende: De rechter wiens wraking is verzocht, onthoudt zich van het verder behandelen van de zaak, waaronder begrepen het nemen van beslissingen, tenzij dit geen uitstel duldt.</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>Artikel 8:18 wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>In het tweede lid wordt «De bestuursrechter» vervangen door «De meervoudige kamer».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>Onder vernummering van het derde tot en met vijfde lid tot vierde tot en met zesde lid, wordt een lid ingevoegd, luidende:</wat>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">3.</lidnr>
+                           <al>Indien het verzoek kennelijk niet-ontvankelijk of kennelijk ongegrond is, kan de meervoudige kamer zonder toepassing te geven aan het eerste en tweede lid beslissen het verzoek zonder behandeling ter zitting af te doen.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">3.</nr>
+                     <wat>In het vierde lid (nieuw) wordt «De bestuursrechter» steeds vervangen door «De meervoudige kamer».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">4.</nr>
+                     <wat>In het vijfde lid (nieuw) wordt «de bestuursrechter» vervangen door «de meervoudige kamer».</wat>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>In artikel 8:20, tweede lid, wordt «De bestuursrechter» vervangen door «De meervoudige kamer».</wat>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">VIII</nr>
+               </kop>
+               <wat type="wijziging">Het Wetboek van Burgerlijke Rechtsvordering wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>Aan artikel 37, vijfde lid, wordt een zin toegevoegd, luidende: De rechter wiens wraking is verzocht, onthoudt zich van het verder behandelen van de zaak, waaronder begrepen het nemen van beslissingen, tenzij dit geen uitstel duldt.</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>In artikel 39 wordt, onder vernummering van het derde tot en met vijfde lid tot vierde tot en met zesde lid, een lid ingevoegd, luidende:</wat>
+                  <wijziging>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">3.</lidnr>
+                           <al>Indien het verzoek kennelijk niet-ontvankelijk of kennelijk ongegrond is, kan de meervoudige kamer zonder toepassing te geven aan het eerste en tweede lid beslissen het verzoek zonder behandeling ter zitting af te doen.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">IX</nr>
+               </kop>
+               <wat type="wijziging">Artikel 4a van de Wet voorkoming misbruik chemicaliën wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>In het tweede lid, onder a, vervalt «of een op een lijst van niet-geregistreerde stoffen geplaatste stof».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>In het derde lid vervalt «of op een lijst van niet-geregistreerde stoffen wordt geplaatst».</wat>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">X</nr>
+               </kop>
+               <wat type="wijziging">In artikel 22, tweede lid, onderdeel a, van de Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie vervalt «, eerste lid,».</wat>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XA</nr>
+               </kop>
+               <wat type="wijziging">In het tweede lid van artikel 231 van Boek 7 van het Burgerlijk Wetboek wordt na «2,» ingevoegd «2a,» en wordt na «10a, eerste lid, aanhef en onder 3°,» ingevoegd «10c, eerste lid, aanhef en onder 3°,».</wat>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XB</nr>
+               </kop>
+               <wat type="wijziging">In artikel 11.9 van de Omgevingswet wordt na «2,» telkens ingevoegd «2a,» en wordt na «10a, eerste lid, aanhef en onder 3°,» telkens ingevoegd «10c, eerste lid, aanhef en onder 3°,».</wat>
+            </wijzig-artikel>
+            <artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XC</nr>
+               </kop>
+               <al>Onze Minister van Justitie en Veiligheid zendt binnen vijf jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.</al>
+            </artikel>
+            <artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XI</nr>
+               </kop>
+               <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+            </artikel>
+         </wettekst>
+         <wetsluiting status="goed">
+            <slotformulering>
+               <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+            </slotformulering>
+            <histnoot type="parlementair">
+               <al>Kamerstuk <dossierref dossier="36463">36 463</dossierref>
+               </al>
+            </histnoot>
+            <gegeven>
+               <label>Gegeven te </label>
+               <dagtekening>
+                  <plaats>’s-Gravenhage,</plaats>
+                  <datum isodatum="2025-10-29">29 oktober 2025</datum>
+               </dagtekening>
+               <koning>Willem-Alexander</koning>
+            </gegeven>
+            <ondertekening>
+               <functie>De Minister van Justitie en Veiligheid,</functie>
+               <naam>
+                  <voornaam>F. van</voornaam>
+                  <achternaam>Oosten</achternaam>
+               </naam>
+            </ondertekening>
+            <ondertekening>
+               <functie>De Minister van Financiën,</functie>
+               <naam>
+                  <voornaam>E.</voornaam>
+                  <achternaam>Heinen</achternaam>
+               </naam>
+            </ondertekening>
+            <uitgifte>
+               <datum isodatum="2025-11-10">Uitgegeven de <nadruk type="cur">tiende</nadruk> november 2025</datum>
+               <ondertekening>
+                  <functie>De Minister van Justitie en Veiligheid,</functie>
+		                <naam>
+                     <voornaam>F. van</voornaam>
+                     <achternaam>Oosten</achternaam>
+                  </naam>
+		             </ondertekening>
+            </uitgifte>
+         </wetsluiting>
+      </wet-besluit>
+   </staatsblad>
+</officiele-publicatie>
