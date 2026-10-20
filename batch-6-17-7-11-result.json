@@ -223,5 +223,21 @@
     "Historische sectorwetten, proceskostenbedragen en houtimporttermijnen uit uitspraken zijn geen actuele algemene rechtsregels.",
     "Eerdere beperkingen uit voorgaande checkpoints blijven bestaan.",
     "Tekstovereenstemming, lengte en herhalingscontroles bewijzen geen juridische kwaliteit; geen externe professionele goedkeuring."
-  ]
+  ],
+  "strict_validator": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 602545,
+    "errors": [
+      "krátký/chybějící komentář u 268 jednotek: ['art-7:12(0<400)', 'art-7:13(0<400)', 'art-7:14(0<400)', 'art-7:14a(0<400)', 'art-7:15(0<400)', 'art-7:16(0<400)', 'art-7:17(0<400)', 'art-7:18(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "assigned_batch_passed": true,
+  "content_checkpoint_commits": {
+    "work": "6d42ec4",
+    "output": "b23c16e"
+  }
 }

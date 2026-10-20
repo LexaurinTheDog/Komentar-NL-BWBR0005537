@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T17:38:13.041017+00:00",
+  "checked_at": "2026-10-20T17:39:33.106405+00:00",
   "assigned_units_complete": 20,
   "assigned_ids": [
     "art-6:17",
@@ -69,5 +69,20 @@
     "exact_repeated_long_sentences": [],
     "local_links_checked": 938,
     "broken_local_links": []
-  }
+  },
+  "shared_strict_validation": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 602545,
+    "errors": [
+      "krátký/chybějící komentář u 268 jednotek: ['art-7:12(0<400)', 'art-7:13(0<400)', 'art-7:14(0<400)', 'art-7:14a(0<400)', 'art-7:15(0<400)', 'art-7:16(0<400)', 'art-7:17(0<400)', 'art-7:18(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "output_git_clean_at_validation": true,
+  "assigned_batch_passed": true,
+  "raw_response_bytes_preserved": true,
+  "source_manifest_verified": true
 }
