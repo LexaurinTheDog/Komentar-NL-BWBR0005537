@@ -1,0 +1,13 @@
+{
+  "url": "https://wetten.overheid.nl/BWBR0001827/2026-07-14",
+  "effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 14-07-2026 t/m heden.",
+  "source_sha256": "4dc98d0268b4cddcb60c9a4a2c0b63370ee722469068bbc3277258d6d6dcd8db",
+  "articles": {
+    "611a": "1 De rechter kan op vordering van een der partijen de wederpartij veroordelen tot betaling van een geldsom, dwangsom genaamd, voor het geval dat aan de hoofdveroordeling niet wordt voldaan, onverminderd het recht op schadevergoeding indien daartoe gronden zijn. Een dwangsom kan echter niet worden opgelegd in geval van een veroordeling tot betaling van een geldsom. 2 De dwangsom kan ook voor het eerst in verzet of in hoger beroep worden gevorderd. 3 De dwangsom kan niet worden verbeurd vóór de betekening van de uitspraak waarbij zij is vastgesteld. 4 De rechter kan bepalen dat de veroordeelde pas na verloop van een zekere termijn de dwangsom zal kunnen verbeuren.",
+    "611b": "De rechter kan de dwangsom hetzij op een bedrag ineens, hetzij op een bedrag per tijdseenheid of per overtreding vaststellen. In de laatste twee gevallen kan de rechter eveneens een bedrag bepalen waarboven geen dwangsom meer verbeurd wordt.",
+    "611c": "De dwangsom, eenmaal verbeurd, komt ten volle toe aan de partij die de veroordeling heeft verkregen. Deze partij kan de dwangsom ten uitvoer leggen krachtens de titel waarbij zij is vastgesteld.",
+    "611d": "1 De rechter die een dwangsom heeft opgelegd, kan op vordering van de veroordeelde de dwangsom opheffen, de looptijd ervan opschorten gedurende de door hem te bepalen termijn of de dwangsom verminderen in geval van blijvende of tijdelijke, gehele of gedeeltelijke onmogelijkheid voor de veroordeelde om aan de hoofdveroordeling te voldoen. 2 Voor zover de dwangsom verbeurd was voordat de onmogelijkheid intrad, kan de rechter haar niet opheffen of verminderen.",
+    "611g": "1 Een dwangsom verjaart door verloop van zes maanden na de dag waarop zij verbeurd is. 2 De verjaring wordt geschorst door faillissement, toepassing van de schuldsaneringsregeling natuurlijke personen en ieder ander wettelijk beletsel voor tenuitvoerlegging van de dwangsom. 3 De verjaring wordt ook geschorst zolang degene die de veroordeling verkreeg met het verbeuren van de dwangsom redelijkerwijze niet bekend kon zijn."
+  },
+  "incorporated": "8:72(6): only611a(4),611b,611c,611d,611g."
+}

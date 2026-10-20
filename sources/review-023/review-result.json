@@ -1,0 +1,186 @@
+{
+  "complete": true,
+  "kind": "bounded_independent_second_pass",
+  "reviewed_at": "2026-10-20T22:03:45.864689+00:00",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "art-8:71",
+    "art-8:72",
+    "art-8:72a",
+    "art-8:73",
+    "art-8:73a",
+    "art-8:74",
+    "art-8:75",
+    "art-8:75a",
+    "art-8:76",
+    "art-8:77",
+    "art-8:78",
+    "art-8:79",
+    "art-8:80",
+    "art-8:80a",
+    "art-8:80b",
+    "art-8:81",
+    "art-8:82",
+    "art-8:83",
+    "art-8:84",
+    "art-8:85"
+  ],
+  "corrected_ids": [
+    "art-8:72",
+    "art-8:75",
+    "art-8:76",
+    "art-8:82"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "art-8:71",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Volledige bepaling gelezen. Uitsluitende civiele rechtsgang, gedeeltelijk bereik en bindende rechtsgangbeslissing onderscheiden van ontvankelijkheid/gegrondheid civiele vordering. Geen automatische overdracht of dagvaarding gesuggereerd; behouden.",
+      "commentary_chars": 1580
+    },
+    {
+      "id": "art-8:72",
+      "checked_against_full_source": true,
+      "disposition": "corrected",
+      "review": "Alle zes leden gelezen: vernietiging en vervallen rechtsgevolgen; instandlating versus zelf voorzien; subsidiaire opdracht; voorbereiding en termijn; voorziening en dwangsom. Rv611a(4),611b–d en611g volledig geverifieerd. Commentaar uitgebreid met beperkte verwijzing, executietitel, onmogelijkheid en zesmaandse verjaring. Arrest606 overweging4.5 reserveert slechts eindbeslissing; behouden binnen die limiet.",
+      "commentary_chars": 3325
+    },
+    {
+      "id": "art-8:72a",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Verplichte vervangende beslissing bij vernietiging boeteoplegging, inclusief geen of lagere boete; geen verwarring met invordering. Gecombineerd besluit afzonderlijk beoordelen en geen onbegrensde terugverwijzing; behouden.",
+      "commentary_chars": 1477
+    },
+    {
+      "id": "art-8:73",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Expliciete vervallen plaats en officiële overgangsrechtelijke notitie gelezen. Geen oude tekst als actueel recht; geen concrete toepassing van ongelezen overgangsbepalingen geclaimd. Titel8.4 als te onderzoeken route, niet automatische bevoegdheid; behouden.",
+      "commentary_chars": 914
+    },
+    {
+      "id": "art-8:73a",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Afzonderlijke vervallen plaats en overgangsnoot gecontroleerd. Schade versus actuele proceskostenroute8:75a helder; voorbeeld behandelt verkeerde grondslag als onderzoeksvraag; behouden.",
+      "commentary_chars": 1118
+    },
+    {
+      "id": "art-8:74",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Beide leden gelezen. Verplichte vergoeding bij gegrondverklaring ook bij instandlating rechtsgevolgen; overige gevallen discretionair. Griffierecht, proceskosten en schade niet vereenzelvigd; verwijzingen8:41/8:82 nagelezen; behouden.",
+      "commentary_chars": 1454
+    },
+    {
+      "id": "art-8:75",
+      "checked_against_full_source": true,
+      "disposition": "corrected",
+      "review": "Beide leden gelezen: exclusieve bevoegdheid, voorprocedureverwijzingen7:15/7:28, bescherming natuurlijke persoon, AMvB en betaling toevoeging. Onduidelijk voorbeeld van onrechtmatige herroeping vervangen door herroeping wegens toerekenbare onrechtmatigheid, met tijdig kostenverzoek; geen integrale declaratievergoeding gesuggereerd.",
+      "commentary_chars": 1985
+    },
+    {
+      "id": "art-8:75a",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Alle drie leden gelezen. Intrekking wegens tegemoetkoming en gelijktijdig verzoek met niet-ontvankelijkheidssanctie, toelichting/verweer en sluiten/mondelinge behandeling correct. Geen automatische reparatie door latere brief; behouden.",
+      "commentary_chars": 1675
+    },
+    {
+      "id": "art-8:76",
+      "checked_against_full_source": true,
+      "disposition": "corrected",
+      "review": "Volledige opsomming executietitels gelezen. Toegevoegd dat8:82(4) terugbetaling door griffier betreft en8:82(5) vergoeding door bestuursorgaan: letterlijke verwijzing niet stilzwijgend gerepareerd; enkele terugbetalingsplicht geen uitspraak. Vastgelegde kosten versus nog onbeoordeelde schade en bestuurlijke opdracht correct onderscheiden.",
+      "commentary_chars": 2020
+    },
+    {
+      "id": "art-8:77",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Alle drie leden gelezen: partijen en vertegenwoordigers, gronden, beslissing, rechter, datum, rechtsmiddelvoorlichting; bij gegrondverklaring geschonden norm/beginsel; handtekeningen en verhindering. Motivering niet verward met dictum of automatisch ieder argument afzonderlijk; behouden.",
+      "commentary_chars": 1774
+    },
+    {
+      "id": "art-8:78",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Korte openbaarheidsregel gelezen met8:62/8:79/8:80a/8:84. Gesloten behandeling niet gelijk aan besloten uitspraak; geen algemeen dossierinzagerecht of internetpublicatieplicht verondersteld; behouden.",
+      "commentary_chars": 1254
+    },
+    {
+      "id": "art-8:79",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Alle drie leden gelezen: kosteloos afschrift aan partijen binnen twee weken, derden tegen kostenregeling, bijzondere Commissie-toezending101/102VWEU via Raad voor de rechtspraak met uitzonderingenHR/ABRvS. Rechtsmiddeltermijn niet verlengd met twee weken; behouden.",
+      "commentary_chars": 1589
+    },
+    {
+      "id": "art-8:80",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Beide leden gelezen: bekendmaking uitspraak over niet-geadresseerd besluit, en bij ander besluit uitsluitend wanneer zelf voorzien onder8:72(3)(b). Gedeeltelijke vernietiging, juiste bekendmakingswijze en onderscheid met partijafschrift; behouden.",
+      "commentary_chars": 1437
+    },
+    {
+      "id": "art-8:80a",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Alle drie leden gelezen: verplicht tussenuitspraak bij8:51a, herstelwijze zoveel mogelijk en beperkte verwijzing8:72(4) tweede zin(a). Vorm/openbaarheid/afschrift/herziening behouden. Arrest606 volledig gelezen; illustratie8:51d expliciet onderscheiden van directe toepassing8:51a; behouden.",
+      "commentary_chars": 1822
+    },
+    {
+      "id": "art-8:80b",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Alle vier leden gelezen: vóór uitnodiging, mondeling via8:67(2–5), tijdelijke bescherming en vervaltijdstip, intrekking en einduitspraak met voorbehoud ander tijdstip. Geen zelfstandig8:81-verzoek vereist of onbeperkte schorsing aangenomen; behouden.",
+      "commentary_chars": 1645
+    },
+    {
+      "id": "art-8:81",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Alle vijf leden gelezen: connexiteit, spoed en bevoegdheid; verzoekgerechtigden per fase; indieningsregels en afschrift; overgang bij beslissing vóór zitting met gelegenheid beroep. Geen algemene toegang voor iedere derde en geen automatisch schorsend rechtsmiddel; behouden.",
+      "commentary_chars": 2030
+    },
+    {
+      "id": "art-8:82",
+      "checked_against_full_source": true,
+      "disposition": "corrected",
+      "review": "Alle zes leden gelezen: afzonderlijk tarief op indieningsmoment, tweewekentermijn/verkorting, schriftelijke toezeggingen en intrekking voor griffiersterugbetaling; vergoeding bestuursorgaan apart. Toegevoegd dat8:41(6) verontschuldigbaar verzuim en aannemelijke betalingsonmacht op betaaldatum beschermt.",
+      "commentary_chars": 2070
+    },
+    {
+      "id": "art-8:83",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Alle vier leden en gerichte verwijzingen gelezen: spoedige zitting/stukken, één dag voor nadere stukken, mondelinge zienswijzen, getuigen zonder voorafgaande mededeling, administratief beroepsorgaan. Kennelijke gevallen en spoed zonder belangenschade onderscheiden; tegenspraak niet opgeofferd aan tijdsdruk; behouden.",
+      "commentary_chars": 1861
+    },
+    {
+      "id": "art-8:84",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Alle vijf leden gelezen: spoedige schriftelijke/mondelinge beslissing en vier uitkomsten; facultatieve zekerheid; onverwijld kosteloos afschrift; beperkte verwijzingen inclusief8:77(1)(3). Bronnoot wijzigingsopdracht behouden. Geen eindbeslissing in hoofdzaak uit verzoekafdoening afgeleid; behouden.",
+      "commentary_chars": 1824
+    },
+    {
+      "id": "art-8:85",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Beide leden en alle drie wettelijke vervalgronden gelezen. Rechterlijk gekozen tijdstip geen ontsnapping aan ongebruikte beroepstermijn/intrekking/uitspraak. Hoofdzaak voortzetten en zo nodig nieuwe bescherming; fictief onderhandelingsvoorbeeld en specifieke afsluitchecklist consistent; behouden.",
+      "commentary_chars": 1915
+    }
+  ],
+  "limitations": [
+    "Review limited to exactly20 assigned units;128 other statutory units still lack commentary.",
+    "One cited judgment selectively verified in full; no exhaustive case-law or later-treatment search.",
+    "Official text contains a literal8:82(4) reference in8:76; tension explicitly described, no invented correction.",
+    "Global source inventory is not a review of unassigned commentary; no external professional approval."
+  ],
+  "whole_book_complete": false,
+  "source_preflight": "sources/review-023/preflight-result.json",
+  "case_evidence": "sources/review-023/case-comparison.json"
+}

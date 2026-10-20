@@ -1,0 +1,28 @@
+{
+  "ecli": "ECLI:NL:RVS:2023:606",
+  "court": "Afdeling bestuursrechtspraak Raad van State",
+  "date": "2023-02-15",
+  "docket": "202101013/1/R2",
+  "full_text_read": true,
+  "paragraphs": [
+    "4.2–4.5",
+    "6.1–6.9",
+    "7.1–7.12",
+    "8",
+    "9",
+    "dictum"
+  ],
+  "supported_ids": [
+    "art-8:72",
+    "art-8:80a"
+  ],
+  "official_snapshot": "sources/review-023/ECLI-NL-RVS-2023-606.xml",
+  "official_sha256": "7f6815e94c830fca15391a172a21fd1aa2bf25ce8c63d9cd947b73b1eeafda12",
+  "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2023-606.md",
+  "local_corpus_sha256": "c6b58ce5bc9087abaa86894562eec0005e3f3bc2675aaadaf0b9951cedaeb1f3",
+  "local_primary_xml_identical": true,
+  "local_raw_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/_raw/rvs/ecli-nl-rvs-2023-606.xml.gz",
+  "local_raw_sha256": "edfee7cd40d622402ee4cd7187fb0d6247c10f8aa9d7b06a5685d77859f14d25",
+  "holding_used": "4.5 reserves possible preservation of legal effects for final judgment;8 and dictum order specified investigations and reasons within26 weeks under8:51d.",
+  "limits": "Interlocutory ruling under8:51d, not direct application of8:51a. Historic planning law not used as current substantive law. Party allegations in4/5/6/7 distinguished from judicial conclusions. No exhaustive later-treatment research."
+}

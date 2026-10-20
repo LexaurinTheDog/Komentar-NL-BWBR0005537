@@ -1,0 +1,63 @@
+{
+  "bounded_review_complete": true,
+  "reviewed_ids": [
+    "art-8:71",
+    "art-8:72",
+    "art-8:72a",
+    "art-8:73",
+    "art-8:73a",
+    "art-8:74",
+    "art-8:75",
+    "art-8:75a",
+    "art-8:76",
+    "art-8:77",
+    "art-8:78",
+    "art-8:79",
+    "art-8:80",
+    "art-8:80a",
+    "art-8:80b",
+    "art-8:81",
+    "art-8:82",
+    "art-8:83",
+    "art-8:84",
+    "art-8:85"
+  ],
+  "units_reviewed": 20,
+  "corrected_units": 4,
+  "retained_units": 16,
+  "whole_book_complete": false,
+  "source_text_agreement": 1.0,
+  "shared_builder": {
+    "exit_code": 1,
+    "stderr": "CHYBÍ komentář k 128 jednotkám, např.: ['art-8:86', 'art-8:87', 'art-8:88', 'art-8:89', 'art-8:90', 'art-8:91', 'art-8:92', 'art-8:93', 'art-8:94', 'art-8:95']\n"
+  },
+  "rendering": "Affected partial chapter rebuilt using unchanged shared load_units/load_commentary/quote functions; no out-of-scope filler.",
+  "unassigned_commentaries_unchanged": true,
+  "canonical_records_unchanged": true,
+  "technical_audit": {
+    "checked_at": "2026-10-20T22:03:46.930601+00:00",
+    "independent_review": false,
+    "official_text_units_compared": 588,
+    "official_xml_text_errors": [],
+    "source_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "commented_units": 460,
+    "total_units": 588,
+    "commentary_chars": 921025,
+    "commentary_minimum_length_failures": [],
+    "exact_repeated_paragraphs": [],
+    "exact_repeated_long_sentences": [],
+    "local_links_checked": 1509,
+    "broken_local_links": [],
+    "limitations": [
+      "Geen inhoudelijke of onafhankelijke juridische kwaliteitscertificering.",
+      "Geen voltooiing zolang niet alle eenheden werkelijk zijn becommentarieerd.",
+      "De lengtecontrole is alleen een technische ondergrens."
+    ]
+  },
+  "coverage": {
+    "expected_units": 588,
+    "parsed_units": 588,
+    "missing": [],
+    "duplicates": []
+  }
+}
