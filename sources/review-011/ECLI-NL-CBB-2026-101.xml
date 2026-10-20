@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2026:101</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-03-17T10:00:00</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-03-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2026-02-19</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">23/1989</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Den Haag</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:RBROT:2023:10132" psi:type="http://psi.rechtspraak.nl/hogerBeroep" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#overig">Eerste aanleg: ECLI:NL:RBROT:2023:10132, Overig</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0009950&amp;g=2025-09-01">Telecommunicatiewet</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2026:101">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2026:101</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-03-12T16:28:12</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-03-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2026:101 College van Beroep voor het bedrijfsleven , 19-02-2026 / 23/1989</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2026:101:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Artikel 11a.1 van de Telecommunicatiewet (Tw). De minister van Economische Zaken (minister) heeft aan Odido de verplichting (maatregel) opgelegd om voor bepaalde kritieke onderdelen van haar mobiele netwerk binnen een bepaalde (vervangings)termijn uitsluitend gebruik te maken van apparatuur of programmatuur van zogenoemde vertrouwde leveranciers. </para>
+      <para />
+      <para>De Algemene Inlichtingen- en Veiligheidsdienst en de Militaire Inlichtingen- en Veiligheidsdienst hebben geconstateerd dat sprake is geweest van een toename van digitale spionage in de telecomsector en hebben op basis daarvan geadviseerd maatregelen te treffen binnen de telecomsector. Er is een interdepartementale Taskforce Economische Veiligheid opgericht die een risicoanalyse heeft uitgevoerd over de kwetsbaarheid van de netwerken van de mobiele telecomaanbieders. De bevindingen daarvan zijn neergelegd in een rapport van TNO. Vervolgens is een algemene maatregel van bestuur vastgesteld, te weten het Besluit veiligheid en integriteit telecommunicatie (Bvit). Daarin is bepaald dat de minister een telecomaanbieder een verplichting oplegt om in kritieke onderdelen van het netwerk uitsluitend gebruik te maken van producten of diensten van zogenoemde vertrouwde leveranciers, indien dat naar zijn oordeel noodzakelijk is om risico’s voor de veiligheid en integriteit van diens netwerk of dienst die de nationale veiligheid of openbare orde raken, te beheersen. Op basis hiervan is aan Odido de maatregel opgelegd.</para>
+      <para />
+      <para>Het College oordeelt dat hoofdstuk 11a van de Tw een grondslag voor de maatregel biedt, dat artikel 11a.1, eerste lid, van de Tw niet in strijd is met de geldende Europese richtlijn (de Telecomcode) en dat ook in zogenaamde Europese softlaw steun is te vinden voor deze bepaling uit de Tw. Een leveranciersverbod is naar het oordeel van het College een passende technische en organisatorische maatregel als bedoeld in artikel 11a.1 van de Tw. </para>
+      <para />
+      <para>Het Bvit is niet onverbindend wegens strijd met het vrij verkeer van goederen, het evenredigheidsbeginsel, of het verbod van willekeur. Dat geldt ook voor de maatregel, die ook niet onzorgvuldig tot stand is gekomen en waarvan de vervangingstermijn redelijk is. Daarnaast is de opgelegde maatregel niet in strijd met artikel 1 van het Eerste Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden.</para>
+      <para />
+      <para>Het College oordeelt verder dat Odido niet in aanmerking komt voor nadeelcompensatie, omdat de omvang van de schade (op concernniveau) lager is dan de standaard (bagatel)drempel van 2%, uitgaande van de zogenaamde drempelmethode. Het beroep van Odido op het vertrouwensbeginsel wordt door het College verworpen. De vergoeding die minister al aan Odido heeft toegekend, is naar het oordeel van het College geheel onverplicht en berust niet op enig beleid. Het College kan daarom niet treden in de beoordeling daarvan.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2026:101:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak</para>
+    <para>
+      <inlinemediaobject>
+        <imageobject>
+          <imagedata align="center" scale="100" fileref="b534dd39-d47a-435d-a530-f707e34e734f" depth="1" width="568" format="image/png" />
+        </imageobject>
+      </inlinemediaobject>
+      <inlinemediaobject>
+        <imageobject>
+          <imagedata align="center" scale="100" fileref="6db3a690-edc1-48c1-9d17-398bc2155f8b" depth="1" width="13" format="image/png" />
+        </imageobject>
+      </inlinemediaobject>
+    </para>
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 23/1989	</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de meervoudige kamer van 19 februari 2026 op het hoger beroep van:</emphasis>
+        <?linebreak?>
+      </para>
+    </parablock>
+    <bridgehead role="bold">Odido NL Holding B.V. en haar dochtermaatschappijen, te Den Haag, </bridgehead>
+    <para>(gemachtigden: mr. drs. P.M. Waszink, mr. E.M. Tjon-En-Fa, mr. J.T. Maalderink en <?linebreak?>mr. Q.P.R. Mohr),</para>
+    <para />
+    <parablock>
+      <para>tegen de uitspraak van de rechtbank Rotterdam van 27 oktober 2023, kenmerken ROT 22/1670 en ROT 23/1076 in het geding tussen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Odido</para>
+      <para>
+        <?linebreak?>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Economische Zaken (gemachtigden: mrs. G.A. Dictus, A.J. Boorsma, T.W. Franssen en M.J.W. Timmer). </bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop in hoger beroep</title>
+    <para />
+    <parablock>
+      <para>Odido heeft hoger beroep ingesteld tegen de uitspraak van de rechtbank Rotterdam van <?linebreak?>27 oktober 2023 (ECLI:NL:RBROT:2023:10132). </para>
+      <para>
+        <?linebreak?>Met het besluit van 22 mei 2024 (kostenbesluit) heeft de minister aan Odido een bedrag van <?linebreak?>€ 88.387,50 vergoed voor kosten vanwege door (deskundige) derden verleende bijstand die verband houden met de aanvraag om nadeelcompensatie en vergoeding van het overige deel van de gevorderde kosten ten bedrage van € 164.481,10 afgewezen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Odido heeft een aanvullend hogerberoepschrift ingediend en daarbij ook gronden aangevoerd tegen het kostenbesluit. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De minister heeft een schriftelijke uiteenzetting over de zaak gegeven. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De minister heeft ten aanzien van een aantal stukken die hij verplicht is over te leggen meegedeeld dat uitsluitend het College daarvan kennis zal mogen nemen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met de brief van 30 juli 2025 heeft Odido de minister verzocht zorg te dragen voor betaling van het in het kostenbesluit toegekende bedrag aan nadeelcompensatie, vermeerderd met wettelijke rente. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 20 augustus 2025 vond een regiezitting plaats. </para>
+      <para>Met het besluit van 26 augustus 2025 (rentebesluit) heeft de minister het verzoek van Odido om vergoeding van wettelijke rente over het bij het kostenbesluit toegekende bedrag afgewezen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Odido heeft repliek ingediend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De minister heeft dupliek ingediend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met de beslissing van 23 oktober 2025 heeft het College de door de minister gevraagde beperking van de kennisneming gerechtvaardigd geacht. Odido heeft het College toestemming verleend om mede op grondslag van die stukken uitspraak te doen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De zitting heeft op 26 november 2025 met gesloten deuren plaatsgevonden. Aan de zitting hebben de gemachtigden van partijen deelgenomen, met uitzondering van <?linebreak?>mr. E.M. Tjon-En-Fa. Namens Odido hebben verder deelgenomen [naam 1] , <?linebreak?>[naam 2] en [naam 3] . Namens de minister hebben ook deelgenomen <?linebreak?>ir. R.M. van der Luit, mr. D.L. Frowijn, mr. drs. K.M. van Leeuwen-Gerkema, </para>
+      <para>mr. M.D.E. van Steendelaar, mr. S.P. Janssen en mr. W. Snijder, en heeft op verzoek van de minister ir. H. Kerkdijk, werkzaam bij de Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek (TNO), aan de zitting deelgenomen. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Samenvatting</title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Deze zaak gaat over de verplichting (maatregel) die de minister aan Odido heeft opgelegd om voor bepaalde kritieke onderdelen van haar mobiele netwerk binnen een bepaalde (vervangings)termijn uitsluitend gebruik te maken van apparatuur of programmatuur (al dan niet in combinatie met beheer of andere aanverwante dienstverlening) van andere partijen dan Huawei en ZTE. De reden daarvoor is dat de Algemene Inlichtingen- en Veiligheidsdienst (AIVD) en de Militaire Inlichtingen- en Veiligheidsdienst (MIVD) hebben geconstateerd dat sprake is geweest van een toename van digitale spionage in de telecomsector en op basis daarvan hebben geadviseerd maatregelen te treffen binnen de telecomsector. Daarna is een interdepartementale Taskforce Economische Veiligheid (Taskforce) opgericht die een risicoanalyse heeft uitgevoerd over de kwetsbaarheid van de netwerken van de mobiele telecomaanbieders. De bevindingen daarvan zijn neergelegd in een rapport van TNO. Vervolgens is een algemene maatregel van bestuur (amvb) vastgesteld, te weten het Besluit veiligheid en integriteit telecommunicatie (Bvit). Daarin is bepaald dat de minister een telecomaanbieder een verplichting oplegt om in kritieke onderdelen van het netwerk uitsluitend gebruik te maken van producten of diensten van zogenoemde vertrouwde leveranciers, indien dat naar zijn oordeel noodzakelijk is om risico’s voor de veiligheid en integriteit van diens netwerk of dienst die de nationale veiligheid of openbare orde raken, te beheersen. Op basis hiervan is aan Odido de maatregel opgelegd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>De rechtbank Rotterdam heeft het beroep van Odido tegen de opgelegde maatregel ongegrond verklaard (ECLI:NL:RBROT:2023:10132). Tegen de uitspraak van de rechtbank heeft Odido verschillende hogerberoepsgronden aangevoerd. Al deze gronden zijn door het College verworpen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>Het College oordeelt dat hoofdstuk 11a van de Telecommunicatiewet (Tw) een grondslag voor de maatregel biedt, dat artikel 11a.1, eerste lid, van de Tw niet in strijd is met de geldende Europese richtlijn (de Telecomcode) en dat ook in zogenaamde Europese softlaw steun is te vinden voor deze bepaling uit de Tw. Een leveranciersverbod is naar het oordeel van het College een passende technische en organisatorische maatregel als bedoeld in artikel 11a.1 van de Tw. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4</nr>
+      <para>Het Bvit is niet onverbindend wegens strijd met het vrij verkeer van goederen, het evenredigheidsbeginsel, of het verbod van willekeur. Dat geldt ook voor de maatregel, die ook niet onzorgvuldig tot stand is gekomen en waarvan de vervangingstermijn redelijk is. Daarnaast is de opgelegde maatregel niet in strijd met artikel 1 van het Eerste Protocol (EP) bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5</nr>
+      <para>Het College oordeelt verder dat Odido niet in aanmerking komt voor nadeelcompensatie, omdat de omvang van de schade (op concernniveau) lager is dan de standaard (bagatel)drempel van 2%, uitgaande van de zogenaamde drempelmethode. Odido’s beroep op het vertrouwensbeginsel wordt door het College verworpen. De vergoeding die minister al aan Odido heeft toegekend, is naar het oordeel van het College geheel onverplicht en berust niet op enig beleid. Het College kan daarom niet treden in de beoordeling van die vergoeding.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Grondslag van het geschil</title>
+    <para />
+    <paragroup>
+      <nr>2.1</nr>
+      <para>De AIVD en de MIVD hebben geconstateerd dat de afgelopen jaren sprake is geweest van een toename van digitale spionage in de telecomsector. Er wordt misbruik gemaakt van de hard- en software van telecomaanbieders om toegang te krijgen tot het netwerk van doelwitorganisaties. De AIVD heeft geadviseerd om vanwege de infiltratie door statelijke actoren ten behoeve van spionage maatregelen te treffen binnen de telecomsector (Kamerstukken II, 2018–2019, 30 821, nr. 89 en bijlage). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>Om meer inzicht te krijgen in de beveiliging van telecomnetwerken en welke concrete maatregelen nodig zijn om telecomnetwerken te beschermen, is onder leiding van de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) op 21 februari 2019 de Taskforce ingesteld. T-Mobile Netherlands Holding BV (T-Mobile) (nu Odido) is daar dezelfde dag over geïnformeerd. </para>
+        <para>De Taskforce heeft onderzocht of de huidige beveiligingsmaatregelen die telecomaanbieders hebben getroffen, gelet op het actuele dreigingsbeeld, voldoende zijn. De Taskforce heeft daartoe met medewerking van telecomaanbieders, waaronder T-Mobile, een risicoanalyse uitgevoerd over de kwetsbaarheid van hun netwerken voor misbruik door leveranciers van producten en diensten. Hierbij is in kaart gebracht welke onderdelen van de netwerken zogenoemde kritieke onderdelen zijn. De bevindingen van het onderzoek zijn onder meer neergelegd in een rapport van 16 mei 2019 van TNO. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>De bevindingen van de Taskforce hebben geleid tot de vaststelling van een amvb per <?linebreak?>6 december 2019, te weten het Bvit. In artikel 2, tweede lid, van het Bvit is bepaald dat de minister een telecomaanbieder een verplichting oplegt om in kritieke onderdelen van het netwerk uitsluitend gebruik te maken van producten of diensten van zogenoemde vertrouwde leveranciers indien dat naar zijn oordeel noodzakelijk is om risico’s voor de veiligheid en integriteit van diens netwerk of dienst die de nationale veiligheid of openbare orde raken, te beheersen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>Met de brief van 24 december 2019 is aan T-Mobile bericht dat als Te Beschermen Belangen (TBB)-kritieke aangemerkte netwerkonderdelen van niet-vertrouwde leveranciers niet meer gebruikt mogen worden nadat een besluit, bedoeld in artikel 2, tweede lid, van het Bvit, is genomen. Voor al aanwezige TBB-kritieke onderdelen van niet-vertrouwde leveranciers zal een redelijke overgangstermijn worden gegeven. T-Mobile is verzocht om per TBB-kritiek netwerkonderdeel een plan van aanpak op te stellen voor de vervanging van de producten of diensten die daaronder vallen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>Op 21 september 2020 heeft T-Mobile een (indicatief) plan van aanpak aangeleverd. In het plan van aanpak is uitgegaan van een termijn van […] voor vervanging van de kritieke onderdelen in de mobiele core van het netwerk. Het plan van aanpak is door TNO gevalideerd wat betreft de deugdelijkheid van de maatregelen en door Dialogic wat betreft de aangehouden termijnen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.6</nr>
+      <para>Met het besluit van 23 april 2021 (de maatregel) heeft de minister aan T-Mobile de verplichting opgelegd om binnen een termijn van […] na 23 april 2021 in de in de bijlage bij het besluit aangewezen kritieke onderdelen van het mobiele netwerk van T-Mobile of bijbehorende faciliteiten uitsluitend gebruik te maken van apparatuur of programmatuur, al dan niet in combinatie met beheer of andere aanverwante dienstverlening (producten of diensten), van andere partijen dan:</para>
+      <para>- Huawei Technologies (Netherlands) B.V., de daaraan gelieerde ondernemingen Huawei Technologies Coöperatief U.A. en Huawei Investment &amp; Holding Co. Ltd. en de overige ondernemingen die groepsmaatschappij zijn in de groep van Huawei Investment &amp; Holding Co. Ltd. (hierna tezamen Huawei), en waarvan producten of diensten aan T-Mobile kunnen worden geleverd;</para>
+      <para>	- ZTE Netherlands B.V., de daaraan gelieerde ondernemingen ZTE Coöperatief U.A. en ZTE Corporation, en de overige ondernemingen die groepsmaatschappij zijn in de groep van ZTE Corporation (hierna tezamen ZTE) en waarvan producten of diensten aan <?linebreak?>T-Mobile kunnen worden geleverd.</para>
+      <para />
+      <parablock>
+        <para>Bij de maatregel heeft de minister het definitief vastgestelde “Nadeelcompensatiekader verplichting ter bescherming van telecomnetwerken” (Nadeelcompensatiekader) gevoegd.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.7</nr>
+      <para>Met de brief van 3 juni 2021 heeft T-Mobile bezwaar gemaakt tegen de maatregel. Met het besluit van 23 februari 2022 (bestreden besluit) heeft de minister het bezwaar ongegrond verklaard. T-Mobile heeft beroep ingesteld tegen het bestreden besluit (kenmerk <?linebreak?>ROT 22/1670). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.8</nr>
+      <para>Met de brief van 30 mei 2022 heeft T-Mobile een verzoek om nadeelcompensatie bij de minister ingediend wegens de voor haar nadelige en onvoorzienbare financiële gevolgen van de maatregel. Het nadeel waarmee T-Mobile als gevolg van de maatregel wordt geconfronteerd, wordt volgens het verzoek vooralsnog begroot op circa 29,7 miljoen euro. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.9</nr>
+      <parablock>
+        <para>Met de brief van 6 juli 2022 heeft de minister het verzoek om nadeelcompensatie van </para>
+        <para>T-Mobile van 30 mei 2022 aangehouden, omdat nog niet onherroepelijk over de rechtmatigheid van de maatregel is beslist. De minister heeft verder in de brief vermeld dat hij het verzoek ook opvat als een verzoek om een voorschot op de eventueel toe te kennen nadeelcompensatie. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.10</nr>
+      <para>Met het besluit van 23 november 2022 (voorschotbesluit) heeft de minister het verzoek van T-Mobile om een voorschot op de eventueel toe te kennen nadeelcompensatie afgewezen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.11</nr>
+      <para>Met de brieven van 23 december 2022 en 1 februari 2023 heeft T-Mobile bezwaar gemaakt tegen het voorschotbesluit en de minister verzocht in te stemmen met rechtstreeks beroep. De minister heeft ingestemd met dat verzoek (kenmerk ROT 23/1076). </para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Uitspraak van de rechtbank </title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Bestreden besluit </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>3.1</nr>
+      <para>De rechtbank heeft het beroep van Odido tegen het bestreden besluit ongegrond verklaard. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>De rechtbank heeft geoordeeld dat artikel 2, tweede lid, van het Bvit en de daarop gebaseerde maatregel voldoende basis hebben in een wet in formele zin, namelijk in artikel 11a.1, vierde lid, gelezen in samenhang met het eerste lid, van de Tw. De rechtbank heeft de beroepsgrond van T-Mobile dat artikel 11a.1 van de Tw geen grondslag biedt om maatregelen te nemen ten behoeve van de nationale veiligheid, omdat het artikel uitsluitend betrekking zou hebben op veiligheid en de integriteit van het netwerk vanuit de optiek van de continuïteit, verworpen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>De rechtbank heeft overwogen dat uit de wetsgeschiedenis van hoofdstuk 11a van de Tw – dat artikel 11a.1 van de Tw omvat – volgt dat dit hoofdstuk een omzetting is van artikel 13bis, eerste en tweede lid, van richtlijn 2002/21/EG van het Europees Parlement en de Raad van 7 maart 2002 inzake een gemeenschappelijk regelgevingskader voor elektronische-communicatienetwerken en -diensten (Kaderrichtlijn), zoals gewijzigd met Richtlijn 2009/140/EG van het Europees Parlement en de Raad van 25 november 2009 (gewijzigde Kaderrichtlijn). Aan de hand van de tekst van artikel 11a.l van de Tw moet volgens de rechtbank worden onderzocht of richtlijnconforme interpretatie van de nationale bepaling mogelijk is. De uitzondering waarbij sprake is van toelichtingen of uitlatingen waarmee ondubbelzinnig uitdrukking is gegeven aan de welbewuste bedoeling om de nationale regeling te laten afwijken van de richtlijn doet zich naar het oordeel van de rechtbank niet voor. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>Naar het oordeel van de rechtbank volgt uit artikel 13bis, eerste en tweede lid, in samenhang gelezen met overweging 44 van de considerans van de gewijzigde Kaderrichtlijn, dat onder het waarborgen van de veiligheid en integriteit van openbare communicatienetwerken of openbare elektronische-communicatiediensten niet alleen de bescherming tegen technische storing of uitval van het netwerk moet worden begrepen, maar dat rekening moet worden gehouden met de meest recente technische mogelijkheden, omdat adequate beveiliging niet een eenmalige aangelegenheid is, maar een voortdurend proces van toepassing, herziening en aanpassing. Onder de veiligheid en integriteit van netwerk moet volgens de rechtbank ook worden begrepen het waarborgen dat persoonlijke gesprekken, berichten en gegevens van klanten van mobiele telecomoperators niet eenvoudig kunnen worden onderschept door derden, waaronder vreemde mogendheden. Daarmee wordt niet alleen de staatsveiligheid beschermd, maar worden ook de belangen en veiligheid van burgers (waaronder klanten van T-Mobile) en de belangen van mobiele telecomoperators (waaronder T-Mobile) en de integriteit en veiligheid van hun netwerken beschermd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5</nr>
+      <para>Steun voor het standpunt van de minister dat het waarborgen van de veiligheid en integriteit als bedoeld in artikel 13bis van de gewijzigde Kaderrichtlijn mede betrekking kan hebben op het voorkomen van cyberdreigingen die het gevolg kunnen zijn van wettelijke verplichtingen voor leveranciers van apparatuur in derde landen om te allen tijde medewerking te verlenen aan inlichtingendiensten, is volgens de rechtbank te vinden in de Aanbeveling van de commissie (EU) 2019/534 van 26 maart 2019 inzake Cyberbeveiliging van 5G-netwerken (Aanbeveling), waarvan de considerans (overweging 11) mede verwijst naar de Kaderrichtlijn.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.6</nr>
+      <para>De rechtbank is verder van oordeel dat het Bvit geen zelfstandige verruiming van de begrippen veiligheid en integriteit bevat, omdat de in het Bvit geregelde onderwerpen vallen binnen de reikwijdte van artikel 13bis van de gewijzigde Kaderrichtlijn en artikel 11a.1 van de Tw. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.7</nr>
+      <para>De rechtbank heeft ook – exceptief toetsend – geoordeeld dat (artikel 2, tweede lid, van) het Bvit als zodanig niet onverbindend is wegens strijd met het in artikel 3:4, tweede lid, van de Algemene wet bestuursrecht (Awb) neergelegde evenredigheidsbeginsel. Het Bvit is tot stand gekomen nadat de Taskforce een rapport had opgesteld over de noodzaak om aanbieders van mobiele telecommunicatienetwerken te verplichten om in de kritieke onderdelen van hun netwerken uitsluitend gebruik te maken van zogenoemde vertrouwde leveranciers. Aanleiding hiervoor waren de waarschuwingen van de inlichtingen- en veiligheidsdiensten voor infiltratie door statelijke actoren ten behoeve van spionage in de telecomsector. Naar het oordeel van de rechtbank is daarmee voldoende gemotiveerd dat een amvb gericht op het kunnen opleggen van dergelijke verplichtingen aan aanbieders van mobiele telecommunicatienetwerken noodzakelijk was. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.8</nr>
+      <para>De rechtbank heeft daarnaast geoordeeld dat, hoewel het toepassen van artikel 2 van het Bvit eigendomsregulering tot gevolg heeft, dit niet maakt dat het toepassen ervan in strijd is met artikel 1 van het EP bij het EVRM. Bij eigendomsregulering moet weliswaar sprake zijn van een wettelijke basis die regulering voorzienbaar maakt, maar die voorzienbaarheid hoeft volgens de rechtbank niet te volgen uit een wet in formele zin. Uit artikel 2, tweede lid, van het Bvit, dat materiële wetgeving vormt, volgt voldoende nauwkeurig dat de minister verplichtingen gericht op het tegengaan van de mogelijkheid van spionage of sabotage door vreemde mogendheden kan opleggen aan aanbieders als T-Mobile. Aan de eisen van legaliteit en voorzienbaarheid is, aldus de rechtbank, voldaan. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.9</nr>
+      <parablock>
+        <para>De rechtbank heeft verder de beroepsgronden van T-Mobile dat de maatregel en het bestreden besluit in strijd zijn met het zorgvuldigheids-, motiverings- en evenredigheidsbeginsel verworpen. De rechtbank heeft geoordeeld dat de minister ten aanzien van het advies van de Taskforce heeft voldaan aan zijn vergewisplicht. De rechtbank is van oordeel dat de minister zich mocht baseren op het rapport van TNO van 16 mei 2019. Van een onzorgvuldige totstandkoming van dit rapport is de rechtbank niet gebleken. </para>
+        <para>Volgens de rechtbank is voldaan aan de eisen van geschiktheid en noodzakelijkheid. Of sprake is van evenwichtigheid kan, aldus de rechtbank, niet los worden gezien van de vraag of de minister gehouden is tot nadeelcompensatie. Volgens de rechtbank heeft de minister een splitsing mogen aanbrengen in de besluitvorming over het treffen van de maatregel en het bieden van nadeelcompensatie, omdat niet is gebleken of aannemelijk is gemaakt dat schade die het gevolg is van de maatregel zodanig groot is dat deze zonder dat daarvoor compensatie wordt geboden aan het nemen van dat besluit in de weg staat. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.10</nr>
+      <para>De rechtbank heeft T-Mobile verder niet gevolgd in haar standpunt dat de reikwijdte van de maatregel onnodig vaag is doordat een limitatieve opsomming van de ondernemingen waarvan geen apparatuur is toegestaan erin ontbreekt. Zoals de minister heeft gesteld, is geen limitatieve opsomming van dergelijke groepsmaatschappijen opgenomen om te voorkomen dat nieuw op te richten (dochter)ondernemingen of door bijvoorbeeld fusie of splitsing te vormen ondernemingen niet door de verplichting worden geraakt, terwijl ten aanzien van die ondernemingen vanwege dezelfde veiligheidsrisico’s ook moet gelden dat in de kritieke onderdelen geen gebruik kan worden gemaakt van hun producten of diensten. Verder mag, aldus de rechtbank, van een professionele partij als T-Mobile worden verwacht dat zij in voorkomend geval onderzoekt of ondernemingen groepsmaatschappijen zijn in de genoemde groepen. Dit legt geen onevenredige onderzoeksplicht aan haar op.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.11</nr>
+      <para>De rechtbank heeft ten slotte geoordeeld dat de vervangingstermijn van […] niet langer is dan in het belang van de continuïteit van de dienstverlening is vereist. Mede op basis van het indicatief plan van aanpak van T-Mobile en de toets daarvan door deskundigen van Dialogic en TNO, is geoordeeld dat de termijn voldoet aan dit criterium. De rechtbank is niet gebleken dat T-Mobile niet in staat is binnen deze termijn tot een vervanging te komen. De rechtbank ziet geen reden de termijn later te laten ingaan dan op 23 april 2021, te minder nu bij de vaststelling van de termijn al rekening is gehouden met mogelijke tegenslagen.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Voorschotbesluit</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.12</nr>
+      <para>De rechtbank heeft geoordeeld dat de minister de aanvraag van T-Mobile mede heeft kunnen opvatten als een verzoek om een voorschot als bedoeld in artikel 4:95 van de Awb op toe te kennen nadeelcompensatie, omdat zij tot een voorlopige schadebegroting is gekomen en nog niet kon overzien hoe groot haar schade uiteindelijk zou zijn. Dit laat volgens de rechtbank onverlet dat daarbij de vraag aan de orde kan komen of en in welke mate T-Mobile in aanmerking komt voor nadeelcompensatie. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.13</nr>
+      <para>De rechtbank heeft daarnaast geoordeeld dat de minister bij het vaststellen van de omzet van T-Mobile in redelijkheid de kosten van de totale T-Mobile groep in Nederland tot uitgangspunt heeft kunnen nemen. De schade manifesteert zich op het niveau van de groep in Nederland, terwijl het moeilijk zal zijn om de kosten aan een specifiek bedrijfsonderdeel toe te rekenen. Daar komt bij dat de maatregel voorziet in een vervangingstermijn van […]. Dit betekent dat T-Mobile kan profiteren van een afschrijvingstermijn, ook al zal die korter zijn dan de vervangingstermijn zelf. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.14</nr>
+      <para>De rechtbank heeft ook geoordeeld dat het beroep dat T-Mobile op het vertrouwensbeginsel heeft gedaan niet slaagt, omdat uit de stukken niet blijkt dat de minister een toezegging heeft gedaan dat T-Mobile hoe dan ook aanspraak zou maken op nadeelcompensatie. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.15</nr>
+      <para>De rechtbank heeft ten slotte geoordeeld dat de minister een beslissing had moeten nemen over de vergoeding van de voorbereidingskosten die T-Mobile heeft gemaakt en dat hij dit onderdeel van de aanvraag niet heeft mogen doorschuiven nu met het voorschotbesluit vaststaat dat T-Mobile niet in aanmerking komt voor nadeelcompensatie, terwijl die kosten zijn gemaakt in het kader van de voorliggende aanvraag.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.16</nr>
+      <para>De rechtbank heeft het beroep van T-Mobile tegen het voorschotbesluit gegrond verklaard, dat besluit vernietigd voor zover de minister daarbij niet heeft beslist op het verzoek om vergoeding van de kosten die T-Mobile heeft gemaakt die verband houden met haar aanvraag om nadeelcompensatie en bepaald dat de minister alsnog moet beslissen op dit onderdeel van de aanvraag. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>Beoordeling van het geschil in hoger beroep</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Bestreden besluit </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">I. Berust de maatregel op een wettelijke grondslag?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Odido betoogt dat de rechtbank ten onrechte heeft geoordeeld dat artikel 11a.1 van de Tw, zoals dat luidde toen de maatregel werd opgelegd, een wettelijke grondslag vormt voor artikel 2 van het Bvit en de daarop gebaseerde maatregel.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>De rechtbank heeft volgens Odido ten eerste ten onrechte tot uitgangspunt genomen dat richtlijnconforme interpretatie van nationale wetgeving in dit geval verplicht is. De rechtbank heeft niet onderbouwd waarom de uitzondering op die verplichting zich in dit geval niet voordoet. Volgens Odido heeft de wetgever ondubbelzinnig de bedoeling gehad om met artikel 11a.1 van de Tw niet ook een grondslag te creëren om maatregelen op te leggen die inhouden dat vanwege de nationale veiligheid bepaalde leveranciers categorisch moeten worden geweerd als het gaat om kritische netwerkonderdelen. Odido wijst in dit verband onder meer op passages uit de wetsgeschiedenis en op de titel van hoofdstuk 11a die “Continuïteit” luidt. Het artikel is (volgens de wetgever) bedoeld om de beschikbaarheid van de openbare telefoondiensten zo volledig mogelijk te waarborgen in geval van een technische storing of uitval van het elektriciteitsnetwerk. De rechtbank miskent in dit verband volgens Odido ook de verhouding tussen de hoofdstukken 11 en 11a van de Tw. Hoofdstuk 11 en niet hoofdstuk 11a biedt een grondslag om niet geautoriseerde toegang tot persoonsgegevens te bestrijden met maatregelen. Richtlijnconforme interpretatie mag volgens Odido niet worden ingeroepen om een lacune, een wetgeversfout, in te vullen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <parablock>
+        <para>Als richtlijnconforme interpretatie al aan de orde is, heeft de rechtbank volgens Odido het nationale recht bovendien niet zoveel mogelijk uitgelegd in het licht van de bewoordingen en het doel van de Kaderrichtlijn om het ermee beoogde resultaat te bereiken. De bewoordingen en het doel van de Kaderrichtlijn duiden er volgens Odido niet op dat maatregelen ter waarborging van de nationale veiligheid kunnen worden opgelegd onder het mom van veiligheid en integriteit van het netwerk van de aanbieder. Uit de door de rechtbank aangehaalde overweging 44 van de considerans bij de gewijzigde Kaderrichtlijn, en de verwijzing daarin naar het Agentschap van de Europese Unie voor cyberbeveiliging (Enisa), kan volgens Odido ook niet worden opgemaakt dat het doel van de Kaderrichtlijn is <?linebreak?>(mede-)bescherming van de nationale veiligheid. </para>
+        <para>De Kaderrichtlijn laat al helemaal geen ruimte voor een regeling als het Bvit, waarin de mogelijkheid is opgenomen een leveranciersverbod op te leggen. Een verbod is ook geen passende technische en organisatorische maatregel als bedoeld in artikel 11a.1 van de Tw. Dit blijkt uit onder meer het TNO-rapport. Met het leveranciersverbod wordt het risico (volgens het TNO-rapport) niet beheerst, maar alleen de dreiging aangepakt. </para>
+        <para>De rechtbank miskent met haar uitleg volgens Odido verder de verdeling van de verantwoordelijkheden onder hoofdstuk 11a.1 van de Tw. Het is primair aan de telecomaanbieder om de risico’s in te schatten en passende maatregelen te nemen, niet aan de overheid. De Kaderrichtlijn heeft ook risicobeheersing tot doel en biedt dus geen grondslag een maatregel op te leggen die elk risico wegneemt, waarbij de Staat dat bij voorbaat en dwingend bepaalt. </para>
+        <para>Ook uit de Aanbeveling volgt de conclusie van de rechtbank volgens Odido niet. Onder punt 3 van de considerans ervan wordt benadrukt dat “wijdverspreide systemische storingen bijzonder ernstige gevolgen kunnen hebben”, wat overeenkomt met de door de wetgever gelegde link tussen veiligheid en integriteit en storingen. Het gaat om risico’s omtrent de integriteit van het netwerk zelf.</para>
+        <para>Volgens Odido biedt (artikel 40 van) de Richtlijn (EU) 2018/1972 van het Europees Parlement en de Raad van 11 december 2018 tot vaststelling van het Europees wetboek voor elektronische communicatie (herschikking) (Telecomcode) om dezelfde redenen geen grondslag voor de maatregel.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <para>In het bestreden besluit heeft de minister uiteengezet dat de maatregel is gebaseerd op artikel 2, tweede lid, aanhef en onder b, van het Bvit en dat het Bvit is gebaseerd op onder meer artikel 11a.1 van de Tw. Digitale spionage door middel van misbruik van leveranciers betreft volgens de minister een relatief nieuw risico voor de veiligheid van netwerken en diensten. Dit verklaart waarom dit onderwerp niet als voorbeeld terugkomt in de (door Odido aangehaalde) wetsgeschiedenis. Het betekent echter niet dat artikel 11a.1 van de Tw hierop geen betrekking heeft. Het begrip veiligheid is niet gedefinieerd in de Tw en dient volgens de minister ruim te worden uitgelegd, gelet op het doel van artikel 13bis van de Kaderrichtlijn en artikel 11a.1 van de Tw om te allen tijde de risico’s voor de veiligheid van het netwerk en diensten voldoende te kunnen beheersen, wat voor risico’s zich op dat gebied ook voordoen en ongeacht de achtergrond van die risico’s. Artikel 13bis van de Kaderrichtlijn spreekt in dat verband van maatregelen die gezien de stand van de techniek zorgen voor een veiligheidsniveau dat is afgestemd op de risico’s die zich voordoen. De onbevoegde toegang van een statelijke actor en de in verband daarmee mogelijke aantasting van de vertrouwelijkheid van specifiek communicatie- en persoonsgegevens in onderdelen van de netwerken door in het bijzonder spionage, vormt volgens de minister ook een risico voor de veiligheid van de netwerken en diensten in de telecomsector als bedoeld in artikel 11a.1 van de Tw. Aanbieders van netwerken zijn verplicht passende en organisatorische maatregelen te treffen om de risico’s voor de veiligheid te beheersen. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Wet in formele zin (Tw)</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5</nr>
+      <para>Artikel 11a.1 van de Tw luidde, toen de maatregel werd opgelegd en voor zover van belang, als volgt:</para>
+      <para />
+      <parablock>
+        <para>“1. Aanbieders van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten nemen passende technische en organisatorische maatregelen om de risico’s voor de veiligheid en de integriteit van hun netwerken en diensten te beheersen.</para>
+        <para>	[…]</para>
+      </parablock>
+      <para>4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven met betrekking tot de in dit artikel bedoelde technische en organisatorische maatregelen en kunnen technische en organisatorische eisen worden gesteld aan aanbieders van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten.</para>
+      <para>5. Onze Minister kan een aanbieder van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten de verplichting opleggen om binnen een bepaalde termijn een technische of organisatorische maatregel te treffen met betrekking tot de veiligheid en integriteit van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten.”</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Amvb (Bvit) </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.6</nr>
+      <para>Artikel 2, tweede lid, van het Bvit luidt als volgt:</para>
+      <para />
+      <parablock>
+        <para>“Indien dat naar het oordeel van Onze Minister noodzakelijk is om risico’s voor de veiligheid en integriteit van diens netwerk of dienst die de nationale veiligheid of de openbare orde raken te beheersen, legt Onze Minister, in overleg met Onze Minister van Justitie en Veiligheid, een aanbieder van een openbaar elektronisch communicatienetwerk of -dienst een verplichting op om in de daarbij aangewezen onderdelen van diens netwerk of bijbehorende faciliteiten, uitsluitend gebruik te maken van producten of diensten van anderen dan de daarbij door Onze Minister genoemde partij die:</para>
+      </parablock>
+      <para>a. een staat, entiteit of persoon is waarvan bekend is of waarvoor gronden zijn te vermoeden dat deze de intentie heeft een in Nederland aangeboden elektronisch communicatienetwerk of -dienst te misbruiken of uit te laten vallen, of</para>
+      <para>b. nauwe banden heeft met of onder invloed staat van een staat, entiteit of persoon als bedoeld onder a, of een entiteit of persoon is ten aanzien van wie er gronden zijn om dergelijke banden of invloed te vermoeden.”</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.7</nr>
+      <para>Het College stelt vast dat de maatregel, gelet op de bewoordingen ervan, is gebaseerd op artikel 2, tweede lid, van het Bvit, dat weer is gebaseerd op artikel 11a.1, vierde lid, van de Tw. Partijen verschillen van mening over de betekenis en reikwijdte van artikel 11a.1, eerste lid, van de Tw, zoals dat luidde toen de maatregel werd opgelegd, voor zover daarin wordt gesproken over passende technische en organisatorische maatregelen om de risico’s voor de veiligheid en de integriteit van hun netwerken en diensten te beheersen. Het College zal in het kader van de beantwoording van de vraag hoe artikel 11a.1, eerste lid, van de Tw moet worden uitgelegd achtereenvolgens 1) de wettekst en de daarbij behorende toelichting, 2) de betrokken richtlijn en 3) softlaw bezien. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">(1) Wettekst en toelichting</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.8</nr>
+      <para>Het College is van oordeel dat uit de tekst van artikel 11a.1, eerste lid, van de Tw in samenhang bezien met de toelichting daarop (al) voldoende duidelijk blijkt dat onder passende technische en organisatorische maatregelen die telecomaanbieders moeten nemen om risico’s voor de veiligheid en de integriteit van telecomnetwerken en -diensten te beheersen ook maatregelen (kunnen) vallen ter waarborging van de nationale veiligheid in verband met digitale spionage door statelijke actoren. De begrippen “risico’s” en “veiligheid” zijn weliswaar niet gedefinieerd in de Tw, maar die begrippen moeten naar het oordeel van het College ruim worden uitgelegd. Uit de Memorie van Toelichting (MvT) bij artikel 11a.1 van de Tw (Kamerstukken II, 2010-2011, 32 549, nr. 3, p. 82) volgt dat de passende maatregelen die telecomaanbieders moeten nemen om de veiligheid van hun netwerk te waarborgen geschikt moeten zijn gelet op de stand van de techniek en de risico’s die zich voordoen. Dat kunnen dus ook maatregelen zijn die nodig zijn om (meer hedendaagse) risico’s die (ook) de nationale veiligheid kunnen raken, zoals digitale spionage door statelijke actoren, te beheersen. Het College volgt de minister in de uitleg die hij van artikel 11a.1, eerste lid, van de Tw voorstaat. Anders dan Odido betoogt, biedt niet alleen hoofdstuk 11, maar ook hoofdstuk 11a van de Tw een grondslag om niet geautoriseerde toegang tot telecomnetwerken te bestrijden met maatregelen.</para>
+      <para />
+      <para />
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">(2) Betrokken richtlijn (Telecomcode)</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.9</nr>
+      <para>Voor de hiervoor weergegeven uitleg van artikel 11a.1, eerste lid, van de Tw is ook steun te vinden in de betrokken richtlijn. Dat is niet de Kaderrichtlijn die de rechtbank tot uitgangspunt neemt, maar de Telecomcode. Het College zal dit hierna uitleggen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.10</nr>
+      <parablock>
+        <para>Uit de rechtspraak van het Hof van Justitie van de Europese Unie (Hof), zie bijvoorbeeld het arrest van 24 januari 2012 Dominguez, punten 24 en 25 (ECLI:EU:C:2012:33), volgt dat de nationale rechter het nationale recht zoveel mogelijk moet uitleggen in het licht van de bewoordingen en het doel van de betrokken richtlijn teneinde het daarmee beoogde resultaat te bereiken en zo aan artikel 288, derde alinea, van het Verdrag betreffende de werking van de Europese Unie (VWEU) te voldoen. </para>
+        <para>De verplichting tot richtlijnconforme interpretatie geldt al als een richtlijn in werking is getreden en voordat de richtlijn volledig in nationaal recht is omgezet en de omzettingstermijn ervan is verstreken. Het maakt dus niet uit dat de nationale bepaling van eerdere datum is dan het van toepassing zijnde EU-recht (zie het arrest van het Hof van <?linebreak?>13 november 1990, Marleasing SA, punt 8 (ECLI:EU:C:1990:395)). </para>
+        <para>Hoewel de nationale rechter verplicht is het nationale recht zoveel mogelijk uit te leggen en toe te passen in het licht van het Unierecht, zijn er wel grenzen aan de plicht tot richtlijnconforme interpretatie. In het algemeen geldt dat deze plicht is begrensd door de algemene rechtsbeginselen, zoals rechtszekerheid en het verbod van terugwerkende kracht. Richtlijnconforme interpretatie is alleen mogelijk binnen het kader van de wet en kan gelet hierop niet leiden tot een uitleg die tegen de tekst van de wet ingaat. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.11</nr>
+      <para>Het Europese kader op het terrein van elektronische communicatie bestond uit een vijftal richtlijnen, waaronder de Kaderrichtlijn. Op 25 november 2009 is de Kaderrichtlijn gewijzigd en is artikel 13bis van de Kaderrichtlijn geïntroduceerd. Artikel 11a.1, zoals dat luidde toen de maatregel werd opgelegd, is op 30 mei 2012 in werking getreden en strekt tot implementatie van artikel 13bis van de Kaderrichtlijn (Kamerstukken II, 2010–2011, 32 549, nr. 3, p. 82). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.12</nr>
+      <para>De (gewijzigde) Kaderrichtlijn is vervallen met ingang van 20 december 2020 als gevolg van de Telecomcode. Met de Telecomcode is een aantal bestaande richtlijnen, waaronder de Kaderrichtlijn, samengebracht. De Telecomcode is op 20 december 2018 in werking getreden. De omzettingstermijn voor de Telecomcode liep tot eind december 2020. De Telecomcode is – na een inbreukprocedure die is ingeleid door de Europese Commissie – geïmplementeerd in het per 2 maart 2022 gewijzigde artikel 11a.1 van de Tw (Kamerstukken II, 2020-2021, 35 865, nr. 3, p. 128). Artikel 40 van de Telecomcode is de opvolger van artikel 13bis van de gewijzigde Kaderrichtlijn. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.13</nr>
+      <para>Toen de minister de maatregel in april 2021 oplegde aan T-Mobile was de Telecomcode nog niet in nationaal recht omgezet, maar de (gewijzigde) Kaderrichtlijn was toen al wel vervangen door de Telecomcode en de omzettingstermijn daarvan was ook verstreken. Dit betekent dat de Telecomcode als uitgangspunt moet worden gehanteerd bij het richtlijnconform interpreteren van artikel 11a.1, eerste lid, van de Tw. De rechtbank heeft dit in de aangevallen uitspraak niet onderkend door daarin bij de richtlijnconforme interpretatie van artikel 11a.1, eerste lid, van de Tw de al vervallen (gewijzigde) Kaderrichtlijn tot uitgangspunt te nemen. Dit leidt vanwege (al) het navolgende echter niet tot vernietiging van de aangevallen uitspraak.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.14</nr>
+      <para>Artikel 2, aanhef en onder 21, van de Telecomcode luidt als volgt:</para>
+      <para />
+      <parablock>
+        <para>“Voor de toepassing van deze richtlijn wordt verstaan onder „beveiliging van netwerken en diensten”: het vermogen van elektronischecommunicatienetwerken en -diensten om met een bepaalde mate van betrouwbaarheid bestand te zijn tegen acties die de beschikbaarheid, authenticiteit, integriteit en vertrouwelijkheid van die netwerken en diensten, van de opgeslagen, verzonden of verwerkte gegevens, of van de daaraan gerelateerde diensten die via die elektronischecommunicatienetwerken of -diensten worden aangeboden of toegankelijk zijn, in gevaar brengen.”</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.15</nr>
+      <para>In de Telecomcode is onder titel V “Veiligheid” artikel 40 opgenomen. Het eerste lid daarvan luidt, voor zover van belang, als volgt: </para>
+      <para />
+      <parablock>
+        <para>“De lidstaten zorgen ervoor dat aanbieders van openbare elektronischecommunicatienetwerken of van voor het publiek beschikbare elektronischecommunicatiediensten passende en evenredige technische en organisatorische maatregelen nemen om de risico's voor de veiligheid van hun netwerken of diensten goed te beheersen. Die maatregelen zorgen, gezien de stand van de techniek, voor een veiligheidsniveau dat is afgestemd op de risico's die zich voordoen. Er worden met name maatregelen, waaronder in voorkomend geval versleuteling, genomen om de impact van beveiligingsincidenten op gebruikers en op andere netwerken en diensten zo laag mogelijk te houden. […].”</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.16</nr>
+      <para>In punt 94 van de considerans van de Telecomcode is, voor zover van belang, verder het volgende vermeld:</para>
+      <para />
+      <parablock>
+        <para>“Aanbieders van openbare elektronischecommunicatienetwerken en/of voor het publiek beschikbare elektronischecommunicatiediensten moeten verplicht worden de veiligheid van hun netwerken en/of diensten te waarborgen, en de gevolgen van beveiligingsincidenten te voorkomen of tot een minimum te beperken. Gezien de stand van de techniek moeten die maatregelen een veiligheidsniveau van de netwerken en diensten waarborgen dat is afgestemd op de risico's die zich voordoen. Bij beveiligingsmaatregelen moet minstens rekening worden gehouden met alle relevante aspecten van de volgende elementen: met betrekking tot de beveiliging van netwerken en voorzieningen: fysieke en omgevingsbeveiliging, bevoorradingszekerheid, controle op de toegang tot netwerken en integriteit van netwerken; […].”</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.17</nr>
+      <para>Gelet op de bewoordingen van de artikelen 2, aanhef en onder 21, en 40, eerste lid, van de Telecomcode en punt 94 van de considerans gaat het bij passende en evenredige technische en organisatorische maatregelen om maatregelen die telecomaanbieders moeten nemen om bestand te zijn tegen acties die de integriteit en vertrouwelijkheid van het netwerk in gevaar kunnen brengen. Controle op de toegang tot het netwerk en de integriteit van het netwerk is een relevant aspect. Gezien de stand van de techniek moeten de maatregelen een veiligheidsniveau van de netwerken en diensten waarborgen dat is afgestemd op de risico’s die zich voordoen. Naar het oordeel van het College heeft de Uniewetgever hierbij ook maatregelen op het oog gehad die nodig zijn om (meer hedendaagse) risico’s die (ook) de nationale veiligheid kunnen raken, zoals digitale spionage door statelijke actoren, te beheersen. Artikel 11a.1, eerste lid, van de Tw kan naar het oordeel van het College op die manier en dus ook richtlijnconform worden uitgelegd. Richtlijnconforme interpretatie is mogelijk binnen het kader van de wet en leidt niet tot een uitleg die tegen de tekst van de wet ingaat. Een uitzondering op de verplichting tot richtlijnconforme interpretatie doet zich in dit geval, anders dan Odido heeft betoogd, daarom niet voor.  </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">(3) Soft law</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.18</nr>
+      <para>Ook in softlaw (als bedoeld in artikel 288 van het VWEU) is steun te vinden voor de hiervoor weergegeven uitleg van artikel 11a.1, eerste lid, van de Tw. Het College zal hierna uitleggen waarom. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.19</nr>
+      <para>Europese secundaire wetgeving als een aanbeveling of een richtsnoer heeft in beginsel geen bindend karakter. Uit rechtspraak van het Hof volgt echter dat bijvoorbeeld aanbevelingen niet kunnen worden geacht geen rechtsgevolgen te hebben, ook al hebben zij geen bindende kracht en kunnen zij geen rechten in het leven roepen waarop particulieren zich voor een nationale rechter kunnen beroepen. De nationale rechter is gehouden aanbevelingen in aanmerking te nemen bij de oplossing van de bij hen aanhangige geschillen, met name wanneer deze duidelijkheid verschaffen over de uitlegging van nationale bepalingen die ter uitvoering ervan zijn vastgesteld (zie bijvoorbeeld het arrest van het Hof van 24 april 2008, Arcor, punt 94 (ECLI:EU:C:2008:244)). De nationale rechter is daartoe in ieder geval gehouden als in de Europese secundaire wetgeving is bepaald dat de lidstaat of de bevoegde instantie met soft law rekening dient te houden (zie het arrest van het Hof, Generics (ECLI:EU:C:1998:583)).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.20</nr>
+      <para>Onder punt 11 van de Aanbeveling is verwezen naar de Kaderrichtlijn en de Telecomcode. Onder 3 en 19 van de Aanbeveling is respectievelijk het volgende vermeld:</para>
+      <para />
+      <parablock>
+        <para>“Wanneer veel essentiële diensten afhankelijk worden van 5G-netwerken, zouden wijdverspreide systemische storingen bijzonder ernstige gevolgen kunnen hebben. Als gevolg daarvan is het voor de Unie van strategisch belang de cyberbeveiliging van 5G-netwerken te waarborgen, in tijden van toenemende cyberaanvallen die complexer dan ooit zijn.” (3)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>	en</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>“Bij de aanpak van cyberbeveiligingsrisico's in 5G-netwerken moet rekening worden gehouden met zowel technische als andere factoren. Technische factoren kunnen onder andere zwakke punten in de cyberbeveiliging zijn. Die kunnen worden uitgebuit om ongeoorloofde toegang tot informatie te krijgen (cyberspionage om economische of politieke redenen) of voor andere kwaadaardige bedoelingen (cyberaanvallen die gericht zijn op het verstoren of vernietigen van systemen en gegevens). Hierbij is het belangrijk rekening te houden met de noodzaak om netwerken gedurende hun gehele levenscyclus te beschermen en alle betrokken apparatuur in aanmerking te nemen, onder meer tijdens het ontwerp, de ontwikkeling, de aankoop, de uitrol, de exploitatie en het onderhoud van 5G-netwerken.” (19)</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.21</nr>
+      <para>Onder meer “Cyberspionage om economische of politieke redenen” wordt onder 19 genoemd als een (technische) factor die speelt bij de aanpak van cyberbeveiligingsrisico’s waarmee rekening moet worden gehouden. Ook is aangegeven dat het belangrijk is rekening te houden met de noodzaak om netwerken gedurende hun gehele levenscyclus te beschermen en alle betrokken apparatuur in aanmerking te nemen. Gelet hierop biedt ook de Aanbeveling, zoals de rechtbank terecht heeft overwogen, steun voor de door de minister voorgestane uitleg van artikel 11a.1, eerste lid, van de Tw. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.22</nr>
+      <para>Dat geldt ook voor (paragraaf 4.1 van) de Enisa-richtsnoeren “Enisa Guideline on security measures under the EECC van juli 2021” en (tabel 4, onder II van) het supplement daarop “5G Supplement To the Guideline on Security Measures under the EECC”. Daarin is de reikwijdte van beveiligingsmaatregelen waarmee rekening moet worden gehouden uiteengezet en is gewezen op veiligheidsrisico’s in de vorm van spionage door statelijke actoren vanwege slechte kwaliteit van apparatuur. Naar de richtsnoeren van Enisa wordt in onder meer artikel 40 van de Telecomcode verwezen.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Passende technische en organisatorische maatregel als bedoeld in artikel 11a.1 van de Tw?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.23</nr>
+      <para>Het College volgt Odido ten slotte niet in haar standpunt dat een wettelijke grondslag voor de maatregel (ook) zou ontbreken omdat een leveranciersverbod dat de minister aan haar op basis van artikel 2, tweede lid, van het Bvit heeft opgelegd volgens onder meer het TNO-rapport niet zou zijn aan te merken als een passende technische en organisatorische maatregel als bedoeld in artikel 11a.1 van de Tw. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.24</nr>
+      <parablock>
+        <para>Naar het oordeel van het College valt niet in te zien dat de verplichting om in bepaalde onderdelen van het netwerk uitsluitend gebruik te maken van andere dan bepaalde leveranciers, geen technische of organisatorische maatregel als bedoeld in artikel 11a.1, vijfde lid, van de Tw is. Een dergelijke maatregel beoogt te voorkomen dat bepaalde apparatuur in bepaalde onderdelen van het netwerk wordt gebruikt en bevat zowel een technisch als organisatorisch aspect. Dat maatregelen gericht op het – vanwege cyberspionagerisico’s – weren van apparatuur van bepaalde leveranciers passen binnen de reikwijdte van het pakket aan zo nodig te treffen beveiligingsmaatregelen als bedoeld in artikel 11a.1, eerste lid, van de Tw, volgt naar het oordeel van het College ook uit de Aanbeveling. Zoals hiervoor is weergegeven, is onder 19 van de Aanbeveling namelijk uiteengezet dat het in verband met de aanpak van risico’s van cyberspionage belangrijk is rekening te houden met de noodzaak om netwerken gedurende hun gehele levenscyclus te beschermen en alle betrokken apparatuur in aanmerking te nemen, onder meer tijdens het ontwerp, de ontwikkeling, de aankoop, de uitrol, de exploitatie en het onderhoud van 5G-netwerken. </para>
+        <para>Het College ziet zich in dit oordeel ook gesterkt door wat is vermeld in de “Toolbox met risicobeperkende maatregelen van de lidstaten” die de Europese Commissie op 29 januari 2020 heeft gepubliceerd. Een van de maatregelen die daarin is genoemd (SM03) en is opgenomen in tabel 1 van “Annex 1 to the 5G EU toolbox of risk mitigating measures” luidt namelijk “Assessing the risk profile of suppliers and applying restrictions for suppliers considered to be high risks-including necessary exclusions to effectively mitigate risks- for key assets”.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.25</nr>
+      <para>Het College is, gelet op het voorgaande, met de minister van oordeel dat de bevoegdheid van de minister van artikel 2, tweede lid, van het Bvit om onder de genoemde omstandigheden een verplichting op te leggen om in onderdelen van het netwerk uitsluitend apparatuur van andere dan bepaalde aanbieders te gebruiken, een nadere inkleuring vormt van de bevoegdheid van de minister van artikel 11a, vijfde lid, van de Tw om een verplichting op te leggen om onder de in dat artikellid genoemde omstandigheden een technische of organisatorische maatregel te treffen. Van een dubbele bevoegdheid is geen sprake. Wat in het TNO-rapport is opgemerkt, kan daaraan niet afdoen.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.26</nr>
+      <parablock>
+        <para>Hieruit volgt dat de rechtbank terecht heeft geconcludeerd dat artikel 2, tweede lid, van het Bvit en de daarop gebaseerde maatregel voldoende basis hebben in een wet in formele zin, namelijk in artikel 11a.1 van de Tw. Artikel 2 van het Bvit valt binnen de reikwijdte van dat artikel. Er is, gelet ook op wat in 4.17 is overwogen, geen aanleiding hierover prejudiciële vragen te stellen aan het Hof.</para>
+        <para>
+          <emphasis role="italic">II. Exceptieve toets van artikel 2 van het Bvit  </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <parablock>
+        <para>Odido betoogt verder dat artikel 2 van het Bvit onverbindend is wegens strijd met artikel 36 van het VWEU, het evenredigheidsbeginsel en het verbod van willekeur. </para>
+        <para>Ten aanzien van artikel 36 van het VWEU (vrij verkeer van goederen) is volgens Odido niet gemotiveerd waarom de beperking noodzakelijk, proportioneel en het minst vergaande alternatief is. Odido verwijst naar arresten van het Hof van 10 juli 1984, Campus Oil (ECLI:EU:C:1984:256), 13 mei 2003, Commissie/Spanje, punt 73 (ECLI:EU:C:2003:272) en 8 november 2012, Commissie/Griekenland, punt 65 (ECLI:EU:C:2012:694). In de toelichting bij het Bvit is niet onderbouwd dat de risico’s die ten grondslag liggen aan de maatregel gevaren opleveren voor het voortbestaan van Nederland. Er is sprake van een grensoverschrijdend effect tussen lidstaten. Als gevolg van de maatregel staat namelijk vast dat Odido van geen enkele vestiging van Huawei of ZTE apparatuur ten behoeve van het kernnetwerk mag aanschaffen. </para>
+        <para>Het Bvit is volgens Odido daarnaast onverbindend omdat het in strijd is met het evenredigheidsbeginsel. Volgens Odido ontbreekt een noodzaak voor een afzonderlijke bevoegdheid in artikel 2 van het Bvit voor het opleggen van de maatregel als die volgens de minister al op basis van artikel 11a.1, vijfde lid, van de Tw kan worden opgelegd. Dat uit het rapport van de Taskforce volgens de rechtbank zou blijken dat het noodzakelijk was dat Mobile Network Operators (MNO’s) worden verplicht alleen gebruik te maken van vertrouwde leveranciers, brengt daarnaast niet automatisch met zich dat ook een amvb gericht op het kunnen opleggen van een dergelijke verplichting noodzakelijk is. Artikel 2 van het Bvit biedt volgens Odido bovendien veel ruimere mogelijkheden dan alleen het opleggen van verplichtingen als de maatregel. Het biedt ook grond om deelbesluiten te stapelen en maatregelen voor het vaste netwerk van Odido op te leggen, terwijl daarvoor de noodzaak niet vaststaat. De bepaling is verder onnodig streng, omdat deze dwingend is geformuleerd en geen beoordelingsruimte kent. </para>
+        <para>Het Bvit is volgens Odido ten slotte onverbindend omdat het in strijd is met het verbod van willekeur. Alleen MNO’s dienen onder grote tijdsdruk ingrijpende maatregelen te nemen, terwijl andere vitale sectoren waarin ook gebruikgemaakt wordt van apparatuur van Chinese leveranciers als Huawei, zoals havens, de financiële sector en overheidsdiensten, daaraan niet worden onderworpen. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <parablock>
+        <para>De minister bestrijdt dat Odido een beroep kan doen op artikel 36 van het VWEU. Het enkele feit dat Odido van geen enkele vestiging van Huawei of ZTE apparatuur mag aanschaffen betekent volgens de minister niet dat het interstatelijke effect een gegeven is. De onderbouwing dat daarvan sprake is, ontbreekt vooralsnog. Als Odido al een beroep toekomt op artikel 36 van het VWEU kan dat volgens de minister bovendien niet slagen. Het Bvit vindt zijn rechtvaardiging in het beschermen van de openbare veiligheid en openbare orde. Die gronden vormen een rechtvaardiging voor een beperking van het vrij verkeer van goederen. In de twee arresten uit 2003 en 2012 die Odido heeft aangehaald, heeft het Hof erkend dat het nastreven van algemene belangen die betrekking hebben op de openbare orde en de openbare veiligheid een beperking op de uitoefening van fundamentele vrijheden kan rechtvaardigen. </para>
+        <para>Verder is in dit geval volgens de minister gekozen voor het opstellen van een afzonderlijke amvb vanuit een oogpunt van rechtszekerheid en legaliteit. Met het Bvit is sprake van een duidelijke en voor Odido (vooraf) kenbare grondslag voor de maatregel. Van het stapelen van deelbesluiten is geen sprake. Er zijn in de tussentijd namelijk geen aanvullende maatregelen op basis van artikel 2 van het Bvit genomen. Artikel 2 van het Bvit is volgens de minister ook niet onnodig streng. Gelet op de tekst en strekking ervan komt de minister beoordelingsruimte toe. Alleen wanneer dit noodzakelijk wordt geacht, kunnen maatregelen worden opgelegd. In deze noodzakelijkheidstoets is al verdisconteerd dat minder vergaande maatregelen (waaronder de maatregelen als bedoeld in de Regeling veiligheid en integriteit telecommunicatie) de risico’s onvoldoende beheersen. </para>
+        <para>Het Bvit is, aldus de minister, ten slotte weliswaar beperkt tot de kritieke onderdelen van mobiele netwerken, maar daarvoor bestaan gegronde redenen, die zijn gelegen in de gesignaleerde veiligheidsrisico’s en de afbakening van de te beschermen belangen. De minister verwijst naar het TNO-rapport. Odido heeft niet duidelijk gemaakt hoe andere sectoren zich laten vergelijken met de telecomsector of welke type veiligheidsmaatregelen in die sectoren al zijn getroffen. Dat in andere sectoren ook vaak gebruikgemaakt wordt van Chinese leveranciers kan zo zijn, maar van een verbod op het gebruik van Chinese apparatuur als zodanig is geen sprake. De reikwijdte van het verbod is afhankelijk van de precieze dreiging, de te beschermen belangen en met welke maatregelen het risico mogelijk kan worden beheerst. Dat is maatwerk, geen willekeur, aldus de minister.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>Het College overweegt dat een rechter een algemeen verbindend voorschrift dat geen wet in formele zin is, in een zaak over een besluit dat op dat voorschrift gebaseerd is, kan toetsen op rechtmatigheid. Daarbij gaat het om de vraag of het voorschrift in strijd is met geschreven of ongeschreven hoger recht. De bestuursrechter toetst aan algemene rechtsbeginselen op de wijze zoals het College heeft uiteengezet in zijn uitspraak van <?linebreak?>26 maart 2024 (ECLI:NL:CBB:2024:190). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4</nr>
+      <para>Het gaat in dit geval om het toetsen op rechtmatigheid van artikel 2, tweede lid en onder b, van het Bvit. Het College zal beoordelen of dat artikel in strijd is met achtereenvolgens 1) artikel 36 van het VWEU, 2) het evenredigheidsbeginsel en 3) het verbod van willekeur. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">(1) Artikel 36 van het VWEU</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5</nr>
+      <para>In artikel 34 van het VWEU is bepaald dat kwantitatieve invoerbeperkingen en alle maatregelen van gelijke werking tussen de lidstaten verboden zijn.</para>
+      <para />
+      <parablock>
+        <para>In artikel 36 van het VWEU is, voor zover van belang, bepaald dat de bepalingen van artikel 34 geen beletsel vormen voor verboden of beperkingen van invoer, welke gerechtvaardigd zijn uit hoofde van bescherming van de openbare veiligheid. Deze verboden of beperkingen mogen echter geen middel tot willekeurige discriminatie noch een verkapte beperking van de handel tussen de lidstaten vormen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.6</nr>
+      <parablock>
+        <para>Het College laat in het midden of de maatregel een interlidstatelijk effect heeft dat door de artikelen 34 en 36 van het VWEU wordt beheerst. Zelfs als daarvan moet worden uitgegaan, slaagt het beroep dat Odido op artikel 36 van het VWEU heeft gedaan namelijk om de volgende redenen niet. In de toelichting op het Bvit (Staatsblad 2019/457, p. 9) is vermeld dat de geconstateerde spionagerisico’s leidden tot de noodzaak de in de amvb mogelijk gemaakte maatregelen op te leggen om de risico’s voor de veiligheid van de netwerken goed te kunnen beheersen. </para>
+        <para>Dat sprake is van een werkelijke en genoegzaam ernstige bedreiging die een fundamenteel belang van de samenleving kan aantasten, volgt uit de waarschuwingen van de inlichtingen- en veiligheidsdiensten. Misbruik van producten en diensten van leveranciers in de telecomsector biedt volgens die diensten statelijke actoren spionagemogelijkheden ten aanzien van vertrouwelijke bedrijfs- en overheidsinformatie, persoonsgegevens en andere gevoelige informatie. Daarmee kan de nationale veiligheid van Nederland, en dus in algemene zin de openbare veiligheid, in gevaar komen. Dit levert een rechtvaardigingsgrond op om het vrij verkeer van goederen te beperken. Anders dan Odido veronderstelt, is daarvoor niet vereist dat het voortbestaan van Nederland in zijn geheel op het spel staat. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">(2) Evenredigheidsbeginsel </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.7</nr>
+      <parablock>
+        <para>Zoals het College in zijn uitspraak van 26 maart 2024 (ECLI:NL:CBB:2024:190, onder 6.5) heeft overwogen, is, voor besluiten, inhoudende algemeen verbindende voorschriften, het evenredigheidsbeginsel gecodificeerd in artikel 3:1, eerste lid, aanhef en onder a, in verbinding met artikel 3:4, tweede lid, van de Awb, met de toevoeging “voor zover de aard van de besluiten zich daartegen niet verzet”.</para>
+        <para>Bij de toetsing van een algemeen verbindend voorschrift, in dit geval artikel 2 van het Bvit, aan het evenredigheidsbeginsel, heeft de rechter niet tot taak om de waarde of het maatschappelijk gewicht dat aan de betrokken belangen moet worden toegekend, naar eigen inzicht vast te stellen. De intensiteit van de rechterlijke beoordeling van een algemeen verbindend voorschrift is afhankelijk van onder meer de beslissingsruimte die het vaststellend orgaan heeft, gelet op de aard en de inhoud van de vaststellingsbevoegdheid en de daarbij te betrekken belangen. Die beoordeling kan materieel terughoudend zijn als bij het nemen van de beslissing politiek-bestuurlijke afwegingen kunnen worden of zijn gemaakt. Wat de in acht te nemen belangen en de weging van die belangen betreft, geldt dat de beoordeling daarvan intensiever kan zijn als daarbij fundamentele rechten aan de orde zijn.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.8</nr>
+      <para>Het College onderschrijft het oordeel van de rechtbank dat artikel 2 van het Bvit noodzakelijk is om het doel van beheersing van de risico’s voor veiligheid en integriteit van netwerk en diensten te bewerkstelligen. Op die grond is artikel 2 van Bvit niet, zoals Odido stelt, in strijd met artikel 3:4, tweede lid, van de Awb. Het Bvit is gebaseerd op een rapport van TNO over de noodzaak om aanbieders van mobiele telecommunicatienetwerken te verplichten om in de kritieke onderdelen van hun netwerken uitsluitend gebruik te maken van zogenoemde vertrouwde leveranciers. Aanleiding voor dit rapport waren waarschuwingen van de inlichtingen- en veiligheidsdiensten dat de nationale veiligheid in het geding is. Het Bvit – waarvan de essentie in artikel 2 is opgenomen – voorziet erin dat een specifieke verplichting zoals hier aan de orde wordt opgelegd, als de risico’s voor veiligheid en integriteit dat vragen. Of daarvan sprake is, is ter beoordeling van de minister. Er is dus wel degelijk voorzien in beoordelingsruimte. Ook gaat artikel 2 uit van een per geval concrete beoordeling. Zoals het College onder 4.25 heeft overwogen, is van het creëren van een dubbele bevoegdheid naast die van artikel 11a.1, vijfde lid, van de Tw geen sprake. Het argument van Odido dat artikel 2 van het Bvit overbodig en dus niet noodzakelijk is gaat niet op. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">(3) Verbod van willekeur</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.9</nr>
+      <para>Artikel 2 van het Bvit is naar het oordeel van het College ten slotte niet in strijd met het verbod van willekeur. Het geldt voor alle telecomaanbieders. Odido heeft niet concreet onderbouwd dat in andere sectoren waarbinnen ook gebruikgemaakt wordt van Chinese apparatuur sprake is van soortgelijke signalen en een actueel dreigingsbeeld waartegen op soortgelijke wijze zou kunnen en moeten worden opgetreden. Binnen de telecomsector is sprake van risico’s die aanpak behoeven. Op basis van artikel 2 van het Bvit dient bij het opleggen van een verplichting aan een telecomaanbieder steeds en elke keer opnieuw te worden bezien of daartoe noodzaak bestaat, voor welke onderdelen binnen het netwerk deze moet worden opgelegd, wat de te beschermen belangen zijn en met welke maatregelen het risico mogelijk kan worden beheerst. Dat is, zoals de minister terecht heeft opgemerkt, maatwerk en geen kwestie van willekeur. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.10</nr>
+      <para>De hogerberoepsgrond slaagt niet. 	 </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">III. Is de maatregel in strijd met artikel 1 van het EP bij het EVRM?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <parablock>
+        <para>Odido betoogt dat de rechtbank niet heeft onderkend dat de maatregel in strijd is met artikel 1 van het EP bij het EVRM. Zij voert daartoe verschillende argumenten aan.</para>
+        <para>Odido betoogt ten eerste dat, als artikel 11a.1 van de Tw onvoldoende wettelijke grondslag vormt voor het Bvit en de maatregel, niet is voldaan aan de legaliteitstoets. De eigendomsregulering is dan niet bij wet voorzien. Ook was voor Odido niet voorzienbaar dat een verplichting als hier aan de orde zou kunnen worden opgelegd. De rechtbank is ten onrechte voorbijgegaan aan haar verwijzing naar het arrest van de Hoge Raad van <?linebreak?>22 juni 1973 (ECLI:NL:HR:1973:AD2208). Verder is de definitie van aanbieders waarvoor de verplichting uit de maatregel geldt zo vaag dat op basis daarvan de reikwijdte van de maatregel gemakkelijk groter kan blijken of worden dan deze momenteel is.</para>
+        <para>Ten tweede is volgens Odido niet voldaan aan de legitimiteitstoets. Zo is niet voldaan aan de proportionaliteitstoets. De minister heeft niet onderbouwd op welke wijze de inmenging plaatsvindt in het algemeen belang en dat deze inmenging een legitiem doel dient. De doelstelling van de maatregel is veel beperkter dan de nationale veiligheid als zodanig. De maatregel ziet namelijk specifiek op het netwerk van Odido. Als al kan worden aangenomen dat het algemeen belang gediend is met de maatregel, staat dit doel niet in verhouding tot de ingrijpendheid ervan. De maatregel ziet verder vooralsnog weliswaar op de vastgestelde kritieke onderdelen van het netwerk, maar dat kan op korte termijn anders zijn. Ook aan de subsidiariteitstoets is volgens Odido niet voldaan. Uit het rapport van TNO blijkt namelijk niet dat niet met een minder ingrijpende maatregel kon worden volstaan. Daarnaar is onvoldoende onderzoek gedaan, zoals uit het rapport zelf blijkt.</para>
+        <para>Ten slotte is volgens Odido niet aan de evenredigheidstoets voldaan. Zij verwijst naar het arrest van het Europees Hof voor de Rechten van de Mens (EHRM) van 16 juni 2022, Ramiz Jafarov tegen Azerbeidzjan (ECLI:CE:ECHR:2022:0616). Er is volgens haar geen sprake van een fair balance tussen de inbreuk op haar eigendomsrecht en het algemeen belang dat met die inbreuk gediend zou worden. Er is sprake van een individuele en buitensporige last. In vergelijking met anderen wordt Odido onevenredig zwaar getroffen. Zij moet als private partij als gevolg van de maatregel een last van tientallen miljoenen euro’s dragen. Voor het bereiken van een fair balance is schadevergoeding dan wel compensatie naar nationaal recht een relevante component is. Daarmee zou een onbalans in het kader van de evenredigheid eventueel nog rechtgetrokken kunnen worden. Odido blijkt geen aanspraak te maken op nadeelcompensatie vanwege de hoge drempelwaarde die de minister hanteert. Dit maakt de last die op Odido rust te meer onevenredig.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <parablock>
+        <para>In het verweerschrift stelt de minister zich op het standpunt dat is voldaan aan de legaliteitstoets. Artikel 2 van het Bvit en daarmee de maatregel konden worden gebaseerd op artikel 11a.1 van de Tw. Het legaliteitsbeginsel verplicht niet tot een in detail omschreven bepaaldheid van de te handhaven norm. Er mag sprake zijn van een zekere vaagheid, bestaande in het bezigen van algemene termen. Bestuursrechtelijke (herstel)maatregelen als de maatregel kunnen worden gebaseerd op open normen. </para>
+        <para>Ook aan de legitimiteitstoets is volgens de minister voldaan. De inmenging vindt alleen plaats in het algemeen belang en dient daarmee een legitiem doel. Bescherming van de nationale veiligheid is een legitieme doelstelling. De maatregel staat in redelijke verhouding tot het ermee beoogde legitieme doel (proportionaliteit) en er zijn geen andere, minder ingrijpende maatregelen mogelijk om ditzelfde doel te bereiken (subsidiariteit). De verplichting is op basis van de analyse van de Taskforce alleen voor de kritieke onderdelen van het netwerk vastgesteld. In het rapport van TNO is uitdrukkelijk gekeken naar andere maatregelen dan het weren van apparatuur en diensten. </para>
+        <para>Verder is volgens de minister aan de evenredigheidstoets voldaan. De maatregel was volgens de minister niet in het geheel niet voorzienbaar voor Odido. Odido voorzag al kort na het verschijnen van het rapport van TNO van 16 mei 2019, dan wel had kunnen voorzien, dat de verplichting zou kunnen worden opgelegd. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>Het College overweegt als volgt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.4</nr>
+      <para>In artikel 1 van het EP bij het EVRM is bepaald dat iedere natuurlijke of rechtspersoon recht heeft op het ongestoord genot van zijn eigendom. Aan niemand zal zijn eigendom worden ontnomen behalve in het algemeen belang en onder de voorwaarden voorzien in de wet en in de algemene beginselen van internationaal recht. Deze bepalingen tasten echter op geen enkele wijze het recht aan dat een Staat heeft om die wetten toe te passen, die hij noodzakelijk oordeelt om het gebruik van eigendom te reguleren in overeenstemming met het algemeen belang of om de betaling van belastingen of andere heffingen of boeten te verzekeren.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.5</nr>
+      <para>Zoals het College in onder meer zijn uitspraak van 17 oktober 2018 (ECLI:NL:CBB:2018:522) heeft overwogen, waarborgt artikel 1 van het EP bij het EVRM het recht op het ongestoord genot van eigendom, beschermt het tegen de ontneming van eigendom en regelt het de mogelijkheid van regulering van eigendom. Artikel 1 van het EP bij het EVRM is van toepassing bij overheidsinmenging in eigendommen. Inmenging kan bestaan uit ontneming of regulering van eigendom. De inmenging moet zijn voorzien bij wet en moet het algemeen belang dienen. Tot slot moet er een redelijk evenwicht (fair balance) bestaan tussen de eisen van het algemeen belang en de bescherming van de fundamentele rechten van het individu. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.6</nr>
+      <para>Niet in geschil is dat met de maatregel sprake is van eigendomsregulering. Odido wordt als gevolg van de maatregel aangetast in het gebruik van haar eigendom (haar mobiele telecommunicatienetwerk), zonder dat de beschikking over het eigendom verloren gaat. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Legaliteitstoets</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.7</nr>
+      <para>Volgens de rechtspraak van het EHRM houdt het vereiste dat de maatregel bij wet moet zijn voorzien in dat de rechtsregel waar de maatregel op is gebaseerd voldoende toegankelijk, precies en voorzienbaar moet zijn. De bevoegdheid van de nationale autoriteiten om het eigendomsrecht te beperken, moet voldoende nauwkeurig zijn vastgelegd, zodat de burger zijn gedrag daar op kan afstemmen. Het EHRM erkent echter dat de nationale wetgever niet ieder concreet geval kan voorzien. De eis “voorzien bij wet” verzet zich dan ook niet tegen open normen die het bestuur en de rechter een zekere discretionaire bevoegdheid laten. In de kern beoogt het vereiste te voorkomen dat bevoegdheden willekeurig kunnen worden uitgeoefend. Doorslaggevend is daarom of een bepaald rechtsgevolg redelijkerwijze door de burger had kunnen worden voorzien (zie bijvoorbeeld de arresten van het EHRM van 9 november 1999, Špaček tegen Tsjechië, punt 54 (ECLI:CE:ECHR:1999:1109JUD002644995) en van 23 september 1998, McLeod tegen Verenigd Koninkrijk, punt 41 (ECLI:CE:ECHR:1998:0923JUD002475594)). </para>
+    </paragroup>
+    <paragroup>
+      <nr>6.8</nr>
+      <parablock>
+        <para>Het College is van oordeel dat aan de legaliteitstoets is voldaan. Het College acht de inmenging in het eigendomsrecht voorzienbaar. Zoals hij onder 4.8 heeft overwogen, is hij van oordeel dat uit de tekst van het toegankelijke artikel 11a.1, eerste lid, van de Tw, in samenhang bezien met de toelichting daarop, (al) voldoende duidelijk blijkt dat onder passende technische en organisatorische maatregelen die telecomaanbieders moeten nemen om risico’s voor de veiligheid en de integriteit van telecomnetwerken en -diensten te beheersen ook maatregelen (kunnen) vallen ter waarborging van de nationale veiligheid in verband met digitale spionage door statelijke actoren. Op basis van artikel 2, tweede lid, van het Bvit, dat (zoals in 4.25 is overwogen) een inkleuring vormt van de bevoegdheid van artikel 11a.1, vijfde lid, van het Tw, kan een verplichting aan telecomaanbieders worden opgelegd om dergelijke maatregelen te nemen.</para>
+        <para>Het College onderschrijft verder het in 3.10 weergegeven oordeel van de rechtbank (en de daaraan ten grondslag liggende motivering) dat de reikwijdte van de maatregel niet onnodig vaag is.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Legitimiteitstoets</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.9</nr>
+      <para>Uit artikel 1 van het EP bij het EVRM volgt verder dat de rechtvaardiging van een inbreuk op het ongestoord genot van eigendom gegrond moet zijn op het algemeen belang. Met betrekking tot de vraag of de maatregel een algemeen doel dient, stelt het College voorop dat de in dit kader te verrichten toets terughoudend dient te zijn. De wetgever heeft op dit gebied een ruime beoordelingsmarge.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.10</nr>
+      <para>Het College is van oordeel dat aan de legitimiteitstoets is voldaan. Misbruik door statelijke actoren van producten en diensten van leveranciers in de telecomsector kan de nationale veiligheid van Nederland in het geding brengen. Hiervoor kan gebruikgemaakt worden van de toegang die deze leveranciers hebben tot netwerken in de telecomsector. De risico’s voor de nationale veiligheid worden significant vergroot als landen met een offensief cyberprogramma gericht tegen Nederlandse belangen op die manier via telecominfrastructuren inlichtingen kunnen verkrijgen. De inmenging in het eigendomsrecht van Odido in de vorm van het opgelegde verbod om bepaalde leveranciers binnen haar netwerk te gebruiken, vindt dus plaats in het algemeen belang, want het verbod strekt ter bescherming van de nationale veiligheid. De maatregel dient daarmee een legitiem doel. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Evenredigheidstoets</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.11</nr>
+      <para>Het College overweegt verder dat een inbreuk op het ongestoord genot van eigendom slechts gerechtvaardigd is als een “fair balance” is getroffen tussen aan de ene kant de algemene belangen die de wettelijke maatregelen dienen en aan de andere kant de bescherming van individuele rechten. Dit vereist een redelijke mate van evenredigheid tussen het te dienen doel en de gekozen middelen. Bij de keuze van de middelen om het algemeen belang te dienen, komt de wetgever een ruime beoordelingsmarge toe. Aan het vereiste van een “fair balance” is niet voldaan als een of meerdere betrokkene(n) een individuele en buitensporige last te dragen hebben als gevolg van de wettelijke maatregelen (zie het arrest van het EHRM van 30 april 2013, Lohuis e.a. tegen Nederland, punt 56 (ECLI:CE:ECHR:2013:0430DEC003726510)).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.12</nr>
+      <para>Het College zal gelet hierop eerst beoordelen of de maatregel in zijn algemeenheid voldoet aan de in het kader van artikel 1 van het EP bij het EVRM te stellen eisen van proportionaliteit. Daarna zal het College ingaan op de vraag of, als gevolg van het toepassen van de maatregel, in het geval van Odido sprake is van een individuele en buitensporige last. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.13</nr>
+      <para>Naar het oordeel van het College is, gelet op de onder 4.8 besproken uit de MvT blijkende achtergrond van de Tw, sprake van een redelijke mate van evenredigheid tussen de te dienen doelstellingen van de Tw en de maatregelen die door deze wet en het Bvit zijn ingevoerd. De bescherming van de nationale en daarmee de openbare veiligheid, zijn dermate zwaarwegende algemene belangen, dat niet kan worden gezegd dat de wetgever met de maatregelen is getreden buiten de hem ter zake toekomende ruime marge bij de beoordeling welke maatregelen noodzakelijk en, mede gezien het ondernemersrisico, aanvaardbaar zijn.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.14</nr>
+      <para>Zoals het College in zijn uitspraak van 17 oktober 2018 (ECLI:NL:CBB:2018:522) heeft overwogen, is van een fair balance geen sprake als sprake is van een individuele buitensporige last voor een betrokkene. Bij de afweging of sprake is van een fair balance zijn alle omstandigheden van het geval van belang. Daarbij is onder meer van belang de voorzienbaarheid (in de zin van de redelijke verwachtingen die een betrokkene kon hebben), de legaliteit van het gebruik dat wordt aangetast, de geleidelijke invoering van de wet, of flankerend beleid bestaat, of enige compensatie door de overheid wordt geboden en of voor knelgevallen een voorziening is getroffen (zie het arrest van het EHRM van 13 januari 2015, Vékony tegen Hungary (ECLI:CE:ECHR:2015:0113JUD006568113)). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.15</nr>
+      <parablock>
+        <para>Van een buitensporige last zou sprake zijn als het profijt dat de samenleving als geheel heeft van de maatregel niet opweegt tegen het nadeel dat het individu (in dit geval: Odido) ervan ondervindt. Daarvan is om de navolgende redenen naar het oordeel van het College geen sprake. Telecomaanbieders konden voorzien dat zij in een zich steeds meer ontwikkelende digitale samenleving geconfronteerd zouden kunnen worden met maatregelen die nodig zijn om (meer hedendaagse) risico’s die de nationale veiligheid kunnen raken, zoals digitale spionage door statelijke actoren, te beheersen. Voor Odido geldt specifiek dat zij kort na het verschijnen van het TNO-rapport van 16 mei 2019 kon dan wel had kunnen voorzien dat de verplichting zou kunnen worden opgelegd producten of diensten van bepaalde leveranciers te verwijderen uit de kritieke onderdelen van haar netwerk. De maatregel was daarmee voorzienbaar. Die voorzienbaarheid is verder vergroot met de inwerkingtreding van het Bvit per december 2019. </para>
+        <para>Er zijn op dit moment drie telecomaanbieders in Nederland. Aan alle telecomaanbieders is een soortgelijke maatregel opgelegd. Odido onderscheidt zich dus in zoverre niet van de andere getroffen telecomaanbieders. </para>
+        <para>Er is voorzien in een compensatieregeling voor door de maatregel veroorzaakte schade die redelijkerwijs niet ten laste van de telecomaanbieders kan worden gelaten. Voor zover Odido daarvoor niet in aanmerking komt, is dat op zichzelf geen reden om de fair balance verstoord te achten. Aan artikel 1 EP bij het EVRM kan niet in alle omstandigheden het recht op een volledige compensatie worden ontleend. Niet ieder vermogensverlies leidt tot de conclusie dat sprake is van een buitensporige last. Hoewel het moeten doorvoeren van de maatregel Odido miljoenen kost en dus in absolute zin sprake is van een fors bedrag, is het voor Odido relatief gezien een laag bedrag. Het College verwijst in dit verband ook naar 9.4-9.6 van deze uitspraak.</para>
+        <para>Het College acht ten slotte van betekenis dat de maatregel mede in het belang is van Odido zelf. Zij heeft er ook zelf (een commercieel) belang bij dat haar netwerk gevrijwaard blijft van digitale spionage door statelijke actoren.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.16</nr>
+      <para>Het College is gelet op het voorgaande van oordeel dat (ook) aan de evenredigheidstoets is voldaan. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.17</nr>
+      <para>De hogerberoepsgrond slaagt niet. 	</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">IV. Is de maatregel in strijd met artikel 36 van het VWEU?</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>7	Ook de hogerberoepsgrond van Odido dat de maatregel in strijd is met artikel 36 van het VWEU slaagt niet. Het College verwijst ter onderbouwing van zijn oordeel naar wat hij onder 5.5 en 5.6 heeft overwogen. Voor de maatregel gaat hetzelfde op als voor artikel 2 van het Bvit.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">V. Is de maatregel in strijd met het zorgvuldigheidsbeginsel?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1</nr>
+      <para>Volgens Odido is de maatregel in strijd met het zorgvuldigheidsbeginsel tot stand gekomen. De maatregel leidt tot een verstoring van het level playing field. Daarnaast was sprake van lange besluitvorming en rechtsonzekerheid. De enkele omstandigheid dat (toen nog) T-Mobile in de gelegenheid is gesteld gedurende het proces input te leveren, betekent niet dat het onderzoek daarom zorgvuldig is te achten. De informatieverstrekking richting haar was niet transparant. Het rapport van TNO schiet verder op cruciale punten tekort. In het rapport is uitgegaan van een niet (altijd) representatief beeld van de al genomen maatregelen van de telecomaanbieders. Het onderzoek is daarnaast in kort tijdsbestek en onder grote tijdsdruk uitgevoerd en niet op alle relevante aspecten uitgewerkt. Het had bovendien een summiere opzet en uitvoering. (Toen nog) T-Mobile is door TNO ook nooit in de gelegenheid gesteld aan te tonen dat de destijds door haar getroffen maatregelen afdoende waren om de risico’s te beheersen. Het onderzoek van TNO was louter een papieren exercitie. Verder heeft de minister niet (voldoende) onderzocht of andere, minder ingrijpende maatregelen mogelijk waren, hoewel daar wel tijd voor was. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2</nr>
+      <parablock>
+        <para>De minister stelt zich op het standpunt dat van strijd met het zorgvuldigheidsbeginsel geen sprake is. Voor de verschillende betrokken telecomaanbieders is op gelijke wijze getoetst of tot het opleggen van de verplichting diende te worden besloten. Daarmee is voorkomen dat één partij met een onevenredig nadeel achterblijft. Van een verstoring van een level playing field is volgens de minister dus geen sprake. Het besluitvormingsproces is volgens de minister complex geweest. De duur ervan is in grote mate bepaald doordat externe adviezen moesten worden ingewonnen, een vervangingstermijn moest worden bepaald en een nadeelcompensatiekader moest worden ontwikkeld. Odido kan niet worden gevolgd in haar stelling dat zij in die periode in rechtsonzekerheid heeft verkeerd. (Toen nog) T-Mobile is namelijk intensief betrokken geweest bij de voorbereiding van de maatregel. Volgens de minister had zij geen belang bij informatie over andere telecomaanbieders. </para>
+        <para>Voor de beoordeling is alleen de veiligheidssituatie met betrekking tot de netwerken van (toen nog) T-Mobile relevant (geweest). Per telecomaanbieder is een analyse uitgevoerd van de door haar reeds getroffen maatregelen. Dat die maatregelen vervolgens in meer algemene zin zijn beschreven in het TNO-rapport waardoor die beschrijving wellicht wat afwijkt van de specifieke situatie van de individuele telecomaanbieders, maakt niet dat het rapport of de daarop gebaseerde besluitvorming daarom onzorgvuldig tot stand is gekomen. De minister erkent dat in het rapport staat dat nu het onderzoek in kort tijdsbestek verricht moest worden, het rapport niet op alle relevante punten uitputtend kan zijn. In het rapport is verder echter ook vermeld dat het uitgangspunt ervan is geweest om de belangrijkste vraagstukken te adresseren die van belang zijn met het oog op de besluitvorming door het kabinet. In het rapport is bovendien vermeld wat de niet uitputtende aspecten zijn. In hoofdstuk 4 van het TNO-rapport is ten slotte uitdrukkelijk gekeken naar andere maatregelen dan het weren van apparatuur en diensten. Geconstateerd is dat minder ingrijpende maatregelen niet volstaan om de geconstateerde risico’s te beheersen. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.3</nr>
+      <parablock>
+        <para>Het College onderschrijft het oordeel van de rechtbank en het hiervoor onder 8.2 weergegeven standpunt van de minister dat van strijd met het zorgvuldigheidsbeginsel geen sprake is. In aanvulling daarop overweegt het College nog als volgt. </para>
+        <para>Het in artikel 3:2 van de Awb neergelegde zorgvuldigheidsvereiste brengt met zich dat in een geval als dit, waarin het bestuursorgaan uit eigen beweging aanleiding heeft gezien om een deskundige te raadplegen met het oog op de vaststelling van de feiten bij een nog te nemen besluit, hij zal moeten nagaan of het door deze deskundige ter zake uitgebrachte advies naar wijze van totstandkoming en inhoud niet zodanige gebreken bevat dat het bestuursorgaan bij zijn besluitvorming hiervan geen gebruik mag maken. </para>
+        <para>In wat Odido heeft aangevoerd, zijn geen aanknopingspunten te vinden die aanleiding geven voor het oordeel dat het rapport van TNO onzorgvuldig tot stand is gekomen. De minister mocht het dan ook aan de maatregel ten grondslag leggen. Zoals de rechtbank terecht heeft overwogen, heeft de minister aan de op hem rustende vergewisplicht voldaan. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.4</nr>
+      <para>De hogerberoepsgrond slaagt niet.  </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">VI. Is de maatregel in strijd met het evenredigheidsbeginsel?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.1</nr>
+      <parablock>
+        <para>Odido betoogt verder dat de rechtbank ten onrechte heeft geconcludeerd dat de maatregel niet in strijd is met het evenredigheidsbeginsel. Volgens Odido is de maatregel niet noodzakelijk, evenwichtig en geschikt. Er is onvoldoende onderzocht in hoeverre andere en of lichtere maatregelen mogelijk zijn om de geconstateerde risico’s te beheersen. De feitelijke uitwerking van de maatregel strookt verder niet met het kennelijke doel daarvan, te weten het beheersen van de risico’s voor de veiligheid en integriteit. De maatregel neemt ook de dreiging (de spionagedreiging vanuit de Chinese staat) zelf niet weg, maar slechts dat waar de dreiging mogelijk tot uiting zou kunnen komen (de kritieke netwerkonderdelen van Huawei en ZTE), maar dan selectief. Dat de maatregel niet doelmatig is, volgt uit het feit dat cyberdreigingen uit China tot op heden nog steeds aan de orde van de dag zijn. </para>
+        <para>Verder is er ten onrechte van uitgegaan dat de maatregel ook in het belang van Odido zelf is.</para>
+        <para>De vraag of de minister is gehouden tot nadeelcompensatie dient daarnaast – anders dan de rechtbank heeft overwogen – in het kader van het besluit waarbij de maatregel is opgelegd te worden besproken en kan niet worden doorgeschoven naar besluitvorming in het ‘compensatiespoor’. Het uitblijven van compensatie maakt dat de nadelige gevolgen voor Odido onevenredig zijn in verhouding tot de met de maatregel te dienen doelen. De door Odido geleden schade die het gevolg is van de maatregel, bestaande uit tientallen miljoenen euro’s, is zodanig groot dat deze zonder dat daarvoor compensatie wordt geboden aan het nemen van dat besluit in de weg staat. Dat Odido niet failliet gaat en de schade geen hoog percentage van de normkosten zou bedragen is niet doorslaggevend. Een reële mogelijkheid voor compensatie ontbreekt. Het ontbreken daarvan maakt de maatregel onrechtmatig. </para>
+        <para>De maatregel grijpt verder diep in op de bedrijfsvoering en ondernemersvrijheid. Ook brengt deze risico’s mee voor het level playing field, het investeringsklimaat en leidt deze tot reputatieschade.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2</nr>
+      <para>De minister stelt zich in het bestreden besluit op het standpunt dat de maatregel in overeenstemming is met het evenredigheidsbeginsel. Er is onderzocht of er andere of lichtere maatregelen mogelijk zijn om risico’s vanwege spionage te beheersen. In het TNO-rapport is geconcludeerd dat alleen door het weren van de twee genoemde leveranciers uit de kritieke onderdelen van het netwerk een aanval “waarschijnlijk” kan worden voorkomen. Die conclusie heeft de minister gevolgd. Tegelijkertijd gaat de maatregel niet verder dan strikt noodzakelijk. De aan Odido opgelegde verplichtingen hebben alleen betrekking op het mobiele netwerk van Odido (dus niet het vaste netwerk) en dan alleen op de kritieke onderdelen daarvan. De door Odido gestelde nadelige gevolgen zijn niet onevenredig in verhouding tot de met de beschikking te dienen doelen, namelijk het beheersen van de risico’s voor de veiligheid van het mobiele netwerk of dienst van Odido die de nationale veiligheid of de openbare orde raken. Daarbij dient volgens de minister te worden aangetekend dat het ook in het belang van Odido is dat haar netwerk of dienst beschermd is tegen spionage. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.3</nr>
+      <para>Het College heeft onder 5.7-5.8 de noodzaak van het algemeen verbindende voorschrift, artikel 2, tweede lid, van het Bvit, al (exceptief) getoetst en geconcludeerd dat die bepaling noodzakelijk is. Het College ziet in wat Odido heeft aangevoerd geen aanleiding om te oordelen dat de maatregel niet noodzakelijk, evenwichtig en geschikt zou zijn. De maatregel is gericht op het beheersen van het veiligheids- en integriteitsrisico. Het verplicht vervangen van daarvoor mogelijke bedreigende netwerkelementen draagt bij aan dat doel. Het College onderkent dat dat de cyberdreiging vanuit China in algemene zin niet heeft beëindigd, maar dat was ook niet het doel van de maatregel. De maatregel is gericht op en draagt bij aan het verminderen van die dreiging en is daarom geschikt. Onder 6.15 heeft het College in het kader van de evenredigheidstoets inzake artikel 1 van het EP bij het EVRM verder al beoordeeld of Odido als gevolg van de maatregel een individuele en buitensporige last heeft te dragen en geconcludeerd dat dat niet het geval is. Voor de toetsing van de opgelegde maatregel aan het evenredigheidsbeginsel van artikel 3:4, tweede lid, van de Awb verwijst het College verder naar wat hij over de verschillende onderdelen al onder 6 heeft overwogen in het kader van de toetsing aan artikel 1 van het EP bij het EVRM. Het College zal alleen nog ingaan op de vraag of de minister tegelijk met de maatregel tot compensatie had behoren over te gaan. Het College beantwoordt die vraag (ook bij de beoordeling of de maatregel zelf aan het evenredigheidsbeginsel voldoet) ontkennend en legt hierna uit waarom. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.4</nr>
+      <para>Zoals de rechtbank terecht heeft overwogen volgt uit de uitspraak van de Afdeling van 22 september 2021 (ECLI:NL:RVS:2021:2899) dat het bestuursorgaan voor de afwikkeling van de schade kan verwijzen naar een nadeelcompensatieregeling, als niet is gebleken of aannemelijk is gemaakt dat schade die het gevolg is van een besluit zodanig groot is dat deze zonder dat daarvoor compensatie wordt geboden aan het nemen van dat besluit in de weg staat en het bestuursorgaan een nadeelcompensatieregeling heeft getroffen op basis waarvan de schadekwestie kan worden afgewikkeld. Van belang is dus dat nadelige gevolgen van het besluit voor de belanghebbende niet onevenredig zijn in verhouding tot de met dat besluit te dienen doelen en dat er een reële mogelijkheid is voor de belanghebbende om nadeelcompensatie te krijgen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.5</nr>
+      <para>Zoals uit wat is opgenomen in 6.12-6.16 kan worden afgeleid, is het College van oordeel dat de nadelige gevolgen van de maatregel voor Odido niet onevenredig zijn in verhouding tot de met dat besluit te dienen doelen. De maatregel strekt tot bescherming van de nationale veiligheid. Verder is niet gesteld of gebleken dat de continuïteit van de bedrijfsactiviteiten van Odido als gevolg van de maatregel in gevaar is gebracht. De minister kon daarom bij het opleggen van de maatregel volstaan met verwijzing naar de nadeelcompensatieregeling.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.6</nr>
+      <para>Daarbij is van belang dat het vereiste dat er een reële mogelijkheid moet zijn om nadeelcompensatie te krijgen, niet inhoudt dat verzekerd moet zijn dat de gestelde schade ook daadwerkelijk zal worden vergoed, zoals Odido aanneemt. Het College verwijst in dit verband naar de uitspraak van de Afdeling van 6 augustus 2014 (ECLI:NL:RVS:2014:2943, onder 16). Wel moet er een reële nadeelcompensatiemogelijkheid zijn. Toen de minister de maatregel aan Odido oplegde, bestond die reële mogelijkheid, namelijk in de vorm van het Nadeelcompensatiekader. Daarin is uiteengezet welke schade binnen het normale ondernemersrisico valt en waarvoor al dan niet nadeelcompensatie wordt uitgekeerd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.7</nr>
+      <para>De hogerberoepsgrond slaagt niet.  </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">VII. Is de maatregel in strijd met het verbod van willekeur?</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>10	Ook de hogerberoepsgrond van Odido dat de maatregel in strijd is met het verbod van willekeur slaagt niet. Het College verwijst ter onderbouwing van zijn oordeel naar wat hij in 5.9 heeft overwogen. In aanvulling daarop overweegt het College het volgende. De minister heeft in het verweerschrift en op de zitting toegelicht dat als een partij van begin af aan een 5G-netwerk zou opbouwen en sprake is van dezelfde risico’s als in deze zaak aan de orde hij de bevoegdheid die is opgenomen in artikel 2, tweede lid, van het Bvit op gelijke wijze zal toepassen. Hij zal dan ook aan die partij een maatregel opleggen. Het Bvit is volgens hem namelijk neutraal wat betreft de generatie van het netwerk. Van verschil in benadering van een partij als Odido en een partij die van begin af aan een 5G-netwerk zou opbouwen is dus geen sprake. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">VIII. Is de lengte van de vervangingstermijn redelijk?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.1</nr>
+      <para>Odido voert daarnaast aan dat de rechtbank ten onrechte heeft geconcludeerd dat de lengte van de vervangingstermijn passend is. Het is disproportioneel dat de vervangstermijn direct is gaan lopen tegelijkertijd met de inwerkingtreding van de maatregel. Volgens Odido was een lichtere maatregel mogelijk, waarbij de uitfasering zou zijn afgestemd op de het einde van de levenscyclus van de apparatuur. (Toen nog) T-Mobile heeft de termijn van […] weliswaar genoemd in haar indicatieve plan van aanpak, maar zij heeft nooit de gelegenheid gehad dat plan definitief te maken. De termijn biedt geen mogelijkheid om tussentijds bij te sturen. Bij de uitfasering heeft Odido veel meer kosten moeten maken dan in het geval meer flexibiliteit zou zijn ingebouwd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.2</nr>
+      <para>In het bestreden besluit stelt de minister zich op het standpunt dat de vervangingstermijn van […] redelijk is. De kritieke onderdelen waarop de verplichting betrekking heeft zijn ontleend aan het rapport van TNO van 16 mei 2019. Daarover heeft T-Mobile toen al de beschikking gekregen, zodat zij vanaf dat moment rekening kon houden met een op die onderdelen betrekking hebbende verplichting en daar op kon anticiperen. Van belang is volgens de minister ook dat de risico’s voor de veiligheid en integriteit die de nationale veiligheid raken met zich brengen dat de producten en diensten op zo kort mogelijke termijn dien(d)en te worden vervangen of beëindigd. Verder is niet aannemelijk gemaakt dat de gestelde termijn niet toereikend zou zijn. T-Mobile heeft een indicatief plan van aanpak ingediend voor de beëindiging of vervanging van de producten of diensten met daarin opgenomen de stappen die nodig zijn om te komen tot die vervanging of beëindiging en de tijd die nodig is om deze stappen te doorlopen zonder dat de continuïteit van de dienstverlening in gevaar komt. Deskundigen van Dialogic en TNO hebben dit plan getoetst op volledigheid en doorlooptijd en hebben geadviseerd over de duur van de vervangingstermijn. Het plan kent redelijke en gebruikelijke uitloop- en onzekerheidsmarges. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.3</nr>
+      <para>In artikel 2, derde lid, van het Bvit is bepaald dat, als een verplichting op grond van het tweede lid betrekking heeft op reeds in gebruik zijnde producten en diensten ten behoeve van de daarbij aangewezen onderdelen, Onze Minister in het belang van de continuïteit van dienstverlening een termijn vaststelt voor het vervangen respectievelijk beëindigen van de betreffende producten en diensten.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.4</nr>
+      <para>Het College stelt voorop dat de vervangingstermijn niet wezenlijk langer mag worden gesteld dan noodzakelijk is om aan de maatregel te kunnen voldoen. Van belang daarbij is of de termijn de continuïteit van de dienstverlening door Odido in de weg staat. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.5</nr>
+      <para>Het College is van oordeel dat de door de minister gestelde vervangstermijn niet onredelijk is. De minister heeft de vervangingstermijn van […] bepaald aan de hand van de in het door T-Mobile ingediende plan van aanpak zelf genoemde termijn. Odido heeft niet bestreden dat bij die termijn al redelijke en gebruikelijke uitloop- en onzekerheidsmarges in acht zijn genomen. De in het plan van aanpak genoemde termijn is vervolgens door Dialogic gevalideerd. Odido heeft, hoewel zij daarvoor ruimschoots de gelegenheid heeft gehad, op geen enkele manier onderbouwd waarom het voor haar binnen de gestelde termijn niet haalbaar is aan de opgelegde verplichting te voldoen zonder dat de continuïteit van haar dienstverlening in het gedrang zou komen. […]. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.6</nr>
+      <para>De hogerberoepsgrond slaagt niet.  </para>
+      <para />
+      <para>12 Odido voert ten slotte aan dat de rechtbank niet op alle aangevoerde argumenten is ingegaan. Het College is van oordeel dat de rechtbank niet verplicht was expliciet op elk aangevoerd argument in te gaan. Odido heeft uit de uitspraak in grote lijnen kunnen opmaken waarom de beroepsgronden en daarbij behorende argumenten geen doel treffen. </para>
+      <para />
+      <para>13 Gelet op al het voorgaande kan de maatregel naar het oordeel van het College in stand blijven. Met de uitspraak van het College staat de maatregel in rechte vast en daarmee de rechtmatigheid ervan. Het College zal daarom hierna, voor zover mogelijk, ook ingaan op de rechtsvragen die spelen bij het verzoek om nadeelcompensatie. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Voorschotbesluit</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>14 Het College is met de rechtbank van oordeel dat de minister het verzoek om nadeelcompensatie van T-Mobile van 30 mei 2022, gelet op wat in punt 77 daarvan is vermeld, mede heeft kunnen opvatten als een verzoek om het toekennen van een voorschot. De beslissing van 23 november 2022 waarbij de minister dat verzoek heeft afgewezen, is daarom een besluit waarbij is geweigerd een voorschot nadeelcompensatie toe te kennen als bedoeld in artikel 4:95 van de Awb. Het College duidt deze beslissing aan als het voorschotbesluit. Zoals onder 2.9 is vermeld, heeft de minister met de brief van 6 juli 2022 de beslissing op het verzoek om nadeelcompensatie als zodanig aangehouden. Dat betekent dat de minister nog niet definitief op het verzoek om nadeelcompensatie heeft beslist.</para>
+      <para />
+      <para>15 Met het voorschotbesluit heeft de minister het verzoek van (toen nog) T-Mobile om een voorschot toe te kennen om twee redenen afgewezen. Ten eerste kan volgens de minister redelijkerwijs niet worden aangenomen dat een betalingsverplichting (in de vorm van nadeelcompensatie) zal worden vastgesteld. In dat kader heeft de minister het verzoek inhoudelijk getoetst aan de voorwaarden voor toekenning van nadeelcompensatie aan de hand van het door hem vastgestelde Nadeelcompensatiekader. <?linebreak?>Als tweede reden voor afwijzing van het verzoek heeft de minister genoemd dat hij als  uitgangspunt hanteert dat hij geen voorschot toekent als de onderneming in kwestie niet in financiële problemen komt als deze eerst zelf de kosten moet dragen. In het geval van (toen nog) T-Mobile is het de minister niet gebleken dat T-Mobile bij het uitblijven van het toekennen van een voorschot in financiële problemen zou komen. </para>
+      <para />
+      <para>16 De omstandigheid dat nog geen (definitief) besluit over het verzoek om nadeelcompensatie is genomen, roept de vraag op naar het belang van partijen bij de toetsing door het College van het voorschotbesluit. De minister heeft, daarnaar gevraagd op de zitting, gesteld dat de eerste afwijzingsgrond waarop het voorschotbesluit is gebaseerd principiële discussiepunten omvat die, als daarover een oordeel wordt gegeven, ook voorspellende betekenis hebben voor het antwoord op de vraag of voor Odido recht bestaat op nadeelcompensatie als zodanig. Ook Odido heeft op de zitting de wens geuit dat het College zich uitlaat over de principiële discussiepunten die betrekking hebben op de eerste afwijzingsgrond. Het College leidt hieruit af dat partijen het oordeel van het College over het voorschotbesluit, voor zover daarin meer principiële oordelen zijn opgenomen over het al dan niet bestaan van een betalingsverplichting van de minister met betrekking tot nadeelcompensatie, als leidend beschouwen voor de beoordeling van het nadeelcompensatieverzoek. Het College zal gelet hierop en met het oog op een definitieve beslechting van het geschil in ieder geval een oordeel geven over de eerste afwijzingsgrond. In dat kader gaat het om de vraag of redelijkerwijs kan worden aangenomen dat een betalingsverplichting voor de minister met betrekking tot de aanspraak op nadeelcompensatie van Odido zal worden vastgesteld. </para>
+      <para />
+      <para>17 Volgens de minister heeft T-Mobile geen aanspraak op nadeelcompensatie. De door T- Mobile opgevoerde schade als gevolg van de maatregel kan namelijk niet als onevenredig worden aangemerkt, omdat deze maar 0,4% van de normkosten bedraagt (schade ten bedrage van 29,7 miljoen euro afgezet tegen normkosten van 8,4 miljard euro). Schade bestaande uit een geringe kostenstijging (kleiner of gelijk aan 2%) valt in de regel onder het normale ondernemersrisico. De minister verwijst ter onderbouwing van zijn standpunt onder meer naar de uitspraak van de Afdeling van 16 februari 2022 (ECLI:NL:RVS:2022:488).</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Kortings- of drempelmethode? </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>18.1</nr>
+      <para>Odido voert aan dat het normale maatschappelijke risico vastgesteld had moeten worden op basis van de kortingsmethode. Die methode leent zich bij uitstek voor toepassing bij nadeel dat bestaat uit kostenstijgingen. Deze methode ondervangt alle complexiteiten en inconsistenties die inherent samenhangen met een drempelmethode op basis van (meerjarige) normkosten. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>18.2</nr>
+      <parablock>
+        <para>Volgens de minister is het gebruik van een kostendrempel zeer gebruikelijk en heeft deze methode de voorkeur boven de kortingsmethode. Het nadeelcompensatierecht</para>
+        <para>draait namelijk in de kern om de vraag welk nadeel vanwege rechtmatig</para>
+        <para>overheidshandelen nog tot de risicosfeer van de benadeelde behoort en welk nadeel</para>
+        <para>voor vergoeding in aanmerking komt. Een drempel geeft bij uitstek invulling aan die</para>
+        <para>risicosfeer van de benadeelde, omdat het de (maximale) blootstelling aan schade</para>
+        <para>relateert aan de bedrijfsvoering van die benadeelde. </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>18.3</nr>
+      <para>De vaststelling van de omvang van het normaal ondernemersrisico is in de eerste plaats aan het bestuursorgaan. Het bestuursorgaan komt daarbij beoordelingsruimte toe. Het College verwijst naar de uitspraak van de Afdeling van 11 september 2019 (ECLI:NL:RVS:2019:3121, onder 14). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>18.4</nr>
+      <parablock>
+        <para>Het College is van oordeel dat de minister een drempelmethode heeft mogen hanteren bij het vaststellen van de omvang van het normaal ondernemersrisico en legt hierna uit waarom. </para>
+        <para>In hoofdstuk 2.5 “Speciale en abnormale last” van het Nadeelcompensatiekader, waarbij de minister bij het nemen van het voorschotbesluit aansluiting heeft gezocht, is uiteengezet dat het nadeel dat de MNO’s zullen ondervinden als gevolg van de opgelegde verplichting, in hoofdzaak zal bestaan uit hogere kosten gedurende de periode waarin de verplichting moet worden uitgevoerd. Dit betekent, zo is verder uiteengezet, dat de omvang van het ondernemersrisico het beste kan worden bepaald door dat nadeel af te zetten tegen het reguliere en representatieve kostenniveau van de ondernemingen. De omvang van het normale kostenniveau is de best bruikbare maatstaf om te bepalen in hoeverre extra kosten, het normale bedrijfsrisico van de ondernemingen te boven gaan. </para>
+        <para>Het College onderschrijft deze uiteenzetting in het Nadeelcompensatiekader en voegt daaraan het volgende toe. In het geval dat een korting zou worden toegepast, zou het verband tussen de omvang van het nadeel en het ondernemersrisico worden losgelaten. Bij gebruik van die methode wordt er namelijk van uitgegaan dat schade voor vergoeding in aanmerking komt, hoe klein die schade in absolute of relatieve zin ook is. Een korting is daarmee vooral een geschikt instrument als al op voorhand duidelijk is dat iedere drempel onevenredig is en het te vergoeden nadeel niet in een relevante relatie staat tot de omvang van kosten van een onderneming. Dat is hier niet aan de orde. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>18.5</nr>
+      <para>De hogerberoepsgrond slaagt niet. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Heeft de minister de normkosten op juiste wijze vastgesteld?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>19.1</nr>
+      <parablock>
+        <para>Odido voert daarnaast aan dat de rechtbank ten onrechte heeft geoordeeld dat de minister bij het vaststellen van de relevante normkosten in redelijkheid de kosten van de totale Nederlandse T-Mobile-groep heeft kunnen betrekken. De schade als gevolg van de maatregel manifesteert zich niet op dat niveau. Het is mogelijk de kosten aan een specifiek bedrijfsonderdeel toe te rekenen, namelijk die van het mobiele netwerk. Dat dit kan volgt uit uitspraken van de Afdeling van 21 juni 2006 (ECLI:NL:RVS:2006:AX9047) en <?linebreak?>11 september 2019 (ECLI:NL:RVS:2019:3121). De uitspraak van de Afdeling van <?linebreak?>13 maart 2013 (ECLI:NL:RVS:2013:BZ3968), waarnaar de rechtbank heeft verwezen, leent zich niet voor toepassing in dit geval. Anders dan in die zaak is bij Odido namelijk wel sprake van ondernemingen die in economische en juridische zin zelfstandige entiteiten zijn. </para>
+        <para>De rechtbank koppelt volgens Odido verder op oneigenlijke wijze de vervangingstermijn van […] aan het vaststellen van de normkosten. Odido maakt jaarlijks kosten en moet deze ook jaarlijks in haar winst verdisconteren. De implementatiekosten van de maatregel hebben niets te maken met de reguliere kosten die Odido zonder de maatregel gedurende de vervangingstermijn van […] maakt. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>19.2</nr>
+      <para>De minister stelt zich op het standpunt dat uit relevante rechtspraak volgt dat kortingen en drempels moeten worden toegepast op het niveau van het moederbedrijf, als een onderneming niet in zowel organisatorische, economische als juridische zin een zelfstandige entiteit vormt. De minister heeft daarbij onder meer verwezen naar de uitspraken van de Afdeling van 3 juli 2013 (ECLI:NL:RVS:2013:122), 12 oktober 2016 (ECLI:NL:RVS:2016:2677) en 7 oktober 2020 (ECLI:NL:RVS:2020:2382). De normkosten betreffen in dit geval volgens de minister de gemiddelde jaarlijkse kosten van de onderneming over een periode van […], vermenigvuldigd met de vervangingsstermijn van […] waarin de maatregel voorziet. Odido heeft, aldus de minister, de gehele termijn de tijd om de maatregel uit te voeren en zij kan, desgewenst, deze kosten over de hele termijn “uitsmeren” en de feitelijke uitvoering van de maatregel zo veel mogelijk in lijn laten lopen met haar reguliere investerings- en onderhoudscyclus voor netwerkmaterieel. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>19.3</nr>
+      <parablock>
+        <para>Het College is met de rechtbank van oordeel dat de minister de normkosten terecht heeft  berekend over de kosten van (wat toen nog) de gehele Nederlandse T-Mobile-groep (was geheten). Naar het oordeel van het College dient de beoordeling van de omvang van het normaal ondernemersrisico te geschieden op concernniveau. Het gaat namelijk om de vraag of de kosten vanwege de maatregel buitensporig zijn in verhouding tot de totale kosten die de <?linebreak?>T-Mobile groep (heeft ge)maakt. Het gaat daarbij ook om kosten die in mindere mate of niets te maken hebben met mobiele netwerkdiensten.  </para>
+        <para>Het voorgaande zou alleen anders zijn als het bedrijfsonderdeel “Netwerk (mobiel en vast)” of (wat toen nog) T-Mobile Netherlands B.V. (was geheten) een zelfstandige entiteit vormt en in zowel economische als in juridische zin geen onlosmakelijk onderdeel zou zijn van het moederbedrijf. De minister heeft (in verweer in beroep) concreet uiteengezet waarom dat niet het geval is. Odido heeft die uiteenzetting niet aan de hand van objectieve, verifieerbare stukken weersproken. </para>
+        <para>De twee uitspraken van de Afdeling waarnaar Odido heeft verwezen, kunnen haar daarnaast niet baten. Daaruit kan namelijk niet worden afgeleid dat de normkosten steeds moeten worden bepaald aan de hand van de kosten van een specifiek bedrijfsonderdeel.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>19.4</nr>
+      <parablock>
+        <para>Het College is verder met de rechtbank van oordeel dat de minister de normkosten terecht over een periode van […] heeft berekend. De maatregel moet over een periode van […] worden geïmplementeerd, zodat Odido […] de tijd heeft om alle kosten van de maatregel te maken. De kosten voor haar zijn dus gedurende een periode van […] hoger. Het is daarom reëel de kosten die zijn gemaakt gedurende die […] te vergelijken met de kosten die Odido gedurende een normale periode maakt. </para>
+        <para>Dat de overgangstermijn is gekozen vanuit de optiek van de continuïteit van de bedrijfsvoering en niet vanuit die van kostenoptimalisatie maakt dit niet anders. Datzelfde geldt voor de omstandigheid dat niet alle kosten (zoals vervroegde afschrijvingen) verspreid kunnen worden. Staan blijft namelijk dat Odido gedurende de gehele termijn van […] meerkosten maakt.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>19.5</nr>
+      <para>De hogerberoepsgrond slaagt niet. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Normale maatschappelijke ontwikkeling</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>20.1</nr>
+      <para>Odido voert aan dat de rechtbank haar ten onrechte niet is gevolgd in haar standpunt dat de maatregel geen normale maatschappelijke ontwikkeling is en dat de met de maatregel verband houdende kosten dus niet behoren tot haar normale maatschappelijk risico. De maatregel lag volgens Odido niet in de lijn der verwachtingen. Het gaat om een preventieve maatregel op basis van een (geo)politieke wens die primair is ingegeven door de nationale veiligheid en het algemeen belang. </para>
+    </paragroup>
+    <paragroup>
+      <nr>20.2</nr>
+      <para>De minister stelt zich op het standpunt dat uit de uitspraak van de Afdeling van 11 februari 2015 (ECLI:NL:RVS:2015:336) volgt dat een drempel van 2% ook toegepast kan worden als geen sprake is van een normale maatschappelijke ontwikkeling.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>20.3</nr>
+      <parablock>
+        <para>Het College stelt vast dat de rechtbank zich niet heeft uitgelaten over het antwoord op de vraag of de maatregel is aan te merken als een normale maatschappelijke ontwikkeling. Daartoe bestond ook geen aanleiding. Uit de door de minister aangehaalde uitspraak van de Afdeling van 11 februari 2015 en die van 2 oktober 2019 (ECLI:NL:RVS:2019:3327, onder 11) volgt dat in omgevingsrechtelijke nadeelcompensatie- en planschadekwesties de 2%-drempel een minimumforfait is dat altijd geldt, ook als de schadeveroorzakende ontwikkeling niet als normaal kan worden beschouwd. </para>
+        <para>Het College is van oordeel dat de minister in dit geval een standaard (bagatel)drempel van 2% als normaal ondernemersrisico heeft mogen toepassen als minimumforfait. Het toepassen van drempels is niet voorbehouden aan het omgevingsrecht. Aan de beantwoording van de vraag of (in het Nadeelcompensatiekader) een kostendrempel van 4% tot uitgangspunt kon worden genomen wordt daarom niet toegekomen.</para>
+        <para>Naar analogie van de aangehaalde uitspraken van de Afdeling doet het antwoord op de vraag of de maatregel als een normale maatschappelijke ontwikkeling is te beschouwen bij toepassing van een standaard drempel van 2% niet ter zake. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>20.4</nr>
+      <para>De hogerberoepsgrond slaagt niet.   </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Vertrouwensbeginsel</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>21.1</nr>
+      <parablock>
+        <para>Odido voert verder aan dat de rechtbank ten onrechte haar beroep op het</para>
+        <para>vertrouwensbeginsel heeft afgewezen. De rechtbank is er volgens Odido ten onrechte van uitgegaan dat ten tijde van het eerste consultatiedocument voor het Nadeelcompensatiekader  al duidelijk was dat er een drempel zou worden toegepast op basis van normkosten. Dat was toen echter nog de vraag. Het gewekte vertrouwen is bovendien niet pas gewekt ten tijde van of door dat consultatiedocument. Ook bij eerdere en latere gelegenheden zijn ondubbelzinnige uitlatingen gedaan op basis waarvan bij Odido de gerechtvaardigde indruk is gewekt dat er daadwerkelijk budget beschikbaar was dat gebruikt zou worden om aan de MNO’s uit te keren voor de kosten. Zo is onder meer tijdens een overleg op 28 juni 2019 door Directeur-Generaal drs. F.W. Vijselaar (Vijselaar) aangegeven dat ervoor gezorgd zou worden dat de MNO’s gecompenseerd zouden worden voor eventuele schade die zij als gevolg van een mogelijk verbod zouden lijden. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>21.2</nr>
+      <para>De minister bestrijdt dat hij aan (toen nog) T-Mobile heeft toegezegd dat het nadeel, ongeacht de omvang daarvan, zou worden vergoed. Juist om hierover op voorhand zo veel mogelijk helderheid te geven is het Nadeelcompensatiekader opgesteld. Over de wijze waarop de minister de bevoegdheid tot het beslissen over nadeelcompensatie zou toepassen, is geen andersluidende toezegging gedaan. Alleen daarom al kan er geen gerechtvaardigd vertrouwen zijn gewekt. Het verdraagt zich bovendien niet met de aard van het nadeelcompensatierecht dat een volledige schadeloosstelling – zonder correctie voor het normaal ondernemersrisico – zou worden toegekend vanwege rechtmatig overheidshandelen. Dit geldt, aldus de minister, te meer nu de (informatie)veiligheid van een telecommunicatienetwerk en de daarmee gemoeide kosten tot de verantwoordelijkheid behoren van de eigenaar van dat netwerk.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>21.3</nr>
+      <para>Zoals het College in zijn uitspraak van 14 januari 2025 (ECLI:NL:CBB:2025:6) heeft overwogen is voor een geslaagd beroep op het vertrouwensbeginsel vereist dat de betrokkene aannemelijk maakt dat van de zijde van de overheid toezeggingen of andere uitlatingen zijn gedaan of gedragingen zijn verricht waaruit de betrokkene in de gegeven omstandigheden redelijkerwijs kon en mocht afleiden of, en zo ja, hoe het bestuursorgaan in een concreet geval een bevoegdheid zou uitoefenen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>21.4</nr>
+      <parablock>
+        <para>Het College is van oordeel dat Odido geen geslaagd beroep op het vertrouwensbeginsel toekomt en neemt hierbij het volgende in aanmerking. </para>
+        <para>In het eerste consultatiedocument van het Nadeelcompensatiekader van 19 maart 2020 waarnaar Odido verwijst, is tot uitgangspunt genomen dat een drempelmethodiek zou worden toegepast. Consultatievraag 2 in dit document had betrekking op hoe deze drempel zou worden bepaald. Dat (toen nog) T-Mobile in haar reactie op dit document heeft geageerd tegen het toepassen van een drempel, betekent niet dat zij erop mocht vertrouwen dat zij in haar standpunt zou worden gevolgd. </para>
+        <para>In de begeleidende brief van 3 april 2020 bij het eerste consultatiedocument is bovendien vermeld: “Uit het tussenproduct kan niet op voorhand enige aanspraak op nadeelcompensatie worden afgeleid”. </para>
+        <para>Van een concrete toezegging door of namens de minister dat (toen nog) T-Mobile hoe dan ook nadeelcompensatie zou ontvangen vanwege de maatregel is verder geen sprake. Uit het gepresenteerde overzicht vanaf punt 7.3 in het aanvullende bezwaarschrift van 1 februari 2023 waarnaar Odido heeft verwezen, blijkt slechts dat aan de zijde van de minister op zichzelf geen onwil bestond om nadeelcompensatie toe te kennen en dat er bereidheid bestond daarvoor budget beschikbaar te stellen, maar dat dit alles wel binnen de geldende juridische kaders, waaronder het staatssteunrecht, moest passen. Aan (toen nog) T-Mobile is slechts toegezegd dat niet op voorhand enige aanspraak op nadeelcompensatie vanwege de maatregel wordt uitgesloten. Dat gelet op de documenten “Verslag van de Taskforce Economische Veiligheid (TFEV) van 14 oktober 2020” en “Nota van de TFEV van 14 oktober 2020” intern mogelijke budgettaire effecten vanwege de maatregel in acht zijn genomen, betekent niet dat aan T-Mobile een toezegging in de door haar bedoelde zin is gedaan.  </para>
+        <para>De enkele verklaring op de zitting dat Vijselaar tijdens het overleg van 28 juni 2019 zou hebben gezegd “ervoor te gaan zorgen dat (toen nog) T-Mobile gecompenseerd wordt”, is niet voldoende. De minister heeft op de zitting bovendien verklaard dat hij bij Vijselaar navraag heeft gedaan, maar dat Vijselaar heeft aangegeven zich niet te kunnen herinneren wat door Odido wordt gesteld.   </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>21.5</nr>
+      <para>De hogerberoepsgrond slaagt niet. </para>
+      <para />
+      <para>22 Het door T-Mobile in het verzoek van 30 mei 2022 opgevoerde schadebedrag bedraagt (afgerond naar boven) 0,4% van de normkosten (29,7 miljoen euro afgezet tegen de normkosten van 8,4 miljard euro) en blijft daarmee onder de (bagatel)drempel van 2%. De minister heeft in het voorschotbesluit terecht geconcludeerd dat daarom al redelijkerwijs niet kan worden aangenomen dat een verplichting tot betaling zal worden vastgesteld. De minister heeft om die reden al kunnen weigeren een voorschot aan (toen nog) T-Mobile te verlenen. </para>
+      <para>In aanvulling daarop merkt het College nog op dat Odido op de zitting heeft verklaard dat het volledige schadebedrag vermoedelijk circa 3 miljoen euro hoger uitvalt dan oorspronkelijk is begroot en waarom in het verzoek van 30 mei 2022 was verzocht (32,7 miljoen euro tegenover 29,7 miljoen euro). Zelfs als van dat hogere schadebedrag moet worden uitgegaan, bedraagt het nog steeds (afgerond naar boven) circa 0,4% van de normkosten (van in totaal 8,4 miljard euro) en wordt nog steeds niet boven de 2% drempel uitgekomen. De verwachting is dan ook dat als Odido een (aanvullende) definitieve aanvraag om nadeelcompensatie gebaseerd op dat (hogere) bedrag bij de minister zou indienen, de minister het verzoek zal kunnen afwijzen onder verwijzing naar de uitspraak van het College in deze zaak. </para>
+      <para />
+      <para>23 Het College vertrouwt erop, gelet op wat op de zitting is besproken en gelet op wat hiervoor is overwogen, dat het geschil over de aanspraak van Odido op nadeelcompensatie wegens de maatregel met zijn oordeel over (de eerste afwijzingsgrond inzake) het voorschotbesluit definitief is beslecht. Het College gaat ervan uit dat Odido geen (aanvullende) definitieve aanvraag om nadeelcompensatie gebaseerd op het volledige schadebedrag bij de minister zal indienen en dat de minister dus niet alsnog een besluit op het (aangehouden) verzoek om nadeelcompensatie zal hoeven te nemen. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Kostenbesluit</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>24 Het College beschouwt het kostenbesluit om proceseconomische redenen als een aanvulling op het voorschotbesluit en daarmee als een besluit waarop het hoger beroep op basis van artikel 6:19, eerste lid, in samenhang bezien met artikel 6:24 van de Awb van rechtswege mede betrekking heeft.  </para>
+      <para />
+      <para>25 Het College stelt vast dat in hoofdstuk 4 van het Nadeelcompensatiekader onder het kopje “6. Redelijke kosten ter voorkoming of vaststelling van schade” is verwezen naar de artikelen 4:129 van de Awb (in werking getreden na het opleggen van de maatregel) en 6:96 van het Burgerlijk Wetboek (BW).</para>
+      <para />
+      <parablock>
+        <para>Artikel 4:129 van de Awb luidt, voor zover van belang, als volgt:</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>“Indien het bestuursorgaan een vergoeding als bedoeld in artikel 4:126 toekent, vergoedt het tevens:</para>
+      </parablock>
+      <para>a. […];</para>
+      <para>b. redelijke kosten ter zake van door een derde beroepsmatig verleende rechtsbijstand of andere deskundige bijstand bij de vaststelling van de schade;</para>
+      <para>c. […]; </para>
+      <para>d. de wettelijke rente vanaf de ontvangst van de aanvraag, of indien de schade op een later tijdstip ontstaat, vanaf dat tijdstip.</para>
+      <para />
+      <parablock>
+        <para>Artikel 4:126, eerste lid, van de Awb luidt als volgt:</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>“Indien een bestuursorgaan in de rechtmatige uitoefening van zijn publiekrechtelijke bevoegdheid of taak schade veroorzaakt die uitgaat boven het normale maatschappelijke risico en die een benadeelde in vergelijking met anderen onevenredig zwaar treft, kent het bestuursorgaan de benadeelde desgevraagd een vergoeding toe.”</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Artikel 6:96 van het BW luidt, voor zover van belang, als volgt:</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>“1 Vermogensschade omvat zowel geleden verlies als gederfde winst.</para>
+      </parablock>
+      <para>2 Als vermogensschade komen mede voor vergoeding in aanmerking:</para>
+      <para>a. […];</para>
+      <para>b. redelijke kosten ter vaststelling van schade en aansprakelijkheid;</para>
+      <para>c. […].</para>
+      <para>	[…].”</para>
+      <para />
+      <para>26 Uit de aangehaalde bepalingen, meer specifiek de woorden “tevens” en “mede”, volgt (naar analogie) dat als een benadeelde niet in aanmerking komt voor nadeelcompensatie en het daartoe strekkende verzoek moet worden afgewezen, voor die benadeelde ook geen recht bestaat op vergoeding van redelijke kosten ter zake van door een derde beroepsmatig verleende rechtsbijstand of andere deskundige bijstand bij de vaststelling van de schade. Die kosten kunnen dan uitsluitend onverplicht en uit coulance door een bestuursorgaan worden vergoed. </para>
+      <para />
+      <para>27 Uit wat hiervoor bij de bespreking van het voorschotbesluit is overwogen, volgt dat het de verwachting is dat als de minister (alsnog) een besluit zou nemen op een definitieve aanvraag van Odido om nadeelcompensatie hij deze aanvraag zal afwijzen onder verwijzing naar deze uitspraak van het College. Omdat Odido niet in aanmerking komt voor nadeelcompensatie, heeft zij in het verlengde daarvan ook geen recht op vergoeding van de kosten ten bedrage van € 252.870,60 ter zake van door een derde beroepsmatig verleende rechtsbijstand of andere deskundige bijstand bij de vaststelling van de schade waarom bij het verzoek van 30 mei 2022 (ook) is verzocht. </para>
+      <para />
+      <para>28 De minister heeft met het kostenbesluit € 88.387,50 en daarmee een deel van de verzochte kosten van € 252.870,60 aan Odido vergoed. Deze vergoeding is naar het oordeel van het College geheel onverplicht en berust niet op enig beleid. Het College kan daarom niet treden in de beoordeling van het kostenbesluit. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Rentebesluit</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>29 Het College beschouwt het rentebesluit om proceseconomische redenen als een bij het kostenbesluit komende beschikking omtrent de vaststelling van rente waarop het hoger beroep tegen het kostenbesluit op basis van artikel 4:125, eerste lid, van de Awb mede betrekking heeft.  </para>
+      <para />
+      <para>30 Het rentebesluit bouwt voort op het kostenbesluit. Omdat de minister bij het kostenbesluit geheel onverplicht een vergoeding van € 88.387,50 aan Odido heeft toegekend, is hij alleen daarom al niet verplicht ook wettelijke rente toe te kennen over dat aan Odido toegekende bedrag. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Slotsom</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>31 Het College zal de uitspraak van de rechtbank, gelet op wat hij onder 4.13 heeft overwogen, met verbetering van gronden, bevestigen. Het hoger beroep tegen het kosten- en rentebesluit is ongegrond. </para>
+      <para />
+      <para>32 De minister hoeft geen proceskosten te vergoeden.  </para>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College</para>
+    </parablock>
+    <para />
+    <para>- bevestigt de uitspraak van de rechtbank;</para>
+    <para>- verklaart het hoger beroep tegen het kosten- en rentebesluit ongegrond.  </para>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. J.H. de Wildt, mr. M. van Duuren en mr. D. Brugman, in aanwezigheid van mr. W.I.K. Baart, griffier. De beslissing is in het openbaar uitgesproken op 19 februari 2026.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>w.g. J.H. de Wildt						w.g. W.I.K. Baart<?linebreak?></para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

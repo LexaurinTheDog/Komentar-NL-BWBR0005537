@@ -1,0 +1,16 @@
+[
+  {
+    "regulation": "rv",
+    "version": "2026-07-14",
+    "effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 14-07-2026 t/m heden.",
+    "current_evidence": "sources/review-011/rv-current.html",
+    "history_evidence": "sources/review-011/rv-history.html"
+  },
+  {
+    "regulation": "wns",
+    "version": "2024-01-01",
+    "effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 01-01-2024 t/m heden.",
+    "current_evidence": "sources/review-011/wns-current.html",
+    "history_evidence": "sources/review-011/wns-history.html"
+  }
+]

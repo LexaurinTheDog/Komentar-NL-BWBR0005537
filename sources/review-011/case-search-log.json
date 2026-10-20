@@ -1,0 +1,36 @@
+{
+  "checked_at": "2026-10-20T16:01:04.140073+00:00",
+  "scope": "Selective independent re-verification of four existing authorities and fresh local corpus discovery. No new case added.",
+  "official_full_texts_read": [
+    "ECLI:NL:GHSHE:2017:5464",
+    "ECLI:NL:RBDHA:2025:2646",
+    "ECLI:NL:RBMNE:2024:6535",
+    "ECLI:NL:CBB:2026:101"
+  ],
+  "units_without_separate_verified_case": [
+    "art-4:112",
+    "art-4:113",
+    "art-4:114",
+    "art-4:115",
+    "art-4:116",
+    "art-4:117",
+    "art-4:118",
+    "art-4:119",
+    "art-4:120",
+    "art-4:121",
+    "art-4:122",
+    "art-4:123",
+    "art-4:124",
+    "art-4:127",
+    "art-4:128",
+    "art-4:130"
+  ],
+  "author_research": "sources/author-4-111-130/case-search-log.json",
+  "local_discovery": "sources/review-011/local-search-log.json",
+  "limitations": [
+    "No exhaustive later-treatment or cassation check.",
+    "Firecrawl authenticated but no credits; direct official HTTP retrieval used.",
+    "GHSHE fiscal historical regime not generalized. RBMNE applies old law, CBB reasons by analogy.",
+    "No commercial annotations used."
+  ]
+}

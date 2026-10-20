@@ -1,0 +1,193 @@
+{
+  "complete": true,
+  "task": "bounded_independent_second_pass",
+  "scope": "Exactly twenty assigned articles 4:92–4:110 including 4:94a.",
+  "reviewed_at": "2026-10-20T15:42:51.304898+00:00",
+  "decisive_date": "2026-10-19",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "art-4:92",
+    "art-4:93",
+    "art-4:94",
+    "art-4:94a",
+    "art-4:95",
+    "art-4:96",
+    "art-4:97",
+    "art-4:98",
+    "art-4:99",
+    "art-4:100",
+    "art-4:101",
+    "art-4:102",
+    "art-4:103",
+    "art-4:104",
+    "art-4:105",
+    "art-4:106",
+    "art-4:107",
+    "art-4:108",
+    "art-4:109",
+    "art-4:110"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "unit_id": "art-4:92",
+      "status": "retained_after_review",
+      "review": "Beide leden en rekenvoorbeeld gelezen. Aanwijzing tussen schulden onderscheiden van verplichte afboeking binnen één schuld; kosten, verschenen rente en hoofdsom/lopende rente juist. Geen zelfstandige kostenbevoegdheid of verzonnen wettelijke restvolgorde. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:93",
+      "status": "retained_after_review",
+      "review": "Alle vijf leden gelezen. Bijzondere wettelijke bevoegdheid, specificatie, terugwerking BW6:129 leden 1/2, beslagbescherming en uitstel onderscheiden. Rollen na verjaring onder 4:104/108 gecontroleerd. Voorbeeld construeert geen algemene inhoudingsbevoegdheid. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:94",
+      "status": "retained_after_review",
+      "review": "Vier leden gelezen. Verleend uitstel tegenover verzoek, blokkade aanmaning/invordering, verplichte duur en mogelijke voorschriften juist. Rente, verrekening, verlenging en intrekking via 4:101/93/111/96 afzonderlijk gecontroleerd. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:94a",
+      "status": "retained_after_review",
+      "review": "Volledige norm en RVS 2022:3143 gelezen. Wettelijk afwijkingsvoorbehoud, onevenredige invorderingsgevolgen en discretionaire omvang juist. Historische inburgeringsregels niet als huidig recht gebruikt; betalingsregeling niet als absolute uitsluiting. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:95",
+      "status": "retained_after_review",
+      "review": "Zes leden gelezen. Redelijke verwachting en voorbehoud; berekeningswijze en afwijkende termijn; verplichte voorschotverrekening tegenover terugvorderingsbevoegdheid; afgeleide dwangbevelbevoegdheid en voorschriften juist. Voorbeeld 2000/1600/400 klopt. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:96",
+      "status": "corrected",
+      "review": "Twee leden en drie gronden gelezen. Causale eis bij gegevensfout en beperkte opschorting onder a/b juist. Verduidelijkt dat schriftelijke kennisgeving wettelijke opschorting doet intreden en de eerst bereikte eindgrens geldt, ook bij afzien van intrekking. Uitstel en voorschot onderscheiden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:97",
+      "status": "retained_after_review",
+      "review": "Hele norm gelezen. Verzuim na ongebruikte betaaltermijn zonder aparte ingebrekestelling; girale creditering, bijzondere rente bij late beschikking en ontbreken automatische schorsing door bezwaar juist. Voorbeeld gebruikt geen fictieve vroege verzuimdatum. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:98",
+      "status": "corrected",
+      "review": "Drie leden en BW6:119/120/125 gelezen. Jaarlijkse kapitalisatie na afloop van een jaar verduidelijkt; geen dagelijkse, maandelijkse of kalenderjaarautomatiek. Grenzen strikt minder dan 20/10 euro en geen aftrekpost; richting schuld en koersuitzondering juist.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:99",
+      "status": "retained_after_review",
+      "review": "Hele norm gelezen. Renteplicht tegenover vaststellingsbeschikking, beide betalingsrichtingen en herleidbare berekening juist. 4:125 vereist dezelfde schuld, bijkomende beschikking en betwisting; tekst claimt geen onbeperkte procedureuitbreiding. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:100",
+      "status": "retained_after_review",
+      "review": "Hele hypothetische verzuimnorm gelezen. Beslis- én betaaltermijn, late toewijzing tegenover afwijzing, wettelijke termijnwijziging en afzonderlijke dwangsomgrondslag juist. Acht plus zes weken alleen als fictief regime. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:101",
+      "status": "retained_after_review",
+      "review": "Hele norm gelezen. Rente tijdens uitstel of rechterlijke schorsing behoudens afwijkende bepaling; bedrag en periode afzonderlijk; niet-invorderbaarheid niet verward met renteloosheid. Vernietiging en bezwaarwerking juist onderscheiden. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:102",
+      "status": "corrected",
+      "review": "Vier leden en gehele RVS 2026:211 gelezen. Teveelbetaling, onterechte afwijzing, toerekenbare gegevensfout en retroactieve correctie juist. Interne spanning in r.o. 6.2 tussen aanvraagdatum, 12+6 weken en genoemde verzuimdatum zichtbaar gemaakt; alleen juridische methode gebruikt.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:103",
+      "status": "retained_after_review",
+      "review": "Hele voorrangsregel gelezen. Andere wettelijke regeling over verzuim/gevolgen nodig; enkele bijzondere schuldbasis onvoldoende. Geen zelfstandige uitsluiting door beleid en geen automatische uitschakeling van betaling/verjaring/invordering. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:104",
+      "status": "retained_after_review",
+      "review": "Beide leden gelezen. Vijf jaar vanaf verstreken betaaltermijn en verlies bestuurlijke invorderingsbevoegdheden juist. Stuiting/verlenging onderscheiden; huidig 5:35 lid 2 apart gelezen zodat oude éénjaarzaken niet als actuele volledige regeling fungeren. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:105",
+      "status": "corrected",
+      "review": "Beide leden, BW3:316 leden 1/2 en HR 2015:817 gelezen. Einde eerste geding door onherroepelijke uitspraak of anderszins explicieter gemaakt voor zesmaandenroute. Erkenning betalingsrecht tegenover erkenning verbeurte en eigen orgaanbrief juist onderscheiden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:106",
+      "status": "retained_after_review",
+      "review": "Alle vier stuitingsmiddelen, 4:112 en gehele HR/CBb-uitspraken gelezen. Invorderingsbeschikking niet gelijkgesteld aan aanmaning. Geschikte inhoud en aannemelijke verzending afzonderlijk; oude dwangsomtermijnen niet algemeen gemaakt. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:107",
+      "status": "retained_after_review",
+      "review": "Hele norm gelezen. Twee schriftelijke mogelijkheden, ondubbelzinnig behoud betalingsrecht, voldoende herkenbare vordering en bewijs van ontvangst juist. Geen overname door bestuurlijke schuldeiser; 4:109/110 gecontroleerd. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:108",
+      "status": "retained_after_review",
+      "review": "Hele norm gelezen. Bestaand wettelijk verrekeningsrecht blijft ondanks verjaring; geen nieuw recht of herleving betalingsrechtsvordering. Rollen tegenover 4:104 lid 2 en uitsluiting door 4:109 juist. Voorbeeld veronderstelt wettelijke bevoegdheid. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:109",
+      "status": "retained_after_review",
+      "review": "Hele norm gelezen. Uitsluiting precies 4:107/108 wanneer beide rollen bestuurlijk zijn; 4:105/106 niet algemeen uitgeschakeld. Geen dwangbevel zonder bevoegdheid; onderscheid vóór/na verjaring en concrete hoedanigheid juist. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:110",
+      "status": "corrected",
+      "review": "Drie leden, BW3:324 en volledige CBb 2019:29 gelezen. Volgende dag, oorspronkelijke termijn met maximum vijf jaar en toegewezen eis onderscheiden. BW3:324 lid 4 toegevoegd: bijkomende veroordelingen verjaren behoudens stuiting/verlenging uiterlijk met executiebevoegdheid hoofdsom.",
+      "resolved": true
+    }
+  ],
+  "limitations": [
+    "Uitsluitend twintig artikelen 4:92–4:110, inclusief 4:94a, inhoudelijk beoordeeld; geen voltooiing van het boek.",
+    "Vier bestaande officiële uitspraken volledig opnieuw gelezen; geen uitputtende recherche naar latere behandeling.",
+    "Bij vijftien toegewezen artikelen geen afzonderlijke voldoende relevante volledig geverifieerde uitspraak toegevoegd; geen uitspraak dat rechtspraak ontbreekt.",
+    "De interne datumspanning in RVS 2026:211 blijft als bronkenmerk zichtbaar; de concrete kalenderdatum draagt geen rekenvoorbeeld of algemene conclusie.",
+    "Oudere dwangsomzaken worden alleen voor begrensde stuitingsvragen gebruikt; later toegevoegd 5:35 lid 2 afzonderlijk gecontroleerd.",
+    "Alle 180 overige geschreven toelichtingen behouden zonder nieuwe inhoudelijke beoordeling.",
+    "388 eenheden buiten de opdracht blijven ongeschreven; technische lengte- en herhalingschecks zijn geen bewijs van juridische kwaliteit.",
+    "Firecrawl had geen credits; directe officiële bronnen gebruikt."
+  ],
+  "changed_ids": [
+    "art-4:96",
+    "art-4:98",
+    "art-4:102",
+    "art-4:105",
+    "art-4:110"
+  ],
+  "unchanged_ids": [
+    "art-4:92",
+    "art-4:93",
+    "art-4:94",
+    "art-4:94a",
+    "art-4:95",
+    "art-4:97",
+    "art-4:99",
+    "art-4:100",
+    "art-4:101",
+    "art-4:103",
+    "art-4:104",
+    "art-4:106",
+    "art-4:107",
+    "art-4:108",
+    "art-4:109"
+  ],
+  "source_preflight": "preflight-result.json",
+  "technical_support": "review-technical.json",
+  "authority_evidence": "sources/review-010/authority-review.json",
+  "every_assigned_unit_read_against_source": true,
+  "outside_scope_commentaries_preserved": true,
+  "whole_book_complete": false
+}

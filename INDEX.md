@@ -16,4 +16,4 @@
 - [Hoofdstuk 4 Bijzondere bepalingen over besluiten](08-deel-08.md) — 25/25
 - [Hoofdstuk 4 Bijzondere bepalingen over besluiten](09-deel-09.md) — 25/25
 - [Hoofdstuk 4 Bijzondere bepalingen over besluiten](10-deel-10.md) — 25/25
-- [Hoofdstuk 4 Bijzondere bepalingen over besluiten](11-deel-11.md) — 13/25
+- [Hoofdstuk 4 Bijzondere bepalingen over besluiten](11-deel-11.md) — 13/14
