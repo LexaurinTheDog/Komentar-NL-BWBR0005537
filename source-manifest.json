@@ -7595,6 +7595,16 @@
     "bytes": 3265
   },
   {
+    "path": "sources/review-027/prior-preflight-result.json",
+    "sha256": "7d8b86400eabffd4f55d1d6eeddb06fea3532928fcc1c21cca326d6dd1e1134f",
+    "bytes": 180137
+  },
+  {
+    "path": "sources/review-027/prior-review-result.json",
+    "sha256": "f991b6ce7718e8da6c86211dc23bd71be292f28bb55481611af73945d322b0b5",
+    "bytes": 8098
+  },
+  {
     "path": "sources/review-027/review-result.json",
     "sha256": "082a058f113ff99cf5a0def920f3afb83f0707a10fc10e6d0462617178f0ef5f",
     "bytes": 8103
@@ -7603,6 +7613,11 @@
     "path": "sources/review-027/selected.xml",
     "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
     "bytes": 2622149
+  },
+  {
+    "path": "sources/review-027/strict-validation.json",
+    "sha256": "6bf78729c52303a8ce0e2983f89e523ff3e3522f73d775ecd0f923f819343e4e",
+    "bytes": 379
   },
   {
     "path": "sources/review-027/unit-review.json",
