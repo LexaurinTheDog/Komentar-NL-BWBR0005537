@@ -1,0 +1,48 @@
+{
+  "checked_at": "2026-10-20T16:15:31.684822+00:00",
+  "scope": "Exactly twenty assigned authoring units, excluding whole-book completion",
+  "assigned_ids": [
+    "art-4:131",
+    "art-5:1",
+    "art-5:2",
+    "art-5:3",
+    "art-5:4",
+    "art-5:5",
+    "art-5:6",
+    "art-5:7",
+    "art-5:8",
+    "art-5:9",
+    "art-5:10",
+    "art-5:10a",
+    "art-5:11",
+    "art-5:12",
+    "art-5:13",
+    "art-5:14",
+    "art-5:15",
+    "art-5:16",
+    "art-5:16a",
+    "art-5:17"
+  ],
+  "assigned_units_complete": 20,
+  "assigned_errors": [],
+  "existing_commentaries_preserved": 220,
+  "independent_review": false,
+  "statutory_text_agreement": 1.0,
+  "independent_official_identifier_coverage": {
+    "expected": 588,
+    "parsed": 588,
+    "missing": [],
+    "duplicates": []
+  },
+  "shared_build": "build-validation-log.json",
+  "whole_book_complete": false,
+  "remaining_unwritten_outside_assignment": 348,
+  "limitations": [
+    "Fresh independent content review pending.",
+    "Whole-book shared build stops at missing commentaries outside assignment.",
+    "Minimum length is not proof of legal quality."
+  ],
+  "local_links_checked": 602,
+  "broken_local_links": [],
+  "repeated_long_paragraphs": []
+}

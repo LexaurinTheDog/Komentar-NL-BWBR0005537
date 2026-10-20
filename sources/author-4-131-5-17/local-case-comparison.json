@@ -1,0 +1,49 @@
+[
+  {
+    "ecli": "ECLI:NL:RVS:2023:2067",
+    "local_path_checked": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2023-2067.md",
+    "local_available": true,
+    "official_full_body_path": "sources/author-4-131-5-17/ECLI-NL-RVS-2023-2067.txt",
+    "local_sha256": "67fafa7b76b01335b653ef07e27a2bb4c311b2323ec9d5655f16f37d5ac53995",
+    "local_body_contained_in_official": true,
+    "full_body_whitespace_equal": true,
+    "disposition": "Official full text read; local full body mechanically compared where available. No claim of corpus identity unless stated."
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2023:2071",
+    "local_path_checked": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2023-2071.md",
+    "local_available": true,
+    "official_full_body_path": "sources/author-4-131-5-17/ECLI-NL-RVS-2023-2071.txt",
+    "local_sha256": "ee74b87e828d4e4f813fbd253a16c8cb590cc46f836d7a3b633ab2cad6a7bc43",
+    "local_body_contained_in_official": true,
+    "full_body_whitespace_equal": true,
+    "disposition": "Official full text read; local full body mechanically compared where available. No claim of corpus identity unless stated."
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2018:2115",
+    "local_path_checked": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2018-2115.md",
+    "local_available": true,
+    "official_full_body_path": "sources/author-4-131-5-17/ECLI-NL-RVS-2018-2115.txt",
+    "local_sha256": "bfad29484ca62036d1ad618f1811363921dfade19332c38a59494fe6d459786a",
+    "local_body_contained_in_official": true,
+    "full_body_whitespace_equal": true,
+    "disposition": "Official full text read; local full body mechanically compared where available. No claim of corpus identity unless stated."
+  },
+  {
+    "ecli": "ECLI:NL:CBB:2025:603",
+    "local_path_checked": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/cbb/ecli-nl-cbb-2025-603.md",
+    "local_available": true,
+    "official_full_body_path": "sources/author-4-131-5-17/ECLI-NL-CBB-2025-603.txt",
+    "local_sha256": "758d2ab0ca22237d3ce73b0f29751565ef6a7be15d7070b140611deb5b8137c4",
+    "local_body_contained_in_official": true,
+    "full_body_whitespace_equal": false,
+    "disposition": "Official full text read; local full body mechanically compared where available. No claim of corpus identity unless stated."
+  },
+  {
+    "ecli": "ECLI:NL:RBMNE:2026:4469",
+    "local_path_checked": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rbmne/ecli-nl-rbmne-2026-4469.md",
+    "local_available": false,
+    "official_full_body_path": "sources/author-4-131-5-17/ECLI-NL-RBMNE-2026-4469.txt",
+    "disposition": "Official full text read; local full body mechanically compared where available. No claim of corpus identity unless stated."
+  }
+]

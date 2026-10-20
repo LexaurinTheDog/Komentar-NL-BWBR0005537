@@ -1,0 +1,577 @@
+{
+  "method": "Each explicit internal article identifier resolved to the full current official-source unit. Substantive checks recorded in author-content-check.json.",
+  "source_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+  "references": [
+    {
+      "id": "art-4:115",
+      "label": "Artikel 4:115",
+      "title": "",
+      "chapter": 10,
+      "structure": [
+        "Hoofdstuk 4 Bijzondere bepalingen over besluiten",
+        "Titel 4.4 Bestuursrechtelijke geldschulden",
+        "Afdeling 4.4.4 Aanmaning en invordering bij dwangbevel",
+        "Paragraaf 4.4.4.2 Invordering bij dwangbevel"
+      ],
+      "text": "De bevoegdheid tot uitvaardiging van een dwangbevel bestaat slechts indien zij bij de wet is toegekend.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk4/Titeldeel4.4/Afdeling4.4.4/Paragraaf4.4.4.2/Artikel4:115",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "10067014"
+    },
+    {
+      "id": "art-4:126",
+      "label": "Artikel 4:126",
+      "title": "",
+      "chapter": 11,
+      "structure": [
+        "Hoofdstuk 4 Bijzondere bepalingen over besluiten",
+        "Titel 4.5 Nadeelcompensatie"
+      ],
+      "text": "1 Indien een bestuursorgaan in de rechtmatige uitoefening van zijn publiekrechtelijke bevoegdheid of taak schade veroorzaakt die uitgaat boven het normale maatschappelijke risico en die een benadeelde in vergelijking met anderen onevenredig zwaar treft, kent het bestuursorgaan de benadeelde desgevraagd een vergoeding toe.\n\n2 Schade blijft in elk geval voor rekening van de aanvrager voor zover:\n\na. hij het risico van het ontstaan van de schade heeft aanvaard;\n\nb. hij de schade had kunnen beperken door binnen redelijke grenzen maatregelen te nemen, die tot voorkoming of vermindering van de schade hadden kunnen leiden;\n\nc. de schade anderszins het gevolg is van een omstandigheid die aan de aanvrager kan worden toegerekend of\n\nd. de vergoeding van de schade anderszins is verzekerd.\n\n3 Indien een schadeveroorzakende gebeurtenis als bedoeld in het eerste lid tevens voordeel voor de benadeelde heeft opgeleverd, wordt dit bij de vaststelling van de te vergoeden schade in aanmerking genomen.\n\n4 Het bestuursorgaan kan een vergoeding toekennen in andere vorm dan betaling van een geldsom.",
+      "notes": [
+        "Artikelen IV en V van Stb. 2013/50 bevatten overgangsrecht m.b.t. deze wijziging.",
+        "Blijft tot een bij koninklijk besluit te bepalen tijdstip buiten toepassing voor de vergoeding van schade waarvoor bij wet of beleidsregel een andere regeling is getroffen."
+      ],
+      "official_path": "/Hoofdstuk4/Titeldeel4.5/Artikel4:126",
+      "effective_from": "2024-01-01",
+      "xml_label_id": "12082414"
+    },
+    {
+      "id": "art-4:127",
+      "label": "Artikel 4:127",
+      "title": "",
+      "chapter": 11,
+      "structure": [
+        "Hoofdstuk 4 Bijzondere bepalingen over besluiten",
+        "Titel 4.5 Nadeelcompensatie"
+      ],
+      "text": "De aanvraag bevat mede:\n\na. een aanduiding van de schadeveroorzakende gebeurtenis;\n\nb. een opgave van de aard van de geleden of te lijden schade en, voor zover redelijkerwijs mogelijk, het bedrag van de schade en een specificatie daarvan.",
+      "notes": [
+        "Artikelen IV en V van Stb. 2013/50 bevatten overgangsrecht m.b.t. deze wijziging.",
+        "Blijft tot een bij koninklijk besluit te bepalen tijdstip buiten toepassing voor de vergoeding van schade waarvoor bij wet of beleidsregel een andere regeling is getroffen."
+      ],
+      "official_path": "/Hoofdstuk4/Titeldeel4.5/Artikel4:127",
+      "effective_from": "2024-01-01",
+      "xml_label_id": "12082424"
+    },
+    {
+      "id": "art-4:130",
+      "label": "Artikel 4:130",
+      "title": "",
+      "chapter": 11,
+      "structure": [
+        "Hoofdstuk 4 Bijzondere bepalingen over besluiten",
+        "Titel 4.5 Nadeelcompensatie"
+      ],
+      "text": "1 Het bestuursorgaan beslist binnen acht weken of – indien een adviescommissie is ingesteld waarvan de voorzitter, dan wel het enig lid, geen deel uitmaakt van en niet werkzaam is onder verantwoordelijkheid van het bestuursorgaan – binnen zes maanden na de ontvangst van de aanvraag, tenzij bij of krachtens wettelijk voorschrift een andere termijn is bepaald.\n\n2 Het bestuursorgaan kan de beslissing eenmaal voor ten hoogste acht weken of – indien een adviescommissie als bedoeld in het eerste lid is ingeschakeld – zes maanden verdagen. Van de verdaging wordt schriftelijk mededeling gedaan.\n\n3 Indien de schade mede is veroorzaakt door een besluit waartegen beroep kan worden ingesteld, kan het bestuursorgaan de beslissing aanhouden totdat het besluit onherroepelijk is geworden.",
+      "notes": [
+        "Artikelen IV en V van Stb. 2013/50 bevatten overgangsrecht m.b.t. deze wijziging.",
+        "Blijft tot een bij koninklijk besluit te bepalen tijdstip buiten toepassing voor de vergoeding van schade waarvoor bij wet of beleidsregel een andere regeling is getroffen."
+      ],
+      "official_path": "/Hoofdstuk4/Titeldeel4.5/Artikel4:130",
+      "effective_from": "2024-01-01",
+      "xml_label_id": "12082454"
+    },
+    {
+      "id": "art-4:131",
+      "label": "Artikel 4:131",
+      "title": "",
+      "chapter": 11,
+      "structure": [
+        "Hoofdstuk 4 Bijzondere bepalingen over besluiten",
+        "Titel 4.5 Nadeelcompensatie"
+      ],
+      "text": "1 Het bestuursorgaan kan de aanvraag afwijzen indien op het tijdstip van de aanvraag vijf jaren zijn verstreken na aanvang van de dag na die waarop de benadeelde bekend is geworden zowel met de schade als met het voor de schadeveroorzakende gebeurtenis verantwoordelijke bestuursorgaan, en in ieder geval na verloop van twintig jaren nadat de schade is veroorzaakt.\n\n2 Indien een aanvraag betrekking heeft op schade veroorzaakt door een besluit waartegen beroep kan worden ingesteld, vangt de termijn van vijf jaren niet aan voordat dit besluit onherroepelijk is geworden.",
+      "notes": [
+        "Artikelen IV en V van Stb. 2013/50 bevatten overgangsrecht m.b.t. deze wijziging.",
+        "Blijft tot een bij koninklijk besluit te bepalen tijdstip buiten toepassing voor de vergoeding van schade waarvoor bij wet of beleidsregel een andere regeling is getroffen."
+      ],
+      "official_path": "/Hoofdstuk4/Titeldeel4.5/Artikel4:131",
+      "effective_from": "2024-01-01",
+      "xml_label_id": "12082464"
+    },
+    {
+      "id": "art-5:1",
+      "label": "Artikel 5:1",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.1 Algemene bepalingen"
+      ],
+      "text": "1 In deze wet wordt verstaan onder overtreding: een gedraging die in strijd is met het bepaalde bij of krachtens enig wettelijk voorschrift.\n\n2 Onder overtreder wordt verstaan: degene die de overtreding pleegt of medepleegt.\n\n3 Overtredingen kunnen worden begaan door natuurlijke personen en rechtspersonen. Artikel 51, tweede en derde lid, van het Wetboek van Strafrecht is van overeenkomstige toepassing.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.1/Artikel5:1",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "10067224"
+    },
+    {
+      "id": "art-5:10",
+      "label": "Artikel 5:10",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.1 Algemene bepalingen"
+      ],
+      "text": "1 Voor zover een bestuurlijke sanctie verplicht tot betaling van een geldsom, komt deze geldsom toe aan het bestuursorgaan dat de sanctie heeft opgelegd, tenzij bij wettelijk voorschrift anders is bepaald.\n\n2 Het bestuursorgaan kan de geldsom invorderen bij dwangbevel.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.1/Artikel5:10",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "10067314"
+    },
+    {
+      "id": "art-5:10a",
+      "label": "Artikel 5:10a",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.1 Algemene bepalingen"
+      ],
+      "text": "1 Degene die wordt verhoord met het oog op het aan hem opleggen van een bestraffende sanctie, is niet verplicht ten behoeve daarvan verklaringen omtrent de overtreding af te leggen.\n\n2 Voor het verhoor wordt aan de betrokkene medegedeeld dat hij niet verplicht is tot antwoorden.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.1/Artikel5:10a",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "10067324"
+    },
+    {
+      "id": "art-5:11",
+      "label": "Artikel 5:11",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.2 Toezicht op de naleving"
+      ],
+      "text": "Onder toezichthouder wordt verstaan: een persoon, bij of krachtens wettelijk voorschrift belast met het houden van toezicht op de naleving van het bepaalde bij of krachtens enig wettelijk voorschrift.",
+      "notes": [
+        "Bij Stb. 2001/208 is bepaald dat met ingang van 11 mei 2001 de wijzigingen ook van toepassing zijn op de wetten genoemd in artikel VI, tweede lid van de Derde tranche Algemene wet bestuursrecht."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.2/Artikel5:11",
+      "effective_from": "1998-01-01",
+      "xml_label_id": "2819984"
+    },
+    {
+      "id": "art-5:12",
+      "label": "Artikel 5:12",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.2 Toezicht op de naleving"
+      ],
+      "text": "1 Bij de uitoefening van zijn taak draagt een toezichthouder een legitimatiebewijs bij zich, dat is uitgegeven door het bestuursorgaan onder verantwoordelijkheid waarvan de toezichthouder werkzaam is.\n\n2 Een toezichthouder toont zijn legitimatiebewijs desgevraagd aanstonds.\n\n3 Het legitimatiebewijs bevat een foto van de toezichthouder en vermeldt in ieder geval diens naam en hoedanigheid. Het model van het legitimatiebewijs wordt vastgesteld bij regeling van Onze Minister van Justitie en Veiligheid.",
+      "notes": [],
+      "official_path": "/Hoofdstuk5/Titeldeel5.2/Artikel5:12",
+      "effective_from": "2025-07-01",
+      "xml_label_id": "2819994"
+    },
+    {
+      "id": "art-5:13",
+      "label": "Artikel 5:13",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.2 Toezicht op de naleving"
+      ],
+      "text": "Een toezichthouder maakt van zijn bevoegdheden slechts gebruik voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is.",
+      "notes": [
+        "Bij Stb. 2001/208 is bepaald dat met ingang van 11 mei 2001 de wijzigingen ook van toepassing zijn op de wetten genoemd in artikel VI, tweede lid van de Derde tranche Algemene wet bestuursrecht."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.2/Artikel5:13",
+      "effective_from": "1998-01-01",
+      "xml_label_id": "2820004"
+    },
+    {
+      "id": "art-5:14",
+      "label": "Artikel 5:14",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.2 Toezicht op de naleving"
+      ],
+      "text": "Bij wettelijk voorschrift of bij besluit van het bestuursorgaan dat de toezichthouder als zodanig aanwijst, kunnen de aan de toezichthouder toekomende bevoegdheden worden beperkt.",
+      "notes": [
+        "Bij Stb. 2001/208 is bepaald dat met ingang van 11 mei 2001 de wijzigingen ook van toepassing zijn op de wetten genoemd in artikel VI, tweede lid van de Derde tranche Algemene wet bestuursrecht."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.2/Artikel5:14",
+      "effective_from": "1998-01-01",
+      "xml_label_id": "2820014"
+    },
+    {
+      "id": "art-5:15",
+      "label": "Artikel 5:15",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.2 Toezicht op de naleving"
+      ],
+      "text": "1 Een toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, elke plaats te betreden met uitzondering van een woning zonder toestemming van de bewoner.\n\n2 Zo nodig verschaft hij zich toegang met behulp van de sterke arm.\n\n3 Hij is bevoegd zich te doen vergezellen door personen die daartoe door hem zijn aangewezen.",
+      "notes": [
+        "Bij Stb. 2001/208 is bepaald dat met ingang van 11 mei 2001 de wijzigingen ook van toepassing zijn op de wetten genoemd in artikel VI, tweede lid van de Derde tranche Algemene wet bestuursrecht."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.2/Artikel5:15",
+      "effective_from": "1998-01-01",
+      "xml_label_id": "2820024"
+    },
+    {
+      "id": "art-5:16",
+      "label": "Artikel 5:16",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.2 Toezicht op de naleving"
+      ],
+      "text": "Een toezichthouder is bevoegd inlichtingen te vorderen.",
+      "notes": [
+        "Bij Stb. 2001/208 is bepaald dat met ingang van 11 mei 2001 de wijzigingen ook van toepassing zijn op de wetten genoemd in artikel VI, tweede lid van de Derde tranche Algemene wet bestuursrecht."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.2/Artikel5:16",
+      "effective_from": "1998-01-01",
+      "xml_label_id": "2820034"
+    },
+    {
+      "id": "art-5:16a",
+      "label": "Artikel 5:16a",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.2 Toezicht op de naleving"
+      ],
+      "text": "Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht.",
+      "notes": [],
+      "official_path": "/Hoofdstuk5/Titeldeel5.2/Artikel5:16a",
+      "effective_from": "2005-01-01",
+      "xml_label_id": "5935334"
+    },
+    {
+      "id": "art-5:17",
+      "label": "Artikel 5:17",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.2 Toezicht op de naleving"
+      ],
+      "text": "1 Een toezichthouder is bevoegd inzage te vorderen van zakelijke gegevens en bescheiden.\n\n2 Hij is bevoegd van de gegevens en bescheiden kopieën te maken.\n\n3 Indien het maken van kopieën niet ter plaatse kan geschieden, is hij bevoegd de gegevens en bescheiden voor dat doel voor korte tijd mee te nemen tegen een door hem af te geven schriftelijk bewijs.",
+      "notes": [
+        "Bij Stb. 2001/208 is bepaald dat met ingang van 11 mei 2001 de wijzigingen ook van toepassing zijn op de wetten genoemd in artikel VI, tweede lid van de Derde tranche Algemene wet bestuursrecht."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.2/Artikel5:17",
+      "effective_from": "1998-01-01",
+      "xml_label_id": "2820044"
+    },
+    {
+      "id": "art-5:2",
+      "label": "Artikel 5:2",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.1 Algemene bepalingen"
+      ],
+      "text": "1 In deze wet wordt verstaan onder:\n\na. bestuurlijke sanctie: een door een bestuursorgaan wegens een overtreding opgelegde verplichting of onthouden aanspraak;\n\nb. herstelsanctie: een bestuurlijke sanctie die strekt tot het geheel of gedeeltelijk ongedaan maken of beëindigen van een overtreding, tot het voorkomen van herhaling van een overtreding, dan wel tot het wegnemen of beperken van de gevolgen van een overtreding;\n\nc. bestraffende sanctie: een bestuurlijke sanctie voor zover deze beoogt de overtreder leed toe te voegen.\n\n2 Geen bestuurlijke sanctie is de enkele last tot het verrichten van bepaalde handelingen.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.1/Artikel5:2",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "10067234"
+    },
+    {
+      "id": "art-5:20",
+      "label": "Artikel 5:20",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.2 Toezicht op de naleving"
+      ],
+      "text": "1 Een ieder is verplicht aan een toezichthouder binnen de door hem gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.\n\n2 Zij die uit hoofde van ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voor zover dit uit hun geheimhoudingsplicht voortvloeit.\n\n3 Het bestuursorgaan onder verantwoordelijkheid waarvan de toezichthouder werkzaam is, is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het eerste lid.\n\n4 Indien de gevorderde medewerking strekt ter handhaving van het bepaalde bij of krachtens een regeling die is genoemd in hoofdstuk 2, 3 of 4 van de bij deze wet behorende Bevoegdheidsregeling bestuursrechtspraak of in de bij deze wet behorende Regeling verlaagd griffierecht, wordt de last onder bestuursdwang voor de toepassing van de twee laatstgenoemde regelingen aangemerkt als een besluit, genomen op grond van de eerstbedoelde regeling.",
+      "notes": [
+        "Artikel 5.2 van Stb. 2021/135 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.2/Artikel5:20",
+      "effective_from": "2021-07-01",
+      "xml_label_id": "2820074"
+    },
+    {
+      "id": "art-5:21",
+      "label": "Artikel 5:21",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.3 Herstelsancties",
+        "Afdeling 5.3.1 Last onder bestuursdwang"
+      ],
+      "text": "Onder last onder bestuursdwang wordt verstaan: de herstelsanctie, inhoudende:\n\na. een last tot geheel of gedeeltelijk herstel van de overtreding, en\n\nb. de bevoegdheid van het bestuursorgaan om de last door feitelijk handelen ten uitvoer te leggen, indien de last niet of niet tijdig wordt uitgevoerd.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.3/Afdeling5.3.1/Artikel5:21",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "2820094"
+    },
+    {
+      "id": "art-5:24",
+      "label": "Artikel 5:24",
+      "title": "",
+      "chapter": 13,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.3 Herstelsancties",
+        "Afdeling 5.3.1 Last onder bestuursdwang"
+      ],
+      "text": "1 De last onder bestuursdwang omschrijft de te nemen herstelmaatregelen.\n\n2 De last onder bestuursdwang vermeldt de termijn waarbinnen zij moet worden uitgevoerd.\n\n3 De last onder bestuursdwang wordt bekendgemaakt aan de overtreder, aan de rechthebbenden op het gebruik van de zaak waarop de last betrekking heeft en aan de aanvrager.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.3/Afdeling5.3.1/Artikel5:24",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "2820124"
+    },
+    {
+      "id": "art-5:3",
+      "label": "Artikel 5:3",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.1 Algemene bepalingen"
+      ],
+      "text": "De artikelen 5:4 tot en met 5:10 zijn van toepassing op:\n\na. in dit hoofdstuk geregelde bestuurlijke sancties, en\n\nb. bij wettelijk voorschrift aangewezen andere bestuurlijke sancties.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.1/Artikel5:3",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "10067244"
+    },
+    {
+      "id": "art-5:32a",
+      "label": "Artikel 5:32a",
+      "title": "",
+      "chapter": 13,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.3 Herstelsancties",
+        "Afdeling 5.3.2 Last onder dwangsom"
+      ],
+      "text": "1 De last onder dwangsom omschrijft de te nemen herstelmaatregelen.\n\n2 Bij een last onder dwangsom die strekt tot het ongedaan maken van een overtreding of het voorkomen van verdere overtreding, wordt een termijn gesteld gedurende welke de overtreder de last kan uitvoeren zonder dat een dwangsom wordt verbeurd.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.3/Afdeling5.3.2/Artikel5:32a",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "10067404"
+    },
+    {
+      "id": "art-5:37",
+      "label": "Artikel 5:37",
+      "title": "",
+      "chapter": 13,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.3 Herstelsancties",
+        "Afdeling 5.3.2 Last onder dwangsom"
+      ],
+      "text": "1 Alvorens aan te manen tot betaling van de dwangsom, beslist het bestuursorgaan bij beschikking omtrent de invordering van een dwangsom.\n\n2 Het bestuursorgaan geeft voorts een beschikking omtrent de invordering van de dwangsom, indien een belanghebbende daarom verzoekt.\n\n3 Het bestuursorgaan beslist binnen vier weken op het verzoek.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.3/Afdeling5.3.2/Artikel5:37",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "10067424"
+    },
+    {
+      "id": "art-5:4",
+      "label": "Artikel 5:4",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.1 Algemene bepalingen"
+      ],
+      "text": "1 De bevoegdheid tot het opleggen van een bestuurlijke sanctie bestaat slechts voor zover zij bij of krachtens de wet is verleend.\n\n2 Een bestuurlijke sanctie wordt slechts opgelegd indien de overtreding en de sanctie bij of krachtens een aan de gedraging voorafgaand wettelijk voorschrift zijn omschreven.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.1/Artikel5:4",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "10067254"
+    },
+    {
+      "id": "art-5:41",
+      "label": "Artikel 5:41",
+      "title": "",
+      "chapter": 13,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.4 Bestuurlijke boete",
+        "Afdeling 5.4.1 Algemene bepalingen"
+      ],
+      "text": "Het bestuursorgaan legt geen bestuurlijke boete op voor zover de overtreding niet aan de overtreder kan worden verweten.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.4/Afdeling5.4.1/Artikel5:41",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "10067484"
+    },
+    {
+      "id": "art-5:43",
+      "label": "Artikel 5:43",
+      "title": "",
+      "chapter": 14,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.4 Bestuurlijke boete",
+        "Afdeling 5.4.1 Algemene bepalingen"
+      ],
+      "text": "Het bestuursorgaan legt geen bestuurlijke boete op indien aan de overtreder wegens dezelfde overtreding reeds eerder een bestuurlijke boete is opgelegd, dan wel een kennisgeving als bedoeld in artikel 5:50, tweede lid, aanhef en onderdeel a, is bekendgemaakt.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.4/Afdeling5.4.1/Artikel5:43",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "10067504"
+    },
+    {
+      "id": "art-5:46",
+      "label": "Artikel 5:46",
+      "title": "",
+      "chapter": 14,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.4 Bestuurlijke boete",
+        "Afdeling 5.4.1 Algemene bepalingen"
+      ],
+      "text": "1 De wet bepaalt de bestuurlijke boete die wegens een bepaalde overtreding ten hoogste kan worden opgelegd.\n\n2 Tenzij de hoogte van de bestuurlijke boete bij wettelijk voorschrift is vastgesteld, stemt het bestuursorgaan de bestuurlijke boete af op de ernst van de overtreding en de mate waarin deze aan de overtreder kan worden verweten. Het bestuursorgaan houdt daarbij zo nodig rekening met de omstandigheden waaronder de overtreding is gepleegd.\n\n3 Indien de hoogte van de bestuurlijke boete bij wettelijk voorschrift is vastgesteld, legt het bestuursorgaan niettemin een lagere bestuurlijke boete op indien de overtreder aannemelijk maakt dat de vastgestelde bestuurlijke boete wegens bijzondere omstandigheden te hoog is.\n\n4 Artikel 1, tweede lid, van het Wetboek van Strafrecht is van overeenkomstige toepassing.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.4/Afdeling5.4.1/Artikel5:46",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "10067534"
+    },
+    {
+      "id": "art-5:5",
+      "label": "Artikel 5:5",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.1 Algemene bepalingen"
+      ],
+      "text": "Het bestuursorgaan legt geen bestuurlijke sanctie op voor zover voor de overtreding een rechtvaardigingsgrond bestond.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.1/Artikel5:5",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "10067264"
+    },
+    {
+      "id": "art-5:52",
+      "label": "Artikel 5:52",
+      "title": "",
+      "chapter": 14,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.4 Bestuurlijke boete",
+        "Afdeling 5.4.2 De procedure"
+      ],
+      "text": "De beschikking tot oplegging van de bestuurlijke boete vermeldt:\n\na. de naam van de overtreder;\n\nb. het bedrag van de boete.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.4/Afdeling5.4.2/Artikel5:52",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "10067604"
+    },
+    {
+      "id": "art-5:6",
+      "label": "Artikel 5:6",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.1 Algemene bepalingen"
+      ],
+      "text": "Het bestuursorgaan legt geen herstelsanctie op zolang een andere wegens dezelfde overtreding opgelegde herstelsanctie van kracht is.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.1/Artikel5:6",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "10067274"
+    },
+    {
+      "id": "art-5:7",
+      "label": "Artikel 5:7",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.1 Algemene bepalingen"
+      ],
+      "text": "Een herstelsanctie kan worden opgelegd zodra het gevaar voor de overtreding klaarblijkelijk dreigt.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.1/Artikel5:7",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "10067284"
+    },
+    {
+      "id": "art-5:8",
+      "label": "Artikel 5:8",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.1 Algemene bepalingen"
+      ],
+      "text": "Indien twee of meer voorschriften zijn overtreden, kan voor de overtreding van elk afzonderlijk voorschrift een bestuurlijke sanctie worden opgelegd.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.1/Artikel5:8",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "10067294"
+    },
+    {
+      "id": "art-5:9",
+      "label": "Artikel 5:9",
+      "title": "",
+      "chapter": 12,
+      "structure": [
+        "Hoofdstuk 5 Handhaving",
+        "Titel 5.1 Algemene bepalingen"
+      ],
+      "text": "De beschikking tot oplegging van een bestuurlijke sanctie vermeldt:\n\na. de overtreding alsmede het overtreden voorschrift;\n\nb. zo nodig een aanduiding van de plaats waar en het tijdstip waarop de overtreding is geconstateerd.",
+      "notes": [
+        "De artikelen III en IV van Stb. 2009/264 bevatten overgangsrecht m.b.t. deze wijziging."
+      ],
+      "official_path": "/Hoofdstuk5/Titeldeel5.1/Artikel5:9",
+      "effective_from": "2009-07-01",
+      "xml_label_id": "10067304"
+    }
+  ]
+}

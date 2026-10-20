@@ -1,0 +1,74 @@
+[
+  {
+    "ecli": "ECLI:NL:RVS:2023:2067",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State",
+    "date": "2023-05-31",
+    "docket": "202100578/2/A3",
+    "paragraphs": [
+      "7.3–7.6",
+      "8.1–8.5"
+    ],
+    "supported_ids": [
+      "art-5:1"
+    ]
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2023:2071",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State",
+    "date": "2023-05-31",
+    "docket": "202106120/2/A3",
+    "paragraphs": [
+      "9.1–9.5",
+      "10–11"
+    ],
+    "supported_ids": [
+      "art-5:1"
+    ]
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2018:2115",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State, grote kamer",
+    "date": "2018-06-27",
+    "docket": "201601765/1/A2",
+    "paragraphs": [
+      "7.2–7.4",
+      "8.3–8.6",
+      "10"
+    ],
+    "supported_ids": [
+      "art-5:10a"
+    ]
+  },
+  {
+    "ecli": "ECLI:NL:CBB:2025:603",
+    "court": "College van Beroep voor het bedrijfsleven",
+    "date": "2025-11-18",
+    "docket": "24/429",
+    "paragraphs": [
+      "6.1–6.3",
+      "7.1–7.2"
+    ],
+    "supported_ids": [
+      "art-5:8",
+      "art-5:13",
+      "art-5:17"
+    ]
+  },
+  {
+    "ecli": "ECLI:NL:RBMNE:2026:4469",
+    "court": "Rechtbank Midden-Nederland",
+    "date": "2026-05-28",
+    "docket": "UTR 25/4666",
+    "paragraphs": [
+      "9–13 (sociale veiligheid)",
+      "repeated 13, paragraph beginning De rechtbank volgt eiseres hierin niet (governance)",
+      "repeated 18, paragraphs beginning Gelet op artikel 5:13 and Naar het oordeel van de rechtbank"
+    ],
+    "supported_ids": [
+      "art-5:11",
+      "art-5:13",
+      "art-5:16",
+      "art-5:17"
+    ]
+  }
+]

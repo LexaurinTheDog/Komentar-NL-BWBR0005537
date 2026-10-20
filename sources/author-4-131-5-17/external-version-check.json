@@ -1,0 +1,20 @@
+[
+  {
+    "source": "sr",
+    "url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 01-07-2026 t/m heden.",
+    "latest_effective_on_decisive_date": "2026-07-01",
+    "history_evidence": "sources/author-4-131-5-17/sr-history.html",
+    "pending_undated_changes_excluded": true,
+    "current_title_verified": true
+  },
+  {
+    "source": "wid",
+    "url": "https://wetten.overheid.nl/BWBR0006297/2026-10-01",
+    "effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 01-10-2026 t/m heden.",
+    "latest_effective_on_decisive_date": "2026-10-01",
+    "history_evidence": "sources/author-4-131-5-17/wid-history.html",
+    "pending_undated_changes_excluded": true,
+    "current_title_verified": true
+  }
+]

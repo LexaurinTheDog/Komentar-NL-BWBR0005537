@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T16:03:01.111724+00:00",
+  "updated_at": "2026-10-20T16:15:03.966946+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -17,12 +17,12 @@
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
     "review_verified_at": "2026-10-20T15:59:25.309640+00:00",
     "review_evidence": "sources/review-011/verification.json",
-    "author_batch_verified_at": "2026-10-20T15:55:50.311222+00:00",
-    "author_batch_evidence": "sources/author-4-111-130/verification.json"
+    "author_batch_verified_at": "2026-10-20T16:15:03.966946+00:00",
+    "author_batch_evidence": "sources/author-4-131-5-17/verification.json"
   },
   "official_articles": 584,
   "total_units": 588,
-  "completed_units": 220,
+  "completed_units": 240,
   "completed_ids": [
     "aanhef",
     "art-1:1",
@@ -243,9 +243,7 @@
     "art-4:127",
     "art-4:128",
     "art-4:129",
-    "art-4:130"
-  ],
-  "missing_commentary_ids": [
+    "art-4:130",
     "art-4:131",
     "art-5:1",
     "art-5:2",
@@ -265,7 +263,9 @@
     "art-5:15",
     "art-5:16",
     "art-5:16a",
-    "art-5:17",
+    "art-5:17"
+  ],
+  "missing_commentary_ids": [
     "art-5:18",
     "art-5:19",
     "art-5:20",
@@ -653,7 +653,12 @@
       "ECLI:NL:GHSHE:2017:5464",
       "ECLI:NL:RBDHA:2025:2646",
       "ECLI:NL:RBMNE:2024:6535",
-      "ECLI:NL:CBB:2026:101"
+      "ECLI:NL:CBB:2026:101",
+      "ECLI:NL:RVS:2023:2067",
+      "ECLI:NL:RVS:2023:2071",
+      "ECLI:NL:RVS:2018:2115",
+      "ECLI:NL:CBB:2025:603",
+      "ECLI:NL:RBMNE:2026:4469"
     ],
     "fetched_not_yet_assessed": [
       "ECLI:NL:CBB:2024:31"
@@ -663,7 +668,7 @@
   "coverage": true,
   "validation_result": {
     "complete": false,
-    "reason": "368 eenheden buiten deze reviewbatch missen nog commentaar; volledige gedeelde bouw en eindvalidatie blijven geblokkeerd.",
+    "reason": "348 eenheden buiten deze auteursbatch hebben nog geen commentaar; volledige gedeelde bouw blijft geblokkeerd.",
     "not_independent_review": true,
     "strict_validator": {
       "repo": "Komentar-NL-BWBR0005537",
@@ -676,7 +681,7 @@
       "warnings": [],
       "ok": false
     },
-    "independent_review_scope": "Current batch exactly twenty ids in review-result.json; previous 200 preserved separately. Whole-book review incomplete.",
+    "independent_review_scope": "The preserved earlier review evidence covers 220 prior units, not these twenty new units.",
     "validated_at": "2026-10-20T16:03:47.937486+00:00",
     "evidence": "strict-validation.json",
     "bounded_review_passed": true,
@@ -698,7 +703,8 @@
     "Drie gebruikte uitspraken ontbreken als individuele lokale corpusbestanden; volledige officiële Rechtspraak-XML is leidend.",
     "Het lokale CBb-bestand is niet als bytegelijke volledige officiële body aangemerkt.",
     "Concrete bijzondere kostenregelingen en deurwaarderstarieven zijn niet integraal geïnventariseerd.",
-    "Technische minimumlengte en tekstidentiteit zijn geen bewijs van juridische kwaliteit; geen externe professionele goedkeuring."
+    "Technische minimumlengte en tekstidentiteit zijn geen bewijs van juridische kwaliteit; geen externe professionele goedkeuring.",
+    "Huidige auteursbatch 4:131 en 5:1–5:17: twintig nieuwe toelichtingen wachten op onafhankelijke tweede beoordeling; 348 andere eenheden blijven ongeschreven."
   ],
   "preflight": {
     "complete": true,
@@ -709,29 +715,29 @@
   "last_author_batch": {
     "task": "bounded_author",
     "ids": [
-      "art-4:111",
-      "art-4:112",
-      "art-4:113",
-      "art-4:114",
-      "art-4:115",
-      "art-4:116",
-      "art-4:117",
-      "art-4:118",
-      "art-4:119",
-      "art-4:120",
-      "art-4:121",
-      "art-4:122",
-      "art-4:123",
-      "art-4:124",
-      "art-4:125",
-      "art-4:126",
-      "art-4:127",
-      "art-4:128",
-      "art-4:129",
-      "art-4:130"
+      "art-4:131",
+      "art-5:1",
+      "art-5:2",
+      "art-5:3",
+      "art-5:4",
+      "art-5:5",
+      "art-5:6",
+      "art-5:7",
+      "art-5:8",
+      "art-5:9",
+      "art-5:10",
+      "art-5:10a",
+      "art-5:11",
+      "art-5:12",
+      "art-5:13",
+      "art-5:14",
+      "art-5:15",
+      "art-5:16",
+      "art-5:16a",
+      "art-5:17"
     ],
     "completed_units": 20,
-    "evidence": "batch-4-111-130-result.json",
+    "evidence": "batch-4-131-5-17-result.json",
     "independently_reviewed": false
   },
   "bounded_independent_review": {

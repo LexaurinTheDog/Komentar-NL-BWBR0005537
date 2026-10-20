@@ -1,0 +1,126 @@
+{
+  "complete": true,
+  "kind": "bounded_author",
+  "authored_ids": [
+    "art-4:131",
+    "art-5:1",
+    "art-5:2",
+    "art-5:3",
+    "art-5:4",
+    "art-5:5",
+    "art-5:6",
+    "art-5:7",
+    "art-5:8",
+    "art-5:9",
+    "art-5:10",
+    "art-5:10a",
+    "art-5:11",
+    "art-5:12",
+    "art-5:13",
+    "art-5:14",
+    "art-5:15",
+    "art-5:16",
+    "art-5:16a",
+    "art-5:17"
+  ],
+  "completed_units": 20,
+  "total_assigned": 20,
+  "written_book_units": 240,
+  "total_book_units": 588,
+  "whole_book_complete": false,
+  "independent_review": false,
+  "source_preflight": "sources/author-4-131-5-17/preflight-result.json",
+  "technical_support": "sources/author-4-131-5-17/technical-check.json",
+  "author_content_check": "sources/author-4-131-5-17/author-content-check.json",
+  "case_law_sources": [
+    {
+      "ecli": "ECLI:NL:RVS:2023:2067",
+      "court": "Afdeling bestuursrechtspraak van de Raad van State",
+      "date": "2023-05-31",
+      "docket": "202100578/2/A3",
+      "paragraphs": [
+        "7.3–7.6",
+        "8.1–8.5"
+      ],
+      "supported_ids": [
+        "art-5:1"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2023:2071",
+      "court": "Afdeling bestuursrechtspraak van de Raad van State",
+      "date": "2023-05-31",
+      "docket": "202106120/2/A3",
+      "paragraphs": [
+        "9.1–9.5",
+        "10–11"
+      ],
+      "supported_ids": [
+        "art-5:1"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2018:2115",
+      "court": "Afdeling bestuursrechtspraak van de Raad van State, grote kamer",
+      "date": "2018-06-27",
+      "docket": "201601765/1/A2",
+      "paragraphs": [
+        "7.2–7.4",
+        "8.3–8.6",
+        "10"
+      ],
+      "supported_ids": [
+        "art-5:10a"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:CBB:2025:603",
+      "court": "College van Beroep voor het bedrijfsleven",
+      "date": "2025-11-18",
+      "docket": "24/429",
+      "paragraphs": [
+        "6.1–6.3",
+        "7.1–7.2"
+      ],
+      "supported_ids": [
+        "art-5:8",
+        "art-5:13",
+        "art-5:17"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RBMNE:2026:4469",
+      "court": "Rechtbank Midden-Nederland",
+      "date": "2026-05-28",
+      "docket": "UTR 25/4666",
+      "paragraphs": [
+        "9–13 (sociale veiligheid)",
+        "repeated 13, paragraph beginning De rechtbank volgt eiseres hierin niet (governance)",
+        "repeated 18, paragraphs beginning Gelet op artikel 5:13 and Naar het oordeel van de rechtbank"
+      ],
+      "supported_ids": [
+        "art-5:11",
+        "art-5:13",
+        "art-5:16",
+        "art-5:17"
+      ]
+    }
+  ],
+  "shared_builder": {
+    "command": [
+      "python3",
+      "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
+      "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537"
+    ],
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "CHYBÍ komentář k 348 jednotkám, např.: ['art-5:18', 'art-5:19', 'art-5:20', 'art-5:21', 'art-5:22', 'art-5:23', 'art-5:24', 'art-5:25', 'art-5:26', 'art-5:27']\n"
+  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "Only the twenty assigned units authored; 348 other units remain unwritten.",
+    "Fresh independent content review pending.",
+    "Selective case research without exhaustive later-treatment/appeal audit.",
+    "Shared whole-book build and validation gates are unchanged."
+  ]
+}
