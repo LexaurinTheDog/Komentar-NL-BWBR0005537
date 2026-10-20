@@ -12,5 +12,20 @@
   },
   "checkpoint_method": "Render only actually authored units in affected chapters 14 and 15 using the shared loader and quote function. Preserve all other chapters. The unmodified shared whole-book completion gate remains in force.",
   "bounded_authoring_complete": true,
-  "whole_book_complete": false
+  "whole_book_complete": false,
+  "shared_strict_validation": {
+    "exit_code": 1,
+    "result": {
+      "repo": "Komentar-NL-BWBR0005537",
+      "units": 588,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 552688,
+      "errors": [
+        "krátký/chybějící komentář u 288 jednotek: ['art-6:17(0<400)', 'art-6:18(0<120)', 'art-6:19(0<400)', 'art-6:20(0<400)', 'art-6:21(0<120)', 'art-6:22(0<400)', 'art-6:23(0<400)', 'art-6:24(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "evidence": "batch-5-51-6-16-validation.json"
+  }
 }

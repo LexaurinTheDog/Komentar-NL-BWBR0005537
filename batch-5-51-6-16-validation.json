@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T17:17:18.614534+00:00",
+  "checked_at": "2026-10-20T17:18:20.980697+00:00",
   "assigned_units_complete": 20,
   "assigned_ids": [
     "art-5:51",
@@ -69,5 +69,25 @@
     "exact_repeated_long_sentences": [],
     "local_links_checked": 849,
     "broken_local_links": []
-  }
+  },
+  "shared_strict_validation": {
+    "command": [
+      "python3",
+      "/Volumes/LaCie/open-commentary/_tools/validate.py",
+      "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537"
+    ],
+    "exit_code": 1,
+    "result": {
+      "repo": "Komentar-NL-BWBR0005537",
+      "units": 588,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 552688,
+      "errors": [
+        "krátký/chybějící komentář u 288 jednotek: ['art-6:17(0<400)', 'art-6:18(0<120)', 'art-6:19(0<400)', 'art-6:20(0<400)', 'art-6:21(0<120)', 'art-6:22(0<400)', 'art-6:23(0<400)', 'art-6:24(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    }
+  },
+  "output_git_clean_at_validation": true
 }

@@ -165,5 +165,16 @@
     "Geen volledige kalender van krachtens ATW aangewezen gelijkgestelde dagen opgenomen. Historische digitale zaken vervangen de huidige afdeling 2.3 niet.",
     "Eerdere beperkingen over specifieke toezichtregelingen, de ministeriële stopregeling, civiele einduitkomsten en sectorale boeteregels blijven bestaan.",
     "Technische tekst-, lengte- en herhalingscontroles bewijzen geen juridische kwaliteit; geen externe professionele goedkeuring."
-  ]
+  ],
+  "strict_validator": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 552688,
+    "errors": [
+      "krátký/chybějící komentář u 288 jednotek: ['art-6:17(0<400)', 'art-6:18(0<120)', 'art-6:19(0<400)', 'art-6:20(0<400)', 'art-6:21(0<120)', 'art-6:22(0<400)', 'art-6:23(0<400)', 'art-6:24(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  }
 }
