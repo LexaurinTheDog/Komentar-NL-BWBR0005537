@@ -1,0 +1,28 @@
+{
+  "ecli": "ECLI:NL:CRVB:2013:2659",
+  "court": "Centrale Raad van Beroep",
+  "date": "2013-12-03",
+  "docket": "12/3640 Wpb",
+  "full_text_read": true,
+  "paragraphs": [
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.5",
+    "4.6",
+    "4.7",
+    "5–9",
+    "dictum"
+  ],
+  "supported_ids": [
+    "art-11:3"
+  ],
+  "official_snapshot": "sources/review-029/case.xml",
+  "sha256": "4e951a36eadd874fc638f12bb980d9f27dea63451ffc3c88c595f1ee66d401b1",
+  "holding": "Raad bevoegd ondanks eerdere ontbrekende Wpb-vermelding: onmiskenbaar onbedoeld hiaat plus sterke verwantschap met WWB. Hoger beroep slaagt; beroep terugvorderingsbesluit ongegrond.",
+  "context_limits": "4.1 is collegebetoog. Historische Wpb/WWB niet als actueel materieel recht gebruikt. Geen vrije rechterkeuze bij bijlagewijziging.",
+  "prior_primary_snapshot_agreement": true,
+  "local_corpus": "sources/author-10-38-annex6/CRVB-2013-2659-local.md",
+  "later_treatment_exhaustive": false
+}

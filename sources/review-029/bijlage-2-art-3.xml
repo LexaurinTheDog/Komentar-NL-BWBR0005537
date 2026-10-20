@@ -1,0 +1,52 @@
+<artikel bwb-ng-variabel-deel="/Bijlage2/Divisie2/Artikel3">
+      <kop>
+        <label>Artikel</label>
+        <nr status="officieel">3</nr>
+        <titel status="officieel">Beroep bij de Centrale Raad van Beroep</titel>
+      </kop>
+      <al>Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan beroep worden ingesteld bij de Centrale Raad van Beroep. Een besluit waarbij de volgende ambtenaren, hun nagelaten betrekkingen of hun rechtverkrijgenden belanghebbende zijn:</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li bwb-ng-variabel-deel="/Bijlage2/Divisie2/Artikel3/Onderdeela">
+          <li.nr>a.</li.nr>
+          <al>een rechterlijk ambtenaar als bedoeld in <extref doc="jci1.3:c:BWBR0001830&amp;artikel=1" label-id="2636424" verwijzing-id="2796281" bwb-id="BWBR0001830">artikel 1, onderdeel b, van de Wet op de rechterlijke organisatie</extref> als zodanig</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;bijlage=2&amp;hoofdstuk=2&amp;artikel=3&amp;o=a&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="o=a" /></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/Bijlage2/Divisie2/Artikel3/Onderdeelb">
+          <li.nr>b.</li.nr>
+          <al>een lid van de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven met rechtspraak belast als zodanig</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;bijlage=2&amp;hoofdstuk=2&amp;artikel=3&amp;o=b&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="o=b" /></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/Bijlage2/Divisie2/Artikel3/Onderdeelc">
+          <li.nr>c.</li.nr>
+          <al>een senior-gerechtsauditeur of gerechtsauditeur van de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven als zodanig</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;bijlage=2&amp;hoofdstuk=2&amp;artikel=3&amp;o=c&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="o=c" /></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/Bijlage2/Divisie2/Artikel3/Onderdeeld">
+          <li.nr>d.</li.nr>
+          <al>een gewezen ambtenaar als bedoeld in onderdeel a, b of c als zodanig</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;bijlage=2&amp;hoofdstuk=2&amp;artikel=3&amp;o=d&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="o=d" /></jcis></meta-data></li>
+      </lijst>
+      <al>
+        <extref doc="jci1.3:c:BWBR0002691" label-id="2508094" verwijzing-id="2550074" bwb-id="BWBR0002691">Algemene pensioen- en uitkeringswet politieke ambtsdragers</extref>
+      </al>
+      <al>
+        <extref doc="jci1.3:c:BWBR0002060" label-id="1273354" verwijzing-id="2550075" bwb-id="BWBR0002060">Garantiewet Burgerlijk Overheidspersoneel Indonesië</extref>, voor zover het betreft een besluit op grond van de Algemene oorlogsongevallenregeling</al>
+      <al>
+        <extref doc="jci1.3:c:BWBR0002553" label-id="1559974" verwijzing-id="2550076" bwb-id="BWBR0002553">Liquidatiewet ongevallenwetten</extref>: <extref doc="jci1.3:c:BWBR0002553&amp;artikel=24" label-id="1559644" verwijzing-id="2583604" bwb-id="BWBR0002553">artikel 24, eerste lid</extref></al>
+      <al>
+        <extref doc="jci1.3:c:BWBR0006957" label-id="4657984" verwijzing-id="2550077" bwb-id="BWBR0006957">Tijdelijke vergoedingsregeling psychotherapie na-oorlogse generatie</extref>
+      </al>
+      <al>
+        <extref doc="jci1.3:c:BWBR0002032" label-id="126404" verwijzing-id="2550078" bwb-id="BWBR0002032">Wet buitengewoon pensioen 1940–1945</extref>
+      </al>
+      <al>
+        <extref doc="jci1.3:c:BWBR0003968" label-id="140344" verwijzing-id="2550079" bwb-id="BWBR0003968">Wet buitengewoon pensioen Indisch verzet</extref>
+      </al>
+      <al>
+        <extref doc="jci1.3:c:BWBR0002035" label-id="159784" verwijzing-id="2550080" bwb-id="BWBR0002035">Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers</extref>
+      </al>
+      <al>
+        <extref doc="jci1.3:c:BWBR0003664" label-id="323994" verwijzing-id="2550082" bwb-id="BWBR0003664">Wet uitkeringen burger-oorlogsslachtoffers 1940–1945</extref>
+      </al>
+      <al>
+        <extref doc="jci1.3:c:BWBR0002844" label-id="2733964" verwijzing-id="2550083" bwb-id="BWBR0002844">Wet uitkeringen vervolgingsslachtoffers 1940–1945</extref>
+      </al>
+    <meta-data><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005537&amp;artikel=3&amp;g=2026-08-15" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0005537&amp;artikel=3" /><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;bijlage=2&amp;hoofdstuk=2&amp;artikel=3&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0005537&amp;artikel=3" /></jcis></meta-data></artikel>
+    

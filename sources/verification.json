@@ -8880,5 +8880,52 @@
         "accepted_format": true
       }
     ]
+  },
+  "review_029": {
+    "requests": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0005537",
+        "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+        "http_status": 200,
+        "accessed_at": "2026-10-20T22:59:33.047079+00:00",
+        "content_type": "text/html;charset=UTF-8",
+        "path": "sources/review-029/current.html",
+        "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+        "accepted_format": true
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+        "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+        "http_status": 200,
+        "accessed_at": "2026-10-20T22:59:34.038372+00:00",
+        "content_type": "text/html;charset=UTF-8",
+        "path": "sources/review-029/history.html",
+        "sha256": "ff31c5707202e84801377a36b6d936cd774c767cf636663b277ad0619052de16",
+        "accepted_format": true
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+        "http_status": 200,
+        "accessed_at": "2026-10-20T22:59:35.409801+00:00",
+        "content_type": "application/xml",
+        "path": "sources/review-029/selected.xml",
+        "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+        "xml_root": "toestand",
+        "accepted_format": true
+      },
+      {
+        "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CRVB:2013:2659",
+        "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CRVB:2013:2659",
+        "http_status": 200,
+        "accessed_at": "2026-10-20T22:59:35.661893+00:00",
+        "content_type": "application/xml",
+        "path": "sources/review-029/case.xml",
+        "sha256": "4e951a36eadd874fc638f12bb980d9f27dea63451ffc3c88c595f1ee66d401b1",
+        "xml_root": "open-rechtspraak",
+        "accepted_format": true
+      }
+    ],
+    "preflight": "sources/review-029/preflight-result.json"
   }
 }

@@ -1,0 +1,70 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "review_date": "2026-10-21",
+  "official_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+  "verified_at": "2026-10-20T23:00:31.028002+00:00",
+  "version_evidence": {
+    "effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 15-08-2026 t/m heden.",
+    "first_future_change": "2027-01-01",
+    "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "identical_to_canonical": true,
+    "http_results": "sources/review-029/verification.json",
+    "history": "sources/review-029/history.html"
+  },
+  "historical_versions_checked": {
+    "previous": "2026-08-01_0",
+    "evidence": "sources/preflight/previous-official.xml",
+    "sha256": "04d8986ae1ad30cc84a00bfd91d1ca79a3ea6a0be48aeaf5bcb1fc5e606ebc66",
+    "assigned_changed_ids": [],
+    "versions_concatenated": false,
+    "explicit_repealed_slot": "art-11:1",
+    "historical_current_rule": "Bijlage2 artikel4: BW-besluiten bekendgemaakt vóór1 juli2011"
+  },
+  "annexes_checked": [
+    {
+      "annex": "1",
+      "expected_child_ids": [],
+      "disposition": "Volledige ongenummerde lijst behouden"
+    },
+    {
+      "annex": "2",
+      "expected_child_ids": [
+        "bijlage-2-art-1",
+        "bijlage-2-art-2",
+        "bijlage-2-art-3",
+        "bijlage-2-art-4",
+        "bijlage-2-art-5",
+        "bijlage-2-art-6",
+        "bijlage-2-art-7",
+        "bijlage-2-art-8",
+        "bijlage-2-art-9",
+        "bijlage-2-art-10",
+        "bijlage-2-art-11",
+        "bijlage-2-art-12"
+      ],
+      "disposition": "Alle genummerde artikelen afzonderlijk behouden"
+    },
+    {
+      "annex": "3",
+      "expected_child_ids": [
+        "bijlage-3-art-1",
+        "bijlage-3-art-2"
+      ],
+      "disposition": "Alle genummerde artikelen afzonderlijk behouden"
+    }
+  ],
+  "coverage": {
+    "expected_units": 588,
+    "parsed_units": 588,
+    "missing": [],
+    "duplicates": [],
+    "aanhef_and_wetsluiting": "Beide behouden",
+    "evidence": "sources/review-029/coverage-recheck.json"
+  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "Voorafgaande toestand en actuele historie gelezen; niet elke historische consolidatie gedownload.",
+    "Broninventaris is geen inhoudelijke beoordeling van andere eenheden."
+  ]
+}

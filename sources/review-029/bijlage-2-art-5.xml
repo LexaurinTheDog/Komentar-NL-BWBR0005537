@@ -1,0 +1,11 @@
+<artikel bwb-ng-variabel-deel="/Bijlage2/Divisie2/Artikel5">
+      <kop>
+        <label>Artikel</label>
+        <nr status="officieel">5</nr>
+        <titel status="officieel">Beroep bij een gerechtshof</titel>
+      </kop>
+      <al>Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan beroep worden ingesteld bij een gerechtshof.</al>
+      <al>
+        <extref doc="jci1.3:c:BWBR0017745" label-id="6696284" verwijzing-id="2550257" bwb-id="BWBR0017745">Wet financiering sociale verzekeringen</extref>: een uitspraak op bezwaar als bedoeld in de <extref doc="jci1.3:c:BWBR0017745&amp;artikel=95" label-id="6695864" verwijzing-id="2583714" bwb-id="BWBR0017745">artikelen 95</extref> en <extref doc="jci1.3:c:BWBR0017745&amp;artikel=97" label-id="6695884" verwijzing-id="2583715" bwb-id="BWBR0017745">97</extref></al>
+    <meta-data><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005537&amp;artikel=5&amp;g=2026-08-15" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0005537&amp;artikel=5" /><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;bijlage=2&amp;hoofdstuk=2&amp;artikel=5&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0005537&amp;artikel=5" /></jcis></meta-data></artikel>
+  

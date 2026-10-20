@@ -1,0 +1,18 @@
+{
+  "reviewed_units": 20,
+  "statutory_text_agreement": 1.0,
+  "outside_scope_commentary_unchanged": true,
+  "high_similarity_pairs": [],
+  "missing_outside_scope": [
+    "bijlage-2-art-7",
+    "bijlage-2-art-8",
+    "bijlage-2-art-9",
+    "bijlage-2-art-10",
+    "bijlage-2-art-11",
+    "bijlage-2-art-12",
+    "bijlage-3-art-1",
+    "bijlage-3-art-2"
+  ],
+  "whole_book_complete": false,
+  "build_method": "Shared builder attempted; affected chapters rendered with unchanged load_units/load_commentary/quote because eight out-of-scope commentaries missing."
+}
