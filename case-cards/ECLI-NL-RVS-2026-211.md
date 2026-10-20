@@ -1,0 +1,11 @@
+# ABRvS 14 januari 2026 — ECLI:NL:RVS:2026:211
+
+Zaak 202403580/1/A2; beroep tegen een nieuw besluit na een eerdere vernietiging, betreffende leerlingenvervoer voor schooljaar 2020–2021. [Officiële uitspraak](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:211); [volledige XML](../sources/author-4-92-110/ECLI-NL-RVS-2026-211.xml) en [leesbestand](../sources/author-4-92-110/ECLI-NL-RVS-2026-211.txt). Volledig gelezen op 20 oktober 2026. Zie [HTTP-, tijdstip- en hashgegevens](../sources/author-4-92-110/verification.json).
+
+De Afdeling oordeelt in r.o. 4.1–4.5 dat het college opnieuw onvoldoende had gemotiveerd waarom geen bekostiging met toepassing van de hardheidsclausule moest worden verleend. De eerdere uitspraak begrensde het opnieuw te nemen besluit. De Afdeling vernietigt het nieuwe besluit en geeft in r.o. 5–6.2 aanwijzingen voor de vergoeding en de rente.
+
+Voor deze auteursbatch is alleen r.o. 6.2 als renteautoriteit gebruikt. De Afdeling past artikel 4:102, tweede lid, toe: zij reconstrueert het verzuimmoment bij een tijdige toewijzende beschikking. Zij noemt een concrete beslistermijn van twaalf weken, inclusief een verdagingsmogelijkheid uit de lokale regeling, en een betalingstermijn van zes weken. Uitgaande van volledigheid van de gegevens bij de aanvraag noemt zij 9 november 2020 als renteaanvang tot aan betaling. De uitleg is het eigen oordeel van de Afdeling; de uiteenlopende opvattingen van partijen over renteaanvang zijn daarmee niet zelf rechtsregels.
+
+Ondersteunt artikel 4:102. De methode — toepasselijke beslis- én betaaltermijn betrekken — is onderscheiden van de concrete data en lokale regeling. De twaalf weken, kilometervergoeding en aanspraak op vervoer naar België worden niet als algemeen huidige normen gepresenteerd. De aanvullende beoordeling van immateriële schade wegens procesduur in r.o. 9 is niet gebruikt als betalingsrentegrondslag. Geen eigen herberekening of correctie van de door de Afdeling genoemde kalenderdatum verricht.
+
+De volledige officiële body stemt bij het negeren van witruimte overeen met de plaatselijke nationale corpuskopie. De uitspraak is geen universele termijnregel voor alle publieke vergoedingen; toepasselijke regelgeving, volledigheid van de aanvraag en eventuele termijnverlenging blijven dossierafhankelijk. Geen claim van uitputtende latere behandeling.

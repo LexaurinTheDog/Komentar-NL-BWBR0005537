@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2015:817</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T21:19:14</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2015-04-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2015-04-03</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">14/00186</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht">Civiel recht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2015:3" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Conclusie: ECLI:NL:PHR:2015:3, Gevolgd</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHSHE:2013:5332" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#bekrachtiging/bevestiging">In cassatie op : ECLI:NL:GHSHE:2013:5332, Bekrachtiging/bevestiging</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537">Algemene wet bestuursrecht</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=4:104">Algemene wet bestuursrecht 4:104</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=4:105">Algemene wet bestuursrecht 4:105</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=4:106">Algemene wet bestuursrecht 4:106</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=4:107">Algemene wet bestuursrecht 4:107</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=4:108">Algemene wet bestuursrecht 4:108</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=4:109">Algemene wet bestuursrecht 4:109</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=4:110">Algemene wet bestuursrecht 4:110</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=4:111">Algemene wet bestuursrecht 4:111</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=4:112">Algemene wet bestuursrecht 4:112</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=5:35">Algemene wet bestuursrecht 5:35</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=5:37">Algemene wet bestuursrecht 5:37</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>JWB 2015/131</rdf:li>
+          <rdf:li>RvdW 2015/475</rdf:li>
+          <rdf:li>NJB 2015/745</rdf:li>
+          <rdf:li>AB 2015/213 met annotatie van T.N. Sanders</rdf:li>
+          <rdf:li>O&amp;A 2015/68</rdf:li>
+          <rdf:li>JB 2015/111</rdf:li>
+          <rdf:li>USZ 2015/211</rdf:li>
+          <rdf:li>JOM 2015/849</rdf:li>
+          <rdf:li>JBPr 2015/35 met annotatie van mr. C.N.J. Kortmann</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2015:817">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2015:817</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2015-04-02T13:37:49</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2015-04-03</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2015:817 Hoge Raad , 03-04-2015 / 14/00186</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2015:817:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bestuursrechtelijke geldschuld; last onder dwangsom; verjaring van verbeurde dwangsommen (art. 5:35 Awb). Stuiting van verjaring (art. 4:105 Awb en 4:106 Awb); aanmaning en invorderingsbeschikking door bestuursorgaan (art. 4:112 en 5:37 lid 1 Awb). ABRvS 24 december 2013, ECLI:NL:RVS:2013:2626. Erkenning geldschuld (4:105 lid 2 Awb).</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2015:817:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>3 april 2015</para>
+    <para>Eerste Kamer</para>
+    <para>14/00186</para>
+    <para>TT/EE</para>
+    <para />
+    <para> </para>
+    <para>Hoge Raad der Nederlanden</para>
+    <para>Arrest</para>
+    <para> </para>
+    <para>in de zaak van:</para>
+    <para />
+    <para />
+    <parablock>
+      <para>GEMEENTE SIMPELVELD,<?linebreak?>zetelende te Simpelveld,</para>
+      <para>EISERES tot cassatie,</para>
+      <para>advocaat: mr. M.W. Scheltema,</para>
+      <para />
+    </parablock>
+    <parablock>
+      <para>t e g e n</para>
+      <para />
+    </parablock>
+    <parablock>
+      <para>
+        [verweerder],<?linebreak?>wonende te [woonplaats],</para>
+      <para>VERWEERDER in cassatie,</para>
+      <para>advocaat: mr. J.H.M. van Swaaij.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Partijen zullen hierna ook worden aangeduid als de Gemeente en [verweerder].</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Het geding in feitelijke instanties</title>
+    <para>	Voor het verloop van het geding in feitelijke instanties verwijst de Hoge Raad naar de navolgende stukken: </para>
+    <para>a.	het vonnis in de zaak C/03/178889/KG ZA 13-92 van de voorzieningenrechter in de rechtbank Limburg van 11 april 2013;</para>
+    <para>b.	het arrest in de zaak HD 200.127.879/01 van het gerechtshof ’s-Hertogenbosch van 12 november 2013. </para>
+    <para>	Het arrest van het hof is aan dit arrest gehecht.</para>
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Het geding in cassatie</title>
+    <parablock>
+      <para>	Tegen het arrest van het hof heeft de Gemeente beroep in cassatie ingesteld. De cassatiedagvaarding en het herstelexploot zijn aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>	[verweerder] heeft geconcludeerd tot verwerping van het beroep.</para>
+      <para>De zaak is voor partijen toegelicht door hun advocaten.</para>
+      <para>	De conclusie van de Advocaat-Generaal L.A.D. Keus strekt tot verwerping van het cassatieberoep.</para>
+      <para>	De advocaat van de Gemeente heeft bij brief van 23 januari 2015 op die conclusie gereageerd.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het middel</title>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>In cassatie kan van het volgende worden uitgegaan.</para>
+      <para>( i)	In verband met het zonder toereikende omgevingsvergunning bouwen althans in stand laten van een schuur is aan [verweerder] bij brief van de Gemeente van 21 maart 2011 een last onder dwangsom opgelegd van € 2.000,-- per week, met een maximum van € 20.000,--, tot het verwijderen van het in oprichting zijnde bouwwerk vóór 1 mei 2011. Het hiertegen door [verweerder] ingediende bezwaar is ongegrond verklaard. [verweerder] heeft geen beroep ingesteld, waardoor het besluit onherroepelijk is geworden. </para>
+      <parablock>
+        <para>(ii)	[verweerder] heeft niet binnen de gestelde termijn aan de opgelegde last voldaan, waarop hij door de Gemeente bij brief is gewezen. Als gevolg van het niet voldoen aan de last zijn in het tijdvak van 1 mei 2011 tot 10 juli 2011 dwangsommen verbeurd tot het maximumbedrag van € 20.000,--.</para>
+        <para>(iii) Bij brief van 13 maart 2012 is [verweerder] in de gelegenheid gesteld de verbeurde dwangsommen van € 20.000,-- binnen zes weken na verzenddatum van de brief te voldoen. Tevens heeft de Gemeente in deze brief aangekondigd dat bij gebreke van tijdige betaling een invorderingsbeschikking zal worden gegeven. Betaling is uitgebleven.</para>
+        <para>(iv)	Op 18 april 2012 heeft een bespreking tussen partijen plaatsgevonden. In deze bespreking is namens [verweerder] mondeling gereageerd op de brief van 13 maart 2012. Bij brief van 20 april 2012 is de Gemeente namens [verweerder] verzocht het geven van een invorderingsbeschikking te heroverwegen. </para>
+      </parablock>
+      <para>( v)	Op 26 april 2012 heeft de Gemeente een besluit tot invordering van de verbeurde dwangsommen genomen (hierna: de invorderingsbeschikking). Bij beslissing van 17 juli 2012 heeft de Gemeente afwijzend op het tegen de invorderingsbeschikking gemaakte bezwaar beslist. [verweerder] heeft geen rechtsmiddelen tegen deze beslissing aangewend.</para>
+      <parablock>
+        <para>(vi)	Bij brief van 24 juli 2012 heeft [verweerder] zich jegens de Gemeente op het standpunt gesteld dat de vordering is verjaard. Bij brief van 12 oktober 2012 heeft de Gemeente [verweerder] bericht dit standpunt niet te delen en [verweerder] nogmaals in de gelegenheid gesteld om binnen twee weken na dagtekening van deze brief het verschuldigde bedrag te voldoen, onder aanzegging dat bij niet tijdige betaling de kosten op grond van art. 5:10 lid 2 in verbinding met art. 4:114 e.v. Awb zullen worden ingevorderd door middel van een dwangbevel.</para>
+        <para>(vii) Op 12 november 2012 is vanwege de Gemeente een dwangbevel uitgevaardigd tot betaling van in hoofdsom € 20.000,--, welk bevel op 3 december 2012 aan [verweerder] is betekend (hierna: het dwangbevel). </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <parablock>
+        <para>In dit kort geding vordert [verweerder] op de voet van art. 4:123 lid 2 Awb in verbinding met art. 438 Rv een verbod de executie van het dwangbevel door te zetten. Hij legt daaraan ten grondslag dat de vordering tot betaling van de dwangsommen is verjaard.</para>
+        <para>De voorzieningenrechter heeft de vordering afgewezen. Het hof echter heeft de verdere executie verboden. Het heeft daartoe, kort gezegd en voor zover in cassatie van belang, als volgt overwogen. Op de verjaring van art. 5:35 Awb zijn de bepalingen van afdeling 4.4.3 Awb van toepassing. Blijkens de memorie van toelichting bij die afdeling is beoogd daarmee een volledige regeling van de verjaring van bestuursrechtelijke geldschulden te geven, zodat stuiting slechts mogelijk is op een van de in art. 4:105 en 4:106 Awb genoemde wijzen. (rov. 4.6.1) Uit art. 5:37 lid 1 Awb vloeit voort dat een invorderingsbeschikking dient te worden gegeven alvorens een bestuursorgaan een aanmaning tot betaling van dwangsommen kan doen uitgaan (rov. 4.6.2). Een redelijke wetsuitleg brengt mee dat een invorderingsbeschikking geen stuiting van de verjaring bewerkstelligt, nu de wetgever in het belang van de rechtszekerheid de stuitingshandelingen in art. 4:105 en 4:106 Awb limitatief heeft willen regelen. Voorts schrijft het wettelijk systeem een bepaalde opeenvolging van de te verrichten handelingen voor, die meebrengt dat de invorderingsbeschikking een voorwaarde vormt voor het rechtsgeldig kunnen stuiten door middel van een aanmaning. (rov. 4.7)</para>
+        <para>Van stuiting als gevolg van erkenning door [verweerder] als bedoeld in art. 4:105 lid 2 Awb is geen sprake, nu deze zich blijkens de gedingstukken met een beroep op (onder meer) het vertrouwensbeginsel tegen invordering door de Gemeente heeft verzet, stellende dat hij van de burgemeester had begrepen dat de dwangsommen niet daadwerkelijk ingevorderd zouden worden indien (door [verweerder]) tot sloop zou worden overgegaan. [verweerder] heeft blijkens de beslissing op zijn bezwaar tegen de invorderingsbeschikking verzocht om heroverweging en, mocht daarvan geen sprake zijn, om matiging van het verbeurde bedrag. Gelet op het subsidiaire karakter van dit matigingsverzoek en de inhoudelijke bezwaren van [verweerder] tegen de beschikking, kan daaruit geen (gedeeltelijke) erkenning door [verweerder] worden afgeleid. (rov. 4.9)</para>
+        <para>De invorderingsbeschikking kan niet als aanmaning in de zin van art. 4:112 lid 1 Awb worden aangemerkt, gezien hetgeen eerder is overwogen omtrent de door de wetgever beoogde opeenvolging van handelingen en de rechtszekerheid (rov. 4.10).</para>
+        <para>Nu is gesteld noch gebleken dat tussen de invorderingsbeschikking en de – als aanmaning te beschouwen – brief van de Gemeente van 12 oktober 2012 stuitingshandelingen zijn verricht, is de verjaring van alle dwangsommen voltooid (rov. 4.11). </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <parablock>
+        <para>Onderdeel 1 is gericht tegen rov. 4.6-4.8, onderdeel 2 tegen rov. 4.10 en onderdeel 3 tegen rov. 4.9.</para>
+        <para>Bij de beoordeling van deze onderdelen wordt het volgende vooropgesteld.</para>
+        <para>Het hof heeft met juistheid overwogen dat, mede blijkens de wetgeschiedenis, op de verjaring van dwangsommen ingevolge art. 5:35 Awb de regeling van afdeling 4.4.3 Awb (art. 4:104-4:111 Awb) van toepassing is. Blijkens de in de conclusie van de Advocaat-Generaal onder 2.5 geciteerde passages uit de memorie van toelichting op afdeling 4.4.3 is de in die afdeling vervatte regeling van de stuitingshandelingen, omwille van de rechtszekerheid, als uitputtend bedoeld. Stuiting van de verjaring (ook) van dwangsommen kan derhalve slechts plaatsvinden op de in art. 4:105 en 4:106 Awb voorziene wijzen. </para>
+        <para>Voorts volgt uit art. 5:37 lid 1 Awb dat aan een aanmaning tot betaling van een dwangsom een beschikking van het bestuursorgaan omtrent de invordering (een invorderingsbeschikking) moet voorafgaan, waartegen bezwaar en beroep openstaat. De wet maakt aldus een duidelijk onderscheid tussen de beslissing om tot invordering over te gaan en de aanmaning als bedoeld in art. 4:112 Awb, welke laatste niet mogelijk is voordat eerstgenoemde beslissing is genomen. Zo blijkt ook uit de memorie van toelichting, aangehaald in de conclusie van de Advocaat-Generaal onder 2.13.</para>
+      </parablock>
+      <para />
+      <paragroup>
+        <nr>3.4.1</nr>
+        <para>Onderdeel 1.1 klaagt dat, anders dan het hof heeft beslist, de bekendmaking van de invorderingsbeschikking, althans in gevallen als het onderhavige, de op grond van art. 5:35 Awb lopende verjaring stuit. Het voert daartoe aan dat blijkens de toelichting op art. 4:106 Awb voor stuiting bepalend is of de bedoeling om tot invordering over te gaan duidelijk tot uitdrukking is gebracht, hetgeen uit de bekendmaking van een invorderingsbeschikking evident volgt. Betoogd wordt voorts dat uit de toelichting op art. 5:35 Awb niet blijkt dat de bepalingen van afdeling 4.4.3 inzake stuiting en verlenging uitputtend van toepassing zijn.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.4.2</nr>
+        <parablock>
+          <para>Deze klacht stuit af op hetgeen hiervoor in 3.3 omtrent het stelsel van de wet en de daarmee beoogde rechtszekerheid is overwogen. Dat is voorts in lijn met ABRvS 24 december 2013, ECLI:NL:RVS:2013:2626, AB 2014/57, waarin besloten ligt dat aan een invorderingsbeschikking geen stuitende werking toekomt.</para>
+          <para>De omstandigheid dat aan een stuitingshandeling de eis moet worden gesteld dat de bedoeling tot invordering duidelijk tot uitdrukking wordt gebracht, brengt niet mee dat, omgekeerd, stuitende werking toekomt aan elke handeling die aan die eis voldoet, zoals de invorderingsbeschikking, nu het systeem van de wet, naar hiervoor is overwogen, zich daartegen verzet.</para>
+          <para>De onderdelen 1.2 en 1.3 bouwen voort op onderdeel 1.1 en moeten het lot daarvan delen.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.5.1</nr>
+        <para>Onderdeel 2.1 behelst de klacht dat het hof heeft miskend dat, indien de invorderingsbeschikking de verjaringstermijn van art. 5:35 Awb niet stuit, de bekendmaking van de invorderingsbeschikking, althans in het onderhavige geval, dient te worden gelijkgesteld met een aanmaning als bedoeld in art. 4:112 lid 1 Awb, zodat daarmee (naar analogie van art. 4:106 Awb) de verjaringstermijn van art. 5:35 Awb wordt gestuit. Althans, aldus het onderdeel, heeft het vorenstaande te gelden indien de invorderingsbeschikking een termijn voor betaling bevat.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.5.2</nr>
+        <parablock>
+          <para>De primaire klacht, die een gelijkstelling van de invorderingsbeschikking met een aanmaning in de zin van art. 4:112 Awb voorstaat, faalt, gelet op hetgeen hiervoor in 3.3 is overwogen omtrent de wettelijk voorgeschreven volgorde die het bestuursorgaan in acht dient te nemen, alsmede omtrent het limitatieve karakter van de in afdeling 4.4.3 vervatte opsomming van de stuitingshandelingen.</para>
+          <para>De in de subsidiaire klacht vervatte omstandigheden maken dat niet anders.</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.5.3</nr>
+        <para>Onderdeel 2.2 gaat uit van de veronderstelling dat het hof heeft beslist dat de (bekendmaking van de) invorderingsbeschikking niet voldeed aan de in art. 4:112 Awb genoemde vereisten. Dit onderdeel mist feitelijke grondslag en kan daarom niet tot cassatie leiden (zie de conclusie van de Advocaat-Generaal onder 2.15)</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.6.1</nr>
+        <para>Onderdeel 3.1 klaagt dat het hof heeft miskend dat [verweerder] de verschuldigdheid van de dwangsommen niet heeft betwist. Uit art. 5:33 Awb volgt dat indien een last onder dwangsom wordt overtreden van rechtswege (een) dwangsom(men) word(t)(en) verbeurd. [verweerder] heeft erkend dat de last is overtreden en dat het maximale bedrag aan dwangsommen is verbeurd. Weliswaar heeft [verweerder] betwist dat de Gemeente de verbeurde dwangsommen kan invorderen, maar de verschuldigdheid van het maximale bedrag aan dwangsommen heeft hij niet betwist. Daarmee is sprake van erkenning van het bestaan van deze geldschuld. Voor erkenning als bedoeld in art. 4:105 lid 2 Awb is, althans in gevallen als het onderhavige, niet vereist dat ook het bestaan van de invorderingsbevoegdheid wordt erkend, aldus het onderdeel. Onderdeel 3.2 behelst een motiveringsklacht tegen het bestreden oordeel.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.6.2</nr>
+        <para>Deze klachten falen. Ook als juist is dat [verweerder] (al dan niet stilzwijgend) heeft erkend dat de hem opgelegde dwangsommen verschuldigd zijn geworden, laat dat onverlet dat hij zich tegenover de Gemeente op het standpunt heeft gesteld dat het haar op grond van (onder meer) het vertrouwensbeginsel niet vrijstond tot invordering van de dwangsommen over te gaan, hetgeen niet anders kan betekenen dan dat [verweerder] meende niet tot betaling te kunnen worden genoopt. Bij die stand van zaken heeft het hof niet blijk gegeven van een onjuiste rechtsopvatting en evenmin een onbegrijpelijk oordeel gegeven door te beslissen dat aan de zijde van [verweerder] geen sprake is geweest van een erkenning van ‘het recht op betaling’ die ingevolge art. 4:105 lid 2 Awb de verjaring stuit.</para>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.7</nr>
+      <para>Onderdeel 4 bouwt voort op de onderdelen 1-3 en moet hun lot derhalve delen.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>verwerpt het beroep; </para>
+      <para>veroordeelt de Gemeente in de kosten van het geding in cassatie, tot op deze uitspraak aan de zijde van [verweerder] begroot op € 818,34 aan verschotten en € 2.200,-- voor salaris.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president E.J. Numann als voorzitter en de raadsheren A.M.J. van Buchem-Spapens, C.A. Streefkerk, A.H.T. Heisterkamp en M.V. Polak, en in het openbaar uitgesproken door de raadsheer G. de Groot op <emphasis role="underline">3 april 2015</emphasis>. </para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

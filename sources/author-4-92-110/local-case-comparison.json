@@ -1,0 +1,42 @@
+[
+  {
+    "ecli": "ECLI:NL:HR:2015:817",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2015-817.md",
+    "local_sha256": "14ed6466d1300aa720ced6be5559fd6bd9b912475ef01c5f8a76dc518da6e088",
+    "full_body_whitespace_equal": false,
+    "local_body_contained_in_official": true,
+    "disposition": "Volledige body vergeleken; officieel origineel is leidend. Een verschil wordt niet als identiteit gerapporteerd."
+  },
+  {
+    "ecli": "ECLI:NL:CBB:2019:29",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/cbb/ecli-nl-cbb-2019-29.md",
+    "local_sha256": "dff15cdf5055d005290c326377d8077960865662206d13731e6518c2901fa6d9",
+    "full_body_whitespace_equal": false,
+    "local_body_contained_in_official": true,
+    "disposition": "Volledige body vergeleken; officieel origineel is leidend. Een verschil wordt niet als identiteit gerapporteerd."
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2026:211",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-211.md",
+    "local_sha256": "a7c37f5887f6fc4015d13391ddf42c3cd00f4a7ee6456bd571ffc1ced76879c6",
+    "full_body_whitespace_equal": true,
+    "local_body_contained_in_official": true,
+    "disposition": "Volledige body vergeleken; officieel origineel is leidend. Een verschil wordt niet als identiteit gerapporteerd."
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2022:3143",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2022-3143.md",
+    "local_sha256": "82ff26548217a428d6bab25405efd00b8e6dbf77d869203d38441bc6e4ab5bf4",
+    "full_body_whitespace_equal": true,
+    "local_body_contained_in_official": true,
+    "disposition": "Volledige body vergeleken; officieel origineel is leidend. Een verschil wordt niet als identiteit gerapporteerd."
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2023:822",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2023-822.md",
+    "local_sha256": "7e732f407d66883ed7d42d6111a16f744d010390acd167b1c3e360505a62dd22",
+    "full_body_whitespace_equal": true,
+    "local_body_contained_in_official": true,
+    "disposition": "Volledige body vergeleken; officieel origineel is leidend. Een verschil wordt niet als identiteit gerapporteerd."
+  }
+]

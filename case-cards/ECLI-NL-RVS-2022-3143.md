@@ -1,0 +1,11 @@
+# ABRvS 2 november 2022 — ECLI:NL:RVS:2022:3143
+
+Zaak 202107089/1/V6; hoger beroep over een inburgeringsboete en een beroep op kwijtschelding. [Officiële uitspraak](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2022:3143); [volledig XML-origineel](../sources/author-4-92-110/ECLI-NL-RVS-2022-3143.xml) en [leesbestand inclusief wettelijke bijlage](../sources/author-4-92-110/ECLI-NL-RVS-2022-3143.txt). Gelezen op 20 oktober 2026; HTTP 200, tijdstip en SHA-256 in het [responsregister](../sources/author-4-92-110/verification.json).
+
+De betrokkene beriep zich onder meer op mantelzorg, financiële omstandigheden en artikel 4:94a. R.o. 3 beschrijft haar stellingen; die vormen niet het oordeel van de rechter. De Afdeling beoordeelt in r.o. 3.1–3.6 de boete en de daarvoor aangedragen omstandigheden. Voor de financiële situatie acht zij de enige betaalspecificatie van de echtgenoot onvoldoende, mede doordat onvoldoende inzicht in lasten was gegeven en schulden niet waren gebleken.
+
+R.o. 3.7 houdt afzonderlijk de weigering van gehele of gedeeltelijke kwijtschelding in stand: onevenredige invorderingsgevolgen waren niet aannemelijk gemaakt. De Afdeling acht daarnaast de verwijzing naar de mogelijkheid van een betalingsregeling terecht. Het hoger beroep wordt ongegrond verklaard. Het gaat om het oordeel op de concrete onderbouwing, niet om een algemene categorische uitsluiting van kwijtschelding zodra termijnenbetaling voorstelbaar is.
+
+Ondersteunt artikel 4:94a, uitsluitend als illustratie van de vereiste concrete beoordeling en financiële onderbouwing. De bijzondere inburgeringswet en het beleid zijn in de bijlage weergegeven in hun toenmalige versie, volgens r.o. 1 van vóór 1 januari 2022. Die historische boetecriteria worden niet als geldend recht op de auteurspeildatum overgenomen. Artikel 4:94a zelf is afzonderlijk met de huidige officiële Awb-XML vergeleken; de algemene maatstaf van onevenredige invorderingsgevolgen staat daarin nog steeds.
+
+De officiële tekst en volledige lokale nationale body zijn vergeleken en stemmen zonder witruimte overeen. De uitspraak levert geen algemene bewijsrechtelijke eis dat in elk dossier dezelfde documenten nodig zijn. Geen onderzoek naar iedere latere verwijzing of alle sectorale kwijtscheldingsregels verricht.

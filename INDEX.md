@@ -1,6 +1,6 @@
 # INDEX — Onvoltooid werkmanuscript
 
-180 van 588 commentaareenheden geschreven. De volledige brondekking is afzonderlijk verantwoord.
+200 van 588 commentaareenheden geschreven. De volledige brondekking is afzonderlijk verantwoord.
 
 - [Inleiding](00-inleiding.md)
 - [Bronnen](SOURCES.md)
@@ -14,4 +14,5 @@
 - [Hoofdstuk 4 Bijzondere bepalingen over besluiten](06-deel-06.md) — 25/25
 - [Hoofdstuk 4 Bijzondere bepalingen over besluiten](07-deel-07.md) — 25/25
 - [Hoofdstuk 4 Bijzondere bepalingen over besluiten](08-deel-08.md) — 25/25
-- [Hoofdstuk 4 Bijzondere bepalingen over besluiten](09-deel-09.md) — 23/25
+- [Hoofdstuk 4 Bijzondere bepalingen over besluiten](09-deel-09.md) — 25/25
+- [Hoofdstuk 4 Bijzondere bepalingen over besluiten](10-deel-10.md) — 18/25

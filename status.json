@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T15:25:19.060536+00:00",
+  "updated_at": "2026-10-20T15:36:59.020996+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -17,12 +17,12 @@
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
     "review_verified_at": "2026-10-20T15:20:17.002995+00:00",
     "review_evidence": "sources/review-009/verification.json",
-    "author_batch_verified_at": "2026-10-20T15:18:19.197211+00:00",
-    "author_batch_evidence": "sources/author-4-85-91/verification.json"
+    "author_batch_verified_at": "2026-10-20T15:36:59.020996+00:00",
+    "author_batch_evidence": "sources/author-4-92-110/verification.json"
   },
   "official_articles": 584,
   "total_units": 588,
-  "completed_units": 180,
+  "completed_units": 200,
   "completed_ids": [
     "aanhef",
     "art-1:1",
@@ -203,9 +203,7 @@
     "art-4:88",
     "art-4:89",
     "art-4:90",
-    "art-4:91"
-  ],
-  "missing_commentary_ids": [
+    "art-4:91",
     "art-4:92",
     "art-4:93",
     "art-4:94",
@@ -225,7 +223,9 @@
     "art-4:107",
     "art-4:108",
     "art-4:109",
-    "art-4:110",
+    "art-4:110"
+  ],
+  "missing_commentary_ids": [
     "art-4:111",
     "art-4:112",
     "art-4:113",
@@ -645,7 +645,11 @@
       "ECLI:NL:CRVB:2016:3597",
       "ECLI:NL:GHARL:2017:7881",
       "ECLI:NL:CRVB:2026:384",
-      "ECLI:NL:RVS:2019:1476"
+      "ECLI:NL:RVS:2019:1476",
+      "ECLI:NL:HR:2015:817",
+      "ECLI:NL:CBB:2019:29",
+      "ECLI:NL:RVS:2026:211",
+      "ECLI:NL:RVS:2022:3143"
     ],
     "fetched_not_yet_assessed": [
       "ECLI:NL:CBB:2024:31"
@@ -655,7 +659,7 @@
   "coverage": true,
   "validation_result": {
     "complete": false,
-    "reason": "408 eenheden buiten deze auteursbatch hebben nog geen commentaar; gedeelde gehele-boekbouw blijft geblokkeerd.",
+    "reason": "388 eenheden buiten deze auteursbatch hebben nog geen commentaar; gedeelde gehele-boekbouw blijft geblokkeerd.",
     "not_independent_review": true,
     "strict_validator": {
       "repo": "Komentar-NL-BWBR0005537",
@@ -678,14 +682,15 @@
     "assigned_batch_passed": true
   },
   "remaining_limitations": [
-    "408 commentaareenheden nog ongeschreven.",
-    "180 eenheden in negen batches beoordeeld; 408 eenheden nog zonder tweede inhoudelijke beoordeling.",
+    "388 commentaareenheden nog ongeschreven.",
+    "180 eenheden in negen batches beoordeeld; 388 eenheden nog zonder tweede inhoudelijke beoordeling.",
     "Vijf officiële uitspraken volledig gelezen, vier reeds aanwezig en één nieuw toegevoegd; selectie zonder uitputtende citatie- of latere-behandelingscontrole.",
     "Bij vijftien overige toegewezen artikelen geen afzonderlijke voldoende relevante volledig geverifieerde uitspraak toegevoegd; geen claim dat rechtspraak ontbreekt.",
     "Historische provinciale, fiscale en socialezekerheidsregels dienen alleen als casuscontext en zijn niet als huidig bijzonder recht overgenomen.",
     "CRVB 2026:384 is lokaal gevonden maar volledige tekstidentiteit met het corpus is niet bevestigd; de volledige officiële XML is de gebruikte autoriteit. GHARL 2017:7881 niet lokaal gevonden.",
     "Firecrawl had nul credits; officiële bronnen rechtstreeks opgehaald, met selectieve web- en lokale corpusrecherche.",
-    "160 overige geschreven toelichtingen behouden zonder herbeoordeling; lengte en herhalingschecks bewijzen geen juridische kwaliteit."
+    "160 overige geschreven toelichtingen behouden zonder herbeoordeling; lengte en herhalingschecks bewijzen geen juridische kwaliteit.",
+    "De twintig nieuwe toelichtingen 4:92–4:110 inclusief 4:94a wachten op een onafhankelijke tweede beoordeling."
   ],
   "preflight": {
     "complete": true,
@@ -696,16 +701,29 @@
   "last_author_batch": {
     "task": "bounded_author",
     "ids": [
-      "art-4:85",
-      "art-4:86",
-      "art-4:87",
-      "art-4:88",
-      "art-4:89",
-      "art-4:90",
-      "art-4:91"
+      "art-4:92",
+      "art-4:93",
+      "art-4:94",
+      "art-4:94a",
+      "art-4:95",
+      "art-4:96",
+      "art-4:97",
+      "art-4:98",
+      "art-4:99",
+      "art-4:100",
+      "art-4:101",
+      "art-4:102",
+      "art-4:103",
+      "art-4:104",
+      "art-4:105",
+      "art-4:106",
+      "art-4:107",
+      "art-4:108",
+      "art-4:109",
+      "art-4:110"
     ],
-    "completed_units": 7,
-    "evidence": "batch-4-85-91-result.json",
+    "completed_units": 20,
+    "evidence": "batch-4-92-110-result.json",
     "independently_reviewed": false
   },
   "bounded_independent_review": {

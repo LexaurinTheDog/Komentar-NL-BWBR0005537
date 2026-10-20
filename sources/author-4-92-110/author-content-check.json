@@ -1,0 +1,57 @@
+{
+  "independent_review": false,
+  "assigned_ids": [
+    "art-4:92",
+    "art-4:93",
+    "art-4:94",
+    "art-4:94a",
+    "art-4:95",
+    "art-4:96",
+    "art-4:97",
+    "art-4:98",
+    "art-4:99",
+    "art-4:100",
+    "art-4:101",
+    "art-4:102",
+    "art-4:103",
+    "art-4:104",
+    "art-4:105",
+    "art-4:106",
+    "art-4:107",
+    "art-4:108",
+    "art-4:109",
+    "art-4:110"
+  ],
+  "units_checked": 20,
+  "unit_notes": {
+    "art-4:92": "Separate allocation across debts from priority within a debt; no costs entitlement created; numerical partial-payment example.",
+    "art-4:93": "All five paragraphs: statutory basis, specification, 6:129 retroactivity, attachment protection and deferral; distinguish 4:104 and 4:108.",
+    "art-4:94": "All four paragraphs: discretionary deferral, collection bar, duration and conditions; interest, offset and limitation consequences.",
+    "art-4:94a": "Statutory exception, proportionality of collection, whole/partial remission, individual facts; historical sectoral case limited.",
+    "art-4:95": "All six paragraphs: reasonable expectation, calculation method, term, settlement/recovery, conditional enforcement power and conditions.",
+    "art-4:96": "Grounds a/b/c, material causation for incorrect data, limited serious-suspicion suspension only a/b, written start and thirteen-week cap.",
+    "art-4:97": "Prescribed payment period, no extra default notice, credited payment moment, distinct late-decision rule.",
+    "art-4:98": "Incorporated BW paragraphs, annual interest and changing rates without invented rate; asymmetric strict thresholds; currency rule and exception.",
+    "art-4:99": "Separate calculable interest decision, payment history, rate periods, article 4:125 procedural concentration.",
+    "art-4:100": "Hypothetical timely decision plus payment term; entitlement, decision-term adjustments, distinction from non-decision penalty.",
+    "art-4:101": "Interest during deferral/suspension unless otherwise determined; partial scope, 6:16 and effect of later corrected principal.",
+    "art-4:102": "All four paragraphs: overpayment, reversed refusal, attributable data exception and retroactive own correction; actual full-text case.",
+    "art-4:103": "Law-level alternative default regime, scope of whole section, no automatic exclusion of remainder of title; selection before calculation.",
+    "art-4:104": "Five-year starting point, limits on administrative recovery after expiry, special 5:35 term and present extension, interruption versus extension.",
+    "art-4:105": "Process act and consequences of unsuccessful/withdrawn pursuit under incorporated 3:316(2); contextual acknowledgment; actual HR holding.",
+    "art-4:106": "Enumerated additional acts, valid reminder and transmission evidence, invoice/decision not equivalent, historical cases distinguished.",
+    "art-4:107": "Non-administrative creditor written notice/reservation, identifiable claim and delivery, 4:109 exclusion and new term.",
+    "art-4:108": "Preservation of existing statutory offset only, no new power or revived action; role distinction and 4:109.",
+    "art-4:109": "Exact exclusion of 4:107–108 for administrative creditor, remaining routes and statutory powers, no blanket prohibition before expiry.",
+    "art-4:110": "All three paragraphs: next-day start, original term capped five years, shorter special term, incorporated judgment enforcement with exceptions."
+  },
+  "actual_corrections_during_author_check": [
+    "Removed unsupported description of a deduction from currency-loss compensation; followed verified 6:125 including its domestic exception.",
+    "Added explicit current 5:35(2) extension to avoid copying historical dwangsom outcomes.",
+    "Excluded 2023:822 as a remission holding because the operative reasoning was article 3:2."
+  ],
+  "remaining_limitations": [
+    "Fresh independent second pass remains required.",
+    "Length/repetition checks do not establish legal quality."
+  ]
+}

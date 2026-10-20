@@ -1,0 +1,26 @@
+[
+  {
+    "book": "bw3",
+    "latest_effective_on_decisive_date": "2025-07-01",
+    "latest_on_recheck": "2025-07-01",
+    "current_statement": "Geraadpleegd op 20-10-2026. Geldend van 01-07-2025 t/m heden.",
+    "history_evidence": "sources/author-4-92-110/bw3-history.html",
+    "articles": [
+      "316",
+      "324"
+    ]
+  },
+  {
+    "book": "bw6",
+    "latest_effective_on_decisive_date": "2026-07-16",
+    "latest_on_recheck": "2026-07-16",
+    "current_statement": "Geraadpleegd op 20-10-2026. Geldend van 16-07-2026 t/m heden.",
+    "history_evidence": "sources/author-4-92-110/bw6-history.html",
+    "articles": [
+      "119",
+      "120",
+      "125",
+      "129"
+    ]
+  }
+]

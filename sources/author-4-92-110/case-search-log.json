@@ -1,0 +1,122 @@
+{
+  "searched_at": "2026-10-20T15:36:59.020996+00:00",
+  "scope": "Selective research for twenty assigned articles 4:92–4:110, including 4:94a. Not exhaustive.",
+  "firecrawl": {
+    "status_checked": true,
+    "credits_remaining": 0,
+    "attempted_query": "site:uitspraken.rechtspraak.nl \"4:106\" \"aanmaning\"",
+    "result": "Request failed: insufficient credits. No settings or credentials changed. Direct official retrieval and web discovery used."
+  },
+  "web_queries": [
+    "site:uitspraken.rechtspraak.nl \"4:106\" \"aanmaning\"",
+    "site:uitspraken.rechtspraak.nl \"4:94a\" \"kwijtschelding\"",
+    "site:uitspraken.rechtspraak.nl \"4:102\" \"rente\"",
+    "site:uitspraken.rechtspraak.nl \"4:94a\" \"2025\"",
+    "site:uitspraken.rechtspraak.nl \"4:102\" \"2024\" \"wettelijke rente\""
+  ],
+  "official_full_texts_read_and_used": [
+    {
+      "ecli": "ECLI:NL:HR:2015:817",
+      "court": "Hoge Raad",
+      "date": "2015-04-03",
+      "docket": "14/00186",
+      "paragraphs": [
+        "3.3",
+        "3.4.2",
+        "3.5.2",
+        "3.5.3",
+        "3.6.2"
+      ],
+      "supported_ids": [
+        "art-4:105",
+        "art-4:106"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:CBB:2019:29",
+      "court": "College van Beroep voor het bedrijfsleven",
+      "date": "2019-01-22",
+      "docket": "17/1437",
+      "paragraphs": [
+        "5.2",
+        "5.3",
+        "5.4",
+        "5.5",
+        "6"
+      ],
+      "supported_ids": [
+        "art-4:106",
+        "art-4:110"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2026:211",
+      "court": "Afdeling bestuursrechtspraak van de Raad van State",
+      "date": "2026-01-14",
+      "docket": "202403580/1/A2",
+      "paragraphs": [
+        "6.2"
+      ],
+      "supported_ids": [
+        "art-4:102"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2022:3143",
+      "court": "Afdeling bestuursrechtspraak van de Raad van State",
+      "date": "2022-11-02",
+      "docket": "202107089/1/V6",
+      "paragraphs": [
+        "3.6",
+        "3.7"
+      ],
+      "supported_ids": [
+        "art-4:94a"
+      ]
+    }
+  ],
+  "official_full_text_read_not_used": [
+    {
+      "ecli": "ECLI:NL:RVS:2023:822",
+      "reason": "4:94a is raised by the appellant, but the dispositive holding concerns deficient factual investigation under article 3:2; not used as a holding on remission."
+    }
+  ],
+  "additional_local_full_text_screened": [
+    {
+      "ecli": "ECLI:NL:RVS:2022:3143",
+      "origin": "Local corpus discovery, then full official verification."
+    }
+  ],
+  "search_hits_not_used": [
+    "ECLI:NL:RBOVE:2024:6184",
+    "ECLI:NL:GHDHA:2024:311",
+    "ECLI:NL:RVS:2026:1396",
+    "ECLI:NL:RBLIM:2021:1326",
+    "ECLI:NL:RVS:2013:2626"
+  ],
+  "local_search_evidence": "sources/author-4-92-110/local-search-log.json",
+  "local_full_body_comparisons": "sources/author-4-92-110/local-case-comparison.json",
+  "units_without_separate_verified_case": [
+    "art-4:92",
+    "art-4:93",
+    "art-4:94",
+    "art-4:95",
+    "art-4:96",
+    "art-4:97",
+    "art-4:98",
+    "art-4:99",
+    "art-4:100",
+    "art-4:101",
+    "art-4:103",
+    "art-4:104",
+    "art-4:107",
+    "art-4:108",
+    "art-4:109"
+  ],
+  "limitations": [
+    "No separate sufficiently verified authority added for the listed technical units; this is not a finding that no case exists.",
+    "No exhaustive later-treatment search.",
+    "Older dwangsom cases concern the historical version of 5:35; the current additional extension rule is expressly distinguished.",
+    "Historical sector-specific rules and concrete dates are not represented as universally current."
+  ]
+}

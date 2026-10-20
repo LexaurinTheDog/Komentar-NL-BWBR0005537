@@ -1,0 +1,113 @@
+{
+  "complete": true,
+  "kind": "bounded_author",
+  "authored_ids": [
+    "art-4:92",
+    "art-4:93",
+    "art-4:94",
+    "art-4:94a",
+    "art-4:95",
+    "art-4:96",
+    "art-4:97",
+    "art-4:98",
+    "art-4:99",
+    "art-4:100",
+    "art-4:101",
+    "art-4:102",
+    "art-4:103",
+    "art-4:104",
+    "art-4:105",
+    "art-4:106",
+    "art-4:107",
+    "art-4:108",
+    "art-4:109",
+    "art-4:110"
+  ],
+  "completed_units": 20,
+  "total_assigned": 20,
+  "written_book_units": 200,
+  "total_book_units": 588,
+  "whole_book_complete": false,
+  "independent_review": false,
+  "source_preflight": "sources/author-4-92-110/preflight-result.json",
+  "technical_support": "sources/author-4-92-110/technical-check.json",
+  "author_content_check": "sources/author-4-92-110/author-content-check.json",
+  "case_law_sources": [
+    {
+      "ecli": "ECLI:NL:HR:2015:817",
+      "court": "Hoge Raad",
+      "date": "2015-04-03",
+      "docket": "14/00186",
+      "paragraphs": [
+        "3.3",
+        "3.4.2",
+        "3.5.2",
+        "3.5.3",
+        "3.6.2"
+      ],
+      "supported_ids": [
+        "art-4:105",
+        "art-4:106"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:CBB:2019:29",
+      "court": "College van Beroep voor het bedrijfsleven",
+      "date": "2019-01-22",
+      "docket": "17/1437",
+      "paragraphs": [
+        "5.2",
+        "5.3",
+        "5.4",
+        "5.5",
+        "6"
+      ],
+      "supported_ids": [
+        "art-4:106",
+        "art-4:110"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2026:211",
+      "court": "Afdeling bestuursrechtspraak van de Raad van State",
+      "date": "2026-01-14",
+      "docket": "202403580/1/A2",
+      "paragraphs": [
+        "6.2"
+      ],
+      "supported_ids": [
+        "art-4:102"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2022:3143",
+      "court": "Afdeling bestuursrechtspraak van de Raad van State",
+      "date": "2022-11-02",
+      "docket": "202107089/1/V6",
+      "paragraphs": [
+        "3.6",
+        "3.7"
+      ],
+      "supported_ids": [
+        "art-4:94a"
+      ]
+    }
+  ],
+  "shared_builder": {
+    "command": [
+      "python3",
+      "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
+      "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537"
+    ],
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "CHYBÍ komentář k 388 jednotkám, např.: ['art-4:111', 'art-4:112', 'art-4:113', 'art-4:114', 'art-4:115', 'art-4:116', 'art-4:117', 'art-4:118', 'art-4:119', 'art-4:120']\n"
+  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "Only the twenty assigned units authored; 388 other units remain unwritten.",
+    "Fresh independent review of this batch pending.",
+    "Selective case research; no exhaustive later-treatment check.",
+    "Shared full-book builder and validator continue to report incomplete coverage outside this batch."
+  ]
+}
