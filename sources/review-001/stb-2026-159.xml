@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2026-159/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Besluit van 24 juni 2026 tot vaststelling van het tijdstip van inwerkingtreding van de Wet toelating terbeschikkingstelling van arbeidskrachten en het Besluit van 16 februari 2026 tot wijziging van het Besluit allocatie arbeidskrachten door intermediairs in verband met de invoering van een toelatingsplicht voor het ter beschikking stellen van arbeidskrachten (Stb. 2026, 41)</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al bevat="voordracht">Op voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 22 juni 2026, nr. 2026-0000203704;</considerans.al>
+          <considerans.al bevat="grondslag">Gelet op artikel VI van de Wet toelating terbeschikkingstelling van arbeidskrachten en artikel III van het Besluit tot wijziging van het Besluit allocatie arbeidskrachten door intermediairs;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Hebben goedgevonden en verstaan:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">I</nr>
+            <titel>WET TOELATING TERBESCHIKKINGSTELLING VAN ARBEIDSKRACHTEN</titel>
+          </kop>
+          <al>De Wet toelating terbeschikkingstelling van arbeidskrachten treedt in werking met ingang van 1 januari 2027, met uitzondering van:</al>
+          <?xpp qa?>
+          <?xpp lead;-1?>
+          <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>artikel I, onderdelen Da, Ea, I, artikelen 12s, 12ua en 12v, K, L, N, W, artikel 23b, en artikelen IV en Va, die in werking treden met ingang van 1 juli 2026 of, indien het Staatsblad waarin dit besluit wordt geplaatst wordt uitgegeven na 30 juni 2026, de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>artikel I, onderdelen D, I, artikelen 12c, eerste lid, en 12d, eerste lid, J, O tot en met V, die in werking treden met ingang van 1 januari 2028;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>artikel I, onderdelen H, artikel 12ba, en Ia.</al>
+            </li>
+          </lijst>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">II</nr>
+            <titel>BESLUIT TOT WIJZIGING VAN HET BESLUIT ALLOCATIE ARBEIDSKRACHTEN DOOR INTERMEDIAIRS</titel>
+          </kop>
+          <al>Het Besluit van 16 februari 2026 tot wijziging van het Besluit allocatie arbeidskrachten door intermediairs in verband met de invoering van een toelatingsplicht voor het ter beschikking stellen van arbeidskrachten (<extref doc="stb-2026-41" soort="document" status="actief">Stb. 2026, 41</extref>) treedt in werking met ingang van 1 januari 2027, met uitzondering van artikel I, onderdeel C, artikelen 1b:9, 1b:10, 1b:11, 1b:12 en 1b:13, onderdelen D en E, die in werking treden met ingang van 1 juli 2026 of, indien het Staatsblad waarin dit besluit wordt geplaatst wordt uitgegeven na 30 juni 2026, de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.</al>
+        </wijzig-artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Onze Minister van Sociale Zaken en Werkgelegenheid is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.</al>
+        </slotformulering>
+        <gegeven>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2026-06-24">24 juni 2026</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van Sociale Zaken en Werkgelegenheid,</functie>
+          <naam>
+            <voornaam>J.A.</voornaam>
+            <achternaam>Vijlbrief</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2026-06-29">Uitgegeven de <nadruk type="cur">negenentwintigste</nadruk> juni 2026</datum>
+          <ondertekening>
+            <functie>De Minister van Justitie en Veiligheid,</functie>
+            <naam>
+              <voornaam>D.M. van</voornaam>
+              <achternaam>Weel</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+      <nota-toelichting>
+        <kop>
+          <titel>NOTA VAN TOELICHTING</titel>
+        </kop>
+        <al>Dit koninklijk besluit (hierna: dit besluit) regelt de inwerkingtreding van de Wet toelating terbeschikkingstelling van arbeidskrachten (<extref doc="stb-2025-385" soort="document" status="actief">Stb. 2025, 385</extref>) (hierna: Wtta) en de inwerkingtreding van het Besluit van 16 februari 2026 tot wijziging van het Besluit allocatie arbeidskrachten door intermediairs in verband met de invoering van een toelatingsplicht voor het ter beschikking stellen van arbeidskrachten (<extref doc="stb-2026-41" soort="document" status="actief">Stb. 2026, 41</extref>) (hierna: het Wijzigingsbesluit). Het toelatingsstelsel treedt gefaseerd in werking om een zorgvuldige voorbereiding van de uitvoeringspraktijk mogelijk te maken en rechtszekerheid te bieden aan uitleners en inleners. De gefaseerde inwerkingtreding bestaat uit inwerkintreding per 1 juli 2026, het in werking laten treden van artikelen met name ten behoeve van aanvraagprocessen per 1 januari 2027 en het in werking laten treden van artikelen wat betreft toezicht en handhaving per 1 januari 2028. De inwerkingtreding van het toelatingsstelsel zoals geregeld in de Wtta wordt hieronder toegelicht in paragraaf 1. Naast de inwerkingtreding van het toelatingsstelsel regelt dit besluit de inwerkingtreding van andere verplichtingen (zoals het verstrekken van informatie aan ter beschikking gestelde arbeidskrachten en de grondslag voor een sectoraal uitzendverbod). De inwerkingtreding van deze artikelen wordt toegelicht in paragraaf 2. Ten slotte regelt dit besluit de inwerkingtreding van het Wijzigingsbesluit. Dat wordt hieronder toegelicht in paragraaf 3.</al>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">1.</nr>
+            <titel>Het toelatingsstelsel</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <nr status="officieel">a.</nr>
+              <titel>Inwerkingtreding op 1 juli 2026 (artikel I, onderdeel a, van dit besluit)</titel>
+            </kop>
+            <al-groep>
+              <al>De artikelen die nodig zijn voor een goede uitvoering en implementatie van het toelatingsstelsel treden zo snel mogelijk in werking met inachtneming van de vaste verandermomenten voor de inwerkingtreding van regelgeving. De artikelen treden daarom in werking op 1 juli 2026 of – indien publicatie vóór die datum niet haalbaar blijkt – op de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst. Dit betreft de artikelen in de Wtta over het overgangsrecht, de aanwijzing van inspectie-instellingen, de gegevensuitwisseling het openbaar register en het artikel over verkeer langs elektronische weg.</al>
+              <al>Het is nodig dat de Nederlandse Autoriteit Uitleenmarkt (NAU) het aanwijsloket voor inspectie-instellingen kan openen in 2026. Vanaf dan kunnen inspectie-instellingen zich melden bij de NAU voor een aanvraag tot aanwijzing om inspecties uit te kunnen voeren. Dat geeft de NAU en inspectie-instellingen voldoende tijd om de aanwijsprocedure te doorlopen. Het openbaar register bevat ook aangewezen inspectie-instellingen. Het is wenselijk dat ondernemingen zich nog voor inwerkingtreding van het toelatingsstelsel op 1 januari 2027 kunnen informeren over beschikbare aangewezen inspectie-instellingen.</al>
+            </al-groep>
+            <al>Het is daarnaast nodig dat de artikelen over gegevensuitwisseling op 1 juli 2026 in werking treden, zodat gegevensuitwisseling mogelijk is bij de start van de implementatie van het toelatingsstelsel. Ook is inwerkingtreding op 1 juli 2026 nodig voor de technische uitwerking van de gegevenssystemen tussen de NAU en stelselpartijen, zoals de Arbeidsinspectie. De artikelen over overgangsrecht in verband met aanvragen tot ontheffing, toelating en voorlopige toelating treden eveneens op 1 juli 2026 in werking. Daarmee wordt voorzien in een grondslag voor het opzetten van een meldloket voorafgaand aan het tijdstip van inwerkingtreding van het toelatingsstelsel op 1 januari 2027.</al>
+            <al>Met oog op de goede uitvoering en implementatie van het toelatingsstelsel is noodzakelijk dat het artikel over verkeer langs elektronische weg op 1 juli 2026 in werking treedt. Dat geldt ook voor de bijbehorende samenloopbepaling. Voor een nadere toelichting wordt verwezen naar de memorie van toelichting bij de Wtta (Kamerstukken II 2023/24, <extref doc="kst-36446-3" soort="document" status="actief">36 446, nr. 3</extref>.).</al>
+            <al-groep>
+              <al>Samengevat treden de volgende artikelen van de Wtta in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Aanwijzing inspectie-instellingen (artikel I, onderdeel I, artikel 12s)</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Openbaar register (artikel I, onderdeel I, artikel 12v)</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Gegevensuitwisseling (artikel I, onderdelen K, L, N, en artikel IV)</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Overgangsrecht aanvragen tot ontheffing, toelating en voorlopige toelating (artikel I, onderdeel W, artikel 23b)</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Verkeer langs elektronische weg (artikel I, onderdeel I, artikel 12ua en artikel Va)</al>
+                </li>
+              </lijst>
+            </al-groep>
+            <al>Voor de bepaling betreffende de inwerkingtreding en de vaststelling van de citeertitel hoeft overeenkomstig Aanwijzing 4.19 van de Aanwijzingen voor de regelgeving geen afzonderlijke voorziening te worden getroffen. Voor deze bepalingen wordt aangesloten bij het tijdstip waarop het eerste deel van de Wtta tot stand komt, namelijk op 1 juli 2026.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <nr status="officieel">b.</nr>
+              <titel>Inwerkingtreding op 1 januari 2027 (artikel I, aanhef, van dit besluit)</titel>
+            </kop>
+            <al>Op 1 januari 2027 treedt het toelatingsstelsel in werking. Dat betekent dat onder meer de artikelen over aanvragen van uitleners voor ontheffing, toelating, en voorlopige toelating, en de beoordelingssystematiek van de aanvragen dan in werking treden.</al>
+            <al>De meld- en administratieplicht voor uitleners treedt ook op 1 januari 2027 in werking. Dit geldt ook voor de administratieplicht voor de inlener. De inlener is verplicht om de kwalificatie van de uitlener uiterlijk op de dag waarop de terbeschikkingstelling is aangevangen in de administratie op te nemen ten behoeve van de handhaafbaarheid van de verplichting. Die administraties van de uitlener en de inleners zijn nodig om de controles door inspectie-instellingen werkbaar te maken. Om die reden treedt de meld- en administratieplicht gelijktijdig in werking treedt met het normenkader. Het uitleen- en inleenverbod zonder toelating treden later in werking, op 1 januari 2028. Zie de toelichting onder c.</al>
+            <al>Het aanvraagproces treedt op 1 januari 2027 inwerking, maar het aanvraagloket gaat later open, zodat voldoende tijd is voor uitleners, inspectie-instellingen en de NAU om zich voor te bereiden op respectievelijk het indienen en behandelen van een aanvraag voor een toelating of ontheffing via het aanvraagloket.</al>
+            <al>Het gaat daarbij om onder meer de volgende artikelen van de Wtta die per 1 januari 2027 inwerking treden.</al>
+            <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+              <li>
+                <li.nr>–</li.nr>
+                <al>Uitzonderingen op het toelatingsstelsel (artikel I, onderdelen B en C)</al>
+              </li>
+              <li>
+                <li.nr>–</li.nr>
+                <al>Meld- en administratieplicht uitlener en inlener (artikel I, onderdeel I, artikelen 12c en 12d, met uitzondering van het eerste lid van de artikelen)</al>
+              </li>
+              <li>
+                <li.nr>–</li.nr>
+                <al>Huisvestingsverplichting (artikel 1, onderdelen H (met uitzondering van artikel 12ba, dat ziet op de BRP-zorgplicht; zie daarover hierna, onder 2) en M)</al>
+              </li>
+              <li>
+                <li.nr>–</li.nr>
+                <al>Advies inspectie-instellingen (artikel I, onderdeel I, artikel 12t)</al>
+              </li>
+              <li>
+                <li.nr>–</li.nr>
+                <al>Meewerkplicht inlener (artikel I, onderdeel I, artikel 12u)</al>
+              </li>
+              <li>
+                <li.nr>–</li.nr>
+                <al>Ontheffingsprocedure (artikel I, onderdeel I, artikelen 12e tot en met 12h)</al>
+              </li>
+              <li>
+                <li.nr>–</li.nr>
+                <al>Toelatingsprocedure alsmede voorwaarden en verplichtingen voor de toelating (artikel I, onderdeel I, artikelen 12i tot en met 12r).</al>
+              </li>
+              <li>
+                <li.nr>–</li.nr>
+                <al>Overgangsrecht bezwaar- en beroepsprocedures (artikel I, onderdeel W, artikel 23a)</al>
+              </li>
+              <li>
+                <li.nr>–</li.nr>
+                <al>Overgangsrecht financiële zekerheidsstelling (artikel I, onderdeel W, artikel 23c)</al>
+              </li>
+              <li>
+                <li.nr>–</li.nr>
+                <al>Hoger beroep bij de Afdeling Bestuursrechtspraak van de Raad van State (artikel II)</al>
+              </li>
+              <li>
+                <li.nr>–</li.nr>
+                <al>Aanpassing WagwEU (artikel III)</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <nr status="officieel">c.</nr>
+              <titel>Inwerkingtreding op 1 januari 2028 (artikel I, onderdeel b, van dit besluit)</titel>
+            </kop>
+            <al-groep>
+              <al>Met het oog op de rechtszekerheid en een zorgvuldige invoering treedt het uitleen- en inleenverbod een jaar na de inwerkingtreding van het toelatingsstelsel inwerking. Uitleners en inleners kunnen gedurende deze periode hun bedrijfsvoering aanpassen en zich voorbereiden op de toelatingsplicht. Gedurende deze periode ligt de nadruk op voorlichting en ondersteuning, waarna de formele handhaving aanvangt.</al>
+              <al>Vanaf het moment dat de Arbeidsinspectie handhaaft op het uit- en inleenverbod zonder toelating vervalt ook de registratieplicht. Zolang de handhaving op het uit- en inleenverbod zonder toelating niet is aangevangen, is de registratieplicht, zoals geregeld in artikel 7a van de Waadi, zoals die luidde voor de inwerkingtreding van de Wtta, nodig om te voorkomen dat gebrek aan toezichtgrondslag ontstaat voor de Arbeidsinspectie. Vanaf het moment dat de Arbeidsinspectie handhaaft op het uit- en inleenverbod zonder toelating is de afzonderlijke registratieplicht niet langer gerechtvaardigd.</al>
+            </al-groep>
+            <al-groep>
+              <al>Het gaat om de volgende artikelen van de Wtta die op 1 januari 2028 inwerking treden.</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Vervallen registratieplicht (artikel I, onderdelen D en M)</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Uitleen- en inleenverbod zonder toelating (artikel I, onderdeel I, artikelen 12c, eerste lid, en 12d, eerste lid)</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Toezicht en handhaving (artikel I, onderdelen J, O tot en met V)</al>
+                </li>
+              </lijst>
+            </al-groep>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">2.</nr>
+            <titel>Overige verplichtingen</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <nr status="officieel">a.</nr>
+              <titel>Sectoraal uitzendverbod</titel>
+            </kop>
+            <al>De grondslag voor het sectoraal uitzendverbod treedt in werking op 1 juli 2026. Dit betreft het artikel I, onderdelen Da en Ea, van de Wtta. Indien publicatie vóór die datum niet haalbaar blijkt, treedt de grondslag in werking op de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst. Voor de volledigheid wordt opgemerkt dat met de inwerkingtreding van deze grondslag nog geen sectoraal uitzendverbod is geregeld.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <nr status="officieel">b.</nr>
+              <titel>Verplichting informeren arbeidskrachten over arbeidsvoorwaarden</titel>
+            </kop>
+            <al>Artikel I, onderdeel G, van de Wtta regelt de verplichting aan de uitlener om informatie over geldende arbeidsvoorwaarden (bijvoorbeeld over inschaling) schriftelijk mede te delen aan de arbeidskracht die ter beschikking wordt gesteld. De verplichting verbetert de naleving van het loonverhoudingsvoorschrift, dat ook onderdeel is van het normenkader binnen het toelatingsstelsel. Om die reden treedt de verplichting gelijktijdig in werking met het toelatingsstelsel op 1 januari 2027.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <nr status="officieel">c.</nr>
+              <titel>Onderzoeksmogelijkheid door Arbeidsinspectie</titel>
+            </kop>
+            <al>Artikel I, onderdeel M, wijzigt artikel 15 Waadi, zoals dat artikel luidde voor de publicatie van dit besluit. Dat artikel geeft de mogelijkheid aan de Minister van SZW (of de Arbeidsinspectie, namens de minister) om verslag uit te brengen over de feiten en omstandigheden uit het onderzoek naar de naleving van de hoofdstukken 2 of 3 aan de in dat artikel genoemde personen en instanties. Deze onderzoeksmogelijkheid houdt verband met het uitgangspunt dat overtredingen van de bepalingen in de hoofstukken 2 en 3 (met uitzondering van artikel 7a Waadi) niet strafrechtelijk of bestuursrechtelijk gesanctioneerd zijn. Sanctionering van overtredingen dient te geschieden langs de privaatrechtelijke weg. De Arbeidsinspectie kan met toepassing van artikel 15 naar de naleving van die verplichtingen wel onderzoek doen. In het geval overtreding van de (privaatrechtelijke) regels wordt geconstateerd, kan een betrokkene bij de rechter nakoming of schadevergoeding eisen. Deze onderzoeksmogelijkheid geldt niet voor de registratieplicht, zoals geregeld in artikel 7a Waadi, zoals dat luidde voor de publicatie van dit besluit. De registratieplicht wordt immers bestuursrechtelijk gehandhaafd. Om die reden is een onderzoekmogelijkheid door de Arbeidsinspectie (op verzoek van bijvoorbeeld een vakbond) niet mogelijk. Met het vervallen van de registratieplicht is het niet langer nodig de registratieplicht in artikel 15 uit te zonderen. De verwijzing naar artikel 7a Waadi komt derhalve te vervallen. Wel wordt van de onderzoeksmogelijkheid van artikel 15 uitgezonderd, een onderzoek naar de naleving van de huisvestingseis in hoofdstuk 3. De controle op de naleving van die eis vindt plaats via de toelating en de naleving van het normenkader. Zie de toelichting bij artikel I, onderdeel M, van de Wtta (Kamerstukken II 2023/24, <extref doc="kst-36446-3" soort="document" status="actief">36 446, nr 3</extref>.)</al>
+            <al>Wijzigingsonderdeel M treedt op 1 januari 2027 in werking, gelijktijdig met de inwerkingtreding van de huisvestingseis (artikel 12b). Onderzoek naar de huisvestingseis door de Arbeidsinspectie is daarmee conform voormelde toelichting niet mogelijk. Op 1 januari 2027 is de registratieplicht echter nog niet vervallen. Wel verdwijnt per die datum de uitzondering van de registratieplicht in artikel 15. De Arbeidsinspectie zal gedurende de periode tot aan het vervallen van de registratieplicht geen onderzoek doen naar de registratieplicht die komt te vervallen op 1 januari 2028. Dit komt overeen met de bedoeling van de wetgever bij de wijziging van artikel 15 van de Waadi.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <nr status="officieel">d.</nr>
+              <titel>BRP-zorgplicht</titel>
+            </kop>
+            <divisie opmaak="default">
+              <kop>
+                <titel>Artikel I, onderdeel H, artikel 12ba</titel>
+              </kop>
+              <al>Dit betreft de plicht voor uitleners om te bevorderen dat ter beschikking gestelde arbeidskrachten de verplichtingen in de BRP naleven en uitleners zich vervolgens vergewissen van inschrijving als ingezetene in de BRP. Ook is er een wettelijke grondslag geregeld om een meldplicht en administratieplicht te kunnen introduceren. De zorgplicht stelt verplichtingen aan een uitlener die niet afhankelijk zijn van de invoering van het toelatingsstelsel. Het wordt echter wenselijk geacht om dit artikel in de Waadi tegelijkertijd in werking te laten treden met het besluit tot wijziging van het Baadi, waarin de zorgplicht verder wordt uitgewerkt, dat op dit moment in voorbereiding is. Voor zowel dit artikel in de Waadi als de wijziging van het Baadi is het streven om de wijzigingen op 1 januari 2027 in werking te laten treden. Dit is echter nog afhankelijk van het verdere verloop van het proces tot wijziging van het Baadi. Daarom zal het tijdstip van inwerkingtreding van artikel I, onderdeel H, artikel 12ba, op een later moment worden vastgesteld.</al>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <titel>Artikel I, onderdeel Ia</titel>
+              </kop>
+              <al>Het toevoegen van de zorgplicht in het kader van de BRP-registratie aan het normenkader treedt op een nader te bepalen moment in werking voor een ordentelijke en beheerste implementatie. Dit zal samenhangen met het moment waarop de uitvoering redelijkerwijs kan controleren op de toegevoegde norm en de opbouw van de private inspectiecapaciteit.</al>
+            </divisie>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">3.</nr>
+            <titel>Besluit tot wijziging van het Besluit allocatie door arbeidskrachten door intermediairs</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <nr status="officieel">a.</nr>
+              <titel>Inwerkingtreding per 1 juli 2026 (artikel II van dit besluit)</titel>
+            </kop>
+            <al-groep>
+              <al>De artikelen uit het Wijzigingsbesluit die een nadere invulling geven aan het aanwijzingsproces van inspectie-instellingen, inclusief het weigeren, schorsen, intrekken en wijzigingen van een aanwijzing treden in werking op 1 juli 2026 of – indien publicatie vóór die datum niet haalbaar blijkt – op de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst. Dat geldt ook voor de nadere invulling over welke gegevens in het openbaar register opgenomen moeten worden, en wanneer die gegevens aangepast en verwijderd moeten worden, evenals de bewaartermijnen. De nadere invulling van de artikelen over de gegevensuitwisseling ten behoeve van de uitvoering van het toelatingsstelsel en het toezicht op de naleving treden ook op 1 juli 2026 inwerking.</al>
+              <al>Het artikel dat de voorwaarden voor het overgangsrecht nader regelt treedt op 1 juli 2026 in werking. Dit sluit aan bij de gefaseerde inwerkingtreding van het toelatingsstelsel zoals geregeld in de Wtta.</al>
+            </al-groep>
+            <al-groep>
+              <al>Het gaat om de volgende artikelen van het Wijzigingsbesluit:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Aanwijzing van inspectie-instellingen (artikel 1b:9)</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Weigering, schorsing, wijziging of intrekking van een aanwijzing (artikel 1b:10)</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>In het register op te nemen gegevens (artikel 1b:11)</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Aanpassing, verwijdering en bewaartermijn (artikel 1b:12)</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Gegevensverwerking (Artikelen 2:1 t/m 2:12)</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Wijziging Besluit arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie (artikel II)</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Overgangsrecht aanvragen tot ontheffing (artikel I, onderdeel E, Artikel 5:1)</al>
+                </li>
+              </lijst>
+            </al-groep>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <nr status="officieel">b.</nr>
+              <titel>Inwerkingtreding per 1 januari 2027 (artikel II van dit besluit)</titel>
+            </kop>
+            <al>De artikelen die een nadere invulling geven aan de voorwaarden voor de toelatingsprocedure, zoals de aanvraag voor ontheffing en toelating en de voorwaarden en verplichtingen, zoals de financiële zekerheidsstelling, en het normenkader treden per 1 januari 2027 inwerking, tegelijk met de inwerkingtreding van het toelatingsstelsel zoals geregeld in de Wtta.</al>
+            <al-groep>
+              <al>Het gaat om de volgende artikelen:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Meldplicht uitlener (artikel 1b:1)</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Ontheffing uitleenverbod (artikel 1b:2)</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Aanvraag toelating (artikel 1b:3)</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Schorsen van de toelating (artikel 1b:4)</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Bezwaar (artikel 1b:5)</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Financiële zekerheidsstelling (artikel 1b:6)</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Verhaal op financiële zekerheid (artikel 1b:7)</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Normenkader (artikel 1b:8).</al>
+                </li>
+              </lijst>
+            </al-groep>
+          </divisie>
+        </divisie>
+        <ondertekening>
+          <functie>De Minister van Sociale Zaken en Werkgelegenheid,</functie>
+          <naam>
+            <voornaam>J.A.</voornaam>
+            <achternaam>Vijlbrief</achternaam>
+          </naam>
+        </ondertekening>
+      </nota-toelichting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

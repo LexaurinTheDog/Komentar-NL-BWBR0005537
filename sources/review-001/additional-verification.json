@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2014:3379",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2014:3379",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T13:55:44.380286+00:00",
+    "path": "sources/review-001/case-3379.xml",
+    "bytes": 23619,
+    "sha256": "08f2c20ee002b21da41fc449eeef23aabca0d6c3a40d7584d744819a77b42a04",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2024-321.xml",
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2024-321.xml",
+    "content_type": "text/xml",
+    "accessed_at": "2026-10-20T13:55:44.639539+00:00",
+    "path": "sources/review-001/stb-2024-321.xml",
+    "bytes": 4554,
+    "sha256": "8913c0fb1a44e6662cd80bd5db52efabfd860ba06a98e9a3f1e3426b2364296a",
+    "xml_root": "officiele-publicatie",
+    "accepted_format": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2026-159.xml",
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2026-159.xml",
+    "content_type": "text/xml",
+    "accessed_at": "2026-10-20T13:55:44.852457+00:00",
+    "path": "sources/review-001/stb-2026-159.xml",
+    "bytes": 29701,
+    "sha256": "995c2dc83f8a654a6a941d2d9cc7d5eed775dfb17c0c7fc38b46623fd50ab737",
+    "xml_root": "officiele-publicatie",
+    "accepted_format": true
+  }
+]

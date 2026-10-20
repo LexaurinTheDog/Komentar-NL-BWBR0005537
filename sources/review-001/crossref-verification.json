@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0001840",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0001840/2023-02-22",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T13:58:42.314970+00:00",
+    "path": "sources/review-001/grondwet.html",
+    "bytes": 907438,
+    "sha256": "43f3d12799b3fe6a85c361324496c198314f1dcbed68fcf5ab88822e2295971f",
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0003245",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0003245/2026-08-01",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T13:58:47.167268+00:00",
+    "path": "sources/review-001/wet-milieubeheer.html",
+    "bytes": 6143773,
+    "sha256": "7d913a46f41416ab167ace49c6a0dd2c4ce8c436442dc95afb1e1bad7f268dc7",
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0001947",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0001947/2025-07-01",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T13:58:47.767436+00:00",
+    "path": "sources/review-001/ambtenarenwet.html",
+    "bytes": 185628,
+    "sha256": "d330f2eae3b92d07fbca8f9233453fcb96cdff80844f0dddaf0b27bc139cdcc8",
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0048156",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0048156/2025-11-11",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T13:58:48.346353+00:00",
+    "path": "sources/review-001/wet-digitale-overheid.html",
+    "bytes": 279707,
+    "sha256": "7d1206bd6bc82ef91ab1f2f86eaa47231bd3eefd50531cc845224ef885a06c38",
+    "accepted_format": true
+  }
+]

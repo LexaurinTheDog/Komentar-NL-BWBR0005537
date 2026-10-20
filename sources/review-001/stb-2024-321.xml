@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2024-321/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Besluit van 22 oktober 2024, houdende vaststelling van het tijdstip van inwerkingtreding van de artikelen I, onderdelen C tot en met M, Ia, II, IV tot en met XIV, onderdeel B, XVI tot en met XIX, XXI, XXII, onderdelen A en B, XXIII, XXIV, XXVII tot en met XXXIII en XXXIV van de Wet modernisering elektronisch bestuurlijk verkeer en artikel I, onderdeel BN, van de Verzamelwet Omgevingswet 2023</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al bevat="voordracht">Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 17 oktober 2024, nr. 2024-0000029893, gedaan in overeenstemming met Staatssecretaris van Justitie en Veiligheid T.H.D. Struycken;</considerans.al>
+          <considerans.al bevat="grondslag">Gelet op artikel XXXVI van de Wet modernisering elektronisch bestuurlijk verkeer en artikel XX van de Verzamelwet Omgevingswet 2023;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Hebben goedgevonden en verstaan:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <?xpp qa?>
+        <?xpp lead;-1?>
+        <artikel status="goed">
+          <kop>
+            <label>Enig</label>
+            <titel>artikel</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1.</lidnr>
+            <al>Artikel I, onderdeel F, van de Wet modernisering elektronisch bestuurlijk verkeer treedt in werking met ingang van 1 januari 2025.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2.</lidnr>
+            <al>De artikelen I, onderdelen C, D, met uitzondering van artikel 2:10, tweede lid, E en G tot en met M, II, IV, V, VI, VII, VIII, IX, X, XI, XII, XIV, onderdeel B, XVI, XVII, XVIII, XVIIIa, XIX, XXI, XXII, onderdelen A en B, XXIII, XXIV, XXVII, XXVIII, XXIX, XXIXa, XXX, XXXI, XXXII, XXXIII en XXXIV van de Wet modernisering elektronisch bestuurlijk verkeer treden in werking met ingang van 1 januari 2026.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3.</lidnr>
+            <al>Artikel I, onderdeel BN, van de Verzamelwet Omgevingswet 2023 treedt in werking met ingang van 1 januari 2026.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4.</lidnr>
+            <al>De artikelen I, onderdeel D, artikel 2:10, tweede lid, en Ia van de Wet modernisering elektronisch bestuurlijk verkeer treden in werking met ingang van 1 januari 2027.</al>
+          </lid>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uitvoering van dit besluit, dat in het Staatsblad zal worden geplaatst.</al>
+        </slotformulering>
+        <gegeven>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2024-10-22">22 oktober 2024</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van Binnenlandse Zaken en Koninkrijksrelaties,</functie>
+          <naam>
+            <voornaam>J.J.M.</voornaam>
+            <achternaam>Uitermark</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2024-11-05">Uitgegeven de <nadruk type="cur">vijfde</nadruk> november 2024</datum>
+          <ondertekening>
+            <functie>De Minister van Justitie en Veiligheid,</functie>
+            <naam>
+              <voornaam>D.M. van</voornaam>
+              <achternaam>Weel</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

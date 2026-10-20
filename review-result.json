@@ -1,0 +1,290 @@
+{
+  "kind": "review",
+  "complete": true,
+  "scope": "Only the twenty assigned units; no whole-book completion claimed.",
+  "reviewed_at": "2026-10-20T14:04:41.560405+00:00",
+  "decisive_date": "2026-10-19",
+  "selected_effective_version": "2026-08-15_0",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "aanhef",
+    "art-1:1",
+    "art-1:2",
+    "art-1:3",
+    "art-1:4",
+    "art-1:5",
+    "art-1:6",
+    "art-1:7",
+    "art-1:8",
+    "art-1:9",
+    "art-2:1",
+    "art-2:2",
+    "art-2:3",
+    "art-2:4",
+    "art-2:5",
+    "art-2:6",
+    "art-2:7",
+    "art-2:8",
+    "art-2:9",
+    "art-2:10"
+  ],
+  "changed_commentary_ids": [
+    "art-1:1",
+    "art-1:2",
+    "art-1:4",
+    "art-1:6",
+    "art-1:7",
+    "art-1:8",
+    "art-1:9",
+    "art-2:1",
+    "art-2:3",
+    "art-2:5",
+    "art-2:7",
+    "art-2:8",
+    "art-2:9",
+    "art-2:10"
+  ],
+  "unchanged_commentary_ids": [
+    "aanhef",
+    "art-1:3",
+    "art-1:5",
+    "art-2:2",
+    "art-2:4",
+    "art-2:6"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "unit_id": "aanhef",
+      "disposition": "retained_after_review",
+      "finding_and_resolution": "Historische titulatuur, considerans en vaststellingsformule onderscheiden; werkingssfeer en tijdsrecht niet uit de aanhef afgeleid. Behouden.",
+      "source_official_path": "/Aanhef",
+      "source_evidence": "sources/review-001/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-1:1",
+      "disposition": "corrected",
+      "finding_and_resolution": "Alle vier leden gecontroleerd; personele terugkeer en institutionele uitsluitingen verduidelijkt. Volledig gelezen Schipholuitspraak toegevoegd voor private uitkeringsorganen.",
+      "source_official_path": "/Hoofdstuk1/Titeldeel1.1/Artikel1:1",
+      "source_evidence": "sources/review-001/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-1:2",
+      "disposition": "corrected",
+      "finding_and_resolution": "Rechtstreeks belang, toevertrouwde belangen en rechtspersonen gecontroleerd. Inspraaktoegang geconcretiseerd; zaakkaart verduidelijkt dat het gewijzigde besluit nog nader werd onderzocht.",
+      "source_official_path": "/Hoofdstuk1/Titeldeel1.1/Artikel1:2",
+      "source_evidence": "sources/review-001/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-1:3",
+      "disposition": "retained_after_review",
+      "finding_and_resolution": "Vier besluitkenmerken, beschikking, aanvraag en beleidsregel gecontroleerd; verwijzingen naar 4:84 en 8:3 dragen de toelichting. Behouden.",
+      "source_official_path": "/Hoofdstuk1/Titeldeel1.1/Artikel1:3",
+      "source_evidence": "sources/review-001/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-1:4",
+      "disposition": "corrected",
+      "finding_and_resolution": "Rechterlijke onafhankelijkheid en procedurele hoedanigheid gecontroleerd. WAHV en uitzondering voor hoofdstuk VIII uitdrukkelijk benoemd.",
+      "source_official_path": "/Hoofdstuk1/Titeldeel1.1/Artikel1:4",
+      "source_evidence": "sources/review-001/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-1:5",
+      "disposition": "retained_after_review",
+      "finding_and_resolution": "Bezwaar, administratief beroep en verzamelterm beroep onderscheiden; definitie niet als bevoegdheidsgrondslag gebruikt. Behouden.",
+      "source_official_path": "/Hoofdstuk1/Titeldeel1.1/Artikel1:5",
+      "source_evidence": "sources/review-001/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-1:6",
+      "disposition": "corrected",
+      "finding_and_resolution": "Precieze uitgesloten hoofdstukken en alle vijf onderdelen gecontroleerd; tenuitvoerlegging en inrichtingseis nader afgebakend.",
+      "source_official_path": "/Hoofdstuk1/Titeldeel1.1/Artikel1:6",
+      "source_evidence": "sources/review-001/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-1:7",
+      "disposition": "corrected",
+      "finding_and_resolution": "Beide leden en drie Europese besluitvormers gecontroleerd; exclusief uitvoeringsdoel onderscheiden van het ontbreken van iedere uitvoeringskeuze.",
+      "source_official_path": "/Hoofdstuk1/Titeldeel1.2/Artikel1:7",
+      "source_evidence": "sources/review-001/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-1:8",
+      "disposition": "corrected",
+      "finding_and_resolution": "Beide parlementaire uitzonderingen gepreciseerd; Wet milieubeheer 21.6, vierde lid, daadwerkelijk gelezen in de geldende officiële tekst.",
+      "source_official_path": "/Hoofdstuk1/Titeldeel1.2/Artikel1:8",
+      "source_evidence": "sources/review-001/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-1:9",
+      "disposition": "corrected",
+      "finding_and_resolution": "Overeenkomstige toepassing van de hele titel gecontroleerd; eigen uitvoeringskeuzen en zelfstandig nationaal doel preciezer onderscheiden.",
+      "source_official_path": "/Hoofdstuk1/Titeldeel1.2/Artikel1:9",
+      "source_evidence": "sources/review-001/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:1",
+      "disposition": "corrected",
+      "finding_and_resolution": "Ondersteuning, bijstand, vertegenwoordiging en schriftelijke machtiging gecontroleerd; bereik van 'een ieder' verduidelijkt.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.1/Artikel2:1",
+      "source_evidence": "sources/review-001/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:2",
+      "disposition": "retained_after_review",
+      "finding_and_resolution": "Ernstige persoonsbezwaren, dubbele onverwijlde kennisgeving en advocatenuitzondering gecontroleerd. Behouden.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.1/Artikel2:2",
+      "source_evidence": "sources/review-001/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:3",
+      "disposition": "corrected",
+      "finding_and_resolution": "Doorzending, terugzending en elektronische beperking gecontroleerd; onverwijldheid en ontbreken van een algemene termijnfictie verduidelijkt.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.1/Artikel2:3",
+      "source_evidence": "sources/review-001/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:4",
+      "disposition": "retained_after_review",
+      "finding_and_resolution": "Open taakvervulling en tegengaan van persoonlijke invloed onderscheiden; artikel 3:2 en fictief subsidievoorbeeld gecontroleerd. Behouden.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.1/Artikel2:4",
+      "source_evidence": "sources/review-001/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:5",
+      "disposition": "corrected",
+      "finding_and_resolution": "Aanvullende geheimhoudingsplicht, kennismaatstaf, uitzonderingen en instellingenbereik gecontroleerd. Verduidelijkt dat lid 1 zich richt op wie voor deze gegevens niet al een ambts-, beroeps- of wettelijke geheimhoudingsplicht heeft.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.1/Artikel2:5",
+      "source_evidence": "sources/review-001/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:6",
+      "disposition": "retained_after_review",
+      "finding_and_resolution": "Hoofdregel Nederlands, cumulatieve afwijkingsvoorwaarden en verhouding tot vertaling bij aanvragen gecontroleerd. Behouden.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.2/Artikel2:6",
+      "source_evidence": "sources/review-001/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:7",
+      "disposition": "corrected",
+      "finding_and_resolution": "Beide leden gecontroleerd; concreet overgangsrecht van Stb. 2025, 445, artikel XV, en praktische checklist toegevoegd.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.1/Artikel2:7",
+      "source_evidence": "sources/review-001/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:8",
+      "disposition": "corrected",
+      "finding_and_resolution": "Uitdrukkelijke bereikbaarheid en reikwijdte van de keuze gecontroleerd; toepasselijkheid van de nieuwe eis begrensd door overgangsrecht.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.2/Artikel2:8",
+      "source_evidence": "sources/review-001/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:9",
+      "disposition": "corrected",
+      "finding_and_resolution": "Betrouwbaarheid en vertrouwelijkheid contextueel beoordeeld; verhouding tot geheimhouding en tijdsrecht verduidelijkt.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.2/Artikel2:9",
+      "source_evidence": "sources/review-001/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    },
+    {
+      "unit_id": "art-2:10",
+      "disposition": "corrected",
+      "finding_and_resolution": "48-uurskennisgeving, afzien daarvan en combinatie van voorzieningen gecontroleerd; lid 2 pas vanaf 2027, met officieel inwerkingtredingsbewijs; overgangsrecht toegevoegd.",
+      "source_official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.2/Artikel2:10",
+      "source_evidence": "sources/review-001/selected.xml",
+      "source_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "remaining_material_issue": false
+    }
+  ],
+  "review_method": {
+    "fresh_process_second_pass": true,
+    "each_unit_read_against_official_text": true,
+    "checks_performed": [
+      "Meaning, purpose, cumulative elements and legal consequences",
+      "Paragraph and letter distinctions, scope exclusions and exceptions",
+      "Internal references read in selected XML; substantive external references read in official sources",
+      "Effective-version selection, explicit non-commencement and tax/recovery transitional law",
+      "Full holdings versus party positions, historical context and case-card outcome",
+      "Fictional examples, completeness of each explanation and repetitive prose"
+    ],
+    "not_external_professional_approval": true
+  },
+  "source_preflight": "preflight-result.json",
+  "technical_evidence": "review-technical.json",
+  "case_law_sources": [
+    {
+      "ecli": "ECLI:NL:RVS:2014:3379",
+      "full_text_read": true,
+      "supported_units": [
+        "art-1:1"
+      ],
+      "evidence": "sources/review-001/case-3379.xml"
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2021:953",
+      "full_text_read": true,
+      "supported_units": [
+        "art-1:2"
+      ],
+      "evidence": "sources/review-001/case-953.xml"
+    }
+  ],
+  "out_of_scope_work_preserved": {
+    "commentaries": 153,
+    "statutory_units": 588,
+    "canonical_wording_unchanged": true
+  },
+  "whole_book": {
+    "complete": false,
+    "total_units": 588,
+    "commented_units": 173,
+    "missing_commentaries": 415,
+    "not_reviewed_in_this_batch": 568
+  },
+  "limitations": [
+    "Selective case-law verification only; no exhaustive assessment of subsequent case-law refinements.",
+    "No exhaustive inventory of all sectoral or temporary digital-communication exceptions for every authority.",
+    "The review identifies retained historical digital-communication law for statutory transition cases; it does not create commentary on all historical versions.",
+    "Only assigned units reviewed; 415 other units remain unwritten and full-book builder/validator must still fail for that reason.",
+    "Technical length, repetition, link and wording checks support but do not replace the recorded substantive review."
+  ]
+}

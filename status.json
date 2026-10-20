@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T13:53:36.981914+00:00",
+  "updated_at": "2026-10-20T14:04:41.560405+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -14,7 +14,9 @@
     "evidence": "sources/verification.json",
     "verified_at": "2026-10-20T13:47:01.778268+00:00",
     "current_recheck_date": "2026-10-20",
-    "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871"
+    "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "review_verified_at": "2026-10-20T13:58:48.346353+00:00",
+    "review_evidence": "sources/review-001/verification.json"
   },
   "official_articles": 584,
   "total_units": 588,
@@ -614,7 +616,8 @@
   "case_law_sources": {
     "read_and_used": [
       "ECLI:NL:RVS:2021:953",
-      "ECLI:NL:RVS:2022:285"
+      "ECLI:NL:RVS:2022:285",
+      "ECLI:NL:RVS:2014:3379"
     ],
     "fetched_not_yet_assessed": [
       "ECLI:NL:CBB:2024:31"
@@ -625,7 +628,7 @@
   "validation_result": {
     "complete": false,
     "reason": "Volledige gedeelde bouw en eindvalidatie zijn geblokkeerd door ontbrekende commentaren.",
-    "not_independent_review": true,
+    "not_independent_review": false,
     "strict_validator": {
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
@@ -636,11 +639,12 @@
       ],
       "warnings": [],
       "ok": false
-    }
+    },
+    "independent_review_scope": "Only the twenty ids in review-result.json; technical full-book validation is separate."
   },
   "remaining_limitations": [
     "Niet alle commentaareenheden zijn geschreven.",
-    "Nog geen onafhankelijke tweede inhoudelijke beoordeling.",
+    "Alleen de aanhef en artikelen 1:1–1:9 en 2:1–2:10 zijn in deze tweede beoordeling gecontroleerd; 568 andere broneenheden zijn niet beoordeeld.",
     "Geen uitputtende rechtspraakrecherche of inventaris van alle lagere en tijdelijke uitzonderingsregelingen.",
     "Technische identifierdekking vervangt geen juridische kwaliteitscontrole."
   ],
@@ -656,6 +660,35 @@
     ],
     "complete": true,
     "evidence": "batch-aanhef-result.json",
+    "whole_book_complete": false
+  },
+  "bounded_independent_review": {
+    "complete": true,
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "aanhef",
+      "art-1:1",
+      "art-1:2",
+      "art-1:3",
+      "art-1:4",
+      "art-1:5",
+      "art-1:6",
+      "art-1:7",
+      "art-1:8",
+      "art-1:9",
+      "art-2:1",
+      "art-2:2",
+      "art-2:3",
+      "art-2:4",
+      "art-2:5",
+      "art-2:6",
+      "art-2:7",
+      "art-2:8",
+      "art-2:9",
+      "art-2:10"
+    ],
+    "evidence": "review-result.json",
+    "technical_evidence": "review-technical.json",
     "whole_book_complete": false
   }
 }

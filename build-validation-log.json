@@ -1,14 +1,16 @@
 {
-  "attempted_at": "2026-10-20T13:53:24.378876+00:00",
-  "command": [
-    "python3",
-    "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
-    "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537"
-  ],
-  "returncode": 1,
-  "stdout": "",
-  "stderr": "CHYBÍ komentář k 415 jednotkám, např.: ['art-4:85', 'art-4:86', 'art-4:87', 'art-4:88', 'art-4:89', 'art-4:90', 'art-4:91', 'art-4:92', 'art-4:93', 'art-4:94']\n",
-  "scope": "Bounded author checkpoint: aanhef only. Missing unassigned units are not a blocker for this assigned batch.",
-  "checkpoint_builder": "_checkpoint.py",
-  "complete_book": false
+  "checked_at": "2026-10-20T14:04:41.560405+00:00",
+  "shared_builder": {
+    "command": [
+      "python3",
+      "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
+      "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537"
+    ],
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "CHYBÍ komentář k 415 jednotkám, např.: ['art-4:85', 'art-4:86', 'art-4:87', 'art-4:88', 'art-4:89', 'art-4:90', 'art-4:91', 'art-4:92', 'art-4:93', 'art-4:94']\n"
+  },
+  "checkpoint_method": "Existing _checkpoint.py emits only substantive completed commentary and labels the book incomplete; no placeholder blocks supplied.",
+  "scope_review_complete": true,
+  "whole_book_complete": false
 }

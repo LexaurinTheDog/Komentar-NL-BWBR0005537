@@ -1,0 +1,42 @@
+{
+  "verified_at": "2026-10-20",
+  "entries": [
+    {
+      "ecli": "ECLI:NL:RVS:2014:3379",
+      "question": "Article 1:1 public authority in private benefit bodies",
+      "search_method": "Exact ECLI lookup in local national corpus, followed by official Rechtspraak full-text retrieval. Selective verification, not an exhaustive query of later judgments.",
+      "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2014-3379.md",
+      "local_corpus_sha256": "cfd71d0b6318493952b8cca2c278e1a460a18f4749b9f3bcb0900ff42495dae6",
+      "official_full_text": "sources/review-001/case-3379.xml",
+      "full_judgment_read": true,
+      "full_text_characters": 16493,
+      "body_matches_local_corpus": true,
+      "supported_units": [
+        "art-1:1"
+      ],
+      "paragraphs_read": "entire judgment",
+      "paragraphs_relied_on": "5.1–5.5",
+      "current_law_check": "Article 1:1(1)(a),(b) unchanged in selected XML; no use of former personnel law.",
+      "limitations": "No exhaustive assessment of later refinement. No other decisions cited within the judgment represented as independently read."
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2021:953",
+      "question": "Article 1:2 standing versus environmental participation-based access",
+      "search_method": "Exact ECLI lookup in local national corpus, followed by official Rechtspraak full-text retrieval. Selective verification, not an exhaustive query of later judgments.",
+      "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2021-953.md",
+      "local_corpus_sha256": "1fcad31ec6b258a211fae03da6cf3d1d59a722de9d215a84073f641ac005034d",
+      "official_full_text": "sources/review-001/case-953.xml",
+      "full_judgment_read": true,
+      "full_text_characters": 36611,
+      "body_matches_local_corpus": true,
+      "supported_units": [
+        "art-1:2"
+      ],
+      "paragraphs_read": "entire judgment",
+      "paragraphs_relied_on": "4.5–4.10, 14–16 and operative order",
+      "current_law_check": "Articles 1:2 and 8:1 retain the discussed rule in selected XML; historical Wabo participation basis not treated as current law.",
+      "limitations": "No exhaustive assessment of later refinement. No other decisions cited within the judgment represented as independently read."
+    }
+  ],
+  "other_assigned_units": "No separate judicial holding added or relied upon; statutory explanation and fictional examples. Absence of a citation is not a claim that no relevant judgments exist."
+}

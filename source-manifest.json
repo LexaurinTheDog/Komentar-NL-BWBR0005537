@@ -225,14 +225,124 @@
     "bytes": 1748379
   },
   {
+    "path": "sources/review-001/additional-verification.json",
+    "sha256": "3a180bce5a343e04336be07de0b5fe3cffa4eec2cdc343217764abd637a29787",
+    "bytes": 1499
+  },
+  {
+    "path": "sources/review-001/ambtenarenwet.html",
+    "sha256": "d330f2eae3b92d07fbca8f9233453fcb96cdff80844f0dddaf0b27bc139cdcc8",
+    "bytes": 185628
+  },
+  {
+    "path": "sources/review-001/before.json",
+    "sha256": "b45c41a44c56525f2af6e55f7754b34bc3e29cd62ce2432341487651a1687a09",
+    "bytes": 42686
+  },
+  {
+    "path": "sources/review-001/case-3379.txt",
+    "sha256": "f9ed6c9d08a018afcfe5b7488bedc5195e93b8190cb25e3766e1e6d61723c8bc",
+    "bytes": 16533
+  },
+  {
+    "path": "sources/review-001/case-3379.xml",
+    "sha256": "08f2c20ee002b21da41fc449eeef23aabca0d6c3a40d7584d744819a77b42a04",
+    "bytes": 23619
+  },
+  {
+    "path": "sources/review-001/case-953.txt",
+    "sha256": "518d447768b2217a7274582da78e1351ea36270c180f6680ac22768ee5357978",
+    "bytes": 36855
+  },
+  {
+    "path": "sources/review-001/case-953.xml",
+    "sha256": "aa14a663993a5f38cc3939743060ea23ac1fb1e4573c4d9ef6240db7c254c770",
+    "bytes": 44640
+  },
+  {
+    "path": "sources/review-001/case-search-log.json",
+    "sha256": "65cb1c7aeb3d6887c7339be76ed068232f602ec4f9481becbef5a5959cf2fa51",
+    "bytes": 2522
+  },
+  {
+    "path": "sources/review-001/crossref-verification.json",
+    "sha256": "7c39b08db05d2647786fe32825793d452647e3264590f3362a7d3b77db21874f",
+    "bytes": 1778
+  },
+  {
+    "path": "sources/review-001/crossrefs.json",
+    "sha256": "dc937ea419880793e494f85043597249c7e06788e5894593c5b72cdae0260d01",
+    "bytes": 12219
+  },
+  {
+    "path": "sources/review-001/current.html",
+    "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+    "bytes": 4204181
+  },
+  {
+    "path": "sources/review-001/grondwet.html",
+    "sha256": "43f3d12799b3fe6a85c361324496c198314f1dcbed68fcf5ab88822e2295971f",
+    "bytes": 907438
+  },
+  {
+    "path": "sources/review-001/historical-comparison.json",
+    "sha256": "9f8fa301135b782feb19d09ed6746c722867de8b77895538afbfb70294c28c1a",
+    "bytes": 1494
+  },
+  {
+    "path": "sources/review-001/history.html",
+    "sha256": "484cb0c6b5ee6187fca73f4b3552944e1d31bc84864044b130c7ffed7895c230",
+    "bytes": 1748379
+  },
+  {
+    "path": "sources/review-001/prior-preflight-result.json",
+    "sha256": "cdff7f686f8fde55cb4b380f39c0baaecc109e53e1330f68c3285ef751550e8a",
+    "bytes": 4738
+  },
+  {
+    "path": "sources/review-001/selected.xml",
+    "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "bytes": 2622149
+  },
+  {
+    "path": "sources/review-001/stb-2024-321.xml",
+    "sha256": "8913c0fb1a44e6662cd80bd5db52efabfd860ba06a98e9a3f1e3426b2364296a",
+    "bytes": 4554
+  },
+  {
+    "path": "sources/review-001/stb-2025-445.xml",
+    "sha256": "08cba7004610854cfbfd66737b97843fa1f16100f1ea956b6a7b083fa5d34351",
+    "bytes": 35950
+  },
+  {
+    "path": "sources/review-001/stb-2026-159.xml",
+    "sha256": "995c2dc83f8a654a6a941d2d9cc7d5eed775dfb17c0c7fc38b46623fd50ab737",
+    "bytes": 29701
+  },
+  {
+    "path": "sources/review-001/verification.json",
+    "sha256": "945aa5cd6c52d3588bdf78cc841810df5001b7d0e8a4287368aa61cb50d58b8b",
+    "bytes": 2517
+  },
+  {
+    "path": "sources/review-001/wet-digitale-overheid.html",
+    "sha256": "7d1206bd6bc82ef91ab1f2f86eaa47231bd3eefd50531cc845224ef885a06c38",
+    "bytes": 279707
+  },
+  {
+    "path": "sources/review-001/wet-milieubeheer.html",
+    "sha256": "7d913a46f41416ab167ace49c6a0dd2c4ce8c436442dc95afb1e1bad7f268dc7",
+    "bytes": 6143773
+  },
+  {
     "path": "sources/structural-inventory.json",
     "sha256": "9f4631e4a7cf252d0a1785d04ae3a072a198d3a430bae6df2bb11487b179414d",
     "bytes": 22075
   },
   {
     "path": "sources/verification.json",
-    "sha256": "bda33f2d57d1b33f61d3ded9fad9ff85b2418da94b2968af06c88461445c8db6",
-    "bytes": 15121
+    "sha256": "de5fa6c032b4ba8631b03d44b20d70aad8c08a7b6b6efb0a1823294924613c7c",
+    "bytes": 26646
   },
   {
     "path": "sources/version-analysis.json",
