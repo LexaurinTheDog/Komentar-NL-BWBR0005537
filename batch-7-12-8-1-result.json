@@ -1,0 +1,123 @@
+{
+  "complete": true,
+  "kind": "bounded_author",
+  "authored_ids": [
+    "art-7:12",
+    "art-7:13",
+    "art-7:14",
+    "art-7:14a",
+    "art-7:15",
+    "art-7:16",
+    "art-7:17",
+    "art-7:18",
+    "art-7:19",
+    "art-7:20",
+    "art-7:21",
+    "art-7:22",
+    "art-7:23",
+    "art-7:24",
+    "art-7:25",
+    "art-7:26",
+    "art-7:27",
+    "art-7:27a",
+    "art-7:28",
+    "art-8:1"
+  ],
+  "completed_units": 20,
+  "total_assigned": 20,
+  "preserved_commentaries": 320,
+  "written_book_units": 340,
+  "total_book_units": 588,
+  "whole_book_complete": false,
+  "independent_review": false,
+  "source_preflight": "sources/author-7-12-8-1/preflight-result.json",
+  "technical_support": "sources/author-7-12-8-1/technical-check.json",
+  "author_content_check": "sources/author-7-12-8-1/author-content-check.json",
+  "case_law_sources": [
+    {
+      "ecli": "ECLI:NL:RVS:2013:1026",
+      "supported_units": [
+        "art-7:12",
+        "art-7:13"
+      ],
+      "precise_locations": "r.o. 1.1–1.2; context 4, 6–8",
+      "case_card": "case-cards/ECLI-NL-RVS-2013-1026.md",
+      "full_published_body_read": true,
+      "independent_review": false
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2021:870",
+      "supported_units": [
+        "art-7:14a"
+      ],
+      "precise_locations": "r.o. 3–8, in het bijzonder 6",
+      "case_card": "case-cards/ECLI-NL-RVS-2021-870.md",
+      "full_published_body_read": true,
+      "independent_review": false
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2021:953",
+      "supported_units": [
+        "art-8:1"
+      ],
+      "precise_locations": "r.o. 4.3–4.10; context 10.1–10.3 en 14–17",
+      "case_card": "case-cards/ECLI-NL-RVS-2021-953.md",
+      "full_published_body_read": true,
+      "independent_review": false
+    },
+    {
+      "ecli": "ECLI:NL:RBDHA:2013:BZ9560",
+      "supported_units": [
+        "art-7:25",
+        "art-7:26",
+        "art-7:28"
+      ],
+      "precise_locations": "overwegingen na «De rechtbank overweegt allereerst», «Ad 1»–«Ad 5», slot en dictum; geen genummerde r.o.",
+      "case_card": "case-cards/ECLI-NL-RBDHA-2013-BZ9560.md",
+      "full_published_body_read": true,
+      "independent_review": false
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2026:929",
+      "supported_units": [
+        "art-7:15"
+      ],
+      "precise_locations": "r.o. 12, 17.1–18; context 1, 19 en dictum",
+      "case_card": "case-cards/ECLI-NL-RVS-2026-929.md",
+      "full_published_body_read": true,
+      "independent_review": false
+    },
+    {
+      "ecli": "ECLI:NL:GHARL:2020:3942",
+      "supported_units": [
+        "art-7:16",
+        "art-7:17",
+        "art-7:19",
+        "art-7:21"
+      ],
+      "precise_locations": "r.o. 7–14, in het bijzonder 12–13; context 1–6 en 15–24",
+      "case_card": "case-cards/ECLI-NL-GHARL-2020-3942.md",
+      "full_published_body_read": true,
+      "independent_review": false
+    }
+  ],
+  "shared_builder": {
+    "command": [
+      "python3",
+      "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
+      "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537"
+    ],
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "CHYBÍ komentář k 248 jednotkám, např.: ['art-8:2', 'art-8:3', 'art-8:4', 'art-8:5', 'art-8:6', 'art-8:7', 'art-8:8', 'art-8:9', 'art-8:10', 'art-8:10a']\n"
+  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "248 eenheden buiten deze auteursbatch wachten nog op auteurswerk.",
+    "De twintig nieuwe toelichtingen zijn nog niet onafhankelijk beoordeeld; de bestaande 320 en hun beoordelingen zijn behouden.",
+    "Zes volledige officiële uitspraken selectief onderzocht; geen uitputtende controle van latere behandeling of alle sectorwetten.",
+    "Vier lokale bodies stemmen volledig overeen; twee niet in het corpus gevonden, officiële volledige versies gelezen.",
+    "Historische sectorregels, tarieven en Wahv-kostenrechtspraak zijn niet als actuele algemene normen gebruikt.",
+    "Alle eerdere beperkingen blijven gelden. Technische controles zijn geen zelfstandige juridische kwaliteitscertificering."
+  ]
+}

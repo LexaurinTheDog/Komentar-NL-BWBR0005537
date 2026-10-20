@@ -1,0 +1,68 @@
+[
+  {
+    "ecli": "ECLI:NL:RVS:2013:1026",
+    "supported_units": [
+      "art-7:12",
+      "art-7:13"
+    ],
+    "precise_locations": "r.o. 1.1–1.2; context 4, 6–8",
+    "case_card": "case-cards/ECLI-NL-RVS-2013-1026.md",
+    "full_published_body_read": true,
+    "independent_review": false
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2021:870",
+    "supported_units": [
+      "art-7:14a"
+    ],
+    "precise_locations": "r.o. 3–8, in het bijzonder 6",
+    "case_card": "case-cards/ECLI-NL-RVS-2021-870.md",
+    "full_published_body_read": true,
+    "independent_review": false
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2021:953",
+    "supported_units": [
+      "art-8:1"
+    ],
+    "precise_locations": "r.o. 4.3–4.10; context 10.1–10.3 en 14–17",
+    "case_card": "case-cards/ECLI-NL-RVS-2021-953.md",
+    "full_published_body_read": true,
+    "independent_review": false
+  },
+  {
+    "ecli": "ECLI:NL:RBDHA:2013:BZ9560",
+    "supported_units": [
+      "art-7:25",
+      "art-7:26",
+      "art-7:28"
+    ],
+    "precise_locations": "overwegingen na «De rechtbank overweegt allereerst», «Ad 1»–«Ad 5», slot en dictum; geen genummerde r.o.",
+    "case_card": "case-cards/ECLI-NL-RBDHA-2013-BZ9560.md",
+    "full_published_body_read": true,
+    "independent_review": false
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2026:929",
+    "supported_units": [
+      "art-7:15"
+    ],
+    "precise_locations": "r.o. 12, 17.1–18; context 1, 19 en dictum",
+    "case_card": "case-cards/ECLI-NL-RVS-2026-929.md",
+    "full_published_body_read": true,
+    "independent_review": false
+  },
+  {
+    "ecli": "ECLI:NL:GHARL:2020:3942",
+    "supported_units": [
+      "art-7:16",
+      "art-7:17",
+      "art-7:19",
+      "art-7:21"
+    ],
+    "precise_locations": "r.o. 7–14, in het bijzonder 12–13; context 1–6 en 15–24",
+    "case_card": "case-cards/ECLI-NL-GHARL-2020-3942.md",
+    "full_published_body_read": true,
+    "independent_review": false
+  }
+]

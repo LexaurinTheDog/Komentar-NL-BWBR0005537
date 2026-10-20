@@ -1,0 +1,135 @@
+{
+  "checked_at": "2026-10-20T17:58:36.642910+00:00",
+  "kind": "author_self_check",
+  "independent_review": false,
+  "units_checked": 20,
+  "checked_ids": [
+    "art-7:12",
+    "art-7:13",
+    "art-7:14",
+    "art-7:14a",
+    "art-7:15",
+    "art-7:16",
+    "art-7:17",
+    "art-7:18",
+    "art-7:19",
+    "art-7:20",
+    "art-7:21",
+    "art-7:22",
+    "art-7:23",
+    "art-7:24",
+    "art-7:25",
+    "art-7:26",
+    "art-7:27",
+    "art-7:27a",
+    "art-7:28",
+    "art-8:1"
+  ],
+  "checks": [
+    {
+      "id": "art-7:12",
+      "checked_distinctions": "Alle vier leden: eigen deugdelijke motivering en hooruitzondering, aanvullende publicatie tenzij instandlating, kring mededeling, bekendmakingsdatum en rechtsmiddelen; verwijzing naar advies onderscheiden.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:13",
+      "checked_distinctions": "Alle zeven leden; cumulatieve samenstelling met externe voorzitter, niet alle leden verplicht extern, specifieke delegatie horen, bevoegdheden commissie en wettelijke afwijking alleen bij 7:3, vertegenwoordiger, schriftelijk advies met verslag en afwijking.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:14",
+      "checked_distinctions": "Exacte uitzonderingen en behouden bepalingen; actuele 2:24, niet vervangen 3:6 lid 2, behouden 3:49, 4:14 lid 1 en selectieve 4:15, geen positieve fictie door behouden dwangsomparagraaf.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:14a",
+      "checked_distinctions": "Gelijkstelling alleen voor dwangsomparagraaf, derdenbezwaar en aanvraag, ingebrekestelling en termijn, één aanspraak Abax versus aantal bezwaren, historische 4:17 lid 7 nu lid 6.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:15",
+      "checked_distinctions": "Alle vijf leden: geen behandelrecht versus gereguleerde kosten, verzoek vooraf en gelijktijdige beslissing, herroeping/toerekening/redelijkheid, geen actuele tariefclaim, toevoegingsbetaling/eigen bijdrage/melding Raad.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:16",
+      "checked_distinctions": "Beide leden; ander bestuursorgaan versus rechter, minimum uitnodigingskring inclusief oorspronkelijk orgaan en bekende derden, reële gelegenheid en vertegenwoordiging; horen niet gelijk aan materieel gelijk.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:17",
+      "checked_distinctions": "Alle vier onderdelen, kennelijkheid, vormherstel, expliciete afstand versus gerichte vraag met redelijke termijn, eerdere handhaving hoorrecht, ontbrekende tegemoetkomingsuitzondering van 7:3e, 6:22 aparte toets.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:18",
+      "checked_distinctions": "Alle acht leden; tien dagen en week onderscheiden, late stukken en zorgvuldigheid, afschriften/kosten, toestemming kring, gewichtige redenen concreet met mededeling, Woo-eenzijdige grens, advocaat/arts bij gezondheid.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:19",
+      "checked_distinctions": "Alle drie leden, wettelijke commissieopdracht en één of meer externe leden anders dan 7:13, openbaarheid hoofdregel, verzoek niet automatisch sluiten, gezamenlijk/afzonderlijk apart; oude Wahv-zaak begrensd voor hedendaags digitaal horen.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:20",
+      "checked_distinctions": "Alle vier leden; onderlinge aanwezigheid versus publiek, twee gronden afzonderlijk horen, wederzijdse informatie en zelfstandige geheimhouding met exacte verwijzingen 7:18.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:21",
+      "checked_distinctions": "Relevant verslag, geen verzonnen transcript/handtekeningvereiste, intrekking argument versus rechtsmiddel, schikking versus voorstel, correctiegeschil, aparte toepassing 7:23.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:22",
+      "checked_distinctions": "Meegebracht en verzocht; getuigenwaarneming versus deskundige methode, concrete beoordeling aanbod zonder algemene oproep-/bekostigingsplicht, dossier/verslag/tegenspraak en kosten apart.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:23",
+      "checked_distinctions": "Nieuw bekend na horen, mogelijk aanmerkelijk belang, oude datum document kan nieuw bewijs zijn, mededeling plus hoorruimte voor belanghebbenden, juridische beschouwing niet altijd nieuw feit, termijnregeling afzonderlijk.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:24",
+      "checked_distinctions": "Alle zeven leden; zestien weken versus zelfde rechtspersoon zes/twaalf, begin na beroepstermijn, daadwerkelijke herstelduur, tien versus zes weken verdaging geen stapeling, drie verdere-uitstelgronden en schriftelijke mededeling; 4:15 apart.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:25",
+      "checked_distinctions": "Ontvankelijk én gegrond, voor zover en gedeeltelijk vernietigen, bestuurlijk ander orgaan, vervangingsbehoefte en bevoegdheidsgrenzen, mislukte schikking geen afdoening, kosten en bekendmaking apart.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:26",
+      "checked_distinctions": "Alle vijf leden; inhoudelijke motivering en hooruitzondering, adviesafwijking/mesturen, eigen bekendmaking zonder 7:12-instandlatingsuitzondering, oorspronkelijk orgaan en derdenkring, datum plus 6:23.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:27",
+      "checked_distinctions": "Uitsluitingen gekoppeld aan administratief beroep, 3:49 behouden, exacte opschortingsonderdelen 4:15, instemming via 7:24, huidige 2:24 uitgesloten, geen dubbel getelde opschorting of positieve fictie.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:27a",
+      "checked_distinctions": "Aanvrager versus derde-beroepsindiener, gelijkstelling alleen voor dwangsom, daadwerkelijke termijn en ingebrekestelling, bijzondere uitsluiting mogelijk, Abax niet als directe 7:27a-uitspraak gebruikt.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:28",
+      "checked_distinctions": "Alle vijf leden; oorspronkelijke betalende orgaan versus vaststellend beroepsorgaan, vernietiging 7:25 en herroepingsterm kosten in samenhang, verzoek vooraf, toevoegingsroute/eigen bijdrage/melding, gereguleerde kosten geen huidige tariefclaim.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-8:1",
+      "checked_distinctions": "Belanghebbende/besluit, procesbelang en andere toegangseisen, voorfase en 8:5 lid 2, uitzonderingen 8:3–8:5 en bevoegde rechter, rechterlijke Aarhus-aanvulling geen algemeen volksberoep, relativiteit en onvolledige finale afdoening zonnepark onderscheiden.",
+      "specific_fictional_example": true
+    }
+  ],
+  "unresolved_blockers": [],
+  "limitations": [
+    "Geen onafhankelijke tweede beoordeling.",
+    "Technische ondergrenzen en afwezigheid van letterlijke herhaling bewijzen geen juridische kwaliteit."
+  ]
+}

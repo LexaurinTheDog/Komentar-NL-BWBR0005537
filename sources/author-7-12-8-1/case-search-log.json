@@ -1,0 +1,100 @@
+{
+  "searched_at": "2026-10-20T17:57:35.036024+00:00",
+  "queries": [
+    "site.uitspraken.rechtspraak.nl \"7:25\" \"7:28\" kosten",
+    "site.uitspraken.rechtspraak.nl \"7:13\" \"7:12\" adviescommissie",
+    "site.uitspraken.rechtspraak.nl \"2021:786\" belanghebbende",
+    "site.raadvanstate.nl \"7:15\" \"herroepen\" \"2025\"",
+    "site.uitspraken.rechtspraak.nl \"7:28\" \"7:25\" \"gegrond\"",
+    "site.raadvanstate.nl \"2021:953\"",
+    "site.raadvanstate.nl \"2026:929\"",
+    "site.raadvanstate.nl \"7:14a\" dwangsom",
+    "site.uitspraken.rechtspraak.nl \"7:19\" \"7:17\" \"horen\""
+  ],
+  "sources": "Official Rechtspraak and Raad van State website search; direct full XML downloads from data.rechtspraak.nl; national local corpus search.",
+  "firecrawl": "Installed CLI authenticated but status showed zero credits; no scrape/search request attempted in this batch and no settings changed.",
+  "selected": [
+    {
+      "ecli": "ECLI:NL:RVS:2013:1026",
+      "supported_units": [
+        "art-7:12",
+        "art-7:13"
+      ],
+      "precise_locations": "r.o. 1.1–1.2; context 4, 6–8",
+      "case_card": "case-cards/ECLI-NL-RVS-2013-1026.md",
+      "full_published_body_read": true,
+      "independent_review": false
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2021:870",
+      "supported_units": [
+        "art-7:14a"
+      ],
+      "precise_locations": "r.o. 3–8, in het bijzonder 6",
+      "case_card": "case-cards/ECLI-NL-RVS-2021-870.md",
+      "full_published_body_read": true,
+      "independent_review": false
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2021:953",
+      "supported_units": [
+        "art-8:1"
+      ],
+      "precise_locations": "r.o. 4.3–4.10; context 10.1–10.3 en 14–17",
+      "case_card": "case-cards/ECLI-NL-RVS-2021-953.md",
+      "full_published_body_read": true,
+      "independent_review": false
+    },
+    {
+      "ecli": "ECLI:NL:RBDHA:2013:BZ9560",
+      "supported_units": [
+        "art-7:25",
+        "art-7:26",
+        "art-7:28"
+      ],
+      "precise_locations": "overwegingen na «De rechtbank overweegt allereerst», «Ad 1»–«Ad 5», slot en dictum; geen genummerde r.o.",
+      "case_card": "case-cards/ECLI-NL-RBDHA-2013-BZ9560.md",
+      "full_published_body_read": true,
+      "independent_review": false
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2026:929",
+      "supported_units": [
+        "art-7:15"
+      ],
+      "precise_locations": "r.o. 12, 17.1–18; context 1, 19 en dictum",
+      "case_card": "case-cards/ECLI-NL-RVS-2026-929.md",
+      "full_published_body_read": true,
+      "independent_review": false
+    },
+    {
+      "ecli": "ECLI:NL:GHARL:2020:3942",
+      "supported_units": [
+        "art-7:16",
+        "art-7:17",
+        "art-7:19",
+        "art-7:21"
+      ],
+      "precise_locations": "r.o. 7–14, in het bijzonder 12–13; context 1–6 en 15–24",
+      "case_card": "case-cards/ECLI-NL-GHARL-2020-3942.md",
+      "full_published_body_read": true,
+      "independent_review": false
+    }
+  ],
+  "units_without_separate_case": [
+    "art-7:14",
+    "art-7:18",
+    "art-7:20",
+    "art-7:22",
+    "art-7:23",
+    "art-7:24",
+    "art-7:27",
+    "art-7:27a"
+  ],
+  "not_used": "Search-result excerpts about other cases are not authorities in the commentary; no commercial annotation used.",
+  "limitations": [
+    "Selective research, not exhaustive case-law coverage or later-treatment review.",
+    "Old sector regulations, cost amounts and procedure variants remain case context.",
+    "2013:BZ9560 and 2020:3942 not found in local corpus; complete official snapshots used."
+  ]
+}
