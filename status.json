@@ -675,13 +675,13 @@
   "coverage": true,
   "validation_result": {
     "complete": false,
-    "reason": "308 eenheden buiten deze auteursbatch missen commentaar; volledige gedeelde bouw blijft geblokkeerd.",
+    "reason": "308 eenheden buiten deze reviewopdracht missen commentaar; volledige gedeelde bouw en eindvalidatie blijven geblokkeerd.",
     "not_independent_review": false,
     "strict_validator": {
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 502913,
+      "commentary_chars": 505449,
       "errors": [
         "krátký/chybějící komentář u 308 jednotek: ['art-5:51(0<400)', 'art-5:52(0<120)', 'art-5:53(0<400)', 'art-5:54(0<120)', 'art-6:1(0<400)', 'art-6:2(0<400)', 'art-6:3(0<400)', 'art-6:4(0<400)']"
       ],
@@ -689,7 +689,7 @@
       "ok": false
     },
     "independent_review_scope": "Current batch exactly twenty ids in review-result.json; previous 260 preserved separately. Whole-book review incomplete.",
-    "validated_at": "2026-10-20T16:52:27.113590+00:00",
+    "validated_at": "2026-10-20T17:02:47.719988+00:00",
     "evidence": "strict-validation.json",
     "bounded_review_passed": true,
     "scoped_review_complete": true,
@@ -701,6 +701,12 @@
       "assigned_units": 20,
       "evidence": "batch-5-32b-50-validation.json",
       "independent_review": false
+    },
+    "bounded_review": {
+      "complete": true,
+      "assigned_units": 20,
+      "evidence": "review-014-validation.json",
+      "independent_review": true
     }
   },
   "remaining_limitations": [
