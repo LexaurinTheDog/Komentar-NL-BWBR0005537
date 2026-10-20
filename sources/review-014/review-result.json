@@ -1,0 +1,240 @@
+{
+  "complete": true,
+  "kind": "bounded_independent_review",
+  "reviewed_at": "2026-10-20T17:01:14.283033+00:00",
+  "decisive_date": "2026-10-19",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "art-5:32b",
+    "art-5:33",
+    "art-5:34",
+    "art-5:35",
+    "art-5:36",
+    "art-5:37",
+    "art-5:37a",
+    "art-5:38",
+    "art-5:39",
+    "art-5:40",
+    "art-5:41",
+    "art-5:42",
+    "art-5:43",
+    "art-5:44",
+    "art-5:45",
+    "art-5:46",
+    "art-5:47",
+    "art-5:48",
+    "art-5:49",
+    "art-5:50"
+  ],
+  "corrected_ids": [
+    "art-5:33",
+    "art-5:37",
+    "art-5:39",
+    "art-5:42",
+    "art-5:43",
+    "art-5:46"
+  ],
+  "retained_ids": [
+    "art-5:32b",
+    "art-5:34",
+    "art-5:35",
+    "art-5:36",
+    "art-5:37a",
+    "art-5:38",
+    "art-5:40",
+    "art-5:41",
+    "art-5:44",
+    "art-5:45",
+    "art-5:47",
+    "art-5:48",
+    "art-5:49",
+    "art-5:50"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "art-5:32b",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Drie leden gelezen: bedrag ineens/per tijdseenheid/per overtreding, afzonderlijk totaalplafond en redelijke verhouding tot belang/werking. Geen boetestrafmaat geïmporteerd. Nachtvoorbeeld dwingt duidelijke afbakening van de verbeuringswijze; 5:32a en samenloopverbod 5:6 gecontroleerd. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:33",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "corrected",
+      "finding": "Hele bepaling gelezen. Zes weken vanaf verbeurte, niet de betalingsbrief of invorderingsbeschikking; verjaring loopt afzonderlijk. Aangescherpt dat de feitelijke herhaling het verbeuringsmoment bepaalt: een latere ontdekking/controle verschuift dit niet. Het voorbeeld bewaart de afzonderlijke betaaltermijnen.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:34",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Beide leden en RvS 2026:911 volledig gelezen. Onmogelijkheid onderscheiden van onwil/kosten; opheffing, opschorting en vermindering passend bij aard en duur. Geen automatische schorsing of kwijtschelding. Terugwerkende opheffing is een mogelijke uitkomst van een verzoek, geen in die uitspraak verleende opheffing. Jaar zonder verbeurte leidt niet van rechtswege tot verval. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:35",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Beide leden, Stb. 2020/500 I D/II en inwerkingtreding Stb. 2021/68 gelezen. Jaar na verbeurtedag, geen optelling van zes weken; verlenging bij nog openstaand/aanhangig rechtsmiddel tegen de last. Stuiting en verlenging gescheiden. Oude invorderingsbeschikkingen afzonderlijk onder overgangsrecht. Geen foutieve verwijzing 5:35a uit de 2026-uitspraak overgenomen. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:36",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Officiële vervallen plaats en overgangsnoot gelezen; Stb. 2009/264 III–IV gecontroleerd. Geen historische bevoegdheid als huidig recht gepresenteerd. Sjabloonvoorbeeld leidt tot onderzoek van de echte grondslag, niet tot stilzwijgende reconstructie van vervallen tekst. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:37",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "corrected",
+      "finding": "Alle drie leden en volledige RvS 2018:105/2026:911 gelezen. Besluit vóór aanmaning, vier weken op verzoek, concrete bewijsbasis en bijzondere omstandigheden behandeld. Aangevuld met deskundigheid van de waarnemer en mogelijkheid van foto’s/andere bewijsdragers uit 2018:105 r.o. 9.1. Signalen blijven onderscheiden van bewezen handel; oude verjaringspassages niet toegepast.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:37a",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Vier leden en alle drie onderdelen van lid 3 gelezen. Positieve invorderingsbeschikking stuit; verzoek/afwijzing/niet-tijdige beslissing kunnen verlengen; schorsing door voorzieningenrechter heeft eigen duurregel. 4:110 bevestigt aanvang volgende dag en oorspronkelijke termijn. Geen automatische stuiting door enkel verzoek of herleving na voltooide verjaring. Overgangsrecht 2020/500 II gecontroleerd. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:38",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Beide leden gelezen. Alleen verval voor zover intrekking/wijziging dragende last de bestaande invordering aantast; toekomstige wijziging wist eerdere verbeurte niet automatisch uit. Nieuwe beschikking moet met gewijzigde last overeenstemmen. Terugwerkend verschoven termijn en herberekening in het fictieve voorbeeld passend. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:39",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "corrected",
+      "finding": "Alle vier leden en procesverloop/r.o. 12 van 2026:911 gelezen. Betwiste invordering, verwijzingsbevoegdheid, afschrift zo mogelijk en voorlopige voorziening volledig. Verduidelijkt dat zonder procedure tegen de last de gewone rechtsmiddelen tegen invordering openblijven; 6:7/7:1/8:1 gecontroleerd. Nog openstaand rechtsmiddel tegen de last onderscheiden van het heropenen van een onaantastbare last.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:40",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Beide leden gelezen. Bestraffend karakter en onvoorwaardelijke geldplicht samen vereist; verbeurde dwangsom niet daardoor achteraf boete. Definitie geen boetebevoegdheid. Uitsluiting intrekking/wijziging financiële aanspraak niet verward met vrijstelling van algemene rechtswaarborgen. Subsidie/boetevoorbeeld verlangt twee afzonderlijke grondslagen. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:41",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Hele norm en RvS 2022:1973 r.o. 7.2/8 gelezen. Bewijs overtreding onderscheiden van verwijtbaarheid; geen opzet is niet vanzelf geen enkel verwijt. Afwezigheid sluit boete uit, vermindering raakt hoogte. Sectorale bewijsuitwerking uit Wav-zaak niet als universele percentages gepresenteerd. Stageprogramma’s zonder feitelijk toezicht waren geen aanvaarde uitsluitingsgrond. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:42",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "corrected",
+      "finding": "Beide leden gelezen: overleden vóór oplegging, verval van nog niet onherroepelijke boete en onbetaalde deel van definitieve boete correct onderscheiden. Geen discretionaire kwijtschelding. Toegevoegd dat wijzigingsdatum 1 juli 2025 enkel spelling voorzover/voor zover betreft; Stb. 2025/124 I A en 155 rechtstreeks gelezen. Geen nieuwe materiële overlijdensregel uit metadata afgeleid.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:43",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "corrected",
+      "finding": "Hele norm en exacte verwijzing naar 5:50 lid 2 a gelezen. Eerste boete hoeft niet onherroepelijk te zijn; dezelfde overtreder/overtreding, latere zelfstandige gedragingen en verschil met strafrechtelijke route gescheiden. Aangevuld met volledig gelezen RvS 2026:5621 r.o. 6.1–6.2: niet melden en tewerkstellen zonder vereist loon waren onderscheiden gedragingen. Geen algemene uitzondering voor een andere normnaam geconstrueerd.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:44",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Drie leden met beide onderdelen lid 3 gelezen. Strafvervolging én begonnen terechtzitting of strafbeschikking blokkeren; onderzoek/contact alleen niet. Voorlegging tenzij wettelijke/OM-afspraak; bericht van afzien of dertien weken zonder reactie gecontroleerd. Geen automatische vrijstelling van overige boetevoorwaarden; 5:51 lid 2 opschorting afzonderlijk. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:45",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Drie leden en 5:53 gelezen. Vijf versus drie jaar hangt af van toepasselijke wettelijke procedure, niet het uiteindelijk gematigde boetebedrag. Grens meer dan €340 en wettelijke afwijkingsmogelijkheid correct. Overtredingsmoment niet vervangen door ontdekking of rapport; opschorting tot onherroepelijkheid geen nieuwe termijn door stuiting. Geldschuldverjaring apart. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:46",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "corrected",
+      "finding": "Vier leden gelezen. Maximum, individuele afstemming, vast wettelijk bedrag versus beleidsnorm en bijzondere omstandigheden onderscheiden; geen verwijtbaarheid 5:41 gaat vooraf. Historische Wav-uitspraak 2022:1973 volledig herlezen, bedragen/uitkomst juist. Sr 1 lid 2 in actuele versie en geschiedenis gecontroleerd. Nieuwe volledige uitspraak 2026:5621 r.o. 5.1–5.4 toegevoegd voor individuele toets ondanks redelijk beleid; geen huidige sectorale tariefclaim.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:47",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Hele bepaling en alle leden Sv 12i gelezen. Het daadwerkelijke vervolgingsbevel voor dezelfde persoon/feit veroorzaakt verval; enkele klacht of latere activiteit niet. Geen strafrechtelijke eindveroordeling vereist en geen voorbehoud van onherroepelijkheid in de Awb-norm. Terugbetalingsprocedure niet verzonnen. Sv-versie 1 juli 2026 gecontroleerd. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:48",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Vier leden met a–c gelezen. Facultatief rapport versus verplichte zware procedure 5:53; dagtekening, naam, overtreding/voorschrift en zo nodig plaats/tijd constatering. Uiterste toezending bij boete versus eerder bij zienswijze 5:50 duidelijk. Proces-verbaal Sv 152 rechtstreeks gelezen; niet elk lokaal gelijknamig stuk kwalificeert. Geen onaantastbaar bewijs aan rapport toegedicht. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:49",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Beide leden gelezen. Desgevraagde inzage en zelf vervaardigen afschriften ook bij voornemen; gegevensbasis ruimer dan het rapport, geen algemeen recht op alle bestuursinformatie. Begrijpelijke taal naar redelijke verdedigingsbehoefte en zoveel mogelijk zorg onderscheiden van integraal vertaalrecht. Meetvoorbeeld verlangt inzage in werkelijk relevante grondslag. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:50",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Twee leden met alle vier letteronderdelen gelezen. Voorwaardelijke regeling bij geboden zienswijze onderscheiden van verplichte mogelijkheid onder 5:53 lid 3. Rapport bij uitnodiging, functionele tolkbehoefte, afzonderlijk 5:10a en schriftelijke vervolgmelding gecontroleerd. Afzien onder a heeft 5:43-gevolg; alsnog OM onder b niet daarmee gelijkgesteld. Voorbeeld vereist heldere schriftelijke keuze. Behouden.",
+      "resolved": true
+    }
+  ],
+  "limitations": [
+    "Alleen de twintig exact genoemde eenheden zijn in deze zelfstandige tweede beoordeling gelezen; dit is geen gehele boekreview.",
+    "308 eenheden buiten deze opdracht wachten op auteurswerk en tweede beoordeling.",
+    "Vier volledige primaire uitspraken gelezen; selectief onderzoek, geen uitputtende controle van vervolgzaken of actuele sectorale boeteregels.",
+    "De nieuwe uitspraak 2026:5621 ontbreekt op het overeenkomstige lokale corpuspad; officiële volledige tekst beschikbaar.",
+    "De historische Wav-percentages en het oude omgevingsrecht blijven expliciet contextgebonden. De bronfouten in 2026:911 zijn niet tot wettelijke regels verheven.",
+    "Technische tekstovereenstemming, lengte- en herhalingscontroles bewijzen geen juridische kwaliteit. Geen externe professionele goedkeuring."
+  ],
+  "whole_book_complete": false,
+  "evidence": {
+    "source_preflight": "sources/review-014/preflight-result.json",
+    "assigned_source_records": "sources/review-014/assigned-source-records.json",
+    "official_http": "sources/review-014/verification.json",
+    "additional_http": "sources/review-014/additional-verification.json",
+    "new_authority_http": "sources/review-014/authority-additional-verification.json",
+    "historical_comparison": "sources/review-014/historical-comparison.json",
+    "external_version": "sources/review-014/external-version-check.json",
+    "transitional_records": "sources/review-014/transitional-records.json",
+    "internal_crossrefs": "sources/review-014/internal-crossrefs.json",
+    "authorities": "sources/review-014/authority-review.json",
+    "search_log": "sources/review-014/case-search-log.json",
+    "technical": "review-technical.json",
+    "prior_review": "sources/review-014/prior-review-result.json"
+  }
+}

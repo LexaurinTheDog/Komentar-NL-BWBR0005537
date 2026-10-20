@@ -1,0 +1,52 @@
+{
+  "searched_at": "2026-10-20T16:59:04.932957+00:00",
+  "scope": "Selective authority verification for exactly articles 5:32b–5:50; no exhaustive case-law inventory.",
+  "firecrawl": "CLI installed/authenticated but zero credits; direct official HTTP snapshots and web search used.",
+  "queries": [
+    {
+      "query": "site.raadvanstate.nl \"2026\" \"invorderingsbeschikking\" \"5:37\"",
+      "method": "web search",
+      "purpose": "Check recent invordering context"
+    },
+    {
+      "query": "site.raadvanstate.nl \"2026\" \"5:46\" \"normale verwijtbaarheid\"",
+      "method": "web search",
+      "purpose": "Check current proportionality and culpability examples"
+    },
+    {
+      "query": "site.rechtspraak.nl \"5:34\" \"2026\" \"onmogelijkheid\"",
+      "method": "web search",
+      "purpose": "Check impossibility context"
+    }
+  ],
+  "direct_ecli_lookups": [
+    "ECLI:NL:RVS:2018:105",
+    "ECLI:NL:RVS:2022:1973",
+    "ECLI:NL:RVS:2026:911",
+    "ECLI:NL:RVS:2026:5621"
+  ],
+  "full_text_read_and_used": [
+    "ECLI:NL:RVS:2018:105",
+    "ECLI:NL:RVS:2022:1973",
+    "ECLI:NL:RVS:2026:911",
+    "ECLI:NL:RVS:2026:5621"
+  ],
+  "new_authority": "ECLI:NL:RVS:2026:5621",
+  "other_discovery_candidates": [
+    {
+      "url": "https://www.raadvanstate.nl/uitspraken/@160288/202502959-1-r1/",
+      "snapshot": "sources/review-014/search-202502959.html",
+      "disposition": "Discovery candidate retained; not fully assessed and not cited as authority."
+    },
+    {
+      "url": "https://www.raadvanstate.nl/uitspraken/@158190/202503833-1-v6/",
+      "disposition": "Search result only, no substantive reliance."
+    }
+  ],
+  "technical_units": "For the repealed slot and technical collection/procedural units no separate case authority is claimed; their analysis rests on verified text and cross-references.",
+  "limitations": [
+    "Search results were discovery aids only; holdings cited in prose were read in full primary text.",
+    "The three earlier cases were checked against unchanged official XML and local copies; the new case has no local ECLI-path match.",
+    "No exhaustive check of all subsequent treatment or sector-specific policy changes."
+  ]
+}

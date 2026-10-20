@@ -1,0 +1,100 @@
+[
+  {
+    "ecli": "ECLI:NL:RVS:2018:105",
+    "court": "Afdeling bestuursrechtspraak Raad van State",
+    "date": "2018-01-17",
+    "docket": "201609888/1/A1",
+    "paragraphs": [
+      "9.1",
+      "9.2"
+    ],
+    "supported_units": [
+      "art-5:37"
+    ],
+    "holding": "Deskundige en controleerbare vaststelling vereist; plaats, tijd, waarnemer en methode kenbaar. Schriftelijk rapport niet exclusief; de waarnemingen en advertenties bewezen hier geen paardenhandel. Hoger beroep ongegrond.",
+    "limits": "Verjaringsoverwegingen 5–8 dateren vóór de wetswijziging van 2021 en worden niet als huidig recht toegepast. Geen algemeen verbod op door burgers aangeleverd materiaal.",
+    "full_text_read": true,
+    "read_at": "2026-10-20T16:59:04.931258+00:00",
+    "official_xml": "sources/review-014/ECLI-NL-RVS-2018-105.xml",
+    "card": "case-cards/ECLI-NL-RVS-2018-105.md",
+    "official_xml_sha256": "70c0aa931d6f564a7bbfec4bc6db3a4f57571232441a097a45449471987566f9"
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2022:1973",
+    "court": "Afdeling bestuursrechtspraak Raad van State",
+    "date": "2022-07-13",
+    "docket": "202006623/1/V6",
+    "paragraphs": [
+      "3.2",
+      "3.3",
+      "7.1",
+      "7.2",
+      "8",
+      "9.1",
+      "9.2",
+      "10"
+    ],
+    "supported_units": [
+      "art-5:41",
+      "art-5:46"
+    ],
+    "holding": "Wav-beleid differentieerde onvoldoende naar verwijtbaarheid. De Afdeling ontwikkelde tijdelijk een sectorale uitwerking; normale verwijtbaarheid, geen verdere matiging op grond van voorzorg of financiën. Boete zelf vastgesteld op €18.000.",
+    "limits": "Historische Wav-percentages zijn geen algemene Awb-staffel of actuele tarieflijst. Inspanningen van de onderneming waren een beoordeeld verweer, geen aangenomen volledige schulduitsluiting.",
+    "full_text_read": true,
+    "read_at": "2026-10-20T16:59:04.931592+00:00",
+    "official_xml": "sources/review-014/ECLI-NL-RVS-2022-1973.xml",
+    "card": "case-cards/ECLI-NL-RVS-2022-1973.md",
+    "official_xml_sha256": "635c200ba45a7fa4256864a55ccb403f9a4c4bc4843766de15c55d69ec2cb686"
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2026:911",
+    "court": "Afdeling bestuursrechtspraak Raad van State",
+    "date": "2026-02-18",
+    "docket": "202304089/1/R3",
+    "paragraphs": [
+      "5.1",
+      "8.3",
+      "12",
+      "13",
+      "13.1",
+      "16.1"
+    ],
+    "supported_units": [
+      "art-5:34",
+      "art-5:37",
+      "art-5:39"
+    ],
+    "holding": "Onmogelijkheid niet op voorhand aangetoond zonder toereikende ontheffingsaanvraag; eventuele weigering kan verzoek om opheffing, mogelijk met terugwerkende kracht, dragen. Zwaar gewicht invordering; geen bijzondere reden om af te zien. Procesverloop toont verwijzing en latere concentratie. Last gehandhaafd en invorderingsberoep ongegrond.",
+    "limits": "Oud omgevingsrecht door overgangsrecht. Opheffing niet toegewezen. Bron bevat inconsistente data en onjuiste verwijzing 5:35a lid 2; huidige norm rechtstreeks op officiële XML 5:35 lid 2 gebaseerd.",
+    "full_text_read": true,
+    "read_at": "2026-10-20T16:59:04.931774+00:00",
+    "official_xml": "sources/review-014/ECLI-NL-RVS-2026-911.xml",
+    "card": "case-cards/ECLI-NL-RVS-2026-911.md",
+    "official_xml_sha256": "247e6a7ecf59f80e06dc0959d05cd1b0d10761cba4bce4987fc8f20f48a6e8e0"
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2026:5621",
+    "court": "Afdeling bestuursrechtspraak Raad van State",
+    "date": "2026-09-30",
+    "docket": "202505307/1/V1",
+    "paragraphs": [
+      "5.1",
+      "5.2",
+      "5.3",
+      "5.4",
+      "6.1",
+      "6.2"
+    ],
+    "supported_units": [
+      "art-5:43",
+      "art-5:46"
+    ],
+    "holding": "Redelijk beleid moet individueel evenredig worden toegepast; toets zonder terughoudendheid. Ontbrekende voorzorg en melding na reeds gestarte controle droegen geen verdere matiging. Niet melden van loontekort en tewerkstellen zonder vereist loon onderscheiden; afzonderlijke sancties onder 5:8 toegestaan. Hoger beroep ongegrond, €855 bleef staan.",
+    "limits": "Concrete Vw/Wav-context, geen algemene dubbele-bestraffingsuitzondering of actuele tarieveninventaris. Geen lokale corpuskopie aangetroffen; volledige officiële XML gelezen.",
+    "full_text_read": true,
+    "read_at": "2026-10-20T16:59:04.931947+00:00",
+    "official_xml": "sources/review-014/ECLI-NL-RVS-2026-5621.xml",
+    "card": "case-cards/ECLI-NL-RVS-2026-5621.md",
+    "official_xml_sha256": "d1273a86cbbfe4b475a205f3453fe8a0c78908b42491b1be4079e3079f0e72e5"
+  }
+]

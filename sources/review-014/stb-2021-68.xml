@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2021-68/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Besluit van 2 februari 2021 tot vaststelling van het tijdstip van inwerkingtreding van de Evaluatiewet bestuursrechtelijke geldschuldenregeling Awb</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al bevat="voordracht">Op de voordracht van Onze Minister voor Rechtsbescherming van 28 januari 2020, directie Wetgeving en Juridische Zaken, nr. 3187988;</considerans.al>
+          <considerans.al bevat="grondslag">Gelet op artikel III van de Evaluatiewet bestuursrechtelijke geldschuldenregeling Awb;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Hebben goedgevonden en verstaan:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <artikel status="goed">
+          <?xpp qa?>
+          <?xpp lead;-1?>
+          <kop>
+            <label>Enig</label>
+            <titel>artikel</titel>
+          </kop>
+          <al>De Evaluatiewet bestuursrechtelijke geldschuldenregeling Awb treedt in werking met ingang van 1 april 2021.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Onze Minister voor Rechtsbescherming is belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.</al>
+        </slotformulering>
+        <gegeven>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2021-02-02">2 februari 2021</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister voor Rechtsbescherming,</functie>
+          <naam>
+            <voornaam>S.</voornaam>
+            <achternaam>Dekker</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2021-02-16">Uitgegeven de <nadruk type="cur">zestiende</nadruk> februari 2021</datum>
+          <ondertekening>
+            <functie>De Minister van Justitie en Veiligheid,</functie>
+            <naam>
+              <voornaam>F.B.J.</voornaam>
+              <achternaam>Grapperhaus</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+      <nota-toelichting>
+        <kop>
+          <titel>NOTA VAN TOELICHTING</titel>
+        </kop>
+        <al>Voor de inwerkingtreding van de Evaluatiewet bestuursrechtelijke geldschuldenregeling Awb (wet van 18 november 2020; <extref doc="stb-2020-500" soort="document" status="actief">Stb. 2020, 500</extref>) is een uitzondering gemaakt op de vaste verandermomenten zoals deze zijn vastgelegd in aanwijzing 4.17 van de Aanwijzingen voor de regelgeving (Ar). Vanwege de in de rechtspraktijk bestaande behoefte aan de in de wet geregelde instrumenten, is het wenselijk niet te wachten met inwerkingtreding tot 1 juli 2021 en dus toepassing te geven aan de uitzonderingsgrond in Ar 4.17, vijfde lid, onder a. Door de wet met ingang van 1 april 2021 in werking te laten treden wordt wel de minimuminvoeringstermijn uit de Code Interbestuurlijke Verhoudingen aangehouden.</al>
+        <ondertekening>
+          <functie>De Minister voor Rechtsbescherming,</functie>
+          <naam>
+            <voornaam>S.</voornaam>
+            <achternaam>Dekker</achternaam>
+          </naam>
+        </ondertekening>
+      </nota-toelichting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

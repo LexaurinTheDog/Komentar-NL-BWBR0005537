@@ -1,0 +1,46 @@
+{
+  "checked_at": "2026-10-20T16:57:05.396044+00:00",
+  "method": "Direct ECLI lookup in the national local Rechtspraak corpus; whitespace-normalized comparison with complete official judgment bodies. No claim to corpus-wide semantic search.",
+  "cases": [
+    {
+      "ecli": "ECLI:NL:RVS:2018:105",
+      "official_body_characters": 10627,
+      "local_source": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2018-105.md",
+      "local_exists": true,
+      "full_normalized_body_in_local": true,
+      "official_xml_matches_author_snapshot": true,
+      "official_evidence": "sources/review-014/ECLI-NL-RVS-2018-105.xml",
+      "local_evidence": "sources/review-014/ECLI-NL-RVS-2018-105-local.md"
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2022:1973",
+      "official_body_characters": 21408,
+      "local_source": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2022-1973.md",
+      "local_exists": true,
+      "full_normalized_body_in_local": true,
+      "official_xml_matches_author_snapshot": true,
+      "official_evidence": "sources/review-014/ECLI-NL-RVS-2022-1973.xml",
+      "local_evidence": "sources/review-014/ECLI-NL-RVS-2022-1973-local.md"
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2026:911",
+      "official_body_characters": 23302,
+      "local_source": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-911.md",
+      "local_exists": true,
+      "full_normalized_body_in_local": true,
+      "official_xml_matches_author_snapshot": true,
+      "official_evidence": "sources/review-014/ECLI-NL-RVS-2026-911.xml",
+      "local_evidence": "sources/review-014/ECLI-NL-RVS-2026-911-local.md"
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2026:5621",
+      "official_body_characters": 20712,
+      "local_source": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-5621.md",
+      "local_exists": false,
+      "full_normalized_body_in_local": null,
+      "official_xml_matches_author_snapshot": null,
+      "official_evidence": "sources/review-014/ECLI-NL-RVS-2026-5621.xml",
+      "local_evidence": null
+    }
+  ]
+}

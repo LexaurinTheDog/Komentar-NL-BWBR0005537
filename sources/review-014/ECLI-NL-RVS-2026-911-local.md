@@ -1,0 +1,273 @@
+---
+source: rechtspraak
+country: nl
+document_type: decision
+court: Raad van State
+ecli: ECLI:NL:RVS:2026:911
+date: '2026-02-18'
+date_published: '2026-02-18'
+case_number:
+- 202304089/1/R3
+procedure:
+- Hoger beroep
+subject:
+- Bestuursrecht
+relations: null
+references: null
+source_url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:911
+download_url: https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:911
+chars: 23420
+license: Public Domain Mark
+retrieved_at: '2026-10-05T17:39:00Z'
+---
+
+# ECLI:NL:RVS:2026:911 – Raad van State, 2026-02-18
+
+- **Instantie:** Raad van State
+- **Datum:** 2026-02-18
+- **Zaaknummer:** 202304089/1/R3
+- **Rechtsgebied:** Bestuursrecht
+
+## Inhoudsindicatie
+
+Bij besluit van 1 december 2021 heeft het college van burgemeester en wethouders van Hof van Twente aan [appellant] lasten onder dwangsom opgelegd om voor 1 februari 2022 verschillende overtredingen aan de [locatie] in Ambt Delden (het perceel) ongedaan te maken. appellant] is eigenaar van het perceel. Op 9 juni 2021 hebben toezichthouders een controle uitgevoerd op het perceel. De constateringen hebben het college aanleiding gegeven om handhavend op te treden tegen verschillende gestelde overtredingen van het bestemmingsplan "Buitengebied Hof van Twente". Op 1 december 2021 is [appellant] gelast om voor 1 februari 2022:
+
+## Uitspraak
+
+202304089/1/R3.
+
+Datum uitspraak: 18 februari 2026
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak op het hoger beroep van:
+
+[appellant], wonend in Ambt Delden, gemeente Hof van Twente,
+
+appellant,
+
+tegen de uitspraak van de rechtbank Overijssel van 17 mei 2023 in zaak nr. 22/816 in het geding tussen:
+
+[appellant]
+
+en
+
+het college van burgemeester en wethouders van Hof van Twente.
+
+Procesverloop
+
+Bij besluit van 1 december 2021 heeft het college aan [appellant] lasten onder dwangsom opgelegd om voor 1 februari 2022 verschillende overtredingen aan de [locatie] in Ambt Delden (het perceel) ongedaan te maken.
+
+Bij besluit van 30 maart 2022 heeft het college het door [appellant] daartegen gemaakte bezwaar, onder aanvulling van het wettelijk kader, ongegrond verklaard.
+
+Bij besluit van 31 januari 2023 heeft het college besloten tot invordering van de verbeurde dwangsommen voor een bedrag van € 24.000,00.
+
+Het college heeft het door [appellant] tegen het besluit van 31 januari 2023 gemaakte bezwaar met toepassing van de artikelen 6:15 en 5:39 van de Algemene wet bestuursrecht (de Awb) aan de rechtbank doorgezonden.
+
+Bij uitspraak van 17 mei 2023 heeft de rechtbank het door [appellant] ingestelde beroep ongegrond verklaard. De rechtbank heeft de beslissing op het beroep tegen het invorderingsbesluit met toepassing van artikel 5:39, tweede lid, van de Awb naar het college verwezen ter behandeling als bezwaar.
+
+Tegen deze uitspraak heeft [appellant] hoger beroep ingesteld.
+
+Bij besluit van 26 juli 2023 heeft het college het bezwaar van [appellant] tegen het besluit van 31 januari 2023, ongegrond verklaard. [appellant] heeft hiertegen bij de rechtbank beroep ingesteld. De rechtbank heeft het beroep ter behandeling doorgezonden naar de Afdeling.
+
+[appellant] heeft gronden aangevoerd tegen het besluit van 26 juli 2023.
+
+Het college heeft een schriftelijke uiteenzetting gegeven.
+
+[appellant] heeft nadere stukken ingediend.
+
+De Afdeling heeft de zaak op een zitting behandeld op 12 september 2025, waar [appellant], vergezeld door [persoon], bijgestaan door ing. M.H. Middelkamp, rechtsbijstandverlener in Almelo, en het college, vertegenwoordigd door ir. B.J.M Beemink-Rouweler en mr. S.A.S. Dubbers, zijn verschenen.
+
+Overwegingen
+
+Overgangsrecht inwerkingtreding Omgevingswet
+
+1. Op 1 januari 2024 zijn de Omgevingswet en de Invoeringswet Omgevingswet in werking getreden. Als vóór het tijdstip van inwerkingtreding van de Omgevingswet een overtreding heeft plaatsgevonden, is aangevangen of het gevaar voor een overtreding klaarblijkelijk dreigde, en vóór dat tijdstip een last onder dwangsom is opgelegd voor die overtreding of dreigende overtreding, dan blijft op grond van artikel 4.23, eerste lid, van de Invoeringswet Omgevingswet op die opgelegde last onder dwangsom het recht zoals dat gold onmiddellijk vóór het tijdstip van inwerkingtreding van de Omgevingswet van toepassing tot het tijdstip waarop de last volledig is uitgevoerd, de dwangsom volledig is verbeurd en betaald, of de last is opgeheven.
+
+Bij besluit van 1 december 2021 heeft het college aan [appellant] een last onder dwangsom opgelegd. Dat betekent dat in dit geval de Wet algemene bepalingen omgevingsrecht (de Wabo), zoals die gold vóór 1 januari 2024, van toepassing blijft.
+
+Inleiding
+
+2. [appellant] is eigenaar van het perceel. Op 9 juni 2021 hebben toezichthouders een controle uitgevoerd op het perceel. De constateringen hebben het college aanleiding gegeven om handhavend op te treden tegen verschillende gestelde overtredingen van het bestemmingsplan "Buitengebied Hof van Twente". Op 1 december 2021 is [appellant] gelast om voor 1 februari 2022:
+
+- Een aanvraag omgevingsvergunning in te dienen voor de aangebouwde overkapping aan de woning. Voor de afwijkende hoogte van de entree en berging moet een bouwkundige tekening met alle bijbehorende relevante gegevens (maten van de hoogtes, breedtes en lengtes van de woning) worden ingediend.
+
+- De twee aarden wallen langs de Kuipersweg en langs de percelen, kadastraal bekend Ambt Delden, sectie B, nummer 2277 en 2278 en langs een deel van de Borgsweg te verwijderen en verwijderd te houden.
+
+- De puinverharding op het perceel aan de [locatie] met de bestemming "Agrarisch met waarden" te verwijderen en verwijderd te houden.
+
+- De vijf gegraven vijvers op het perceel aan de [locatie] te verwijderen en het perceel in de oorspronkelijke staat terug te brengen.
+
+Het college heeft aan deze lasten een dwangsom verbonden van € 6000,00 ineens per overtreding die op 21 februari 2022 niet ongedaan is gemaakt. [appellant] is het niet eens met het opleggen van de lasten.
+
+Relevante regelgeving
+
+3. Op het perceel is het bestemmingsplan "Buitengebied Hof van Twente" van toepassing. Een deel van de gronden heeft de bestemming "Wonen - Azelo" en de bouwaanduiding "specifieke bouwaanduiding - bijgebouwen 1". Dit is het gedeelte waarop de woning staat. Het andere gedeelte van de gronden heeft de bestemming "Agrarisch met waarden". Dit is het gedeelte waarop het college de gestelde overtredingen heeft geconstateerd.
+
+Artikel 4.5.1 van de planregels luidt:
+
+"Het is verboden zonder of in afwijking van een omgevingsvergunning op de in artikel 4.1 bedoelde gronden de volgende werken, geen bouwwerken zijnde of werkzaamheden uit te voeren:
+
+[…];
+
+b. het aanleggen, verbreden, verharden en verwijderen van wegen, paden, parkeergelegenheden en andere oppervlakteverhardingen;
+
+[…];
+
+d. het ontgronden, vergraven, afgraven, egaliseren, diepploegen, woelen en mengen en ophogen van gronden met meer dan 0,4 m;
+
+e. het aanleggen, verdiepen, verbreden en dempen van sloten, watergangen en overige waterpartijen."
+
+Artikel 4.5.3 luidt:
+
+"Geen omgevingsvergunning als bedoeld in artikel 4.5.1 is nodig voor:
+
+a. het oprichten van de geluidwal als bedoeld in artikel 4.1 onder p;
+
+b. werken, geen bouwwerken zijnde of werkzaamheden die het normale onderhoud, gebruik en beheer betreffen;
+
+c. werken, geen bouwwerken zijnde of werkzaamheden die op het moment van het van kracht worden van het plan in uitvoering zijn of uitgevoerd kunnen worden op grond van de een voor dat tijdstip aangevraagde dan wel verleende vergunning;
+
+d. werken, geen bouwwerken zijnde of werkzaamheden die worden uitgevoerd binnen het bouwvlak."
+
+Prejudiciële vraag
+
+4. [appellant] heeft de Afdeling op de zitting verzocht om een prejudiciële vraag te stellen over de toepassing van de grondentrechter door de Afdeling.
+
+4.1. De Afdeling wijst erop dat zij in haar uitspraak van 23 juni 2021, ECLI:NL:RVS:2021:1332, onder 4 al heeft geoordeeld dat het Verdrag van Aarhus zich niet verzet tegen de toepassing van, kort gezegd, de grondentrechter in omgevingsrechtelijke zaken. In de overzichtsuitspraak van 17 juli 2024, ECLI:NL:RVS:2024:2853, over het inbrengen van nieuwe bewijsmiddelen en nieuwe gronden, is overwogen dat in omgevingsrechtelijke zaken het uitgangspunt is dat de grondentrechter tussen beroep en hoger beroep toepassing blijft vinden. Alleen indien is uitgesloten dat het toestaan van één of meer nieuwe gronden in hoger beroep leidt of kan leiden tot benadeling van derde-belanghebbenden, maakt de Afdeling een uitzondering op dat uitgangspunt en past zij de grondentrechter tussen beroep en hoger beroep niet toe. Voor zaken die onder het procesrecht van de Crisis- en herstelwet vallen, wordt de grondentrechter steeds toegepast.
+
+In het niet onderbouwde standpunt van [appellant] dat het Verdrag van Aarhus zich hiertegen verzet, ziet de Afdeling, mede in het licht van de omstandigheid dat dit verdrag, voor zover relevant, gaat over de toegang tot een rechterlijke instantie en deze toegang door de grondentrechter in essentie niet wordt aangetast, geen aanleiding om dit oordeel te herzien.
+
+4.2. Uit het voorgaande volgt dat beantwoording van de door [appellant] opgeworpen vragen niet nodig zijn voor de oplossing van deze zaak. Gelet op de arresten van het Hof van Justitie van 6 oktober 1982, Cilfit, ECLI:EU:C:1982:335, punt 10 en 6 oktober 2021, Consorzio Italian Management, ECLI:EU:C:2021:799, punt 34, bestaat dan ook geen aanleiding tot het stellen van prejudiciële vragen.
+
+Verzoek om adviesverzoek
+
+5. [appellant] heeft de Afdeling op de zitting verzocht een prejudiciële vraag te stellen over de kwestie of de bevoegdheid tot invordering, gelet op artikel 6 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (het EVRM), kan worden toegepast als duidelijk is dat de overtreder de last onder dwangsom niet wil uitvoeren. De Afdeling begrijpt het verzoek zo dat bedoeld zal zijn om advies te vragen aan het Europees Hof voor de Rechten van de Mens (het EHRM) op de voet van het Zestiende Protocol bij het EVRM.
+
+5.1. De Afdeling overweegt dat bij een besluit over invordering van een verbeurde dwangsom een zwaarwegend gewicht aan het belang van de invordering moet worden toegekend. Een andere opvatting zou afdoen aan het gezag dat behoort uit te gaan van een besluit tot oplegging van een last onder dwangsom. Alleen in bijzondere omstandigheden kan geheel of gedeeltelijk van invordering worden afgezien. Dit is vaste rechtspraak van de Afdeling. De Afdeling verwijst hiervoor bijvoorbeeld naar haar uitspraak van 26 juni 2024, ECLI:NL:RVS:2024:2586, onder 6.1.
+
+In het niet onderbouwde standpunt van [appellant] ziet de Afdeling geen aanleiding om dit oordeel te herzien. De enkele verwijzing van [appellant] naar artikel 6 van het EVRM roept geen principiële rechtsvragen op over de interpretatie of toepassing van het EVRM. Er bestaat daarom geen aanleiding om advies te vragen aan het EHRM.
+
+Hoger beroep
+
+Gronden die buiten beschouwing worden gelaten.
+
+6. [appellant] heeft in hoger beroep verschillende nieuwe gronden aangevoerd. [appellant] heeft deze niet eerder aangevoerd. In het omgevingsrecht kunnen beroepsgronden niet voor het eerst in hoger beroep worden aangevoerd. Een uitzondering wordt gemaakt als uitgesloten is dat andere belanghebbenden daardoor worden benadeeld. Die uitzondering doet zich bij deze beroepsgronden niet voor. De Afdeling zal deze beroepsgronden dus niet inhoudelijk bespreken.
+
+Bevoegdheid tot handhaving
+
+7. [appellant] betoogt dat de rechtbank ten onrechte de conclusie heeft getrokken dat sprake is van een overtreding. Hij voert hiertoe aan dat de rechtbank van de verkeerde, door het college aangedragen feiten is uitgegaan. Zo is volgens hem geen sprake van een puinverharding op het perceel. Dat is door het college ook niet aangetoond. Er zijn daarnaast geen vijf vijvers aanwezig. Dat zijn drassige weilanden, bedoeld voor natuurwaardenontwikkeling, en deze leveren geen strijd op met het bestemmingsplan. De aarden wallen zijn een landweer en leveren daarom ook geen strijd met het bestemmingsplan op.
+
+7.1. De Afdeling wijst erop dat zij in haar uitspraak van 7 december 2022, ECLI:NL:RVS:2022:3595, heeft overwogen dat de aanwezigheid van vijvers, de aarden wallen en de verharding leidt tot strijd met het bestemmingsplan. De Afdeling ziet geen aanleiding daar nu anders over te oordelen. Op de zitting is duidelijk geworden dat de vijvers, aarden wallen en verharding niet zijn verwijderd. De rechtbank heeft daarom terecht overwogen dat het college bevoegd was om handhavend op te treden.
+
+Het betoog slaagt niet.
+
+Afzien van handhaving
+
+8. [appellant] betoogt dat de rechtbank ten onrechte niet heeft onderkend dat het college van handhavend optreden had moeten afzien. Hij voert hiertoe aan dat niemand last heeft van de natuurwaterpartijen en dat verwijdering geen enkel doel dient. Als er al sprake is van een overtreding, dan is deze van geringe ernst.
+
+Hij voert hiertoe eveneens aan dat de rechtbank ten onrechte niet heeft onderkend dat zich op het perceel natuurwaarden bevinden die bij naleving van de opgelegde lasten schade kunnen oplopen. Omdat hij geen vergunning heeft op grond van de Wet natuurbescherming (de Wnb), voor wat betreft de soortenbescherming en de gebiedsbescherming, kan hij daarom niet aan de last voldoen.
+
+Tot slot voert [appellant] aan dat sprake is van concreet zicht op legalisatie van de aarden wallen. Er is ook zicht op legalisatie van de vijvers en de aangebrachte drainage op het perceel; om natuurontwikkeling mogelijk te maken zijn deze door hem aangebracht. Door de door hem gecreëerde natuurwaarden op het perceel heeft de provincie Overijssel volgens hem besloten om het perceel om te zetten naar natuur. De provincie wil daar ook een vergunning voor verlenen.
+
+8.1. Zoals de Afdeling heeft overwogen in haar uitspraak van 5 maart 2025, ECLI:NL:RVS:2025:678, geldt bij handhavingsbesluiten bij de toets aan het evenredigheidsbeginsel de maatstaf van de zogeheten Harderwijk-uitspraak (uitspraak van 2 februari 2022, ECLI:NL:RVS:2022:285). Daarbij geldt als uitgangspunt dat het algemeen belang gediend is met handhaving en dat om die reden in de regel tegen een overtreding moet worden opgetreden. Handhaving blijft dus voorop staan.
+
+Handhavend optreden is alleen onevenredig als er in het concrete geval omstandigheden zijn waaraan een zodanig zwaar gewicht toekomt dat het algemeen belang dat gediend is met handhaving daarvoor moet wijken. Dan is er een bijzonder geval waarin toch van handhavend optreden moet worden afgezien. Een bijzonder geval kan zich bijvoorbeeld voordoen bij concreet zicht op legalisatie, maar ook andere omstandigheden van het concrete geval kunnen leiden tot het oordeel dat er een bijzonder geval is.
+
+Andere redenen om van handhavend optreden af te zien kunnen zich bijvoorbeeld voordoen bij een schending van het gelijkheidsbeginsel of het vertrouwensbeginsel.
+
+8.2. De Afdeling is evenals de rechtbank van oordeel dat er geen bijzondere omstandigheden zijn op grond waarvan het college van handhavend optreden moest afzien. Dat er, naar gesteld, geen overlast is door de vijvers en dat verwijdering geen doel dient, zijn geen bijzondere omstandigheden op grond waarvan van handhaving moet worden afgezien. Deze omstandigheden maken ook niet dat handhaving onevenredig is in verhouding tot het algemeen belang dat daarmee is gediend.
+
+8.3. Voor zover [appellant] stelt dat een ontheffing van de Wnb nodig is om aan de last te voldoen, overweegt de Afdeling dat [appellant] geen aanvraag voor een Wnb-ontheffing heeft ingediend. Naar het oordeel van de Afdeling zijn er geen aanknopingspunten aanwezig voor het oordeel dat al op voorhand vast staat dat een Wnb-ontheffing, ondanks een daartoe ingediende toereikende aanvraag, nooit zal worden verleend. Zoals de Afdeling in de hiervoor genoemde uitspraak van 31 januari 2024, ECLI:NL:RVS:2024:379, onder 9.1, heeft overwogen, kan [appellant], als de ontheffing ondanks een toereikende aanvraag alsnog zou worden geweigerd, het college verzoeken om de last op te heffen vanwege de onmogelijkheid om aan die last te voldoen, als bedoeld in artikel 5:34, eerste lid, van de Awb. Het college kan dan besluiten om de last onder dwangsom met terugwerkende kracht op te heffen.
+
+8.4. Wat betreft het betoog van [appellant] dat sprake is van concreet zicht op legalisatie, wijst de Afdeling er, net als de rechtbank, op dat [appellant] geen aanvraag om een omgevingsvergunning heeft ingediend, zodat alleen al om die reden geen concreet zicht op legalisatie bestond.
+
+Het betoog slaagt niet.
+
+Te korte begunstigingstermijn
+
+9. [appellant] betoogt dat de rechtbank ten onrechte de door het college vastgestelde begunstigingstermijn van acht weken niet onredelijk heeft geacht. Hij voert hiertoe aan dat deze termijn voor hem te kort is om aan de lasten te kunnen voldoen.
+
+9.1. Zoals de Afdeling eerder heeft overwogen, bijvoorbeeld in haar uitspraak van 10 mei 2023, ECLI:NL:RVS:2023:1846, geldt bij de begunstigingstermijn als uitgangspunt dat deze niet wezenlijk langer mag zijn dan noodzakelijk is om de overtreding te kunnen beëindigen. Het college heeft aan de lasten onder dwangsom een begunstigingstermijn van twee maanden verbonden. Het is aan [appellant] om aannemelijk te maken dat de hem gegeven termijn te kort is.
+
+9.2. De rechtbank heeft onder 6.1.3 van haar uitspraak overwogen dat een begunstigingtermijn van acht weken in dit geval niet heel ruim is, maar ook niet onredelijk en dat deze [appellant] voldoende gelegenheid bood om de overtredingen, mede gelet op de aard daarvan, tijdig op te heffen. Daarbij heeft de rechtbank in aanmerking genomen dat [appellant] al sinds 2019 op de hoogte was van het feit dat de twee aarden wallen, de puinverharding en de vijvers niet zijn toegestaan en sinds juli 2021 dat het college hier geen genoegen mee nam. De Afdeling ziet geen aanleiding om daar anders over te oordelen.
+
+Het betoog slaagt niet.
+
+Conclusie over de opgelegde last onder dwangsom
+
+10. Het hoger beroep is ongegrond. De uitspraak, voor zover aangevallen, dient te worden bevestigd.
+
+Beroep tegen het besluit van 26 juli 2023
+
+11. Volgens het college heeft [appellant] de vier lasten onder dwangsom niet tijdig nageleefd, zodat de dwangsommen van € 6000,00 voor elk van deze lasten zijn verbeurd. Het college is daarom bij besluit van 21 januari 2023 overgegaan tot het invorderen van de dwangsommen. [appellant] heeft wel op 3 augustus 2023 een aanvraag omgevingsvergunning ingediend voor de aangebouwde overkapping aan de woning, zodat aan dit gedeelte van de last is voldaan.
+
+12. Uit artikel 5:39, eerste lid, van de Awb volgt dat het beroep van [appellant] ook betrekking heeft op het invorderingsbesluit. [appellant] is het met de invordering niet eens.
+
+Gronden invorderingsbesluit
+
+13. Een belanghebbende kan in de procedure tegen de invorderingsbeschikking of de kostenverhaalsbeschikking in beginsel niet met succes gronden naar voren brengen die hij tegen de last onder dwangsom of last onder bestuursdwang naar voren heeft gebracht of had kunnen brengen. Dit kan alleen in uitzonderlijke gevallen. Een uitzonderlijk geval kan bijvoorbeeld worden aangenomen als evident is dat er geen overtreding is gepleegd of betrokkene geen overtreder is. De Afdeling verwijst naar haar uitspraak van 27 februari 2019, ECLI:NL:RVS:2019:466.
+
+13.1. [appellant] heeft tegen de invorderingsbeschikking beroepsgronden aangevoerd die hij ook naar voren heeft gebracht of had kunnen aanvoeren tegen het besluit waarbij de last is opgelegd. Deze beroepsgronden kunnen niet tot een gegrond beroep leiden, omdat deze zaak geen uitzonderlijk geval is zoals hiervoor bedoeld. Daarom worden hierna alleen de beroepsgronden besproken die gaan over de invordering als zodanig.
+
+Onvoldoende grondslag
+
+14. [appellant] betoogt dat er voor het college onvoldoende grondslag is om een invorderingsbeschikking te nemen. Hij voert hiertoe aan dat niet is vast te komen staat dat de dwangsommen verbeurd zijn geraakt.
+
+14.1. Zoals de Afdeling hiervoor onder 7.1 heeft overwegen, zijn de lasten rechtmatig opgelegd. De Afdeling stelt vast dat het college aan het besluit tot invordering van de dwangsommen een inspectie ten grondslag heeft gelegd. Bij deze inspectie van 3 februari 2022 heeft het college vastgesteld dat de twee aarden wallen niet zijn verwijderd, de puinverharding niet is verwijderd en de vijf vijvers niet zijn verwijderd. Ook is er niet voldaan aan de last met betrekking tot de entree en de berging. Op de zitting zijn deze bevindingen nogmaals door het college bevestigd. De dwangsommen zijn daarom op 1 februari 2022 van rechtswege verbeurd, zodat het college tot invordering kon overgaan.
+
+Het betoog slaagt niet.
+
+Verjaring
+
+15. [appellant] betoogt dat het college niet heeft onderkend dat de verbeurde dwangsommen zijn verjaard.
+
+15.1. De Afdeling overweegt dat op grond van artikel 5:35, eerste lid, van de Awb de rechtsvordering tot betaling van een verbeurde dwangsom verjaart door verloop van een jaar na de dag waarop zij is verbeurd. Op grond van artikel 5:35a, tweede lid, van de Awb wordt indien op de dag waarop de rechtsvordering verjaart, bezwaar, beroep of hoger beroep openstaat of aanhangig is tegen de last onder dwangsom, de verjaringstermijn verlengd tot onherroepelijk op het bezwaar, beroep of hoger beroep is beslist.
+
+Omdat op het moment van verjaring van de rechtsvordering het beroep tegen de opgelegde lasten onder dwangsom aanhangig was, is de verjaringstermijn verlengd tot onherroepelijk op het hoger beroep is beslist.
+
+Het betoog slaagt niet.
+
+Afzien invordering
+
+16. [appellant] betoogt dat het college van invordering moet afzien nu hij de last niet kan uitvoeren wegens de aanwezigheid van beschermde dieren en planten.
+
+Hij betoogt tevens dat het college van het invorderen van de last met betrekking tot het indienen van een aanvraag voor een omgevingsvergunning voor de aangebouwde overkapping aan de woning, en een bouwkundige tekening met alle bijbehorende relevante gegevens voor de afwijkende hoogte van de entree en berging, had behoren af te zien. Hij voert hiertoe aan dat de overschrijding van de bouwhoogte zodanig gering is dat naar redelijkheid en billijkheid geen invorderingsbesluit had mogen worden genomen. De overtreding is bovendien achterhaald nu het college een omgevingsvergunning heeft verleend.
+
+16.1. De Afdeling overweegt dat [appellant] weliswaar heeft gesteld dat zich op het perceel natuurwaarden op het perceel bevinden die aan het uitvoeren van de last in de weg staan, maar zoals de Afdeling hiervoor onder 8.3 heeft overwogen, heeft hij niet aannemelijk gemaakt dat op voorhand vaststaat een dat ontheffing op grond van de Wnb, ondanks een daartoe ingediende toereikende aanvraag, nooit zal worden verleend. Alleen al daarom kan het betoog niet slagen.
+
+De Afdeling overweegt verder dat dat het college weliswaar een omgevingsvergunning voor de aangebouwde overkapping aan de woning aan heeft verleend, maar zoals hiervoor weergeven onder 11, hield dit slechts een gedeelte van de opgelegde last onder dwangsom in. Zoals het college ook heeft toegelicht ziet deze omgevingsvergunning dus niet op de legalisatie van de gebouwde berging en entree. Omdat het college bij een inspectie op 30 mei 2023 op het perceel heeft vastgesteld dat er aan de last met betrekking tot de entree en de berging niet is voldaan, is er daarom al geen aanleiding voor het oordeel dat het college van invordering had behoren af te zien. Gelet op het zwaarwegend gewicht dat bij een besluit over invordering van een verbeurde dwangsom aan het belang van de invordering moet worden toegekend, bestaat ook geen aanleiding voor het oordeel dat geen invorderingsbesluit had mogen worden genomen, omdat de overschrijding van de bouwhoogte volgens [appellant] gering is. Dat [appellant] op de zitting nog heeft aangegeven dat hij niet voornemens is om de verbeurde dwangsommen te betalen, en volgens hem daarom niet tot invordering kan worden overgegaan, maakt dat niet anders.
+
+Het betoog slaagt niet.
+
+Conclusie beroep tegen het besluit van 26 juli 2023
+
+17. Het beroep tegen het besluit van het college van 26 juli 2023 is ongegrond.
+
+Proceskosten
+
+18. Het college hoeft geen proceskosten te vergoeden.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State
+
+I. bevestigt de uitspraak, voor zover aangevallen;
+
+II. verklaart het beroep tegen het besluit van 26 juli 2023, kenmerk 572365, ongegrond.
+
+Aldus vastgesteld door mr. P.H.A. Knol, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. E.W.L. van der Heijden, griffier.
+
+w.g. Knol
+
+lid van de enkelvoudige kamer
+
+w.g. Van der Heijden
+
+griffier
+
+Uitgesproken in het openbaar op 18 februari 2026
+
+884-1139

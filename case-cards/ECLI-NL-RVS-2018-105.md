@@ -15,3 +15,5 @@ Een omwonende wilde invordering wegens paardenhandel op een naastgelegen perceel
 ## Grenzen en tijdvak
 
 De uitspraak betrof de oude dwangsomregeling. Haar verjaringsbespreking in r.o. 5–8 ligt vóór de wetswijziging van 2021 en wordt niet als uitleg van de huidige artikelen 5:35 en 5:37a gebruikt. De zaak geeft evenmin een algemeen verbod op gebruik van door burgers aangeleverde informatie: het bestuur moet onderzoeken of deskundige, controleerbare bevindingen de vereiste feiten dragen. Geen onderzoek naar alle latere toepassingen van deze bewijsmaatstaf of naar vervolgprocedures. Geen commerciële annotatie gebruikt.
+
+Tweede inhoudelijke controle op 20 oktober 2026: de volledige officiële uitspraak opnieuw opgehaald en gelezen, identiek aan de auteursbron. [Nieuwe HTTP- en hashregistratie](../sources/review-014/verification.json), [specifieke ondersteuning en beperkingen](../sources/review-014/authority-review.json) en [vergelijking met de lokale corpuskopie](../sources/review-014/local-search-log.json). Geen uitputtende vervolgcontrole of externe professionele goedkeuring.

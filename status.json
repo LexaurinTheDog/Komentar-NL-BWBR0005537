@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T16:51:35.575671+00:00",
+  "updated_at": "2026-10-20T17:01:14.283033+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -15,8 +15,8 @@
     "verified_at": "2026-10-20T13:47:01.778268+00:00",
     "current_recheck_date": "2026-10-20",
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
-    "review_verified_at": "2026-10-20T16:35:07.960510+00:00",
-    "review_evidence": "sources/review-013/verification.json",
+    "review_verified_at": "2026-10-20T16:53:48.125509+00:00",
+    "review_evidence": "sources/review-014/verification.json",
     "author_batch_verified_at": "2026-10-20T16:51:35.575671+00:00",
     "author_batch_evidence": "sources/author-5-32b-50/verification.json"
   },
@@ -664,7 +664,8 @@
       "ECLI:NL:GHDHA:2024:1447",
       "ECLI:NL:RVS:2018:105",
       "ECLI:NL:RVS:2022:1973",
-      "ECLI:NL:RVS:2026:911"
+      "ECLI:NL:RVS:2026:911",
+      "ECLI:NL:RVS:2026:5621"
     ],
     "fetched_not_yet_assessed": [
       "ECLI:NL:CBB:2024:31"
@@ -675,7 +676,7 @@
   "validation_result": {
     "complete": false,
     "reason": "308 eenheden buiten deze auteursbatch missen commentaar; volledige gedeelde bouw blijft geblokkeerd.",
-    "not_independent_review": true,
+    "not_independent_review": false,
     "strict_validator": {
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
@@ -687,11 +688,11 @@
       "warnings": [],
       "ok": false
     },
-    "independent_review_scope": "Earlier 260 reviewed units preserved; newly authored 5:32b–5:50 not independently reviewed.",
+    "independent_review_scope": "Current batch exactly twenty ids in review-result.json; previous 260 preserved separately. Whole-book review incomplete.",
     "validated_at": "2026-10-20T16:52:27.113590+00:00",
     "evidence": "strict-validation.json",
-    "bounded_review_passed": false,
-    "scoped_review_complete": false,
+    "bounded_review_passed": true,
+    "scoped_review_complete": true,
     "scoped_technical_ok": true,
     "whole_book_complete": false,
     "assigned_batch_passed": true,
@@ -703,12 +704,12 @@
     }
   },
   "remaining_limitations": [
-    "308 eenheden buiten deze auteursopdracht zijn nog ongeschreven.",
-    "De nieuwe twintig toelichtingen bij 5:32b–5:50 wachten op een onafhankelijke tweede beoordeling; de eerdere 260 en hun reviewstaat zijn behouden.",
-    "Rechtspraakonderzoek is selectief; geen uitputtend onderzoek van latere behandeling, alle sectorregels of huidige Wav-boetetarieven.",
-    "De 2018-verjaringsanalyse is niet als huidig recht gebruikt; de Wav-percentages uit 2022 zijn historische context; 2026:911 betreft deels oud omgevingsrecht.",
-    "Eerdere beperkingen over de niet onderzochte ministeriële stopregeling, specifieke toezichtsregels en het eindresultaat van de civiele woonbootzaak blijven bestaan.",
-    "Tekstidentiteit, minimumlengte en herhalingscontrole bewijzen geen juridische kwaliteit; geen externe professionele goedkeuring."
+    "Alleen de twintig exact genoemde eenheden zijn in deze zelfstandige tweede beoordeling gelezen; dit is geen gehele boekreview.",
+    "308 eenheden buiten deze opdracht wachten op auteurswerk en tweede beoordeling.",
+    "Vier volledige primaire uitspraken gelezen; selectief onderzoek, geen uitputtende controle van vervolgzaken of actuele sectorale boeteregels.",
+    "De nieuwe uitspraak 2026:5621 ontbreekt op het overeenkomstige lokale corpuspad; officiële volledige tekst beschikbaar.",
+    "De historische Wav-percentages en het oude omgevingsrecht blijven expliciet contextgebonden. De bronfouten in 2026:911 zijn niet tot wettelijke regels verheven.",
+    "Technische tekstovereenstemming, lengte- en herhalingscontroles bewijzen geen juridische kwaliteit. Geen externe professionele goedkeuring."
   ],
   "preflight": {
     "complete": true,
@@ -742,32 +743,33 @@
     ],
     "completed_units": 20,
     "evidence": "batch-5-32b-50-result.json",
-    "independently_reviewed": false
+    "independently_reviewed": true,
+    "review_evidence": "review-result.json"
   },
   "bounded_independent_review": {
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "art-5:18",
-      "art-5:19",
-      "art-5:20",
-      "art-5:21",
-      "art-5:22",
-      "art-5:23",
-      "art-5:24",
-      "art-5:25",
-      "art-5:26",
-      "art-5:27",
-      "art-5:28",
-      "art-5:29",
-      "art-5:30",
-      "art-5:31",
-      "art-5:31a",
-      "art-5:31b",
-      "art-5:31c",
-      "art-5:31d",
-      "art-5:32",
-      "art-5:32a"
+      "art-5:32b",
+      "art-5:33",
+      "art-5:34",
+      "art-5:35",
+      "art-5:36",
+      "art-5:37",
+      "art-5:37a",
+      "art-5:38",
+      "art-5:39",
+      "art-5:40",
+      "art-5:41",
+      "art-5:42",
+      "art-5:43",
+      "art-5:44",
+      "art-5:45",
+      "art-5:46",
+      "art-5:47",
+      "art-5:48",
+      "art-5:49",
+      "art-5:50"
     ],
     "evidence": "review-result.json",
     "technical_evidence": "review-technical.json",
@@ -775,7 +777,7 @@
   },
   "cumulative_independent_review": {
     "complete": false,
-    "units_reviewed": 260,
+    "units_reviewed": 280,
     "reviewed_ids": [
       "aanhef",
       "art-1:1",
@@ -1036,11 +1038,31 @@
       "art-5:31c",
       "art-5:31d",
       "art-5:32",
-      "art-5:32a"
+      "art-5:32a",
+      "art-5:32b",
+      "art-5:33",
+      "art-5:34",
+      "art-5:35",
+      "art-5:36",
+      "art-5:37",
+      "art-5:37a",
+      "art-5:38",
+      "art-5:39",
+      "art-5:40",
+      "art-5:41",
+      "art-5:42",
+      "art-5:43",
+      "art-5:44",
+      "art-5:45",
+      "art-5:46",
+      "art-5:47",
+      "art-5:48",
+      "art-5:49",
+      "art-5:50"
     ],
-    "prior_cumulative_evidence": "sources/review-013/prior-status.json",
-    "prior_batch_evidence": "sources/review-013/prior-review-result.json",
+    "prior_cumulative_evidence": "sources/review-014/prior-status.json",
+    "prior_batch_evidence": "sources/review-014/prior-review-result.json",
     "current_batch_evidence": "review-result.json",
-    "remaining_units": 328
+    "remaining_units": 308
   }
 }
