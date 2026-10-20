@@ -1,0 +1,18 @@
+[
+  {
+    "regulation": "rv",
+    "version": "2026-07-14",
+    "latest_on_title_decisive_date": "2026-07-14",
+    "latest_on_batch_date": "2026-07-14",
+    "effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 14-07-2026 t/m heden.",
+    "history_evidence": "sources/author-4-111-130/rv-history.html"
+  },
+  {
+    "regulation": "wns-correct",
+    "version": "2024-01-01",
+    "latest_on_title_decisive_date": "2024-01-01",
+    "latest_on_batch_date": "2024-01-01",
+    "effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 01-01-2024 t/m heden.",
+    "history_evidence": "sources/author-4-111-130/wns-correct-history.html"
+  }
+]

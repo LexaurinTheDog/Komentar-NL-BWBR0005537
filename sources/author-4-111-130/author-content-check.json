@@ -1,0 +1,61 @@
+{
+  "checked_at": "2026-10-20T15:56:45.815037+00:00",
+  "independent_review": false,
+  "units_checked": 20,
+  "assigned_ids": [
+    "art-4:111",
+    "art-4:112",
+    "art-4:113",
+    "art-4:114",
+    "art-4:115",
+    "art-4:116",
+    "art-4:117",
+    "art-4:118",
+    "art-4:119",
+    "art-4:120",
+    "art-4:121",
+    "art-4:122",
+    "art-4:123",
+    "art-4:124",
+    "art-4:125",
+    "art-4:126",
+    "art-4:127",
+    "art-4:128",
+    "art-4:129",
+    "art-4:130"
+  ],
+  "unit_notes": {
+    "art-4:111": "All extension grounds, special civil-suit start, no restart; concrete old fiscal judgment limited; extension timeline and checklist.",
+    "art-4:112": "Prior default, written two-week term from dispatch, legislative variation and cost warning; dispatch and 4:106 interruption distinguished.",
+    "art-4:113": "Optional fee, amount stated, 500 threshold in official note and original indexation, current 9/20 tariffs and obligation-date transitional rules.",
+    "art-4:114": "Definition elements, 4:85 scope, no power from definition, payment decision distinguished from enforcement title.",
+    "art-4:115": "Law-level allocation, 5:10(2) actual Awb example, no municipal policy substitute, alternative collection separate.",
+    "art-4:116": "Title effect and retained civil enforcement safeguards, Rv430/438 read, service and administrative appeal exclusion.",
+    "art-4:117": "Full reminder period and partial payment, precise law-level accelerated exception, issue versus execution.",
+    "art-4:118": "Exact exclusion only 4:8 for reminder/order, payment facts still relevant, original decision and objection hearing distinguished.",
+    "art-4:119": "Ancillary sums require their own entitlement; multiple debts same creditor/debtor; no revived or suspended debt by bundling.",
+    "art-4:120": "Costs debtor, two tariff sources, actual acts and specification, payment after service does not erase incurred costs; no invented rate.",
+    "art-4:121": "Same obligation, later instalments only up to attachment, ascertainable amount, no acceleration future instalments.",
+    "art-4:122": "Every mandatory item in both paragraphs, actual collectible principal, precise underlying basis and interest start; no automatic defect-nullity claim.",
+    "art-4:123": "Service by writ, excluded 3:41–45, correct civil enforcement court and remedies; no automatic stay from objection letter.",
+    "art-4:124": "Parallel private creditor powers, no bypass of 4:109 or limitation; civil title versus administrative order, checklist.",
+    "art-4:125": "All five paragraphs, same body/same debt/contest requirement, later ancillary decisions, discretionary referral actual full-text holding and interim relief.",
+    "art-4:126": "Cumulative abnormal/special burden and causation, all a–d exclusions, advantage and in-kind compensation; actual commencement and transition source.",
+    "art-4:127": "Event, type, future/current damage and reasonable quantification, information defect versus merits, 4:5 cure rule.",
+    "art-4:128": "Maximum not automatic fee, legislative basis and central delegation, paid fee refund distinct from court fee.",
+    "art-4:129": "All a–d ancillary components, reasonable third-party professional costs, refund and loss-specific interest start; CBB analogy distinguished.",
+    "art-4:130": "Two default terms, chair/sole-member independence, special term override, once-only written extension, separate suspension and finality ground."
+  },
+  "corrections_and_selection_choices": [
+    "Read 4:113 threshold with official replacement note and original 2014 regulation, preserving quoted XML.",
+    "Avoided treating post-2024 publication as proof of direct application of title 4.5.",
+    "Rejected Amsterdam 2026:3056 as a temporal applicability authority because of its undisclosed 2023 permit-date tension.",
+    "Read current Wns IV–VI separately from original 2013 text.",
+    "Distinguished analogical use of 4:129 in CBb 2026:101 from direct current-law application."
+  ],
+  "remaining_limitations": [
+    "Fresh independent content review pending.",
+    "No exact current external fee tariff calculation supplied.",
+    "Technical length and repetition checks are not legal quality certification."
+  ]
+}

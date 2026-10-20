@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBMNE:2024:6535</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2024-12-23T12:14:08</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2024-11-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Midden-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Midden-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2024-11-27</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">UTR 24/3781</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Utrecht</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht_ambtenarenrecht">Bestuursrecht; Ambtenarenrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2024:6535">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2024:6535</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2024-12-23T12:12:07</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2024-12-23</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBMNE:2024:6535 Rechtbank Midden-Nederland , 27-11-2024 / UTR 24/3781</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBMNE:2024:6535:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Nadeelcompensatie, vervallen van toestemming voor nevenwerkzaamheden politieambtenaar. Het ambtenarenrechtelijke besluit had weliswaar strikt op een ambtenaar persoonlijk betrekking, maar was gebaseerd op beleid waarmee het op het openbare belang gerichte optreden was gemoeid. Daarom was een nadeelcompensatiebeoordeling op grond van het égalitébeginsel mogelijk.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBMNE:2024:6535:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <para>
+    <emphasis role="bold">RECHTBANK MIDDEN-NEDERLAND</emphasis>
+  </para>
+  <parablock>
+    <para>Zittingsplaats Utrecht</para>
+  </parablock>
+  <parablock>
+    <para>Bestuursrecht</para>
+  </parablock>
+  <parablock>
+    <para>zaaknummer: UTR 24/3781 </para>
+  </parablock>
+  <bridgehead>
+    <?linebreak?>uitspraak van de meervoudige kamer van 27 november 2024 in de zaak tussen</bridgehead>
+  <section>
+    <title>
+      <?linebreak?>
+      [eiser] uit [woonplaats] , eiser</title>
+    <para>(gemachtigde: mr. P.J. de Booij)</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>de korpschef van politie, verweerder</title>
+    <para>(gemachtigde: mr. M. van Wensen).</para>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Inleiding</title>
+    <para />
+    <para>1. Deze uitspraak gaat over de vraag of eiser recht heeft op nadeelcompensatie vanwege de rechtmatige intrekking van de toestemming om als politieambtenaar tolk- en vertaalwerkzaamheden te verrichten voor de politieorganisatie. De rechtbank komt tot de conclusie dat de korpschef het verzoek om nadeelcompensatie heeft kunnen weigeren, omdat het niet meer mogen verrichten van deze nevenwerkzaamheden binnen het normale maatschappelijke ondernemersrisico van eiser valt.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Achtergrond en procesverloop</emphasis>
+      </para>
+    </parablock>
+    <para>2. Eiser is politieambtenaar. Hij deed daarnaast sinds [jaar] als zzp’er nevenwerkzaamheden als tolk/vertaler bij de politieorganisatie, met name voor het vertalen van getapte telefoongesprekken en van opgenomen vertrouwelijke informatie. In 2020 heeft de korpschef beslist dat de toestemming die eiser daarvoor had werd ingetrokken, met een overgangstermijn van zes maanden. Eiser heeft deze beslissing tevergeefs aangevochten in bezwaar, in beroep en in hoger beroep.<footnote-ref linkend="_e48773b6-0b4b-4f97-9cc8-15d9cf424571" /></para>
+    <para />
+    <para>3. Eiser heeft vervolgens een verzoek om nadeelcompensatie gedaan bij de korpschef. Aan dat verzoek heeft hij ten grondslag gelegd dat hij als gevolg van de intrekking van de toestemming vanaf het einde van de overgangstermijn een nadeel lijdt van € 756.983,28. Dat is het bedrag waarvan eiser zegt dat hij dat met de tolk- en vertaalwerkzaamheden had kunnen verdienen tussen het moment waarop de toestemming daartoe – na de overgangstermijn – niet meer gold enerzijds en zijn pensioendatum in 2025 anderzijds. Eiser is daarbij uitgegaan van zijn gemiddelde inkomsten van zijn nevenwerkzaamheden bij de politie over de jaren vóór de intrekking van de toestemming. </para>
+    <para />
+    <para>4. De korpschef heeft het verzoek afgewezen met het besluit van 26 september 2023 en heeft dat besluit gehandhaafd in de beslissing op bezwaar van 20 maart 2024. Eiser heeft beroep ingesteld tegen die beslissing en de korpschef heeft een verweerschrift ingediend.</para>
+    <para />
+    <para>5. De rechtbank heeft de zaak behandeld op de zitting van 18 oktober 2024. Eiser, zijn gemachtigde en de gemachtigde van de korpschef waren aanwezig.</para>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Beoordeling door de rechtbank</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Overgangsrecht nadeelcompensatie en bevoegdheid bestuursrechter</emphasis>
+      </para>
+    </parablock>
+    <para>6. Op 1 januari 2024 is titel 4.5 van de Algemene wet bestuursrecht in werking getreden, waarin in artikel 4:126 wordt voorzien in een algemene wettelijke grondslag voor vergoeding van nadeelcompensatie. Deze wettelijke grondslag heeft betrekking op schade als gevolg van de rechtmatige uitoefening van de publiekrechtelijke bevoegdheid van een bestuursorgaan. Titel 4.5 is aan de Algemene wet bestuursrecht toegevoegd met de Wet nadeelcompensatie en schadevergoeding bij onrechtmatige besluiten. Artikel IV van deze wet voorziet in overgangsrecht met het oog op de inwerkingtreding. Op grond van het eerste lid blijft op schade, veroorzaakt door een besluit dat werd bekendgemaakt voor het tijdstip waarop deze wet voor dat besluit in werking is getreden, het recht zoals dat gold voor dat tijdstip van toepassing.</para>
+    <para />
+    <para>7. Het besluit dat eiser bij de politie geen nevenwerkzaamheden als tolk/vertaler meer mag verrichten, is vóór 1 januari 2024 bekendgemaakt. Uit het overgangsrecht volgt dat in deze zaak het oude recht van toepassing blijft. Dit oude recht bestaat uit de buitenwettelijke en in de rechtspraak ontwikkelde criteria voor de toegang tot de bestuursrechter bij nadeelcompensatie en de beoordelingsmaatstaf daarvan. Op het moment van de besluitvorming was er geen wettelijke grondslag of gepubliceerde beleidsregel voor de behandeling van een verzoek om nadeelcompensatie door de korpschef. Omdat de bestuursrechter bevoegd was om te oordelen over het besluit over eisers nevenwerkzaamheden is de bestuursrechter ook bevoegd om kennis te nemen van een beroep tegen een separaat besluit op een verzoek om nadeelcompensatie die daarvan het gevolg is. Dat volgt uit de rechtspraak.<footnote-ref linkend="_435076d2-0245-4023-bf2b-565334eb16fc" /></para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Algemeen belang gediend, dus beoordeling nadeelcompensatie mogelijk</emphasis>
+      </para>
+    </parablock>
+    <para>8. In dit (destijds) niet door de wetgever geregelde geval biedt het algemene beginsel van de gelijkheid voor de openbare lasten (égalité devant les charges publiques) de grondslag voor de beoordeling van een verzoek om nadeelcompensatie. Daarbij geldt dat een bestuursorgaan alleen gehouden is tot compensatie van nadeel, als die schade het gevolg is van optreden dat is gericht op het behartigen van het openbaar belang. Het égalitébeginsel ziet dus niet op een individueel geval, waarbij de rechtbank verwijst naar de rechtspraak daarover van de Centrale Raad van Beroep in ambtenarenzaken.<footnote-ref linkend="_4322f511-791a-4e32-9ec7-34f8e11aea52" /></para>
+    <para />
+    <para>9. De rechtbank oordeelt dat het besluit over eisers nevenwerkzaamheden weliswaar strikt op eiser persoonlijk betrekking had, maar dat met dat besluit indirect een breder algemeen belang was gemoeid. Het besluit was immers gebaseerd op het algemene beleid van de korpschef over het verrichten van nevenwerkzaamheden door politieambtenaren bij de politieorganisatie. Aan dat beleid lag ten grondslag het algemene belang van de goede vervulling van de functie of de goede functionering van de openbare dienst en het voorkomen van (de schijn van) belangenverstrengeling door politieambtenaren. Gelet op dit op het openbare belang gerichte optreden heeft de korpschef naar aanleiding van eisers verzoek terecht aan de hand van het égalitébeginsel beoordeeld of dit – door de bestuursrechter rechtmatig bevonden – beleid heeft geleid tot onevenredige schade die buiten het normale maatschappelijke risico valt en die op een beperkte groep burgers drukt. De rechtbank kan inhoudelijk op eisers beroep tegen de afwijzing van het nadeelcompensatieverzoek ingaan.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Het normale maatschappelijke risico</emphasis>
+      </para>
+    </parablock>
+    <para>10. De korpschef stelt zich op het standpunt dat de gehele schade die eiser lijdt, valt binnen zijn normale maatschappelijke ondernemersrisico. Er zijn aan eiser nooit toezeggingen gedaan over de toekomst van zijn nevenwerkzaamheden, die hij als zzp’er verrichte op oproepbasis en zonder werkgarantie. De korpschef erkent dat eisers nevenwerkzaamheden langdurig en intensief zijn geweest en dat de hoofd- en nevenwerkzaamheden bij eiser in de praktijk door elkaar hebben gelopen. Dat neemt echter niet weg dat eiser vanuit verschillende rechtsverhoudingen voor de politie werkte, waarbij de hoofdfunctie als politieambtenaar wél rechtspositionele waarborgen meebrengt maar de positie als ondernemer niet. Het was eiser bovendien toegestaan om ook buiten de politieorganisatie werkzaamheden te verrichten en er is een overgangsperiode geweest om alternatieve inkomsten te genereren. </para>
+    <para />
+    <parablock>
+      <para>11. Eiser voert aan dat hij onevenredige schade lijdt die buiten het normale maatschappelijke risico valt. Hij wijst daarbij allereerst op de omvang van de schade tot aan zijn pensioen. Relevant is dat het beleid dat politieambtenaren binnen de politieorganisatie de tolk- en vertaalwerkzaamheden niet meer mogen verrichten weliswaar al bestond sinds 2015, maar dat daaraan jarenlang geen uitvoering is gegeven. Eiser hoefde daarom niet te verwachten dat hij zijn werkzaamheden niet meer zou kunnen uitvoeren. Verder vindt eiser zijn bijzondere positie als tolk en vertaler in de politieorganisatie van belang. Binnen het tolkenbestand was hij de enige die deze specifieke gevoelige werkzaamheden deed met betrekking tot getapte telefoongesprekken en opgenomen vertrouwelijke informatie. Hij was daarvoor jarenlang dag en nacht beschikbaar en er werd van hem verwacht dat hij ook daadwerkelijk altijd direct paraat stond voor gevoelige, spoedeisende en grootschalige opsporingsonderzoeken. De druk was dan ook hoog en de organisatie kon niet zonder hem. Eiser ging nooit op vakantie en werkte in de vakantieperiodes soms 120 uur per week.<?linebreak?></para>
+      <para>11.  De rechtbank overweegt dat eiser heeft geprocedeerd over de intrekking van zijn toestemming om binnen de politieorganisatie tolk- en vertaalwerkzaamheden te verrichten. In hoger beroep heeft hij beroepsgronden aangevoerd over de rechtmatigheid van het nieuwe beleid van de korpschef en over de evenredigheid van de toepassing van dat beleid in het concrete geval van eiser. De Centrale Raad van Beroep heeft in de uitspraak van 27 oktober 2022 (ECLI:NL:CRVB:2022:2320) op eisers hoger beroep geoordeeld dat het beleid om politiemedewerkers niet toe te staan om binnen de politieorganisatie nevenwerkzaamheden als tolk/vertaler te verrichten rechtmatig is, waarbij hij – in overweging 4.5 – overwoog:</para>
+    </parablock>
+    <parablock>
+      <para>“<emphasis role="italic">Ongeacht welke functie de ambtenaar binnen de politie vervult, moet (de schijn van) belangenverstrengeling en (imago)schade voor de politie worden voorkomen en dit is onvoldoende gewaarborgd indien nevenwerkzaamheden worden verricht als tolk/vertaler voor de politie . Hierbij spelen ook de maatschappelijke ontwikkelingen een rol, waarbij sprake is van een toenemend kritische opstelling van burgers richting de overheid en de politie in het bijzonder.</emphasis>”</para>
+      <para>De Centrale Raad van Beroep oordeelde vervolgens dat de korpschef dit beleid ook in eisers geval mocht toepassen en de toestemming mocht beëindigen. Daartoe overwoog hij in de uitspraak – in overweging 4.8 – onder meer als volgt:<?linebreak?>“<emphasis role="italic">Verder leiden de financiële gevolgen die het bestreden besluit voor appellant heeft niet tot het oordeel dat dit besluit onredelijk bezwarend voor hem is. Hierbij is in aanmerking genomen dat appellant als zzp’er de nevenwerkzaamheden als tolk/vertaler binnen de politieorganisatie op oproepbasis en zonder werkgarantie verrichtte, dat de wens van een opdrachtgever om niet langer van de diensten van appellant gebruik te maken in beginsel tot het normale ondernemersrisico behoort, dat appellant al sinds 17 december 2019 geen tolk- en vertaalwerkzaamheden meer heeft verricht binnen de politieorganisatie en dat het hem nog wel is toegestaan om buiten de politieorganisatie tolk- en vertaalwerkzaamheden te verrichten.</emphasis>”</para>
+    </parablock>
+    <para />
+    <para>13. De rechtbank stelt voorop dat uit de uitspraak van de Centrale Raad van Beroep volgt dat het door de korpschef gehanteerde beleid – waarop de intrekking van eisers toestemming is gebaseerd – rechtmatig is. De Centrale Raad van Beroep heeft vervolgens geoordeeld over de vraag of de intrekking van de toestemming om nevenwerkzaamheden te verrichten voor eiser leidt tot nadelige financiële gevolgen die onevenredig zijn tot de met het besluit te dienen doelen, in de zin van artikel 3:4, tweede lid, van de Algemene wet bestuursrecht. De rechtbank oordeelt dat deze toetsing van het gestelde schadeveroorzakende besluit aan het evenredigheidsbeginsel gelet op de aard van de zaak in dit geval geheel samenvalt met de vraag die in deze procedure voorligt, namelijk of het nadeel dat eiser leidt als gevolg van het rechtmatig bevonden beleid uitstijgt boven zijn normale maatschappelijke risico in de zin van het égalitébeginsel. Met de korpschef oordeelt de rechtbank dan ook dat het antwoord op die vraag luidt dat het nadeel daar geheel binnen valt, waarbij de rechtbank verwijst naar de geciteerde passage uit overweging 4.8 van de uitspraak van de Centrale Raad van Beroep. De rechtbank begrijpt goed dat eiser, gelet op de aard en de omvang van de nevenwerkzaamheden in zijn specifieke geval, in een bijzondere situatie zat die niet zomaar te vergelijken is met anderen die op zzp-basis tolk- en vertaalwerkzaamheden verrichtten. Maar zelfs dat kan er niet aan afdoen dat eiser ondernemer was, terwijl de Centrale Raad van Beroep juist heeft geoordeeld dat eisers specifieke situatie niet tot onredelijk bezwarende uitkomsten leidt.</para>
+    <para />
+    <para>14. De conclusie is dat geen sprake is van schade die buiten het normale maatschappelijke risico valt. Er is geen sprake van een abnormale last voor eiser. Alleen al om die reden kon eisers verzoek worden afgewezen. Er hoeft daarom niet meer te worden ingegaan op de vraag of bij eiser vervolgens sprake is van een speciale last, waarbij zijn schade hem in vergelijking met anderen onevenredig zwaar treft. De beroepsgrond daartegen beoordeelt de rechtbank niet.</para>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Conclusie en gevolgen</title>
+    <para />
+    <parablock>
+      <para>15. Het beroep is ongegrond. Dat betekent dat de korpschef eiser niet financieel hoeft te compenseren voor het verlies aan inkomsten. De korpschef hoeft geen griffierecht of proceskosten te vergoeden.<?linebreak?></para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond. </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. K. de Meulder, voorzitter, en mr. P. Lenstra en mr. L.N. Foppen, leden, in aanwezigheid van drs. S.S. Mazaheri, griffier. De uitspraak is uitgesproken in het openbaar op 27 november 2024.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <informaltable>
+      <tgroup cols="2">
+        <colspec colname="colA" />
+        <colspec colname="colB" />
+        <tbody>
+          <row>
+            <entry>
+              <para>griffier</para>
+            </entry>
+            <entry>
+              <para>voorzitter</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Informatie over hoger beroep</title>
+    <para>Een partij die het niet eens is met deze uitspraak, kan een hogerberoepschrift sturen naar de Centrale Raad van Beroep waarin wordt uitgelegd waarom deze partij het niet eens is met deze uitspraak. Het hogerberoepschrift moet worden ingediend binnen zes weken na de dag waarop deze uitspraak is verzonden. </para>
+    <para />
+    <parablock>
+      <para>Digitaal hoger beroep instellen kan via “Formulieren en inloggen” op www.rechtspraak.nl. Hoger beroep instellen kan eventueel ook nog steeds door verzending van een brief aan de Centrale Raad van beroep, Postbus 16002, 3500 DA Utrecht.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Kan de indiener de behandeling van het hoger beroep niet afwachten, omdat de zaak spoed heeft, dan kan de indiener de voorzieningenrechter van de Centrale Raad van Beroep vragen om een voorlopige voorziening (een tijdelijke maatregel) te treffen.  </para>
+    </parablock>
+    <para />
+  </section>
+  <footnote id="_e48773b6-0b4b-4f97-9cc8-15d9cf424571" label="1">
+    <para> Zie de uitspraak van de rechtbank van 25 november 2021, ECLI:NL:RBMNE:2021:5768 en van de Centrale Raad van Beroep van 27 oktober 2022, ECLI:NL:CRVB:2022:2320.</para>
+  </footnote>
+  <footnote id="_435076d2-0245-4023-bf2b-565334eb16fc" label="2">
+    <para> Zie de uitspraken van de Afdeling bestuursrechtspraak van de Raad van State van 6 mei 1997, ECLI:NL:RVS:1997:AA6762 en van 10 april 2019, ECLI:NL:RVS:2019:1125.</para>
+  </footnote>
+  <footnote id="_4322f511-791a-4e32-9ec7-34f8e11aea52" label="3">
+    <para> Zie de uitspraak van de Centrale Raad van Beroep van 19 september 2013, ECLI:NL:CRVB:2013:1806.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

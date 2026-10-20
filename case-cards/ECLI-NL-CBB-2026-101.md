@@ -1,0 +1,12 @@
+# College van Beroep voor het bedrijfsleven — ECLI:NL:CBB:2026:101
+
+- Datum: 19 februari 2026. Meervoudige kamer. Zaak: 23/1989, Odido tegen de minister van Economische Zaken.
+- [Officiële volledige tekst](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:101), [bewaarde XML](../sources/author-4-111-130/ECLI-NL-CBB-2026-101.xml), [leesbare body](../sources/author-4-111-130/ECLI-NL-CBB-2026-101.txt).
+- Controle: 20 oktober 2026; [HTTP- en SHA-256-log](../sources/author-4-111-130/verification.json), [vergelijking lokale corpusbody](../sources/author-4-111-130/local-case-comparison.json).
+- Ondersteund commentaar: artikel 4:129, aanhef en onderdeel b, met een grens bij de rente over een onverplichte vergoeding.
+
+De omvangrijke hoofdzaak betreft vervanging van bepaalde telecomnetwerkonderdelen wegens nationale veiligheidsrisico’s. Het College handhaaft de maatregel en beoordeelt daarnaast de weigering van een voorschot op nadeelcompensatie. In r.o. 14–23 oordeelt het dat de opgevoerde schade in dit geval onder de gebruikte drempel voor normaal ondernemersrisico blijft. Deze batch neemt geen algemeen schadepercentage uit die bijzondere zaak over.
+
+Voor deze toelichting zijn r.o. 25–30 beslissend. Het nadeelcompensatiekader verwees naar artikel 4:129 Awb en artikel 6:96 BW. Het College vermeldt uitdrukkelijk dat artikel 4:129 na de maatregel in werking trad. In r.o. 26 leidt het **naar analogie** uit het bijkomende karakter van deze kosten af dat bij afwezigheid van aanspraak op nadeelcompensatie evenmin een recht op de deskundigenkosten bestaat. R.o. 27–28 past dit toe en kwalificeert de reeds betaalde gedeeltelijke vergoeding als onverplicht en niet op beleid berustend. In r.o. 29 betrekt het College het rentebesluit via artikel 4:125 in het hoger beroep; r.o. 30 verbindt aan die onverplichte kostenvergoeding geen wettelijke renteplicht.
+
+Dit zijn oordelen van het College, onderscheiden van de schade- en vertrouwensstellingen van Odido en de verdediging van de minister. De beslissing is geen rechtstreekse toepassing van titel 4.5 op de maatregel uit 2021. Zij ondersteunt de uitleg van het bijkomende karakter; zij staat niet toe de posten van artikel 4:129 bij een daadwerkelijk toegekende vergoeding zonder reden te weigeren. De eigen analogische verwijzing naar BW 6:96 is als context weergegeven, niet als zelfstandige extra norm voor dit commentaar. Geen uitputtende controle van latere behandeling.

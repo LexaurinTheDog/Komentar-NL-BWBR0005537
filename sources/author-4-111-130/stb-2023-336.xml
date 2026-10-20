@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2023-336/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Besluit van 6 oktober 2023 tot vaststelling van het tijdstip van inwerkingtreding van titel 4.5 van de Algemene wet bestuursrecht en daarmee samenhangende bepalingen uit de Wet nadeelcompensatie en schadevergoeding bij onrechtmatige besluiten en de Wet van 3 maart 2021 tot wijziging van de Algemene wet bestuursrecht en enkele andere wetten in verband met het nieuwe omgevingsrecht en nadeelcompensatierecht (Stb. 2021, 135)</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al bevat="voordracht">Op de voordracht van Onze Minister voor Rechtsbescherming van 27 september 2023, directie Wetgeving en Juridische Zaken, gedaan in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, nr. 4913666;</considerans.al>
+          <considerans.al bevat="grondslag">Gelet op artikel VI, eerste lid, van de Wet nadeelcompensatie en schadevergoeding bij onrechtmatige besluiten bij onrechtmatige besluiten en artikel 5.3 van de Wet van 3 maart 2021 tot wijziging van de Algemene wet bestuursrecht en enkele andere wetten in verband met het nieuwe omgevingsrecht en nadeelcompensatierecht (<extref doc="stb-2021-135" soort="document" status="actief">Stb. 2021, 135</extref>);</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Hebben goedgevonden en verstaan:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <?xpp qa?>
+        <?xpp lead;-1?>
+        <artikel status="goed">
+          <kop>
+            <label>Enig</label>
+            <titel>artikel</titel>
+          </kop>
+          <al>Met ingang van 1 januari 2024 treden in werking:</al>
+          <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>artikel I, onderdelen A, L, M en N van de Wet nadeelcompensatie en schadevergoeding bij onrechtmatige besluiten; en</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de artikelen 1, onderdeel Ea, 3.1, 3.3 en 3.4 van de Wet van 3 maart 2021 tot wijziging van de Algemene wet bestuursrecht en enkele andere wetten in verband met het nieuwe omgevingsrecht en nadeelcompensatierecht (<extref doc="stb-2021-135" soort="document" status="actief">Stb. 2021, 135</extref>).</al>
+            </li>
+          </lijst>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Onze Minister voor Rechtsbescherming is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.</al>
+        </slotformulering>
+        <gegeven>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2023-10-06">6 oktober 2023</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister voor Rechtsbescherming,</functie>
+          <naam>
+            <voornaam>F.M.</voornaam>
+            <achternaam>Weerwind</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2023-10-12">Uitgegeven de <nadruk type="cur">twaalfde</nadruk> oktober 2023</datum>
+          <ondertekening>
+            <functie>De Minister van Justitie en Veiligheid,</functie>
+            <naam>
+              <voornaam>D.</voornaam>
+              <achternaam>Yeşilgöz-Zegerius</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+      <nota-toelichting>
+        <kop>
+          <titel>NOTA VAN TOELICHTING</titel>
+        </kop>
+        <al>Met dit besluit treedt de regeling voor nadeelcompensatie zoals opgenomen in titel 4.5 van de Algemene wet bestuursrecht (hierna: Awb) per 1 januari 2024 in werking. De belangrijkste bepalingen voor deze regeling zijn opgenomen in de Wet nadeelcompensatie en schadevergoeding bij onrechtmatige besluiten (hierna: de Wet nadeelcompensatie) gepubliceerd op 15 februari 2013 in <extref doc="stb-2013-50" soort="document" status="actief">Stb. 2013, 50</extref>. Verschillende delen van deze wet (artikel I, onderdelen Aa, C, D, E, F, G, H, I, J en K, artikel II, artikel III, onderdelen A, C en E, artikel IV, artikel V, artikel VI en artikel VII) zijn per 1 juli 2013 inwerking getreden middels <extref doc="stb-2013-162" soort="document" status="actief">Stb. 2013, 162</extref>. Met dit inwerkingtredingsbesluit treden de overige nog overgebleven artikelen van de Wet nadeelcompensatie in werking. Het gaat hierbij om artikel I, onderdeel A, L, M, en N.</al>
+        <al-groep>
+          <al>Deze artikelen konden destijds nog niet in werking treden omdat aanpassingswetgeving noodzakelijk was. Deze aanpassingswetgeving is opgenomen in de Wet van 3 maart 2021 tot wijziging van de Algemene wet bestuursrecht en enkele andere wetten in verband met het nieuwe omgevingsrecht en nadeelcompensatierecht (<extref doc="stb-2021-135" soort="document" status="actief">Stb. 2021, 135</extref>) (hierna: Wet van 3 maart 2021). Met dit inwerkingtredingsbesluit treden daarom ook enkele artikelen uit deze wet in werking.</al>
+          <al>De Wet van 3 maart 2021 bevatte drie onderwerpen: (1) een nieuwe coördinatieregeling in afdeling 3.5 van de Awb ten behoeve van het nieuwe omgevingsrecht, (2) de aanpassingswetgeving die noodzakelijk is bij invoering van de nieuwe titel 4.5 van de Awb inzake nadeelcompensatie en (3) een algemene bepaling betreffende de handhaving van de plicht tot het verlenen van medewerking aan een toezichthouder in artikel 5:20, derde lid, Awb. Zie hierover meer uitgebreid de nota van toelichting in <extref doc="stb-2021-254" soort="document" status="actief">Stb. 2021, 254</extref>, waarmee destijds onderwerp 3 in werking is getreden. De inwerkingtreding van het eerste onderwerp dat vastligt in de artikelen 1, onderdelen A, B en E, en 5.1 en hoofdstuk 2 van de wet, wordt geregeld in Besluit van 5 april 2023 tot vaststelling van het tijdstip van inwerkingtreding van de Invoeringswet Omgevingswet, de Aanvullingswet geluid Omgevingswet, de Aanvullingswet bodem Omgevingswet, de Aanvullingswet natuur Omgevingswet, de Aanvullingswet grondeigendom Omgevingswet en enkele andere wetten die met de Omgevingswet verband houden, alsmede het Besluit activiteiten leefomgeving, het Besluit bouwwerken leefomgeving, het Besluit kwaliteit leefomgeving, het Omgevingsbesluit, het Invoeringsbesluit Omgevingswet, het Aanvullingsbesluit geluid Omgevingswet, het Aanvullingsbesluit bodem Omgevingswet, het Aanvullingsbesluit natuur Omgevingswet, het Aanvullingsbesluit grondeigendom Omgevingswet en enkele andere besluiten die daarmee verband houden (<extref doc="stb-2023-113" soort="document" status="actief">Stb 2023, 113</extref>).</al>
+        </al-groep>
+        <al>Dit besluit regelt de inwerkingtreding van het tweede onderwerp. Het betreft Hoofdstuk 3 van de Wet van 3 maart 2021 en onderdeel Ea van artikel 1. De artikelen 3.1 en 3.3 van de Wet van 3 maart 2021 wijzigen de Kernenergiewet en Telecommunicatiewet zodat deze wetten aansluiten bij titel 4.5. Artikel 1, onderdeel Ea, wijzigt artikel 8:7, derde lid, van de Awb. Hiermee wordt bereikt dat als slechts een gespecialiseerde rechtbank bevoegd is wat betreft het schadeveroorzakende besluit, dezelfde gespecialiseerde rechtbank ook oordeelt over het daaruit voortvloeiende nadeelcompensatiebesluit.</al>
+        <al-groep>
+          <al>Verder treedt artikel 3.4 van de Wet van 3 maart 2021 inwerking. Dit artikel wijzigt de Wet nadeelcompensatie. Ten eerste bepaalt onderdeel aA van dit artikel dat artikel I, onderdeel Ca van de Wet nadeelcompensatie vervalt. Daarom treedt dit laatste artikelonderdeel niet meer in werking. Hiermee wordt bereikt dat voor de rechtsmacht van de bestuursrechter inzake nadeelcompensatiebesluiten in alle gevallen wordt aangesloten bij de hoofdregel van rechtspraak in twee instanties (beroep bij de rechtbank en hoger beroep bij – normaliter – de Afdeling bestuursrechtspraak van de Raad van State).</al>
+          <al>Ten tweede wijzigt onderdeel A van artikel 3.4 artikel V van de Wet nadeelcompensatie. Door deze wijziging wordt de inwerkingtreding van de zowel de onderwerpen nadeelcompensatie als schadevergoeding bij onrechtmatige besluiten voor de Belastingdienst (verder) uitgesteld. Hierbij gaat het zowel om de inwerkingtreding van titels 4.5 en 8.4 Awb. Titel 8.4 Awb is per 1 juli 2013 in werking getreden (<extref doc="stb-2013-162" soort="document" status="actief">Stb. 2013, 162</extref>). Ingevolge artikel V van de Wet Nadeelcompensatie is titel 8.4 niet van toepassing op schade veroorzaakt door besluiten of andere handelingen van de Belastingdienst/Toeslagen of van andere bestuursorganen die zijn genomen of verricht in het kader van aan de Belastingdienst opgedragen taken.</al>
+          <al>Dit is anders voor schade veroorzaakt door besluiten en handelingen ter uitvoering van de Wet op de vennootschapsbelasting 1969. Titel 8.4 Awb is sinds 1 juli 2013 namelijk wel al van toepassing op besluiten of andere handelingen ter uitvoering van de Wet op de vennootschapsbelasting 1969 (<extref doc="stb-2013-162" soort="document" status="actief">Stb. 2013, 162</extref>) (zie artikel V, derde lid van <extref doc="stb-2013-50" soort="document" status="actief">Stb. 2013, 50</extref>). Dankzij de wijziging in de Wet van 3 maart 2021 waarmee artikel V van de Wet nadeelcompensatie wordt aangepast is titel 4.5 Awb per 1 januari 2026 van toepassing op schade veroorzaakt door besluiten en andere handelingen van de Belastingdienst/Toeslagen, of van andere bestuursorganen voor zover die zijn genomen of verricht in het kader van aan de Belastingdienst opgedragen taken, ter uitvoering van de Wet op de vennootschapsbelasting 1969. Tot 1 januari 2026 blijft het recht dat gold vóór 1 juli 2013 dus voor de uitvoering van de Wet op de vennootschapsbelasting 1969 van toepassing. Verder heeft de wijziging tot gevolg dat voor besluiten en handelingen die niet dienen ter uitvoering van de Wet op de vennootschapsbelasting 1969 de toepassing van titels 4.5 en 8.4 verder wordt uitgesteld. Hiervoor geldt namelijk dat titels 4.5 en 8.4 Awb voor het eerst van toepassing zijn per 1 januari 2029 voor schade veroorzaakt door overige besluiten of andere handelingen van de Belastingdienst/Toeslagen of van andere bestuursorganen voor zover deze zijn genomen of verricht in het kader van aan de Belastingdienst opgedragen taken. Dit betekent dat tot 1 januari 2029 het recht zoals dat gold voor 1 juli 2013 van toepassing blijft. Indien echter een wetsvoorstel wordt ingediend dat strekt tot een specifieke regeling op dit terrein voordat titels 4.5 en 8.4 Awb voor de Belastingdienst in werking zijn getreden wordt het tijdstip van toepassing van de titels 4.5 en 8.4 bij koninklijk besluit bepaald.</al>
+          <al>Ten derde wijzigt onderdeel B van artikel 3.4 artikel VI van de Wet nadeelcompensatie. Dit betekent dat de zinsnede «bij wet of beleidsregels» van het tweede lid van artikel VI wordt vervangen door de zinsnede «bij de in dat koninklijk besluit genoemde wetten». Hierdoor vervalt de mogelijkheid om beleidsregels over nadeelcompensatie die niet in overeenstemming zijn met titel 4.5 voort te laten bestaan. Wel kan bij koninklijk besluit worden bepaald voor welke wetten titel 4.5 Awb nog niet in werking treedt (Kamerstukken II 2018/19, <extref doc="kst-35256-3" soort="document" status="actief">35 256, nr. 3</extref>). Van deze mogelijkheid wordt geen gebruik gemaakt omdat de Omgevingswet gelijk met titel 4.5 Awb in werking treedt. Hierdoor ontstaat geen overgangsperiode waarin een nieuw regime voor compensatie voor rechtmatige besluiten zou ontstaan voor de wetten die opgaan in de Omgevingswet, terwijl met de inwerkingtreding van artikel 15.1 van de Omgevingswet daar weer een aantal uitzonderingen en aanvullingen op zou worden gemaakt.</al>
+        </al-groep>
+        <al>Artikel 3.2 van de Wet van 3 maart 2021 treedt niet inwerking. Dit artikel wijzigt de Plantenziektenwet, deze wet is inmiddels per 1 maart 2021 ingetrokken met de Plantengezondheidswet (<extref doc="stb-2020-65" soort="document" status="actief">Stb. 2020, 65</extref> en <extref doc="stb-2021-100" soort="document" status="actief">Stb. 2021, 100</extref>).</al>
+        <al>Ten slotte wordt nog opgemerkt dat de onderdelen B en D van artikel III van de Wet nadeelcompensatie niet in werking zullen treden. Artikel V van de Veegwet aanpassing bestuursprocesrecht (<extref doc="stb-2013-226" soort="document" status="actief">Stb. 2013, 226</extref>) bepaalt namelijk dat deze onderdelen vervallen. De Veegwet aanpassing bestuursprocesrecht is per 1 juli 2013 in werking getreden (<extref doc="stb-2013-258" soort="document" status="actief">Stb. 2013, 258</extref>).</al>
+        <ondertekening>
+          <functie>De Minister voor Rechtsbescherming,</functie>
+          <naam>
+            <voornaam>F.M.</voornaam>
+            <achternaam>Weerwind</achternaam>
+          </naam>
+        </ondertekening>
+      </nota-toelichting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

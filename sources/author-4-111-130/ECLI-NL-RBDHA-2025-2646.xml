@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2025:2646</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-11T10:05:27</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2025-02-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2025-02-25</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">23/5420 en 23/6840</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Den Haag</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2025:2646">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2025:2646</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-03T10:54:15</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2025-03-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2025:2646 Rechtbank Den Haag , 25-02-2025 / 23/5420 en 23/6840</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2025:2646:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Wet op de Kansspelen, bestuurlijke boete van € 1.128.000,- voor het aanbieden van online kansspelen zonder vergunning en het besluit tot openbaarmaking van het boetebesluit.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2025:2646:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <para>
+    <emphasis role="bold">RECHTBANK DEN HAAG</emphasis>
+  </para>
+  <parablock>
+    <para>Bestuursrecht</para>
+  </parablock>
+  <parablock>
+    <para>zaaknummers: SGR 23/5420 en 23/6841 </para>
+  </parablock>
+  <bridgehead>
+    <?linebreak?>uitspraak van de meervoudige kamer van 25 februari 2025 in de zaak tussen</bridgehead>
+  <section>
+    <title>
+      <?linebreak?>
+      [eiseres] Limited, uit [vestigingsplaats] (Malta), eiseres</title>
+    <para>(gemachtigde: mr. P.M. Waszink)</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>de raad van bestuur van de Kansspelautoriteit, verweerder </title>
+    <para>(gemachtigden: mr. R.G.J. Wildemors en mr. K. Hollemans).</para>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Inleiding</title>
+    <para />
+    <parablock>
+      <para>1.	Bij besluit van 20 december 2022 heeft verweerder eiseres een bestuurlijke boete van € 1.128.000,-. opgelegd wegens overtreding van artikel 1, eerste lid, aanhef en onder a, van de Wok<footnote-ref linkend="_c293c37c-44de-44da-97c8-957f565d7ace" />.</para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Bij afzonderlijk besluit van 20 december 2022 heeft verweerder besloten tot openbaarmaking van het boetebesluit.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Eiseres heeft tegen beide besluiten bezwaar gemaakt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Bij uitspraak van 1 maart 2023<footnote-ref linkend="_d08d2085-e7dd-406d-a62f-d2c7115cc431" /> heeft de voorzieningenrechter van deze rechtbank het verzoek om een voorlopige voorziening van eiseres tegen het openbaarmakingsbesluit afgewezen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para>Bij besluit van 4 juli 2023 (het bestreden besluit) heeft verweerder de bezwaren van eiseres tegen het boetebesluit ongegrond verklaard.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5.</nr>
+      <para>Bij afzonderlijk besluit van 4 juli 2023 heeft verweerder besloten tot openbaarmaking van het bestreden besluit. Eiseres heeft verweerder bij het bezwaar tegen dit openbaarmakingsbesluit verzocht om in te stemmen met rechtsreeks beroep. Verweerder heeft daarmee ingestemd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6.</nr>
+      <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.7.</nr>
+      <para>Verweerder heeft op de beroepen gereageerd met een verweerschrift</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.8.</nr>
+      <para>Bij brief van 15 juli 2024 heeft verweerder een aanvullend verweerschrift ingediend. Daarin komt verweerder terug van een eerder standpunt over het begrip ‘omzet’.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.9.</nr>
+      <para>Bij brief van 24 december 2024 stuurt verweerder een aanvullend stuk in. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.10.</nr>
+      <para>Eiseres stuurt bij brief van 2 januari 2025 een aanvullende reactie in.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.11.</nr>
+      <para>De rechtbank heeft de beroepen op 14 januari 2025 op zitting behandeld. Hieraan hebben deelgenomen: de gemachtigde van eiseres en de gemachtigden van verweerder. </para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Beoordeling door de rechtbank</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Waar gaan deze zaken over?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. Verweerder heeft geconstateerd dat eiseres, hoewel zij niet over een vergunning daartoe beschikt, via de website www.energycasino.com gelegenheid heeft gegeven aan consumenten in Nederland om online aan kansspelen deel te nemen. Ook zijn er boeteverhogende omstandigheden geconstateerd. Verweerder heeft eiseres om die reden een boete van € 1.128.000,- opgelegd.<footnote-ref linkend="_b79cbc7b-5bfe-4dc1-a551-8e8e19067fc5" /> Daarnaast heeft verweerder het bestreden besluit openbaar gemaakt. Eiseres is in beroep gegaan tegen beide besluiten.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Wat vindt eiseres?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>2. Eiseres is van mening dat verweerder niet bevoegd is de besluiten te nemen omdat eiseres een Maltees bedrijf is. Daarbij is er ook geen sprake van activiteiten die gericht zijn op de Nederlandse markt. Het enkele feit dat de website toegankelijk was voor bezoekers uit Nederland is daarvoor onvoldoende. Verweerder wijst eiseres op haar taak dat de wet wordt nageleefd. Het voorkomen van deelname vanuit Nederland is volgens eiseres echter onmogelijk, zodat het voor eiseres niet mogelijk is de wet na te leven. </para>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <parablock>
+        <para>Verweerder heeft verder volgens eiseres onvoldoende aangetoond dat eiseres zich heeft gericht op de Nederlandse markt. Het gebruik van Engels als voertaal en de Euro als valuta is goed te verklaren voor een Maltees bedrijf en toont geen gerichtheid op Nederland aan. </para>
+        <para>Ook is er volgens eiseres sprake van een procedurefout door geen voornemen tot boeteoplegging aan haar bekend te maken. Daarmee is eiseres de mogelijkheid ontzien om haar zienswijze daarover kenbaar te maken. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>De hoogte van de boete is volgens eiseres onevenredig aan de vermeende inbreuk. De continuïteit van de onderneming kan er door in het gedrang komen. Eiseres is een relatief jonge en kleine onderneming, daar had verweerder rekening mee moeten houden. Verweerder heeft verder een beperkt onderzoek gedaan naar de werkelijke financiële situatie van eiseres en heeft nagelaten daar documenten over op te vragen. Daarmee is verweerder uitgegaan van een onjuiste fictieve omzet. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <para>Verweerder heeft niet bewezen dat eiseres de haar verweten boeteverhogende handelingen heeft begaan.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4.</nr>
+      <para>In de aanvullende gronden van beroep wijst eiseres erop dat een aparte procedure loopt over het verzoek tot uitstel van betaling. Daarbij komt de draagkracht van eiseres aan de orde. Verweerder heeft ten onrechte niet de gegevens over de draagkracht betrokken bij de besluitvorming. Hierdoor zijn de besluiten onzorgvuldig tot stand gekomen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5.</nr>
+      <para>Daarnaast heeft verweerder nu pas onderzoek gedaan in de Maltese kamer van koophandel. Ook dat had al ten tijde van de besluitvorming moeten gebeuren. Verweerder is in het aanvullende verweerschrift van standpunt veranderd over de definitie van het begrip “omzet”. Ook verweerder gaat nu uit van het Bruto spelresultaat (BSR). Eiseres is het echter niet met verweerder eens dat daarbij ook de buitenlandse omzet moet worden betrokken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.6.</nr>
+      <para>Verweerder heeft niet onderbouwd waarom de schatting en het boetebedrag materieel gezien juist en evenredig is. Daarbij is van belang dat er gebruik is gemaakt van gegevens van similarweb maar daarbij ten onrechte achterwege is gelaten dat er een foutmarge bestaat. Daarnaast was er een sterke daling van het aantal bezoekers op de website. Dat moet gekoppeld worden aan de omzet. Die had daarmee veel lager moeten uitvallen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.7.</nr>
+      <para>Ten aanzien van het openbaarmakingsbesluit stelt eiseres dat dit niet in stand kan blijven omdat het boetebesluit onrechtmatig is. De publicatie dient ook geen doel en is daarom onevenredig. Het primaire boetebesluit is al gepubliceerd, er is geen reden om het bestreden besluit ook te publiceren. Eiseres ontplooit geen enkele activiteit meer in Nederland. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Wat is het oordeel van de rechtbank? </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>3. Het beroep tegen het boetebesluit is gegrond, maar de rechtsgevolgen van het besluit kunnen in stand blijven. Het beroep tegen het bekendmakingsbesluit is ongegrond. Dat betekent dat eiseres geen gelijk krijgt. De rechtbank legt hieronder uit hoe zij tot dit oordeel komt. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Was verweerder bevoegd de boete op te leggen? </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>4. Op grond van artikel 1, eerste lid onder a, van de Wok is het verboden om het mogelijk te maken om mee te dingen naar prijzen, als de aanwijzing van de winnaars gebeurt door een kansbepaling waarop de deelnemers in het algemeen geen overwegende invloed hebben, tenzij daarvoor een vergunning is verleend. Verweerder is belast met de handhaving en het toezicht op deze wet en kan in dit kader een bestuurlijke boete opleggen.<footnote-ref linkend="_5221af71-23f6-44cf-8cb5-73bae760b183" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Het is niet in geschil dat eiseres geen vergunning heeft voor het in Nederland aanbieden van online kansspelen. De rechtbank stelt daarnaast vast dat uit het onderzoek van verweerder blijkt dat eiseres deelname aan door haar aangeboden online kansspelen vanuit Nederland, in elk geval tussen 22 december 2021 en 7 april 2022, mogelijk heeft gemaakt. Verweerder heeft dit onderzoek beschreven in het boeterapport van 31 augustus 2022. Uit het onderzoek blijkt dat het mogelijk was om vanuit Nederland een spelersaccount aan te maken, een geldstorting te doen en deel te nemen aan de door eiseres aangeboden online kansspelen. Er waren in de onderzochte periode geen technische maatregelen genomen om deelnemers vanuit Nederland de toegang tot de door eiseres aangeboden online kansspelen te beletten. Nu dit zonder vergunning verboden is op grond van de Wok, is de rechtbank van oordeel dat verweerder bevoegd was om tot handhaving over te gaan.<footnote-ref linkend="_1006a1a6-75ac-4a42-8d18-12e45470c838" /></para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Waren de activiteiten van eiseres gericht op Nederland? </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>5.	De rechtbank is van oordeel dat verweerder voldoende heeft gemotiveerd dat er bij de door eiseres aangeboden online kansspelen sprake was van gerichtheid op de Nederlandse markt. Verweerder heeft over de website www.energycasino.com onder andere vastgesteld dat hierop verschillende kansspelen werden aangeboden, dat deze website bereikbaar was via een Nederlands IP-adres en dat Nederland niet was opgenomen in de lijst van landen waarvoor geen account kon worden aangemaakt. Ook is geconstateerd dat bij het doorlopen van het registratieproces sommige gegevens automatisch waren ingevuld. Het ging onder meer om de Nederlandse vlag met landnummer +31 en het land ‘The Netherlands’. Ook werd de Euro automatisch als valuta ingevuld en was betalen vanaf een Nederlandse bankrekening mogelijk. Hierover heeft verweerder in het bestreden besluit terecht overwogen dat bedrijven via hun betaaldienstverlener consumenten op basis van hun IP-adres kunnen uitsluiten. Verweerder heeft in het feit dat eiseres geen gebruik heeft gemaakt van deze laatste mogelijkheid dus al een aanwijzing kunnen zien van gerichtheid op Nederland. De intentie van eiseres om zich al dan niet tot Nederland te richten is hierbij irrelevant. De intentie laat immers onverlet dat er in strijd met artikel 1 van de Wok door eiseres in Nederland online kansspelen zijn aangeboden zonder de vereiste vergunning. Het is aan eiseres om zich aan de Wok te houden en geen deelname vanuit Nederland mogelijk te maken. Als dat volgens haar niet goed met het blokkeren van IP-adressen kan, omdat dit volgens eiseres eenvoudig te omzeilen is, dan moet zij dat op een andere manier doen. Overigens merkt de rechtbank op dat eiseres wel de toegang tot haar website vanuit Nederland heeft geblokkeerd nadat verweerder haar een voornemen tot het opleggen van een last onder dwangsom had gestuurd. Kennelijk had eiseres dus wel degelijk de mogelijkheid om de toegang tot haar site vanuit Nederland onmogelijk te maken. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Het door eiseres aangehaalde arrest van het Hof van Justitie Pammer/Alpenhof<footnote-ref linkend="_ce384432-3a28-4e79-a337-f52c0062a47e" />, leidt niet tot een ander oordeel. Deze zaak ziet in de kern op de verhouding tussen een toezichthouder en de Staat, en is in die zin voor deze zaak niet relevant. Wat voor deze zaak wel uit dit arrest kan worden afgeleid, is een niet-limitatieve opsomming van aanwijzingen om vast te stellen of een ondernemer zich richt op andere lidstaten. Een duidelijke uitdrukking van de wil van de ondernemer door de vermelding dat hij zijn diensten aanbiedt in één of meerdere bij name genoemde lidstaten, is niet vereist. De kwalificatie van gerichtheid op een lidstaat hangt volgens het Hof nu juist niet uitsluitend af van dergelijke duidelijke aanwijzingen.<footnote-ref linkend="_4726aad5-2d16-48bb-bcca-fbadd717a24f" /> Gerichtheid op een lidstaat kan volgens het Hof ook blijken uit andere criteria, zoals het gebruik van een topleveldomeinnaam of internationaal telefoonnummer, zoals eiseres die ook gebruikt. Evenmin is uit dit arrest op te maken dat het gebruik van de Nederlandse taal en iDEAL noodzakelijk zouden zijn om gerichtheid op Nederland aan te nemen.<footnote-ref linkend="_c73a4a87-96c5-4af5-9e9c-fcb501152199" /> Eiseres heeft in de aanvullende gronden van beroep gewezen op een overzicht van kenmerken van gerichtheid van de Deense en Zweedse kansspelautoriteit. De rechtbank is van oordeel dat verweerder als Nederlandse kansspelautoriteit niet gebonden is aan de uitleg die andere landen aan dit begrip geven. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>Uit al het voorgaande volgt dat verweerder terecht en op goede gronden heeft geconcludeerd dat de activiteiten van eiseres (mede) gericht waren op Nederland. Daarmee staat de gerichtheid op Nederland vast.<footnote-ref linkend="_d0e63a35-253a-470d-9422-8098ad2febc8" /></para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Is de boete op juiste wijze vastgesteld?</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Wettelijk boete maximum</emphasis>
+        </para>
+        <para>6.	Partijen zijn het inmiddels voor een groot gedeelte eens over de wijze waarop het begrip ‘omzet’ in het kader van het wettelijke boetemaximum moet worden gedefinieerd. Anders dan in de beslissing op bezwaar is verweerder inmiddels met eiseres van mening dat het begrip ‘omzet’ als bedoeld in artikel 35a, tweede lid, van de Wok uitgelegd moet worden als het BSR en niet, zoals eerder gesteld, als de ‘som van alle inzetten’. Voor de berekening van het wettelijk maximum van de hoogte van de boete moet dan ook gekeken worden naar de ‘netto omzet’ als bedoeld in artikel 2:377, zesde lid, BW. De uitleg van het begrip omzet is dus niet langer in geschil. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>De rechtbank is van oordeel dat bij het berekenen van het wettelijk boetemaximum voor de omzet als bedoeld in artikel 35a, tweede lid, van de Wok gekeken moet worden naar de totale omzet van een onderneming, ongeacht waar die omzet wordt gerealiseerd. Het gaat dus om de totale omzet die een onderneming zowel in het buitenland als in Nederland heeft behaald. De rechtbank sluit voor deze uitleg mede aan bij artikel 23, zevende lid, van het wetboek van Strafrecht. In de memorie van toelichting<footnote-ref linkend="_0ff114dc-efcf-4699-9d9c-cb9128ba495a" /> is bij dit artikel het volgende aangegeven: “Het gaat om de jaaromzet van de rechtspersoon (uit de aard der zaak volgt, de jaaromzet van de onderneming die de rechtspersoon drijft) in het boekjaar voorafgaand aan het tijdstip van de veroordelende uitspraak of uitvaardigen van de strafbeschikking. Het gaat om de omzet van alle goederen die de onderneming van de rechtspersoon produceert of levert of van alle diensten die zij levert, ongeacht waar die omzet wordt gerealiseerd. Daarbij geldt dat bijvoorbeeld wanneer sprake is van een strafbaar feit begaan door een dochtermaatschappij waarvan het beleid wordt bepaald door de moeder, de moeder en dochter tezamen als de onderneming van de rechtspersoon kunnen worden beschouwd. Voor de berekening van de boete kan dan ook de gezamenlijke omzet worden genomen<footnote-ref linkend="_6b623616-a914-4530-8798-3016b1e76d81" />. Betreft het buitenlandse rechtspersonen dan zal enig onderzoek moeten worden verricht naar elders gepubliceerde of anderszins bekende jaarcijfers.” Dezelfde lijn wordt ook gevolgd bij artikel 57 van de Mededingingswet, welke een soortgelijke boetebepaling als artikel 35a van de Wok kent. Eiseres heeft verder ook niet onderbouwd waarom niet naar de totale omzet van een onderneming gekeken moet worden. Het wettelijk boetemaximum moet dus worden bepaald op 10% van de totale omzet die door eiseres wereldwijd is behaald met alle door haar geëxploiteerde websites.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <parablock>
+        <para>Het BSR over 2021 is door verweerder, aan de hand van gegevens in het handelsregister van de Kamer van Koophandel in Malta, geschat op een bedrag van </para>
+        <para>€ 38.243.500,-. Volgens het jaarverslag heeft eiseres € 2.501.969,- belasting betaald. De netto omzet komt daarmee op € 35.741.531,-. Het wettelijk maximum van de boete is daarom tien procent van dat bedrag, €3.574.153,-. Door eiseres is niet aannemelijk gemaakt dat deze schatting niet klopt. Dit terwijl eiseres wel ruim gelegenheid van verweerder heeft gekregen om inzicht te geven in haar financiële gegevens en bedrijfsstructuur. Over de financiële stukken van het boekjaar 2022 is door eiseres geen formele controleverklaring van een (externe) accountant overgelegd. Ook het vermogen van de moedermaatschappij zijn geen gegevens verstrekt en heeft eiseres niet inzichtelijk gemaakt dat spelersbonussen zijn uitgekeerd of belastingen zijn betaald die zouden moeten worden afgetrokken van het BSR. Gelet op vorenstaande is niet gebleken dat verweerder met de opgelegde boete het boetemaximum van 10% van de jaaromzet van die onderneming heeft overschreden.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Vaststelling hoogte van de basisboete</emphasis>
+        </para>
+        <para>7.	Volgens verweerder speelt de uitleg van het begrip “omzet” geen rol bij de vaststelling van de daadwerkelijke boetehoogte, zolang dit bedrag maar onder het wettelijk boetemaximum blijft en de boete evenredig is. De rechtbank volgt verweerder hierin. Artikel 35a van de Wok bepaalt alleen op welke wijze het boetemaximum moet worden vastgesteld. Dat is het wettelijk kader waar verweerder zich aan moet houden. Verweerder heeft vervolgens beleidsruimte om zelf de methode en de terminologie te bepalen voor het vaststellen van de daadwerkelijke boetehoogte. Hierbij kan voor een andere rekenmethode worden gekozen dan die wordt gehanteerd bij het vaststellen van het wettelijk boetemaximum. Het bestreden besluit kon dan ook worden genomen op basis van hetgeen daarover in de beleidsregels is bepaald.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>Op grond van de beleidsregels wordt de basisboete als volgt berekend. Het geschatte BSR per bezoek in Nederland vermenigvuldigt verweerder met 20, dit is de geschatte inzet per bezoek (€ 230,24). Vervolgens wordt deze geschatte inzet vermenigvuldigd met alle bezoeken in Nederland aan www.energycasino.com (€150.826) is € 34.726.178,20. De uitkomst hiervan is wat in de beleidsregels bedoeld wordt met ‘omzet’, ook wel de ‘som van alle inzetten’. In het geval van eiseres heeft verweerder nog een correctie toegepast door de omzet in Nederland te delen door twee. De uiteindelijke omzet komt uit op een bedrag van € 17.363.089,12,-. De basisboete wordt vervolgens vastgesteld op 4% nu het gaat om een omzet gelijk of hoger dan 15 miljoen euro. De basisboete die aan eiseres is opgelegd bedraagt € 694.523,-.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>Zoals bij rechtsoverweging 6.2. is aangegeven, heeft eiseres verder niet aannemelijk gemaakt dat de schatting die verweerder heeft gemaakt onjuist is. De verwijzing van eiseres naar de casus van Videoslots kan haar niet baten aangezien naar het oordeel van de rechtbank geen sprake is van gelijke omstandigheden. De rechtbank komt dan ook tot de conclusie dat de basisboete op de juiste wijze is vastgesteld.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Boeteverhogende omstandigheden</emphasis>
+        </para>
+      </parablock>
+      <para>8. Door verweerder zijn de volgende boeteverhogende omstandigheden geconstateerd:</para>
+      <itemizedlist mark="-">
+        <listitem>
+          <para>Inactiviteitskosten + 0,5%;</para>
+        </listitem>
+        <listitem>
+          <para>Autoplay + 0,5%</para>
+        </listitem>
+        <listitem>
+          <para>Vooringevulde speellimieten + 0,5%</para>
+        </listitem>
+        <listitem>
+          <para>Ontbreken van leeftijdsverificatie + 0,5%</para>
+        </listitem>
+        <listitem>
+          <para>Bijzondere omstandigheden + 0,5%</para>
+        </listitem>
+      </itemizedlist>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1.</nr>
+      <para>Verweerder heeft draagkrachtig gemotiveerd waarom deze omstandigheden de consument extra benadelen en daarmee een verhoging rechtvaardigen. Zo is de omstandigheid dat aan geen enkele Nederlandse speler inactiviteitskosten zouden zijn berekend, nog daargelaten dat dit niet is onderbouwd, irrelevant, omdat het feit dat deze kosten volgens de Algemene Voorwaarden wel zouden kunnen worden berekend er al toe leidt dat spelers worden aangezet tot gokken of onevenredig worden benadeeld.<footnote-ref linkend="_acd14909-67fa-48e5-891f-19f3f17ed9d1" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2.</nr>
+      <para>Ook is voldoende gemotiveerd dat eiseres de leeftijd van bezoekers niet altijd (tijdig) verifieert. Zo blijkt uit de Algemene Voorwaarden dat verificatie geen standaardprocedure is en dat deze verificatie niet zichtbaar is. Zo kan de toezichthouder deze niet controleren. Bovendien was het voor de toezichthouder mogelijk om een account te openen en deel te nemen aan kansspelen zonder leeftijdsverificatie. Het kan dus niet worden uitgesloten dat minderjarigen kunnen deelnemen aan de door eiseres aangeboden kansspelen. Dat heeft verweerder terecht als zeer kwalijk en daarmee als reden voor een verhoging van de boete kunnen aanmerken. Dat dit tot rechtsonzekerheid zou leiden, omdat het voor eiseres onduidelijk is wat zichtbare leeftijdsverificatie precies inhoudt, volgt de rechtbank niet. Het is aan eiseres om te voorkomen dat er minderjarigen deelnemen aan haar kansspelen. Daarvoor moet zij de leeftijd – voor verweerder - zichtbaar verifiëren. Hoe zij dat doet, is aan haar. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.3.</nr>
+      <para>Dat contractuele bepalingen over het in rekening brengen van administratiekosten geen nieuwe, door technische ontwikkelingen ingegeven omstandigheden zijn die niet hadden kunnen worden voorzien, betekent niet dat ze niet door verweerder als bijzondere omstandigheid mogen worden aangemerkt die verhoging van de boete rechtvaardigt. Het gaat hierbij namelijk ook om onredelijke voorwaarden die de consument benadelen, waarbij verweerder een beoordelingsmarge heeft. Verweerder heeft dus ruimte om zelf te beoordelen wat noodzakelijk is om de consument en de maatschappij te beschermen, en daar passen criteria zoals het extra benadelen van de consument bij.<footnote-ref linkend="_ab7483f0-4311-48a5-ae1c-3f44b54d25d1" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.4.</nr>
+      <para>Naar het oordeel van de rechtbank heeft verweerder de basisboete vanwege de boeteverhogende omstandigheden terecht verhoogd met 2,5% en de boetehoogte dan ook kunnen vaststellen op € 1.128.000,-.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.5.</nr>
+      <para>Ter zitting heeft eiseres gewezen op het nieuwe algemene boetebeleid van verweerder dat op 1 januari 2025 in werking is getreden. Volgens eiseres toont dit aan dat het oude boetebeleid onevenredig is, aangezien dat minder nuances kent. Het algemene boetebeleid is echter niet van toepassing op een situatie van illegaal aanbieden van kansspelen. Het nieuwe beleid is bedoeld als aanvullend beleid voor legale aanbieders en vervangt niet het reeds bestaande boetebeleid. Deze beroepsgrond slaagt daarom niet. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Is de hoogte van de boete evenredig? </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>9. 	Naar het oordeel van de rechtbank is in deze zaak een omzetgerelateerde boete een geschikt en noodzakelijk middel. Bij het nieuwe boetesysteem wordt de hoogte van de boete gebaseerd op de ernst van de overtreding, waarbij als uitgangspunt geldt dat illegaal kansspelen aanbieden niet mag lonen. De hoogte van de boete is namelijk gerelateerd aan het geschatte bedrag dat een illegale aanbieder aan de Nederlandse markt heeft onttrokken. Overtreders die veel verdienen aan illegale activiteiten worden op deze wijze ook relatief zwaarder gestraft dan overtreders die minder aan hun activiteiten verdienen. Onder het oude systeem werden de boetes op standaard bedragen gebaseerd. In veel gevallen bleken die boetes vervolgens te laag om overtreders tot stoppen te dwingen. Daarbij komt dat eiseres in 2021 een geschat BSR van 6,5 miljoen in Nederland heeft behaald, dit alleen met illegale activiteiten. Ook zijn door verweerder meerdere boeteverhogende omstandigheden geconstateerd, waaronder het ontbreken van een zichtbare leeftijdsverificatie, waardoor het voor minderjarige spelers mogelijk was om deel te nemen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.1.</nr>
+      <para>De rechtbank vindt de boete ook evenwichtig. Verweerder heeft in het bestreden besluit en in het verweerschrift duidelijk gemotiveerd aangegeven dat spelers bij illegale online kansspelen onbeschermd worden blootgesteld aan deze illegaliteit en dat zij een hoger risico lopen op bijvoorbeeld kansspelverslaving. Dit kan ernstige psychische, financiële, lichamelijke en sociale schade voor de speler tot gevolg hebben. Illegale aanbieders, als eiseres, trekken namelijk juist kwetsbare spelers aan die bijvoorbeeld door hun minderjarigheid of vanwege hun verslaving zijn uitgesloten van deelname bij legale aanbieders. Verweerder mag hier zwaar gewicht aan toekennen. Voor zover eiseres stelt dat de boete onevenredig is omdat deze onjuist is berekend verwijst de rechtbank naar rechtsoverweging 7 tot en met 8.4. van deze uitspraak. Daar is uiteengezet waarom volgens de rechtbank geen sprake is van een onjuiste boetevaststelling. Daarbij komt dat eiseres verder ook niet nader heeft onderbouwd waarom de opgelegde boete onevenredig is aan de winst. Er is geen inzicht gegeven in de structuur van de onderneming, er is geen duidelijkheid verstrekt over de kosten die eiseres gemaakt stelt te hebben, waarom deze kosten in verschillende jaren sterk uiteenlopen en aan wie zij betaald zijn. Uit de jaarrekeningen van eiseres volgt dat in 2020 een winst is behaald van ongeveer 6,5 miljoen, in 2021 ongeveer 4,6 miljoen en in 2022 ongeveer 0,3 miljoen. Ook blijkt dat eiseres ervoor heet gekozen om deze winst (bijna) volledig in de vorm van dividend aan haar enig aandeelhouder en moedermaatschappij Surf Holdings Limited uit te keren. Dit maakt de hoogte van de boete aan eiseres echter nog niet onevenwichtig. Ook uit randnummers 18 en 20 van het besluit van 15 maart 2024, waarin een nader uitstel van betaling van de boete is afgewezen, blijkt de rechtbank dat eiseres wel voldoende draagkrachtig is. Verweerder constateert dat de negatieve prognoses in de accountantsverklaring haaks staan tegenover hetgeen eiseres in het draagkrachtformulier over de prognoses heeft toegelicht. Daarbij constateert verweerder ook dat de accountant beperkte financiële informatie heeft verkregen zodat de relevantie van de prognoses in de accountantsverklaring voor het bepalen van de draagkracht beperkt is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2.</nr>
+      <para>Gelet op al het vorenstaande acht de rechtbank de opgelegde boete passend en niet onevenredig hoog. Het besluit is op dit punt ook voldoende deugdelijk gemotiveerd.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Mocht het besluit openbaar gemaakt worden? </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>10.	Het is vaste rechtspraak dat het boetebesluit een door verweerder bevoegd genomen besluit is in het kader van het toezicht op de naleving van de kansspelregels. Bij deze toezichthoudende taak past dat boetebesluiten worden gepubliceerd, zodat bekendheid wordt gegeven aan de manier waarop deze taak wordt uitgevoerd en de consument wordt gewaarschuwd. Hierbij moet verweerder een afweging maken tussen het algemene belang dat met openbaarmaking wordt gediend en het belang van eiseres om geen onevenredig nadeel te lijden als gevolg van de publicatie. Daarbij wordt aan het algemeen belang een groot gewicht toegekend.<footnote-ref linkend="_a3c62d99-76c0-4b6d-98ac-c908e5ca6962" /></para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.1</nr>
+      <para>Verweerder heeft in het besluit tot openbaarmaking overwogen dat zij eraan hecht besluiten openbaar te maken vanwege het maatschappelijk belang om de consument te informeren over en te waarschuwen voor bepaalde handelspraktijken van aanbieders van kansspelen zonder vergunning en de risico's die consumenten daarbij lopen. Daarnaast beoogt verweerder met de openbaarmaking transparantie te bieden over het functioneren van haar organisatie. Nu de boete terecht is opgelegd en eiseres verder niet heeft onderbouwd op welke manier zij een onevenredig nadeel lijdt door de openbaarmaking, is de rechtbank van oordeel dat verweerder het belang van transparantie en het verstrekken van informatie in redelijkheid zwaarder heeft kunnen laten wegen dan het belang van eiseres bij het voorkomen van reputatieschade.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Zijn de besluiten zorgvuldig tot stand gekomen?</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>11. Anders dan eiseres stelt, is de rechtbank niet gebleken van een procedurele fout in die zienswijzeprocedure. Eiseres is vooraf op de hoogte gesteld van het voornemen tot het opleggen van een boete.<footnote-ref linkend="_f9cf3aa2-5378-412a-a75f-0080ce68602c" /> Daarbij heeft eiseres haar zienswijze op het boeterapport schriftelijk kunnen geven en mondeling kunnen toelichten in een hoorzitting. Eiseres heeft een reactie kunnen geven op het verslag van de hoorzitting. Na het besluit in primo heeft zij bezwaar gemaakt en ook telkens kunnen reageren op de voorgenomen openbaarmaking. Verweerder heeft daarbij rekening gehouden met de belangen van eiseres door een openbare en vertrouwelijke versie van de besluiten te maken waarin bedrijfsgevoelige informatie is verwijderd. </para>
+      <para />
+      <para>12. De rechtbank is wel met eiseres van oordeel dat het onzorgvuldig van verweerder was om in het kader van het verzoek tot uitstel van betaling een accountantsverklaring op te vragen en vervolgens niet te wachten met het nemen van de beslissing op het bezwaar van eiseres tegen de boeteoplegging. De informatie uit de accountantsverklaring had immers relevant kunnen zijn voor de vraag of de hoogte van de boete evenredig is. De rechtbank is evenwel van oordeel dat dit gebrek gepasseerd kan worden, nu verweerder zich ter zitting op het standpunt heeft gesteld dat de accountantsverklaring is opgemaakt met beperkte financiële informatie, hetgeen door eiseres niet is betwist. Het wachten met het nemen van de beslissing op bezwaar zou dan ook niet hebben geleid tot een andersluidend besluit. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Bijkomende beschikking?</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>13. Op zitting is gebleken dat de partijen recent een hoorzitting in bezwaar hebben gehad in de procedure over het verzoek om uitstel van betaling. Daarbij heeft eiseres tot eind januari 2025 de tijd gekregen om aanvullende stukken over te leggen. Dat maakt dat de rechtbank het niet wenselijk acht om het besluit over de uitstel van betaling als bijkomende beschikking mede te betrekken in het beroep over het boetebesluit en de openbaarmaking daarvan.<footnote-ref linkend="_cf617cf0-b298-4da2-8de7-e56e8ac802ef" /> Met toepassing van artikel 4:125, derde lid, van de Awb verwijst de rechtbank het bezwaar van eiseres tegen de afwijzing van het verzoek om uitstel van betaling naar verweerder. Mocht hoger beroep worden ingesteld tegen deze uitspraak, dan wijst de rechtbank partijen ten overvloede op artikel 4:125 van de Awb voor de nog te nemen beslissing op bezwaar over het verzoek tot uitstel van betaling.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Conclusie en gevolgen</title>
+    <para />
+    <para>14. Het beroep tegen het boetebesluit is gegrond omdat verweerder, zoals hiervoor al is vastgesteld in rechtsoverweging 6, in de beslissing op bezwaar bij de berekening van het boetemaximum een andere uitleg van het begrip ‘omzet’ als bedoeld in artikel 35a, tweede lid, van de Wok heeft gebruikt dan zij in het verweerschrift en ter zitting heeft gehanteerd. Inmiddels zijn partijen het er over eens dat ‘omzet’ bij de berekening van het wettelijk boetemaximum moet worden uitgelegd als het BSR. De rechtbank vernietigt daarom het bestreden besluit. De rechtbank ziet echter reden om de rechtsgevolgen van het besluit in stand te laten. Dit omdat naar het oordeel van de rechtbank deze gewijzigde uitleg geen gevolgen heeft voor de aan eiseres opgelegde boete, die wel op de juiste wijze is vastgesteld en terecht aan eiseres is opgelegd. Ook na de herberekening van het wettelijk boete maximum blijft de opgelegde boete onder dit wettelijk maximum. </para>
+    <para />
+    <para>15. Nu het beroep tegen bestreden besluit gegrond is, veroordeelt de rechtbank verweerder in de door eiseres gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.814 (1 punt voor het indienen van het beroepschrift en 1 punt voor het verschijnen op zitting met een waarde per punt van € 907,- en een wegingsfactor 1). Ook moet verweerder het griffierecht van € 365,- aan eiseres vergoeden.</para>
+    <para />
+    <para>16. Het beroep tegen het openbaarmakingsbesluit is ongegrond. Eiseres krijgt daarom het griffierecht dat is betaald bij het instellen van beroep tegen dat besluit niet terug.</para>
+    <bridgehead role="bold">Beslissing</bridgehead>
+    <para />
+    <parablock>
+      <para>De rechtbank;</para>
+    </parablock>
+    <para />
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep tegen het boetebesluit gegrond;</para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het bestreden besluit;</para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat de rechtsgevolgen van het bestreden besluit in stand blijven;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de proceskosten van eiseres tot een bedrag van € 1.814,-;</para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat verweerder het griffierecht van € 365,- aan eiseres moet vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>verklaart het beroep tegen het openbaarmakingsbesluit ongegrond.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. M.D. Gunster, voorzitter, en mr. G.P. Kleijn en mr. A. Drahmann, leden, in aanwezigheid van mr. A. Badermann, griffier. De beslissing is uitgesproken in het openbaar op 25 februari 2025.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <informaltable>
+      <tgroup cols="2">
+        <colspec colname="colA" />
+        <colspec colname="colB" />
+        <tbody>
+          <row>
+            <entry>
+              <para>griffier</para>
+            </entry>
+            <entry>
+              <para>voorzitter</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Informatie over hoger beroep</title>
+    <para>Een partij die het niet eens is met deze uitspraak, kan een hogerberoepschrift sturen naar de Afdeling bestuursrechtspraak van de Raad van State waarin wordt uitgelegd waarom deze partij het niet eens is met deze uitspraak. Het hogerberoepschrift moet worden ingediend binnen zes weken na de dag waarop deze uitspraak is verzonden. Kan de indiener de behandeling van het hoger beroep niet afwachten, omdat de zaak spoed heeft, dan kan de indiener de voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State vragen om een voorlopige voorziening (een tijdelijke maatregel) te treffen.  </para>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <footnote id="_c293c37c-44de-44da-97c8-957f565d7ace" label="1">
+    <para> Wet op de Kansspelen.</para>
+  </footnote>
+  <footnote id="_d08d2085-e7dd-406d-a62f-d2c7115cc431" label="2">
+    <para> Zaaknummer SGR AWB 23/598, op verzoek van eiseres niet gepubliceerd.</para>
+  </footnote>
+  <footnote id="_b79cbc7b-5bfe-4dc1-a551-8e8e19067fc5" label="3">
+    <para> Artikel 1, eerste lid, aanhef en onder a, van de Wok.</para>
+  </footnote>
+  <footnote id="_5221af71-23f6-44cf-8cb5-73bae760b183" label="4">
+    <para> Op grond van artikel 33b en artikel 35a van de Wok. </para>
+  </footnote>
+  <footnote id="_1006a1a6-75ac-4a42-8d18-12e45470c838" label="5">
+    <para> Vergelijk de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (ABRvS) van 29 juni 2022, ECLI:NL:RVS:2022:1833, r.o. 10.2. </para>
+  </footnote>
+  <footnote id="_ce384432-3a28-4e79-a337-f52c0062a47e" label="6">
+    <para> Arrest van het Hof van Justitie van de EU van 7 december 2010, ECLI:EU:C:2010:740 Pammer/ Reederei Schlüter en Hotel Alpenhof/Heller. </para>
+  </footnote>
+  <footnote id="_4726aad5-2d16-48bb-bcca-fbadd717a24f" label="7">
+    <para> Arrest Pammer/Alpenhof r.o. 81 en 82.</para>
+  </footnote>
+  <footnote id="_c73a4a87-96c5-4af5-9e9c-fcb501152199" label="8">
+    <para> Arrest Pammer/Alpenhof r.o. 83 en 84. </para>
+  </footnote>
+  <footnote id="_d0e63a35-253a-470d-9422-8098ad2febc8" label="9">
+    <para> Vergelijk de uitspraken ABRvS 22 februari 2017, ECLI:NL:RVS:2017:484 (Bluemay) en ABRvS 13 oktober 2021, ECLI:NL:RVS:2021:2295 (Simbat). </para>
+  </footnote>
+  <footnote id="_0ff114dc-efcf-4699-9d9c-cb9128ba495a" label="10">
+    <para>
+      <emphasis role="italic">Kamerstukken II</emphasis> 2012-2013, 33685, nr.3, p. 13.</para>
+  </footnote>
+  <footnote id="_6b623616-a914-4530-8798-3016b1e76d81" label="11">
+    <para> Vergelijk <emphasis role="italic">Kamerstukken II</emphasis> 1995/96, 24707, nr. 3, blz. 88.</para>
+  </footnote>
+  <footnote id="_acd14909-67fa-48e5-891f-19f3f17ed9d1" label="12">
+    <para> Vergelijk de uitspraak van deze rechtbank van 13 oktober 2021, ECLI:NL:RBDHA:2021:11092, r.o. 4.5.10. </para>
+  </footnote>
+  <footnote id="_ab7483f0-4311-48a5-ae1c-3f44b54d25d1" label="13">
+    <para> Vergelijk de uitspraak ABRvS 22 februari 2017, ECLI:NL:RVS:2017:484. </para>
+  </footnote>
+  <footnote id="_a3c62d99-76c0-4b6d-98ac-c908e5ca6962" label="14">
+    <para> Vergelijk de uitspraak ABRvS 13 oktober 2021, ECLI:NL:RVS:2021:2295 en de uitspraak van deze rechtbank van 19 april 2022, ECLI:NL:RBDHA:2022:3820, r.o. 14.</para>
+  </footnote>
+  <footnote id="_f9cf3aa2-5378-412a-a75f-0080ce68602c" label="15">
+    <para> Vergelijk de uitspraak van het College van Beroep voor het Bedrijfsleven van 7 mei 2019, ECLI:NL:CBB:2019:177, r.o. 4.</para>
+  </footnote>
+  <footnote id="_cf617cf0-b298-4da2-8de7-e56e8ac802ef" label="16">
+    <para> Artikel 4:125, eerste lid, van de Awb.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

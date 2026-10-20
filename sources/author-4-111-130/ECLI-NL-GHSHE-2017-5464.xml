@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:GHSHE:2017:5464</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-08-04T09:34:53</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2017-12-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Gerechtshof_'s-Hertogenbosch" scheme="overheid.RechterlijkeMacht">Gerechtshof 's-Hertogenbosch</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2017-12-05</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">200.185.202_01</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Hertogenbosch</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht">Civiel recht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:RBOBR:2015:6906" psi:type="http://psi.rechtspraak.nl/hogerBeroep" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#overig">Eerste aanleg: ECLI:NL:RBOBR:2015:6906, Overig</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>FutD 2017-3145</rdf:li>
+          <rdf:li>Viditax (FutD) 2017121210</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:GHSHE:2017:5464">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:GHSHE:2017:5464</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2017-12-08T13:44:21</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2017-12-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:GHSHE:2017:5464 Gerechtshof 's-Hertogenbosch , 05-12-2017 / 200.185.202_01</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:GHSHE:2017:5464:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Uitstel van betaling in verband met een belastingschuld door de Ontvanger totdat op het bezwaarschrift is beslist. Het bezwaarschift wordt naar aanleiding van een vaststellingsovereenkomst met de inspecteur ingetrokken. Redelijke uitleg leidt tot het oordeel dat het uitstel van betaling wordt geacht te zijn verleend tot het moment van de intrekking van het bezwaarschrift. Consequentie is dat de rechtsvordering tot inning van de belastingschuld is verjaard.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:GHSHE:2017:5464:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">GERECHTSHOF ’s-HERTOGENBOSCH</bridgehead>
+    <para>Afdeling civiel recht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer 200.185.202/01</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">arrest van 5 december 2017</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>in de zaak van </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">De Ontvanger van de Belastingdienst Oost-Brabant</emphasis>,</para>
+      <para>kantoorhoudende te Eindhoven,</para>
+      <para>appellant,</para>
+      <para>hierna aan te duiden als de Ontvanger,</para>
+      <para>advocaat: mr. E.E. Schipper te Amsterdam,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [de vennootschap] ,</emphasis>
+      </para>
+      <para>kantoorhoudende te [kantoorplaats] ,</para>
+      <para>geïntimeerde,</para>
+      <para>hierna aan te duiden als [geïntimeerde] ,</para>
+      <para>advocaat: mr. M.P.H. van Maanen Winters te Arnhem,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>op het bij exploot van dagvaarding van 7 januari 2016 ingeleide hoger beroep van het vonnis van 2 december 2015, door de rechtbank Oost-Brabant, zittingsplaats 's-Hertogenbosch, gewezen tussen de Ontvanger als gedaagde en [geïntimeerde] als eiseres.</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Het geding in eerste aanleg (zaak-/rolnummer C/01/290591/HA ZA 15-162)</title>
+    <para />
+    <parablock>
+      <para>Voor het geding in eerste aanleg verwijst het hof naar voormeld vonnis.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Het geding in hoger beroep</title>
+    <para />
+    <parablock>
+      <para>Het verloop van de procedure blijkt uit:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>de dagvaarding in hoger beroep;</para>
+      </listitem>
+      <listitem>
+        <para>de memorie van grieven met productie;</para>
+      </listitem>
+      <listitem>
+        <para>de memorie van antwoord;</para>
+      </listitem>
+      <listitem>
+        <para>de akte houdende rectificatie van [geïntimeerde] (herstellende het wegvallen van het woord ‘Beheer’ in de vermelding van de volledige naam van [geïntimeerde] in de kop van de memorie van antwoord).<?linebreak?></para>
+      </listitem>
+    </itemizedlist>
+    <para>Het hof heeft daarna een datum voor arrest bepaald. Het hof doet recht op bovenvermelde stukken en de stukken van de eerste aanleg.</para>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>
+      <?linebreak?>3. 	De beoordeling</title>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>In r.o. 2. van het bestreden vonnis heeft de rechtbank vastgesteld van welke feiten in dit geschil wordt uitgegaan. Deze feitenvaststelling is door partijen niet bestreden. De door de rechtbank vastgestelde feiten vormen daarom in hoger beroep het uitgangspunt. Daarnaast staan andere feiten tussen partijen vast.<?linebreak?>Het hof zal hierna een overzicht geven van de tussen partijen vaststaande feiten.</para>
+      <para>a. <?linebreak?>a)	De inspecteur van de Belastingdienst Oost-Brabant (hierna: de inspecteur) heeft aan [geïntimeerde] op 14 oktober 2000 een aanslag vennootschapsbelasting opgelegd over het jaar 1997. Op 31 oktober 2000 heeft de inspecteur een aanslag vennootschapsbelasting opgelegd over het jaar 1998.<?linebreak?>b)	[geïntimeerde] heeft bezwaarschriften ingediend tegen deze aanslagen.<?linebreak?>c)	De Ontvanger heeft op 13 november 2000 respectievelijk 12 december 2000 uitstel van betaling verleend totdat op de bezwaarschriften zou zijn beslist. </para>
+      <para>d)	In 2004 heeft [geïntimeerde] een vaststellingsovereenkomst gesloten met de inspecteur, waarbij onder meer werd overeengekomen dat de bezwaarschriften zouden worden ingetrokken.<?linebreak?>e)	[geïntimeerde] heeft de bezwaarschriften op 20 september 2006 respectievelijk 7 maart 2007 ingetrokken.<?linebreak?>f)	De inspecteur heeft de Ontvanger niet ingelicht over de intrekking van de bezwaarschriften. Ook [geïntimeerde] heeft dat niet gedaan.<?linebreak?>g)	In de loop van 2014 heeft de Ontvanger ontdekt dat de bezwaarschriften waren ingetrokken.<?linebreak?>h)	Bij brief van 31 mei 2014 (prod. 2 inleidende dagvaarding) heeft [medewerker Belastingdienst] namens de Belastingdienst (Centrale Administratie) [geïntimeerde] medegedeeld dat is geconstateerd dat de aanslag vennootschapsbelasting over het jaar 1998 nog niet is betaald en dat, ter voorkoming van de verjaring van deze schuld, de invorderingstermijn wordt verlengd tot vijf jaren vanaf de datum van de brief, zodat een nieuwe verjaringstermijn begint.  <?linebreak?>i)	Bij brief van 15 augustus 2014 (prod. 5 inleidende dagvaarding) heeft de Ontvanger [geïntimeerde] meegedeeld dat hij, alvorens het uitstel van betaling in te trekken, de vennootschap tot 22 september 2014 de gelegenheid geeft om de verschuldigde bedragen te voldoen.<?linebreak?>j)	De Ontvanger heeft [geïntimeerde] bij brief van 25 september 2014 (prod. 6 inleidende dagvaarding) meegedeeld dat het uitstel van betaling wordt ingetrokken.<?linebreak?>k)	Op 7 oktober 2014 heeft de Ontvanger twee aanmaningen (prod. 7 en 8 inleidende dagvaarding) naar [geïntimeerde] verzonden met een betalingstermijn van twee weken.<?linebreak?>l)	Omdat betaling uitbleef, heeft de Ontvanger op 23 oktober 2014 twee dwangbevelen (prod. 9 en 10 inleidende dagvaarding, hierna: de dwangbevelen) uitgevaardigd tegen [geïntimeerde] , één voor de belastingaanslag over 1997 en één voor de belastingaanslag over 1998. De dwangbevelen zijn op 29 oktober 2014 betekend (prod. 11 en 12 inleidende dagvaarding).<?linebreak?>m)	Op 14 januari 2015 heeft de Ontvanger uit kracht van beide dwangbevelen executoriaal derdenbeslag gelegd onder de bestuurder van [geïntimeerde] .</para>
+      <para />
+      <paragroup>
+        <nr>3.2.1.</nr>
+        <para>In de onderhavige procedure, die is ingeleid met een verzetdagvaarding zoals bedoeld in artikel 17 lid 2 van de Invorderingswet 1990 (hierna: IW 1990), vordert [geïntimeerde] , na vermindering van eis:<?linebreak?>1)	[geïntimeerde] tot goed-opposante te verklaren;<?linebreak?>2)	het verzet tegen de dwangbevelen gegrond te verklaren, de dwangbevelen buiten effect te stellen en het op grond van het dwangbevel gelegde executoriaal derdenbeslag op te heffen;<?linebreak?>3)	de Ontvanger te veroordelen zich verder te onthouden van invorderingsmaatregelen ten aanzien van de door de inspecteur vastgestelde aanslagen jegens [geïntimeerde] ;<?linebreak?>4)	de Ontvanger te veroordelen in de proceskosten. <?linebreak?></para>
+      </paragroup>
+      <paragroup>
+        <nr>3.2.2.</nr>
+        <para>
+          [geïntimeerde] legt aan haar vorderingen ten grondslag, samengevat, dat het recht op dwanginvordering van de belastingschulden is verjaard.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.3.</nr>
+        <para>Bij tussenvonnis van 29 april 2015 heeft de rechtbank een comparitie van partijen gelast, die heeft plaatsgevonden op 21 oktober 2015.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.4.</nr>
+        <para>Bij eindvonnis waarvan beroep heeft de rechtbank het verzet gegrond verklaard, de dwangbevelen van 23 oktober 2014 buiten werking gesteld en het executoriaal derdenbeslag onder de bestuurder van [geïntimeerde] opgeheven, met veroordeling van Ontvanger in de proceskosten.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.3.1.</nr>
+        <para>De Ontvanger heeft in hoger beroep zeven grieven aangevoerd en heeft geconcludeerd tot vernietiging van het vonnis waarvan beroep en tot het alsnog afwijzen van de vorderingen van [geïntimeerde] .</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.3.2.</nr>
+        <para>Met de grieven voert de Ontvanger aan dat de rechtbank ten onrechte heeft geoordeeld dat het uitstel van betaling is geëindigd met de intrekking van de bezwaarschriften op 20 september 2006 en 7 maart 2007 (grief 1) en dat het standpunt van de Ontvanger ertoe zou leiden dat het uitstel van betaling - in strijd met de bedoelingen van de wetgever - voor onbepaalde tijd zou doorlopen (grief 2). Voorts voert de Ontvanger aan dat de rechtbank ten onrechte het criterium ‘een redelijke uitleg van de uitstelbeschikkingen’ heeft gehanteerd, om op grond daarvan te concluderen dat het uitstel moet worden geacht te zijn verleend voor de duur van de bezwaarprocedures, zonder dat van belang is hoe deze zijn geëindigd (grief 3). Verder heeft de rechtbank volgens de Ontvanger ten onrechte geoordeeld dat diens beroep op bepalingen in de Leidraad Invordering niet tot een ander oordeel moet leiden (grief 4) en dat de tussentijdse beëindiging van het uitstel zoals bedoeld in artikel 25 lid 2 IW 1990 in 2014 niet meer aan de orde was, omdat het uitstel al eerder van rechtswege was vervallen (grief 5). Daarom heeft de rechtbank volgens de Ontvanger ten onrechte geoordeeld dat deze op 23 oktober 2014 niet meer bevoegd was om dwangbevelen uit te vaardigen, vanwege de inmiddels ingetreden verjaring (grief 6) en heeft de rechtbank ten onrechte de vorderingen van [geïntimeerde] toegewezen en de Ontvanger in de proceskosten veroordeeld (grief 7).<?linebreak?></para>
+      </paragroup>
+      <paragroup>
+        <nr>3.3.3.</nr>
+        <para>De grieven lenen zich voor een gezamenlijke behandeling.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.4.1.</nr>
+        <para>Het hof stelt het volgende voorop.<?linebreak?></para>
+      </paragroup>
+      <paragroup>
+        <nr>3.4.2.</nr>
+        <parablock>
+          <para>De rechtsvordering tot betaling van rijksbelastingen wordt sedert 1 juli 2009 beheerst door afdeling 4.4.3 (artikelen 4:104 e.v.) van de Algemene wet bestuursrecht (Awb). Deze bepalingen zijn ook van toepassing op de onderhavige belastingschulden van [geïntimeerde] , ook al zijn deze vastgesteld vóór de inwerkingtreding op 1 juli 2009 van de Vierde tranche Awb (waarbij, onder meer, afdeling 4.4.3. is ingevoegd in de Awb). Deze toepasselijkheid is het gevolg van de inwerkingtreding van de Wet van 23 december 2010 tot wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2011; Staatsblad 2010, 873). In artikel XXIII van deze wet is namelijk bepaald dat het Awb-overgangsrecht, dat voorzag in eerbiedigende werking, met ingang van 1 januari 2011 niet langer van toepassing is op, onder meer, afdeling 4.4.3 Awb, voor zover het betreft de invordering van rijksbelastingen.</para>
+          <para>Op grond van artikel 4:104 lid 1 Awb verjaart de rechtsvordering tot betaling van belastingschulden als de onderhavige vijf jaren nadat de voorgeschreven betalingstermijn is verstreken. Op grond van artikel 4:111 lid 1 Awb wordt de verjaringstermijn van de rechtsvordering tot betaling aan een bestuursorgaan verlengd met de tijd gedurende welke de schuldenaar na de aanvang van die termijn uitstel van betaling heeft.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.4.3.</nr>
+        <parablock>
+          <para>Op grond van artikel 25 lid 1 IW 1990 kan de Ontvanger onder door hem te stellen voorwaarden aan een belastingschuldige voor een bepaalde tijd bij beschikking uitstel van betaling verlenen. Gedurende het uitstel wordt de dwanginvordering geschorst. Op grond van lid 2 van dezelfde bepaling kan het uitstel tussentijds bij beschikking worden beëindigd.<?linebreak?>Over de achtergrond van deze regeling wordt in de memorie van toelichting op de<?linebreak?>(ontwerp-)IW 1990 (TK 1987-1988, 20 588, nr. 3, p. 73 en 74) het volgende gezegd:</para>
+          <para>
+            <emphasis role="italic">‘Artikel 26 </emphasis>[nadien: artikel 25, hof] <emphasis role="italic">bevat een regeling met betrekking tot uitstel van betaling. (…)</emphasis><?linebreak?><emphasis role="italic">De eerste volzin van het eerste lid bepaalt (…) dat de ontvanger aan uitstel van betaling voorwaarden kan verbinden. Met name in het geval waarin langdurig uitstel is verleend voor grote bedragen is dit gewenst. De te stellen voorwaarden zullen uiteraard steeds het belang van de invordering moeten dienen.</emphasis><?linebreak?><emphasis role="italic">(…) </emphasis><?linebreak?><emphasis role="italic">Dat uitstel van betaling slechts ‘voor bepaalde tijd’ kan worden verleend, strekt ertoe te voorkomen dat onverjaarbare vorderingen zouden ontstaan. (…) Zonder de onderhavige beperking in artikel 26 zou het mogelijk zijn uitstel van betaling tot wederopzegging te verlenen, hetgeen ertoe zou kunnen leiden dat een onverjaarbare vordering ontstaat. Het zal gelet op het vorenstaande echter duidelijk zijn dat ‘voor bepaalde tijd’ niet te eng moet worden geïnterpreteerd; er moet alleen uitzicht bestaan dat het uitstel te zijner tijd eindigt.</emphasis><?linebreak?><emphasis role="italic">(…)</emphasis><?linebreak?><emphasis role="italic">Het tweede lid van artikel 26 bepaalt dat het uitstel schriftelijk tussentijds kan worden beëindigd. Indien de belastingschuldige zich niet aan de overeengekomen uitstelregeling houdt, bij voorbeeld (…) de aan het uitstel verbonden voorwaarden niet in acht neemt, moet de ontvanger dus allereerst het uitstel schriftelijk opzeggen, alvorens de dwanginvordering kan worden (…) hervat. (…).’</emphasis></para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.4.4.</nr>
+        <para>Het hof deelt de opvatting van partijen (zoals geuit tijdens de comparitie in eerste aanleg) dat op de invordering van de onderhavige belastingschulden mede van toepassing is de Leidraad Invordering 1990 (hierna: de Leidraad), zoals deze gold ten tijde van de intrekking van de bezwaarschriften in 2006/2007.<?linebreak?>Artikel 25 van deze Leidraad luidde destijds, voor zover relevant, als volgt:<?linebreak?><emphasis role="italic">‘7.	Beëindigen uitstel/intrekking beschikking</emphasis><?linebreak?><emphasis role="italic">Het uitstel wordt bij beschikking onder meer beëindigd als:</emphasis><?linebreak?><emphasis role="italic">a.	niet aan de voorwaarden wordt voldaan waaronder het uitstel is verleend;</emphasis><?linebreak?><emphasis role="italic">b.	tijdens de looptijd van het uitstel blijkt dat onjuiste gegevens zijn verstrekt;</emphasis><?linebreak?><emphasis role="italic">c.	de aanleiding tot uitstel van betaling is weggevallen;</emphasis><?linebreak?><emphasis role="italic">d.	de financiële omstandigheden van de belastingschuldige zodanig veranderen of zijn veranderd dat het naar het oordeel van de ontvanger onjuist is het uitstel te continueren;</emphasis><?linebreak?><emphasis role="italic">e.	de medewerking van de verzoeker aan de Belastingdienst naar het oordeel van de ontvanger onvoldoende wordt geacht;</emphasis><?linebreak?><emphasis role="italic">f.	er een situatie is ontstaan zoals omschreven in de artikelen 10/15 van de wet en de ontvanger van mening is dat de verhaalbaarheid van de belastingschuld, waarvoor uitstel is verleend, ernstig in gevaar komt, behoudens voor zover anders bepaald.</emphasis><?linebreak?><emphasis role="italic">(…)</emphasis><?linebreak?><emphasis role="italic">10. Van rechtswege vervallen van een verleend uitstel</emphasis><?linebreak?><emphasis role="italic">Wanneer het uitstel is verleend tot een bepaald tijdstip en dit tijdstip is verstreken dan is daardoor het uitstel van rechtswege vervallen. Indien het verzoek om uitstel van betaling schriftelijk was ingediend, wordt de belastingschuldige van het vervallen ervan schriftelijk, onder opgaaf van reden, op de hoogte gesteld. Dit is geen beschikking in de zin van de Awb, maar slechts een mededeling van informatieve aard. Dit doet zich bijvoorbeeld voor als de inspecteur uitspraak heeft gedaan op een bezwaarschrift of de rechter op een beroepschrift heeft beslist en tot dat tijdstip uitstel van betaling was verleend.</emphasis><?linebreak?><emphasis role="italic">(…)’</emphasis></para>
+      </paragroup>
+      <paragroup>
+        <nr>3.5.1.</nr>
+        <parablock>
+          <para>De belastingaanslagen zijn aan [geïntimeerde] opgelegd op 14 oktober 2000 en 31 oktober 2000. De betalingstermijn bedroeg in beide gevallen één maand. [geïntimeerde] heeft op 13 november 2000 respectievelijk 12 december 2000 uitstel van betaling gekregen. Het uitstel werd derhalve verleend vlak vóór de aanvang van de verjaringstermijn van vijf jaren respectievelijk korte tijd daarna.<?linebreak?>Op grond van het eerder genoemde artikel 4:111 lid 1 Awb wordt de verjaringstermijn verlengd met de tijd met de tijd gedurende welke [geïntimeerde] uitstel van betaling heeft gehad.<?linebreak?>Tussen partijen staat vast dat aan [geïntimeerde] uitstel van betaling is verleend totdat op de bezwaarschriften zou zijn beslist. Dit uitstel was een uitstel voor bepaalde tijd in de zin van artikel 25 IW 1990, omdat de einddatum ervan op basis van de uitstelbeschikkingen met voldoende zekerheid kon worden vastgesteld. Zou daadwerkelijk op de bezwaarschriften zijn beslist, dan zou het uitstel van rechtswege zijn vervallen. Dit laatste is in overeenstemming met de bedoelingen van de wetgever en wordt met zoveel woorden bepaald in paragraaf 1 onder 10 van de Leidraad.</para>
+          <para>Tussen partijen staat verder vast dat de bezwaarschriften zijn ingetrokken voordat daarop is beslist. Volgens [geïntimeerde] is het uitstel geëindigd op het moment van intrekken, derhalve op 20 september 2006 respectievelijk 7 maart 2007. De Ontvanger voert daarentegen aan dat het intrekken van de bezwaarschriften niet kan worden gelijkgesteld met de beslissing op de bezwaarschriften. De Ontvanger leidt hieruit af dat het intrekken van de bezwaarschiften niet heeft geleid tot het van rechtswege vervallen van het uitstel. Dat uitstel heeft in de opvatting van de Ontvanger voortgeduurd totdat het bij beschikking werd ingetrokken op 25 september 2014.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.5.2.</nr>
+        <parablock>
+          <para>De opvatting van de Ontvanger staat naar het oordeel van het hof op gespannen voet met de IW 1990 en haar geschiedenis.<?linebreak?>In de situatie waarin de bezwaarschriften zijn ingetrokken, kan daarop niet meer worden beslist. Als de opvatting van de Ontvanger wordt gevolgd, dan duurt het uitstel van betaling na de intrekking van de bezwaarschriften voort en heeft het zijn bepaalde karakter definitief verloren. Het uitstel kan in deze opvatting alleen nog door een uitdrukkelijke intrekking bij beschikking worden beëindigd. De wet noch de Leidraad noch de oorspronkelijke uitstelbeschikkingen bevatten echter aanknopingspunten ter zake het moment waarop deze intrekking kan of moet volgen.<?linebreak?>Zoals volgt uit de in het voorgaande aangehaalde passage uit de memorie van toelichting op de ontwerp-IW 1990, heeft de wetgever, in het belang van de belastingplichtige, willen vermijden dat dergelijke situaties zouden ontstaan, omdat dan onverjaarbare vorderingen zouden (kunnen) ontstaan. Volgens de wetgever zou uitzicht moeten bestaan dat het uitstel te zijner tijd eindigt. Dat uitzicht dient te bestaan op het moment dat uitstel van betaling wordt verleend.<?linebreak?>Het hof is daarom, met de rechtbank, van oordeel dat het, op basis van een redelijke uitleg van de uitstelbeschikkingen van 13 november 2000 en 12 december 2000, voor de hand ligt om ervan uit te gaan dat de Ontvanger met deze beschikkingen heeft beoogd om uitstel te verlenen voor de duur van de bezwaarprocedures, zonder doorslaggevend belang te hechten aan de wijze waarop zij te zijner tijd zouden eindigen. [geïntimeerde] heeft dit in redelijkheid zo mogen begrijpen. <?linebreak?>In elk geval bestaat voldoende grond om de intrekking van de bezwaarschriften gelijk te stellen aan de beslissingen op de bezwaren daartegen, omdat daarna in beide gevallen vast staat tot welke bedragen belasting verschuldigd is. Voor deze gelijkstelling bestaat des te meer grond, nu de intrekkingen in het onderhavige geval niet het gevolg zijn geweest van een eenzijdig besluit van [geïntimeerde] , maar van een tussen deze en de inspecteur namens de Belastingdienst gesloten vaststellingsovereenkomst. Het moment waarop het uitstel eindigt ten gevolge van de intrekking van de bezwaarschriften is voldoende bepaalbaar en is daarmee in overeenstemming met artikel 25 lid 1 IW 1990 en zijn geschiedenis.</para>
+          <para>De Ontvanger wordt in dit verband niet gevolgd in zijn standpunt dat bij de uitleg van beschikkingen als de onderhavige de tekst (zonder meer) doorslaggevend is. Van belang is veeleer wat [geïntimeerde] mocht opmaken uit de jegens haar gedane uitlatingen, te weten dat uitstel werd verleend voor de duur van de bezwaarprocedures (zie bijvoorbeeld HR 27 september 1995, ECLI:NL:HR:1995:AA1652, BNB 1995, 316). Verder acht het hof het van belang dat een uitleg wordt vermeden die leidt tot een door de wetgever niet-beoogd rechtsgevolg.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.5.3.</nr>
+        <para>Het bovenstaande leidt tot de conclusie dat het aan [geïntimeerde] verleende uitstel van betaling van rechtswege is vervallen door de intrekking van de bezwaarschriften op 20 september 2006 respectievelijk 7 maart 2007.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.5.4.</nr>
+        <para>Anders dan de Ontvanger betoogt, leidt het bepaalde paragraaf 1 onder 7 van de Leidraad niet tot een ander oordeel.<?linebreak?>Dit onderdeel van de Leidraad bevat een nadere uitwerking van artikel 25 lid 2 IW 1990, dat betrekking heeft op de <emphasis role="italic">tussentijdse</emphasis> beëindiging bij beschikking van het uitstel. De bepaling ziet daarmee op de beëindiging van het uitstel vóór het moment waarop zij van rechtswege zal eindigen. Daartoe kan aanleiding bestaan in de situaties die in de Leidraad worden genoemd onder a. tot en met f.<?linebreak?>Anders dan de Ontvanger betoogt, kan aan het bepaalde onder c. (het uitstel wordt ingetrokken als <emphasis role="italic">‘de aanleiding tot uitstel van betaling is weggevallen’</emphasis>) geen ruimere strekking worden toegekend. Deze bepaling ziet, evenals de andere onderdelen van de regeling onder 7, op de situatie dat het uitstel tussentijds wordt ingetrokken. Uit het samenstel van het bepaalde in artikel 25 lid 2 IW 1990 en paragraaf 1 onder 7 van de Leidraad kan niet worden afgeleid dat de genoemde bepaling onder c. mede ziet op de situatie dat uitstel van betaling is verleend totdat op een bezwaarschrift is beslist en dat bezwaarschrift vervolgens wordt ingetrokken.<?linebreak?></para>
+      </paragroup>
+      <paragroup>
+        <nr>3.5.5.</nr>
+        <parablock>
+          <para>De Ontvanger heeft nog een beroep gedaan op een passage in de memorie van antwoord bij de (ontwerp-)IW 1990 (TK 1988-1989, 20 588, nr. 6, p. 61), die als volgt luidt:</para>
+          <para>
+            <emphasis role="italic">‘Naar aanleiding van de vraag van de leden van de fractie van de P.v.d.A. met welke tijd de verjaring wordt verlengd bij uitstel van betaling merken wij op dat de verjaring dient te worden verlengd met de tijd van het werkelijk genoten uitstel en niet met de tijd van het verleende uitstel.’ </emphasis>
+          </para>
+          <para>De Ontvanger leest hierin een argument ten voordele van zijn standpunt dat een uitstel van betaling totdat op het bezwaarschrift is beslist, blijft voortduren als het bezwaarschrift voordien wordt ingetrokken.</para>
+          <para>Het hof kan de Ontvanger in deze opvatting niet volgen, reeds omdat de hiervoor aangehaalde passage betrekking heeft op artikel 27 lid 2 (oud) IW 1990, als voorloper van het hier toepasselijke artikel 4:111 Awb, dat een veel ruimer werkingsgebied heeft.</para>
+          <para>Het hof wijst er daarnaast op dat op de aangehaalde passage uit de memorie van antwoord een nadere toelichting van de zijde van de regering volgt. Deze luidt als volgt:<?linebreak?><emphasis role="italic">‘Wij gaan er namelijk van uit dat gedurende de tijd dat dwanginvordering mogelijk is ook de verjaringstermijn dient te lopen en gedurende die tijd verlenging van die termijn niet mogelijk moet zijn. Gelet op dat uitgangspunt dient de tijd waarmee de verjaringstermijn wordt verlengd gedurende uitstel dus onzes inziens een einde te nemen op de dag dat het uitstel wordt ingetrokken. Alsdan immers kan de dwanginvordering aanvangen of worden voortgezet en dient de verjaringstermijn te lopen.’ </emphasis></para>
+          <para>Uit deze nadere toelichting blijkt dat de aangehaalde passage ziet op de situatie die ontstaat na de (hiervoor besproken) tussentijdse intrekking op grond van artikel 25 lid 2 IW 1990. Als daarvan sprake is, komt een einde aan het uitstel van betaling op een eerder moment dan het uitstel aanvankelijk werd verleend. In dat geval, zo volgt uit de aangehaalde passage, begint de verjaring meteen te lopen en niet pas op het oorspronkelijk bepaalde eindmoment (dat op het moment van de tussentijdse intrekking nog in de toekomst ligt).</para>
+          <para>Aan de door de Ontvanger aangehaalde passage kunnen geen argumenten worden ontleend in verband met de situatie die hier aan de orde is. Of sprake is van uitstel van betaling in de zin van de IW 1990 wordt niet bepaald op basis van artikel 27 (oud) IW 1990 of artikel 4:111 Awb, maar op grond van artikel 25 IW 1990. Op basis van de tekst en de geschiedenis van die bepaling heeft het hof in het voorgaande geoordeeld dat het uitstel van betaling van [geïntimeerde] is vervallen op 20 september 2006 respectievelijk 7 maart 2007.  </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.5.6.</nr>
+        <para>Nu het aan [geïntimeerde] verleende uitstel van betaling van rechtswege geëindigd met de intrekking van de bezwaarschriften, heeft de rechtbank terecht geoordeeld dat de brief van de Ontvanger van 25 september 2014 ten hoogste kan worden aangemerkt als een mededeling van informatieve aard zoals bedoeld in artikel 25, paragraaf 1 onder 10 van de Leidraad.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.5.7.</nr>
+        <parablock>
+          <para>Uitgaande van het einde van rechtswege op 20 september 2006 respectievelijk<?linebreak?>7 maart 2007 is op deze momenten ook een einde gekomen aan de verlenging van de verjaringstermijnen conform artikel 4:111 Awb.<?linebreak?>Dit betekent dat de verjaringstermijn van vijf jaren ruimschoots was verstreken toen de Ontvanger vanaf mei 2014 aanspraak maakte op belastingbetaling door [geïntimeerde] en dienaangaande tot dwanginvordering is overgegaan.</para>
+          <para>De brief van 31 mei 2014 (zie r.o. 3.1. onder h) kon de reeds voltooide verjaring niet meer stuiten. Dat de verjaring op een eerder, nog wel relevant moment is gestuit gesteld noch gebleken.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.5.8.</nr>
+        <parablock>
+          <para>Dit alles betekent dat het de Ontvanger niet was toegestaan om de dwangbevelen van 23 oktober 2014 uit te vaardigen en om op 14 januari 2015 executoriaal derdenbeslag te leggen onder de bestuurder van [geïntimeerde] .</para>
+          <para>De rechtbank heeft daarom op juiste gronden het verzet tegen de dwangbevelen gegrond verklaard, deze dwangbevelen buiten werking gesteld en het op grond van de dwangbevelen gelegde executoriaal derdenbeslag opgeheven.</para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.6.</nr>
+      <parablock>
+        <para>De Ontvanger heeft ten slotte aangevoerd dat [geïntimeerde] zich in redelijkheid niet erop kan beroepen dat het recht op dwanginvordering is verjaard. Daartoe stelt de Ontvanger, samengevat, dat [geïntimeerde] na de intrekking van de bezwaarschriften niet eigener beweging is overgegaan tot betaling van de belastingaanslagen en de Ontvanger niet heeft ingelicht over het bereikte compromis met de belastingdienst en de intrekking van de bezwaarschriften.</para>
+        <para>Het hof begrijpt dat de Ontvanger aldus een beroep doet op de beperkende werking van de redelijkheid en de billijkheid. Naar het oordeel van het hof kan dit beroep niet slagen. Weliswaar heeft [geïntimeerde] de Ontvanger destijds niet geïnformeerd over de met de inspecteur van de belastingdienst gesloten vaststellingsovereenkomst en over de intrekking van de bezwaarschriften, maar hetzelfde geldt voor de inspecteur. Het hof acht in dit verband veel zwaarder wegen dat de inspecteur de Ontvanger hierover niet heeft geïnformeerd, omdat dit toch vooral op zijn weg had gelegen. </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>3.7.</nr>
+      <parablock>
+        <para>Het voorgaande betekent dat de grieven 1 tot en met 7 falen.</para>
+        <para>Het hof zal het vonnis waarvan beroep daarom bekrachtigen. De vordering van de Ontvanger tot terugbetaling van de aan [geïntimeerde] betaalde proceskosten van de eerste aanleg, dient daarom te worden afgewezen.<?linebreak?>Het hof zal de Ontvanger als de in het ongelijk gestelde partij veroordelen in de kosten van het hoger beroep.</para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>4</nr>De uitspraak</title>
+    <para />
+    <parablock>
+      <para>Het hof:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>bekrachtigt het vonnis waarvan beroep;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>veroordeelt de Ontvanger in de proceskosten van het hoger beroep, en begroot die kosten tot op heden aan de zijde van [geïntimeerde] op € 718,- aan griffierecht en op € 894,- aan salaris advocaat;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>wijst af het meer of anders in hoger beroep gevorderde.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door mrs. D.A.E.M. Hulskes, W.J.J. Beurskens en T. Rothuizen-van Dijk en is in het openbaar uitgesproken door de rolraadsheer op 5 december 2017.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>	griffier					rolraadsheer</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

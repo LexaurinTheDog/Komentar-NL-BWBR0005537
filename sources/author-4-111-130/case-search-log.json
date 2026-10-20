@@ -1,0 +1,112 @@
+{
+  "searched_at": "2026-10-20T15:56:45.815037+00:00",
+  "scope": "Selective case research for exactly articles 4:111–4:130.",
+  "firecrawl": {
+    "status": "authenticated but zero credits",
+    "attempt": "firecrawl scrape https://wetten.overheid.nl/BWBR0005537",
+    "exit_code": 1,
+    "evidence": "sources/author-4-111-130/firecrawl-attempt.log",
+    "fallback": "Direct official HTTP downloads, web discovery and local national judicial corpus; no settings or credentials changed."
+  },
+  "web_queries": [
+    "site:uitspraken.rechtspraak.nl \"4:111\" \"uitstel\"",
+    "site:uitspraken.rechtspraak.nl \"4:125\" \"2025\" \"betwist\"",
+    "site:uitspraken.rechtspraak.nl \"nadeelcompensatie\" \"4:126\" \"overgangsrecht\"",
+    "site:uitspraken.rechtspraak.nl \"4:126\" \"rechtmatig\" \"2026\" Awb"
+  ],
+  "official_full_texts_read_and_used": [
+    {
+      "ecli": "ECLI:NL:GHSHE:2017:5464",
+      "court": "Gerechtshof ’s-Hertogenbosch",
+      "date": "2017-12-05",
+      "docket": "200.185.202_01",
+      "paragraphs": [
+        "3.4.2",
+        "3.5.1–3.5.8"
+      ],
+      "supported_ids": [
+        "art-4:111"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RBDHA:2025:2646",
+      "court": "Rechtbank Den Haag",
+      "date": "2025-02-25",
+      "docket": "metadata: 23/5420 en 23/6840; body: SGR 23/5420 en 23/6841",
+      "paragraphs": [
+        "13"
+      ],
+      "supported_ids": [
+        "art-4:125"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RBMNE:2024:6535",
+      "court": "Rechtbank Midden-Nederland",
+      "date": "2024-11-27",
+      "docket": "UTR 24/3781",
+      "paragraphs": [
+        "6",
+        "7"
+      ],
+      "supported_ids": [
+        "art-4:126"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:CBB:2026:101",
+      "court": "College van Beroep voor het bedrijfsleven",
+      "date": "2026-02-19",
+      "docket": "23/1989",
+      "paragraphs": [
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "supported_ids": [
+        "art-4:129"
+      ]
+    }
+  ],
+  "official_full_texts_read_not_used": [
+    {
+      "ecli": "ECLI:NL:RBAMS:2026:3056",
+      "reason": "Body applies title 4.5 to an exploitation permit stated as issued on 13 December 2023 without discussing that temporal tension. Not used to establish applicability or an unqualified current holding."
+    }
+  ],
+  "search_hits_not_used": [
+    "ECLI:NL:GHAMS:2025:1420",
+    "ECLI:NL:PHR:2024:936",
+    "ECLI:NL:CRVB:2026:1243",
+    "ECLI:NL:RBZWB:2026:6112",
+    "ECLI:NL:RBOBR:2025:7047"
+  ],
+  "units_without_separate_verified_case": [
+    "art-4:112",
+    "art-4:113",
+    "art-4:114",
+    "art-4:115",
+    "art-4:116",
+    "art-4:117",
+    "art-4:118",
+    "art-4:119",
+    "art-4:120",
+    "art-4:121",
+    "art-4:122",
+    "art-4:123",
+    "art-4:124",
+    "art-4:127",
+    "art-4:128",
+    "art-4:130"
+  ],
+  "local_search": "sources/author-4-111-130/local-search-log.json",
+  "limitations": [
+    "No exhaustive case coverage or later-treatment/cassation audit.",
+    "Old fiscal and nadeelcompensatie regimes are expressly distinguished.",
+    "No separate sufficiently verified case added for the remaining technical units; no claim that no case exists.",
+    "No commercial redaction used."
+  ]
+}

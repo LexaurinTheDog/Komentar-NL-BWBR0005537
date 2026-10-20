@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2026:3056</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-04-01T07:42:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-03-25</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2026-03-20</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AMS 25/3680</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2026:3056">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2026:3056</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-04-01T07:41:44</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-04-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2026:3056 Rechtbank Amsterdam , 20-03-2026 / AMS 25/3680</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2026:3056:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Verzoek om nadeelcompensatie terecht afgewezen. Schade als gevolg van verlening van een exploitatievergunning aan een concurrent niet onderbouwd. Bevoegdheidsgebrek wordt gepasseerd.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2026:3056:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: AMS 25/3680 </para>
+    </parablock>
+    <bridgehead role="bold">
+      <?linebreak?>uitspraak van de enkelvoudige kamer van 20 maart 2026 in de zaak tussen</bridgehead>
+    <bridgehead role="bold">Cafetaria [naam] , uit [plaats] , eiser</bridgehead>
+    <para>(gemachtigde: mr. E. van Es),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <para>
+      <emphasis role="bold">1. het college van burgemeester en wethouders van de gemeente Amstelveen</emphasis>het college, </para>
+    <para>
+      <emphasis role="bold">2. de burgemeester van de gemeente Amstelveen</emphasis>de burgemeester </para>
+    <para>(gemachtigde: mr. R. Meyer).</para>
+    <para />
+    <bridgehead role="bold">Samenvatting</bridgehead>
+    <para />
+    <para>1. Deze uitspraak gaat over de afwijzing van het verzoek van eiser om nadeelcompensatie wegens schade als gevolg van de verlening van een exploitatievergunning aan een concurrent. Eiser is het niet eens met de afwijzing van zijn verzoek. Hij voert daartoe een aantal beroepsgronden aan. Aan de hand van deze beroepsgronden beoordeelt de rechtbank de afwijzing van de aanvraag.</para>
+    <para />
+    <para>2. De rechtbank komt in deze uitspraak tot het oordeel dat het verzoek om nadeelcompensatie terecht is afgewezen. Dit betekent dat eiser geen gelijk krijgt en het beroep dus ongegrond is. </para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>3. Eiser is sinds 1993 gevestigd op het [adres] en exploiteert daar een snackbar. Met een verzoek van 15 oktober 2024 heeft eiser verzocht om nadeelcompensatie wegens een nieuw of gewijzigd omgevingsplan of bestemmingsplan. Volgens eiser ondervindt hij inkomstenderving, doordat er in hetzelfde winkelcentrum ook aan een ander bedrijf een vergunning is verleend voor het exploiteren van een snackbar. Volgens eiser bedraagt de schade € 200.000,-. </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Het college heeft het verzoek van eiser met het besluit van 19 december 2024 afgewezen. Volgens het college valt een extra concurrent binnen het normale ondernemersrisico, omdat bedrijven opereren in een markt waarin concurrentie een natuurlijke en onvermijdelijke factor is. Eiser heeft geen exclusieve rechten gekregen om zich als enige in dit gebied te begeven. Voor zover eiser het niet eens is met de regels uit het bestemmingsplan ‘ [plan] ’, had hij daartegen voor het onherroepelijk worden daarvan moeten opkomen. Volgens het college is het bovendien onaannemelijk dat eiser ten gevolge van de verleende exploitatievergunning een schade van € 200.000,- heeft geleden, mede gezien het feit dat het besluit pas onherroepelijk is geworden op 2 mei 2024. Voor een schadevergoeding moet bovendien aannemelijk worden gemaakt dat er een direct causaal verband is tussen de verleende vergunning en de geleden schade. De schade mag niet voortkomen uit algemene marktrisico’s, maar moet uitsluitend te wijten zijn aan de komst van een nieuwe concurrent. Eiser heeft niet met cijfers of ander bewijs laten zien dat zijn schade is ontstaan na en door het verlenen van de exploitatievergunning. Het college stelt zich dan ook op het standpunt dat er geen schade is veroorzaakt door het besluit om een exploitatievergunning te verlenen aan een concurrent van eiser die uitgaat boven het normale maatschappelijke risico en die eiser in vergelijking met anderen onevenredig zwaar treft.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>Met het bestreden besluit van 8 mei 2025 op het bezwaar van eiser (hierna: het bestreden besluit) is het college – onder aanvulling van de motivering en met overneming van het advies van de bezwaarschriftencommissie – bij de afwijzing van het verzoek gebleven. Het college heeft het verzoek van eiser opgevat als een verzoek om planschade vanwege de vaststelling van het bestemmingsplan en als een verzoek om nadeelcompensatie vanwege de verleende exploitatievergunning. Het verzoek om planschade wordt afgewezen, omdat het bestemmingsplan ‘ [plan] ’ op 6 mei 2015 onherroepelijk is geworden en eiser niet binnen vijf jaar na het onherroepelijk worden van dit bestemmingsplan een verzoek om planschade heeft ingediend. Het verzoek om nadeelcompensatie wordt afgewezen, omdat het op grond van het bestemmingsplan reeds mogelijk was dat zich op enig moment een concurrent zou vestigen. Het verlenen van een exploitatievergunning aan een concurrent kwalificeert daarom niet als een schadeveroorzakende handeling. Voor zover hieruit al schade zou voortvloeien, stijgt deze schade niet uit boven het normaal maatschappelijk risico, aldus het college. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <para>Eiser heeft beroep ingesteld tegen het bestreden besluit. De burgemeester heeft op het beroep gereageerd met een verweerschrift. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4.</nr>
+      <para>De rechtbank heeft het beroep op 5 maart 2026 op zitting behandeld. Hieraan hebben deelgenomen: de gemachtigde van eiser, [persoon] en de gemachtigde van de burgemeester. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>Beoordeling door de rechtbank</title>
+    <para />
+    <para>4. Eiser heeft tijdens de zitting laten weten dat hij alleen een verzoek om nadeelcompensatie heeft willen doen. Het is hem niet te doen om planschade. De rechtbank beoordeelt daarom alleen of het verzoek om nadeelcompensatie terecht is afgewezen. Zij doet dat aan de hand van de beroepsgronden van eiser. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Bevoegdheidsgebrek</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>5. Voor zover de onder procesverloop genoemde besluiten van het college zien op het verzoek van eiser om nadeelcompensatie wegens een verleende exploitatievergunning, zijn deze besluiten ten onrechte door het college genomen in plaats van door de burgemeester. Per brief van 2 maart 2026 is dit door de burgemeester erkend. Nu de burgemeester deel uitmaakt van het college, hij geen andere dan de nu door het college genomen besluiten zou hebben genomen en hij deze besluiten voor zijn rekening neemt, ziet de rechtbank aanleiding dit gebrek aan het bestreden besluit met toepassing van artikel 6:22 van de Algemene wet bestuursrecht (Awb) te passeren. Eiser is hierdoor niet benadeeld.<footnote-ref linkend="_8f64a58d-903e-46f4-bba4-bc25506ef507" /> In het vervolg van deze uitspraak zal worden gesproken over het besluit van de burgemeester. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Is het verzoek om nadeelcompensatie terecht afgewezen? </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>6. Volgens eiser is de burgemeester op grond van artikel 4:126 van de Awb en artikel 15.1, eerste lid, onder k, van de Omgevingswet gehouden nadeelcompensatie toe te kennen wanneer rechtmatig overheidshandelen tot schade leidt die niet binnen het normale ondernemersrisico valt. De afwijzing van de burgemeester miskent de specifieke situatie van eiser. De concurrent kreeg een vergunning voor een vrijwel identieke onderneming in hetzelfde winkelcentrum, waardoor eiser zijn unieke marktpositie verloor. Daar komt bij dat de onderneming, die in 2015 nog gewaardeerd werd op circa € 210.000 in 2025 is verkocht voor € 32.500. Dit verlies valt niet onder normaal ondernemersrisico. Volgens vaste jurisprudentie mag een bestuursorgaan bovendien niet volstaan met een algemene verwijzing naar ondernemersrisico. Het bestuursorgaan dient de omvang en ernst van de schade casuïstisch te beoordelen en het moet onderzoeken of sprake is van onevenredige benadeling. Een dergelijk onderzoek heeft in dit geval niet plaatsgevonden. Hiermee heeft de burgemeester zijn wettelijke verplichting tot inhoudelijke beoordeling geschonden. Verder voert eiser aan dat het causaal verband tussen het besluit en de schade onvoldoende is onderzocht. De combinatie van corona, stijgende energiekosten en het overheidsbesluit hebben tot een versnelde achteruitgang geleid. Er is sprake van een duidelijk omslagpunt in de omzetontwikkeling vanaf de komst van de concurrent. Ook blijkt uit de overgelegde verkoopgegevens en boekhoudkundige stukken dat de waarde en winstcapaciteit van de onderneming structureel is aangetast. </para>
+    <para />
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>De rechtbank overweegt dat – anders dan eiser lijkt te veronderstellen – de Omgevingswet op het verzoek om nadeelcompensatie niet van toepassing is. De exploitatievergunning staat namelijk niet genoemd in de limitatieve opsomming van mogelijke schadeveroorzakende besluiten in artikel 15.1, eerste lid, van de Omgevingswet. Het toetsingskader uit Titel 4.5 van de Awb is op dit verzoek om nadeelcompensatie wel van toepassing. Artikel 4:126, eerste lid, van de Awb bepaalt dat indien een bestuursorgaan in de rechtmatige uitoefening van zijn publiekrechtelijke bevoegdheid of taak schade veroorzaakt die uitgaat boven het normale maatschappelijke risico en die een benadeelde in vergelijking met anderen onevenredig zwaar treft, het bestuursorgaan de benadeelde desgevraagd een vergoeding toekent. Verder heeft de gemeenteraad van de gemeente Amstelveen de Verordening nadeelcompensatie gemeente Amstelveen vastgesteld. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>Gelet op het bepaalde in artikel 4:126, eerste lid, van de Awb, moet om een geslaagd beroep op nadeelcompensatie te kunnen doen ten eerste sprake zijn van schade. De bewijslast ligt bij de verzoeker. Die moet gegevens en bescheiden overleggen die het bestuursorgaan nodig heeft om te kunnen vaststellen of hij de gestelde geleden schade heeft geleden en of deze schade het gevolg is van het gestelde schadeveroorzakende rechtmatige besluit.<footnote-ref linkend="_e8ec5379-f647-47ec-b5ef-647940a5bde0" /> De betreffende exploitatievergunning is verleend op 13 december 2023 en op 2 mei 2024 onherroepelijk geworden. Eiser heeft aangiften inkomstenbelasting over 2019, 2020 en 2022 en een jaarrekening 2022 overgelegd. Verder heeft eiser alleen btw-aangiften overgelegd over 2023 en 2024. Eiser heeft de door hem overgelegde gegevens niet toegelicht en ook op de zitting heeft de gemachtigde van eiser desgevraagd geen toelichting gegeven. Met de burgemeester is de rechtbank van oordeel dat uit de som van de overlegde kwartaalcijfers voor de omzetbelasting slechts blijkt dat deze in 2023 en 2024 geen trendbreuk laten zien ten opzichte van de voorafgaande jaren. Uit de stukken blijkt daarnaast al een dalend resultaat sinds 2020. Iets anders kan de rechtbank uit de overgelegde stukken niet opmaken. Dat de coronacrisis in 2020 en 2021 een rol in het resultaat heeft gespeeld neemt de rechtbank aan, maar vanaf 2022 is ook geen stijgende lijn te zien die, met de komst van de concurrerende onderneming, weer teniet zou zijn gedaan. Ook de stelling van eiser dat de onderneming in 2015 nog gewaardeerd werd op circa € 210.000,- wordt niet met stukken onderbouwd. Eiser heeft naar het oordeel van de rechtbank daarom niet onderbouwd dat hij schade heeft geleden vanaf de verlening van de exploitatievergunning. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3.</nr>
+      <para>Daar komt naar het oordeel van de rechtbank bij dat zelfs al zou er schade zijn, geen sprake is van een causaal verband. Bij de verlening van een exploitatievergunning is het bestuursorgaan gebonden aan het toetsingskader uit de Algemene Plaatselijke Verordening. De vestiging van een concurrent is daarin geen mee te wegen aspect. Dat het winkelcentrum volgens eiser is vergroot terwijl de wijk in omvang gelijk is gebleven is dat ook niet. Het in 2015 onherroepelijk geworden bestemmingsplan maakt de vestiging van dergelijke horeca ter plaatse nou eenmaal mogelijk, wat er ook aan die planologische keuze vooraf is gegaan. Anders dan eiser graag had gewild kan en mag de burgemeester bovendien niet bepalen welk type onderneming zich daar vestigt. Ook niet als dat binnen 50 meter van eiser is. Dit is een ondernemersrisico wat, hoe vervelend ook, voor rekening van eiser komt. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Conclusie en gevolgen</title>
+    <para />
+    <parablock>
+      <para>7. De burgemeester heeft het verzoek om nadeelcompensatie terecht afgewezen.</para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>Het beroep is ongegrond. Dat betekent dat eiser geen gelijk krijgt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>Gelet op het met artikel 6:22 van de Awb gepasseerde bevoegdheidsgebrek, bepaalt de rechtbank dat de burgemeester aan eiser het door hem betaalde griffierecht moet vergoeden. Ook krijgt eiser daarom een vergoeding van zijn proceskosten. De vergoeding is met toepassing van het Besluit proceskosten bestuursrecht als volgt berekend. Voor de rechtsbijstand door een gemachtigde krijgt eiser een vast bedrag per proceshandeling. In beroep heeft elke proceshandeling een waarde van € 934,-. De gemachtigde van eiser heeft een beroepschrift ingediend en aan de zitting van de rechtbank deelgenomen. De vergoeding bedraagt daarom € 1.868,-.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para>- verklaart het beroep ongegrond;</para>
+    <para>- draagt de burgemeester op het betaalde griffierecht van € 385,- aan eiser te vergoeden;</para>
+    <para>- veroordeelt de burgemeester in de proceskosten van eiser tot een bedrag van € 1.868,-</para>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. C.M. Delstra, rechter, in aanwezigheid van mr. I.N. van Soest, griffier.</para>
+      <para>Uitgesproken in het openbaar op 20 maart 2026.</para>
+    </parablock>
+    <para />
+    <informaltable>
+      <tgroup cols="2">
+        <colspec colname="colA" />
+        <colspec colname="colB" />
+        <tbody>
+          <row>
+            <entry>
+              <para>griffier</para>
+            </entry>
+            <entry>
+              <para>rechter</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Informatie over hoger beroep</title>
+    <para>Een partij die het niet eens is met deze uitspraak, kan een hogerberoepschrift sturen naar de Afdeling bestuursrechtspraak van de Raad van State waarin wordt uitgelegd waarom deze partij het niet eens is met deze uitspraak. Het hogerberoepschrift moet worden ingediend binnen zes weken na de dag waarop deze uitspraak is verzonden. Kan de indiener de behandeling van het hoger beroep niet afwachten, omdat de zaak spoed heeft, dan kan de indiener de voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State vragen om een voorlopige voorziening (een tijdelijke maatregel) te treffen. </para>
+    <para />
+  </section>
+  <footnote id="_8f64a58d-903e-46f4-bba4-bc25506ef507" label="1">
+    <para> Zie bijvoorbeeld de uitspraak van de Afdeling van 13 januari 2021, ECLI:NL:RVS:2021:47.</para>
+  </footnote>
+  <footnote id="_e8ec5379-f647-47ec-b5ef-647940a5bde0" label="2">
+    <para> Zie bijvoorbeeld de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 13 juni 2007, ECLI:NL:RVS:2007:BA7098.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

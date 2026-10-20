@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-20T15:56:13.214154+00:00",
+  "scope": "Bounded authoring of exactly twenty articles 4:111–4:130",
+  "assigned_ids": [
+    "art-4:111",
+    "art-4:112",
+    "art-4:113",
+    "art-4:114",
+    "art-4:115",
+    "art-4:116",
+    "art-4:117",
+    "art-4:118",
+    "art-4:119",
+    "art-4:120",
+    "art-4:121",
+    "art-4:122",
+    "art-4:123",
+    "art-4:124",
+    "art-4:125",
+    "art-4:126",
+    "art-4:127",
+    "art-4:128",
+    "art-4:129",
+    "art-4:130"
+  ],
+  "assigned_units_complete": 20,
+  "assigned_errors": [],
+  "existing_commentaries_preserved": 200,
+  "independent_review": false,
+  "statutory_text_agreement": 1.0,
+  "independent_official_identifier_coverage": {
+    "expected": 588,
+    "parsed": 588,
+    "missing": [],
+    "duplicates": []
+  },
+  "whole_book_complete": false,
+  "remaining_unwritten_outside_assignment": 368,
+  "limitations": [
+    "Fresh independent second pass pending.",
+    "Technical checks do not establish legal quality."
+  ]
+}

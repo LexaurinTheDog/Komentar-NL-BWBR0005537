@@ -1,0 +1,752 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/schema/op-xsd-2012-2">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2013-50/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Wet van 31 januari 2013 tot aanvulling van de Algemene wet bestuursrecht met bepalingen over nadeelcompensatie en schadevergoeding bij onrechtmatige overheidsdaad (Wet nadeelcompensatie en schadevergoeding bij onrechtmatige besluiten)</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al>Allen die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+          <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is om de Algemene wet bestuursrecht aan te vullen met algemene bepalingen over schadevergoeding bij rechtmatig overheidshandelen alsmede met procedurele bepalingen inzake schadevergoeding bij onrechtmatige overheidsdaad;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">I</nr>
+          </kop>
+          <wat type="wijziging">De Algemene wet bestuursrecht wordt gewijzigd als volgt:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Na artikel 4:125 wordt een nieuwe titel ingevoegd, luidende:</wat>
+            <wijziging>
+              <wijzig-divisie soort="titeldeel" opmaak="default">
+                <kop kopopmaak="vet">
+                  <label>TITEL</label>
+                  <nr status="officieel">4.5</nr>
+                  <titel>NADEELCOMPENSATIE</titel>
+                </kop>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">4:126</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Indien een bestuursorgaan in de rechtmatige uitoefening van zijn publiekrechtelijke bevoegdheid of taak schade veroorzaakt die uitgaat boven het normale maatschappelijke risico en die een benadeelde in vergelijking met anderen onevenredig zwaar treft, kent het bestuursorgaan de benadeelde desgevraagd een vergoeding toe.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Schade blijft in elk geval voor rekening van de aanvrager voor zover:</al>
+                    <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>hij het risico van het ontstaan van de schade heeft aanvaard;</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>hij de schade had kunnen beperken door binnen redelijke grenzen maatregelen te nemen, die tot voorkoming of vermindering van de schade hadden kunnen leiden;</al>
+                      </li>
+                      <li>
+                        <li.nr>c.</li.nr>
+                        <al>de schade anderszins het gevolg is van een omstandigheid die aan de aanvrager kan worden toegerekend of</al>
+                      </li>
+                      <li>
+                        <li.nr>d.</li.nr>
+                        <al>de vergoeding van de schade anderszins is verzekerd.</al>
+                      </li>
+                    </lijst>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Indien een schadeveroorzakende gebeurtenis als bedoeld in het eerste lid tevens voordeel voor de benadeelde heeft opgeleverd, wordt dit bij de vaststelling van de te vergoeden schade in aanmerking genomen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4.</lidnr>
+                    <al>Het bestuursorgaan kan een vergoeding toekennen in andere vorm dan betaling van een geldsom.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">4:127</nr>
+                  </kop>
+                  <al>De aanvraag bevat mede:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>een aanduiding van de schadeveroorzakende gebeurtenis;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>een opgave van de aard van de geleden of te lijden schade en, voor zover redelijkerwijs mogelijk, het bedrag van de schade en een specificatie daarvan.</al>
+                    </li>
+                  </lijst>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">4:128</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Bij wettelijk voorschrift kan worden bepaald dat van de aanvrager een recht van ten hoogste € 500 kan worden geheven voor het in behandeling nemen van de aanvraag.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Het in het eerste lid bedoelde wettelijk voorschrift kan voor bestuursorganen van de centrale overheid bij of krachtens algemene maatregel van bestuur worden vastgesteld.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">4:129</nr>
+                  </kop>
+                  <al>Indien het bestuursorgaan een vergoeding als bedoeld in artikel 4:126 toekent, vergoedt het tevens:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>redelijke kosten ter voorkoming of beperking van schade;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>redelijke kosten ter zake van door een derde beroepsmatig verleende rechtsbijstand of andere deskundige bijstand bij de vaststelling van de schade;</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>indien voor de indiening van de aanvraag een recht is geheven, het betaalde recht;</al>
+                    </li>
+                    <li>
+                      <li.nr>d.</li.nr>
+                      <al>de wettelijke rente vanaf de ontvangst van de aanvraag, of indien de schade op een later tijdstip ontstaat, vanaf dat tijdstip.</al>
+                    </li>
+                  </lijst>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">4:130</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Het bestuursorgaan beslist binnen acht weken of – indien een adviescommissie is ingesteld waarvan de voorzitter, dan wel het enig lid, geen deel uitmaakt van en niet werkzaam is onder verantwoordelijkheid van het bestuursorgaan – binnen zes maanden na de ontvangst van de aanvraag, tenzij bij of krachtens wettelijk voorschrift een andere termijn is bepaald.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Het bestuursorgaan kan de beslissing eenmaal voor ten hoogste acht weken of – indien een adviescommissie als bedoeld in het eerste lid is ingeschakeld – zes maanden verdagen. Van de verdaging wordt schriftelijk mededeling gedaan.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Indien de schade mede is veroorzaakt door een besluit waartegen beroep kan worden ingesteld, kan het bestuursorgaan de beslissing aanhouden totdat het besluit onherroepelijk is geworden.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">4:131</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Het bestuursorgaan kan de aanvraag afwijzen indien op het tijdstip van de aanvraag vijf jaren zijn verstreken na aanvang van de dag na die waarop de benadeelde bekend is geworden zowel met de schade als met het voor de schadeveroorzakende gebeurtenis verantwoordelijke bestuursorgaan, en in ieder geval na verloop van twintig jaren nadat de schade is veroorzaakt.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Indien een aanvraag betrekking heeft op schade veroorzaakt door een besluit waartegen beroep kan worden ingesteld, vangt de termijn van vijf jaren niet aan voordat dit besluit onherroepelijk is geworden.</al>
+                  </lid>
+                </artikel>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Aa</lidnr>
+            <wat>Het opschrift van hoofdstuk 8 komt te luiden:</wat>
+            <wijziging>
+              <wijzig-divisie soort="hoofdstuk" opmaak="default">
+                <kop kopopmaak="vet">
+                  <label>HOOFDSTUK</label>
+                  <nr status="officieel">8</nr>
+                  <titel>BIJZONDERE BEPALINGEN OVER DE WIJZE VAN PROCEDEREN BIJ DE BESTUURSRECHTER</titel>
+                </kop>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>[vervallen]</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Artikel 8:4, eerste lid, wordt gewijzigd als volgt:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Aan het slot van onderdeel e wordt de punt vervangen door een komma.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Er wordt een onderdeel toegevoegd, luidende:</wat>
+              <artikeltekst>
+                <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                  <li>
+                    <li.nr>f.</li.nr>
+                    <al>inzake vergoeding van schade wegens onrechtmatig bestuurshandelen.</al>
+                  </li>
+                </lijst>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Ca</lidnr>
+            <wat>In artikel 8:6 wordt onder vernummering van het tweede lid tot derde lid een lid ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Het beroep tegen een besluit op een aanvraag als bedoeld in artikel 4:126 kan worden ingesteld bij de rechtbank, tenzij de schade is veroorzaakt door een besluit als bedoeld in hoofdstuk 2 of 3 van de bij deze wet behorende Bevoegdheidsregeling bestuursrechtspraak of door een handeling ter uitvoering van een zodanig besluit. In dat geval kan het beroep worden ingesteld bij de bestuursrechter die ingevolge het desbetreffende hoofdstuk bevoegd is.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>De artikelen 8:73 en 8:73a vervallen.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>Artikel 8:75a wordt gewijzigd als volgt:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het tweede lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>De bestuursrechter stelt de verzoeker zo nodig in de gelegenheid het verzoek schriftelijk toe te lichten en stelt het bestuursorgaan in de gelegenheid een verweerschrift in te dienen. Hij stelt hiervoor termijnen vast. Indien het verzoek mondeling wordt gedaan, kan de bestuursrechter bepalen dat het toelichten van het verzoek en het voeren van verweer onmiddellijk mondeling geschieden.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Aan het artikel wordt een lid toegevoegd, luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Indien het toelichten van het verzoek en het voeren van verweer mondeling zijn geschied, sluit de bestuursrechter het onderzoek. In de overige gevallen zijn de afdelingen 8.2.4 en 8.2.5 van overeenkomstige toepassing.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">F</lidnr>
+            <wat>Artikel 8:76 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">8:76</nr>
+                </kop>
+                <al>Voor zover een uitspraak strekt tot vergoeding van griffierecht, proceskosten of schade als bedoeld in artikel 8:74, 8:75, 8:75a, 8:82, vierde lid, 8:87, derde lid, of 8:95 levert zij een executoriale titel op, die met toepassing van de voorschriften van het Wetboek van Burgerlijke Rechtsvordering kan worden tenuitvoergelegd.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">G</lidnr>
+            <wat>Na artikel 8:87 wordt een titel ingevoegd, luidende:</wat>
+            <wijziging>
+              <wijzig-divisie soort="titeldeel" opmaak="default">
+                <kop kopopmaak="vet">
+                  <label>TITEL</label>
+                  <nr status="officieel">8.4</nr>
+                  <titel>SCHADEVERGOEDING</titel>
+                </kop>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8:88</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>De bestuursrechter is bevoegd op verzoek van een belanghebbende een bestuursorgaan te veroordelen tot vergoeding van schade die de belanghebbende lijdt of zal lijden als gevolg van:</al>
+                    <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>een onrechtmatig besluit;</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>een andere onrechtmatige handeling ter voorbereiding van een onrechtmatig besluit;</al>
+                      </li>
+                      <li>
+                        <li.nr>c.</li.nr>
+                        <al>het niet tijdig nemen van een besluit;</al>
+                      </li>
+                      <li>
+                        <li.nr>d.</li.nr>
+                        <al>een andere onrechtmatige handeling van een bestuursorgaan waarbij een persoon als bedoeld in artikel 8:2, eerste lid, onder a, zijn nagelaten betrekkingen of zijn rechtverkrijgenden belanghebbende zijn.</al>
+                      </li>
+                    </lijst>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Het eerste lid is niet van toepassing indien het besluit van beroep bij de bestuursrechter is uitgezonderd.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8:89</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Indien de schade wordt veroorzaakt door een besluit waarover de Centrale Raad van Beroep of de belastingkamer van de Hoge Raad in enige of hoogste instantie oordeelt, is de bestuursrechter bij uitsluiting bevoegd.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>In de overige gevallen is de bestuursrechter bevoegd voor zover de gevraagde vergoeding ten hoogste € 25 000 bedraagt met inbegrip van de tot aan de dag van het verzoek verschenen rente, en onverminderd het recht van de belanghebbende om op grond van andere wettelijke bepalingen schadevergoeding te vragen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>De bestuursrechter is in de gevallen, bedoeld in het tweede lid, niet bevoegd indien de belanghebbende het verzoek heeft ingediend nadat hij terzake van de schade een geding bij de burgerlijke rechter aanhangig heeft gemaakt.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4.</lidnr>
+                    <al>Zolang het verzoek van de belanghebbende bij de bestuursrechter aanhangig is, verklaart de burgerlijke rechter een vordering tot vergoeding van de schade niet ontvankelijk.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8:90</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Het verzoek wordt schriftelijk ingediend bij de bestuursrechter die bevoegd is kennis te nemen van het beroep tegen het besluit.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Ten minste acht weken voor het indienen van het in het eerste lid bedoelde verzoekschrift vraagt de belanghebbende het betrokken bestuursorgaan schriftelijk om vergoeding van de schade, tenzij dit redelijkerwijs niet van hem kan worden gevergd.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8:91</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Indien het verzoek wordt gedaan gedurende het beroep of het hoger beroep tegen het schadeveroorzakende besluit, wordt het ingediend bij de bestuursrechter waarbij het beroep of het hoger beroep aanhangig is.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>In dat geval is artikel 8:90, tweede lid, niet van toepassing.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Indien het verzoek wordt gedaan in hoger beroep beslist de hogerberoepsrechter op het verzoek, tenzij hij het verzoek naar de rechtbank verwijst omdat het naar zijn oordeel behandeling door de rechtbank behoeft.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8:92</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Het verzoekschrift wordt ondertekend en bevat ten minste:</al>
+                    <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>de naam en het adres van de verzoeker;</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>de dagtekening;</al>
+                      </li>
+                      <li>
+                        <li.nr>c.</li.nr>
+                        <al>een aanduiding van de oorzaak van de schade;</al>
+                      </li>
+                      <li>
+                        <li.nr>d.</li.nr>
+                        <al>een opgave van de aard van de geleden of de te lijden schade en, voor zover redelijkerwijs mogelijk, het bedrag van de schade en een specificatie daarvan;</al>
+                      </li>
+                      <li>
+                        <li.nr>e.</li.nr>
+                        <al>de gronden van het verzoek.</al>
+                      </li>
+                    </lijst>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Bij het verzoekschrift worden zo mogelijk een afschrift van het schadeveroorzakende besluit waarop het verzoekschrift betrekking heeft,  en van het verzoek, bedoeld in artikel 8:90, tweede lid, overgelegd.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Artikel 6:5, derde lid, is van overeenkomstige toepassing.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8:93</nr>
+                  </kop>
+                  <al>Artikel 310 van Boek 3 van het Burgerlijk Wetboek is van overeenkomstige toepassing op verzoeken om schadevergoeding op grond van deze titel. De verjaringstermijn vangt evenwel niet eerder aan dan de dag na die waarop:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>de vernietiging van het schadeveroorzakende besluit onherroepelijk is geworden, of</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>het bestuursorgaan de onrechtmatigheid van het besluit heeft erkend.</al>
+                    </li>
+                  </lijst>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8:94</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Op het verzoek en de behandeling daarvan zijn de artikelen 6:6, 6:14, 6:15, 6:17, 6:21, 6:24, 8:8 tot en met 8:28, 8:29 tot en met 8:51, 8:52 tot en met 8:55, 8:56 tot en met 8:69, 8:71, 8:74 tot en met 8:80 en 8:81 tot en met 8:87 van overeenkomstige toepassing, met dien verstande dat hoofdstuk V van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing is indien de schade is veroorzaakt door een besluit als bedoeld in artikel 26 van die wet.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>In afwijking van het eerste lid is bij indiening van het verzoek overeenkomstig artikel 8:91 geen griffierecht verschuldigd.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8:95</nr>
+                  </kop>
+                  <al>Indien de bestuursrechter het verzoek geheel of gedeeltelijk toewijst, veroordeelt hij het bestuursorgaan tot vergoeding van schade.</al>
+                </artikel>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">H</lidnr>
+            <wat>Artikel 8:104, eerste lid, wordt gewijzigd als volgt:</wat>
+            <wijziging>
+              <nr status="officieel">a.</nr>
+              <wat>Aan het slot van onderdeel a vervalt «en».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">b.</nr>
+              <wat>Onder vervanging van de punt aan het slot van onderdeel b door een komma wordt een onderdeel toegevoegd, luidende:</wat>
+              <artikeltekst>
+                <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                  <li>
+                    <li.nr>c.</li.nr>
+                    <al>een uitspraak van de rechtbank op een verzoekschrift als bedoeld in artikel 8:95.</al>
+                  </li>
+                </lijst>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">I</lidnr>
+            <wat>Artikel 8:105 wordt gewijzigd als volgt:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Voor de tekst wordt de aanduiding «1.» geplaatst.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Er wordt een lid toegevoegd, luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Het hoger beroep, bedoeld in artikel 8:104, eerste lid, aanhef en onder c, wordt ingesteld bij de hogerberoepsrechter die ingevolge het eerste lid bevoegd is of zou zijn te oordelen over een uitspraak van de rechtbank omtrent het schadeveroorzakende besluit.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">J</lidnr>
+            <wat>Artikel 8:108 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <wat>Onder vernummering van het tweede lid tot derde lid wordt een lid ingevoegd, luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Op het hoger beroep tegen een uitspraak als bedoeld in artikel 8:95 zijn voorts de afdelingen 8.2.2a, 8.2.4a en 8.2.7 en de artikelen 8:28a, 8:70 en 8:72 niet van toepassing.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">K</lidnr>
+            <wat>In artikel 8:118, vierde lid, wordt «Artikel 8:73a» vervangen door: Artikel 8:75a.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">L</lidnr>
+            <wat>In artikel 10 van bijlage 2 wordt in de alfabetische rangschikking ingevoegd:</wat>
+            <wijziging>
+              <artikeltekst>
+                <definitielijst plaatsing="inline" type="ongemarkeerd" nr-sluiting=".">
+                  <definitie-item>
+                    <term>Algemene wet bestuursrecht:</term>
+                    <definitie>
+                      <al>
+                           artikel 4:126, voor zover het besluit betrekking heeft op schade, veroorzaakt door een besluit op grond van een ander voorschrift, genoemd in artikel 9 of 10 van deze Bevoegdheidsregeling bestuursrechtspraak, of door een handeling ter uitvoering van een zodanig besluit</al>
+                    </definitie>
+                  </definitie-item>
+                </definitielijst>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">M</lidnr>
+            <wat>In artikel 11 van bijlage 2 wordt in de alfabetische rangschikking ingevoegd:</wat>
+            <wijziging>
+              <artikeltekst>
+                <definitielijst plaatsing="inline" type="ongemarkeerd" nr-sluiting=".">
+                  <definitie-item>
+                    <term>Algemene wet bestuursrecht:</term>
+                    <definitie>
+                      <al>
+                           artikel 4:126, voor zover het besluit betrekking heeft op schade, veroorzaakt door een besluit op grond van een ander voorschrift, genoemd in artikel 11 van deze Bevoegdheidsregeling bestuursrechtspraak, of door een handeling ter uitvoering van een zodanig besluit</al>
+                    </definitie>
+                  </definitie-item>
+                </definitielijst>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">N</lidnr>
+            <wat>In artikel 12 van bijlage 2 wordt in de alfabetische rangschikking ingevoegd:</wat>
+            <wijziging>
+              <artikeltekst>
+                <definitielijst plaatsing="inline" type="ongemarkeerd" nr-sluiting=".">
+                  <definitie-item>
+                    <term>
+                           Algemene wet bestuursrecht:</term>
+                    <definitie>
+                      <al>artikel 4:126, voor zover het besluit betrekking heeft op schade, veroorzaakt door een besluit op grond van een ander voorschrift, genoemd in artikel 12 van deze Bevoegdheidsregeling bestuursrechtspraak, of door een handeling ter uitvoering van een zodanig besluit</al>
+                    </definitie>
+                  </definitie-item>
+                </definitielijst>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">II</nr>
+          </kop>
+          <wat type="wijziging">De Algemene wet inzake rijksbelastingen wordt gewijzigd als volgt:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 28, eerste lid, onderdeel a, en derde lid, wordt na «afdeling 8.2.6» ingevoegd: of artikel 8:104, eerste lid, onderdeel c.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 29 wordt «en titel 8.6» vervangen door: en de titels 8.4 en 8.6.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>In artikel 29f, derde lid, wordt «8:73a» vervangen door: 8:75a.</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">III</nr>
+          </kop>
+          <wat type="wijziging">De Vreemdelingenwet 2000 wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Na artikel 72 wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">72a</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>De bestuursrechter is bevoegd op verzoek een bestuursorgaan te veroordelen tot vergoeding van schade die een vreemdeling lijdt als gevolg van een onrechtmatige handeling van dit bestuursorgaan ten aanzien van deze vreemdeling als zodanig.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>In afwijking van artikel 8:89, tweede lid, van de Algemene wet bestuursrecht is de bestuursrechter bij uitsluiting bevoegd.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 81 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Voor de tekst wordt de aanduiding «1.» geplaatst.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Er wordt een lid toegevoegd, luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Het eerste lid is niet van toepassing indien hoger beroep wordt ingesteld tegen een uitspraak als bedoeld in artikel 8:104, eerste lid, onder c, van de Algemene wet bestuursrecht.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Na artikel 92 wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">92a</nr>
+                </kop>
+                <al>Deze afdeling is van overeenkomstige toepassing op het hoger beroep tegen een uitspraak van de rechtbank als bedoeld in artikel 8:104, eerste lid, onder c, van de Algemene wet bestuursrecht.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>Aan artikel 93 wordt een lid toegevoegd, luidende:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Het tweede lid is niet van toepassing indien hoger beroep wordt ingesteld tegen een uitspraak als bedoeld in artikel 8:104, eerste lid, onder c, van de Algemene wet bestuursrecht.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>In artikel 106 wordt na «vrijheidsontneming» telkens ingevoegd: of -beperking.</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IV</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1.</lidnr>
+            <al>Op schade, veroorzaakt door een besluit dat werd bekendgemaakt of een handeling die werd verricht voor het tijdstip waarop deze wet voor dat besluit of die handeling in werking is getreden, blijft het recht zoals dat gold voor dat tijdstip van toepassing.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2.</lidnr>
+            <al>Op schade, veroorzaakt door een handeling ter uitvoering van een besluit dat werd bekendgemaakt voor het tijdstip waarop deze wet voor dat besluit in werking is getreden, blijft het recht zoals dat gold voor dat tijdstip van toepassing.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3.</lidnr>
+            <al>Indien het eerste besluit tot uitvoering van een activiteit is genomen voor het tijdstip waarop deze wet voor dat besluit in werking is getreden, blijft het recht zoals dat gold voor dat tijdstip ook van toepassing op schade, veroorzaakt door latere besluiten of andere handelingen ter uitvoering van diezelfde activiteit.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">V</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1.</lidnr>
+            <al>Titel 4.5 en titel 8.4 van de Algemene wet bestuursrecht zijn niet van toepassing op schade, veroorzaakt door besluiten of andere handelingen:</al>
+            <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>van de Belastingdienst/Toeslagen, of</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>van andere bestuursorganen voor zover genomen of verricht in het kader van aan de Belastingdienst opgedragen taken.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2.</lidnr>
+            <al>In afwijking van artikel IV blijft het recht zoals dat gold voor het tijdstip waarop deze wet in werking is getreden, van toepassing op schade veroorzaakt door een besluit of andere handeling als bedoeld in het eerste lid.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3.</lidnr>
+            <al>Het eerste en tweede lid gelden niet voor besluiten en andere handelingen ter uitvoering van de Wet op de vennootschapsbelasting 1969.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4.</lidnr>
+            <al>Dit artikel vervalt drie jaren na het tijdstip van inwerkingtreding van artikel 4:126 van de Algemene wet bestuursrecht, tenzij voor het verstrijken van deze termijn een voorstel van wet is ingediend dat in het onderwerp van dit artikel voorziet.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">VI</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1.</lidnr>
+            <al>De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2.</lidnr>
+            <al>Bij koninklijk besluit kan worden bepaald dat onderdeel A van artikel I tot een bij koninklijk besluit te bepalen tijdstip buiten toepassing blijft voor de vergoeding van schade waarvoor bij wet of beleidsregel een andere regeling is getroffen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">VII</nr>
+          </kop>
+          <al>Deze wet wordt aangehaald als: Wet nadeelcompensatie en schadevergoeding bij onrechtmatige besluiten.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+        </slotformulering>
+        <histnoot type="parlementair">
+          <al>Kamerstuk <dossierref dossier="32621">32 621</dossierref></al>
+        </histnoot>
+        <gegeven>
+          <label>Gegeven te </label>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2013-01-31">31 januari  2013</datum>
+          </dagtekening>
+          <koning>Beatrix</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van Veiligheid en Justitie,</functie>
+          <naam>
+            <voornaam>I.W.</voornaam>
+            <achternaam>Opstelten</achternaam>
+          </naam>
+        </ondertekening>
+        <ondertekening>
+          <functie>De Minister van Binnenlandse Zaken en Koninkrijksrelaties,</functie>
+          <naam>
+            <voornaam>R.H.A.</voornaam>
+            <achternaam>Plasterk</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2013-02-15">Uitgegeven de <nadruk type="cur">vijftiende</nadruk> februari 2013</datum>
+          <ondertekening>
+            <functie>De Minister van Veiligheid en Justitie,</functie>
+            <naam>
+              <voornaam>I.W.</voornaam>
+              <achternaam>Opstelten</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

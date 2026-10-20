@@ -1,0 +1,909 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2023-162/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Wet van 12 april 2023 tot wijziging van de Wet tijdelijke tolheffing Blankenburgverbinding en ViA15 in verband met de Wet implementatie EETS-richtlijn en enkele technische aanpassingen</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+          <considerans.al>Alzo Wij in overweging genomen hebben dat het noodzakelijk is enkele wijzingen in de Wet tijdelijke tolheffing Blankenburgverbinding en ViA15 door te voeren in verband met de Wet implementatie EETS-richtlijn en enkele andere technische aanpassingen ten behoeve van een goede uitvoering van de Wet tijdelijke tolheffing Blankenburgverbinding en ViA15;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">I</nr>
+          </kop>
+          <wat type="wijziging">De Wet tijdelijke tolheffing Blankenburgverbinding en ViA15 wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In artikel 1 worden in de alfabetische volgorde ingevoegd:</wat>
+              <artikeltekst>
+                <definitielijst plaatsing="inline" type="ongemarkeerd" nr-sluiting=".">
+                  <definitie-item>
+                    <li.nr>–</li.nr>
+                    <term>boordapparatuur:</term>
+                    <definitie>
+                      <al>boordapparatuur als bedoeld in artikel 1 van de Wet implementatie EETS-richtlijn;</al>
+                    </definitie>
+                  </definitie-item>
+                  <definitie-item>
+                    <li.nr>–</li.nr>
+                    <term>dienstaanbieder:</term>
+                    <definitie>
+                      <al>hoofddienstaanbieder, EETS-aanbieder of ETS-aanbieder;</al>
+                    </definitie>
+                  </definitie-item>
+                  <definitie-item>
+                    <li.nr>–</li.nr>
+                    <term>dienstverleningsovereenkomst:</term>
+                    <definitie>
+                      <al>overeenkomst als bedoeld in artikel 8a;</al>
+                    </definitie>
+                  </definitie-item>
+                  <definitie-item>
+                    <li.nr>–</li.nr>
+                    <term>EETS-aanbieder:</term>
+                    <definitie>
+                      <al>EETS-aanbieder als bedoeld in artikel 1 van de Wet implementatie EETS-richtlijn;</al>
+                    </definitie>
+                  </definitie-item>
+                  <definitie-item>
+                    <li.nr>–</li.nr>
+                    <term>ETS-aanbieder:</term>
+                    <definitie>
+                      <al>een toldienstaanbieder als bedoeld in artikel 1 van de Wet implementatie EETS-richtlijn die zijn diensten beperkt tot de tolgebieden Blankenburgverbinding en ViA15;</al>
+                    </definitie>
+                  </definitie-item>
+                  <definitie-item>
+                    <li.nr>–</li.nr>
+                    <term>hoofddienstaanbieder:</term>
+                    <definitie>
+                      <al>hoofddienstaanbieder als bedoeld in artikel 1 van de Wet implementatie EETS-richtlijn;</al>
+                    </definitie>
+                  </definitie-item>
+                  <definitie-item>
+                    <li.nr>–</li.nr>
+                    <term>houder:</term>
+                    <definitie>
+                      <al>houder als bedoeld in artikel 1 van de Wet implementatie EETS-richtlijn:</al>
+                      <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                        <li>
+                          <li.nr>a.</li.nr>
+                          <al>degene op wiens naam een motorrijtuig is gesteld in het kentekenregister, bedoeld in artikel 42 van de Wegenverkeerswet 1994;</al>
+                        </li>
+                        <li>
+                          <li.nr>b.</li.nr>
+                          <al>degene op wiens naam een motorrijtuig is gesteld in een buitenlands register betreffende aldaar geregistreerde motorrijtuigen, de registratie betreffende motorrijtuigen gebezigd ten behoeve van de strijdkrachten, bijgehouden door Onze Minister van Defensie, alsmede enig andere registratie betreffende motorrijtuigen, waarvan hij gerechtigd is deze in Nederland te voeren;</al>
+                        </li>
+                      </lijst>
+                    </definitie>
+                  </definitie-item>
+                  <definitie-item>
+                    <li.nr>–</li.nr>
+                    <term>toezichthouder:</term>
+                    <definitie>
+                      <al>degene die is aangewezen op grond van artikel 15, eerste lid;</al>
+                    </definitie>
+                  </definitie-item>
+                  <definitie-item>
+                    <li.nr>–</li.nr>
+                    <term>Uitvoeringsverordening (EU) 2020/204:</term>
+                    <definitie>
+                      <al>Uitvoeringsverordening (EU) 2020/204 van de Commissie van 28 november 2019 inzake gedetailleerde verplichtingen van aanbieders van de Europese elektronische tolheffingsdienst, de minimuminhoud van de gebiedsverklaring van de Europese elektronische tolheffingsdienst, elektronische interfaces en eisen voor interoperabiliteitsonderdelen, en tot intrekking van Beschikking 2009/750/EG (PbEU 2020, L 43);</al>
+                    </definitie>
+                  </definitie-item>
+                  <definitie-item>
+                    <li.nr>–</li.nr>
+                    <term>Verordening (EU) 2018/858:</term>
+                    <definitie>
+                      <al>Verordening (EU) 2018/858 van het Europees Parlement en de Raad van 30 mei 2019 betreffende de goedkeuring van en het markttoezicht op motorvoertuigen en aanhangwagens daarvan en systemen, onderdelen en technische eenheden die voor dergelijke voertuigen zijn bestemd, tot wijziging van Verordeningen (EG) nr. 715/2007 en (EG) nr. 595/2009 en tot intrekking van Richtlijn 2007/46/EG (PbEU 2018, L 151).</al>
+                    </definitie>
+                  </definitie-item>
+                </definitielijst>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>De begripsomschrijving voor «euro-emissieklasse» komt te luiden:</wat>
+              <artikeltekst>
+                <definitielijst plaatsing="inline" type="ongemarkeerd" nr-sluiting=".">
+                  <definitie-item>
+                    <li.nr>–</li.nr>
+                    <term>euro-emissieklasse:</term>
+                    <definitie>
+                      <al>emissieklasse EURO 0, EURO I, EURO II, EURO III, EURO IV of EURO V als bedoeld in bijlage 0 bij Richtlijn 1999/62/EG van het Europees Parlement en de Raad van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen (PbEG 1999, L 187), of emissieklasse EURO VI als bedoeld in bijlage I bij Verordening (EG) nr. 595/2009 van het Europees Parlement en de Raad van 18 juni 2009 betreffende de typegoedkeuring van motorvoertuigen en motoren met betrekking tot emissies van zware bedrijfsvoertuigen (Euro VI) en de toegang tot reparatie- en onderhoudsinformatie, tot wijziging van Verordening (EG) nr. 715/2007 en Richtlijn 2007/46/EG en tot intrekking van de Richtlijnen 80/1269/EEG, 2005/55/EG en 2005/78/EG (PbEU 2009, L 188).</al>
+                    </definitie>
+                  </definitie-item>
+                </definitielijst>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>De begripsomschrijving voor «Onze Minister» komt te luiden:</wat>
+              <artikeltekst>
+                <definitielijst plaatsing="inline" type="ongemarkeerd" nr-sluiting=".">
+                  <definitie-item>
+                    <li.nr>–</li.nr>
+                    <term>Onze Minister:</term>
+                    <definitie>
+                      <al>Onze Minister van Infrastructuur en Waterstaat.</al>
+                    </definitie>
+                  </definitie-item>
+                </definitielijst>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Na artikel 4 wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">4a</nr>
+                  <titel>(registratie door middel van technisch hulpmiddel)</titel>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Onze Minister is bevoegd op of aan de weg met behulp van een locatiegebonden technisch hulpmiddel gegevens van een motorrijtuig vast te leggen en te verwerken. De volgende gegevens worden vastgelegd:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>het kenteken,</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>de locatie, de datum en het tijdstip van vastlegging,</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>de beeldopnames van het motorrijtuig, en</al>
+                    </li>
+                    <li>
+                      <li.nr>d.</li.nr>
+                      <al>voor zover van toepassing, de benodigde informatie uit de boordapparatuur.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Onze Minister verwerkt de vastgelegde gegevens ten behoeve van de inning van het toltarief, de controle op tijdige betaling daarvan en de handhaving.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Onder inning van het toltarief wordt mede begrepen de berekening, bedoeld in artikel 32, eerste lid, onder a, Wet implementatie EETS-richtlijn en voor zover van toepassing de controle, bedoeld in artikel 12, eerste lid, Wet implementatie EETS-richtlijn.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>Verwerking voor het doel, bedoeld in het tweede lid, kan plaatsvinden door de gegevens, bedoeld in het eerste lid, door middel van een technisch systeem geautomatiseerd te vergelijken met andere gegevens die voor dit doel zijn verkregen.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>De aanwezigheid van een locatiegebonden technisch hulpmiddel wordt ter plaatse op duidelijke wijze kenbaar gemaakt.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">6.</lidnr>
+                  <al>Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de inzet en het kenbaar maken van het gebruik van een technisch hulpmiddel, het aanwijzen en verwerken van de gegevens, bedoeld in het eerste lid, en, voor zover van toepassing, de benodigde informatie uit de boordapparatuur.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Na artikel 4a (nieuw) wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">4b</nr>
+                  <titel>(tijdelijke testomgeving technisch hulpmiddel)</titel>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Onze Minister is bevoegd om op een ander wegvak dan bedoeld in artikel 2, tweede lid, onder a, voorafgaand aan de tolheffing tijdelijk een testomgeving tot stand te brengen waarin gegevens worden vastgelegd en waarmee getest kan worden of het technisch hulpmiddel bedoeld in artikel 4a, eerste lid, geschikt is voor gebruik op het wegvak bedoeld in artikel 2, tweede lid, onder a.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Onze Minister is bevoegd de vastgelegde gegevens, bedoeld in artikel 4a, eerste lid, te verwerken ten behoeve van het testen van het technisch hulpmiddel.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Bij ministeriële regeling worden nadere regels gesteld over de inzet en het kenbaar maken van de testomgeving en wordt het wegvak aangewezen waarop wordt getest.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>Na artikel 5 wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">5a</nr>
+                  <titel>(tolheffer)</titel>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Onze Minister is tolheffer als bedoeld in de Wet implementatie EETS-richtlijn.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Onze Minister is namens de Staat tolheffer als bedoeld in de artikelen 8, 9, 10, 11, 12, 23, 37 en 38 van de Wet implementatie EETS-richtlijn.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>Artikel 6 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het eerste lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Een vrijstelling van artikel 7, eerste lid, geldt voor motorrijtuigen die blijkens:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>een door Onze Minister van Defensie aangehouden registratie worden gebruikt door het Ministerie van Defensie;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>een door Onze Minister van Defensie bekend gestelde registratie worden gebruikt door een bevriende krijgsmacht.</al>
+                    </li>
+                  </lijst>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Onder vernummering van het vierde tot vijfde lid wordt een lid ingevoegd, luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>De houder kan bij Onze Minister een ontheffing van artikel 7, eerste lid, aanvragen voor motorrijtuigen die:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>zijn ingericht en worden gebruikt voor het vervoer van zieken en gewonden;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>zijn ingericht en uitsluitend worden gebruikt voor het vervoer van een stoffelijk overschot; of</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>uitsluitend worden gebruikt door politie en brandweer.</al>
+                    </li>
+                  </lijst>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>Het vijfde lid (nieuw) komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>Bij of krachtens algemene maatregel van bestuur kunnen aan een ontheffing, bedoeld in het derde lid, voorschriften worden verbonden.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">4.</nr>
+              <wat>Na het vijfde lid (nieuw) wordt een zesde lid ingevoegd luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">6.</lidnr>
+                  <al>Bij of krachtens algemene maatregel van bestuur kunnen aan een ontheffing, bedoeld in het vierde lid, voorwaarden en beperkingen worden gesteld.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">F</lidnr>
+            <wat>Artikel 7 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het eerste lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>De houder is van rechtswege het toltarief, bedoeld in artikel 5, eerste lid, verschuldigd aan Onze Minister wegens het passeren van een wegvak of deel van een wegvak als bedoeld in artikel 2, tweede lid, onder a.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Het tweede lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Het toltarief kan rechtstreeks aan Onze Minister worden betaald of aan een dienstaanbieder waarmee een dienstverleningsovereenkomst is gesloten.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>Het derde lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Bij ministeriële regeling worden regels gesteld over de wijze waarop het wegvak waar tol wordt geheven kenbaar wordt gemaakt.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">4.</nr>
+              <wat>Het vierde lid vervalt.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">G</lidnr>
+            <wat>Na artikel 7 worden een paragraafopschrift en twee artikelen ingevoegd, luidende:</wat>
+            <wijziging>
+              <wijzig-divisie soort="paragraaf" opmaak="default">
+                <kop kopopmaak="cur">
+                  <label>§</label>
+                  <nr status="officieel">2.2.1.</nr>
+                  <titel>Betaling zonder dienstverleningsovereenkomst</titel>
+                </kop>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">7a</nr>
+                    <titel>(betalen zonder dienstverleningsovereenkomst)</titel>
+                  </kop>
+                  <al>Deze paragraaf is van toepassing als de houder geen dienstverleningsovereenkomst heeft gesloten met een dienstaanbieder.</al>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">7b</nr>
+                    <titel>(betalen toltarief aan Onze Minister)</titel>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Het verschuldigde toltarief wordt binnen een bij ministeriële regeling gestelde termijn betaald.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Artikel 4:94 van de Algemene wet bestuursrecht is niet van toepassing op het verschuldigde toltarief.</al>
+                  </lid>
+                </artikel>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">H</lidnr>
+            <wat>Na artikel 8 wordt een paragraaf ingevoegd, luidende:</wat>
+            <wijziging>
+              <wijzig-divisie soort="paragraaf" opmaak="default">
+                <kop kopopmaak="cur">
+                  <label>§</label>
+                  <nr status="officieel">2.2.2.</nr>
+                  <titel>Betaling met dienstverleningsovereenkomst</titel>
+                </kop>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8a</nr>
+                    <titel>(dienstverleningsovereenkomst met een dienstaanbieder)</titel>
+                  </kop>
+                  <al>Deze paragraaf is van toepassing als de houder een dienstverleningsovereenkomst met een dienstaanbieder heeft gesloten.</al>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8b</nr>
+                    <titel>(betaling aan een dienstaanbieder)</titel>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>De houder ontvangt een factuur van de dienstaanbieder waar een dienstverleningsovereenkomst mee is gesloten voor het door hem te betalen toltarief en betaalt het bedrag aan de dienstaanbieder.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Om de inning van het toltarief te verzekeren, kan de dienstaanbieder in de dienstverleningsovereenkomst de verplichting opnemen tot zekerheidstelling voor de betaling.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>In de dienstverleningsovereenkomst wordt in ieder geval het volgende geregeld:</al>
+                    <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>het door de dienstaanbieder verzenden van een factuur aan de houder met daarin in ieder geval gespecificeerd het totaalbedrag aan toltarief, het aantal passages en de datum en het tijdstip van die passages;</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>het in ieder geval door middel van girale betaling door de houder kunnen betalen van het toltarief aan de dienstaanbieder;</al>
+                      </li>
+                      <li>
+                        <li.nr>c.</li.nr>
+                        <al>de betalingstermijn die in de factuur voor de houder wordt opgenomen;</al>
+                      </li>
+                      <li>
+                        <li.nr>d.</li.nr>
+                        <al>het beheren door de dienstaanbieder van de klantenrelatie met de houder met inbegrip van een procedure voor klachtenafhandeling;</al>
+                      </li>
+                      <li>
+                        <li.nr>e.</li.nr>
+                        <al>het uitvoeren en naleven van het beveiligings- en privacybeleid van de dienstaanbieder;</al>
+                      </li>
+                      <li>
+                        <li.nr>f.</li.nr>
+                        <al>het verstrekken van een kwitantie door de dienstaanbieder aan de houder nadat het toltarief door de dienstaanbieder is ontvangen.</al>
+                      </li>
+                    </lijst>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4.</lidnr>
+                    <al>Artikel 2, zesde lid, van Uitvoeringsverordening (EU) 2020/204 is van overeenkomstige toepassing bij het factureren, bedoeld in het eerste lid, van de houder door de ETS-aanbieder respectievelijk de hoofddienstaanbieder.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8c</nr>
+                    <titel>(ETS-aanbieder)</titel>
+                  </kop>
+                  <al>De Wet implementatie EETS-richtlijn is van overeenkomstige toepassing op een ETS-aanbieder met uitzondering van de artikelen 4, eerste lid, onderdelen b en c, 5, 7, 8, 13, 25, 26, 27, 37 en 38.</al>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8d</nr>
+                    <titel>(verplichtingen van de hoofddienstaanbieder)</titel>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>De hoofddienstaanbieder is verplicht met elke houder die daarom verzoekt, een dienstverleningsovereenkomst te sluiten.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Artikel 32 van de Wet implementatie EETS-richtlijn is van overeenkomstige toepassing op de hoofddienstaanbieder en artikel 33 van de Wet implementatie EETS-richtlijn is van overeenkomstige toepassing op de hoofddienstaanbieder voor zover een dienstverleningsovereenkomst is opgeschort.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Artikel 20, eerste lid, van de Wet implementatie EETS-richtlijn is van overeenkomstige toepassing op de betaling van het bedrag door de houder aan de hoofddienstaanbieder.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8e</nr>
+                    <titel>(relatie Onze Minister en dienstaanbieder)</titel>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Als een dienstverleningsovereenkomst is gesloten, beëindigd, opgeschort of de opschorting is beëindigd, geeft de dienstaanbieder dat onmiddellijk door aan Onze Minister. Artikel 2, vierde lid, van Uitvoeringsverordening (EU) 2020/204 is van overeenkomstige toepassing op de gegevensverstrekking door de ETS-aanbieder respectievelijk de hoofddienstaanbieder aan Onze Minister.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Onze Minister geeft voor kentekens waarvoor een dienstverleningsovereenkomst is gesloten, dagelijks via elektronische weg aan de dienstaanbieder door hoe vaak een passage over een wegvak als bedoeld in artikel 2, tweede lid, heeft plaatsgevonden. Als er meerdere dienstverleningsovereenkomsten voor hetzelfde kenteken zijn gesloten, wordt uitgegaan van de laatste in werking getreden overeenkomst.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>De dienstaanbieder betaalt het door de houder verschuldigde toltarief aan Onze Minister binnen een bij ministeriële regeling gestelde termijn nadat de gegevens, bedoeld in het tweede lid, door Onze Minister zijn doorgegeven aan de dienstaanbieder.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8f</nr>
+                    <titel>(invordering via privaatrecht)</titel>
+                  </kop>
+                  <al>Op de betalingsverplichting, bedoeld in de artikelen 8b, eerste lid, en 8e, derde lid, zijn de artikelen 4:88, tweede en derde lid, 4:94, 4:94a en de afdelingen 4.4.2, 4.4.3 en 4.4.4 van de Algemene wet bestuursrecht niet van toepassing.</al>
+                </artikel>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">I</lidnr>
+            <wat>Na artikel 8f (nieuw) wordt een paragraafopschrift ingevoegd, luidende:</wat>
+            <wijziging>
+              <wijzig-divisie soort="paragraaf" opmaak="default">
+                <kop kopopmaak="cur">
+                  <label>§</label>
+                  <nr status="officieel">2.2.3.</nr>
+                  <titel>Kwijtschelden toltarief</titel>
+                </kop>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">J</lidnr>
+            <wat>Artikel 9 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid, aanhef, wordt na «en» ingevoegd «, indien paragraaf 2.2.1 van toepassing is,» en wordt na «artikel 4:113, eerste lid, van de Algemene wet bestuursrecht» ingevoegd «kunnen al dan niet gedeeltelijk».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Aan het eerste lid wordt, onder het vervallen van «of» aan het slot van onderdeel a en het vervangen van «motorrijtuig.» door «motorrijtuig; of» in onderdeel b, een onderdeel ingevoegd luidende:</wat>
+              <artikeltekst>
+                <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                  <li>
+                    <li.nr>c.</li.nr>
+                    <al>aannemelijk maakt dat het voertuig ten tijde van de registratie het wegvak als bedoeld in artikel 2, tweede lid, onder a, niet heeft gepasseerd, sprake is van een onjuiste hoogte van het toltarief als gevolg van de differentiatie als bedoeld in artikel 5, derde lid, of het om een andere reden evident is dat de aanmaning onterecht is verzonden.</al>
+                  </li>
+                </lijst>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In het tweede lid wordt de laatste zin vervangen door «Paragraaf 2.2 en Hoofdstuk 3 zijn van overeenkomstige toepassing.».</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">K</lidnr>
+            <wat>Artikel 10 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het opschrift komt te luiden:</wat>
+              <artikelkop>
+                <label>Artikel</label>
+                <nr status="officieel">10</nr>
+                <titel>(verwerking persoonsgegevens door Onze Minister)</titel>
+              </artikelkop>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Het eerste lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Onze Minister is verwerkingsverantwoordelijke voor de verwerking van de bij of krachtens algemene maatregel van bestuur te bepalen persoonsgegevens die gebruikt worden voor de inning van het toltarief, de controle op tijdige betaling daarvan en de handhaving.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In het tweede lid wordt «bij of krachtens algemene maatregel van bestuur te bepalen gegevens van» vervangen door «de persoonsgegevens, bedoeld in het eerste lid, die samenhangen met de».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">4.</nr>
+              <wat>Het derde lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Als het toltarief niet of niet geheel binnen de termijn, bedoeld in artikel 7b, eerste lid, is betaald, is Onze Minister bevoegd de gegevens, bedoeld in het eerste lid, verder te verwerken door deze te koppelen aan de naam, het adres en de woonplaats van de houder.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">5.</nr>
+              <wat>Het vierde lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>Onze Minister bewaart de persoonsgegevens, bedoeld in het eerste lid, en de vastgelegde gegevens, bedoeld in artikel 4a, eerste lid:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>niet langer dan veertien maanden, voor zover uit de vergelijking van de vastgelegde gegevens met de informatie, bedoeld in het zesde lid, blijkt dat sprake is van een geldende dienstverleningsovereenkomst; of</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>wanneer geen sprake is van een geldende dienstverleningsovereenkomst;</al>
+                      <lijst type="expliciet" nummerbreedte="3-cijferig" start="1" level="single" nr-sluiting=".">
+                        <li>
+                          <li.nr>1°.</li.nr>
+                          <al>gedurende een termijn van ten hoogste zeven werkdagen na betaling van het toltarief binnen de termijn bedoeld in artikel 7b, eerste lid;</al>
+                        </li>
+                        <li>
+                          <li.nr>2°.</li.nr>
+                          <al>totdat, voor zover van toepassing, het toltarief na aanmaning, bedoeld in artikel 12, tweede lid, is betaald;</al>
+                        </li>
+                        <li>
+                          <li.nr>3°.</li.nr>
+                          <al>voor zover van toepassing, gedurende de termijn waarbinnen een bestuurlijke boete kan worden opgelegd, bedoeld in artikel 5:45 van de Algemene wet bestuursrecht;</al>
+                        </li>
+                        <li>
+                          <li.nr>4°.</li.nr>
+                          <al>totdat, voor zover van toepassing, de bestuurlijke boete, bedoeld in artikel 12, eerste lid, onherroepelijk is en is betaald; of</al>
+                        </li>
+                        <li>
+                          <li.nr>5°.</li.nr>
+                          <al>totdat, voor zover van toepassing, de termijn, bedoeld in artikel 4:104 van de Algemene wet bestuursrecht, is verstreken.</al>
+                        </li>
+                      </lijst>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>wanneer sprake is van verwerking in de testomgeving, bedoeld in artikel 4b, niet langer dan zeven werkdagen na het vastleggen van de gegevens, bedoeld in artikel 4a, eerste lid.</al>
+                    </li>
+                  </lijst>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">6.</nr>
+              <wat>In het vijfde lid wordt na «bedoeld in artikel 6, derde» ingevoegd «of vierde».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">7.</nr>
+              <wat>Onder vernummering van het zesde tot achtste lid worden twee leden ingevoegd, luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">6.</lidnr>
+                  <al>Ten behoeve van het op automatische wijze vaststellen van overtredingen en het opleggen van een boete, is Onze Minister bevoegd de volgende gegevens verder te verwerken:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>de gegevens, bedoeld in artikel 32, eerste lid, onder a, en artikel 33, tweede lid, Wet implementatie EETS-richtlijn;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>de gegevens over de dienstverleningsovereenkomst en de melding, bedoeld in het artikel 8e, eerste lid;</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>de informatie over ontheffingen en vrijstellingen als bedoeld in artikel 6;</al>
+                    </li>
+                    <li>
+                      <li.nr>d.</li.nr>
+                      <al>de vastgelegde gegevens.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">7.</lidnr>
+                  <al>Dit artikel laat overige wettelijk voorgeschreven bewaartermijnen onverlet.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">L</lidnr>
+            <wat>Na artikel 10 worden twee artikelen ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">10a</nr>
+                  <titel>(verwerking persoonsgegevens door de toezichthouder)</titel>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>De toezichthouder is verwerkingsverantwoordelijke voor de verwerking van de bij of krachtens algemene maatregel van bestuur te bepalen persoonsgegevens ten behoeve van het toezicht op de naleving, bedoeld in artikel 15, eerste lid.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>De persoonsgegevens worden bewaard totdat, voor zover van toepassing, een onherroepelijke bestuurlijke boete is betaald.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Dit artikel laat overige wettelijk voorgeschreven bewaartermijnen onverlet.</al>
+                </lid>
+              </artikel>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">10b</nr>
+                  <titel>(verwerking persoonsgegevens door de dienstaanbieder)</titel>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Een dienstaanbieder is de verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens voor:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>de verlening van diensten als bedoeld in artikel 8b, derde lid;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>het sluiten, opschorten of beëindigen van de dienstverleningsovereenkomst, bedoeld in artikel 8e, eerste lid;</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>de gegevens, bedoeld in artikel 8e, tweede lid;</al>
+                    </li>
+                    <li>
+                      <li.nr>d.</li.nr>
+                      <al>de informatie, bedoeld in artikel 10, zesde lid, onderdeel c.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>De dienstaanbieder bewaart de persoonsgegevens niet langer dan nodig is voor het verrichten van de diensten, bedoeld in het eerste lid.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Dit artikel laat overige wettelijk voorgeschreven bewaartermijnen onverlet.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">M</lidnr>
+            <wat>Het opschrift van paragraaf 2.4 komt te luiden:</wat>
+            <wijziging>
+              <wijzig-divisie soort="paragraaf" opmaak="default">
+                <kop kopopmaak="cur">
+                  <label>§</label>
+                  <nr status="officieel">2.4.</nr>
+                  <titel>Mobiliteitsfonds</titel>
+                </kop>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">N</lidnr>
+            <wat>Artikel 11 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het opschrift komt te luiden:</wat>
+              <artikelkop>
+                <label>Artikel</label>
+                <nr status="officieel">11</nr>
+                <titel>(opbrengsten naar Mobiliteitsfonds)</titel>
+              </artikelkop>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het eerste lid wordt «Infrastructuurfonds, bedoeld in artikel 2 van de Wet Infrastructuurfonds» vervangen door «Mobiliteitsfonds, bedoeld in artikel 2, eerste lid, van de Wet Mobiliteitsfonds».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In het tweede lid wordt na «De netto-opbrengsten worden» ingevoegd «, in afwijking van artikel 2, tweede lid, van de Wet Mobiliteitsfonds».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">4.</nr>
+              <wat>In het derde lid wordt «artikel 1, onder g, van de Wet Infrastructuurfonds» vervangen door «artikel 2, eerste lid, onder a, van de Wet Mobiliteitsfonds».</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">O</lidnr>
+            <wat>Artikel 12 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het opschrift komt te luiden:</wat>
+              <artikelkop>
+                <label>Artikel</label>
+                <nr status="officieel">12</nr>
+                <titel>(bestuurlijke boete bij betaling zonder overeenkomst)</titel>
+              </artikelkop>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het eerste lid wordt «artikel 7, tweede lid, onder a,» vervangen door «artikel 7b, eerste lid,» en wordt «in voorkomend geval» vervangen door «indien paragraaf 2.2.1 van toepassing is».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>Het zevende lid vervalt onder vernummering van het achtste en negende lid tot zevende en achtste lid.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">P</lidnr>
+            <wat>Artikel 15 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het opschrift komt te luiden:</wat>
+              <artikelkop>
+                <label>Artikel</label>
+                <nr status="officieel">15</nr>
+                <titel>(het toezicht op de naleving)</titel>
+              </artikelkop>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het eerste lid wordt «artikel 7, eerste en tweede lid, onder a,» vervangen door «artikel 7, eerste lid, en 7b, eerste lid,».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In het vierde lid, onder b, wordt «de toltarief, bedoeld in artikel 7, tweede lid, onder a,» vervangen door «het toltarief, bedoeld in artikel 7b, eerste lid,».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">4.</nr>
+              <wat>Het zesde lid wordt als volgt gewijzigd:</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">a.</nr>
+              <wat>«De aangewezen personen, bedoeld in het eerste lid, zijn bevoegd om in het geval, bedoeld in het vierde lid, bij wijze van voorlopige maatregel het motorrijtuig naar een door hen aangewezen plaats» wordt vervangen door «Onze Minister is bevoegd om in het geval, bedoeld in het vierde lid, of in het geval dat de houder geregistreerd staat voor het niet voldoen van een hem eerder opgelegde, onherroepelijke bestuurlijke boete voor een overtreding als bedoeld in artikel 12, eerste lid, bij wijze van voorlopige maatregel het motorrijtuig naar een door Onze Minister aangewezen plaats»;</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">b.</nr>
+              <wat>«Zij kunnen» wordt vervangen door «Onze Minister kan».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">5.</nr>
+              <wat>In het achtste lid wordt «bevoegdheid om tegen de beschikking van de toezichthouder» vervangen door «mogelijkheid om tegen de opgelegde boete, die is bekendgemaakt overeenkomstig het vierde lid,».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">6.</nr>
+              <wat>In het negende lid wordt «de aangewezen persoon, bedoeld in het eerste lid,» vervangen door «Onze Minister».</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Q</lidnr>
+            <wat>In artikel 18 wordt na «het toltarief» ingevoegd «, bedoeld in artikel 7, en voor zover van toepassing de aanmaningskosten, bedoeld in artikel 8».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">R</lidnr>
+            <wat>In de artikelen 8, eerste, tweede en derde lid, 10, derde en vijfde lid, 12, eerste, vierde en vijfde lid, 14, 15, vierde lid, onder b, 16, tweede lid, onder b, wordt «de verschuldigde van het toltarief, bedoeld in artikel 7, eerste lid» telkens vervangen door «de houder».</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">II</nr>
+            <titel>(WIJZIGING ALGEMENE WET BESTUURSRECHT)</titel>
+          </kop>
+          <wat type="wijziging">In artikel 1 van bijlage 2 bij de Algemene wet bestuursrecht komt de zinsnede met betrekking tot de Wet tijdelijke tolheffing Blankenburgverbinding en ViA15 te luiden:</wat>
+          <wijziging>
+            <artikeltekst>
+              <al>Wet tijdelijke tolheffing Blankenburgverbinding en ViA15: de artikelen 4, eerste lid, 8b, eerste lid, 9, eerste lid, en 16, eerste lid.</al>
+            </artikeltekst>
+          </wijziging>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">III</nr>
+            <titel>(INWERKINGTREDING EN VERVALLEN)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1.</lidnr>
+            <al>De artikelen van deze wet treden in werking op een bij Koninklijk Besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2.</lidnr>
+            <al>Het in artikel I, onderdeel C, nieuw ingevoegde artikel 4b van de Wet tijdelijke tolheffing Blankenburgverbinding en ViA15 en de op dat laatstgenoemde artikel te baseren ministeriële regeling, alsmede het in artikel I, onderdeel K, ingevoegde artikel 10, vierde lid, onderdeel c, van de Wet tijdelijke tolheffing Blankenburgverbinding en ViA15 vervallen twee jaar na het tijdstip van inwerkingtreding van artikel I, onderdeel C.</al>
+          </lid>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+        </slotformulering>
+        <histnoot type="parlementair">
+          <al>Kamerstuk <dossierref dossier="36137">36 137</dossierref></al>
+        </histnoot>
+        <gegeven>
+          <label>Gegeven te </label>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2023-04-12">12 april 2023</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van Infrastructuur en Waterstaat,</functie>
+          <naam>
+            <voornaam>M.G.J.</voornaam>
+            <achternaam>Harbers</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2023-05-15">Uitgegeven de <nadruk type="cur">vijftiende</nadruk> mei 2023</datum>
+          <ondertekening>
+            <functie>De Minister van Justitie en Veiligheid,</functie>
+            <naam>
+              <voornaam>D.</voornaam>
+              <achternaam>Yeşilgöz-Zegerius</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

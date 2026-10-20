@@ -1,0 +1,32 @@
+[
+  {
+    "ecli": "ECLI:NL:GHSHE:2017:5464",
+    "local_path_checked": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/ghshe/ecli-nl-ghshe-2017-5464.md",
+    "local_available": false,
+    "official_body_path": "sources/author-4-111-130/ECLI-NL-GHSHE-2017-5464.txt",
+    "disposition": "No matching local corpus file; official full text retrieved and read directly. No local identity claimed."
+  },
+  {
+    "ecli": "ECLI:NL:RBDHA:2025:2646",
+    "local_path_checked": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rbdha/ecli-nl-rbdha-2025-2646.md",
+    "local_available": false,
+    "official_body_path": "sources/author-4-111-130/ECLI-NL-RBDHA-2025-2646.txt",
+    "disposition": "No matching local corpus file; official full text retrieved and read directly. No local identity claimed."
+  },
+  {
+    "ecli": "ECLI:NL:RBMNE:2024:6535",
+    "local_path_checked": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rbmne/ecli-nl-rbmne-2024-6535.md",
+    "local_available": false,
+    "official_body_path": "sources/author-4-111-130/ECLI-NL-RBMNE-2024-6535.txt",
+    "disposition": "No matching local corpus file; official full text retrieved and read directly. No local identity claimed."
+  },
+  {
+    "ecli": "ECLI:NL:CBB:2026:101",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/cbb/ecli-nl-cbb-2026-101.md",
+    "local_sha256": "7a0895ab82189a46c39981db027dba52f8e527a949a1655dc225a323a493633b",
+    "official_body_path": "sources/author-4-111-130/ECLI-NL-CBB-2026-101.txt",
+    "full_body_whitespace_equal": false,
+    "local_body_contained_in_official": true,
+    "disposition": "Entire local body compared; official XML remains leading. Differences are not reported as identity."
+  }
+]
