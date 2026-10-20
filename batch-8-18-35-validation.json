@@ -1,12 +1,31 @@
 {
-  "checked_at": "2026-10-20T18:39:30.437073+00:00",
+  "checked_at": "2026-10-20T18:40:24.230527+00:00",
   "bounded_author_technical_ok": true,
   "authored_units": 20,
   "preserved_prior_commentaries": 360,
   "whole_book_complete": false,
   "global_missing_commentaries": 208,
-  "strict_validator": "Execution after output checkpoint commit; final result appended separately.",
+  "strict_validator": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 748322,
+    "errors": [
+      "krátký/chybějící komentář u 208 jednotek: ['art-8:36(0<400)', 'art-8:36a(0<400)', 'art-8:36b(0<400)', 'art-8:36c--digitaal(0<400)', 'art-8:36c--overig(0<400)', 'art-8:36d(0<400)', 'art-8:36e(0<400)', 'art-8:36ea(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
   "source_text_agreement": 1.0,
   "independent_coverage": "coverage-evidence.json",
-  "independent_review": false
+  "independent_review": false,
+  "strict_exit_code": 1,
+  "only_global_failure": "208 ontbrekende commentaren buiten de twintig toegewezen ids.",
+  "output_clean_at_strict_check": true,
+  "technical_audit": "technical-audit.json",
+  "completeness": "sources/author-8-18-35/coverage-recheck.json",
+  "exact_repeated_paragraphs": 0,
+  "exact_repeated_long_sentences": 0,
+  "broken_local_links": 0,
+  "local_links_checked": 1208
 }
