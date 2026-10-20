@@ -660,9 +660,9 @@
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 263880,
+      "commentary_chars": 282272,
       "errors": [
-        "krátký/chybějící komentář u 415 jednotek: ['art-4:85(0<400)', 'art-4:86(0<400)', 'art-4:87(0<400)', 'art-4:88(0<400)', 'art-4:89(0<400)', 'art-4:90(0<400)', 'art-4:91(0<400)', 'art-4:92(0<400)']"
+        "krátký/chybějící komentář u 408 jednotek: ['art-4:92(0<400)', 'art-4:93(0<400)', 'art-4:94(0<400)', 'art-4:94a(0<400)', 'art-4:95(0<400)', 'art-4:96(0<400)', 'art-4:97(0<120)', 'art-4:98(0<400)']"
       ],
       "warnings": [],
       "ok": false
@@ -673,7 +673,8 @@
     "bounded_review_passed": true,
     "scoped_review_complete": true,
     "scoped_technical_ok": true,
-    "whole_book_complete": false
+    "whole_book_complete": false,
+    "assigned_batch_passed": true
   },
   "remaining_limitations": [
     "408 commentaareenheden nog ongeschreven.",
