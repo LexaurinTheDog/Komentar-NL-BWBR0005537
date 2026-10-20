@@ -1,0 +1,57 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537",
+    "accessed_at": "2026-10-20T22:39:42.277988+00:00",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+    "content_type": "text/html;charset=UTF-8",
+    "path": "sources/review-027/current.html",
+    "bytes": 4204181,
+    "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+    "accessed_at": "2026-10-20T22:39:44.883862+00:00",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+    "content_type": "text/html;charset=UTF-8",
+    "path": "sources/review-027/history.html",
+    "bytes": 1762757,
+    "sha256": "052d67016189f8d912b85c693090d80966aef0c174fab2b94eabcee843f9c4b2",
+    "accepted_format": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+    "accessed_at": "2026-10-20T22:39:45.909995+00:00",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+    "content_type": "application/xml",
+    "path": "sources/review-027/selected.xml",
+    "bytes": 2622149,
+    "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "xml_root": "toestand",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2025:5425",
+    "accessed_at": "2026-10-20T22:39:46.628859+00:00",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2025:5425",
+    "content_type": "application/xml",
+    "path": "sources/review-027/ECLI-NL-RVS-2025-5425.xml",
+    "bytes": 24503,
+    "sha256": "5874d91d4f5d6035ce503a35ab9b9b99e9dd783122f8bb57926632cb14febba3",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0045754/",
+    "final_url": "https://wetten.overheid.nl/BWBR0045754/2026-08-15",
+    "accessed_at": "2026-10-20T22:40:04.014721+00:00",
+    "http_status": 200,
+    "sha256": "ed840ee3396d41e45a21b53e8cd79464d55a52d3b460962a8f86a85a5052ea7b",
+    "path": "sources/review-027/woo-current.html",
+    "accepted_format": true
+  }
+]

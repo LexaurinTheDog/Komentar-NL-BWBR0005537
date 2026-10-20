@@ -1,0 +1,25 @@
+{
+  "ecli": "ECLI:NL:RVS:2025:5425",
+  "court": "Afdeling bestuursrechtspraak Raad van State",
+  "date": "2025-11-12",
+  "docket": "202306965/1/R3",
+  "full_text_read": true,
+  "paragraphs": [
+    "5",
+    "5.1",
+    "5.2",
+    "5.3",
+    "8",
+    "dictum"
+  ],
+  "supported_ids": [
+    "art-10:3"
+  ],
+  "official_snapshot": "sources/review-027/ECLI-NL-RVS-2025-5425.xml",
+  "sha256": "5874d91d4f5d6035ce503a35ab9b9b99e9dd783122f8bb57926632cb14febba3",
+  "holding": "5.3: twee verschillende bevoegde teamleiders namen primair besluit en beslissing op bezwaar; geen strijd10:3(3). Dictum bevestigt aangevallen uitspraak met verbetering gronden.",
+  "limits": "5 geeft collegebetoog weer;5.1 rechtbankstandpunt.5.3 bevat kennelijke afwijkende datum20juni tegenover30juni in procesverloop, niet overgenomen. Wabo-overgangsrecht niet als huidig materieel recht gebruikt. Geen algemene vrijstelling functiescheiding of boetezaken.",
+  "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2025-5425.md",
+  "local_corpus_sha256": "5f1b16ce8efdf548c22ae0ab83f54cbb5f339624a9420074b72093fa2d1ee79d",
+  "later_treatment_exhaustive": false
+}
