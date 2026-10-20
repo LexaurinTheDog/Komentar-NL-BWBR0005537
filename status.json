@@ -793,7 +793,19 @@
     "reason": "148 ontbrekende commentaren buiten de auteursbatch.",
     "whole_book_complete": false,
     "bounded_author_passed": true,
-    "evidence": "batch-8-55d-70-validation.json"
+    "evidence": "batch-8-55d-70-validation.json",
+    "strict_validator": {
+      "repo": "Komentar-NL-BWBR0005537",
+      "units": 588,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 885150,
+      "errors": [
+        "krátký/chybějící komentář u 148 jednotek: ['art-8:71(0<400)', 'art-8:72(0<400)', 'art-8:72a(0<400)', 'art-8:73(0<120)', 'art-8:73a(0<120)', 'art-8:74(0<400)', 'art-8:75(0<400)', 'art-8:75a(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "strict_validation_file": "strict-validation.json"
   },
   "remaining_limitations": [
     "148 eenheden buiten deze auteursbatch zijn nog ongeschreven.",

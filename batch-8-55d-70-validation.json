@@ -6,5 +6,18 @@
   "whole_book_complete": false,
   "global_missing_commentaries": 148,
   "source_text_agreement": 1.0,
-  "independent_review": false
+  "independent_review": false,
+  "strict_validator": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 885150,
+    "errors": [
+      "krátký/chybějící komentář u 148 jednotek: ['art-8:71(0<400)', 'art-8:72(0<400)', 'art-8:72a(0<400)', 'art-8:73(0<120)', 'art-8:73a(0<120)', 'art-8:74(0<400)', 'art-8:75(0<400)', 'art-8:75a(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "strict_validator_exit_code": 1,
+  "strict_validation_limit": "Only148 unwritten units outside assigned batch; whole-book validation remains false."
 }
