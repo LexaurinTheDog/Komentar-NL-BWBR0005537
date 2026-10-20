@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2019:1476",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2019:1476",
+    "content_type": "application/xml",
+    "path": "sources/review-009/case-2019-1476.xml",
+    "accessed_at": "2026-10-20T15:20:47.991006+00:00",
+    "sha256": "3fbed3d64bb06dd757d14f1262494e422e12b51e6eead71701620705c3cb5aa0",
+    "bytes": 23500,
+    "accepted_format": true,
+    "xml_root": "open-rechtspraak"
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2022:285",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2022:285",
+    "content_type": "application/xml",
+    "path": "sources/review-009/case-2022-285.xml",
+    "accessed_at": "2026-10-20T15:20:48.192254+00:00",
+    "sha256": "51539c998ee4b628a0e119ebfe6a12dc687efa50c9dd5a807bad806193cb8a17",
+    "bytes": 57775,
+    "accepted_format": true,
+    "xml_root": "open-rechtspraak"
+  }
+]

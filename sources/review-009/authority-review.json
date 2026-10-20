@@ -1,0 +1,57 @@
+[
+  {
+    "ecli": "ECLI:NL:CRVB:2026:384",
+    "existing_official_xml": "sources/author-4-85-91/ECLI-NL-CRVB-2026-384.xml",
+    "sha256": "f3beea78b180b86e77f6a2ace9c4bc4ebd32cde82f07a4ea9164bfc9918a7b12",
+    "review": "Full judgment read in bounded review; historical sectoral rules not presented as current law.",
+    "used_at": [
+      "art-4:88"
+    ]
+  },
+  {
+    "ecli": "ECLI:NL:CRVB:2016:3597",
+    "existing_official_xml": "sources/author-4-85-91/ECLI-NL-CRVB-2016-3597.xml",
+    "sha256": "403f403da9f112fa9378c91d8199e820e8fd77b4a32a054f5d548c3c8411c768",
+    "review": "Full judgment read in bounded review; historical sectoral rules not presented as current law.",
+    "used_at": [
+      "art-4:87"
+    ]
+  },
+  {
+    "ecli": "ECLI:NL:GHARL:2017:7881",
+    "existing_official_xml": "sources/author-4-85-91/ECLI-NL-GHARL-2017-7881.xml",
+    "sha256": "4ddaebd5a3326554d769fba5051092f35623518359c07e41a1b29ef18559c5fc",
+    "review": "Full judgment read in bounded review; historical sectoral rules not presented as current law.",
+    "used_at": [
+      "art-4:89"
+    ]
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2019:1476",
+    "xml": "sources/review-009/case-2019-1476.xml",
+    "fully_read": true,
+    "used_at": [
+      "art-4:72"
+    ],
+    "holding_paragraphs": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2022:285",
+    "xml": "sources/review-009/case-2022-285.xml",
+    "fully_read": true,
+    "used_at": [
+      "art-4:84"
+    ],
+    "holding_paragraphs": [
+      "7.11",
+      "8.1",
+      "11.3",
+      "11.4"
+    ]
+  }
+]

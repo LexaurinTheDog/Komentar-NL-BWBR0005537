@@ -1,0 +1,59 @@
+{
+  "searched_at": "2026-10-20T15:23:41.507934+00:00",
+  "web_queries": [
+    "site.uitspraken.rechtspraak.nl \"4:72\" \"egalisatiereserve\"",
+    "site.uitspraken.rechtspraak.nl \"4:78\" \"accountant\"",
+    "site.raadvanstate.nl \"4:84\" \"2016\" \"2840\""
+  ],
+  "discovery": [
+    {
+      "ecli": "ECLI:NL:RBGEL:2018:735",
+      "disposition": "Search result only; not relied on. Official appellate full judgment 2019:1476 read instead. First-instance reasoning on 4:41 lid 1 was expressly rejected in appellate r.o. 8."
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2016:2840",
+      "disposition": "Not independently cited; its treatment in fully read Harderwijk judgment is sufficient for retained proposition."
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2023:1944",
+      "disposition": "Found in search; not read or used."
+    }
+  ],
+  "used": [
+    {
+      "ecli": "ECLI:NL:CRVB:2026:384",
+      "existing_official_xml": "sources/author-4-85-91/ECLI-NL-CRVB-2026-384.xml",
+      "sha256": "f3beea78b180b86e77f6a2ace9c4bc4ebd32cde82f07a4ea9164bfc9918a7b12",
+      "review": "Full judgment read in bounded review; historical sectoral rules not presented as current law.",
+      "used_at": [
+        "art-4:88"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:CRVB:2016:3597",
+      "existing_official_xml": "sources/author-4-85-91/ECLI-NL-CRVB-2016-3597.xml",
+      "sha256": "403f403da9f112fa9378c91d8199e820e8fd77b4a32a054f5d548c3c8411c768",
+      "review": "Full judgment read in bounded review; historical sectoral rules not presented as current law.",
+      "used_at": [
+        "art-4:87"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:GHARL:2017:7881",
+      "existing_official_xml": "sources/author-4-85-91/ECLI-NL-GHARL-2017-7881.xml",
+      "sha256": "4ddaebd5a3326554d769fba5051092f35623518359c07e41a1b29ef18559c5fc",
+      "review": "Full judgment read in bounded review; historical sectoral rules not presented as current law.",
+      "used_at": [
+        "art-4:89"
+      ]
+    },
+    "ECLI:NL:RVS:2019:1476",
+    "ECLI:NL:RVS:2022:285"
+  ],
+  "other_assigned_units": "No separate sufficiently relevant verified full-text authority added to the other fifteen assigned units. This is not a finding that case law is absent.",
+  "limits": [
+    "Selective search and existing-authority verification; no exhaustive citation-history search.",
+    "Firecrawl status checked: zero remaining credits; direct official XML used.",
+    "Search snippets were used for discovery only."
+  ]
+}

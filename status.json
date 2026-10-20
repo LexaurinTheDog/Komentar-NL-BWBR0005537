@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T15:18:19.197211+00:00",
+  "updated_at": "2026-10-20T15:25:19.060536+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -15,8 +15,8 @@
     "verified_at": "2026-10-20T13:47:01.778268+00:00",
     "current_recheck_date": "2026-10-20",
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
-    "review_verified_at": "2026-10-20T15:02:27.877277+00:00",
-    "review_evidence": "sources/review-008/verification.json",
+    "review_verified_at": "2026-10-20T15:20:17.002995+00:00",
+    "review_evidence": "sources/review-009/verification.json",
     "author_batch_verified_at": "2026-10-20T15:18:19.197211+00:00",
     "author_batch_evidence": "sources/author-4-85-91/verification.json"
   },
@@ -644,7 +644,8 @@
       "ECLI:NL:RVS:2025:6333",
       "ECLI:NL:CRVB:2016:3597",
       "ECLI:NL:GHARL:2017:7881",
-      "ECLI:NL:CRVB:2026:384"
+      "ECLI:NL:CRVB:2026:384",
+      "ECLI:NL:RVS:2019:1476"
     ],
     "fetched_not_yet_assessed": [
       "ECLI:NL:CBB:2024:31"
@@ -667,7 +668,7 @@
       "warnings": [],
       "ok": false
     },
-    "independent_review_scope": "Current batch exactly twenty ids in review-result.json; previous 140 preserved separately. Whole-book review incomplete.",
+    "independent_review_scope": "Current batch exactly twenty ids in review-result.json; previous 160 preserved separately. Whole-book review incomplete.",
     "validated_at": "2026-10-20T14:33:04.678262+00:00",
     "evidence": "strict-validation.json",
     "bounded_review_passed": true,
@@ -678,12 +679,13 @@
   },
   "remaining_limitations": [
     "408 commentaareenheden nog ongeschreven.",
-    "160 eenheden in acht batches beoordeeld; 428 eenheden nog zonder tweede inhoudelijke beoordeling.",
-    "Selectieve rechtspraakrecherche: twee officiële uitspraken volledig gelezen; geen uitputtende latere-behandelingscontrole.",
-    "Voor de overige achttien artikelen geen afzonderlijke voldoende relevante volledig geverifieerde uitspraak overgenomen; geen claim dat rechtspraak ontbreekt.",
-    "Historische SOIT en exploitatie-/insolventiecontext zijn geen zelfstandige beschrijving van huidig bijzonder recht.",
-    "Firecrawl had nul resterende credits; directe officiële downloads, webzoekopdrachten en lokale nationale corpora gebruikt.",
-    "153 overige geschreven commentaren behouden zonder inhoudelijke herbeoordeling; lengte- en herhalingschecks bewijzen geen juridische kwaliteit."
+    "180 eenheden in negen batches beoordeeld; 408 eenheden nog zonder tweede inhoudelijke beoordeling.",
+    "Vijf officiële uitspraken volledig gelezen, vier reeds aanwezig en één nieuw toegevoegd; selectie zonder uitputtende citatie- of latere-behandelingscontrole.",
+    "Bij vijftien overige toegewezen artikelen geen afzonderlijke voldoende relevante volledig geverifieerde uitspraak toegevoegd; geen claim dat rechtspraak ontbreekt.",
+    "Historische provinciale, fiscale en socialezekerheidsregels dienen alleen als casuscontext en zijn niet als huidig bijzonder recht overgenomen.",
+    "CRVB 2026:384 is lokaal gevonden maar volledige tekstidentiteit met het corpus is niet bevestigd; de volledige officiële XML is de gebruikte autoriteit. GHARL 2017:7881 niet lokaal gevonden.",
+    "Firecrawl had nul credits; officiële bronnen rechtstreeks opgehaald, met selectieve web- en lokale corpusrecherche.",
+    "160 overige geschreven toelichtingen behouden zonder herbeoordeling; lengte en herhalingschecks bewijzen geen juridische kwaliteit."
   ],
   "preflight": {
     "complete": true,
@@ -710,26 +712,26 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "art-4:52",
-      "art-4:53",
-      "art-4:54",
-      "art-4:55",
-      "art-4:56",
-      "art-4:57",
-      "art-4:58",
-      "art-4:59",
-      "art-4:60",
-      "art-4:61",
-      "art-4:62",
-      "art-4:63",
-      "art-4:64",
-      "art-4:65",
-      "art-4:66",
-      "art-4:67",
-      "art-4:68",
-      "art-4:69",
-      "art-4:70",
-      "art-4:71"
+      "art-4:72",
+      "art-4:73",
+      "art-4:74",
+      "art-4:75",
+      "art-4:76",
+      "art-4:77",
+      "art-4:78",
+      "art-4:79",
+      "art-4:80",
+      "art-4:81",
+      "art-4:82",
+      "art-4:83",
+      "art-4:84",
+      "art-4:85",
+      "art-4:86",
+      "art-4:87",
+      "art-4:88",
+      "art-4:89",
+      "art-4:90",
+      "art-4:91"
     ],
     "evidence": "review-result.json",
     "technical_evidence": "review-technical.json",
@@ -737,7 +739,7 @@
   },
   "cumulative_independent_review": {
     "complete": false,
-    "units_reviewed": 160,
+    "units_reviewed": 180,
     "reviewed_ids": [
       "aanhef",
       "art-1:1",
@@ -898,11 +900,31 @@
       "art-4:68",
       "art-4:69",
       "art-4:70",
-      "art-4:71"
+      "art-4:71",
+      "art-4:72",
+      "art-4:73",
+      "art-4:74",
+      "art-4:75",
+      "art-4:76",
+      "art-4:77",
+      "art-4:78",
+      "art-4:79",
+      "art-4:80",
+      "art-4:81",
+      "art-4:82",
+      "art-4:83",
+      "art-4:84",
+      "art-4:85",
+      "art-4:86",
+      "art-4:87",
+      "art-4:88",
+      "art-4:89",
+      "art-4:90",
+      "art-4:91"
     ],
-    "prior_cumulative_evidence": "sources/review-008/prior-status.json",
-    "prior_batch_evidence": "sources/review-008/prior-review-result.json",
+    "prior_cumulative_evidence": "sources/review-009/prior-status.json",
+    "prior_batch_evidence": "sources/review-009/prior-review-result.json",
     "current_batch_evidence": "review-result.json",
-    "remaining_units": 428
+    "remaining_units": 408
   }
 }
