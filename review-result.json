@@ -188,5 +188,9 @@
   "source_preflight": "sources/review-018/preflight-result.json",
   "technical_support": "review-technical.json",
   "case_law_evidence": "sources/review-018/case-search-log.json",
-  "whole_book_complete": false
+  "whole_book_complete": false,
+  "bounded_technical_validation_passed": true,
+  "validation_evidence": "batch-review-018-validation.json",
+  "strict_validation": "strict-validation.json",
+  "global_failure_outside_assigned_scope": true
 }
