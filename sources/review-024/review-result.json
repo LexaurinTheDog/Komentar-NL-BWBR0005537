@@ -1,0 +1,61 @@
+{
+  "complete": true,
+  "kind": "bounded_second_pass",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "art-8:86",
+    "art-8:87",
+    "art-8:88",
+    "art-8:89",
+    "art-8:90",
+    "art-8:91",
+    "art-8:92",
+    "art-8:93",
+    "art-8:94",
+    "art-8:95",
+    "art-8:104",
+    "art-8:105",
+    "art-8:106",
+    "art-8:107",
+    "art-8:108",
+    "art-8:109",
+    "art-8:110",
+    "art-8:111",
+    "art-8:112",
+    "art-8:113"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "art-8:88",
+      "resolved": true,
+      "correction": "Zelfstandige grondslag voor vertragingsschade verduidelijkt."
+    },
+    {
+      "id": "art-8:89",
+      "resolved": true,
+      "correction": "Grens betreft gevraagde vergoeding; gedeeltelijke verzoeken zorgvuldig afbakenen."
+    },
+    {
+      "id": "art-8:104",
+      "resolved": true,
+      "correction": "Uitsluiting van terugwijzing volgens8:54a(2) expliciet onderscheiden van verzet."
+    },
+    {
+      "id": "art-8:111",
+      "resolved": true,
+      "correction": "Gevolgen van drie vaststaande niet-ontvankelijkheidsgronden verduidelijkt."
+    }
+  ],
+  "limitations": [
+    "Beperkte tweede beoordeling van precies twintig artikelen; geen boekvoltooiing.",
+    "108 eenheden buiten deze batch nog zonder commentaar.",
+    "Selectieve rechtspraak; geen uitputtende controle van latere behandeling.",
+    "Geen externe professionele goedkeuring."
+  ],
+  "whole_book_complete": false,
+  "source_preflight": "sources/review-024/preflight-result.json",
+  "unit_evidence": "sources/review-024/unit-review.json",
+  "case_evidence": "sources/review-024/case-review.json",
+  "reviewed_at": "2026-10-20T22:13:15.939892+00:00"
+}

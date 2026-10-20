@@ -305,3 +305,10 @@ Reviewbatch 023 controleerde uitsluitend de twintig artikelen 8:71–8:85 en ver
 ## Auteurscheckpoint 8:86–8:113
 
 Voor artikelen 8:86–8:95 en 8:104–8:113 zijn de [officiële versiecontrole](sources/author-8-86-113/preflight-result.json), [HTTP-resultaten en hashes](sources/author-8-86-113/verification.json), [onafhankelijk uit XML afgeleide volledigheid](sources/author-8-86-113/coverage-recheck.json) en [wijzigingsvergelijking](sources/author-8-86-113/change-map.json) vastgelegd. De geselecteerde rechtspraak is volledig gelezen en met het nationale corpus vergeleken; de [casuskaarten](case-cards/author-8-86-113.md) begrenzen het gebruik. De [selectielog](sources/author-8-86-113/case-search-log.json) pretendeert geen uitputtend onderzoek.
+
+
+## Tweede beoordeling batch 024 — artikelen 8:86–8:95 en 8:104–8:113
+
+Alle twintig toegewezen artikelen zijn tegen de opnieuw opgehaalde officiële XML en hun volledige toelichting gelezen. Vier toelichtingen zijn aangescherpt: vertragingsschade (8:88), de grens van het gevraagde bedrag (8:89), de afzonderlijke terugwijzing van 8:54a (8:104) en de uitzonderingen bij niet-ontvankelijkheid van het principale hoger beroep (8:111). De overige zestien toelichtingen zijn behouden. De twee aangehaalde uitspraken zijn volledig opnieuw gelezen en met het nationale primaire corpus vergeleken. De geldende toestand blijft 15 augustus 2026; de volgende vermelde toestand begint 1 januari 2027. Alle 588 bronidentifiers, aanhef, slot en drie bijlagen zijn structureel opnieuw gecontroleerd.
+
+Zie [exact resultaat](review-result.json), [beoordeling per artikel](sources/review-024/unit-review.json), [bronpreflight](sources/review-024/preflight-result.json), [HTTP-bewijzen en hashes](sources/review-024/verification.json) en [rechtspraakcontrole](sources/review-024/case-review.json). Dit is een begrensde onafhankelijke tweede procesbeoordeling, geen externe professionele goedkeuring. Het boek blijft onvoltooid: 480 van 588 eenheden hebben commentaar; 108 ontbreken buiten deze opdracht. Selectieve rechtspraak is geen uitputtende dekking.

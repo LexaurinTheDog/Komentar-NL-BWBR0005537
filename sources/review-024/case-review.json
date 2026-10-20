@@ -1,0 +1,42 @@
+{
+  "cases": [
+    {
+      "ecli": "ECLI:NL:RVS:2021:2023",
+      "official_xml": "sources/review-024/ECLI-NL-RVS-2021-2023.xml",
+      "sha256": "fbcdc72d8f2580481f2fdb80427f54c15bf43580c6c6d488cf1e28454702c055",
+      "full_text_read": true,
+      "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2021-2023.md",
+      "local_sha256": "ecea1f5f4e2b002e171e1ff180ccf185e5deee607bd2457087a08353a30af1e8",
+      "local_primary_xml_identical": true,
+      "supported_ids": [
+        "art-8:88",
+        "art-8:94"
+      ],
+      "paragraphs": [
+        "67–70",
+        "75",
+        "102–104"
+      ],
+      "limits": "Selective procedural holdings only; historical immigration and planning regimes not adopted as present substantive law."
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2020:2242",
+      "official_xml": "sources/review-024/ECLI-NL-RVS-2020-2242.xml",
+      "sha256": "b0e5dd987a59b264d1b41f8b5ae10307f86048d65fb9248817edc2396c02d13e",
+      "full_text_read": true,
+      "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2020-2242.md",
+      "local_sha256": "578090987777664c66859f0dd41ced6144edd818d5c54010d9a26282bbb79cde",
+      "local_primary_xml_identical": true,
+      "supported_ids": [
+        "art-8:110"
+      ],
+      "paragraphs": [
+        "6–7"
+      ],
+      "limits": "Selective procedural holdings only; historical immigration and planning regimes not adopted as present substantive law."
+    }
+  ],
+  "method": "Fresh retrieval and full-text reading of both cited judgments, compared with local national primary XML; no broad new case search.",
+  "exhaustive": false,
+  "other_units": "No additional sufficiently relevant verified case selected; no assertion that no relevant case exists."
+}

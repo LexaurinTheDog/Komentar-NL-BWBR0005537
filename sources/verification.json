@@ -8340,5 +8340,55 @@
       }
     ],
     "preflight": "sources/author-8-86-113/preflight-result.json"
+  },
+  "review_024": {
+    "requests": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0005537",
+        "accessed_at": "2026-10-20T22:11:42.131898+00:00",
+        "http_status": 200,
+        "path": "sources/review-024/current.html",
+        "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+        "bytes": 4204181,
+        "accepted_format": true
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+        "accessed_at": "2026-10-20T22:11:42.132200+00:00",
+        "http_status": 200,
+        "path": "sources/review-024/history.html",
+        "sha256": "d87833d78eebf34c2d8d17c9729ee5b7cb6bd88fbc262130e5a4b5d6e1c998e1",
+        "bytes": 1755568,
+        "accepted_format": true
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+        "accessed_at": "2026-10-20T22:11:42.132270+00:00",
+        "http_status": 200,
+        "path": "sources/review-024/selected.xml",
+        "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+        "bytes": 2622149,
+        "accepted_format": true
+      },
+      {
+        "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2021:2023",
+        "accessed_at": "2026-10-20T22:11:42.132614+00:00",
+        "http_status": 200,
+        "path": "sources/review-024/ECLI-NL-RVS-2021-2023.xml",
+        "sha256": "fbcdc72d8f2580481f2fdb80427f54c15bf43580c6c6d488cf1e28454702c055",
+        "bytes": 55804,
+        "accepted_format": true
+      },
+      {
+        "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2020:2242",
+        "accessed_at": "2026-10-20T22:11:42.355684+00:00",
+        "http_status": 200,
+        "path": "sources/review-024/ECLI-NL-RVS-2020-2242.xml",
+        "sha256": "b0e5dd987a59b264d1b41f8b5ae10307f86048d65fb9248817edc2396c02d13e",
+        "bytes": 30209,
+        "accepted_format": true
+      }
+    ],
+    "preflight": "sources/review-024/preflight-result.json"
   }
 }

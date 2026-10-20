@@ -124,3 +124,10 @@ Reviewbatch 023 controleerde uitsluitend de twintig artikelen 8:71–8:85 en ver
 ## Auteurscheckpoint 8:86–8:113
 
 Twintig toelichtingen toegevoegd: artikelen 8:86–8:95 en 8:104–8:113. Er zijn nu 480 van 588 eenheden geschreven; 108 buiten deze batch ontbreken. Geen voltooiing van het gehele boek. De geldende bron van 15 augustus 2026 is opnieuw officieel geverifieerd, met behoud van canonieke tekst en eerdere auteursarbeid. Deze batch wacht op onafhankelijke tweede beoordeling.
+
+
+## Tweede beoordeling batch 024 — artikelen 8:86–8:95 en 8:104–8:113
+
+Alle twintig toegewezen artikelen zijn tegen de opnieuw opgehaalde officiële XML en hun volledige toelichting gelezen. Vier toelichtingen zijn aangescherpt: vertragingsschade (8:88), de grens van het gevraagde bedrag (8:89), de afzonderlijke terugwijzing van 8:54a (8:104) en de uitzonderingen bij niet-ontvankelijkheid van het principale hoger beroep (8:111). De overige zestien toelichtingen zijn behouden. De twee aangehaalde uitspraken zijn volledig opnieuw gelezen en met het nationale primaire corpus vergeleken. De geldende toestand blijft 15 augustus 2026; de volgende vermelde toestand begint 1 januari 2027. Alle 588 bronidentifiers, aanhef, slot en drie bijlagen zijn structureel opnieuw gecontroleerd.
+
+Zie [exact resultaat](review-result.json), [beoordeling per artikel](sources/review-024/unit-review.json), [bronpreflight](sources/review-024/preflight-result.json), [HTTP-bewijzen en hashes](sources/review-024/verification.json) en [rechtspraakcontrole](sources/review-024/case-review.json). Dit is een begrensde onafhankelijke tweede procesbeoordeling, geen externe professionele goedkeuring. Het boek blijft onvoltooid: 480 van 588 eenheden hebben commentaar; 108 ontbreken buiten deze opdracht. Selectieve rechtspraak is geen uitputtende dekking.
