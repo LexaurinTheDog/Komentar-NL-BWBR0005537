@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T18:46:35.474900+00:00",
+  "checked_at": "2026-10-20T18:47:09.935302+00:00",
   "bounded_review_complete": true,
   "reviewed_ids": [
     "art-8:18",
@@ -36,15 +36,14 @@
     "verbatim_ratio": 1.0,
     "commentary_chars": 749793,
     "errors": [
-      "krátký/chybějící komentář u 208 jednotek: ['art-8:36(0<400)', 'art-8:36a(0<400)', 'art-8:36b(0<400)', 'art-8:36c--digitaal(0<400)', 'art-8:36c--overig(0<400)', 'art-8:36d(0<400)', 'art-8:36e(0<400)', 'art-8:36ea(0<400)']",
-      "necommitnuté změny v repu"
+      "krátký/chybějící komentář u 208 jednotek: ['art-8:36(0<400)', 'art-8:36a(0<400)', 'art-8:36b(0<400)', 'art-8:36c--digitaal(0<400)', 'art-8:36c--overig(0<400)', 'art-8:36d(0<400)', 'art-8:36e(0<400)', 'art-8:36ea(0<400)']"
     ],
     "warnings": [],
     "ok": false
   },
   "whole_book_complete": false,
   "global_failure_outside_assigned_scope": true,
-  "output_clean_at_strict_check": false,
+  "output_clean_at_strict_check": true,
   "limitations": [
     "Shared build and strict validator remain blocked by 208 unwritten units outside scope.",
     "Technical checks do not certify legal quality."

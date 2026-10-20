@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T18:46:35.474900+00:00",
+  "updated_at": "2026-10-20T18:47:09.935302+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -764,15 +764,14 @@
       "verbatim_ratio": 1.0,
       "commentary_chars": 749793,
       "errors": [
-        "krátký/chybějící komentář u 208 jednotek: ['art-8:36(0<400)', 'art-8:36a(0<400)', 'art-8:36b(0<400)', 'art-8:36c--digitaal(0<400)', 'art-8:36c--overig(0<400)', 'art-8:36d(0<400)', 'art-8:36e(0<400)', 'art-8:36ea(0<400)']",
-        "necommitnuté změny v repu"
+        "krátký/chybějící komentář u 208 jednotek: ['art-8:36(0<400)', 'art-8:36a(0<400)', 'art-8:36b(0<400)', 'art-8:36c--digitaal(0<400)', 'art-8:36c--overig(0<400)', 'art-8:36d(0<400)', 'art-8:36e(0<400)', 'art-8:36ea(0<400)']"
       ],
       "warnings": [],
       "ok": false
     },
-    "validated_at": "2026-10-20T18:46:35.474900+00:00",
+    "validated_at": "2026-10-20T18:47:09.935302+00:00",
     "source_text_agreement": 1.0,
-    "output_clean_at_strict_check": false,
+    "output_clean_at_strict_check": true,
     "independent_review_scope": "Exactly twenty ids in review-result.json; earlier 360 commentaries preserved. Whole book incomplete.",
     "assigned_batch_passed": true
   },
@@ -790,7 +789,7 @@
     "scope": "Source and parser only; manuscript incomplete."
   },
   "technical_audit": {
-    "checked_at": "2026-10-20T18:46:35.689167+00:00",
+    "checked_at": "2026-10-20T18:47:10.136388+00:00",
     "independent_review": false,
     "official_text_units_compared": 588,
     "official_xml_text_errors": [],
