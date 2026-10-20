@@ -7933,5 +7933,115 @@
       "sources/review-021/eu-article15-recheck.json"
     ],
     "eu_http_status": "Browser extraction does not expose origin HTTP result; original direct HTTP202 responses remain rejected."
+  },
+  "author_8_55d_70": {
+    "verified_at": "2026-10-20T21:47:59.544676+00:00",
+    "requests": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0005537",
+        "accessed_at": "2026-10-20T21:43:46.814774+00:00",
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+        "content_type": "text/html;charset=UTF-8",
+        "path": "sources/author-8-55d-70/current.html",
+        "bytes": 4204181,
+        "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+        "accepted_format": true
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+        "accessed_at": "2026-10-20T21:43:49.836951+00:00",
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+        "content_type": "text/html;charset=UTF-8",
+        "path": "sources/author-8-55d-70/history.html",
+        "bytes": 1762757,
+        "sha256": "daf1c3d0f53e55fc81ea2102342a376bc2cd8965bdc4371c5dae062d72c55559",
+        "accepted_format": true
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+        "accessed_at": "2026-10-20T21:43:50.657854+00:00",
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+        "content_type": "application/xml",
+        "path": "sources/author-8-55d-70/selected.xml",
+        "bytes": 2622149,
+        "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+        "xml_root": "toestand",
+        "accepted_format": true
+      },
+      {
+        "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2023:606",
+        "accessed_at": "2026-10-20T21:43:51.462813+00:00",
+        "http_status": 200,
+        "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2023:606",
+        "content_type": "application/xml",
+        "path": "sources/author-8-55d-70/ECLI-NL-RVS-2023-606.xml",
+        "bytes": 42768,
+        "sha256": "7f6815e94c830fca15391a172a21fd1aa2bf25ce8c63d9cd947b73b1eeafda12",
+        "xml_root": "open-rechtspraak",
+        "accepted_format": true
+      },
+      {
+        "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CRVB:2024:1889",
+        "accessed_at": "2026-10-20T21:43:51.878029+00:00",
+        "http_status": 200,
+        "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CRVB:2024:1889",
+        "content_type": "application/xml",
+        "path": "sources/author-8-55d-70/ECLI-NL-CRVB-2024-1889.xml",
+        "bytes": 37867,
+        "sha256": "b32c09ecacf9a7503ec7d44d59faad77db7c3792494f4f403c930e1c1e2b672f",
+        "xml_root": "open-rechtspraak",
+        "accepted_format": true
+      },
+      {
+        "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2025:2337",
+        "accessed_at": "2026-10-20T21:43:57.222019+00:00",
+        "http_status": 200,
+        "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2025:2337",
+        "content_type": "application/xml",
+        "path": "sources/author-8-55d-70/ECLI-NL-RVS-2025-2337.xml",
+        "bytes": 39231,
+        "sha256": "066cb124e2cee0401b741615c3800793fd89de1b13476de68c0f19bec0c37ab2",
+        "xml_root": "open-rechtspraak",
+        "accepted_format": true
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001827",
+        "accessed_at": "2026-10-20T21:48:06.712613+00:00",
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001827/2026-07-14",
+        "content_type": "text/html;charset=UTF-8",
+        "path": "sources/author-8-55d-70/rv-current.html",
+        "bytes": 9181258,
+        "sha256": "c7e252556560bf60b864821d2dc54aa4fd6ee05c784ccd10ae86407257554a7d",
+        "accepted_format": true
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001827/2026-07-14/0/informatie",
+        "accessed_at": "2026-10-20T21:48:11.238265+00:00",
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001827/2026-07-14/0/informatie",
+        "content_type": "text/html;charset=UTF-8",
+        "path": "sources/author-8-55d-70/rv-history.html",
+        "bytes": 1519379,
+        "sha256": "d0c9643103594834d08707e55f1cff2841fd969761a8f221cda0f7a0390bffc6",
+        "accepted_format": true
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001827/2026-07-14_0/xml/BWBR0001827_2026-07-14_0.xml",
+        "accessed_at": "2026-10-20T21:48:12.019072+00:00",
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001827/2026-07-14_0/xml/BWBR0001827_2026-07-14_0.xml",
+        "content_type": "application/xml",
+        "path": "sources/author-8-55d-70/rv.xml",
+        "bytes": 5070581,
+        "sha256": "4dc98d0268b4cddcb60c9a4a2c0b63370ee722469068bbc3277258d6d6dcd8db",
+        "xml_root": "toestand",
+        "accepted_format": true
+      }
+    ],
+    "preflight": "sources/author-8-55d-70/preflight-result.json"
   }
 }

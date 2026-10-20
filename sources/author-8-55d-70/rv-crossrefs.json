@@ -1,0 +1,14 @@
+{
+  "url": "https://wetten.overheid.nl/BWBR0001827/2026-07-14",
+  "effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 14-07-2026 t/m heden.",
+  "source_path": "sources/author-8-55d-70/rv.xml",
+  "source_sha256": "4dc98d0268b4cddcb60c9a4a2c0b63370ee722469068bbc3277258d6d6dcd8db",
+  "articles": {
+    "172": "De rechter kan bevelen, dat de op een oproeping bij exploot niet ter zitting verschenen getuige door de openbare macht voor hem wordt gebracht op een door hem te bepalen dag en uur om aan zijn verplichting te voldoen.",
+    "178": "De opgeroepen getuige die niet ter zitting verschijnt of, verschenen zijnde, weigert de eed of zijn verklaring af te leggen, kan worden veroordeeld tot vergoeding van de vergeefs aangewende kosten, onverminderd zijn aansprakelijkheid tot schadevergoeding indien daartoe gronden zijn.",
+    "179": "1 De rechter hoort ieder van de getuigen buiten tegenwoordigheid van de mede ter zitting verschenen getuigen die nog niet zijn gehoord, voor zover deze laatste getuigen niet tevens partij zijn. 2 Partijen en hun raadslieden kunnen aan de getuigen vragen stellen, behoudens de bevoegdheid van de rechter om te beletten dat aan een bepaalde vraag gevolg wordt gegeven. De rechter kan ambtshalve of op verzoek van een partij getuigen tegenover elkaar of tegenover partijen of een van hen stellen. 3 De rechter kan naar aanleiding van de getuigenverklaringen aan partijen vragen stellen. Ook partijen kunnen elkaar zelf of bij monde van hun raadslieden vragen stellen, behoudens de bevoegdheid van de rechter om te beletten dat aan een bepaalde vraag gevolg wordt gegeven. 4 De rechter kan uit de op de voet van het derde lid afgelegde verklaringen, uit het niet-verschijnen ter zitting of uit een weigering om te antwoorden of het proces-verbaal te ondertekenen, de gevolgtrekking maken die hij geraden acht, behoudens hetgeen in artikel 154 is bepaald.",
+    "611c": "De dwangsom, eenmaal verbeurd, komt ten volle toe aan de partij die de veroordeling heeft verkregen. Deze partij kan de dwangsom ten uitvoer leggen krachtens de titel waarbij zij is vastgesteld.",
+    "611g": "1 Een dwangsom verjaart door verloop van zes maanden na de dag waarop zij verbeurd is. 2 De verjaring wordt geschorst door faillissement, toepassing van de schuldsaneringsregeling natuurlijke personen en ieder ander wettelijk beletsel voor tenuitvoerlegging van de dwangsom. 3 De verjaring wordt ook geschorst zolang degene die de veroordeling verkreeg met het verbeuren van de dwangsom redelijkerwijze niet bekend kon zijn."
+  },
+  "selective_incorporation": "8:60(2):172,178;8:63(1):179(2),179(3)first sentence for witnesses/experts,179(1)for witnesses;8:55d(2):611c,611g."
+}

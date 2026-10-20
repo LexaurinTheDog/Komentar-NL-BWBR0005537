@@ -1,16 +1,11 @@
 {
-  "checked_at": "2026-10-20T19:23:57.530789+00:00",
+  "checked_at": "2026-10-20T21:50:45.004643+00:00",
   "shared_builder": {
-    "command": [
-      "python3",
-      "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
-      "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537"
-    ],
     "exit_code": 1,
     "stdout": "",
-    "stderr": "CHYBÍ komentář k 168 jednotkám, např.: ['art-8:55d', 'art-8:55e', 'art-8:55f', 'art-8:56', 'art-8:57', 'art-8:58', 'art-8:59', 'art-8:60', 'art-8:60a', 'art-8:61']\n"
+    "stderr": "CHYBÍ komentář k 148 jednotkám, např.: ['art-8:71', 'art-8:72', 'art-8:72a', 'art-8:73', 'art-8:73a', 'art-8:74', 'art-8:75', 'art-8:75a', 'art-8:76', 'art-8:77']\n"
   },
-  "checkpoint_method": "Render only affected chapters20/21 from unchanged shared load_units/load_commentary/quote; no unwritten-unit prose fabricated.",
-  "bounded_review_complete": true,
+  "checkpoint_method": "Unchanged shared builder refuses148 missing out-of-scope comments. Affected chapters assembled using shared load_units/load_commentary/quote. No substitute prose.",
+  "bounded_author_complete": true,
   "whole_book_complete": false
 }

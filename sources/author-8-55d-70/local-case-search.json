@@ -1,0 +1,29 @@
+[
+  {
+    "ecli": "ECLI:NL:RVS:2025:2337",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2025-2337.md",
+    "snapshot": "sources/author-8-55d-70/ECLI-NL-RVS-2025-2337-local.md",
+    "sha256": "25072e450297ad642b964a857db9b265d9dcc4e99cf7714dafa924c7d0437d0c",
+    "local_raw_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/_raw/rvs/ecli-nl-rvs-2025-2337.xml.gz",
+    "local_uncompressed_sha256": "066cb124e2cee0401b741615c3800793fd89de1b13476de68c0f19bec0c37ab2",
+    "official_judgment_text_identical": true
+  },
+  {
+    "ecli": "ECLI:NL:CRVB:2024:1889",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/crvb/ecli-nl-crvb-2024-1889.md",
+    "snapshot": "sources/author-8-55d-70/ECLI-NL-CRVB-2024-1889-local.md",
+    "sha256": "ba23ff2acc3a114cfce33eb6119c35d450bb892d3211d05a7fbc63c71032db13",
+    "local_raw_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/_raw/crvb/ecli-nl-crvb-2024-1889.xml.gz",
+    "local_uncompressed_sha256": "b32c09ecacf9a7503ec7d44d59faad77db7c3792494f4f403c930e1c1e2b672f",
+    "official_judgment_text_identical": true
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2023:606",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2023-606.md",
+    "snapshot": "sources/author-8-55d-70/ECLI-NL-RVS-2023-606-local.md",
+    "sha256": "c6b58ce5bc9087abaa86894562eec0005e3f3bc2675aaadaf0b9951cedaeb1f3",
+    "local_raw_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/_raw/rvs/ecli-nl-rvs-2023-606.xml.gz",
+    "local_uncompressed_sha256": "7f6815e94c830fca15391a172a21fd1aa2bf25ce8c63d9cd947b73b1eeafda12",
+    "official_judgment_text_identical": true
+  }
+]

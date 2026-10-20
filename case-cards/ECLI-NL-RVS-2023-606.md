@@ -1,0 +1,13 @@
+# ABRvS 15 februari 2023 — ECLI:NL:RVS:2023:606
+
+Gerecht: Afdeling bestuursrechtspraak van de Raad van State. Zaak:202101013/1/R2. Tussenuitspraak krachtens8:51d Awb. Ondersteund commentaar: artikel8:69a Awb.
+
+Bron: [officiële volledige XML](https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2023:606), bewaard als [XML](../sources/author-8-55d-70/ECLI-NL-RVS-2023-606.xml) en [leesextract](../sources/author-8-55d-70/ECLI-NL-RVS-2023-606.txt). [HTTP-register](../sources/author-8-55d-70/verification.json) legt HTTP200, tijdstip en SHA-256 vast. De [lokale vergelijking](../sources/author-8-55d-70/local-case-search.json) betreft de volledige uitspraaktekst. Volledig gelezen; commerciële annotaties zijn niet gebruikt.
+
+Een omwonende bestreed het bestemmingsplan voor een gymzaal en bijbehorend parkeergebruik. De Afdeling beoordeelt alternatieven, parkeren, verkeershinder en stikstof. In6.9 constateert zij onvoldoende onderzoek naar mogelijke geluid- en lichthinder. In7.3 acht zij de concrete afstand tot het natuurgebied te groot voor verwevenheid tussen het woonbelang en het algemene natuurbelang. Deze afstand is een feitelijk oordeel in deze zaak, geen universele wettelijke kilometergrens.
+
+Overwegingen7.7–7.9 nuanceren de eerdere koppeling van procedurele en materiële normen bij relativiteit. Aan procedurele normen over eigen inspraakrechten in omgevingsrechtelijke zaken komt zelfstandige betekenis toe. Het beschermingsbereik van de materiële norm is daarvoor niet meer bepalend. Zowel belanghebbenden als niet-belanghebbenden kunnen deze eigen inspraakrechten afdwingen. Andere formele normen en materiële normen behouden hun eigen relativiteitsbeoordeling. Rechten die uitsluitend aan anderen toekomen vallen buiten de nuancering.
+
+In7.11 stelt de Afdeling vast dat de Aerius-berekening ter inzage had moeten liggen;7.12 bespreekt waarom herstel van dit inspraakgebrek de uitkomst hier niet kon veranderen en anderen niet aannemelijk waren benadeeld. De tussenuitspraak rondt het beroep niet af: de raad krijgt in8 en het dictum26 weken om het gebrek rond geluid- en lichthinder te herstellen. Proceskosten en griffierecht worden tot de einduitspraak aangehouden. De uitspraak is dus geen eindvernietiging wegens ontbrekende inspraakstukken.
+
+De kaart gebruikt de procesrechtelijke nuancering, niet de oude materiële bestemmingsplan- en natuurwetgeving als huidige rechtsbron. Het VIN-arrest en de oudere overzichtsuitspraak worden in het arrest besproken, maar zijn voor deze batch niet zelfstandig volledig geverifieerd. De ongerijmde jaaraanduidingen in de gepubliceerde procesverlooptekst worden niet gecorrigeerd of als dragende rechtsgrond gebruikt. Geen uitputtende latere-behandelingscontrole.

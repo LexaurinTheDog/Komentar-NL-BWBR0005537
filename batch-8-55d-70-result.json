@@ -1,0 +1,76 @@
+{
+  "complete": true,
+  "kind": "bounded_author",
+  "authored_ids": [
+    "art-8:55d",
+    "art-8:55e",
+    "art-8:55f",
+    "art-8:56",
+    "art-8:57",
+    "art-8:58",
+    "art-8:59",
+    "art-8:60",
+    "art-8:60a",
+    "art-8:61",
+    "art-8:62",
+    "art-8:63",
+    "art-8:64",
+    "art-8:65",
+    "art-8:66",
+    "art-8:67",
+    "art-8:68",
+    "art-8:69",
+    "art-8:69a",
+    "art-8:70"
+  ],
+  "completed_units": 20,
+  "total_assigned": 20,
+  "written_book_units": 440,
+  "total_book_units": 588,
+  "whole_book_complete": false,
+  "independent_review": false,
+  "source_preflight": "sources/author-8-55d-70/preflight-result.json",
+  "technical_support": "sources/author-8-55d-70/technical-check.json",
+  "author_content_check": "sources/author-8-55d-70/author-content-check.json",
+  "case_law_sources": [
+    {
+      "ecli": "ECLI:NL:RVS:2025:2337",
+      "case_card": "case-cards/ECLI-NL-RVS-2025-2337.md",
+      "source": "sources/author-8-55d-70/ECLI-NL-RVS-2025-2337.xml",
+      "supported_ids": [
+        "art-8:55d"
+      ],
+      "full_text_read": true
+    },
+    {
+      "ecli": "ECLI:NL:CRVB:2024:1889",
+      "case_card": "case-cards/ECLI-NL-CRVB-2024-1889.md",
+      "source": "sources/author-8-55d-70/ECLI-NL-CRVB-2024-1889.xml",
+      "supported_ids": [
+        "art-8:57"
+      ],
+      "full_text_read": true
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2023:606",
+      "case_card": "case-cards/ECLI-NL-RVS-2023-606.md",
+      "source": "sources/author-8-55d-70/ECLI-NL-RVS-2023-606.xml",
+      "supported_ids": [
+        "art-8:69a"
+      ],
+      "full_text_read": true
+    }
+  ],
+  "shared_builder": {
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "CHYBÍ komentář k 148 jednotkám, např.: ['art-8:71', 'art-8:72', 'art-8:72a', 'art-8:73', 'art-8:73a', 'art-8:74', 'art-8:75', 'art-8:75a', 'art-8:76', 'art-8:77']\n"
+  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "148 eenheden buiten deze auteursbatch zijn nog ongeschreven.",
+    "Twintig nieuwe toelichtingen8:55d–8:70 wachten op onafhankelijke tweede beoordeling.",
+    "Selectieve rechtspraak;geen volledige latere-behandelingscontrole of zelfstandige verificatie van alle aangehaalde andere arresten.",
+    "Lengte- en tekstcontroles bewijzen geen juridische kwaliteit."
+  ]
+}

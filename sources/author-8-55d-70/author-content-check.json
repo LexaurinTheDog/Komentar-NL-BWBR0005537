@@ -1,0 +1,151 @@
+{
+  "checked_at": "2026-10-20T21:50:45.004643+00:00",
+  "independent_review": false,
+  "scope": "Author checks, not independent second pass.",
+  "units": [
+    {
+      "id": "art-8:55d",
+      "chars": 2179,
+      "checked_against_full_statutory_text": true,
+      "points": "Beslisopdracht versus inhoud;bekendmaking,tweeweken,dagdwangsom,611c/g,afwijking;fifo-arrest contextbeperkt.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:55e",
+      "chars": 1838,
+      "checked_against_full_statutory_text": true,
+      "points": "Zesweken verzet;uitsluiting alleen55(3),geen algemene schorsing;spoed vervolg na gegrond verzet.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:55f",
+      "chars": 2472,
+      "checked_against_full_statutory_text": true,
+      "points": "Ontstaan positieve fictie versus bekendmaking;4:20a-d en6:12;geen algemene vergunningfictie.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:56",
+      "chars": 1817,
+      "checked_against_full_statutory_text": true,
+      "points": "Drieweken,plaats/tijd,uitnodiging/oproeping,52(3) gecontroleerd en gecorrigeerd.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:57",
+      "chars": 2147,
+      "checked_against_full_statutory_text": true,
+      "points": "Hoorrecht/redelijke termijn/alle partijen;reactie inhoudelijk;vierlusgevallen en benadeling;sluiting.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:58",
+      "chars": 2015,
+      "checked_against_full_statutory_text": true,
+      "points": "Tiendagen,verplichte informatie,late stukken/goedeprocesorde zonder automatische nietigheid.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:59",
+      "chars": 1789,
+      "checked_against_full_statutory_text": true,
+      "points": "Persoonlijk versus gemachtigde;27/31;partij geen getuige;boetewaarborgen.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:60",
+      "chars": 2177,
+      "checked_against_full_statutory_text": true,
+      "points": "Vierleden;aanvaarding deskundige/tolk;opdracht,verplichting,172/178,partijbewijs/kennisgeving.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:60a",
+      "chars": 1917,
+      "checked_against_full_statutory_text": true,
+      "points": "Tiendagen,geen partij;mondeling toestemming45a(2);stukkenmededeling45a(3),reactie45a(4) gecorrigeerd.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:61",
+      "chars": 2231,
+      "checked_against_full_statutory_text": true,
+      "points": "Alle tienleden;notities/procesverbaal,aanleiding,inhoud,ondertekening,volledige verklaring,opname,verstrekking.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:62",
+      "chars": 1759,
+      "checked_against_full_statutory_text": true,
+      "points": "Viergronden,geheel/gedeeltelijk;privacy versus29/32;openbare uitspraak78.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:63",
+      "chars": 2184,
+      "checked_against_full_statutory_text": true,
+      "points": "Beperkte Rv179leden;afzonderlijk getuigenverhoor,vragen/confrontatie;nut;zelfoproepen leidt schorsing.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:64",
+      "chars": 1769,
+      "checked_against_full_statutory_text": true,
+      "points": "Schorsing/vooronderzoek;datum,voortzetten/opnieuw,hoorrecht en57(2)(3).",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:65",
+      "chars": 2028,
+      "checked_against_full_statutory_text": true,
+      "points": "Voltooidonderzoek,laatstewoord,uitspraakdatum,schorsing/heropening onderscheid.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:66",
+      "chars": 1857,
+      "checked_against_full_statutory_text": true,
+      "points": "Zesweken na sluiting,bijzonder maximaalzesweken verlengen,mededeling,geen inhoudelijk gelijk door overschrijding.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:67",
+      "chars": 1892,
+      "checked_against_full_statutory_text": true,
+      "points": "Direct/verdaging maximaalweek,beslissing én gronden,procesverbaal/handtekeningen,openbaarheid/rechtsmiddelen.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:68",
+      "chars": 1776,
+      "checked_against_full_statutory_text": true,
+      "points": "Onvolledigonderzoek,wijzevoortzetting,spoedige mededeling,tegenspraak;geen herziening einduitspraak.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:69",
+      "chars": 2051,
+      "checked_against_full_statutory_text": true,
+      "points": "Grondslag dossier,verplichte rechtsaanvulling versus facultatieve feitenaanvulling,gedinggrenzen/tegenspraak.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:69a",
+      "chars": 2083,
+      "checked_against_full_statutory_text": true,
+      "points": "Vernietiging versus toegang,kennelijk beschermingsbereik,eigen inspraakrechten606,geen algehele opheffing relativiteit.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:70",
+      "chars": 2278,
+      "checked_against_full_statutory_text": true,
+      "points": "Vieruitkomsten;geen inhoudelijk oordeel bija/b;gegrondheid versusvoorzieningen72;geen einduitspraak bij tussenuitspraak.",
+      "fictional_example": true
+    }
+  ],
+  "unresolved_blockers": [],
+  "limitations": [
+    "Length does not prove legal quality; independent second pass remains required."
+  ]
+}

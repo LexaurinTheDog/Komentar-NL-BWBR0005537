@@ -1,0 +1,70 @@
+{
+  "searched_at": "2026-10-20T21:48:31.062498+00:00",
+  "queries": [
+    "site.raadvanstate.nl \"8:69a\" \"2020:2706\"",
+    "site.raadvanstate.nl \"8:55d\" \"termijn\" 2025",
+    "site.rechtspraak.nl \"8:57\" \"2024\" \"gewezen\"",
+    "site.rechtspraak.nl \"8:63\" \"2018\" \"1197\""
+  ],
+  "method": [
+    "Official-domain web discovery, followed by full primary XML retrieval and reading.",
+    "Exact local national corpus filename lookup for selected cases; snapshots and comparison of complete uitspraak elements."
+  ],
+  "selected": [
+    {
+      "ecli": "ECLI:NL:RVS:2025:2337",
+      "case_card": "case-cards/ECLI-NL-RVS-2025-2337.md",
+      "source": "sources/author-8-55d-70/ECLI-NL-RVS-2025-2337.xml",
+      "supported_ids": [
+        "art-8:55d"
+      ],
+      "full_text_read": true
+    },
+    {
+      "ecli": "ECLI:NL:CRVB:2024:1889",
+      "case_card": "case-cards/ECLI-NL-CRVB-2024-1889.md",
+      "source": "sources/author-8-55d-70/ECLI-NL-CRVB-2024-1889.xml",
+      "supported_ids": [
+        "art-8:57"
+      ],
+      "full_text_read": true
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2023:606",
+      "case_card": "case-cards/ECLI-NL-RVS-2023-606.md",
+      "source": "sources/author-8-55d-70/ECLI-NL-RVS-2023-606.xml",
+      "supported_ids": [
+        "art-8:69a"
+      ],
+      "full_text_read": true
+    }
+  ],
+  "not_selected": [
+    "ECLI:NL:RVS:2020:2706 overview: more specific2023 clarification selected; not independently verified here.",
+    "No relevant result for the attempted8:63/1197 query; no authority inferred."
+  ],
+  "no_separately_verified_case_selected_for": [
+    "art-8:55e",
+    "art-8:55f",
+    "art-8:56",
+    "art-8:58",
+    "art-8:59",
+    "art-8:60",
+    "art-8:60a",
+    "art-8:61",
+    "art-8:62",
+    "art-8:63",
+    "art-8:64",
+    "art-8:65",
+    "art-8:66",
+    "art-8:67",
+    "art-8:68",
+    "art-8:69",
+    "art-8:70"
+  ],
+  "limitations": [
+    "Selective research; no exhaustive later-treatment search.",
+    "Authorities quoted inside these decisions not all independently read.",
+    "No successful Firecrawl extraction claimed; direct official XML supplies full texts."
+  ]
+}
