@@ -1,0 +1,106 @@
+{
+  "searched_at": "2026-10-20T17:36:17.338605+00:00",
+  "purpose": "Selective primary-source research for exactly articles 6:17–6:24 and 7:1–7:11.",
+  "firecrawl_attempt": "sources/author-6-17-7-11/firecrawl-attempt.log",
+  "firecrawl_result": "Authenticated CLI, request rejected for zero credits; no settings changed.",
+  "fallback": "Official Raad van State and Rechtspraak website searches with web tool, followed by full XML downloads from data.rechtspraak.nl and targeted local corpus lookup.",
+  "queries": [
+    "site.raadvanstate.nl 2024 \"6:19\" \"reëel beroep\"",
+    "site.raadvanstate.nl 2022 \"7:3\" \"horen\" 1918",
+    "site.raadvanstate.nl \"6:22\" \"benadeeld\" 2025",
+    "site.raadvanstate.nl Renesse \"6:19\" 2025 uitspraak",
+    "site.raadvanstate.nl \"7:11\" \"heroverweging\" \"2020:2571\"",
+    "site.raadvanstate.nl \"6:17\" \"gemachtigde\" 2024",
+    "site.raadvanstate.nl \"7:9\" \"aanmerkelijk belang\" 2025",
+    "site.raadvanstate.nl \"7:9\" \"2025\" \"rapport\" \"gehoord\"",
+    "site.raadvanstate.nl \"2024:361\"",
+    "site.rechtspraak.nl \"2025:106\" \"6:22\"",
+    "site.raadvanstate.nl \"7:11\" \"slechtere positie\" \"2024\""
+  ],
+  "selection": [
+    {
+      "ecli": "ECLI:NL:RVS:2022:1918",
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2022:1918",
+      "full_text_read": true,
+      "supported_units": [
+        "art-7:2",
+        "art-7:3",
+        "art-6:22"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2024:4599",
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2024:4599",
+      "full_text_read": true,
+      "supported_units": [
+        "art-6:19"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2020:2571",
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2020:2571",
+      "full_text_read": true,
+      "supported_units": [
+        "art-7:11",
+        "art-6:19"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:HR:2025:106",
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2025:106",
+      "full_text_read": true,
+      "supported_units": [
+        "art-6:22"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2024:361",
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2024:361",
+      "full_text_read": true,
+      "supported_units": [
+        "art-7:3"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:CRVB:2025:1668",
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CRVB:2025:1668",
+      "full_text_read": true,
+      "supported_units": [
+        "art-7:11"
+      ]
+    }
+  ],
+  "candidate_not_used": [
+    {
+      "ecli": "ECLI:NL:RVS:2024:2238",
+      "reason": "AG recommendation identified through searches but not independently fully read or cited as a judicial holding; distinction verified by final judgment 2024:4599."
+    },
+    {
+      "ecli": "ECLI:NL:CRVB:2023:2476",
+      "reason": "Search result only; selected later 2025:1668 for full reading instead."
+    }
+  ],
+  "units_without_separate_case_card": [
+    "art-6:17",
+    "art-6:18",
+    "art-6:20",
+    "art-6:21",
+    "art-6:23",
+    "art-6:24",
+    "art-7:1",
+    "art-7:1a",
+    "art-7:4",
+    "art-7:5",
+    "art-7:6",
+    "art-7:7",
+    "art-7:8",
+    "art-7:9",
+    "art-7:10"
+  ],
+  "limitations": [
+    "No sufficiently investigated separate judgment added to the listed units; no absence-of-case-law claim.",
+    "Searches were selective, not an exhaustive later-treatment search.",
+    "Four full local bodies match; HR and CRvB local files omit official front matter, with complete remainder matched.",
+    "No commercial annotation copied."
+  ]
+}

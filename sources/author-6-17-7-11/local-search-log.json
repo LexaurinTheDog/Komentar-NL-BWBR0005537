@@ -1,0 +1,58 @@
+{
+  "checked_at": "2026-10-20T17:28:06.762553+00:00",
+  "method": "Targeted lookup of selected ECLIs in the rvs and hr national judicial corpora, following official website searches on 6:19, 6:22, 7:2, 7:3 and 7:11. Selective, not exhaustive.",
+  "cases": [
+    {
+      "ecli": "ECLI:NL:RVS:2022:1918",
+      "official_snapshot": "sources/author-6-17-7-11/ECLI-NL-RVS-2022-1918.xml",
+      "sha256": "de2e3f30acd7873d7a973d19ae3b33aba64b7e92339556df85dc19bae740c3cc",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2022-1918.md",
+      "local_exists": true,
+      "normalized_full_body_in_local": true
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2024:4599",
+      "official_snapshot": "sources/author-6-17-7-11/ECLI-NL-RVS-2024-4599.xml",
+      "sha256": "0c045b81eb906e281a3f0b6b8fa75276cf20e25c4d60754e694b3230f5e7d6f6",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2024-4599.md",
+      "local_exists": true,
+      "normalized_full_body_in_local": true
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2020:2571",
+      "official_snapshot": "sources/author-6-17-7-11/ECLI-NL-RVS-2020-2571.xml",
+      "sha256": "b6b5d313f147dc2835a51766a65d8bd6b8c3d93f57a5acae2bbef6589b234027",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2020-2571.md",
+      "local_exists": true,
+      "normalized_full_body_in_local": true
+    },
+    {
+      "ecli": "ECLI:NL:HR:2025:106",
+      "official_snapshot": "sources/author-6-17-7-11/ECLI-NL-HR-2025-106.xml",
+      "sha256": "a8dc60d53b3a6a06eacd21734dc3fdb4e5eabd2b2c758b0d6ee3656291e5dfdf",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2025-106.md",
+      "local_exists": true,
+      "normalized_full_body_in_local": false,
+      "normalized_body_after_front_matter_in_local": true,
+      "limitation": "Lokale afgeleide kopie mist voorwerk; complete officiële versie gelezen. Alle resterende motivering, dictum en beschikbare bijlagen/voetnoten komen overeen bij negeren van witruimte."
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2024:361",
+      "official_snapshot": "sources/author-6-17-7-11/ECLI-NL-RVS-2024-361.xml",
+      "sha256": "4e2383e4e7aea206197ba58902aadf03b79445e22ff7dff5dc7c25a0558ea961",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2024-361.md",
+      "local_exists": true,
+      "normalized_full_body_in_local": true
+    },
+    {
+      "ecli": "ECLI:NL:CRVB:2025:1668",
+      "official_snapshot": "sources/author-6-17-7-11/ECLI-NL-CRVB-2025-1668.xml",
+      "sha256": "978be3bf6c6963fa6124273bb42699dc798f9ba3a26dd5534d5fc3972d5f0df2",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/crvb/ecli-nl-crvb-2025-1668.md",
+      "local_exists": true,
+      "normalized_full_body_in_local": false,
+      "normalized_body_after_front_matter_in_local": true,
+      "limitation": "Lokale afgeleide kopie mist voorwerk; complete officiële versie gelezen. Alle resterende motivering, dictum en beschikbare bijlagen/voetnoten komen overeen bij negeren van witruimte."
+    }
+  ]
+}

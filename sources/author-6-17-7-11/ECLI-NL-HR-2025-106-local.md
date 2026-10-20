@@ -1,0 +1,180 @@
+---
+source: rechtspraak
+country: nl
+document_type: decision
+court: Hoge Raad
+ecli: ECLI:NL:HR:2025:106
+date: '2025-01-24'
+date_published: '2025-01-21'
+case_number:
+- 24/01332
+procedure:
+- Cassatie
+subject:
+- Bestuursrecht; Belastingrecht
+relations:
+- 'In cassatie op : ECLI:NL:GHAMS:2024:632'
+references: null
+source_url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:106
+download_url: https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2025:106
+chars: 20127
+license: Public Domain Mark
+retrieved_at: '2026-10-04T02:20:04Z'
+---
+
+# ECLI:NL:HR:2025:106 – Hoge Raad, 2025-01-24
+
+- **Instantie:** Hoge Raad
+- **Datum:** 2025-01-24
+- **Zaaknummer:** 24/01332
+- **Rechtsgebied:** Bestuursrecht; Belastingrecht
+
+## Inhoudsindicatie
+
+Artikel 40, lid 2, van de Wet WOZ; artikel 6:22 Awb; kan een (eventuele) schending van artikel 40, lid 2, van de Wet WOZ worden gepasseerd met toepassing van artikel 6:22 Awb?; gevolgen vergoeding griffierecht en proceskostenvergoeding.
+
+## Uitspraak
+
+1 Geding in cassatie
+
+Belanghebbende, vertegenwoordigd door G. Gieben, heeft tegen de uitspraak van het Hof beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit.
+
+Na het verstrijken van de voor de motivering van het beroep in cassatie gestelde termijn heeft belanghebbende een geschrift ingediend. Op dit stuk slaat de Hoge Raad geen acht.
+
+2 Uitgangspunten in cassatie
+
+2.1
+
+De heffingsambtenaar van de gemeente Kennemerland Zuid (hierna: de heffingsambtenaar) heeft bij beschikking van 25 februari 2021 op grond van artikel 22 van de Wet waardering onroerende zaken (hierna: de Wet WOZ) de waarde van de onroerende zaak [a-straat 1] te [Z] (hierna: de woning) voor het kalenderjaar 2021 vastgesteld op € 262.000. In hetzelfde geschrift is ook de aanslag in de onroerendezaakbelastingen voor het jaar 2021 bekendgemaakt.
+
+2.2
+
+Bij haar daartegen gerichte bezwaarschrift heeft belanghebbende verzocht om toezending van het taxatieverslag, de grondstaffels, indexeringscijfers en de KOUDV- en liggingsfactoren van de woning en de vergelijkingsobjecten (hierna: de overige gegevens).
+
+2.3
+
+De heffingsambtenaar heeft het taxatieverslag naar belanghebbende gestuurd en belanghebbende voor de overige door haar gevraagde gegevens gewezen op het inzagerecht.
+
+2.4
+
+Belanghebbende heeft haar bezwaarschrift aangevuld en daarin het verzoek om toezending van de hiervoor in 2.2 genoemde overige gegevens herhaald. De heffingsambtenaar heeft het bezwaar ongegrond verklaard.
+
+2.5
+
+De Rechtbank heeft geoordeeld dat de heffingsambtenaar met het verstrekken van het taxatieverslag in de bezwaarfase aan zijn verplichtingen op grond van artikel 40, lid 2, van de Wet WOZ heeft voldaan. Verder heeft de Rechtbank geoordeeld dat, gelet op het door de heffingsambtenaar in beroep overgelegde taxatierapport, de waarde van de woning eerder te laag dan te hoog is vastgesteld. De Rechtbank heeft het beroep ongegrond verklaard.
+
+3 De oordelen van het Hof
+
+3.1
+
+Voor het Hof was onder meer in geschil of de heffingsambtenaar de waarde van de woning te hoog heeft vastgesteld. Met betrekking tot dit geschilpunt heeft het Hof geoordeeld dat de waarde van de woning niet te hoog is vastgesteld.
+
+3.2.1
+
+Voor het Hof heeft belanghebbende verder betoogd dat de heffingsambtenaar artikel 40, lid 2, van de Wet WOZ heeft geschonden. Volgens belanghebbende heeft de Rechtbank ten onrechte geoordeeld dat de heffingsambtenaar in de bezwaarfase kon volstaan met het verstrekken van het taxatieverslag.
+
+3.2.2
+
+Deze klacht slaagt volgens het Hof wel. De stukken van het geding laten geen andere slotsom toe dan dat belanghebbende aan de heffingsambtenaar een voldoende specifiek verzoek heeft gedaan tot het verstrekken van bepaalde gegevens die ten grondslag liggen aan de vastgestelde waarde van de woning, aldus het Hof. Ook de omstandigheid dat die gegevens mogelijk voorafgaand aan het hoorgesprek wel ter inzage hebben gelegen, doet daaraan niet af. Volgens het Hof was de heffingsambtenaar daarom op grond van artikel 40, lid 2, van de Wet WOZ gehouden te voldoen aan het verzoek van belanghebbende om haar een afschrift van die gegevens te verstrekken, maar heeft hij aan deze verplichting niet voldaan.
+
+3.2.3
+
+Het Hof heeft voorts overwogen dat in een geval waarin wordt geoordeeld dat de waarde niet te hoog is vastgesteld maar wel sprake is van een schending van artikel 40, lid 2, van de Wet WOZ, de rechter bevoegd is maar niet verplicht, om het bestuursorgaan te veroordelen tot vergoeding van de proceskosten en het betaalde griffierecht. Het Hof heeft geen aanleiding gezien om van die bevoegdheid gebruik te maken, omdat het aannemelijk acht dat het gebrek aan informatievoorziening door de heffingsambtenaar niet van doorslaggevende betekenis is geweest voor belanghebbende om beroep in te stellen. Belanghebbende heeft in beroep immers tal van andere beroepsgronden aangevoerd die losstaan van de gebrekkige informatieverstrekking, zoals de waardedrukkende invloed van het ontbreken van een achtertuin en spouwmuren, de ongeschiktheid van twee van de gebruikte referentie-objecten en een gebrekkige motivering van de uitspraak op bezwaar, aldus het Hof. Naar het oordeel van het Hof kan bovendien niet worden geoordeeld dat de waarde van de woning pas aannemelijk is gemaakt met de stukken die in de beroepsfase zijn overgelegd. Met name de al in het taxatieverslag genoemde verkoopprijs van het referentie-object [a-straat 2] onderbouwt de waarde ruimschoots. Het Hof heeft geen aanleiding gezien de heffingsambtenaar te veroordelen in de kosten van het geding voor het Hof, en omdat volgens het Hof de uitspraak van de Rechtbank moet worden bevestigd, evenmin in de kosten van het geding voor de Rechtbank.
+
+4 Beoordeling van het middel
+
+4.1
+
+Het middel komt op tegen de hiervoor in 3.2.3 weergegeven oordelen van het Hof. Volgens het middel heeft het Hof ten onrechte geoordeeld dat een schending van artikel 40, lid 2, van de Wet WOZ van doorslaggevende betekenis moet zijn voor het instellen van beroep om aanspraak te kunnen maken op een proceskostenvergoeding.
+
+4.2
+
+Het middel stelt in wezen de vraag aan de orde of en, zo ja, in welke gevallen de rechter, wanneer hij een schending van artikel 40, lid 2, van de Wet WOZ constateert, ervan kan afzien om de heffingsambtenaar in verband daarmee te veroordelen in de proceskosten.
+
+4.3.1
+
+Bij de beoordeling van het middel stelt de Hoge Raad voorop dat de op grond van artikel 40, lid 2, van de Wet WOZ op de heffingsambtenaar rustende informatieverplichting inhoudt dat hij aan degene te wiens aanzien een beschikking als bedoeld in de Wet WOZ is genomen (hierna: waardebeschikking), en die een voldoende specifiek verzoek doet tot het verstrekken van bepaalde gegevens die niet in het taxatieverslag zijn opgenomen, maar die wel ten grondslag liggen aan de vastgestelde waarde van de onroerende zaak, een afschrift van die gegevens moet verstrekken. Deze gegevens kunnen ook betrekking hebben op voor de waardevaststelling gebruikte vergelijkingsobjecten. Deze gegevens zijn van belang om de juistheid van de waardebeschikking te kunnen controleren om daarmee een eventuele bezwaarprocedure op zinvolle wijze te kunnen benutten en vervolgens te kunnen beoordelen of het zinvol is beroep in te stellen. Aan de verplichting tot het verstrekken van deze gegevens doet niet af dat het op de zaak betrekking hebbende stukken zijn, die daarom tevens voorafgaand aan het horen in een bezwaarprocedure op grond van artikel 7:4, lid 2, Awb ter inzage moeten worden gelegd.Indien een voldoende specifiek verzoek tot het verstrekken van de in artikel 40, lid 2, van de Wet WOZ bedoelde gegevens in de bezwaarfase wordt gedaan, moeten deze gegevens, met het oog op een zinvolle benutting van de bezwaarprocedure, voortvarend en in ieder geval uiterlijk bij het doen van uitspraak op bezwaar worden verstrekt.
+
+4.3.2
+
+Verder stelt de Hoge Raad voorop dat geen rechtsregel meebrengt dat de belanghebbende die een verzoek tot het verstrekken van gegevens als bedoeld in artikel 40, lid 2, van de Wet WOZ heeft gedaan, dat verzoek naderhand in de bezwaarfase moet herhalen wanneer hem blijkt dat de heffingsambtenaar nog niet (volledig) aan dat verzoek is tegemoetgekomen. Indien de heffingsambtenaar deze gegevens niet uiterlijk bij de uitspraak op bezwaar heeft verstrekt, heeft hij daarom artikel 40, lid 2, van de Wet WOZ geschonden, ook zonder dat de belanghebbende zijn verzoek heeft herhaald. De omstandigheid dat een herhaling van het verzoek achterwege is gebleven, staat evenmin eraan in de weg dat de belanghebbende zich in de beroepsfase met succes op die schending beroept. Indien en voor zover de belanghebbende zijn verzoek tot het verstrekken van deze gegevens uitdrukkelijk en ondubbelzinnig heeft prijsgegeven, kan echter niet worden gezegd dat de heffingsambtenaar artikel 40, lid 2, van de Wet WOZ schendt indien hij deze gegevens niet (volledig) verstrekt.
+
+4.4.1
+
+De Hoge Raad stelt verder voorop dat de rechter onder omstandigheden met toepassing van artikel 6:22 Awb voorbij kan gaan aan een schending van artikel 40, lid 2, van de Wet WOZ.
+
+4.4.2
+
+Op grond van artikel 6:22 Awb kan de rechter beslissen de uitspraak op bezwaar, ondanks schending van een geschreven of ongeschreven rechtsregel of algemeen rechtsbeginsel, in stand te laten indien aannemelijk is dat de belanghebbende door deze schending niet is benadeeld. De maatstaf om vast te stellen of de belanghebbende door een dergelijke schending is benadeeld, is volgens de geschiedenis van de totstandkoming van de huidige tekst van artikel 6:22 Awb of zonder die schending een inhoudelijk andere uitkomst van de besluitvorming mogelijk was geweest. Voor de beoordeling van de vraag of een andere uitkomst van de besluitvorming mogelijk was geweest, is beslissend of het bestuursorgaan zonder de schending tot een andere uitspraak op bezwaar zou zijn gekomen. Indien dat het geval is – en die schending dus niet met toepassing van artikel 6:22 Awb kan worden gepasseerd – moet de uitspraak op bezwaar worden vernietigd, eventueel met instandhouding van de rechtsgevolgen daarvan (artikel 8:72, lid 3, letter a, Awb). Als gevolg daarvan bestaat recht op vergoeding van griffierecht en als regel ook op een proceskostenvergoeding. In een dergelijk geval kan alleen van het toekennen van een proceskostenvergoeding worden afgezien bij aanwezigheid van bijzondere omstandigheden. Daarvan is sprake indien de noodzaak tot het instellen van (hoger) beroep uitsluitend voortvloeide uit de handelwijze van de belanghebbende zelf.Ook indien deze schending met toepassing van artikel 6:22 Awb kan worden gepasseerd omdat belanghebbende door die schending niet is benadeeld, en het bestreden besluit in stand blijft, bestaat in de regel recht op vergoeding van griffierecht en op toekenning van een proceskostenvergoeding. Bij toepassing van artikel 6:22 Awb kan de rechter alleen bij aanwezigheid van bijzondere omstandigheden afzien van het toekennen van een vergoeding van griffierecht en een proceskostenvergoeding. De rechter moet in zo’n geval motiveren waarom hij daarvan afziet.
+
+4.4.3
+
+Uit hetgeen hiervoor in 4.4.2 is geoordeeld, volgt dat een schending van artikel 40, lid 2, van de Wet WOZ kan worden gepasseerd met toepassing van artikel 6:22 Awb indien aannemelijk is dat de uitspraak op bezwaar dezelfde uitkomst zou hebben gehad indien de heffingsambtenaar wel tijdig alle gegevens als bedoeld in artikel 40, lid 2, van de Wet WOZ zou hebben verstrekt en de belanghebbende zijn inbreng (mede) op die gegevens zou hebben gebaseerd. Bij gevallen waarin de uitspraak op bezwaar dezelfde uitkomst zou hebben gehad, kan bijvoorbeeld worden gedacht aan situaties waarin de belanghebbende al over de gevraagde gegevens beschikte.De omstandigheid dat de belanghebbende in (hoger) beroep niet alleen klaagt over de schending van artikel 40, lid 2, van de Wet WOZ, maar ook andere klachten tegen de uitspraak op bezwaar aanvoert, bijvoorbeeld met betrekking tot de vastgestelde WOZ-waarde, kan daarentegen geen grond vormen voor het oordeel dat de belanghebbende door de schending van artikel 40, lid 2, van de Wet WOZ niet is benadeeld in de zin van artikel 6:22 Awb. Dat de belanghebbende, nadat de gevraagde gegevens in (hoger) beroep alsnog beschikbaar zijn gekomen, deze niet ter discussie heeft gesteld of op basis van die gegevens niet heeft onderbouwd dat de WOZ-waarde naar een onjuist bedrag is vastgesteld, is evenmin van belang voor de beoordeling of hij door het aanvankelijke gebrek aan informatie is benadeeld in de zin van artikel 6:22 Awb.
+
+4.4.4
+
+Uit hetgeen hiervoor in 4.4.2 is overwogen, volgt verder dat in geval van schending van artikel 40, lid 2, van de Wet WOZ in de regel een proceskostenvergoeding wordt toegekend, ook indien aan die schending met toepassing van artikel 6:22 Awb wordt voorbijgegaan. Dat is alleen anders indien bijzondere omstandigheden aan die vergoeding in de weg staan. Ook leidt een geslaagd beroep op een schending van artikel 40, lid 2, van de Wet WOZ tot vergoeding van het griffierecht, tenzij aan dat verzuim met toepassing van artikel 6:22 Awb voorbij wordt gegaan en zich bovendien bijzondere omstandigheden voordoen die aan een vergoeding van het griffierecht in de weg staan.De omstandigheid dat de belanghebbende in (hoger) beroep niet alleen klaagt over de schending van artikel 40, lid 2, van de Wet WOZ, maar ook andere klachten tegen de uitspraak op bezwaar aanvoert, bijvoorbeeld met betrekking tot de vastgestelde WOZ-waarde, is geen bijzondere omstandigheid op grond waarvan het toekennen van een vergoeding van het griffierecht en een proceskostenvergoeding achterwege kan blijven.
+
+4.5.1
+
+Het hiervoor in 3.2.2 weergegeven oordeel van het Hof dat de heffingsambtenaar artikel 40, lid 2, van de Wet WOZ heeft geschonden, is niet bestreden in cassatie. Daarmee staat in cassatie vast dat artikel 40, lid 2, van de Wet WOZ is geschonden, en dat de Rechtbank dit heeft miskend. In zijn hiervoor in 3.2.3 weergegeven oordeel, met als slotsom dat het hoger beroep ongegrond is en dat de uitspraak van de Rechtbank moet worden bevestigd, ligt als oordeel van het Hof besloten dat de schending van artikel 40, lid 2, van de Wet WOZ kan worden gepasseerd met toepassing van artikel 6:22 Awb. Het Hof heeft hiertoe klaarblijkelijk redengevend geacht dat het gebrek aan informatievoorziening door de heffingsambtenaar niet van doorslaggevende betekenis is geweest voor belanghebbende om beroep in te stellen, omdat zij nog andere klachten heeft aangevoerd. Kennelijk heeft het Hof om diezelfde reden geen aanleiding gezien om, ondanks de schending van artikel 40, lid 2, van de Wet WOZ, aan belanghebbende een proceskostenvergoeding voor de procedure bij de Rechtbank toe te kennen.
+
+4.5.2
+
+Gelet op hetgeen hiervoor in 4.4.3, tweede alinea, is overwogen, is het middel terecht voorgesteld voor zover het inhoudt dat het Hof ten onrechte artikel 6:22 Awb heeft toegepast op de grond dat belanghebbende ook andere klachten heeft aangevoerd.Dit kan echter niet tot cassatie leiden, aangezien het Hof – in cassatie onbestreden – heeft geoordeeld dat het taxatieverslag de door de heffingsambtenaar vastgestelde WOZ-waarde ruimschoots onderbouwt. Daarmee is geen andere slotsom mogelijk dan dat de uitspraak op bezwaar dezelfde uitkomst zou hebben gehad indien de heffingsambtenaar wel tijdig alle gegevens als bedoeld in artikel 40, lid 2, van de Wet WOZ zou hebben verstrekt. Gelet op hetgeen hiervoor is overwogen in 4.4.3, eerste alinea, eerste volzin, rechtvaardigt die slotsom wel het oordeel dat er aanleiding was om in dit geval artikel 6:22 Awb toe te passen.
+
+4.5.3
+
+Het middel slaagt voor zover het opkomt tegen de beslissing van het Hof om, ondanks de schending van artikel 40, lid 2, van de Wet WOZ, geen proceskostenvergoeding toe te kennen. Uit hetgeen hiervoor in 4.4.4 is overwogen, volgt dat die beslissing is gebaseerd op een onjuiste rechtsopvatting, aangezien een geslaagd beroep op schending van die bepaling, ook bij toepassing van artikel 6:22 Awb, dient te leiden tot toekenning van een proceskostenvergoeding, tenzij zich bijzondere omstandigheden voordoen. De omstandigheid dat belanghebbende in beroep, naast de klacht over de schending van artikel 40, lid 2, van de Wet WOZ, nog andere klachten heeft aangevoerd, is geen dergelijke bijzondere omstandigheid. De omstandigheid dat niet kan worden geoordeeld dat de waarde van de woning pas aannemelijk is gemaakt met de stukken die in de beroepsfase zijn overgelegd, is evenmin zo’n omstandigheid. Uit de stukken van het geding blijkt niet dat er nog andere omstandigheden zijn die, gelet op hetgeen hiervoor in 4.4.4 is overwogen, het achterwege blijven van een proceskostenvergoeding kunnen rechtvaardigen. Het Hof had dus vanwege de schending van artikel 40, lid 2, van de Wet WOZ, de heffingsambtenaar moeten veroordelen in de proceskosten. Hetzelfde geldt voor de vergoeding van het bij de Rechtbank betaalde griffierecht.
+
+4.5.4
+
+De Hoge Raad kan de zaak afdoen. Aan belanghebbende dient alsnog een vergoeding van griffierecht en van proceskosten te worden toegekend voor de gedingen voor het Hof en voor de Rechtbank.
+
+5 Proceskosten
+
+Het college van burgemeester en wethouders van de gemeente Kennemerland Zuid (hierna: het College) zal worden veroordeeld in de kosten van het geding in cassatie en de heffingsambtenaar in de kosten van het geding voor het Hof en van het geding voor de Rechtbank.
+
+6 Nader feitenonderzoek door de Hoge Raad
+
+6.1
+
+Aangezien de uitspraak van het Hof is bekendgemaakt in 2024, moet voor de hoogte van de vergoeding van proceskosten ter zake van deze cassatieprocedure acht worden geslagen op de Wet herwaardering proceskostenvergoedingen WOZ en bpm, gelet op het bepaalde in artikel IV van die wet. Gelet op hetgeen de Hoge Raad in onderdeel 3 van zijn arrest van 17 januari 2025, ECLI:NL:HR:2025:46 (hierna: het arrest van 17 januari 2025) heeft overwogen, dient te worden beoordeeld of hier sprake is van een bijzonder geval als bedoeld in rechtsoverweging 3.5.2 van dat arrest.
+
+6.2
+
+De Hoge Raad is in dit stadium van het geding nog niet in staat een beslissing te nemen over de hoogte van de vergoeding van kosten voor beroepsmatig verleende rechtsbijstand in deze cassatieprocedure. De stukken van het geding bieden namelijk onvoldoende aanknopingspunten om te beoordelen of het geval van belanghebbende met het oog op die proceskostenvergoeding is aan te merken als een bijzonder geval als hiervoor in 6.1 bedoeld.
+
+6.3
+
+Totdat het arrest van 17 januari 2025 werd gewezen, hoefde belanghebbende niet bedacht te zijn op de in de rechtsoverwegingen 3.5.1 en 3.5.2 van dat arrest geformuleerde regels. Daarom zal de Hoge Raad, die hier als feitenrechter optreedt, alvorens een beslissing te nemen over de omvang van de vergoeding van de kosten van de cassatieprocedure, belanghebbende in de gelegenheid stellen om nadere gegevens te verstrekken ter voldoening aan de op dit punt op haar rustende bewijslast. Het College zal daarna in de gelegenheid worden gesteld daarop schriftelijk te reageren.
+
+7 Beslissing
+
+De Hoge Raad houdt elke verdere beslissing aan totdat de hiervoor in 6.3 beschreven procedure is gevolgd.
+
+Dit arrest is gewezen door de vice-president J.A.R. van Eijsden als voorzitter, en de raadsheren M.W.C. Feteris, M.T. Boerlage, A.E.H. van der Voort Maarschalk en F.G.F. Peters, in tegenwoordigheid van de waarnemend griffier F. Treuren, en in het openbaar uitgesproken op 24 januari 2025.
+
+ECLI:NL:GHAMS:2024:632.
+
+Vgl. HR 18 augustus 2023, ECLI:NL:HR:2023:1052, rechtsoverwegingen 3.2.4 en 3.2.5.
+
+Vgl. HR 18 augustus 2023, ECLI:NL:HR:2023:1052, rechtsoverweging 4.3.2, en HR 15 maart 2024, ECLI:NL:HR:2024:290, rechtsoverweging 4.3.
+
+Vgl. HR 18 augustus 2023, ECLI:NL:HR:2023:1052, rechtsoverweging 3.2.3.
+
+Vgl. HR 8 september 2023, ECLI:NL:HR:2023:1168, rechtsoverweging 3.3.
+
+Kamerstukken II 2009/10, 32 127, nr. 3, blz. 46, en Kamerstukken II 2009/10, 32 450, nr. 3, blz. 37.
+
+Vgl. CBb 15 mei 2018, ECLI:NL:CBB:2018:279, rechtsoverweging 4.3, ABRvS 24 januari 2024, ECLI:NL:RVS:2024:268, rechtsoverweging 16, en CRvB 23 april 2024, ECLI:NL:CRVB:2024:834, rechtsoverweging 4.3.5.
+
+Kamerstukken II 2009/10, 32 450, nr. 3, blz. 14 en blz. 38.
+
+Vgl. HR 16 november 2012, ECLI:NL:HR:2012:BY2770, rechtsoverweging 3.8.1.
+
+Kamerstukken II 2009/10, 32 450, nr. 3, blz. 15, en Kamerstukken II 2010/11, 32 450, nr. 7, blz. 14. Vgl. ook ABRvS 17 april 2024, ECLI:NL:RVS:2024:1602, rechtsoverweging 14.1, CRvB 15 mei 2024, ECLI:NL:CRVB:2024:950, rechtsoverweging 6.1, en CBb 5 maart 2024, ECLI:NL:CBB:2024:145, rechtsoverweging 9.
+
+Vgl. ABRvS 17 april 2024, ECLI:NL:RVS:2024:1602, rechtsoverweging 14.1.
+
+Wet van 20 december 2023 tot wijziging van de Wet waardering onroerende zaken en de Wet op de belasting van personenauto's en motorrijwielen 1992 in verband met het herwaarderen van de proceskostenvergoeding en vergoeding van immateriële schade wegens overschrijding van de redelijke termijn (Wet herwaardering proceskostenvergoedingen WOZ en bpm), Stb. 2023, 507.

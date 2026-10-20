@@ -1,0 +1,73 @@
+{
+  "checked_at": "2026-10-20T17:38:13.041017+00:00",
+  "assigned_units_complete": 20,
+  "assigned_ids": [
+    "art-6:17",
+    "art-6:18",
+    "art-6:19",
+    "art-6:20",
+    "art-6:21",
+    "art-6:22",
+    "art-6:23",
+    "art-6:24",
+    "art-7:1",
+    "art-7:1a",
+    "art-7:2",
+    "art-7:3",
+    "art-7:4",
+    "art-7:5",
+    "art-7:6",
+    "art-7:7",
+    "art-7:8",
+    "art-7:9",
+    "art-7:10",
+    "art-7:11"
+  ],
+  "authored_lengths": {
+    "art-6:17": 2114,
+    "art-6:18": 795,
+    "art-6:19": 3168,
+    "art-6:20": 2422,
+    "art-6:21": 1797,
+    "art-6:22": 2767,
+    "art-6:23": 1880,
+    "art-6:24": 3013,
+    "art-7:1": 2635,
+    "art-7:1a": 2519,
+    "art-7:2": 2175,
+    "art-7:3": 2584,
+    "art-7:4": 2585,
+    "art-7:5": 1970,
+    "art-7:6": 2059,
+    "art-7:7": 1720,
+    "art-7:8": 1911,
+    "art-7:9": 2054,
+    "art-7:10": 2647,
+    "art-7:11": 4767
+  },
+  "preserved_commentaries": 300,
+  "statutory_wording_agreement": 1.0,
+  "source_coverage_evidence": "sources/author-6-17-7-11/coverage-recheck.json",
+  "whole_book_complete": false,
+  "independent_review": false,
+  "shared_builder": {
+    "command": [
+      "python3",
+      "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
+      "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537"
+    ],
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "CHYBÍ komentář k 268 jednotkám, např.: ['art-7:12', 'art-7:13', 'art-7:14', 'art-7:14a', 'art-7:15', 'art-7:16', 'art-7:17', 'art-7:18', 'art-7:19', 'art-7:20']\n"
+  },
+  "technical_audit": {
+    "official_text_units_compared": 588,
+    "official_xml_text_errors": [],
+    "commented_units": 320,
+    "commentary_minimum_length_failures": [],
+    "exact_repeated_paragraphs": [],
+    "exact_repeated_long_sentences": [],
+    "local_links_checked": 938,
+    "broken_local_links": []
+  }
+}

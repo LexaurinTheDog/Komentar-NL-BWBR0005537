@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T17:25:35.172497+00:00",
+  "checked_at": "2026-10-20T17:38:13.041017+00:00",
   "shared_builder": {
     "command": [
       "python3",
@@ -8,24 +8,9 @@
     ],
     "exit_code": 1,
     "stdout": "",
-    "stderr": "CHYBÍ komentář k 288 jednotkám, např.: ['art-6:17', 'art-6:18', 'art-6:19', 'art-6:20', 'art-6:21', 'art-6:22', 'art-6:23', 'art-6:24', 'art-7:1', 'art-7:1a']\n"
+    "stderr": "CHYBÍ komentář k 268 jednotkám, např.: ['art-7:12', 'art-7:13', 'art-7:14', 'art-7:14a', 'art-7:15', 'art-7:16', 'art-7:17', 'art-7:18', 'art-7:19', 'art-7:20']\n"
   },
-  "checkpoint_method": "Existing _checkpoint.py renders only substantive written commentary as an explicitly incomplete checkpoint; missing-unit gate unchanged.",
-  "scope_review_complete": true,
-  "whole_book_complete": false,
-  "shared_strict_validation": {
-    "exit_code": 1,
-    "result": {
-      "repo": "Komentar-NL-BWBR0005537",
-      "units": 588,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 554963,
-      "errors": [
-        "krátký/chybějící komentář u 288 jednotek: ['art-6:17(0<400)', 'art-6:18(0<120)', 'art-6:19(0<400)', 'art-6:20(0<400)', 'art-6:21(0<120)', 'art-6:22(0<400)', 'art-6:23(0<400)', 'art-6:24(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
-    },
-    "evidence": "review-015-validation.json"
-  }
+  "checkpoint_method": "Render only actually authored units in affected chapters 15 and 16 using the shared loader and quote function. Preserve all other chapters. The unmodified shared whole-book completion gate remains in force.",
+  "bounded_authoring_complete": true,
+  "whole_book_complete": false
 }

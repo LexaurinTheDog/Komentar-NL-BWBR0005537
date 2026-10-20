@@ -1,0 +1,135 @@
+{
+  "checked_at": "2026-10-20T17:38:12.524428+00:00",
+  "kind": "author_self_check",
+  "independent_review": false,
+  "units_checked": 20,
+  "checked_ids": [
+    "art-6:17",
+    "art-6:18",
+    "art-6:19",
+    "art-6:20",
+    "art-6:21",
+    "art-6:22",
+    "art-6:23",
+    "art-6:24",
+    "art-7:1",
+    "art-7:1a",
+    "art-7:2",
+    "art-7:3",
+    "art-7:4",
+    "art-7:5",
+    "art-7:6",
+    "art-7:7",
+    "art-7:8",
+    "art-7:9",
+    "art-7:10",
+    "art-7:11"
+  ],
+  "checks": [
+    {
+      "id": "art-6:17",
+      "checked_distinctions": "Werkelijke vertegenwoordiging, toegang voor gemachtigde, onderscheid toezending/inzage/bekendmaking en geen algemene automatische nietigheidsclaim.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:18",
+      "checked_distinctions": "Vervallen plaats behouden; geen oude regel als actueel recht; huidige 6:19 en 6:20, overgangsnotitie geen herleving.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:19",
+      "checked_distinctions": "Alle zes leden; noodzakelijke samenhang, lid 2-volgorde, informatieplicht, doorzending, verwijzing en resterend procesbelang. Nieuwe overtredingen onderscheiden; AG-voorstel niet als overgenomen voorgesteld; oude plannen niet gelijkgesteld met nieuw omgevingsplan.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:20",
+      "checked_distinctions": "Alle vijf leden; blijvende beslisplicht, onverwijlde toezending, volledige tegemoetkoming inhoudelijk beoordeeld, verwijzing en zelfstandig belang bij oordeel over vertraging.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:21",
+      "checked_distinctions": "Schriftelijke hoofdregel en mondeling tijdens horen; onderscheid rechtsmiddel/grond/afspraak; toerekening en vertegenwoordigingsomvang; incidenteel en voorwaardelijk incidenteel onderscheiden.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:22",
+      "checked_distinctions": "Ruime soort schending maar concrete niet-benadeling van alle belanghebbenden nodig; verschil met rechtsgevolgen in stand laten; kosten en griffierecht, HR-publicatie nog geen volledig afgedane kostenbeslissing.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:23",
+      "checked_distinctions": "Beide leden; juiste route/indiener/termijn/ontvanger; clausule niet rechtscheppend, doorzending en verschoonbaarheid niet automatisch, mededeling 7:12 lid 4.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:24",
+      "checked_distinctions": "Alle vier hogere rechtsmiddelen, geen eigen toegang tot cassatie, 6:12 uitgesloten, bijzondere incidentele regels gaan voor; hoofdstukchecklist.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:1",
+      "checked_distinctions": "Verplichte voorfase, onderdelen a–g afzonderlijk, goedkeuring en 6:8, juiste herstelopdracht e, openbare voorbereiding, stilzitten en bijlage 1; lid 2 en doorzending.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:1a",
+      "checked_distinctions": "Alle zes leden, andere bezwaarmaker blokkeert tenzij kennelijk niet-ontvankelijk, geschiktheid geen plicht, wachtmoment instemming, 4:7/4:8 buiten toepassing, ontvangstdatum, bijzondere vrijstelling alleen later bezwaar zonder verzoek; 8:54a.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:2",
+      "checked_distinctions": "Gelegenheid tot horen voor belanghebbenden, minimum notificatiekring niet limitatief; vertegenwoordiging en voorbereiding; vreemdelingenzaak concrete bewijsproblemen geen automatisch gelijk op aanspraak.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:3",
+      "checked_distinctions": "Alle vijf onderdelen, kennelijke versus uiteindelijke uitkomst, verklaring versus stilte, eerder hoorsverzoek blijft relevant, redelijke termijn, volledige tegemoetkoming en derdenbelang; 6:22 aparte stap.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:4",
+      "checked_distinctions": "Alle acht leden, tien dagen versus week inzage, late stukken niet automatisch uitgesloten, oproeping en afschriftenkostengrens, instemming, gewichtige redenen en mededeling, eenzijdige Woo-verhouding, advocaat of arts bij gezondheid.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:5",
+      "checked_distinctions": "Voorbereidingsbetrokkenheid, alleen hoorder versus meerderheid inclusief voorzitter, uitzondering bestuursorgaan/voorzitter/lid, 2:4 blijft gelden, 7:13 geen willekeurig intern panel, openbaarheid apart.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:6",
+      "checked_distinctions": "Alle vier leden; gezamenlijke aanwezigheid versus publiek, gronden afzonderlijk horen, informatie achteraf hoofdregel, separate geheimhoudingsbeoordeling en juiste verwijzingen 7:4.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:7",
+      "checked_distinctions": "Getrouwe relevante verslaglegging, geen ongefundeerde transcript- of handtekeningseis; intrekking grond/rechtsmiddel, toezeggingen, betwiste correctie, commissieverslag.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:8",
+      "checked_distinctions": "Verzoek en meegebracht, geen algemene oproep-/bekostigingsplicht, functie getuige/deskundige en kritische waardering, gemotiveerde beoordeling verzoek en tegenspraak, kosten afzonderlijk.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:9",
+      "checked_distinctions": "Na gehoor bekend, potentieel aanmerkelijk belang, mededeling plus horen vóór besluit, toespitsing, juridische standpunten niet automatisch nieuwe feiten, zorgvuldigheid daarbuiten.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:10",
+      "checked_distinctions": "Alle vijf leden, start na bezwaartermijn, zes versus twaalf weken en 7:13, herstelopschorting werkelijke duur, maximaal zes weken verdaging, drie alternatieve verdere-uitstelgronden en schriftelijke mededeling.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-7:11",
+      "checked_distinctions": "Ontvankelijkheid en grondslag; actuele feiten/recht/beleid met grenzen, herstelsancties tweeslag, peildatum/tijdvak/overgangsrecht, reformatio in peius met ongewijzigde uitkomst versus zelfstandige bevoegdheid; herroeping en vervanging; scoped checklist.",
+      "specific_fictional_example": true
+    }
+  ],
+  "unresolved_blockers": [],
+  "limitations": [
+    "Geen onafhankelijke tweede beoordeling.",
+    "Technische ondergrenzen en afwezigheid van letterlijke herhaling bewijzen geen juridische kwaliteit."
+  ]
+}

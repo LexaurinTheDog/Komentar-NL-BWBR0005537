@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T17:25:35.172497+00:00",
+  "updated_at": "2026-10-20T17:38:13.041017+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -17,12 +17,12 @@
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
     "review_verified_at": "2026-10-20T17:20:16.274367+00:00",
     "review_evidence": "sources/review-015/verification.json",
-    "author_batch_verified_at": "2026-10-20T17:17:18.614534+00:00",
-    "author_batch_evidence": "sources/author-5-51-6-16/verification.json"
+    "author_batch_verified_at": "2026-10-20T17:38:13.041017+00:00",
+    "author_batch_evidence": "sources/author-6-17-7-11/verification.json"
   },
   "official_articles": 584,
   "total_units": 588,
-  "completed_units": 300,
+  "completed_units": 320,
   "completed_ids": [
     "aanhef",
     "art-1:1",
@@ -323,9 +323,7 @@
     "art-6:13",
     "art-6:14",
     "art-6:15",
-    "art-6:16"
-  ],
-  "missing_commentary_ids": [
+    "art-6:16",
     "art-6:17",
     "art-6:18",
     "art-6:19",
@@ -345,7 +343,9 @@
     "art-7:8",
     "art-7:9",
     "art-7:10",
-    "art-7:11",
+    "art-7:11"
+  ],
+  "missing_commentary_ids": [
     "art-7:12",
     "art-7:13",
     "art-7:14",
@@ -671,7 +671,13 @@
       "ECLI:NL:RVS:2020:1682",
       "ECLI:NL:CBB:2024:31",
       "ECLI:NL:CBB:2026:406",
-      "ECLI:NL:RVS:2021:786"
+      "ECLI:NL:RVS:2021:786",
+      "ECLI:NL:RVS:2022:1918",
+      "ECLI:NL:RVS:2024:4599",
+      "ECLI:NL:RVS:2020:2571",
+      "ECLI:NL:HR:2025:106",
+      "ECLI:NL:RVS:2024:361",
+      "ECLI:NL:CRVB:2025:1668"
     ],
     "fetched_not_yet_assessed": [],
     "scope": "selective"
@@ -679,8 +685,8 @@
   "coverage": true,
   "validation_result": {
     "complete": false,
-    "reason": "288 eenheden buiten deze reviewopdracht missen commentaar; volledige gedeelde bouw en eindvalidatie blijven geblokkeerd.",
-    "not_independent_review": false,
+    "reason": "268 eenheden buiten deze auteursbatch missen commentaar; volledige gedeelde bouw blijft geblokkeerd.",
+    "not_independent_review": true,
     "strict_validator": {
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
@@ -692,18 +698,18 @@
       "warnings": [],
       "ok": false
     },
-    "independent_review_scope": "Current batch exactly twenty ids in review-result.json; prior 280 preserved. Whole-book review incomplete.",
+    "independent_review_scope": "Earlier 300 reviewed units preserved; newly authored 6:17–6:24 and 7:1–7:11 not independently reviewed.",
     "validated_at": "2026-10-20T17:26:33.532122+00:00",
     "evidence": "strict-validation.json",
-    "bounded_review_passed": true,
-    "scoped_review_complete": true,
+    "bounded_review_passed": false,
+    "scoped_review_complete": false,
     "scoped_technical_ok": true,
     "whole_book_complete": false,
     "assigned_batch_passed": true,
     "bounded_author_batch": {
       "complete": true,
       "assigned_units": 20,
-      "evidence": "batch-5-51-6-16-validation.json",
+      "evidence": "batch-6-17-7-11-validation.json",
       "independent_review": false
     },
     "bounded_review": {
@@ -714,13 +720,13 @@
     }
   },
   "remaining_limitations": [
-    "Precies de twintig genoemde eenheden zijn inhoudelijk beoordeeld; geen review van het gehele boek. De eerdere 280 commentaren zijn behouden.",
-    "288 eenheden buiten deze opdracht missen nog commentaar; volledige bouw en strikte eindvalidatie blijven daarom geblokkeerd.",
-    "Zes volledige officiële uitspraken selectief herlezen; geen uitputtend onderzoek van alle latere behandeling, sectorale afwijkingen of actuele registratie van postvervoerders.",
-    "Lokale CBB 2024:31 mist voorwerk vóór Procesverloop; de volledige officiële versie is gelezen en het resterende lokale body komt overeen.",
-    "Geen volledige kalender van krachtens ATW artikel 3 lid 3 gelijkgestelde dagen; geen concrete einddagberekening gepubliceerd. Digitale toepasselijkheid vergt per zaak overgangs- en sectorcontrole.",
-    "Historische sanctie-, Wmo-, TVL-, woning- en planregels in de uitspraken zijn context, geen actuele sectorale normstelling.",
-    "Bronovereenstemming, minimumlengte en herhalingscontrole bewijzen geen juridische kwaliteit. Dit is geen externe professionele goedkeuring."
+    "268 eenheden buiten deze auteursbatch wachten nog op auteurswerk.",
+    "De twintig nieuwe commentaren zijn nog niet onafhankelijk beoordeeld; de eerdere 300 en hun beoordelingsstukken zijn behouden.",
+    "Zes volledige officiële uitspraken selectief onderzocht; geen uitputtende latere-behandelingscontrole of volledige sectorwetverificatie.",
+    "HR en CRvB missen lokaal voorwerk; hun verdere body stemt overeen. De volledige officiële versies zijn gelezen en leidend.",
+    "Historische sectorwetten, proceskostenbedragen en houtimporttermijnen uit uitspraken zijn geen actuele algemene rechtsregels.",
+    "Eerdere beperkingen uit voorgaande checkpoints blijven bestaan.",
+    "Tekstovereenstemming, lengte en herhalingscontroles bewijzen geen juridische kwaliteit; geen externe professionele goedkeuring."
   ],
   "preflight": {
     "complete": true,
@@ -731,31 +737,30 @@
   "last_author_batch": {
     "task": "bounded_author",
     "ids": [
-      "art-5:51",
-      "art-5:52",
-      "art-5:53",
-      "art-5:54",
-      "art-6:1",
-      "art-6:2",
-      "art-6:3",
-      "art-6:4",
-      "art-6:5",
-      "art-6:6",
-      "art-6:7",
-      "art-6:8",
-      "art-6:9",
-      "art-6:10",
-      "art-6:11",
-      "art-6:12",
-      "art-6:13",
-      "art-6:14",
-      "art-6:15",
-      "art-6:16"
+      "art-6:17",
+      "art-6:18",
+      "art-6:19",
+      "art-6:20",
+      "art-6:21",
+      "art-6:22",
+      "art-6:23",
+      "art-6:24",
+      "art-7:1",
+      "art-7:1a",
+      "art-7:2",
+      "art-7:3",
+      "art-7:4",
+      "art-7:5",
+      "art-7:6",
+      "art-7:7",
+      "art-7:8",
+      "art-7:9",
+      "art-7:10",
+      "art-7:11"
     ],
     "completed_units": 20,
-    "evidence": "batch-5-51-6-16-result.json",
-    "independently_reviewed": true,
-    "review_evidence": "review-result.json"
+    "evidence": "batch-6-17-7-11-result.json",
+    "independently_reviewed": false
   },
   "bounded_independent_review": {
     "complete": true,

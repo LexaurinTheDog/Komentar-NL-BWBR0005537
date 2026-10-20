@@ -1,0 +1,102 @@
+[
+  {
+    "type": "replace",
+    "official": "HOGERAADDERNEDERLANDENBELASTINGKAMERN",
+    "local": "---source:rechtspraakcountry:nldoc"
+  },
+  {
+    "type": "insert",
+    "official": "",
+    "local": "ent_type:decisioncourt:HogeRaadecli:ECLI:NL:HR:2025:106date:'2025-01-24'date_published:'2025-01-21'case_nu"
+  },
+  {
+    "type": "insert",
+    "official": "",
+    "local": "b"
+  },
+  {
+    "type": "insert",
+    "official": "",
+    "local": ":-"
+  },
+  {
+    "type": "replace",
+    "official": "D",
+    "local": "procedure:-Cass"
+  },
+  {
+    "type": "delete",
+    "official": "um24januari2025ARRESTindezaakvan[X](h",
+    "local": ""
+  },
+  {
+    "type": "insert",
+    "official": "",
+    "local": "subject:-Bestuu"
+  },
+  {
+    "type": "replace",
+    "official": "na:b",
+    "local": "srecht;B"
+  },
+  {
+    "type": "insert",
+    "official": "",
+    "local": "sti"
+  },
+  {
+    "type": "insert",
+    "official": "",
+    "local": "rec"
+  },
+  {
+    "type": "insert",
+    "official": "",
+    "local": "tr"
+  },
+  {
+    "type": "replace",
+    "official": "bbe",
+    "local": "latio"
+  },
+  {
+    "type": "replace",
+    "official": "de)tegenhetCOLLEGEVANBURGEMEESTERENWETHOUDERSVANDEGEMEENTEKENNEMERLANDZU",
+    "local": "s:-'"
+  },
+  {
+    "type": "delete",
+    "official": "Dophetberoepi",
+    "local": ""
+  },
+  {
+    "type": "insert",
+    "official": "",
+    "local": "op:ECLI:NL:GHAMS:2024:632'references:nullsource_url:https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:106download_url:https://data.rechtspraak.nl/uitspraken/con"
+  },
+  {
+    "type": "insert",
+    "official": "",
+    "local": "nt?id=ECLI:NL:HR:2025:106chars:20127license:PublicDomainMarkretrieved_at:'2026-10-04T02:20:04Z'---#ECLI:NL:HR:2025:106–HogeRaad,2025-01-24-**Instantie:**HogeRaad-**Datum:**2025-01-24-**Zaaknummer:**24/01332-**Rechtsgebied:**Bestuursrecht;Belastingrecht##InhoudsindicatieArtikel40,lid2,vandeWetWOZ;art"
+  },
+  {
+    "type": "insert",
+    "official": "",
+    "local": "vergoe"
+  },
+  {
+    "type": "insert",
+    "official": "",
+    "local": "inggriffi"
+  },
+  {
+    "type": "replace",
+    "official": "u",
+    "local": "rechtenproceskostenvergoeding.##U"
+  },
+  {
+    "type": "delete",
+    "official": "vanhetGerechtshofAmsterdamvan13februari2024,nr.23/308,ophethogerberoepvanbelanghebbendetegeneenuitspraakvandeRechtbankNoord-Holland(nr.HAA21/6728)betreffendeeentenaanzienvanbelanghebbendegegevenbeschikkingopgrondvandeWetwaarderingonroerendezakeneneenaanslagindeonroerendezaakbelastingenvoorhetjaar202",
+    "local": ""
+  }
+]
