@@ -12,5 +12,20 @@
   },
   "checkpoint_method": "Existing _checkpoint.py renders only substantive written units as an expressly incomplete manuscript; shared builder and validator unchanged.",
   "scope_review_complete": true,
-  "whole_book_complete": false
+  "whole_book_complete": false,
+  "shared_strict_validation": {
+    "exit_code": 1,
+    "result": {
+      "repo": "Komentar-NL-BWBR0005537",
+      "units": 588,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 603974,
+      "errors": [
+        "krátký/chybějící komentář u 268 jednotek: ['art-7:12(0<400)', 'art-7:13(0<400)', 'art-7:14(0<400)', 'art-7:14a(0<400)', 'art-7:15(0<400)', 'art-7:16(0<400)', 'art-7:17(0<400)', 'art-7:18(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "evidence": "review-016-validation.json"
+  }
 }

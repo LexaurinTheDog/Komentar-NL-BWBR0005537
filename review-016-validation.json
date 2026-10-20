@@ -1,0 +1,57 @@
+{
+  "checked_at": "2026-10-20T17:48:12.604016+00:00",
+  "kind": "bounded_review_validation",
+  "complete": true,
+  "reviewed_ids": [
+    "art-6:17",
+    "art-6:18",
+    "art-6:19",
+    "art-6:20",
+    "art-6:21",
+    "art-6:22",
+    "art-6:23",
+    "art-6:24",
+    "art-7:1",
+    "art-7:1a",
+    "art-7:2",
+    "art-7:3",
+    "art-7:4",
+    "art-7:5",
+    "art-7:6",
+    "art-7:7",
+    "art-7:8",
+    "art-7:9",
+    "art-7:10",
+    "art-7:11"
+  ],
+  "units_reviewed": 20,
+  "whole_book_complete": false,
+  "scope_review_result": "review-result.json",
+  "scope_technical_result": "review-technical.json",
+  "out_of_scope_commentaries_preserved": true,
+  "shared_builder": "build-validation-log.json",
+  "strict_validator": {
+    "command": [
+      "python3",
+      "/Volumes/LaCie/open-commentary/_tools/validate.py",
+      "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537"
+    ],
+    "exit_code": 1,
+    "result": {
+      "repo": "Komentar-NL-BWBR0005537",
+      "units": 588,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 603974,
+      "errors": [
+        "krátký/chybějící komentář u 268 jednotek: ['art-7:12(0<400)', 'art-7:13(0<400)', 'art-7:14(0<400)', 'art-7:14a(0<400)', 'art-7:15(0<400)', 'art-7:16(0<400)', 'art-7:17(0<400)', 'art-7:18(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    }
+  },
+  "output_git_clean_at_validation": true,
+  "unresolved_scope_blockers": [],
+  "whole_book_limitations": [
+    "268 units outside this assigned review have no commentary; whole-book builder and strict validation remain blocked."
+  ]
+}
