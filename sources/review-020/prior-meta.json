@@ -1,0 +1,177 @@
+{
+  "cc": "nl",
+  "lang": "nl",
+  "repo": "Komentar-NL-BWBR0005537",
+  "repo_dir": "/Volumes/LaCie/open-commentary/nl/Komentar-NL-BWBR0005537",
+  "title": "Commentaar op de Algemene wet bestuursrecht",
+  "source_path": "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537/sources/canonical.txt",
+  "intro_file": "00-inleiding.md",
+  "intro_desc": "Afbakening, bronnen en leeswijzer",
+  "labels": {
+    "text": "Wettekst",
+    "chapter": "Commentaarhoofdstuk",
+    "notes": "Bronnotitie"
+  },
+  "chapters": [
+    {
+      "n": 1,
+      "slug": "deel-01",
+      "title": "Hoofdstuk 1 Inleidende bepalingen"
+    },
+    {
+      "n": 2,
+      "slug": "deel-02",
+      "title": "Hoofdstuk 2 Verkeer met bestuursorganen"
+    },
+    {
+      "n": 3,
+      "slug": "deel-03",
+      "title": "Hoofdstuk 2 Verkeer met bestuursorganen"
+    },
+    {
+      "n": 4,
+      "slug": "deel-04",
+      "title": "Hoofdstuk 3 Algemene bepalingen over besluiten"
+    },
+    {
+      "n": 5,
+      "slug": "deel-05",
+      "title": "Hoofdstuk 3 Algemene bepalingen over besluiten"
+    },
+    {
+      "n": 6,
+      "slug": "deel-06",
+      "title": "Hoofdstuk 4 Bijzondere bepalingen over besluiten"
+    },
+    {
+      "n": 7,
+      "slug": "deel-07",
+      "title": "Hoofdstuk 4 Bijzondere bepalingen over besluiten"
+    },
+    {
+      "n": 8,
+      "slug": "deel-08",
+      "title": "Hoofdstuk 4 Bijzondere bepalingen over besluiten"
+    },
+    {
+      "n": 9,
+      "slug": "deel-09",
+      "title": "Hoofdstuk 4 Bijzondere bepalingen over besluiten"
+    },
+    {
+      "n": 10,
+      "slug": "deel-10",
+      "title": "Hoofdstuk 4 Bijzondere bepalingen over besluiten"
+    },
+    {
+      "n": 11,
+      "slug": "deel-11",
+      "title": "Hoofdstuk 4 Bijzondere bepalingen over besluiten"
+    },
+    {
+      "n": 12,
+      "slug": "deel-12",
+      "title": "Hoofdstuk 5 Handhaving"
+    },
+    {
+      "n": 13,
+      "slug": "deel-13",
+      "title": "Hoofdstuk 5 Handhaving"
+    },
+    {
+      "n": 14,
+      "slug": "deel-14",
+      "title": "Hoofdstuk 5 Handhaving"
+    },
+    {
+      "n": 15,
+      "slug": "deel-15",
+      "title": "Hoofdstuk 6 Algemene bepalingen over bezwaar en beroep"
+    },
+    {
+      "n": 16,
+      "slug": "deel-16",
+      "title": "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep"
+    },
+    {
+      "n": 17,
+      "slug": "deel-17",
+      "title": "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep"
+    },
+    {
+      "n": 18,
+      "slug": "deel-18",
+      "title": "Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter"
+    },
+    {
+      "n": 19,
+      "slug": "deel-19",
+      "title": "Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter"
+    },
+    {
+      "n": 20,
+      "slug": "deel-20",
+      "title": "Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter"
+    },
+    {
+      "n": 21,
+      "slug": "deel-21",
+      "title": "Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter"
+    },
+    {
+      "n": 22,
+      "slug": "deel-22",
+      "title": "Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter"
+    },
+    {
+      "n": 23,
+      "slug": "deel-23",
+      "title": "Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter"
+    },
+    {
+      "n": 24,
+      "slug": "deel-24",
+      "title": "Hoofdstuk 9 Klachtbehandeling"
+    },
+    {
+      "n": 25,
+      "slug": "deel-25",
+      "title": "Hoofdstuk 9 Klachtbehandeling"
+    },
+    {
+      "n": 26,
+      "slug": "deel-26",
+      "title": "Hoofdstuk 10 Bepalingen over bestuursorganen"
+    },
+    {
+      "n": 27,
+      "slug": "deel-27",
+      "title": "Hoofdstuk 10 Bepalingen over bestuursorganen"
+    },
+    {
+      "n": 28,
+      "slug": "deel-28",
+      "title": "Hoofdstuk 11 Slotbepalingen"
+    },
+    {
+      "n": 29,
+      "slug": "deel-29",
+      "title": "Bijlage 1 Regeling rechtstreeks beroep (artikel 7:1, eerste lid, onderdeel g)"
+    },
+    {
+      "n": 30,
+      "slug": "deel-30",
+      "title": "Bijlage 2 Bevoegdheidsregeling bestuursrechtspraak (artikelen 8:5, 8:6, 8:7, 8:105 en 8:106)"
+    },
+    {
+      "n": 31,
+      "slug": "deel-31",
+      "title": "Bijlage 3 Regeling verlaagd griffierecht (artikelen 8:41 en 8:109)"
+    }
+  ],
+  "decisive_date": "2026-10-19",
+  "consolidation_date": "2026-08-15",
+  "official_source_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+  "official_xml_path": "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537/sources/intake-official.xml",
+  "official_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871"
+}

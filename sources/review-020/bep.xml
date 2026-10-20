@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0044275/2021-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0044275" inwerkingtreding="2021-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties><redactionele-correctie label-id="15620844" oud-revisie-id="38396921" nieuw-revisie-id="40475771"/><redactionele-correctie label-id="15620844" oud-revisie-id="40475771" nieuw-revisie-id="41349571"/><redactionele-correctie label-id="15620854" oud-revisie-id="38396931" nieuw-revisie-id="40484871"/><redactionele-correctie label-id="15620854" oud-revisie-id="40484871" nieuw-revisie-id="41349581"/><redactionele-correctie label-id="15620864" oud-revisie-id="38396941" nieuw-revisie-id="40484881"/><redactionele-correctie label-id="15620864" oud-revisie-id="40484881" nieuw-revisie-id="41349591"/><redactionele-correctie label-id="15620874" oud-revisie-id="38396951" nieuw-revisie-id="40484891"/><redactionele-correctie label-id="15620874" oud-revisie-id="40484891" nieuw-revisie-id="41349601"/><redactionele-correctie label-id="15620884" oud-revisie-id="38396961" nieuw-revisie-id="40484911"/><redactionele-correctie label-id="15620884" oud-revisie-id="40484911" nieuw-revisie-id="41349611"/><redactionele-correctie label-id="15620894" oud-revisie-id="38396971" nieuw-revisie-id="40484921"/><redactionele-correctie label-id="15620894" oud-revisie-id="40484921" nieuw-revisie-id="41349621"/><redactionele-correctie label-id="15620904" oud-revisie-id="38396981" nieuw-revisie-id="40484931"/><redactionele-correctie label-id="15620904" oud-revisie-id="40484931" nieuw-revisie-id="41349631"/><redactionele-correctie label-id="15620914" oud-revisie-id="38396991" nieuw-revisie-id="40484951"/><redactionele-correctie label-id="15620914" oud-revisie-id="40484951" nieuw-revisie-id="41349641"/><redactionele-correctie label-id="15620924" oud-revisie-id="38397001" nieuw-revisie-id="40484961"/><redactionele-correctie label-id="15620924" oud-revisie-id="40484961" nieuw-revisie-id="41349651"/><redactionele-correctie label-id="15620934" oud-revisie-id="38397011" nieuw-revisie-id="40484971"/><redactionele-correctie label-id="15620934" oud-revisie-id="40484971" nieuw-revisie-id="41349661"/><redactionele-correctie label-id="15620944" oud-revisie-id="38397021" nieuw-revisie-id="40484981"/><redactionele-correctie label-id="15620944" oud-revisie-id="40484981" nieuw-revisie-id="41349671"/></redactionele-correcties><wetgeving dtdversie="2.0" soort="AMvB" stam-id="15681833" versie-id="27168622" id="C38397041" label-id="15620964" inwerkingtredingsdatum="2021-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="15681863" versie-id="27168472" id="C38396891" label-id="15620814" inwerking="2021-01-01" bron="Stb.2020-410" effect="nieuwe-regeling" ondertekening_bron="2020-10-15" publicatie_bron="2020-10-30" publicatie_iwt="2020-10-30" status="goed">Besluit van 15 oktober 2020, houdende regels voor het langs elektronische weg procederen in het civiele recht en in het bestuursrecht (Besluit elektronisch procederen)<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="15681873" versie-id="27168482" id="C38396901" label-id="15620824" inwerking="2021-01-01" bron="Stb.2020-410" effect="nieuwe-regeling" ondertekening_bron="2020-10-15" publicatie_bron="2020-10-30" publicatie_iwt="2020-10-30">Besluit elektronisch procederen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="15681883" versie-id="27168492" id="C38396911" label-id="15620834" inwerking="2021-01-01" bron="Stb.2020-410" effect="nieuwe-regeling" ondertekening_bron="2020-10-15" publicatie_bron="2020-10-30" publicatie_iwt="2020-10-30" status="goed">
+  <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al bevat="voordracht">Op de voordracht van Onze Minister voor Rechtsbescherming van 10 juli 2020, nr. 2968352; directie Wetgeving en Juridische Zaken,</considerans.al>
+    <considerans.al>Gelet op:</considerans.al>
+    <considerans.lijst bevat="grondslag" type="expliciet">
+      <li bwb-ng-variabel-deel="/Aanhef/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de <extref doc="jci1.3:c:BWBR0001827&amp;artikel=33" label-id="3177284" verwijzing-id="3030175" bwb-id="BWBR0001827">artikelen 33, tweede lid</extref>, en <extref doc="jci1.3:c:BWBR0001827&amp;artikel=125" label-id="3178374" verwijzing-id="3030176" bwb-id="BWBR0001827">125, derde lid, van het Wetboek van Burgerlijke Rechtsvordering</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;o=a&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Aanhef/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de <extref doc="jci1.3:c:BWBR0001827&amp;artikel=30c" label-id="13680144" verwijzing-id="3030177" bwb-id="BWBR0001827">artikelen 30c, derde lid</extref>, <extref doc="jci1.3:c:BWBR0001827&amp;artikel=30f" label-id="13680174" verwijzing-id="3030178" bwb-id="BWBR0001827">30f</extref> en <extref doc="jci1.3:c:BWBR0001827&amp;artikel=30n" label-id="13680254" verwijzing-id="3030179" bwb-id="BWBR0001827">30n, achtste lid, van het Wetboek van Burgerlijke Rechtsvordering</extref> zoals dat luidt voor de procedures en vorderingen voor de Hoge Raad waarvoor de <extref doc="jci1.3:c:BWBR0038353" label-id="13682114" verwijzing-id="3030736" bwb-id="BWBR0038353">Wet van 13 juli 2016 tot wijziging van het Wetboek van Burgerlijke Rechtsvordering en de Algemene wet bestuursrecht in verband met vereenvoudiging en digitalisering van het procesrecht</extref> (Stb. 2016, 288) in werking is getreden;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;o=b&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Aanhef/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de <extref doc="jci1.3:c:BWBR0005537&amp;artikel=8:36b" label-id="13681484" verwijzing-id="3030181" bwb-id="BWBR0005537">artikelen 8:36b, tweede lid</extref>, <extref doc="jci1.3:c:BWBR0005537&amp;artikel=8:36d" label-id="13681504" verwijzing-id="3030182" bwb-id="BWBR0005537">8:36d, eerste lid</extref>, <extref doc="jci1.3:c:BWBR0005537&amp;artikel=8:36f" label-id="13681524" verwijzing-id="3030183" bwb-id="BWBR0005537">8:36f, eerste lid</extref>, en <extref doc="jci1.3:c:BWBR0005537&amp;artikel=8:40a" label-id="10495494" verwijzing-id="3030184" bwb-id="BWBR0005537">8:40a, tweede lid, van de Algemene wet bestuursrecht</extref>; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;o=c&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Aanhef/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>
+          <extref doc="jci1.3:c:BWBR0040940&amp;artikel=46" label-id="14570224" verwijzing-id="3030185" bwb-id="BWBR0040940">artikel 46, tweede lid, van de Uitvoeringswet Algemene verordening gegevensbescherming</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;o=d&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+    </considerans.lijst>
+    <considerans.al bevat="gehoord">De Afdeling advisering van de Raad van State gehoord (advies van 23 september 2020, nr. W16.20.0245/II);</considerans.al>
+    <considerans.al bevat="gezien">Gezien het nader rapport van Onze Minister voor Rechtsbescherming van 15 oktober 2020; nr. 3051637, directie Wetgeving en Juridische Zaken;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Hebben goedgevonden en verstaan:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="15681893" versie-id="27168502" id="C41349571" label-id="15620844" inwerking="2021-01-01" label="Artikel 1" bron="Stb.2020-410" effect="nieuwe-regeling" ondertekening_bron="2020-10-15" publicatie_bron="2020-10-30" publicatie_iwt="2020-10-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>Dit besluit is van toepassing op het langs elektronische weg procederen in het civiele recht of in het bestuursrecht bij:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>de rechtbanken, de gerechtshoven en de Hoge Raad;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=1&amp;o=a&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>de Afdeling bestuursrechtspraak van de Raad van State;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=1&amp;o=b&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>de Centrale Raad van Beroep;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=1&amp;o=c&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>het College van Beroep voor het bedrijfsleven.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=1&amp;o=d&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044275&amp;artikel=1&amp;g=2021-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0044275&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=1&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0044275&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="15681903" versie-id="27168512" id="C41349581" label-id="15620854" inwerking="2021-01-01" label="Artikel 2" bron="Stb.2020-410" effect="nieuwe-regeling" ondertekening_bron="2020-10-15" publicatie_bron="2020-10-30" publicatie_iwt="2020-10-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid1" label-id="15620854L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Als bij een rechterlijke instantie in een categorie van zaken een verplichting tot elektronisch procederen geldt, wordt daartoe in een voor die rechterlijke instantie vastgesteld procesreglement een digitaal systeem voor gegevensverwerking aangewezen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=2&amp;lid=1&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid2" label-id="15620854L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Voor andere gevallen kan de rechterlijke instantie in een categorie van zaken de mogelijkheid van elektronisch procederen geheel of gedeeltelijk openstellen door daartoe in een voor die rechterlijke instantie vastgesteld procesreglement een digitaal systeem voor gegevensverwerking aan te wijzen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=2&amp;lid=2&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel2/Lid3" label-id="15620854L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Een grosse kan niet via een digitaal systeem voor gegevensverwerking worden verzonden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=2&amp;lid=3&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044275&amp;artikel=2&amp;g=2021-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0044275&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=2&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0044275&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="15681913" versie-id="27168522" id="C41349591" label-id="15620864" inwerking="2021-01-01" label="Artikel 3" bron="Stb.2020-410" effect="nieuwe-regeling" ondertekening_bron="2020-10-15" publicatie_bron="2020-10-30" publicatie_iwt="2020-10-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="15620864L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een op grond van <intref doc="jci1.3:c:BWBR0044275&amp;artikel=2&amp;z=2021-01-01&amp;g=2021-01-01" label-id="15620854" verwijzing-id="3030197" bwb-id="BWBR0044275" bwb-ng-variabel-deel="/Artikel2">artikel 2, eerste of tweede lid</intref>, aangewezen digitaal systeem voor gegevensverwerking voldoet aan de volgende eisen:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de gebruiker van het systeem wordt geïdentificeerd;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=3&amp;lid=1&amp;o=a&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>een procespartij, procesvertegenwoordiger of een bij de procedure betrokken derde die toegang verkrijgt tot het systeem anders dan via een koppeling met een ander digitaal systeem voor gegevensverwerking, wordt geauthenticeerd;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=3&amp;lid=1&amp;o=b&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>na te gaan is wie wordt beschouwd als de indiener van een bericht;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=3&amp;lid=1&amp;o=c&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>na te gaan is of een bericht is gewijzigd na het moment van verzending;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=3&amp;lid=1&amp;o=d&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>na te gaan is op welk tijdstip een bericht door een rechterlijke instantie elektronisch is ontvangen, respectievelijk door de griffie elektronisch is verzonden;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=3&amp;lid=1&amp;o=e&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>de berichten in het systeem, alsmede, indien van toepassing, het digitale dossier, zijn uitsluitend toegankelijk voor personen die daarvoor zijn geautoriseerd; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=3&amp;lid=1&amp;o=f&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel3/Lid1/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>na te gaan is wanneer zich een verstoring in het digitale systeem voordoet of heeft voorgedaan.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=3&amp;lid=1&amp;o=g&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=3&amp;lid=1&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="15620864L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Toegang tot een aangewezen digitaal systeem voor gegevensverwerking via een koppeling met een ander digitaal systeem voor gegevensverwerking wordt slechts verleend als het betrouwbaarheidsniveau van dat systeem ten minste gelijkwaardig is aan het betrouwbaarheidsniveau van het aangewezen digitale systeem.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=3&amp;lid=2&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044275&amp;artikel=3&amp;g=2021-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0044275&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=3&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0044275&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" stam-id="15681923" versie-id="27168532" id="C41349601" label-id="15620874" inwerking="2021-01-01" label="Artikel 4" bron="Stb.2020-410" effect="nieuwe-regeling" ondertekening_bron="2020-10-15" publicatie_bron="2020-10-30" publicatie_iwt="2020-10-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <al>De authenticatie, bedoeld in <intref doc="jci1.3:c:BWBR0044275&amp;artikel=3&amp;z=2021-01-01&amp;g=2021-01-01" label-id="15620864" verwijzing-id="3030198" bwb-id="BWBR0044275" bwb-ng-variabel-deel="/Artikel3">artikel 3, eerste lid, onder b</intref>, vindt plaats met een middel dat in het desbetreffende procesreglement is aangewezen en dat:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel4/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>is uitgegeven door:</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li bwb-ng-variabel-deel="/Artikel4/Onderdeela/Onderdeel1">
+          <li.nr>1°.</li.nr>
+          <al>de overheid;</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=4&amp;o=a&amp;o=1&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=1"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/Artikel4/Onderdeela/Onderdeel2">
+          <li.nr>2°.</li.nr>
+          <al>een daartoe onder toezicht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties staande organisatie; of</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=4&amp;o=a&amp;o=2&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=2"/></jcis></meta-data></li>
+        <li bwb-ng-variabel-deel="/Artikel4/Onderdeela/Onderdeel3">
+          <li.nr>3°.</li.nr>
+          <al>de Nederlandse orde van advocaten; en</al>
+        <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=4&amp;o=a&amp;o=3&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=3"/></jcis></meta-data></li>
+      </lijst>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=4&amp;o=a&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel4/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>uitgaat van tweefactorauthenticatie of voldoet aan het betrouwbaarheidsniveau substantieel of hoog.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=4&amp;o=b&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044275&amp;artikel=4&amp;g=2021-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0044275&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=4&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0044275&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" stam-id="15681933" versie-id="27168542" id="C41349611" label-id="15620884" inwerking="2021-01-01" label="Artikel 5" bron="Stb.2020-410" effect="nieuwe-regeling" ondertekening_bron="2020-10-15" publicatie_bron="2020-10-30" publicatie_iwt="2020-10-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid1" label-id="15620884L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Tenzij de wet anders bepaalt, ondertekent degene die op grond van het <extref doc="jci1.3:c:BWBR0001827" label-id="3192094" verwijzing-id="3030186" bwb-id="BWBR0001827">Wetboek van Burgerlijke Rechtsvordering</extref> of de <extref doc="jci1.3:c:BWBR0005537" label-id="2816734" verwijzing-id="3030187" bwb-id="BWBR0005537">Algemene wet bestuursrecht</extref> een stuk dient te ondertekenen, het stuk voorafgaand aan de indiening, verzending of plaatsing in het aangewezen systeem. Hierbij kan gebruik worden gemaakt van een gewone elektronische handtekening, tenzij bij procesreglement een gekwalificeerde of geavanceerde elektronische handtekening is voorgeschreven. <extref doc="jci1.3:c:BWBR0005291&amp;artikel=15a" label-id="2898674" verwijzing-id="3030188" bwb-id="BWBR0005291">Artikel 15a van Boek 3 van het Burgerlijk Wetboek</extref> is van toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=5&amp;lid=1&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid2" label-id="15620884L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>In afwijking van het eerste lid, geldt een stuk dat langs elektronische weg is ingediend in een daartoe aangewezen digitaal systeem voor gegevensverwerking door een op persoonsniveau geauthenticeerde procespartij, procesvertegenwoordiger of bij de procedure betrokken derde, als ondertekend door die persoon. Dit is niet van toepassing op de ondertekening van akten als bedoeld in <extref doc="jci1.3:c:BWBR0001827&amp;artikel=156" label-id="3178964" verwijzing-id="3030189" bwb-id="BWBR0001827">artikel 156 van het Wetboek van Burgerlijke Rechtsvordering</extref> en van documenten in een arbitrageprocedure ingevolge het <extref doc="jci1.3:c:BWBR0001827&amp;boek=Vierde" label-id="3192084" verwijzing-id="3030164" bwb-id="BWBR0001827">Vierde Boek van het Wetboek van Burgerlijke Rechtsvordering</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=5&amp;lid=2&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044275&amp;artikel=5&amp;g=2021-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0044275&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=5&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0044275&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" stam-id="15681943" versie-id="27168552" id="C41349621" label-id="15620894" inwerking="2021-01-01" label="Artikel 6" bron="Stb.2020-410" effect="nieuwe-regeling" ondertekening_bron="2020-10-15" publicatie_bron="2020-10-30" publicatie_iwt="2020-10-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid1" label-id="15620894L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Als een natuurlijk persoon over een burgerservicenummer beschikt, zijn de volgende personen bevoegd om dit nummer van de persoon die hij vertegenwoordigt of in wiens opdracht hij handelt, te verwerken ten behoeve van de procedure:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel6/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>degene die beroepsmatig rechtsbijstand verleent;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=6&amp;lid=1&amp;o=a&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel6/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de gerechtsdeurwaarder; of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=6&amp;lid=1&amp;o=b&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel6/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>een andere gemachtigde in zaken waarin partijen in persoon kunnen procederen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=6&amp;lid=1&amp;o=c&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=6&amp;lid=1&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid2" label-id="15620894L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De gerechtsdeurwaarder is tevens bevoegd om bij het indienen van de dagvaarding of de procesinleiding en bij het exploot van betekening het burgerservicenummer van de gedaagde of verweerder te verwerken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=6&amp;lid=2&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044275&amp;artikel=6&amp;g=2021-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0044275&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=6&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0044275&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" stam-id="15681953" versie-id="27168562" id="C41349631" label-id="15620904" inwerking="2021-01-01" label="Artikel 7" bron="Stb.2020-410" effect="nieuwe-regeling" ondertekening_bron="2020-10-15" publicatie_bron="2020-10-30" publicatie_iwt="2020-10-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <al>Een onderneming of rechtspersoon die niet op grond van <extref doc="jci1.3:c:BWBR0021777&amp;artikel=5" label-id="9037704" verwijzing-id="3030190" bwb-id="BWBR0021777">artikel 5</extref> of <extref doc="jci1.3:c:BWBR0021777&amp;artikel=6" label-id="9037714" verwijzing-id="3030191" bwb-id="BWBR0021777">6 van de Handelsregisterwet 2007</extref> staat ingeschreven in het handelsregister is niet verplicht elektronisch te procederen tenzij de onderneming of rechtspersoon in de procedure wordt vertegenwoordigd door een derde die in Nederland verplicht is tot elektronisch procederen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044275&amp;artikel=7&amp;g=2021-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0044275&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=7&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0044275&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" stam-id="15681963" versie-id="27168572" id="C41349641" label-id="15620914" inwerking="2021-01-01" label="Artikel 8" bron="Stb.2020-410" effect="nieuwe-regeling" ondertekening_bron="2020-10-15" publicatie_bron="2020-10-30" publicatie_iwt="2020-10-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <al>Als op de laatste dag van een voor de indiener geldende termijn voor indiening van een bericht een niet aan hem toerekenbare verstoring plaatsvindt van de toegang tot het aangewezen digitale systeem voor gegevensverwerking, is een daardoor veroorzaakte overschrijding van de termijn verschoonbaar als het bericht uiterlijk wordt ingediend op de eerstvolgende dag na de dag waarop de indiener ermee bekend had kunnen zijn dat de verstoring is verholpen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044275&amp;artikel=8&amp;g=2021-01-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0044275&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=8&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0044275&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" stam-id="15681973" versie-id="27168582" id="C41349651" label-id="15620924" inwerking="2021-01-01" label="Artikel 9" bron="Stb.2020-410" effect="nieuwe-regeling" ondertekening_bron="2020-10-15" publicatie_bron="2020-10-30" publicatie_iwt="2020-10-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <al>De volgende besluiten en regeling worden ingetrokken:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel9/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>het <extref doc="jci1.3:c:BWBR0024155" label-id="9622014" verwijzing-id="3030192" bwb-id="BWBR0024155">Besluit van 3 juli 2008, houdende regels aangaande de betrouwbaarheid en vertrouwelijkheid van het elektronisch verzenden van verzoeken en mededelingen met betrekking tot de rol</extref> (Stb. 2008, 275);</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=9&amp;o=a&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel9/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>het <extref doc="jci1.3:c:BWBR0031726" label-id="11745924" verwijzing-id="3030193" bwb-id="BWBR0031726">Besluit elektronische indiening dagvaarding</extref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=9&amp;o=b&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel9/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>het <extref doc="jci1.3:c:BWBR0027917" label-id="10584664" verwijzing-id="3030194" bwb-id="BWBR0027917">Besluit elektronisch verkeer met de bestuursrechter</extref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=9&amp;o=c&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel9/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>het <extref doc="jci1.3:c:BWBR0038338" label-id="13678314" verwijzing-id="3030195" bwb-id="BWBR0038338">Besluit digitalisering burgerlijk procesrecht en bestuursprocesrecht</extref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=9&amp;o=d&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel9/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>de <extref doc="jci1.3:c:BWBR0028524" label-id="10809904" verwijzing-id="3030196" bwb-id="BWBR0028524">Regeling aanwijzing betrouwbaarheidsniveau authentificatie bij elektronisch verkeer bij de bestuursrechter</extref>.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=9&amp;o=e&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044275&amp;artikel=9&amp;g=2021-01-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0044275&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=9&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0044275&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" stam-id="15681983" versie-id="27168592" id="C41349661" label-id="15620934" inwerking="2021-01-01" label="Artikel 10" bron="Stb.2020-410" effect="nieuwe-regeling" ondertekening_bron="2020-10-15" publicatie_bron="2020-10-30" publicatie_iwt="2020-10-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">10</nr>
+  </kop>
+  <al>Dit besluit treedt in werking op 1 januari 2021.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044275&amp;artikel=10&amp;g=2021-01-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0044275&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=10&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0044275&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" stam-id="15681993" versie-id="27168602" id="C41349671" label-id="15620944" inwerking="2021-01-01" label="Artikel 11" bron="Stb.2020-410" effect="nieuwe-regeling" ondertekening_bron="2020-10-15" publicatie_bron="2020-10-30" publicatie_iwt="2020-10-30" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <al>Dit besluit wordt aangehaald als: Besluit elektronisch procederen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044275&amp;artikel=11&amp;g=2021-01-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0044275&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;artikel=11&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0044275&amp;artikel=11"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="15682003" versie-id="27168612" id="C38397031" label-id="15620954" inwerking="2021-01-01" bron="Stb.2020-410" effect="nieuwe-regeling" ondertekening_bron="2020-10-15" publicatie_bron="2020-10-30" publicatie_iwt="2020-10-30" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>’s-Gravenhage</plaats>
+      <datum isodatum="2020-10-15">15 oktober 2020</datum>
+    </dagtekening>
+    <koning>Willem-Alexander</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister voor Rechtsbescherming,</functie>
+    <naam>
+      <voornaam>S.</voornaam>
+      <achternaam>Dekker</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="2020-10-30">de <nadruk type="cur">dertigste</nadruk> oktober 2020</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie en Veiligheid,</functie>
+      <naam>
+        <voornaam>F.B.J.</voornaam>
+        <achternaam>Grapperhaus</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2020-410"><publicatiejaar>2020</publicatiejaar><publicatienr>410</publicatienr><uitgiftedatum isodatum="2020-10-30">30-10-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-10-15">15-10-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-01-01">01-01-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0044275&amp;g=2021-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0044275"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0044275&amp;z=2021-01-01&amp;g=2021-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0044275"/></jcis></meta-data></wetgeving></toestand>

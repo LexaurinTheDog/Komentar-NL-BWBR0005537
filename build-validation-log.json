@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-10-20T18:57:35.623481+00:00",
+  "checked_at": "2026-10-20T19:03:56.062757+00:00",
   "shared_builder": {
+    "command": [
+      "python3",
+      "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
+      "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537"
+    ],
     "exit_code": 1,
     "stdout": "",
     "stderr": "CHYBÍ komentář k 188 jednotkám, např.: ['art-8:45', 'art-8:45a', 'art-8:46', 'art-8:47', 'art-8:48', 'art-8:49', 'art-8:50', 'art-8:51', 'art-8:51a', 'art-8:51b']\n"
   },
-  "checkpoint_method": "Shared builder executed unchanged; it correctly refuses 188 missing units. Only chapters19/20 rebuilt from shared load_units/load_commentary/quote, retaining all real earlier commentaries. No substitute prose for missing units.",
-  "bounded_author_complete": true,
+  "checkpoint_method": "Render the two involved chapters from unchanged shared load_units/load_commentary/quote. No missing-unit prose fabricated.",
+  "bounded_review_complete": true,
   "whole_book_complete": false
 }

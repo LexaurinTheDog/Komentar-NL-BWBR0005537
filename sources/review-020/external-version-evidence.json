@@ -1,0 +1,162 @@
+[
+  {
+    "name": "bep",
+    "bwb_id": "BWBR0044275",
+    "current_url": "https://wetten.overheid.nl/BWBR0044275",
+    "selected_version": "2021-01-01",
+    "effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 01-01-2021 t/m heden.",
+    "latest_on_decisive_date": "2021-01-01",
+    "latest_on_recheck": "2021-01-01",
+    "history_rows": [
+      {
+        "date": "2021-01-01",
+        "text": "01-01-2021 Nieuwe-regeling 15-10-2020 Stb. 2020, 410 15-10-2020 Stb. 2020, 410"
+      }
+    ],
+    "xml_path": "sources/review-020/bep.xml",
+    "sha256": "24b2ef4f0a4cfb6d1d81aeb7b1fdfbd19aa75f40adfbddd02afe2ec70b1ee820",
+    "read_articles": [
+      {
+        "nr": "1",
+        "text": "Dit besluit is van toepassing op het langs elektronische weg procederen in het civiele recht of in het bestuursrecht bij: a. de rechtbanken, de gerechtshoven en de Hoge Raad; b. de Afdeling bestuursrechtspraak van de Raad van State; c. de Centrale Raad van Beroep; d. het College van Beroep voor het bedrijfsleven."
+      },
+      {
+        "nr": "2",
+        "text": "1 Als bij een rechterlijke instantie in een categorie van zaken een verplichting tot elektronisch procederen geldt, wordt daartoe in een voor die rechterlijke instantie vastgesteld procesreglement een digitaal systeem voor gegevensverwerking aangewezen. 2 Voor andere gevallen kan de rechterlijke instantie in een categorie van zaken de mogelijkheid van elektronisch procederen geheel of gedeeltelijk openstellen door daartoe in een voor die rechterlijke instantie vastgesteld procesreglement een digitaal systeem voor gegevensverwerking aan te wijzen. 3 Een grosse kan niet via een digitaal systeem voor gegevensverwerking worden verzonden."
+      },
+      {
+        "nr": "3",
+        "text": "1 Een op grond van artikel 2, eerste of tweede lid, aangewezen digitaal systeem voor gegevensverwerking voldoet aan de volgende eisen: a. de gebruiker van het systeem wordt geïdentificeerd; b. een procespartij, procesvertegenwoordiger of een bij de procedure betrokken derde die toegang verkrijgt tot het systeem anders dan via een koppeling met een ander digitaal systeem voor gegevensverwerking, wordt geauthenticeerd; c. na te gaan is wie wordt beschouwd als de indiener van een bericht; d. na te gaan is of een bericht is gewijzigd na het moment van verzending; e. na te gaan is op welk tijdstip een bericht door een rechterlijke instantie elektronisch is ontvangen, respectievelijk door de griffie elektronisch is verzonden; f. de berichten in het systeem, alsmede, indien van toepassing, het digitale dossier, zijn uitsluitend toegankelijk voor personen die daarvoor zijn geautoriseerd; en g. na te gaan is wanneer zich een verstoring in het digitale systeem voordoet of heeft voorgedaan. 2 Toegang tot een aangewezen digitaal systeem voor gegevensverwerking via een koppeling met een ander digitaal systeem voor gegevensverwerking wordt slechts verleend als het betrouwbaarheidsniveau van dat systeem ten minste gelijkwaardig is aan het betrouwbaarheidsniveau van het aangewezen digitale systeem."
+      },
+      {
+        "nr": "4",
+        "text": "De authenticatie, bedoeld in artikel 3, eerste lid, onder b, vindt plaats met een middel dat in het desbetreffende procesreglement is aangewezen en dat: a. is uitgegeven door: 1°. de overheid; 2°. een daartoe onder toezicht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties staande organisatie; of 3°. de Nederlandse orde van advocaten; en b. uitgaat van tweefactorauthenticatie of voldoet aan het betrouwbaarheidsniveau substantieel of hoog."
+      },
+      {
+        "nr": "5",
+        "text": "1 Tenzij de wet anders bepaalt, ondertekent degene die op grond van het Wetboek van Burgerlijke Rechtsvordering of de Algemene wet bestuursrecht een stuk dient te ondertekenen, het stuk voorafgaand aan de indiening, verzending of plaatsing in het aangewezen systeem. Hierbij kan gebruik worden gemaakt van een gewone elektronische handtekening, tenzij bij procesreglement een gekwalificeerde of geavanceerde elektronische handtekening is voorgeschreven. Artikel 15a van Boek 3 van het Burgerlijk Wetboek is van toepassing. 2 In afwijking van het eerste lid, geldt een stuk dat langs elektronische weg is ingediend in een daartoe aangewezen digitaal systeem voor gegevensverwerking door een op persoonsniveau geauthenticeerde procespartij, procesvertegenwoordiger of bij de procedure betrokken derde, als ondertekend door die persoon. Dit is niet van toepassing op de ondertekening van akten als bedoeld in artikel 156 van het Wetboek van Burgerlijke Rechtsvordering en van documenten in een arbitrageprocedure ingevolge het Vierde Boek van het Wetboek van Burgerlijke Rechtsvordering."
+      },
+      {
+        "nr": "6",
+        "text": "1 Als een natuurlijk persoon over een burgerservicenummer beschikt, zijn de volgende personen bevoegd om dit nummer van de persoon die hij vertegenwoordigt of in wiens opdracht hij handelt, te verwerken ten behoeve van de procedure: a. degene die beroepsmatig rechtsbijstand verleent; b. de gerechtsdeurwaarder; of c. een andere gemachtigde in zaken waarin partijen in persoon kunnen procederen. 2 De gerechtsdeurwaarder is tevens bevoegd om bij het indienen van de dagvaarding of de procesinleiding en bij het exploot van betekening het burgerservicenummer van de gedaagde of verweerder te verwerken."
+      },
+      {
+        "nr": "7",
+        "text": "Een onderneming of rechtspersoon die niet op grond van artikel 5 of 6 van de Handelsregisterwet 2007 staat ingeschreven in het handelsregister is niet verplicht elektronisch te procederen tenzij de onderneming of rechtspersoon in de procedure wordt vertegenwoordigd door een derde die in Nederland verplicht is tot elektronisch procederen."
+      },
+      {
+        "nr": "8",
+        "text": "Als op de laatste dag van een voor de indiener geldende termijn voor indiening van een bericht een niet aan hem toerekenbare verstoring plaatsvindt van de toegang tot het aangewezen digitale systeem voor gegevensverwerking, is een daardoor veroorzaakte overschrijding van de termijn verschoonbaar als het bericht uiterlijk wordt ingediend op de eerstvolgende dag na de dag waarop de indiener ermee bekend had kunnen zijn dat de verstoring is verholpen."
+      },
+      {
+        "nr": "9",
+        "text": "De volgende besluiten en regeling worden ingetrokken: a. het Besluit van 3 juli 2008, houdende regels aangaande de betrouwbaarheid en vertrouwelijkheid van het elektronisch verzenden van verzoeken en mededelingen met betrekking tot de rol (Stb. 2008, 275); b. het Besluit elektronische indiening dagvaarding; c. het Besluit elektronisch verkeer met de bestuursrechter; d. het Besluit digitalisering burgerlijk procesrecht en bestuursprocesrecht; e. de Regeling aanwijzing betrouwbaarheidsniveau authentificatie bij elektronisch verkeer bij de bestuursrechter."
+      },
+      {
+        "nr": "10",
+        "text": "Dit besluit treedt in werking op 1 januari 2021."
+      },
+      {
+        "nr": "11",
+        "text": "Dit besluit wordt aangehaald als: Besluit elektronisch procederen."
+      }
+    ],
+    "limits": "Geen algemene landelijke digitale verplichting uit dit besluit afgeleid."
+  },
+  {
+    "name": "tarieven",
+    "bwb_id": "BWBR0002406",
+    "current_url": "https://wetten.overheid.nl/BWBR0002406",
+    "selected_version": "2025-07-01",
+    "effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 01-07-2025 t/m heden.",
+    "latest_on_decisive_date": "2025-07-01",
+    "latest_on_recheck": "2025-07-01",
+    "history_rows": [
+      {
+        "date": "2025-07-01",
+        "text": "01-07-2025 Wijziging Datum inwerkingtreding: 01-07-2025 Ontstaansbron: Stb. 2025, 124 Inwerkingtredingsbron: Stb. 2025, 155 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 23-04-2025 Stb. 2025, 124 36638 28-05-2025 Stb. 2025, 155"
+      },
+      {
+        "date": "2020-01-01",
+        "text": "01-01-2020 Wijziging Datum inwerkingtreding: 01-01-2020 Ontstaansbron: Stb. 2017, 82 Inwerkingtredingsbron: Stb. 2019, 507 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 22-02-2017 Stb. 2017, 82 34086 18-12-2019 Stb. 2019, 507"
+      },
+      {
+        "date": "2017-04-01",
+        "text": "01-04-2017 Wijziging Datum inwerkingtreding: 01-04-2017 Ontstaansbron: Stb. 2017, 90 Inwerkingtredingsbron: Stb. 2017, 128 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 08-03-2017 Stb. 2017, 90 34236 23-03-2017 Stb. 2017, 128"
+      },
+      {
+        "date": "2017-03-01",
+        "text": "01-03-2017 Wijziging Datum inwerkingtreding: 01-03-2017 Ontstaansbron: Stb. 2016, 476 Inwerkingtredingsbron: Stb. 2017, 66 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 17-11-2016 Stb. 2016, 476 34159 20-02-2017 Stb. 2017, 66"
+      },
+      {
+        "date": "2013-10-01",
+        "text": "01-10-2013 Wijziging Datum inwerkingtreding: 01-10-2013 Ontstaansbron: Stb. 2013, 85 Inwerkingtredingsbron: Stb. 2013, 268 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 28-02-2013 Stb. 2013, 85 33355 21-06-2013 Stb. 2013, 268"
+      },
+      {
+        "date": "2013-07-01",
+        "text": "01-07-2013 Wijziging Datum inwerkingtreding: 01-07-2013 Ontstaansbron: Stb. 2013, 225 Inwerkingtredingsbron: Stb. 2013, 257 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 19-06-2013 Stb. 2013, 225 33012 25-06-2013 Stb. 2013, 257"
+      },
+      {
+        "date": "2013-01-01",
+        "text": "01-01-2013 Wijziging Datum inwerkingtreding: 01-01-2013 Ontstaansbron: Stb. 2012, 313 Inwerkingtredingsbron: Stb. 2012, 314 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 12-07-2012 Stb. 2012, 313 32891 12-07-2012 Stb. 2012, 314"
+      },
+      {
+        "date": "2010-11-01",
+        "text": "01-11-2010 Wijziging Datum inwerkingtreding: 01-11-2010 Ontstaansbron: Stb. 2010, 715 Inwerkingtredingsbron: Stb. 2010, 726 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 30-09-2010 Stb. 2010, 715 31758 26-10-2010 Stb. 2010, 726"
+      },
+      {
+        "date": "2004-09-01",
+        "text": "01-09-2004 Wijziging Datum inwerkingtreding: 01-09-2004 Ontstaansbron: Stb. 2004, 315 Inwerkingtredingsbron: Stb. 2004, 390 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 30-06-2004 Stb. 2004, 315 28886 03-08-2004 Stb. 2004, 390"
+      },
+      {
+        "date": "2004-04-01",
+        "text": "01-04-2004 Wijziging Datum inwerkingtreding: 01-04-2004 Ontstaansbron: Stb. 2002, 552 Inwerkingtredingsbron: Stb. 2004, 129 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 07-11-2002 Stb. 2002, 552 24797 25-03-2004 Stb. 2004, 129"
+      },
+      {
+        "date": "2002-01-01",
+        "text": "01-01-2002 Wijziging Datum inwerkingtreding: 01-01-2002 Ontstaansbron: Stb. 2001, 584 Inwerkingtredingsbron: Stb. 2001, 621 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wanneer de tekst van het onderdeel beschikbaar is op wetten.overheid.nl is het onderdeel opgenomen als hyperlink. Klikken op de hyperlink toont de tekst op de vermelde datum inwerkingtreding. In de tekst zijn ook wijzigingen verwerkt uit eventuele andere bronnen die op dezelfde datum inwerking treden. Alle informatie is in de bronnen te vinden. 06-12-2001 Stb. 2001, 584 27878 10-12-2001 Stb. 2001, 621"
+      },
+      {
+        "date": "1999-06-01",
+        "text": "01-06-1999 Wijziging Datum inwerkingtreding: 01-06-1999 Ontstaansbron: Stb. 1999, 194 Inwerkingtredingsbron: Stb. 1999, 198 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 2 19-04-1999 Stb. 1999, 194 25392 19-05-1999 Stb. 1999, 198"
+      },
+      {
+        "date": "1994-04-01",
+        "text": "01-04-1994 Wijziging Datum inwerkingtreding: 01-04-1994 Ontstaansbron: Stb. 1993, 725 Inwerkingtredingsbron: Stb. 1994, 27 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 3 09-12-1993 Stb. 1993, 725 23088 07-01-1994 Stb. 1994, 27"
+      },
+      {
+        "date": "1981-06-15",
+        "text": "15-06-1981 Wijziging Datum inwerkingtreding: 15-06-1981 Ontstaansbron: Stb. 1980, 666 Inwerkingtredingsbron: Stb. 1981, 190 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 18 11-12-1980 Stb. 1980, 666 15842 10-04-1981 Stb. 1981, 190"
+      },
+      {
+        "date": "1965-07-12",
+        "text": "12-07-1965 Wijziging Datum inwerkingtreding: 12-07-1965 Ontstaansbron: Stb. 1965, 238 Inwerkingtredingsbron: Stb. 1965, 238 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikel: 9 02-06-1965 Stb. 1965, 238 7911 02-06-1965 Stb. 1965, 238"
+      },
+      {
+        "date": "1964-01-01",
+        "text": "01-01-1964 Nieuwe-regeling Datum inwerkingtreding: 01-01-1964 Ontstaansbron: Stb. 1963, 130 Inwerkingtredingsbron: Stb. 1963, 487 Bovenstaande informatie is aanwezig in de wijzigingshistorie van onderstaande onderdelen van de regeling. In het overzicht ontbreken een aantal onderdelen waarover onvoldoende informatie aanwezig is. Wijzigingen kunnen ook betrekking hebben op onderdelen die niet aanwezig zijn op wetten.overheid.nl. Alle informatie is in de vermelde bronnen te vinden. Artikelen: 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 3, 4, 5, 6, 7, 8, 9, I, II, III, IV, IX, V, VI, VII, VIII, X Derde: Titel Eerste: Titel Tweede: Titel Vierde: Titel §en: 1, 2, 3, 4, 5 28-03-1963 Stb. 1963, 130 6647 29-11-1963 Stb. 1963, 487"
+      }
+    ],
+    "xml_path": "sources/review-020/tarieven.xml",
+    "sha256": "bfaf4b563f42da50a149bd2333dc293875c5cacd09196d29f1bf1b7ce56d9253",
+    "read_articles": [
+      {
+        "nr": "1",
+        "text": "1 Op de voet van het bij en krachtens deze wet bepaalde worden vergoedingen toegekend voor werkzaamheden, voor tijdverzuim alsmede voor daarmede verband houdende noodzakelijke kosten, en voor gemaakte reis- en verblijfkosten, voor zover voortvloeiende uit een verzoek of opdracht van de justitie, ten behoeve van: a. strafzaken, hieronder begrepen zaken betreffende overtredingen waarvan de burgerlijke rechter kennis neemt; b. zaken waarin het openbaar ministerie optreedt ter uitvoering van de wet en waarvan de burgerlijke rechter kennis neemt. 2 Behoudens het bepaalde in lid 3, komen de vergoedingen ten laste van 's Rijks kas, voor zover in bijzondere wetten niet anders is bepaald. 3 Ingeval een verzoek of opdracht, als bedoeld in lid 1, is gedaan of gegeven op verzoek van de verdachte of gerekwestreerde en ingeval een verzoek of opdracht van dezelfde strekking zonder tussenkomst van de justitie is gedaan of gegeven door de verdachte of de gerekwestreerde, komen te diens laste vergoedingen, overeenkomstig het bij en krachtens deze wet bepaalde. Komen deze vergoedingen toe aan opsporingsambtenaren ingevolge een hun gedaan verzoek of gegeven opdracht tot het afleggen van een verklaring in een zaak waarin zij als zodanig zijn opgetreden, dan komen deze vergoedingen ten laste van 's Rijks kas. 4 Indien door de justitie, al dan niet op verzoek van de verdachte, opdracht tot oproeping en bijstand van een tolk of vertaler is gegeven of bijstand van een tolk is verleend op grond van artikel 28, vijfde lid, van het Wetboek van Strafvordering, komen deze vergoedingen eveneens ten laste van ’s Rijks kas. 5 Indien door de justitie, al dan niet op verzoek van het slachtoffer, opdracht tot oproeping en bijstand van een tolk of vertaler is gegeven of bijstand van een tolk is verleend op grond van artikel 51c, vijfde lid, artikel 51ca, eerste, vierde of negende lid of op grond van artikel 163, derde of zevende lid, van het Wetboek van Strafvordering, dan komen de vergoedingen ten laste van ’s Rijks kas."
+      },
+      {
+        "nr": "3",
+        "text": "1 Bij of krachtens algemene maatregel van bestuur worden de tarieven vastgesteld voor vergoedingen voor: a. werkzaamheden ingevolge verzoeken en opdrachten als bedoeld in artikel 1, eerste en derde lid; b. tijdverzuim ingevolge verzoeken en opdrachten als bedoeld in artikel 1, eerste en derde lid, van hen aan wie werkzaamheden zijn opgedragen, van getuigen, van voogden die wegens een strafzaak tegen een onder hun gezag staande minderjarige ingevolge het Wetboek van Strafvordering moeten worden opgeroepen en - ingeval van toepassing van artikel 509d van dat Wetboek - van curatoren; voorts van noodzakelijke geleiders van deze personen en van verdachten of gerekwestreerden, alsmede van met het tijdverzuim verband houdende noodzakelijke kosten. 2 De bedragen, bedoeld in het eerste lid, kunnen bij ministeriële regeling worden gewijzigd voor zover het indexcijfer Cao-lonen per uur inclusief bijzondere beloning, Cao-sector overheid, zoals jaarlijks vastgesteld door het Centraal Bureau voor de Statistiek, daartoe aanleiding geeft. 3 Geen vergoeding wordt toegekend voor werkzaamheden: a. die deel uitmaken van een taak waarvoor een dienstverband met het Rijk bestaat; b. verricht door ambtenaren van politie in diensttijd. 4 Geen vergoeding wordt toegekend wegens tijdverzuim: a. voor de tijd besteed aan werkzaamheden als bedoeld in artikel 1, eerste en derde lid; b. van personen die rechtens van hun vrijheid zijn beroofd; c. van personen in bezoldigde rijksdienst en van militairen in werkelijke dienst, voor zover het tijdverzuim valt in diensttijd; d. van ambtenaren van politie, voor zover het tijdverzuim valt in diensttijd; e. van opsporingsambtenaren, niet behorende tot de sub c en d bedoelde categorieën, voor zover het tijdverzuim voortvloeit uit een hun niet op verzoek van de verdachte of gedaagde gedaan verzoek of gegeven opdracht tot het afleggen van een verklaring in een zaak waarin zij als zodanig zijn opgetreden. 5 Onze Minister van Justitie kan nadere regelen stellen."
+      },
+      {
+        "nr": "17",
+        "text": "1 Bij of krachtens algemene maatregel van bestuur worden regelen gesteld met betrekking tot de vergoedingen, door de verdachte, de gewezen verdachte, de gerekwestreerde, de gewezen gerekwestreerde, derden-belanghebbenden of andere derden verschuldigd voor afschriften van, uittreksels uit en inzage van vonnissen, arresten, registers of andere stukken, waarvan kennisneming geoorloofd is, en voor inlichtingen in zaken, bedoeld in artikel 1, lid 1, alsmede met betrekking tot het kosteloos bekomen van zodanige afschriften, uittreksels of inlichtingen. 2 Geen recht wordt geheven van openbare colleges en van ambtenaren van openbare lichamen, die afschriften, uittreksels of inlichtingen behoeven in het belang van de uitoefening van de dienst, noch in gevallen waarin bij bijzondere wetten gratis afgifte van afschriften of uittreksels of verstrekking van inlichtingen is voorgeschreven."
+      },
+      {
+        "nr": "18",
+        "text": "Wij stellen bij algemene maatregel van bestuur de tarieven vast voor het uitbrengen van exploiten ingevolge bijzondere wetten."
+      }
+    ],
+    "limits": "Geen concrete uitvoeringsbedragen voor deskundigen, getuigen of kopieën uit deze verwijzing afgeleid."
+  }
+]

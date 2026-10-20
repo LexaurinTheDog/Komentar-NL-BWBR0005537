@@ -1,0 +1,47 @@
+{
+  "checked_at": "2026-10-20T19:04:15.619397+00:00",
+  "bounded_review_complete": true,
+  "reviewed_ids": [
+    "art-8:36",
+    "art-8:36a",
+    "art-8:36b",
+    "art-8:36c--digitaal",
+    "art-8:36c--overig",
+    "art-8:36d",
+    "art-8:36e",
+    "art-8:36ea",
+    "art-8:36f",
+    "art-8:36g",
+    "art-8:37",
+    "art-8:38",
+    "art-8:39",
+    "art-8:40",
+    "art-8:40a",
+    "art-8:41",
+    "art-8:41a",
+    "art-8:42",
+    "art-8:43",
+    "art-8:44"
+  ],
+  "units_reviewed": 20,
+  "corrected_units": 6,
+  "retained_units": 14,
+  "statutory_text_agreement": 1.0,
+  "source_coverage_ok": true,
+  "outside_scope_380_commentaries_preserved": true,
+  "strict_validator_exit_code": 1,
+  "strict_validator": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 795823,
+    "errors": [
+      "krátký/chybějící komentář u 188 jednotek: ['art-8:45(0<400)', 'art-8:45a(0<400)', 'art-8:46(0<400)', 'art-8:47(0<400)', 'art-8:48(0<400)', 'art-8:49(0<120)', 'art-8:50(0<400)', 'art-8:51(0<400)']",
+      "necommitnuté změny v repu"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "whole_book_complete": false,
+  "limits": "Precommit check; output changes will be committed then strict validation repeated. Whole-book authoring gaps remain outside review scope."
+}

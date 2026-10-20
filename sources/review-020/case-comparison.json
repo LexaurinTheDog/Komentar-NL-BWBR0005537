@@ -1,0 +1,35 @@
+[
+  {
+    "ecli": "ECLI:NL:HR:2025:158",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2025-158.md",
+    "local_snapshot": "sources/review-020/ECLI-NL-HR-2025-158-local.md",
+    "full_normalized_body_match": false,
+    "all_numbered_sections_and_final_footnotes_match": true,
+    "difference": "Local corpus omits unnumbered opening/caption; all numbered sections and final footnotes match official XML.",
+    "official_bytes_identical_to_author_snapshot": true,
+    "official_sha256": "85034e3ef41f0750051744960225be12078e6cc7b4440b77e40a591110809ef5",
+    "full_text_read_at_review": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2015:354",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2015-354.md",
+    "local_snapshot": "sources/review-020/ECLI-NL-HR-2015-354-local.md",
+    "full_normalized_body_match": false,
+    "all_numbered_sections_and_final_footnotes_match": true,
+    "difference": "Local corpus omits unnumbered opening/caption; all numbered sections and final footnotes match official XML.",
+    "official_bytes_identical_to_author_snapshot": true,
+    "official_sha256": "ed9293c29ef7db2ba7cf0c9aef0edc27f2eb2d4f0048c75eacad47da02d44d9c",
+    "full_text_read_at_review": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2018:672",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2018-672.md",
+    "local_snapshot": "sources/review-020/ECLI-NL-HR-2018-672-local.md",
+    "full_normalized_body_match": false,
+    "all_numbered_sections_and_final_footnotes_match": true,
+    "difference": "Local corpus omits unnumbered opening/caption; all numbered sections and final footnotes match official XML.",
+    "official_bytes_identical_to_author_snapshot": true,
+    "official_sha256": "3ab65005dcd07f0e770d5a390e43e7546c424b8aebe9a1751ed840021561aef8",
+    "full_text_read_at_review": true
+  }
+]

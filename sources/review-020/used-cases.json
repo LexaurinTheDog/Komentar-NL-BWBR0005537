@@ -1,0 +1,48 @@
+[
+  {
+    "ecli": "ECLI:NL:HR:2025:158",
+    "court": "Hoge Raad",
+    "date": "2025-01-31",
+    "docket": "24/03954",
+    "paragraphs": "3.2.1–3.3; volledige context 1–5.4 en dictum",
+    "supported_units": [
+      "art-8:36c--digitaal",
+      "art-8:36c--overig"
+    ],
+    "case_card": "case-cards/ECLI-NL-HR-2025-158.md",
+    "official_full_text_read": true,
+    "sha256": "85034e3ef41f0750051744960225be12078e6cc7b4440b77e40a591110809ef5",
+    "reviewed_at": "2026-10-20T19:02:00.590555+00:00",
+    "review_xml": "sources/review-020/ECLI-NL-HR-2025-158.xml"
+  },
+  {
+    "ecli": "ECLI:NL:HR:2015:354",
+    "court": "Hoge Raad",
+    "date": "2015-02-20",
+    "docket": "14/05176",
+    "paragraphs": "2.3.1–2.3.8, 2.4.1–2.5 en dictum; geheel arrest gelezen",
+    "supported_units": [
+      "art-8:41"
+    ],
+    "case_card": "case-cards/ECLI-NL-HR-2015-354.md",
+    "official_full_text_read": true,
+    "sha256": "ed9293c29ef7db2ba7cf0c9aef0edc27f2eb2d4f0048c75eacad47da02d44d9c",
+    "reviewed_at": "2026-10-20T19:02:00.590555+00:00",
+    "review_xml": "sources/review-020/ECLI-NL-HR-2015-354.xml"
+  },
+  {
+    "ecli": "ECLI:NL:HR:2018:672",
+    "court": "Hoge Raad",
+    "date": "2018-05-04",
+    "docket": "16/04237",
+    "paragraphs": "3.4.1–3.4.5, toepassing 3.5.1–3.5.3; context 3.1–3.6, 4–6 en dictum",
+    "supported_units": [
+      "art-8:42"
+    ],
+    "case_card": "case-cards/ECLI-NL-HR-2018-672-8-42.md",
+    "official_full_text_read": true,
+    "sha256": "3ab65005dcd07f0e770d5a390e43e7546c424b8aebe9a1751ed840021561aef8",
+    "reviewed_at": "2026-10-20T19:02:00.590555+00:00",
+    "review_xml": "sources/review-020/ECLI-NL-HR-2018-672.xml"
+  }
+]
