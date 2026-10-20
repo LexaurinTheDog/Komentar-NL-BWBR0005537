@@ -792,19 +792,19 @@
   "coverage": true,
   "validation_result": {
     "whole_book_complete": false,
-    "bounded_author_passed": true,
+    "bounded_review_passed": true,
     "strict_validator": {
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 1017272,
+      "commentary_chars": 1017820,
       "errors": [
         "krátký/chybějící komentář u 68 jednotek: ['art-9:34(0<400)', 'art-9:35(0<400)', 'art-9:36(0<400)', 'art-9:36a(0<400)', 'art-10:1(0<120)', 'art-10:2(0<120)', 'art-10:3(0<400)', 'art-10:4(0<400)']"
       ],
       "warnings": [],
       "ok": false
     },
-    "evidence": "batch-9-14-33-validation.json"
+    "review_evidence": "batch-review-026-validation.json"
   },
   "remaining_limitations": [
     "68 eenheden buiten deze batch nog ongeschreven.",

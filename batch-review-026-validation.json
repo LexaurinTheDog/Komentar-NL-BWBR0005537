@@ -10,5 +10,23 @@
     "stderr": "CHYBÍ komentář k 68 jednotkám, např.: ['art-9:34', 'art-9:35', 'art-9:36', 'art-9:36a', 'art-10:1', 'art-10:2', 'art-10:3', 'art-10:4', 'art-10:5', 'art-10:6']\n"
   },
   "build_method": "Affected chapters rendered with unchanged shared load_units/load_commentary/quote functions because full builder refuses68 unwritten out-of-scope units.",
-  "high_similarity_pairs": []
+  "high_similarity_pairs": [],
+  "strict_validator": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1017820,
+    "errors": [
+      "krátký/chybějící komentář u 68 jednotek: ['art-9:34(0<400)', 'art-9:35(0<400)', 'art-9:36(0<400)', 'art-9:36a(0<400)', 'art-10:1(0<120)', 'art-10:2(0<120)', 'art-10:3(0<400)', 'art-10:4(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "strict_validator_exit_code": 1,
+  "validated_at": "2026-10-20T22:32:40.233652+00:00",
+  "global_failure_outside_assigned_scope": true,
+  "limitations": [
+    "68 ontbrekende toelichtingen buiten deze batch; geen boekvoltooiing.",
+    "Technische validatie bewijst geen juridische kwaliteit."
+  ]
 }
