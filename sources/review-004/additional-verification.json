@@ -1,0 +1,61 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0004287/2024-01-01/0/informatie",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0004287/2024-01-01/0/informatie",
+    "content_type": "text/html;charset=UTF-8",
+    "path": "sources/review-004/bekendmaking-history.html",
+    "accessed_at": "2026-10-20T14:27:35.412090+00:00",
+    "sha256": "94f9375398c7c3bce377d9180d2fb3020fd1d24d0fbdfacb67f3d75adc99c5ff",
+    "bytes": 58208,
+    "accepted_format": true,
+    "latest_effective_on_decisive_date": "2024-01-01"
+  },
+  {
+    "url": "https://www.raadvanstate.nl/uitspraken/@161192/202505036-1-r1/",
+    "http_status": 200,
+    "final_url": "https://www.raadvanstate.nl/uitspraken/@161192/202505036-1-r1/",
+    "content_type": "text/html; charset=utf-8",
+    "path": "sources/review-004/case-202505036.html",
+    "accessed_at": "2026-10-20T14:27:35.934796+00:00",
+    "sha256": "c4ea10f81908c739509cd37d9dbcbc47280b954f3ac35678fe8bb657f2e0fc01",
+    "bytes": 55837,
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:5912",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:5912",
+    "content_type": "application/xml",
+    "path": "sources/review-004/case-5912.xml",
+    "accessed_at": "2026-10-20T14:27:36.112301+00:00",
+    "sha256": "b460ac4b16ef883fa8c4a49974d197299ee56df139e5d3eb6a51ee8835390792",
+    "bytes": 19397,
+    "accepted_format": true,
+    "xml_root": "open-rechtspraak"
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:1352",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:1352",
+    "content_type": "application/xml",
+    "path": "sources/review-004/case-1352.xml",
+    "accessed_at": "2026-10-20T14:27:36.268682+00:00",
+    "sha256": "c1fd2ef9aea2009baab6df036f22a7ec719b5398726954a8744a0e846ca675bb",
+    "bytes": 7594,
+    "accepted_format": true,
+    "xml_root": "open-rechtspraak"
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:4866",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:4866",
+    "content_type": "application/xml",
+    "path": "sources/review-004/case-4866.xml",
+    "accessed_at": "2026-10-20T14:27:36.430216+00:00",
+    "sha256": "9be35d5ac0abdc9bd0b4b37541d4b7466e025dd7297ff1876d12798b1fa5cd9d",
+    "bytes": 18425,
+    "accepted_format": true,
+    "xml_root": "open-rechtspraak"
+  }
+]

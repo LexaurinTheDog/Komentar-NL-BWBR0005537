@@ -1,0 +1,70 @@
+[
+  {
+    "command": [
+      "rg",
+      "-l",
+      "-m",
+      "1",
+      "artikel 3:28|artikel 3:29",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs",
+      "-g",
+      "*2026*.md"
+    ],
+    "exit_code": 1,
+    "matches": []
+  },
+  {
+    "command": [
+      "rg",
+      "-l",
+      "-m",
+      "1",
+      "rechtsmiddelenclausule",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs",
+      "-g",
+      "*2026*.md"
+    ],
+    "exit_code": 0,
+    "matches": [
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-1352.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-139.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-1455.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-140.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-1414.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-1454.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-141.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-1456.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-142.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-1539.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-1725.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-767.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-2231.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-2363.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-2416.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-2764.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-3442.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-3361.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-4271.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-4628.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-458.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-4741.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-5027.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-5349.md",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-5344.md"
+    ]
+  },
+  {
+    "command": [
+      "rg",
+      "-l",
+      "-m",
+      "1",
+      "artikel 3:47",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs",
+      "-g",
+      "*2026*.md"
+    ],
+    "exit_code": 1,
+    "matches": []
+  }
+]

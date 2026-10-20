@@ -1,0 +1,188 @@
+{
+  "complete": true,
+  "scope": "Bounded independent substantive second pass; exactly assigned ids, not whole-book completion.",
+  "reviewed_at": "2026-10-20T14:24:09.379778+00:00",
+  "decisive_date": "2026-10-19",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "art-3:4",
+    "art-3:5",
+    "art-3:6",
+    "art-3:7",
+    "art-3:8",
+    "art-3:9",
+    "art-3:9a",
+    "art-3:10",
+    "art-3:11",
+    "art-3:12",
+    "art-3:13",
+    "art-3:14",
+    "art-3:15",
+    "art-3:16",
+    "art-3:17",
+    "art-3:18",
+    "art-3:19",
+    "art-3:20",
+    "art-3:21",
+    "art-3:22"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "unit_id": "art-3:4",
+      "status": "corrected",
+      "review": "Beide leden gelezen: rechtstreeks betrokken belangen, begrenzing door bevoegdheid en verhouding van doel tot nadelen. Harderwijk geheel herlezen; juiste beperking tot het daar behandelde discretionaire kader behouden. Praktische controle voor afdeling 3.2 toegevoegd.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:5",
+      "status": "retained_after_review",
+      "review": "Beide leden gecontroleerd: wettelijke opdracht en ontbreken van werkzaamheid onder verantwoordelijkheid zijn cumulatief; horen van de Raad van State uitgesloten. Fictieve commissie tegenover interne medewerker en zorgvuldigheidsrestplicht juist. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:6",
+      "status": "retained_after_review",
+      "review": "Eigen termijn alleen bij ontbreken van wettelijke termijn, behoorlijke taakvervulling en ontbreken van een absoluut adviesveto gelezen. Niet tijdig advies onderscheiden van ontbrekende noodzakelijke kennis volgens 3:2; fictieve eendagstermijn terecht problematisch. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:7",
+      "status": "corrected",
+      "review": "Spontane gegevensverstrekking en noodzakelijkheid gecontroleerd. De werkelijk gelezen Woo 5.1 verwerkt met onderscheid tussen uitzonderingen, belangenafweging en milieu-informatie; vertrouwelijkheid niet als zelfstandig etiket voor weigering behandeld.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:8",
+      "status": "retained_after_review",
+      "review": "Vermelding in of bij het besluit gecontroleerd, met adviseursdefinitie 3:5 en aanvullende motiveringseisen 3:49. Adviesvermelding niet gelijkgesteld aan integrale openbaarmaking; fictieve ontbrekende bijlage ondersteunt het onderscheid. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:9",
+      "status": "corrected",
+      "review": "Onderzoeksobject, vergewisplicht en eigen besluitverantwoordelijkheid gecontroleerd. Adviseursbegrip expliciet begrensd en een volledig gelezen uitspraak uit 2026 als illustratie toegevoegd. Tegenrapport niet automatisch afdoende of irrelevant geacht.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:9a",
+      "status": "corrected",
+      "review": "Overeenkomstige toepassing van de hele afdeling op wetsvoorstellen gelezen, met behoud van de Raad-van-State-uitzondering. Geen beschikking of gewone bezwaarroute aangenomen. Checklist voor wettelijke advisering toegevoegd.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:10",
+      "status": "corrected",
+      "review": "Alle vier leden gecontroleerd. Cumulatieve voorwaarden van lid 3 en beperkte uitsluiting van de positieve fictieve beschikking explicieter gemaakt. Volledig gelezen omgevingsplanuitspraak van augustus 2026 toegevoegd, zonder een algemene veertienwekentermijn te creëren.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:11",
+      "status": "corrected",
+      "review": "Drie leden, benodigde dossierstukken, uitzondering voor wettelijk voorgeschreven volledige publicatie en Woo-gronden gecontroleerd. Bekendmakingswet 12 en Woo 5.1 daadwerkelijk gelezen; uitzonderingsroute niet als geheimhoudingsgrond behandeld.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:12",
+      "status": "corrected",
+      "review": "Voorafgaande kennisgeving en alle drie onderdelen van lid 2 gecontroleerd. Zakelijke inhoudsweergave, inzagewijze en inzageperiode uit de officiële Bekendmakingswet 12 toegevoegd; persoonlijke toezending blijft afzonderlijke stap.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:13",
+      "status": "retained_after_review",
+      "review": "Toezending vóór inzage aan geadresseerden inclusief aanvrager en overeenkomstige toepassing van 3:12 lid 2 gecontroleerd. Ontwerp en definitieve beschikking, geadresseerde en overige deelnemer correct gescheiden. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:14",
+      "status": "retained_after_review",
+      "review": "Nieuwe relevante stukken, gegevens, Woo-beperking en inzageduur gecontroleerd. Geen automatische nieuwe volledige termijn uit dit artikel afgeleid; noodzaak van reële reactiemogelijkheid op ingrijpend laat materiaal zorgvuldig geformuleerd. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:15",
+      "status": "corrected",
+      "review": "Alle vier leden gelezen: mondelinge of schriftelijke keuze, uitbreiding van deelnemers en zo nodig wederreactie. Oudere uitspraak geheel herlezen met behoud van Wabo-context; fictief intrekkingsvoorbeeld toegevoegd om lid 4 zelfstandig te verduidelijken.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:16",
+      "status": "corrected",
+      "review": "Drie leden en de daadwerkelijk gelezen verwijzingen 6:9, 6:10 en 6:15 gecontroleerd. Start op inzagedag, postregel met ontvangst binnen één week en doorzending uitgewerkt; schriftelijke zienswijzen onderscheiden van adviezen en mondelinge inbreng.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:17",
+      "status": "retained_after_review",
+      "review": "Verslagplicht voor mondelinge zienswijzen, inhoudelijke bruikbaarheid en ontbreken van een letterlijk voorgeschreven woordelijk transcript gecontroleerd. Verkeersvoorbeeld maakt inhoudsverlies concreet; geen aanvullende vormeis verzonnen. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:18",
+      "status": "corrected",
+      "review": "Alle vier leden uitgewerkt: zes maanden, achtwekengrens en vooraf horen bij verlenging, twaalf weken met precieze derde-aanvragervoorwaarde en vier weken bij geen zienswijzen. Recente omgevingsplanrechtspraak en coördinatieafwijking onderscheiden; fictief voorbeeld en afsluitende checklist toegevoegd.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:19",
+      "status": "retained_after_review",
+      "review": "Activiteit, toestemmings- en financiële besluiten, redelijkerwijs bekende samenhang en beide verplichte kennisgevingsgegevens gecontroleerd. Bevorderingsplicht niet als garantie of automatische coördinatie voorgesteld. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:20",
+      "status": "corrected",
+      "review": "Beide formele toepasselijkheidsgronden en verwijzing naar het beroepsgevolg van 3:28 gecontroleerd. Vage betrokkenheid vervangen door herkomst van het coördinatiebesluit bij de bevoegde bestuursorganen; feitelijk overleg en toestemming van aanvrager volstaan niet.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:21",
+      "status": "corrected",
+      "review": "Drie leden gelezen: aanwijzing bij of krachtens het voorschrift dan wel in coördinatiebesluit, instemming van aangewezen extern orgaan en afzonderlijke doelmatigheidsmaatstaf voor uitfaseren. Delegatiemogelijkheid expliciet behouden; geen inhoudelijke bevoegdheidsoverdracht aangenomen.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:22",
+      "status": "retained_after_review",
+      "review": "Doelmatige samenhangende voorbereiding en medewerkingsplicht afzonderlijk gecontroleerd. Rekening houden met samenhang niet tot vervanging van wettelijke toetsingskaders uitgebreid; dag- en avondgebruik illustreert de concrete spanning. Behouden.",
+      "resolved": true
+    }
+  ],
+  "limitations": [
+    "Uitsluitend de twintig toegewezen eenheden inhoudelijk beoordeeld; het volledige boek blijft onvoltooid.",
+    "Selectieve rechtspraakrecherche; geen exhaustieve latere lijn, verzetprocedures of alle sectorale uitvoeringsregels onderzocht.",
+    "De oude Wabo-context van uitspraak 2021:953 is niet als huidige vergunningenwet toegepast.",
+    "De veertienwekenregel is beperkt tot de besproken omgevingsplanprocedure; geen algemene vervanging van artikel 3:18.",
+    "Geen concrete kalenderdeadline of geschil beoordeeld; wettelijke termijnduur is onderscheiden van berekening in een individueel dossier.",
+    "Bron-, lengte- en herhalingscontroles bewijzen geen inhoudelijke juridische kwaliteit."
+  ],
+  "changed_ids": [
+    "art-3:4",
+    "art-3:7",
+    "art-3:9",
+    "art-3:9a",
+    "art-3:10",
+    "art-3:11",
+    "art-3:12",
+    "art-3:15",
+    "art-3:16",
+    "art-3:18",
+    "art-3:20",
+    "art-3:21"
+  ],
+  "unchanged_ids": [
+    "art-3:5",
+    "art-3:6",
+    "art-3:8",
+    "art-3:13",
+    "art-3:14",
+    "art-3:17",
+    "art-3:19",
+    "art-3:22"
+  ],
+  "source_preflight": "preflight-result.json",
+  "technical_support": "review-technical.json",
+  "case_law_evidence": "sources/review-003/case-search-log.json",
+  "whole_book_complete": false
+}

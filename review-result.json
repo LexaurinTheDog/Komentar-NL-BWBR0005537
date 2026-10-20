@@ -1,188 +1,188 @@
 {
   "complete": true,
-  "scope": "Bounded independent substantive second pass; exactly assigned ids, not whole-book completion.",
-  "reviewed_at": "2026-10-20T14:24:09.379778+00:00",
+  "scope": "Bounded independent substantive second pass of exactly twenty assigned units; not whole-book completion.",
+  "reviewed_at": "2026-10-20T14:32:04.133592+00:00",
   "decisive_date": "2026-10-19",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "art-3:4",
-    "art-3:5",
-    "art-3:6",
-    "art-3:7",
-    "art-3:8",
-    "art-3:9",
-    "art-3:9a",
-    "art-3:10",
-    "art-3:11",
-    "art-3:12",
-    "art-3:13",
-    "art-3:14",
-    "art-3:15",
-    "art-3:16",
-    "art-3:17",
-    "art-3:18",
-    "art-3:19",
-    "art-3:20",
-    "art-3:21",
-    "art-3:22"
+    "art-3:23",
+    "art-3:24",
+    "art-3:25",
+    "art-3:26",
+    "art-3:27",
+    "art-3:28",
+    "art-3:29",
+    "art-3:30",
+    "art-3:31",
+    "art-3:32",
+    "art-3:33",
+    "art-3:40",
+    "art-3:41",
+    "art-3:42",
+    "art-3:43",
+    "art-3:44",
+    "art-3:45",
+    "art-3:46",
+    "art-3:47",
+    "art-3:48"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "unit_id": "art-3:4",
+      "unit_id": "art-3:23",
       "status": "corrected",
-      "review": "Beide leden gelezen: rechtstreeks betrokken belangen, begrenzing door bevoegdheid en verhouding van doel tot nadelen. Harderwijk geheel herlezen; juiste beperking tot het daar behandelde discretionaire kader behouden. Praktische controle voor afdeling 3.2 toegevoegd.",
+      "review": "Alle vijf leden gelezen: zoveel mogelijk gezamenlijke aanvraag, zeswekengrens met afwijkingsbevoegdheid, directe afschriften, uitsluiting van te late aanvraag met uitzondering, wettelijke koppeling en aanvraagbevoegdheid ter uitvoering van eigen besluit. Formulering van lid 5 aangescherpt tot mede namens één van de andere betrokken organen.",
       "resolved": true
     },
     {
-      "unit_id": "art-3:5",
+      "unit_id": "art-3:24",
       "status": "retained_after_review",
-      "review": "Beide leden gecontroleerd: wettelijke opdracht en ontbreken van werkzaamheid onder verantwoordelijkheid zijn cumulatief; horen van de Raad van State uitgesloten. Fictieve commissie tegenover interne medewerker en zorgvuldigheidsrestplicht juist. Behouden.",
+      "review": "Bijzondere start op de dag van ontvangst van de laatste aanvraag gecontroleerd, inclusief onverminderde werking van 3:23 lid 4. Late aanvraag en aanvulling niet automatisch als nieuwe termijnstart behandeld. Fictieve gebundelde aanvragen juridisch passend; behouden.",
       "resolved": true
     },
     {
-      "unit_id": "art-3:6",
+      "unit_id": "art-3:25",
+      "status": "corrected",
+      "review": "Beide leden en onderdelen a–i afzonderlijk gecontroleerd. Dag van relevante inzage onderscheiden van eerste dag van beroep; beperking voor buiten de coördinatie vallend onderliggend besluit verduidelijkt zonder vereiste van onherroepelijkheid. Maximum langste beslistermijn en beperkte opsomming in lid 2 juist.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:26",
       "status": "retained_after_review",
-      "review": "Eigen termijn alleen bij ontbreken van wettelijke termijn, behoorlijke taakvervulling en ontbreken van een absoluut adviesveto gelezen. Niet tijdig advies onderscheiden van ontbrekende noodzakelijke kennis volgens 3:2; fictieve eendagstermijn terecht problematisch. Behouden.",
+      "review": "Beide leden gelezen: besluiten door bevoegde organen, snelle toezending aan coördinator, gelijktijdige bekendmaking en wettelijk vereiste inzage. Besluitdatum niet vereenzelvigd met werking of beroep. Fictief voorbeeld van verschillende besluitdata behouden.",
       "resolved": true
     },
     {
-      "unit_id": "art-3:7",
+      "unit_id": "art-3:27",
       "status": "corrected",
-      "review": "Spontane gegevensverstrekking en noodzakelijkheid gecontroleerd. De werkelijk gelezen Woo 5.1 verwerkt met onderscheid tussen uitzonderingen, belangenafweging en milieu-informatie; vertrouwelijkheid niet als zelfstandig etiket voor weigering behandeld.",
+      "review": "Alle vier leden met 7:1a, 7:12 lid 3 en 7:26 lid 4 gecontroleerd. Mededelingen concreet benoemd; gewone afwijzingsgrond bij hetzelfde besluit onderscheiden van extra grond voor andere gecoördineerde besluiten. Geen automatische instemmingsplicht aangenomen.",
       "resolved": true
     },
     {
-      "unit_id": "art-3:8",
+      "unit_id": "art-3:28",
       "status": "retained_after_review",
-      "review": "Vermelding in of bij het besluit gecontroleerd, met adviseursdefinitie 3:5 en aanvullende motiveringseisen 3:49. Adviesvermelding niet gelijkgesteld aan integrale openbaarmaking; fictieve ontbrekende bijlage ondersteunt het onderscheid. Behouden.",
+      "review": "Beperkte fictie voor beroepsmogelijkheid gecontroleerd; geen materiële bevoegdheidsoverdracht of automatische vernietiging van alle onderdelen aangenomen. Formele coördinatie onderscheiden van overleg. Belanghebbendheid en beschermingsbereik niet zonder toets aangenomen; behouden.",
       "resolved": true
     },
     {
-      "unit_id": "art-3:9",
+      "unit_id": "art-3:29",
       "status": "corrected",
-      "review": "Onderzoeksobject, vergewisplicht en eigen besluitverantwoordelijkheid gecontroleerd. Adviseursbegrip expliciet begrensd en een volledig gelezen uitspraak uit 2026 als illustratie toegevoegd. Tegenrapport niet automatisch afdoende of irrelevant geacht.",
+      "review": "Vier leden gelezen: plaatselijke rechtbank, rangorde bij direct beroep, afzonderlijke rangorde in hoger beroep en verwijzing. Voorwaarden uit 8:13 lid 2 en 3 uitgewerkt. Checklist voor afsluiting van afdeling 3.5 toegevoegd; geen 2006-voorstel met huidig recht vermengd.",
       "resolved": true
     },
     {
-      "unit_id": "art-3:9a",
-      "status": "corrected",
-      "review": "Overeenkomstige toepassing van de hele afdeling op wetsvoorstellen gelezen, met behoud van de Raad-van-State-uitzondering. Geen beschikking of gewone bezwaarroute aangenomen. Checklist voor wettelijke advisering toegevoegd.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-3:10",
-      "status": "corrected",
-      "review": "Alle vier leden gecontroleerd. Cumulatieve voorwaarden van lid 3 en beperkte uitsluiting van de positieve fictieve beschikking explicieter gemaakt. Volledig gelezen omgevingsplanuitspraak van augustus 2026 toegevoegd, zonder een algemene veertienwekentermijn te creëren.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-3:11",
-      "status": "corrected",
-      "review": "Drie leden, benodigde dossierstukken, uitzondering voor wettelijk voorgeschreven volledige publicatie en Woo-gronden gecontroleerd. Bekendmakingswet 12 en Woo 5.1 daadwerkelijk gelezen; uitzonderingsroute niet als geheimhoudingsgrond behandeld.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-3:12",
-      "status": "corrected",
-      "review": "Voorafgaande kennisgeving en alle drie onderdelen van lid 2 gecontroleerd. Zakelijke inhoudsweergave, inzagewijze en inzageperiode uit de officiële Bekendmakingswet 12 toegevoegd; persoonlijke toezending blijft afzonderlijke stap.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-3:13",
+      "unit_id": "art-3:30",
       "status": "retained_after_review",
-      "review": "Toezending vóór inzage aan geadresseerden inclusief aanvrager en overeenkomstige toepassing van 3:12 lid 2 gecontroleerd. Ontwerp en definitieve beschikking, geadresseerde en overige deelnemer correct gescheiden. Behouden.",
+      "review": "Officiële lege/vervallen plaats gecontroleerd in huidige en vorige XML. Geen actuele bevoegdheid, historische norm of fictieve casus toegevoegd; korte uitleg behouden.",
       "resolved": true
     },
     {
-      "unit_id": "art-3:14",
+      "unit_id": "art-3:31",
       "status": "retained_after_review",
-      "review": "Nieuwe relevante stukken, gegevens, Woo-beperking en inzageduur gecontroleerd. Geen automatische nieuwe volledige termijn uit dit artikel afgeleid; noodzaak van reële reactiemogelijkheid op ingrijpend laat materiaal zorgvuldig geformuleerd. Behouden.",
+      "review": "Expliciete status Vervallen gecontroleerd. Geen oude coördinatiebepaling als geldend recht gepresenteerd; verwijzing naar huidige 3:20–3:29 passend. Behouden.",
       "resolved": true
     },
     {
-      "unit_id": "art-3:15",
-      "status": "corrected",
-      "review": "Alle vier leden gelezen: mondelinge of schriftelijke keuze, uitbreiding van deelnemers en zo nodig wederreactie. Oudere uitspraak geheel herlezen met behoud van Wabo-context; fictief intrekkingsvoorbeeld toegevoegd om lid 4 zelfstandig te verduidelijken.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-3:16",
-      "status": "corrected",
-      "review": "Drie leden en de daadwerkelijk gelezen verwijzingen 6:9, 6:10 en 6:15 gecontroleerd. Start op inzagedag, postregel met ontvangst binnen één week en doorzending uitgewerkt; schriftelijke zienswijzen onderscheiden van adviezen en mondelinge inbreng.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-3:17",
+      "unit_id": "art-3:32",
       "status": "retained_after_review",
-      "review": "Verslagplicht voor mondelinge zienswijzen, inhoudelijke bruikbaarheid en ontbreken van een letterlijk voorgeschreven woordelijk transcript gecontroleerd. Verkeersvoorbeeld maakt inhoudsverlies concreet; geen aanvullende vormeis verzonnen. Behouden.",
+      "review": "Vervallen plaats in beide geselecteerde XML-toestanden gelezen. Geen huidige aanvraag- of beroepsnorm toegekend; noodzaak van afzonderlijk historisch onderzoek correct. Behouden.",
       "resolved": true
     },
     {
-      "unit_id": "art-3:18",
-      "status": "corrected",
-      "review": "Alle vier leden uitgewerkt: zes maanden, achtwekengrens en vooraf horen bij verlenging, twaalf weken met precieze derde-aanvragervoorwaarde en vier weken bij geen zienswijzen. Recente omgevingsplanrechtspraak en coördinatieafwijking onderscheiden; fictief voorbeeld en afsluitende checklist toegevoegd.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-3:19",
+      "unit_id": "art-3:33",
       "status": "retained_after_review",
-      "review": "Activiteit, toestemmings- en financiële besluiten, redelijkerwijs bekende samenhang en beide verplichte kennisgevingsgegevens gecontroleerd. Bevorderingsplicht niet als garantie of automatische coördinatie voorgesteld. Behouden.",
+      "review": "Vervallen status en ontbreken van operationele inhoud gecontroleerd; historische invulling achterwege. Geen herleving van oude route gesuggereerd; behouden.",
       "resolved": true
     },
     {
-      "unit_id": "art-3:20",
+      "unit_id": "art-3:40",
       "status": "corrected",
-      "review": "Beide formele toepasselijkheidsgronden en verwijzing naar het beroepsgevolg van 3:28 gecontroleerd. Vage betrokkenheid vervangen door herkomst van het coördinatiebesluit bij de bevoegde bestuursorganen; feitelijk overleg en toestemming van aanvrager volstaan niet.",
+      "review": "Bekendmaking als noodzakelijke voorwaarde en mogelijkheid van latere werking gecontroleerd. Inwerkingtreding expliciet onderscheiden van eventuele gevolgen voor een eerdere periode; geen terugwerkingsbevoegdheid uit dit artikel afgeleid.",
       "resolved": true
     },
     {
-      "unit_id": "art-3:21",
+      "unit_id": "art-3:41",
       "status": "corrected",
-      "review": "Drie leden gelezen: aanwijzing bij of krachtens het voorschrift dan wel in coördinatiebesluit, instemming van aangewezen extern orgaan en afzonderlijke doelmatigheidsmaatstaf voor uitfaseren. Delegatiemogelijkheid expliciet behouden; geen inhoudelijke bevoegdheidsoverdracht aangenomen.",
+      "review": "Beide leden gelezen, inclusief onmogelijkheid als voorwaarde voor andere geschikte wijze. Formulering bereiken vervangen door toezending of uitreiking. Postverzending, feitelijk lezen en ontvangstbetwisting onderscheiden met volledig gelezen uitspraak 2026:5912; opvallende brondatum niet stilzwijgend gerepareerd.",
       "resolved": true
     },
     {
-      "unit_id": "art-3:22",
-      "status": "retained_after_review",
-      "review": "Doelmatige samenhangende voorbereiding en medewerkingsplicht afzonderlijk gecontroleerd. Rekening houden met samenhang niet tot vervanging van wettelijke toetsingskaders uitgebreid; dag- en avondgebruik illustreert de concrete spanning. Behouden.",
+      "unit_id": "art-3:42",
+      "status": "corrected",
+      "review": "Verwijzing naar actuele Bekendmakingswet 5 en 6 daadwerkelijk gelezen en tegen versiehistorie gecontroleerd. Staatscourant en eigen publicatieblad concreet onderscheiden met behoud van artikel 3:1-uitzondering voor algemeen verbindende voorschriften.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:43",
+      "status": "corrected",
+      "review": "Beide leden, kring zienswijze-indieners en wettelijke adviseur bij afwijking gecontroleerd. Termijnstart concreet aan 6:8 lid 1 of lid 4 gekoppeld; mededeling en bekendmaking niet vereenzelvigd.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:44",
+      "status": "corrected",
+      "review": "Alle drie leden en vier afzonderlijke vereenvoudigingen opnieuw uitgewerkt. Gewone bekendmaking naast inzage behouden; Woo-verwijzing als afschermingskader herkend; eerste vijf, cumulatieve omvangvoorwaarde en grens meer dan 250 precies beschreven. Fictief voorbeeld en beroepstart passend.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:45",
+      "status": "corrected",
+      "review": "Twee leden, beide communicatiemomenten en deelnemers/termijn/instantie gecontroleerd. Twee volledig gelezen uitspraken toegevoegd: verkeerde clausule schept geen rechtsgang; ontbrekende clausule verhindert bekendmaking niet en verschoonbaarheid vergt aparte beoordeling. Checklist afdeling 3.6 toegevoegd.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:46",
+      "status": "corrected",
+      "review": "Draagkracht van motivering, onderzoek, belangenafweging en beleidstoepassing gecontroleerd. Volledig gelezen einduitspraak 2026:4866 toegevoegd met eigen rechterlijke conclusie, gedeeltelijke vernietiging en beperking tot oudere bestemmingsplancontext.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:47",
+      "status": "corrected",
+      "review": "Alle vier leden gelezen: bij bekendmaking vermelden, zo mogelijk wettelijke grondslag, concrete spoed, uiterlijk binnen een week en overeenkomstige communicatie. Fictief spoedvoorbeeld en ontbreken van automatische termijnverschuiving toegevoegd.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-3:48",
+      "status": "corrected",
+      "review": "Twee leden gecontroleerd: alleen vermelding kan worden weggelaten, redelijke aanvraagtermijn en zo spoedig mogelijke verstrekking. Geen vaste dagentermijn verzonnen. Geen automatische opschorting van beroep en afbakening algemeen verbindende voorschriften toegevoegd.",
       "resolved": true
     }
   ],
   "limitations": [
-    "Uitsluitend de twintig toegewezen eenheden inhoudelijk beoordeeld; het volledige boek blijft onvoltooid.",
-    "Selectieve rechtspraakrecherche; geen exhaustieve latere lijn, verzetprocedures of alle sectorale uitvoeringsregels onderzocht.",
-    "De oude Wabo-context van uitspraak 2021:953 is niet als huidige vergunningenwet toegepast.",
-    "De veertienwekenregel is beperkt tot de besproken omgevingsplanprocedure; geen algemene vervanging van artikel 3:18.",
-    "Geen concrete kalenderdeadline of geschil beoordeeld; wettelijke termijnduur is onderscheiden van berekening in een individueel dossier.",
-    "Bron-, lengte- en herhalingscontroles bewijzen geen inhoudelijke juridische kwaliteit."
+    "Uitsluitend de twintig toegewezen eenheden inhoudelijk beoordeeld in deze batch; geen voltooiing van het hele boek.",
+    "Rechtspraak is selectief onderzocht. Niet alle latere uitspraken, bijzondere wetten, lagere regelingen of verzetprocedures zijn geïnventariseerd.",
+    "Voor zeventien technische of vervallen eenheden is geen afzonderlijke voldoende relevante uitspraak geverifieerd en overgenomen; dit betekent niet dat er geen relevante rechtspraak bestaat.",
+    "De einduitspraak over het bestemmingsplan uit 2023 is geen uiteenzetting van huidig omgevingsrecht.",
+    "Officiële uitspraak 2026:5912 bevat een opvallende jaartalvermelding bij ontvangst; niet gebruikt voor concrete termijnberekening en niet stilzwijgend gecorrigeerd.",
+    "Geen individueel dossier of concrete kalenderdeadline beoordeeld; lengte- en herhalingschecks bewijzen geen juridische kwaliteit."
   ],
   "changed_ids": [
-    "art-3:4",
-    "art-3:7",
-    "art-3:9",
-    "art-3:9a",
-    "art-3:10",
-    "art-3:11",
-    "art-3:12",
-    "art-3:15",
-    "art-3:16",
-    "art-3:18",
-    "art-3:20",
-    "art-3:21"
+    "art-3:23",
+    "art-3:25",
+    "art-3:27",
+    "art-3:29",
+    "art-3:40",
+    "art-3:41",
+    "art-3:42",
+    "art-3:43",
+    "art-3:44",
+    "art-3:45",
+    "art-3:46",
+    "art-3:47",
+    "art-3:48"
   ],
   "unchanged_ids": [
-    "art-3:5",
-    "art-3:6",
-    "art-3:8",
-    "art-3:13",
-    "art-3:14",
-    "art-3:17",
-    "art-3:19",
-    "art-3:22"
+    "art-3:24",
+    "art-3:26",
+    "art-3:28",
+    "art-3:30",
+    "art-3:31",
+    "art-3:32",
+    "art-3:33"
   ],
   "source_preflight": "preflight-result.json",
   "technical_support": "review-technical.json",
-  "case_law_evidence": "sources/review-003/case-search-log.json",
+  "case_law_evidence": "sources/review-004/case-search-log.json",
   "whole_book_complete": false
 }

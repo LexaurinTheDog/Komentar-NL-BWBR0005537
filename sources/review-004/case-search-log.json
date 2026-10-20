@@ -1,0 +1,69 @@
+{
+  "searched_at": "2026-10-20T14:30:19.934430+00:00",
+  "scope": "Selective primary-source and local national corpus search for twenty assigned units only.",
+  "queries": [
+    "site.raadvanstate.nl \"3:45\" \"rechtsmiddelenclausule\" \"6:11\"",
+    "site.raadvanstate.nl \"3:28\" \"belanghebbende\" \"2025\"",
+    "site.raadvanstate.nl \"3:40\" \"terugwerkende kracht\"",
+    "site.raadvanstate.nl \"3:28\" \"3:29\" coördinatie",
+    "site.raadvanstate.nl \"3:46\" \"motivering\" \"2026\""
+  ],
+  "local_search": "sources/review-004/local-search-log.json",
+  "local_comparison": "sources/review-004/local-official-case-comparison.json",
+  "fully_read": [
+    {
+      "ecli": "ECLI:NL:RVS:2026:5912",
+      "supported_units": [
+        "art-3:41",
+        "art-3:45"
+      ],
+      "paragraphs": "3.1–3.2; 4.1–4.3",
+      "snapshot": "sources/review-004/case-5912.xml"
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2026:1352",
+      "supported_units": [
+        "art-3:45"
+      ],
+      "paragraphs": "1–2; dictum",
+      "snapshot": "sources/review-004/case-1352.xml"
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2026:4866",
+      "supported_units": [
+        "art-3:46"
+      ],
+      "paragraphs": "1–5; dictum",
+      "snapshot": "sources/review-004/case-4866.xml"
+    }
+  ],
+  "no_separate_verified_case_adopted_for": [
+    "art-3:23",
+    "art-3:24",
+    "art-3:25",
+    "art-3:26",
+    "art-3:27",
+    "art-3:28",
+    "art-3:29",
+    "art-3:30",
+    "art-3:31",
+    "art-3:32",
+    "art-3:33",
+    "art-3:40",
+    "art-3:42",
+    "art-3:43",
+    "art-3:44",
+    "art-3:47",
+    "art-3:48"
+  ],
+  "excluded": [
+    "Historical 2006 legislative advice is not a current case or current text; not adopted.",
+    "Search snippets and third-party summaries not adopted as authorities."
+  ],
+  "limitations": [
+    "Selective research, not a claim of absence of other relevant cases.",
+    "Firecrawl has zero remaining credits; direct official HTTP and full-text XML used.",
+    "An initial direct Raad-van-State request returned 403; later identified user-agent request returned 200, preserved in verification.",
+    "No independent authority adopted for retroactive effect; commentary distinguishes commencement from effects and gives no sectoral entitlement."
+  ]
+}

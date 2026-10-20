@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T14:24:09.379778+00:00",
+  "updated_at": "2026-10-20T14:32:04.133592+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -15,8 +15,8 @@
     "verified_at": "2026-10-20T13:47:01.778268+00:00",
     "current_recheck_date": "2026-10-20",
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
-    "review_verified_at": "2026-10-20T14:21:05.588490+00:00",
-    "review_evidence": "sources/review-003/verification.json"
+    "review_verified_at": "2026-10-20T14:27:36.430216+00:00",
+    "review_evidence": "sources/review-004/verification.json"
   },
   "official_articles": 584,
   "total_units": 588,
@@ -621,7 +621,10 @@
       "ECLI:NL:RVS:2026:4746",
       "ECLI:NL:RVS:2026:1545",
       "ECLI:NL:RVS:2026:4905",
-      "ECLI:NL:RVS:2026:4964"
+      "ECLI:NL:RVS:2026:4964",
+      "ECLI:NL:RVS:2026:5912",
+      "ECLI:NL:RVS:2026:1352",
+      "ECLI:NL:RVS:2026:4866"
     ],
     "fetched_not_yet_assessed": [
       "ECLI:NL:CBB:2024:31"
@@ -644,14 +647,17 @@
       "warnings": [],
       "ok": false
     },
-    "independent_review_scope": "Current batch exactly twenty ids in review-result.json; prior forty preserved separately. Whole-book review incomplete.",
+    "independent_review_scope": "Current batch exactly twenty ids in review-result.json; prior sixty preserved separately. Whole-book review incomplete.",
     "validated_at": "2026-10-20T14:25:29.711291+00:00"
   },
   "remaining_limitations": [
     "415 commentaareenheden nog ongeschreven.",
-    "60 eenheden in drie batches beoordeeld; 528 eenheden nog zonder tweede inhoudelijke beoordeling.",
-    "Selectieve rechtspraakrecherche; bijzondere uitvoeringsregels, eventuele verzetprocedures en latere lijnen niet exhaustief onderzocht.",
-    "Technische tekst-, lengte- en herhalingscontroles bewijzen geen juridische kwaliteit."
+    "80 eenheden in vier batches beoordeeld; 508 eenheden nog zonder tweede inhoudelijke beoordeling.",
+    "Rechtspraak is selectief onderzocht. Niet alle latere uitspraken, bijzondere wetten, lagere regelingen of verzetprocedures zijn geïnventariseerd.",
+    "Voor zeventien technische of vervallen eenheden is geen afzonderlijke voldoende relevante uitspraak geverifieerd en overgenomen; dit betekent niet dat er geen relevante rechtspraak bestaat.",
+    "De einduitspraak over het bestemmingsplan uit 2023 is geen uiteenzetting van huidig omgevingsrecht.",
+    "Officiële uitspraak 2026:5912 bevat een opvallende jaartalvermelding bij ontvangst; niet gebruikt voor concrete termijnberekening en niet stilzwijgend gecorrigeerd.",
+    "Geen individueel dossier of concrete kalenderdeadline beoordeeld; lengte- en herhalingschecks bewijzen geen juridische kwaliteit."
   ],
   "preflight": {
     "complete": true,
@@ -671,26 +677,26 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "art-3:4",
-      "art-3:5",
-      "art-3:6",
-      "art-3:7",
-      "art-3:8",
-      "art-3:9",
-      "art-3:9a",
-      "art-3:10",
-      "art-3:11",
-      "art-3:12",
-      "art-3:13",
-      "art-3:14",
-      "art-3:15",
-      "art-3:16",
-      "art-3:17",
-      "art-3:18",
-      "art-3:19",
-      "art-3:20",
-      "art-3:21",
-      "art-3:22"
+      "art-3:23",
+      "art-3:24",
+      "art-3:25",
+      "art-3:26",
+      "art-3:27",
+      "art-3:28",
+      "art-3:29",
+      "art-3:30",
+      "art-3:31",
+      "art-3:32",
+      "art-3:33",
+      "art-3:40",
+      "art-3:41",
+      "art-3:42",
+      "art-3:43",
+      "art-3:44",
+      "art-3:45",
+      "art-3:46",
+      "art-3:47",
+      "art-3:48"
     ],
     "evidence": "review-result.json",
     "technical_evidence": "review-technical.json",
@@ -698,7 +704,7 @@
   },
   "cumulative_independent_review": {
     "complete": false,
-    "units_reviewed": 60,
+    "units_reviewed": 80,
     "reviewed_ids": [
       "aanhef",
       "art-1:1",
@@ -759,11 +765,31 @@
       "art-3:19",
       "art-3:20",
       "art-3:21",
-      "art-3:22"
+      "art-3:22",
+      "art-3:23",
+      "art-3:24",
+      "art-3:25",
+      "art-3:26",
+      "art-3:27",
+      "art-3:28",
+      "art-3:29",
+      "art-3:30",
+      "art-3:31",
+      "art-3:32",
+      "art-3:33",
+      "art-3:40",
+      "art-3:41",
+      "art-3:42",
+      "art-3:43",
+      "art-3:44",
+      "art-3:45",
+      "art-3:46",
+      "art-3:47",
+      "art-3:48"
     ],
-    "prior_cumulative_evidence": "sources/review-003/prior-status.json",
-    "prior_batch_evidence": "sources/review-003/prior-review-result.json",
+    "prior_cumulative_evidence": "sources/review-004/prior-status.json",
+    "prior_batch_evidence": "sources/review-004/prior-review-result.json",
     "current_batch_evidence": "review-result.json",
-    "remaining_units": 528
+    "remaining_units": 508
   }
 }

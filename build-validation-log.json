@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T14:24:09.379778+00:00",
+  "checked_at": "2026-10-20T14:32:04.133592+00:00",
   "shared_builder": {
     "command": [
       "python3",
@@ -10,7 +10,7 @@
     "stdout": "",
     "stderr": "CHYBÍ komentář k 415 jednotkám, např.: ['art-4:85', 'art-4:86', 'art-4:87', 'art-4:88', 'art-4:89', 'art-4:90', 'art-4:91', 'art-4:92', 'art-4:93', 'art-4:94']\n"
   },
-  "checkpoint_method": "Existing _checkpoint.py renders only substantive commentary and explicitly labels output incomplete. Shared completion gate is unchanged.",
+  "checkpoint_method": "Existing _checkpoint.py renders substantive commentary and labels output incomplete; shared completion gate unchanged.",
   "scope_review_complete": true,
   "whole_book_complete": false
 }
