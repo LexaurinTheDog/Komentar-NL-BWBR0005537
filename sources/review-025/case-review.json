@@ -1,0 +1,28 @@
+{
+  "ecli": "ECLI:NL:RVS:2025:2455",
+  "court": "Afdeling bestuursrechtspraak Raad van State",
+  "date": "2025-05-28",
+  "docket": "202407114/1/A2",
+  "full_text_read": true,
+  "official_snapshot": "sources/review-025/ECLI-NL-RVS-2025-2455.xml",
+  "sha256": "e6720441786411918a8dfdc78ed95347d0d3f1fd6532762aed72fa83677c0c65",
+  "identical_to_author_snapshot": true,
+  "local_corpus_snapshot": "sources/review-025/ECLI-NL-RVS-2025-2455-local.md",
+  "local_corpus_sha256": "b6efd2fd2a2b916df623dc7a8958cc8cc3385ec2499cf899720e15c44863de1c",
+  "support": [
+    "art-8:119"
+  ],
+  "precise_paragraphs": [
+    "3",
+    "4",
+    "4.1",
+    "4.2",
+    "4.3",
+    "5",
+    "6",
+    "dictum"
+  ],
+  "holding": "Cumulatieve nova-voorwaarden; eerder aangevoerde beoordeling van andere aanvragen vormt geen nieuw feit; heropening debat niet toegestaan; verzoek afgewezen.",
+  "limits": "Stellingen over misleiding in2 zijn partijstellingen;4.2 vindt geen steun voor gestelde toezegging. Geen algemene afwijzing van ieder later ontdekt stuk; geen toepassing oude subsidieregels als huidig recht. Norm3 vergeleken met huidige8:119(1).",
+  "later_treatment_exhaustively_checked": false
+}
