@@ -1,0 +1,147 @@
+{
+  "independent_review": false,
+  "at": "2026-10-20T22:19:49.094748+00:00",
+  "units": [
+    {
+      "id": "art-8:114",
+      "chars": 1282,
+      "full_statutory_text_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:115",
+      "chars": 1311,
+      "full_statutory_text_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:116",
+      "chars": 1214,
+      "full_statutory_text_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:117",
+      "chars": 1238,
+      "full_statutory_text_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:118",
+      "chars": 1291,
+      "full_statutory_text_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:119",
+      "chars": 2089,
+      "full_statutory_text_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:1",
+      "chars": 1193,
+      "full_statutory_text_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:2",
+      "chars": 1298,
+      "full_statutory_text_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:3",
+      "chars": 1235,
+      "full_statutory_text_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:4",
+      "chars": 1260,
+      "full_statutory_text_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:5",
+      "chars": 1266,
+      "full_statutory_text_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:6",
+      "chars": 1161,
+      "full_statutory_text_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:7",
+      "chars": 1164,
+      "full_statutory_text_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:8",
+      "chars": 1422,
+      "full_statutory_text_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:9",
+      "chars": 1184,
+      "full_statutory_text_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:10",
+      "chars": 1286,
+      "full_statutory_text_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:11",
+      "chars": 1204,
+      "full_statutory_text_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:12",
+      "chars": 1213,
+      "full_statutory_text_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:13",
+      "chars": 1227,
+      "full_statutory_text_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:12a",
+      "chars": 1722,
+      "full_statutory_text_read": true,
+      "fictional_example": true
+    }
+  ],
+  "checks": [
+    "8:114 mandatory/can and payer distinguished",
+    "8:115–117 remand, own disposal and wrong court distinguished",
+    "8:118 oral simultaneous request and written route distinguished",
+    "8:119 cumulative conditions and fee rules",
+    "9:1 third-person complaint versus9:4 own conduct",
+    "9:5 satisfaction established, not presumed",
+    "9:7 exception retained",
+    "9:8 all grounds and four-week notification",
+    "9:10 exceptions only for complainant",
+    "9:11 six/ten/four weeks and written agreement",
+    "9:12 findings/opinion/consequences separated",
+    "9:12a written complaints not only upheld complaints",
+    "9:13 supplemental procedure and activation"
+  ],
+  "high_similarity_pairs": [],
+  "unresolved_blockers": [],
+  "limitations": [
+    "Auteurscontrole; onafhankelijke tweede beoordeling nog nodig.",
+    "Lengte bewijst geen juridische kwaliteit."
+  ]
+}

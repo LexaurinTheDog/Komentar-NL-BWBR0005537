@@ -1,0 +1,27 @@
+{
+  "at": "2026-10-20T22:19:49.094748+00:00",
+  "query": "site.raadvanstate.nl 8:119 herziening 2015 1824",
+  "selected": "ECLI:NL:RVS:2025:2455",
+  "official_page": "https://www.raadvanstate.nl/uitspraken/@150621/202407114-1-a2/",
+  "primary_full_text_read": true,
+  "paragraphs": [
+    "4",
+    "4.1",
+    "4.2",
+    "4.3",
+    "5",
+    "6",
+    "dictum"
+  ],
+  "local_national_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2025-2455.md",
+  "local_sha256": "b6efd2fd2a2b916df623dc7a8958cc8cc3385ec2499cf899720e15c44863de1c",
+  "support": [
+    "art-8:119"
+  ],
+  "other_units": "Geen afzonderlijke voldoende relevante uitspraak geselecteerd; uitleg berust op gecontroleerde wettekst.",
+  "unused_download": "ECLI-NL-RVS-2023-606.xml is een eerder geselecteerde bron over een ander onderwerp en wordt hier niet als gezag gebruikt.",
+  "limitations": [
+    "Selectief onderzoek, geen uitputtende rechtspraakdekking of latere-behandelingscontrole.",
+    "Partijstellingen in overweging2 zijn niet als rechterlijke vaststellingen gebruikt."
+  ]
+}

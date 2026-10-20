@@ -1,0 +1,41 @@
+{
+  "complete": true,
+  "kind": "bounded_author",
+  "authored_ids": [
+    "art-8:114",
+    "art-8:115",
+    "art-8:116",
+    "art-8:117",
+    "art-8:118",
+    "art-8:119",
+    "art-9:1",
+    "art-9:2",
+    "art-9:3",
+    "art-9:4",
+    "art-9:5",
+    "art-9:6",
+    "art-9:7",
+    "art-9:8",
+    "art-9:9",
+    "art-9:10",
+    "art-9:11",
+    "art-9:12",
+    "art-9:13",
+    "art-9:12a"
+  ],
+  "completed_units": 20,
+  "total_assigned": 20,
+  "written_book_units": 500,
+  "total_book_units": 588,
+  "whole_book_complete": false,
+  "independent_review": false,
+  "source_preflight": "sources/author-8-114-9-13/preflight-result.json",
+  "validation": "batch-8-114-9-13-validation.json",
+  "unresolved_blockers": [],
+  "limitations": [
+    "88 eenheden buiten deze batch nog ongeschreven.",
+    "Deze twintig toelichtingen wachten op onafhankelijke tweede beoordeling.",
+    "Selectieve rechtspraak; geen uitputtende controle van latere behandeling.",
+    "Technische controles bewijzen geen juridische kwaliteit."
+  ]
+}

@@ -30,3 +30,6 @@
 
 
 [Auteurscheckpoint 8:71–8:85](batch-8-71-85-result.json): twintig nieuwe toelichtingen; boek onvoltooid.
+
+
+[Auteurscheckpoint 8:114–9:13](batch-8-114-9-13-result.json): twintig nieuwe toelichtingen; boek onvoltooid.

@@ -1,6 +1,6 @@
 {
-  "stage": "reviewing_incomplete",
-  "updated_at": "2026-10-20T22:13:15.939892+00:00",
+  "stage": "authoring_incomplete",
+  "updated_at": "2026-10-20T22:19:49.094748+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -17,12 +17,12 @@
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
     "review_verified_at": "2026-10-20T22:03:45.864689+00:00",
     "review_evidence": "sources/review-023/verification.json",
-    "author_batch_verified_at": "2026-10-20T22:10:38.422599+00:00",
-    "author_batch_evidence": "sources/author-8-86-113/verification.json"
+    "author_batch_verified_at": "2026-10-20T22:19:49.094748+00:00",
+    "author_batch_evidence": "sources/author-8-114-9-13/verification.json"
   },
   "official_articles": 584,
   "total_units": 588,
-  "completed_units": 480,
+  "completed_units": 500,
   "completed_ids": [
     "aanhef",
     "art-1:1",
@@ -503,9 +503,7 @@
     "art-8:110",
     "art-8:111",
     "art-8:112",
-    "art-8:113"
-  ],
-  "missing_commentary_ids": [
+    "art-8:113",
     "art-8:114",
     "art-8:115",
     "art-8:116",
@@ -525,7 +523,9 @@
     "art-9:11",
     "art-9:12",
     "art-9:12a",
-    "art-9:13",
+    "art-9:13"
+  ],
+  "missing_commentary_ids": [
     "art-9:14",
     "art-9:15",
     "art-9:16",
@@ -792,25 +792,26 @@
   "coverage": true,
   "validation_result": {
     "whole_book_complete": false,
-    "bounded_review_passed": true,
+    "bounded_author_passed": true,
     "strict_validator": {
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 957733,
+      "commentary_chars": 983993,
       "errors": [
-        "krátký/chybějící komentář u 108 jednotek: ['art-8:114(0<400)', 'art-8:115(0<400)', 'art-8:116(0<400)', 'art-8:117(0<120)', 'art-8:118(0<400)', 'art-8:119(0<400)', 'art-9:1(0<400)', 'art-9:2(0<400)']"
+        "krátký/chybějící komentář u 88 jednotek: ['art-9:14(0<400)', 'art-9:15(0<400)', 'art-9:16(0<400)', 'art-9:17(0<400)', 'art-9:18(0<400)', 'art-9:19(0<400)', 'art-9:20(0<400)', 'art-9:21(0<120)']",
+        "necommitnuté změny v repu"
       ],
       "warnings": [],
       "ok": false
     },
-    "review_evidence": "batch-review-024-validation.json"
+    "evidence": "batch-8-114-9-13-validation.json"
   },
   "remaining_limitations": [
-    "108 eenheden buiten deze auteursopdracht zijn nog ongeschreven.",
-    "Deze twintig toelichtingen wachten op een onafhankelijke tweede beoordeling.",
+    "88 eenheden buiten deze batch nog ongeschreven.",
+    "Deze twintig toelichtingen wachten op onafhankelijke tweede beoordeling.",
     "Selectieve rechtspraak; geen uitputtende controle van latere behandeling.",
-    "Technische tekst- en lengtecontrole bewijst geen juridische kwaliteit."
+    "Technische controles bewijzen geen juridische kwaliteit."
   ],
   "preflight": {
     "complete": true,
@@ -841,41 +842,41 @@
     "complete": true,
     "kind": "bounded_author",
     "authored_ids": [
-      "art-8:86",
-      "art-8:87",
-      "art-8:88",
-      "art-8:89",
-      "art-8:90",
-      "art-8:91",
-      "art-8:92",
-      "art-8:93",
-      "art-8:94",
-      "art-8:95",
-      "art-8:104",
-      "art-8:105",
-      "art-8:106",
-      "art-8:107",
-      "art-8:108",
-      "art-8:109",
-      "art-8:110",
-      "art-8:111",
-      "art-8:112",
-      "art-8:113"
+      "art-8:114",
+      "art-8:115",
+      "art-8:116",
+      "art-8:117",
+      "art-8:118",
+      "art-8:119",
+      "art-9:1",
+      "art-9:2",
+      "art-9:3",
+      "art-9:4",
+      "art-9:5",
+      "art-9:6",
+      "art-9:7",
+      "art-9:8",
+      "art-9:9",
+      "art-9:10",
+      "art-9:11",
+      "art-9:12",
+      "art-9:13",
+      "art-9:12a"
     ],
     "completed_units": 20,
     "total_assigned": 20,
-    "written_book_units": 480,
+    "written_book_units": 500,
     "total_book_units": 588,
     "whole_book_complete": false,
     "independent_review": false,
-    "source_preflight": "sources/author-8-86-113/preflight-result.json",
-    "validation": "batch-8-86-113-validation.json",
+    "source_preflight": "sources/author-8-114-9-13/preflight-result.json",
+    "validation": "batch-8-114-9-13-validation.json",
     "unresolved_blockers": [],
     "limitations": [
-      "108 eenheden buiten deze auteursopdracht zijn nog ongeschreven.",
-      "Deze twintig toelichtingen wachten op een onafhankelijke tweede beoordeling.",
+      "88 eenheden buiten deze batch nog ongeschreven.",
+      "Deze twintig toelichtingen wachten op onafhankelijke tweede beoordeling.",
       "Selectieve rechtspraak; geen uitputtende controle van latere behandeling.",
-      "Technische tekst- en lengtecontrole bewijst geen juridische kwaliteit."
+      "Technische controles bewijzen geen juridische kwaliteit."
     ]
   },
   "bounded_independent_review": {
