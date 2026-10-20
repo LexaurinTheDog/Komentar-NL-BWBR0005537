@@ -1,0 +1,26 @@
+{
+  "units": 8,
+  "ids": [
+    "bijlage-2-art-7",
+    "bijlage-2-art-8",
+    "bijlage-2-art-9",
+    "bijlage-2-art-10",
+    "bijlage-2-art-11",
+    "bijlage-2-art-12",
+    "bijlage-3-art-1",
+    "bijlage-3-art-2"
+  ],
+  "chars": {
+    "bijlage-2-art-7": 3102,
+    "bijlage-2-art-8": 3706,
+    "bijlage-2-art-9": 2898,
+    "bijlage-2-art-10": 3229,
+    "bijlage-2-art-11": 3233,
+    "bijlage-2-art-12": 3137,
+    "bijlage-3-art-1": 2665,
+    "bijlage-3-art-2": 3618
+  },
+  "identical_blocks": false,
+  "review": "Alle acht teksten handmatig inhoudelijk gelezen; verschillende voorbeelden, categorieën en rechtsgevolgen. Geen generieke vervangtekst.",
+  "statutory_agreement_assigned": 1.0
+}

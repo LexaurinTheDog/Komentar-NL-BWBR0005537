@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CRVB:2025:1470</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-10-16T14:01:59</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2025-10-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Centrale_Raad_van_Beroep" scheme="overheid.RechterlijkeMacht">Centrale Raad van Beroep</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2025-10-07</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">23/386 PW</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht_socialezekerheidsrecht">Bestuursrecht; Socialezekerheidsrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CRVB:2025:1470">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CRVB:2025:1470</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-10-07T11:55:32</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2025-10-16</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CRVB:2025:1470 Centrale Raad van Beroep , 07-10-2025 / 23/386 PW</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CRVB:2025:1470:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Afwijzing herzieningsverzoek. Toelating gemeentelijke schuldhulpverlening. Raad is onbevoegd. Nu het besluit waarvan appellant herziening heeft gevraagd geen besluit is als bedoeld in art. 9 of art. 10 Bevoegdheidsregeling, is de Raad onbevoegd over het hoger beroep van appellant te oordelen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CRVB:2025:1470:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <para />
+    <parablock>
+      <para>23/386 PW </para>
+      <para>Centrale Raad van Beroep</para>
+      <para>Enkelvoudige kamer</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Uitspraak op het hoger beroep tegen de uitspraak van de rechtbank Noord-Nederland van 19 januari 2023, 21/2760 (aangevallen uitspraak) </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Partijen:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [Appellant] te [woonplaats] (appellant)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>het college van burgemeester en wethouders van Heerenveen (college)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Datum uitspraak: 7 oktober 2025</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">SAMENVATTING</bridgehead>
+    <para />
+    <parablock>
+      <para>Deze zaak gaat over de afwijzing van een verzoek om terug te komen van een eerder besluit waarbij appellant is toegelaten tot gemeentelijke schuldhulpverlening. De Raad verklaart zich onbevoegd, omdat het besluit waarvan appellant herziening heeft gevraagd is gebaseerd op de Wet gemeentelijke schuldhulpverlening (Wgs). De Afdeling bestuursrechtspraak van de Raad van State (Afdeling) is in dat geval de bevoegde bestuursrechter in hoger beroep. </para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>PROCESVERLOOP</title>
+    <para />
+    <parablock>
+      <para>Appellant heeft hoger beroep ingesteld. Het college heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellant heeft nadere stukken ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Raad heeft de zaak behandeld op een zitting van 13 mei 2025. Appellant is verschenen. Het college heeft zich laten vertegenwoordigen door mr. V. Djordjevic.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek is heropend na de zitting. Het college heeft desgevraagd informatie gegeven over de grondslag van het besluit waarvan herziening is gevraagd. Appellant heeft nadere reacties ingestuurd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met toepassing van artikel 8:57, eerste lid, van de Algemene wet bestuursrecht (Awb) is het nadere onderzoek ter zitting achterwege gelaten. Vervolgens is het onderzoek gesloten.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>OVERWEGINGEN</title>
+    <para />
+    <parablock>
+      <para>1. Bij de beoordeling van het hoger beroep zijn de volgende feiten en omstandigheden van belang.</para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Met een besluit van 5 augustus 2019 heeft het college appellant toegelaten tot de schuldhulpverlening op grond van de Wgs in verband met problematische schulden. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Met een brief van 25 januari 2021 heeft appellant aan het college verzocht om terug te komen van het besluit van 5 augustus 2019. Met een besluit van 17 april 2021, na bezwaar gehandhaafd met een besluit van 17 augustus 2021 (bestreden besluit), heeft het college het verzoek van appellant afgewezen. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Uitspraak van de rechtbank </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>2. De rechtbank heeft het beroep tegen het bestreden besluit ongegrond verklaard en daarmee het bestreden besluit in stand gelaten. </para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Het oordeel van de Raad </title>
+    <para />
+    <parablock>
+      <para>3. De Raad komt tot het oordeel dat hij onbevoegd is te oordelen over het hoger beroep van appellant. Hierna legt de Raad uit hoe hij tot dit oordeel komt.</para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Op grond van artikel 8:105, eerste lid, van de Awb wordt het hoger beroep ingesteld bij de Afdeling, tenzij een andere hoger beroepsrechter bevoegd is op grond van hoofdstuk 4 van de bij die wet behorende Bevoegdheidsregeling bestuursrechtspraak (Bevoegdheidsregeling) dan wel ingevolge een ander wettelijk voorschrift.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>In artikel 9 en artikel 10 van de Bevoegdheidsregeling is bepaald dat tegen een uitspraak van de rechtbank omtrent een besluit, genomen op grond van een in die artikelen genoemd voorschrift of anderszins in die artikelen omschreven, hoger beroep kan worden ingesteld bij de Raad.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <para>Nu het besluit waarvan appellant herziening heeft gevraagd geen besluit is als bedoeld in artikel 9 of artikel 10 van de Bevoegdheidsregeling, is de Raad onbevoegd over het hoger beroep van appellant te oordelen.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Conclusie en gevolgen </title>
+    <para />
+    <para>4. De Raad zal zich onbevoegd verklaren te oordelen over het hoger beroep van appellant en de gedingstukken met toepassing van artikel 6:15, eerste lid, van de Awb (in samenhang met artikel 6:24 van de Awb) naar de Afdeling doorzenden.</para>
+    <para />
+    <para>5. Appellant krijgt geen vergoeding van zijn proceskosten. Wel krijgt appellant het betaalde griffierecht in hoger beroep terug.</para>
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>BESLISSING</title>
+    <para />
+    <parablock>
+      <para>De Centrale Raad van Beroep </para>
+    </parablock>
+    <para />
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart zich onbevoegd;</para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat de griffier het betaalde griffierecht van € 136,- aan appellant terugbetaalt.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door J.T.H. Zimmerman, in tegenwoordigheid van A.H. Hagendoorn-Huls als griffier. De beslissing is uitgesproken in het openbaar op 7 oktober 2025.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>						(getekend) J.T.H. Zimmerman</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>						(getekend) A.H. Hagendoorn-Huls</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

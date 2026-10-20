@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "checks": [
+    {
+      "file": "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537/commentary/part-36-bevoegdheid-en-griffierecht.md",
+      "link": "case-cards/ECLI-NL-CRVB-2025-1470.md",
+      "exists": true
+    },
+    {
+      "file": "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537/commentary/part-36-bevoegdheid-en-griffierecht.md",
+      "link": "case-cards/ECLI-NL-CRVB-2024-2006.md",
+      "exists": true
+    },
+    {
+      "file": "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537/commentary/part-36-bevoegdheid-en-griffierecht.md",
+      "link": "case-cards/ECLI-NL-HR-2021-1231.md",
+      "exists": true
+    },
+    {
+      "file": "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537/commentary/part-36-bevoegdheid-en-griffierecht.md",
+      "link": "case-cards/ECLI-NL-HR-2021-1231.md",
+      "exists": true
+    },
+    {
+      "file": "/Volumes/LaCie/open-commentary/nl/Komentar-NL-BWBR0005537/30-deel-30.md",
+      "link": "case-cards/ECLI-NL-CRVB-2025-1470.md",
+      "exists": true
+    },
+    {
+      "file": "/Volumes/LaCie/open-commentary/nl/Komentar-NL-BWBR0005537/30-deel-30.md",
+      "link": "case-cards/ECLI-NL-CRVB-2024-2006.md",
+      "exists": true
+    },
+    {
+      "file": "/Volumes/LaCie/open-commentary/nl/Komentar-NL-BWBR0005537/31-deel-31.md",
+      "link": "case-cards/ECLI-NL-HR-2021-1231.md",
+      "exists": true
+    },
+    {
+      "file": "/Volumes/LaCie/open-commentary/nl/Komentar-NL-BWBR0005537/31-deel-31.md",
+      "link": "case-cards/ECLI-NL-HR-2021-1231.md",
+      "exists": true
+    }
+  ]
+}

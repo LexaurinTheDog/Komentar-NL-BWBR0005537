@@ -3,29 +3,33 @@
   "decisive_date": "2026-10-19",
   "review_date": "2026-10-21",
   "official_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
-  "verified_at": "2026-10-20T23:00:31.028002+00:00",
+  "verified_at": "2026-10-20T23:08:08.579504+00:00",
   "version_evidence": {
-    "effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 15-08-2026 t/m heden.",
+    "effective_statement": "Geldend van 15-08-2026 t/m heden. Alles openklappen Alles dichtklappen",
+    "history": "sources/review-030/history.html",
     "first_future_change": "2027-01-01",
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
     "identical_to_canonical": true,
-    "http_results": "sources/review-029/verification.json",
-    "history": "sources/review-029/history.html"
+    "http_results": "sources/review-030/verification.json"
   },
   "historical_versions_checked": {
     "previous": "2026-08-01_0",
     "evidence": "sources/preflight/previous-official.xml",
     "sha256": "04d8986ae1ad30cc84a00bfd91d1ca79a3ea6a0be48aeaf5bcb1fc5e606ebc66",
-    "assigned_changed_ids": [],
+    "assigned_changed_ids": [
+      "bijlage-2-art-7",
+      "bijlage-2-art-11"
+    ],
     "versions_concatenated": false,
-    "explicit_repealed_slot": "art-11:1",
-    "historical_current_rule": "Bijlage2 artikel4: BW-besluiten bekendgemaakt vóór1 juli2011"
+    "comparison": "sources/review-030/assigned-source-check.json"
   },
   "annexes_checked": [
     {
       "annex": "1",
       "expected_child_ids": [],
-      "disposition": "Volledige ongenummerde lijst behouden"
+      "disposition": "Volledige ongenummerde operationele lijst als bijlage-1 behouden.",
+      "evidence_path": "sources/review-030/selected.xml",
+      "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871"
     },
     {
       "annex": "2",
@@ -43,7 +47,9 @@
         "bijlage-2-art-11",
         "bijlage-2-art-12"
       ],
-      "disposition": "Alle genummerde artikelen afzonderlijk behouden"
+      "disposition": "Alle genummerde artikelen afzonderlijk behouden.",
+      "evidence_path": "sources/review-030/selected.xml",
+      "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871"
     },
     {
       "annex": "3",
@@ -51,7 +57,9 @@
         "bijlage-3-art-1",
         "bijlage-3-art-2"
       ],
-      "disposition": "Alle genummerde artikelen afzonderlijk behouden"
+      "disposition": "Alle genummerde artikelen afzonderlijk behouden.",
+      "evidence_path": "sources/review-030/selected.xml",
+      "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871"
     }
   ],
   "coverage": {
@@ -59,121 +67,12 @@
     "parsed_units": 588,
     "missing": [],
     "duplicates": [],
-    "aanhef_and_wetsluiting": "Beide behouden",
-    "evidence": "sources/review-029/coverage-recheck.json"
+    "aanhef_and_wetsluiting": "Beide behouden; geen parserreparatie nodig.",
+    "evidence": "sources/review-030/coverage-recheck.json"
   },
   "unresolved_blockers": [],
   "limitations": [
-    "Voorafgaande toestand en actuele historie gelezen; niet elke historische consolidatie gedownload.",
-    "Broninventaris is geen inhoudelijke beoordeling van andere eenheden."
-  ],
-  "author_annex7_end_recheck": {
-    "complete": true,
-    "scope": "Broncontrole acht toegewezen bijlageartikelen; geen volledige inhoudelijke boekbeoordeling.",
-    "decisive_date": "2026-10-19",
-    "batch_authoring_date": "2026-10-21",
-    "official_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
-    "verified_at": "2026-10-20T23:05:06.305407+00:00",
-    "version_evidence": {
-      "effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 15-08-2026 t/m heden.",
-      "latest_effective_on_decisive_date": "2026-08-15",
-      "latest_effective_on_batch_date": "2026-08-15",
-      "next_scheduled_version": "2027-01-01",
-      "official_history": "sources/author-10-17-37/history.html",
-      "history_rows": "sources/author-10-17-37/history-rows.json",
-      "fresh_xml_identical": true,
-      "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
-      "preserved_successful_official_responses": [
-        {
-          "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
-          "accessed_at": "2026-10-20T22:45:50.952907+00:00",
-          "curl_exit": 0,
-          "http_status": 200,
-          "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
-          "path": "sources/author-10-17-37/current.html",
-          "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
-          "bytes": 4204181,
-          "accepted_format": true
-        },
-        {
-          "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie?view=changes",
-          "accessed_at": "2026-10-20T22:45:51.816973+00:00",
-          "curl_exit": 0,
-          "http_status": 200,
-          "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie?view=changes",
-          "path": "sources/author-10-17-37/history.html",
-          "sha256": "64281e5ffeb9fdb05c83728be308b9d84af0d22eaeb76e5df966d1f8122156c0",
-          "bytes": 1762757,
-          "accepted_format": true
-        }
-      ],
-      "this_batch_http_results": "sources/author-annex7-end/verification.json"
-    },
-    "historical_versions_checked": {
-      "previous": "2026-08-01_0",
-      "previous_xml": "sources/preflight/previous-official.xml",
-      "previous_sha256": "04d8986ae1ad30cc84a00bfd91d1ca79a3ea6a0be48aeaf5bcb1fc5e606ebc66",
-      "selected": "2026-08-15_0",
-      "assigned_changed_ids": [
-        "bijlage-2-art-7",
-        "bijlage-2-art-11"
-      ],
-      "versions_concatenated": false,
-      "assigned_empty_or_repealed_slots": [],
-      "historical_references": "Historische wetstitels in actuele bevoegdheids- en tarieflijsten behouden; geen oude materiële aanspraken als actueel gepresenteerd."
-    },
-    "annexes_checked": [
-      {
-        "annex": "1",
-        "expected_child_ids": [],
-        "evidence_path": "sources/author-annex7-end/selected.xml",
-        "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
-        "disposition": "Gehele ongenummerde operationele lijst als bijlage-1 behouden."
-      },
-      {
-        "annex": "2",
-        "expected_child_ids": [
-          "bijlage-2-art-1",
-          "bijlage-2-art-2",
-          "bijlage-2-art-3",
-          "bijlage-2-art-4",
-          "bijlage-2-art-5",
-          "bijlage-2-art-6",
-          "bijlage-2-art-7",
-          "bijlage-2-art-8",
-          "bijlage-2-art-9",
-          "bijlage-2-art-10",
-          "bijlage-2-art-11",
-          "bijlage-2-art-12"
-        ],
-        "evidence_path": "sources/author-annex7-end/selected.xml",
-        "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
-        "disposition": "Alle genummerde operationele artikelen afzonderlijk behouden."
-      },
-      {
-        "annex": "3",
-        "expected_child_ids": [
-          "bijlage-3-art-1",
-          "bijlage-3-art-2"
-        ],
-        "evidence_path": "sources/author-annex7-end/selected.xml",
-        "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
-        "disposition": "Alle genummerde operationele artikelen afzonderlijk behouden."
-      }
-    ],
-    "coverage": {
-      "expected_units": 588,
-      "parsed_units": 588,
-      "missing": [],
-      "duplicates": [],
-      "evidence": "sources/author-annex7-end/coverage-recheck.json",
-      "aanhef_and_wetsluiting": "Beide aanwezig; geen reparatie nodig."
-    },
-    "unresolved_blockers": [],
-    "limitations": [
-      "Nieuwe HTML-verzoeken mislukten; geldingscontrole steunt op eerder bewaarde officiële succesvolle antwoorden van dezelfde auteursdag en nieuwe identieke XML.",
-      "Niet iedere historische consolidatie opgehaald.",
-      "Auteurscontrole, geen onafhankelijke tweede beoordeling."
-    ]
-  }
+    "Niet elke historische consolidatie gedownload.",
+    "Broninventaris buiten de acht revieweenheden is geen inhoudelijke boekreview."
+  ]
 }

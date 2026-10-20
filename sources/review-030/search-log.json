@@ -1,0 +1,10 @@
+{
+  "method": "Hercontrole bestaande drie geselecteerde primaire uitspraken, geen nieuwe juridische autoriteit toegevoegd.",
+  "prior_search_log": "sources/author-annex7-end/case-search-log.json",
+  "official_full_texts": [
+    "CRVB-2025-1470",
+    "CRVB-2024-2006",
+    "HR-2021-1231"
+  ],
+  "limits": "Geen uitputtende rechtspraak- of latere-behandelingscontrole; geen afzonderlijke zaak voor7,8,11,12."
+}

@@ -1,0 +1,73 @@
+{
+  "complete": true,
+  "units_reviewed": 8,
+  "reviewed_ids": [
+    "bijlage-2-art-7",
+    "bijlage-2-art-8",
+    "bijlage-2-art-9",
+    "bijlage-2-art-10",
+    "bijlage-2-art-11",
+    "bijlage-2-art-12",
+    "bijlage-3-art-1",
+    "bijlage-3-art-2"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "bijlage-2-art-7",
+      "checked_against_full_source": true,
+      "disposition": "corrected",
+      "review": "Volledige lijst inclusief sectoren cyberbeveiliging, medische hulpmiddelen, spooruitzonderingen, ACM, Wft en geneste Telecomonderdelen gelezen. Verwijzing voor nadeelcompensatie verduidelijkt: artikel7 bevat geen4:126-vermelding; rechtbankconcentratie volgt uit8:7 lid3 tweede zin, hoger beroep afzonderlijk via11. Overige tekst behouden."
+    },
+    {
+      "id": "bijlage-2-art-8",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Alle tien leden en onderverdelingen gelezen: ressort versus arrondissement, buitenlandse woonplaats, Raad voor rechtsbijstand, Haarlem-bronformulering, Kadaster, kinderrechter, EFRO, Flevoland en twee Groningen-besluiten. Voorbeeld en checklist correct; behouden."
+    },
+    {
+      "id": "bijlage-2-art-9",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Volledige lijst met Wlz-, Wfsv-, Participatiewet-, toeslagen- en Zvw-uitzonderingen gelezen. Beide CRvB-uitspraken volledig gelezen: schuldhulpgrondslag en opschorting eerdere inhoudelijke uitspraak onderscheiden van8:106 lid2. Behouden."
+    },
+    {
+      "id": "bijlage-2-art-10",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Volledige lijst gelezen: hoedanigheid Ambtenarenwet, Jeugdwet, Wmo-uitzonderingen, nadeelcompensatie9/10, historische wetten en toeslagen3.10/3.12. Geen automatische9-opschorting overgenomen; schuldhulpuitspraak begrensd. Behouden."
+    },
+    {
+      "id": "bijlage-2-art-11",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Volledige lijst met alle geneste uitzonderingen gelezen; verschillen7/11 en4/11, Overgangswet/Gelderland, EU-instellingen, APB-bronfout en dubbel woord in EU2021/23 correct. Geen stille correctie authentiek citaat. Behouden."
+    },
+    {
+      "id": "bijlage-2-art-12",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Volledige lijst gelezen: douane,4:126, AWR26, afzonderlijke Mijnbouwwetafdelingen en strategische diensten18 lid3. Rechtstreeks hofberoep5 onderscheiden,8:106 lid1b/lid2 en invordering correct begrensd. Behouden."
+    },
+    {
+      "id": "bijlage-3-art-1",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Alle onderdelen a–d gelezen met8:41/8:109. Natuurlijke persoon, inclusieve340-grens, invaliditeit en P9, bestuursdwang versus dwangsom,5:32 lid3 en samenhang8:41 lid3 correct. HR1231 volledig gelezen, historische tarieven niet overgenomen. Behouden."
+    },
+    {
+      "id": "bijlage-3-art-2",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Volledige lijst inclusief zes fiscale uitzonderingen, rechtszoekende, Wlz, hersteloperatie en schuldhulp gelezen. HR1231 partijstelling versus oordeel en2019-tarieven correct begrensd. Beide voorbeelden en checklist correct; behouden."
+    }
+  ],
+  "limitations": [
+    "Alleen deze acht eenheden inhoudelijk beoordeeld; geen gehele boekvoltooiing.",
+    "Rechtspraak selectief; geen uitputtend onderzoek naar latere behandeling.",
+    "Geen externe professionele goedkeuring."
+  ],
+  "source_preflight": "sources/review-030/preflight-result.json",
+  "coverage_evidence": "sources/review-030/coverage-recheck.json",
+  "case_review": "sources/review-030/case-review.json"
+}
