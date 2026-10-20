@@ -793,7 +793,18 @@
   "validation_result": {
     "whole_book_complete": false,
     "bounded_author_passed": true,
-    "evidence": "batch-8-86-113-validation.json"
+    "evidence": "batch-8-86-113-validation.json",
+    "strict_validator": {
+      "repo": "Komentar-NL-BWBR0005537",
+      "units": 588,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 956619,
+      "errors": [
+        "krátký/chybějící komentář u 108 jednotek: ['art-8:114(0<400)', 'art-8:115(0<400)', 'art-8:116(0<400)', 'art-8:117(0<120)', 'art-8:118(0<400)', 'art-8:119(0<400)', 'art-9:1(0<400)', 'art-9:2(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    }
   },
   "remaining_limitations": [
     "108 eenheden buiten deze auteursopdracht zijn nog ongeschreven.",
