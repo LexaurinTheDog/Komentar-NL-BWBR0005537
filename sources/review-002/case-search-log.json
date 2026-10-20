@@ -1,0 +1,60 @@
+{
+  "searched_at": "2026-10-20T14:10:52.701701+00:00",
+  "scope": "Selectieve controle voor artikelen 2:11–2:27 en 3:1–3:3, geen uitputtende rechtspraakrecherche.",
+  "web_queries": [
+    "site.officielebekendmakingen.nl \"Tijdelijke regeling\" \"2:13\" \"2026\"",
+    "site.rechtspraak.nl \"2:21\" \"2026\" \"elektronische\"",
+    "site.rechtspraak.nl \"2:23\" \"2026\" \"bestuursrecht\""
+  ],
+  "web_dispositions": [
+    "Officiële Tijdelijke regeling BWBR0051634 gevonden en rechtstreeks opgehaald.",
+    "Geen nieuwe voldoende relevante uitspraak over de huidige artikelen 2:21 of 2:23 geselecteerd uit deze beperkte webresultaten. Niet-officiële resultaten niet als autoriteit gebruikt."
+  ],
+  "local_query": "rg -l --glob *.md: artikel 2:21|artikel 2:23|Wet modernisering elektronisch bestuurlijk verkeer",
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak",
+  "local_hits_file": "sources/review-002/local-search-hits.txt",
+  "local_hits_count": 139,
+  "local_dispositions": [
+    "RVS 2026:4746 geselecteerd voor het temporele onderscheid, volledig gelezen en officieel opnieuw opgehaald.",
+    "RVS 2026:2765 verwijst bij 2:21 naar een APV en CBB 2025:259 betreft bij 2:23 BW-bepalingen; geen relevante nieuwe Awb-autoriteiten.",
+    "Overige treffers niet als inhoudelijke autoriteiten gebruikt."
+  ],
+  "cases": [
+    {
+      "ecli": "ECLI:NL:RVS:2026:4746",
+      "full_text_read": true,
+      "official_snapshot": "sources/review-002/case-4746.xml",
+      "official_sha256": "b24af9ec0b6bafd4273fd50d9c2601bc858b5b55ad8ee3dc3a6580e4a4c3c5f2",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-4746.md",
+      "local_sha256": "2a579300d183da3408750c5cebaee64f2edc5cf93a58c828b17b808f3f088fa2",
+      "supported_units": [
+        "art-2:22"
+      ],
+      "paragraphs": [
+        "9",
+        "16–19"
+      ],
+      "limit": "Verzending uit 2023, oud digitaal recht; geen oordeel over het nieuwe artikel 2:22."
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2022:285",
+      "full_text_read": true,
+      "official_snapshot": "sources/review-002/case-285.xml",
+      "official_sha256": "51539c998ee4b628a0e119ebfe6a12dc687efa50c9dd5a807bad806193cb8a17",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2022-285.md",
+      "local_sha256": "f452233e6ecfe87d5399427d9550b92f11422f8f184f12309076dc50e2ec5931",
+      "supported_units": [
+        "art-3:2"
+      ],
+      "paragraphs": [
+        "11.3",
+        "11.4",
+        "13"
+      ],
+      "limit": "Onderzoek en afweging bij woningsluiting; vernietiging betekent niet dat sluiting definitief onmogelijk is."
+    }
+  ],
+  "other_units": "Geen afzonderlijke uitspraak toegevoegd; geen claim dat geen relevante rechtspraak bestaat.",
+  "firecrawl": "Geïnstalleerd en status gecontroleerd; 0 credits. Officiële bronnen rechtstreeks opgehaald.",
+  "eu_reference_limit": "De uitleg van artikel 2:18 is beperkt tot zijn eigen expliciete verwijzingen en verbod van aanvullende eisen. Geen zelfstandig oordeel over eIDAS-technieknormen; EUR-Lex-webtoegang gaf een robotcontrole."
+}

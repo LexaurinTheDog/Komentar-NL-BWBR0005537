@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T14:04:41.560405+00:00",
+  "checked_at": "2026-10-20T14:13:16.071825+00:00",
   "shared_builder": {
     "command": [
       "python3",
@@ -10,23 +10,7 @@
     "stdout": "",
     "stderr": "CHYBÍ komentář k 415 jednotkám, např.: ['art-4:85', 'art-4:86', 'art-4:87', 'art-4:88', 'art-4:89', 'art-4:90', 'art-4:91', 'art-4:92', 'art-4:93', 'art-4:94']\n"
   },
-  "checkpoint_method": "Existing _checkpoint.py emits only substantive completed commentary and labels the book incomplete; no placeholder blocks supplied.",
+  "checkpoint_method": "Existing _checkpoint.py renders only substantive commentary and labels the manuscript incomplete. Shared completion gate is unchanged.",
   "scope_review_complete": true,
-  "whole_book_complete": false,
-  "strict_validation": {
-    "checked_at": "2026-10-20T14:05:25.500569+00:00",
-    "exit_code": 1,
-    "result": {
-      "repo": "Komentar-NL-BWBR0005537",
-      "units": 588,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 211978,
-      "errors": [
-        "krátký/chybějící komentář u 415 jednotek: ['art-4:85(0<400)', 'art-4:86(0<400)', 'art-4:87(0<400)', 'art-4:88(0<400)', 'art-4:89(0<400)', 'art-4:90(0<400)', 'art-4:91(0<400)', 'art-4:92(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
-    },
-    "output_git_clean_when_checked": true
-  }
+  "whole_book_complete": false
 }

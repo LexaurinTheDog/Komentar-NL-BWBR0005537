@@ -1,0 +1,35 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0051634",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0051634/2026-01-01",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T14:07:21.067839+00:00",
+    "path": "sources/review-002/temporary-current.html",
+    "bytes": 284790,
+    "sha256": "17113a7b1eff5fc3ee4d9e7d8fad0efb55c9f04bf7264c6ff4976e3d6ef14d80",
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0051634/2026-01-01/0/informatie",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0051634/2026-01-01/0/informatie",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T14:07:21.280838+00:00",
+    "path": "sources/review-002/temporary-history.html",
+    "bytes": 24592,
+    "sha256": "8604df112927a40733c769d007be2ba015e90f3070b6a50913914e2ad52549d8",
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0048156",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0048156/2025-11-11",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T14:07:21.859533+00:00",
+    "path": "sources/review-002/wdo-current.html",
+    "bytes": 279707,
+    "sha256": "7d1206bd6bc82ef91ab1f2f86eaa47231bd3eefd50531cc845224ef885a06c38",
+    "accepted_format": true
+  }
+]

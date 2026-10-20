@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T14:04:41.560405+00:00",
+  "updated_at": "2026-10-20T14:13:16.071825+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -15,8 +15,8 @@
     "verified_at": "2026-10-20T13:47:01.778268+00:00",
     "current_recheck_date": "2026-10-20",
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
-    "review_verified_at": "2026-10-20T13:58:48.346353+00:00",
-    "review_evidence": "sources/review-001/verification.json"
+    "review_verified_at": "2026-10-20T14:07:21.859533+00:00",
+    "review_evidence": "sources/review-002/verification.json"
   },
   "official_articles": 584,
   "total_units": 588,
@@ -617,7 +617,8 @@
     "read_and_used": [
       "ECLI:NL:RVS:2021:953",
       "ECLI:NL:RVS:2022:285",
-      "ECLI:NL:RVS:2014:3379"
+      "ECLI:NL:RVS:2014:3379",
+      "ECLI:NL:RVS:2026:4746"
     ],
     "fetched_not_yet_assessed": [
       "ECLI:NL:CBB:2024:31"
@@ -640,13 +641,13 @@
       "warnings": [],
       "ok": false
     },
-    "independent_review_scope": "Only the twenty ids in review-result.json; technical full-book validation is separate."
+    "independent_review_scope": "Current batch exactly twenty ids in review-result.json; previous twenty independently recorded. Whole-book review incomplete."
   },
   "remaining_limitations": [
-    "Niet alle commentaareenheden zijn geschreven.",
-    "Alleen de aanhef en artikelen 1:1–1:9 en 2:1–2:10 zijn in deze tweede beoordeling gecontroleerd; 568 andere broneenheden zijn niet beoordeeld.",
-    "Geen uitputtende rechtspraakrecherche of inventaris van alle lagere en tijdelijke uitzonderingsregelingen.",
-    "Technische identifierdekking vervangt geen juridische kwaliteitscontrole."
+    "415 commentaareenheden nog ongeschreven.",
+    "40 eenheden in twee batches beoordeeld; 548 eenheden nog zonder tweede inhoudelijke beoordeling.",
+    "Selectieve rechtspraakrecherche; niet alle sectorale regelingen en EU-technieknormen afzonderlijk geanalyseerd.",
+    "Technische tekst-, lengte- en herhalingscontroles bewijzen geen juridische kwaliteit."
   ],
   "preflight": {
     "complete": true,
@@ -665,6 +666,34 @@
   "bounded_independent_review": {
     "complete": true,
     "units_reviewed": 20,
+    "reviewed_ids": [
+      "art-2:11",
+      "art-2:12",
+      "art-2:13",
+      "art-2:14",
+      "art-2:15",
+      "art-2:16",
+      "art-2:17",
+      "art-2:18",
+      "art-2:19",
+      "art-2:20",
+      "art-2:21",
+      "art-2:22",
+      "art-2:23",
+      "art-2:24",
+      "art-2:25",
+      "art-2:26",
+      "art-2:27",
+      "art-3:1",
+      "art-3:2",
+      "art-3:3"
+    ],
+    "evidence": "review-result.json",
+    "technical_evidence": "review-technical.json",
+    "whole_book_complete": false
+  },
+  "cumulative_independent_review": {
+    "units_reviewed": 40,
     "reviewed_ids": [
       "aanhef",
       "art-1:1",
@@ -685,10 +714,31 @@
       "art-2:7",
       "art-2:8",
       "art-2:9",
-      "art-2:10"
+      "art-2:10",
+      "art-2:11",
+      "art-2:12",
+      "art-2:13",
+      "art-2:14",
+      "art-2:15",
+      "art-2:16",
+      "art-2:17",
+      "art-2:18",
+      "art-2:19",
+      "art-2:20",
+      "art-2:21",
+      "art-2:22",
+      "art-2:23",
+      "art-2:24",
+      "art-2:25",
+      "art-2:26",
+      "art-2:27",
+      "art-3:1",
+      "art-3:2",
+      "art-3:3"
     ],
-    "evidence": "review-result.json",
-    "technical_evidence": "review-technical.json",
-    "whole_book_complete": false
+    "prior_batch_evidence": "sources/review-002/prior-review-result.json",
+    "current_batch_evidence": "review-result.json",
+    "remaining_units": 548,
+    "complete": false
   }
 }

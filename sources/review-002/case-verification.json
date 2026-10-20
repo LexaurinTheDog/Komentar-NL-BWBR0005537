@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:4746",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:4746",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T14:08:07.113943+00:00",
+    "path": "sources/review-002/case-4746.xml",
+    "bytes": 24488,
+    "sha256": "b24af9ec0b6bafd4273fd50d9c2601bc858b5b55ad8ee3dc3a6580e4a4c3c5f2",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  }
+]

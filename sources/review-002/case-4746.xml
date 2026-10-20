@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2026:4746</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-09-22T10:02:41</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-08-12</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2026-08-12</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">202503197/1/A2</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>Omgevingswet VTH 2026/737</rdf:li>
+          <rdf:li>NJB 2026/1644</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2026:4746">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2026:4746</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-08-12T10:17:22</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-08-12</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2026:4746 Raad van State , 12-08-2026 / 202503197/1/A2</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2026:4746:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluiten van 9 december 2022 heeft de burgemeester van Utrecht aanvragen van [appellante] om een exploitatievergunning en een vergunning tot het uitoefenen van een horecabedrijf met terras aan de [locatie 1] en de [locatie 2] in Utrecht, ingewilligd. [appellante] exploiteert een horecabedrijf met een terras aan de [locatie 1] en [locatie 2] in Utrecht. Bij twee besluiten van 9 december 2022 heeft de burgemeester twee exploitatievergunningen en vergunningen op grond van de Alcoholwet verleend tot en met 30 juni 2031. [appellante] is het oneens met de duur van de vergunningen. Zij wil dat de vergunningen voor onbepaalde tijd worden verleend en heeft bezwaar gemaakt. Bij besluit van 27 juli 2023 heeft de burgemeester de bezwaren van [appellante] ongegrond verklaard en zijn besluiten van 9 december 2022 gehandhaafd. De burgemeester heeft het besluit op 27 juli 2023 met gebruik van het programma Zivver beveiligd en digitaal verzonden aan de toenmalige advocaat van [appellante]. [appellante] voert aan dat de rechtbank niet heeft onderkend dat zij niet kenbaar heeft gemaakt dat zij voldoende bereikbaar is voor de ontvangst van een elektronisch verzonden bericht met gebruik van het programma Zivver.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2026:4746:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>202503197/1/A2.</para>
+    <para>Datum uitspraak: 12 augustus 2026</para>
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para>Uitspraak op het hoger beroep van:</para>
+    <para>[appellante], gevestigd in [plaats],</para>
+    <para>appellante,</para>
+    <para>tegen de uitspraak van de rechtbank Midden­-Nederland van 17 april 2025 in zaak nr. 23/4801 in het geding tussen:</para>
+    <para>[appellante]</para>
+    <para>en</para>
+    <para>de burgemeester van Utrecht.</para>
+    <para>Procesverloop</para>
+    <para>Bij besluiten van 9 december 2022 heeft de burgemeester aanvragen van [appellante] om een exploitatievergunning en een vergunning tot het uitoefenen van een horecabedrijf met terras aan de [locatie 1] en de [locatie 2] in Utrecht, ingewilligd.</para>
+    <para>Bij besluit van 27 juli 2023 heeft de burgemeester de door [appellante] daartegen gemaakte bezwaren ongegrond verklaard.</para>
+    <para>Bij uitspraak van 17 april 2025 heeft de rechtbank het door [appellante] daartegen ingestelde beroep niet-ontvankelijk verklaard.</para>
+    <para>Tegen deze uitspraak heeft [appellante] hoger beroep ingesteld.</para>
+    <para>De burgemeester heeft een schriftelijke uiteenzetting gegeven.</para>
+    <para>[appellante] heeft een nader stuk ingediend.</para>
+    <para>De Afdeling heeft de zaak ter zitting behandeld op 12 mei 2026, waar [appellante], vertegenwoordigd door mr. F.P.A.M. Uitewillige, bijgestaan door mr. D. Alblas, advocaat in Barendrecht, en de burgemeester van Utrecht, vertegenwoordigd door mr. S.N. Ros, zijn verschenen.</para>
+    <para>Overwegingen</para>
+    <para>Inleiding</para>
+    <para>1.       [appellante] exploiteert een horecabedrijf met een terras aan de [locatie 1] en [locatie 2] in Utrecht. Bij twee besluiten van 9 december 2022 heeft de burgemeester twee exploitatievergunningen en vergunningen op grond van de Alcoholwet verleend tot en met 30 juni 2031. [appellante] is het oneens met de duur van de vergunningen. Zij wil dat de vergunningen voor onbepaalde tijd worden verleend en heeft bezwaar gemaakt.</para>
+    <para>2.       Bij besluit van 27 juli 2023 heeft de burgemeester de bezwaren van [appellante] ongegrond verklaard en zijn besluiten van 9 december 2022 gehandhaafd. De burgemeester heeft het besluit op 27 juli 2023 met gebruik van het programma Zivver beveiligd en digitaal verzonden aan de toenmalige advocaat van [appellante] (de advocaat). Bij de verzending van een bericht met gebruik van Zivver, gaat automatisch een bericht per e-mail (notificatiebericht) uit naar de ontvanger waarin is vermeld dat het bericht klaarstaat in de Zivver-omgeving. Volgens [appellante] heeft de advocaat nooit een notificatiebericht per e-mail ontvangen. De advocaat heeft het bericht in de Zivver-omgeving met het besluit gezien en geopend op 25 september 2023 toen hij daarop inlogde om een ander bericht te openen. Op 28 september 2023 heeft hij namens [appellante] beroep ingesteld tegen het besluit op bezwaar.</para>
+    <para>3.       Het wettelijk kader is opgenomen in de bijlage. De bijlage maakt deel uit van deze uitspraak.</para>
+    <para>Uitspraak van de rechtbank</para>
+    <para>4.       De rechtbank heeft het beroep van [appellante] tegen het besluit op bezwaar niet-ontvankelijk verklaard. Zij heeft overwogen dat het besluit bekend is gemaakt op 27 juli 2023 en [appellante] pas op 28 september 2023, en dus na de beroepstermijn van zes weken, beroep heeft ingesteld. Deze termijnoverschrijding is niet verschoonbaar.</para>
+    <para>Hoger beroep</para>
+    <para>5.       [appellante] voert aan dat de rechtbank niet heeft onderkend dat zij niet kenbaar heeft gemaakt dat zij voldoende bereikbaar is voor de ontvangst van een elektronisch verzonden bericht met gebruik van het programma Zivver, als bedoeld in het op 27 juli 2023 geldende artikel 2:14, eerste lid, van de Algemene wet bestuursrecht (Awb). [appellante] voert daartoe aan dat, hoewel in de bezwaarfase sprake is geweest van e-mailcontact tussen de burgemeester en (het individuele e-mailadres van) de advocaat van [appellante], de rechtbank niet heeft onderkend dat toen geen gebruik is gemaakt van het programma Zivver. Het verzenden van een e-mail via Zivver betekent dat de e-mail wordt gestuurd aan de Zivver-server, waarvan vervolgens de geadresseerde per e-mail een notificatiebericht zou moeten krijgen. Dat kan niet gelijkgesteld worden aan de rechtstreekse verzending van een e-mail, zonder gebruik van Zivver. De burgemeester is dus afgeweken van de bestendige e-mailpraktijk. De advocaat maakt verder geen gebruik van Zivver en de burgemeester heeft zich er niet van vergewist of de advocaat daar gebruik van maakt. Weliswaar  heeft de burgemeester eerder op 13 december 2022 de vergunningen met gebruik van Zivver verzonden aan [appellante], maar toen was de advocaat nog niet betrokken bij de zaak.</para>
+    <para>6.       [appellante] stelt zich verder op het standpunt dat haar advocaat het notificatiebericht per e-mail nooit heeft ontvangen. [appellante] wijst erop dat het voor een ontvanger mogelijk is om notificatieberichten uit te schakelen en dat ook de beveiligde verzending met gebruik van Zivver niet foutloos is. De advocaat is verder niet per reguliere e-mail ervan op de hoogte gesteld dat het besluit met gebruik van Zivver is verstuurd. Het begeleidende bericht van de burgemeester van 27 juli 2023 bij het besluit, is ook met gebruik van Zivver verstuurd en dat heeft de advocaat ook niet in zijn e-mailbox ontvangen. De rechtbank is daar ten onrechte vanuit gegaan. [appellante] wijst er verder op dat de advocaat op 4 juli 2023 per e-mail de burgemeester heeft gevraagd naar de status van het besluit, en dat de burgemeester niet op die e-mail heeft gereageerd. Bovendien is het besluit verzonden in een vakantieperiode. Omdat het besluit niet (ook) per post of reguliere e-mail aan de advocaat is verzonden, heeft de burgemeester volgens [appellante] het besluit niet behoorlijk bekendgemaakt op 27 juli 2023.</para>
+    <para>7.       Volgens [appellante] heeft de advocaat op 22 september 2023 een notificatiebericht van Zivver ontvangen over een bericht in een andere zaak. Hij heeft op 25 september 2023 dat bericht in de Zivver-omgeving geopend en eerst toen ook het bericht met het besluit op bezwaar van 27 juli 2023 gezien en geopend. [appellante] wijst erop dat zij vervolgens al binnen drie dagen op 28 september 2025 beroep heeft ingesteld. Dat betekent dat het beroep tijdig is ingediend en dat de rechtbank ten onrechte het beroep niet-ontvankelijk heeft verklaard, aldus [appellante]. Voor zover sprake is van een termijnoverschrijding van het beroep, is die termijnoverschrijding verschoonbaar.</para>
+    <para>8.       [appellante] wijst verder op de inwerkingtreding per 1 januari 2026 van nieuwe onderdelen van de Wet modernisering elektronisch bestuurlijk verkeer en specifiek op de inwerkingtreding van artikel 2:10 van de Awb, waarin thans staat dat, indien een bestuursorgaan een bericht verzendt door het te plaatsen in een systeem voor gegevensverwerking waarin de geadresseerde toegang heeft tot het bericht, binnen 48 uur elektronisch aan de geadresseerde wordt medegedeeld dat het bericht van het bestuursorgaan voor hem toegankelijk is geworden.</para>
+    <para>Beoordeling van het hoger beroep</para>
+    <para>9.       Voor zover [appellante] in hoger beroep heeft gewezen op nieuwe bepalingen van de Wet modernisering elektronisch bestuurlijk verkeer, zijn die bepalingen per 1 januari 2026 in werking getreden en waren die niet (met terugwerkende kracht) geldig ten tijde van de verzending van het besluit op 27 juli 2023. De Afdeling kan dus niet toetsen aan deze bepalingen.</para>
+    <para>10.     Hierna zal de Afdeling ingaan op de gronden van [appellante] over de bekendmaking van het besluit met gebruik van Zivver en de verschoonbaarheid van de termijnoverschrijding.</para>
+    <para>Bekendmaking van het besluit</para>
+    <para>11.     De termijn voor het indienen van een beroepschrift vangt, vanwege artikel 6:8 van de Awb, aan met ingang van de dag na die waarop het besluit op de voorgeschreven wijze is bekendgemaakt.</para>
+    <para>Ingevolge artikel 3:41 van de Awb geschiedt de bekendmaking van besluiten die tot een of meer belanghebbenden zijn gericht, door toezending of uitreiking aan hen.</para>
+    <para>Ingevolge artikel 2:14, eerste lid, van de Awb kon een bestuursorgaan een bericht dat tot een of meer geadresseerden is gericht, elektronisch verzenden voor zover de geadresseerde kenbaar heeft gemaakt dat hij langs deze weg voldoende bereikbaar is.</para>
+    <para>12.     Zoals de Afdeling eerder heeft overwogen, kan het kenbaar maken in de zin van artikel 2:14 van de Awb zowel impliciet als expliciet geschieden (zie onder meer de uitspraak van 13 maart 2019, ECLI:NL:RVS:2019:810 en de uitspraak van 17 juli 2024, ECLI:NL:RVS:2024:2886). Een bestendige e-mailpraktijk tussen het bestuursorgaan en de geadresseerde maakt dat ervan mag worden uitgegaan dat iemand langs die elektronische weg bereikbaar is (zie onder meer de uitspraak van 11 oktober 2017, ECLI:NL:RVS:2017:2744 en de uitspraak van 17 juli 2024).</para>
+    <para>13.     De burgemeester heeft op 13 december 2022 de vergunningen met gebruik van Zivver verzonden aan [appellante] (met een ontvangen notificatiebericht), voordat de advocaat betrokken was bij de zaak. Het bezwaarschrift van de advocaat is mede per e-mail ingediend. Verder is er tijdens de bezwaarprocedure meerdere keren per e-mail contact geweest tussen de advocaat van [appellante] en de burgemeester over het bezwaar en een mogelijke schikking. Deze e-mailwisseling vond plaats met het individuele e-mailadres van de advocaat van [appellante]. De Afdeling wijst er verder op dat de advocaat in het beroepschrift aan de rechtbank heeft opgenomen dat hij een Zivver-account heeft en dat uit het door hem verstrekte overzicht van per sms ontvangen inlogcodes voor Zivver ook blijkt dat hij in de periode vóór 27 juli 2023 regelmatig gebruik heeft gemaakt van zijn account. Hij heeft nadien naar aanleiding van een ander notificatiebericht van 22 september 2023 ingelogd op zijn Zivver-account. Voor zover namens [appellante] in hoger beroep is gesteld dat de advocaat geen gebruik maakte van Zivver, is dat betoog dus niet goed te begrijpen.</para>
+    <para>14.     Verder heeft de burgemeester met het afschrift van het bericht van 27 juli 2023 aangetoond dat het besluit met gebruik van het programma Zivver is verzonden aan de advocaat van [appellante]. Het staat ook vast dat de advocaat het bericht heeft ontvangen in de inbox van zijn Zivver-account (Zivver-inbox). Van het met gebruik van Zivver verzonden bericht gaat automatisch een notificatiebericht per e-mail uit naar het individuele e-mailadres van de advocaat. Gelet op het voorgaande mocht de burgemeester er vanuit gaan dat het besluit via Zivver op de gebruikelijke wijze is aangeboden met een notificatiebericht per e-mail. De verzending van het besluit met gebruik van Zivver, waarvan per e-mail een notificatiebericht uitgaat, wijkt dus niet af van de bestendige e-mailpraktijk met het individuele e-mailadres van de advocaat. De burgemeester was daarom niet verplicht om (aparte) toestemming van de advocaat te verkrijgen om het besluit met gebruik van Zivver te mogen verzenden.</para>
+    <para>15.     De rechtbank heeft daarom terecht geoordeeld dat sprake was van een bestendige e-mailpraktijk en dat de verzending van het besluit met gebruik van Zivver daarmee in overeenstemming is. Het besluit op bezwaar is dus op de juiste wijze bekendgemaakt op 27 juli 2023. Dat betekent dat sprake is van een termijnoverschrijding van het beroep. Hierna gaat de Afdeling in op het betoog van [appellante] over de verschoonbaarheid van de termijnoverschrijding en de ontvangst van het notificatiebericht.</para>
+    <para>Verschoonbaarheid van de termijnoverschrijding</para>
+    <para>16.     Een termijnoverschrijding is verschoonbaar als redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest. Dit staat in artikel 6:11 van de Awb. Ten eerste is daarvoor vereist dat de termijnoverschrijding niet aan de indiener kan worden toegerekend. Ten tweede is vereist dat het bezwaarschrift of beroepschrift zo spoedig mogelijk is ingediend als redelijkerwijs kon worden verlangd. Een termijnoverschrijding kan niet aan de indiener worden toegerekend als er bijzondere omstandigheden zijn bij de indiener, of als de termijnoverschrijding is veroorzaakt door het handelen of nalaten van het bestuursorgaan. Er kunnen ook andere redenen zijn waardoor de termijnoverschrijding niet aan de indiener kan worden toegerekend. Daarbij wordt een op het individuele geval gerichte, contextuele benadering gevolgd. Als de indiener wordt bijgestaan door een (professionele) rechtshulpverlener, komt het handelen van de rechtshulpverlener in beginsel voor risico van de indiener. Persoonlijke omstandigheden van de rechtshulpverlener kunnen ertoe leiden dat de termijnoverschrijding niet aan de indiener wordt toegerekend. Bij een professionele rechtshulpverlener moet het dan gaan om (heel) bijzondere persoonlijke omstandigheden.</para>
+    <para>17.     [appellante] betoogt dat de termijnoverschrijding verschoonbaar is omdat hij geen notificatiebericht heeft ontvangen. De burgemeester heeft een afschrift overgelegd waaruit kan worden opgemaakt dat op 27 juli 2023 met gebruik van het beveiligde e-mailprogramma een e-mail is gestuurd naar het e-mailadres van de advocaat, met bijgevoegd het besluit op bezwaar. Gelet op wat onder 14 is overwogen rechtvaardigt dat het vermoeden dat het met gebruik van Zivver verzonden besluit op regelmatige wijze is aangeboden met een notificatiebericht per e-mail. Het ligt op de weg van [appellante] om dat vermoeden te ontzenuwen. Hiervoor is voldoende dat [appellante] feiten en omstandigheden aanvoert op grond waarvan redelijkerwijs kan worden betwijfeld of het besluit is aangeboden met een notificatiebericht per e-mail.</para>
+    <para>18.     [appellante] werd bijgestaan door een advocaat. Zoals overwogen onder 13 en 14, heeft de advocaat een eigen Zivver-account waaraan zijn e-mailadres is gekoppeld. Hij heeft vóór 27 juli 2023 en daarna notificatieberichten per e-mail van Zivver ontvangen. Het standpunt van [appellante] in hoger beroep dat het gebruik van Zivver niet volledig betrouwbaar is omdat in andere (vergelijkbare) gevallen ook problemen zouden voorkomen bij de ontvangst van een notificatiebericht per e-mail, is niet toegelicht noch onderbouwd en dat standpunt wordt weersproken door de burgemeester. Op de zitting van de Afdeling heeft [appellante] evenmin dat standpunt op enige wijze uiteengezet. Zij heeft ook niet gewezen op eventuele andere gevallen waarin een ontvanger met een Zivver-account eenmalig geen notificatiebericht ontvangt. Dat [appellante] het notificatiebericht niet heeft ontvangen, is dus een enkele stelling. Zij heeft daarmee niet het vermoeden ontzenuwd dat het besluit op regelmatige wijze is aangeboden met een notificatiebericht per e-mail. Verder heeft [appellante] niet gesteld, noch is gebleken, dat de advocaat de notificatieberichten van zijn Zivver-account daadwerkelijk zelf heeft uitgeschakeld. Voor zover de advocaat in zijn Zivver-account de notificatieberichten wel zou hebben uitgeschakeld, is dat overigens een eigen keuze van de advocaat in welk geval mag worden verwacht dat hij zijn Zivver-inbox zelf controleert.</para>
+    <para>19.     Voor zover [appellante] er nog op heeft gewezen dat het besluit is verzonden in een vakantieperiode, is dat ook geen bijzondere omstandigheid waarmee de burgemeester rekening moet houden. De rechtbank heeft terecht geoordeeld dat de termijnoverschrijding van het beroep niet verschoonbaar is. Dat betekent dat de rechtbank terecht het beroep niet-ontvankelijk heeft verklaard.</para>
+    <para>20.     Het betoog slaagt niet.</para>
+    <para>Conclusie</para>
+    <para>21.     Het hoger beroep is ongegrond. De uitspraak van de rechtbank wordt bevestigd.</para>
+    <para>22.     De burgemeester hoeft geen proceskosten te vergoeden.</para>
+    <para>Beslissing</para>
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para>bevestigt de aangevallen uitspraak.</para>
+    <para>Aldus vastgesteld door mr. E.A. Minderhoud, voorzitter, en mr. M. Soffers en mr. V.V. Essenburg, leden, in tegenwoordigheid van mr. M. Schuurman, griffier.</para>
+    <para>w.g. Minderhoud</para>
+    <para>voorzitter</para>
+    <para>w.g. Schuurman</para>
+    <para>griffier</para>
+    <para>Uitgesproken in het openbaar op 12 augustus 2026</para>
+    <para>1100</para>
+    <para> </para>
+    <para>Bijlage</para>
+    <para> </para>
+    <para>Wettelijk kader</para>
+    <para>Algemene wet bestuursrecht</para>
+    <para>Artikel 2:14</para>
+    <para>[Geldend tot 01-01-2026]</para>
+    <para>1. Een bestuursorgaan kan een bericht dat tot een of meer geadresseerden is gericht, elektronisch verzenden voor zover de geadresseerde kenbaar heeft gemaakt dat hij langs deze weg voldoende bereikbaar is.</para>
+    <para>2. Tenzij bij wettelijk voorschrift anders is bepaald, geschiedt de verzending van berichten die niet tot een of meer geadresseerden zijn gericht, niet uitsluitend elektronisch.</para>
+    <para>3. Indien een bestuursorgaan een bericht elektronisch verzendt, geschiedt dit op een voldoende betrouwbare en vertrouwelijke manier, gelet op de aard en de inhoud van het bericht en het doel waarvoor het wordt gebruikt.</para>
+    <para>Artikel 3:41</para>
+    <para>1. De bekendmaking van besluiten die tot een of meer belanghebbenden zijn gericht, geschiedt door toezending of uitreiking aan hen, onder wie begrepen de aanvrager.</para>
+    <para>2. Indien de bekendmaking van het besluit niet kan geschieden op de wijze als voorzien in het eerste lid, geschiedt zij op een andere geschikte wijze.</para>
+    <para>Artikel 6:7</para>
+    <para>De termijn voor het indienen van een bezwaar- of beroepschrift bedraagt zes weken.</para>
+    <para>Artikel 6:8</para>
+    <para>1. De termijn vangt aan met ingang van de dag na die waarop het besluit op de voorgeschreven wijze is bekendgemaakt.</para>
+    <para>2. De termijn voor het indienen van een bezwaarschrift tegen een besluit waartegen alleen door een of meer bepaalde belanghebbenden administratief beroep kon worden ingesteld, vangt aan met ingang van de dag na die waarop de beroepstermijn ongebruikt is verstreken.</para>
+    <para>3. De termijn voor het indienen van een beroepschrift tegen een besluit dat aan goedkeuring is onderworpen, vangt aan met ingang van de dag na die waarop het besluit, inhoudende de goedkeuring van dat besluit, op de voorgeschreven wijze is bekendgemaakt.</para>
+    <para>4. De termijn voor het indienen van een beroepschrift tegen een besluit dat tot een of meer belanghebbenden is gericht en dat is voorbereid met toepassing van afdeling 3.4 vangt aan met ingang van de dag na die waarop het besluit overeenkomstig artikel 3:44, eerste lid, onderdeel a, ter inzage is gelegd.</para>
+    <para>Artikel 6:11</para>
+    <para>Ten aanzien van een na afloop van de termijn ingediend bezwaar- of beroepschrift blijft niet-ontvankelijkverklaring op grond daarvan achterwege indien redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest.</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>
