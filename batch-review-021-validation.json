@@ -1,4 +1,5 @@
 {
+  "checked_at": "2026-10-20T19:25:25.793818+00:00",
   "bounded_review_complete": true,
   "reviewed_ids": [
     "art-8:45",
@@ -25,6 +26,33 @@
   "units_reviewed": 20,
   "corrected_units": 5,
   "retained_units": 15,
+  "assigned_commentary_minimum_failures": 0,
+  "statutory_text_agreement": 1.0,
+  "all_588_official_texts_compared": true,
+  "independent_source_coverage_ok": true,
+  "outside_scope_400_commentaries_preserved": true,
+  "local_links_checked": 1417,
+  "local_link_errors": 0,
+  "exact_repeated_commentary_paragraphs": 0,
+  "exact_repeated_long_sentences": 0,
+  "strict_validator_exit_code": 1,
+  "strict_validator": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 844891,
+    "errors": [
+      "krátký/chybějící komentář u 168 jednotek: ['art-8:55d(0<400)', 'art-8:55e(0<400)', 'art-8:55f(0<400)', 'art-8:56(0<400)', 'art-8:57(0<400)', 'art-8:58(0<400)', 'art-8:59(0<120)', 'art-8:60(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "output_clean_at_strict_check": true,
+  "strict_checked_output_commit": "52544d2fd31fb2bd572161748b8faaa3525f4737",
   "whole_book_complete": false,
-  "phase": "Precommit technical audit; strict clean-tree result recorded after commit."
+  "global_failure_outside_assigned_scope": true,
+  "limitations": [
+    "The full shared build and strict validator remain blocked only by168 unwritten units outside this review scope.",
+    "Technical checks are not legal-quality certification."
+  ]
 }

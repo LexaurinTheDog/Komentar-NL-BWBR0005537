@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T19:23:57.530789+00:00",
+  "updated_at": "2026-10-20T19:25:25.793818+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -779,15 +779,15 @@
   "validation_result": {
     "complete": false,
     "whole_book_complete": false,
-    "reason": "168 ontbrekende commentaren buiten deze auteursbatch.",
+    "reason": "168 ontbrekende toelichtingen buiten de twintig beoordeelde eenheden; toegewezen reviewbatch voltooid.",
     "bounded_author_passed": true,
     "not_independent_review": false,
-    "evidence": "batch-8-45-55c-validation.json",
+    "evidence": "batch-review-021-validation.json",
     "strict_output": {
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 843569,
+      "commentary_chars": 844891,
       "errors": [
         "krátký/chybějící komentář u 168 jednotek: ['art-8:55d(0<400)', 'art-8:55e(0<400)', 'art-8:55f(0<400)', 'art-8:56(0<400)', 'art-8:57(0<400)', 'art-8:58(0<400)', 'art-8:59(0<120)', 'art-8:60(0<400)']"
       ],
@@ -795,8 +795,21 @@
       "ok": false
     },
     "verbatim_ratio": 1.0,
-    "strict_checked_at": "2026-10-20T19:17:07.907956+00:00",
-    "independent_review_scope": "Exactly twenty assigned ids in review-result.json; other400 commentaries preserved."
+    "strict_checked_at": "2026-10-20T19:25:25.793818+00:00",
+    "independent_review_scope": "Exactly twenty assigned ids in review-result.json; other400 commentaries preserved.",
+    "strict_validator": {
+      "repo": "Komentar-NL-BWBR0005537",
+      "units": 588,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 844891,
+      "errors": [
+        "krátký/chybějící komentář u 168 jednotek: ['art-8:55d(0<400)', 'art-8:55e(0<400)', 'art-8:55f(0<400)', 'art-8:56(0<400)', 'art-8:57(0<400)', 'art-8:58(0<400)', 'art-8:59(0<120)', 'art-8:60(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "validated_at": "2026-10-20T19:25:25.793818+00:00",
+    "assigned_batch_passed": true
   },
   "remaining_limitations": [
     "168 eenheden buiten de toegewezen reviewbatch zijn nog ongeschreven; het gehele boek is niet voltooid.",
@@ -811,18 +824,18 @@
     "scope": "Source and parser only; manuscript incomplete."
   },
   "technical_audit": {
-    "checked_at": "2026-10-20T19:04:15.830080+00:00",
+    "checked_at": "2026-10-20T19:24:38.702897+00:00",
     "independent_review": false,
     "official_text_units_compared": 588,
     "official_xml_text_errors": [],
     "source_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
-    "commented_units": 400,
+    "commented_units": 420,
     "total_units": 588,
-    "commentary_chars": 795823,
+    "commentary_chars": 844891,
     "commentary_minimum_length_failures": [],
     "exact_repeated_paragraphs": [],
     "exact_repeated_long_sentences": [],
-    "local_links_checked": 1337,
+    "local_links_checked": 1417,
     "broken_local_links": [],
     "limitations": [
       "Geen inhoudelijke of onafhankelijke juridische kwaliteitscertificering.",
