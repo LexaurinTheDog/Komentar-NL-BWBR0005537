@@ -74,10 +74,12 @@
     "http_status": 200,
     "final_url": "https://wetten.overheid.nl/BWBR0001827/2026-07-14",
     "content_type": "text/html;charset=UTF-8",
-    "path": "sources/author-8-45-55c/rv-history.html",
+    "path": "sources/author-8-45-55c/rv-initial-history-redirect.html",
     "bytes": 9181258,
     "sha256": "c7e252556560bf60b864821d2dc54aa4fd6ee05c784ccd10ae86407257554a7d",
-    "accepted_format": true
+    "accepted_format": true,
+    "accepted_for_version_history": false,
+    "disposition": "Initial /0/informatie request redirected to landing page. Body is byte-identical to separately retained rv-current.html; copied to a distinct path after final hash audit. Actual version-history evidence is the later dated /2026-07-14/0/informatie response."
   },
   {
     "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001827/2026-07-14_0/xml/BWBR0001827_2026-07-14_0.xml",

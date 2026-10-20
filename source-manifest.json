@@ -2485,6 +2485,11 @@
     "bytes": 1519379
   },
   {
+    "path": "sources/author-8-45-55c/rv-initial-history-redirect.html",
+    "sha256": "c7e252556560bf60b864821d2dc54aa4fd6ee05c784ccd10ae86407257554a7d",
+    "bytes": 9181258
+  },
+  {
     "path": "sources/author-8-45-55c/rv.xml",
     "sha256": "4dc98d0268b4cddcb60c9a4a2c0b63370ee722469068bbc3277258d6d6dcd8db",
     "bytes": 5070581
@@ -2516,8 +2521,8 @@
   },
   {
     "path": "sources/author-8-45-55c/verification.json",
-    "sha256": "b6d578d1305b0c85b8cd65f00a420be9f954d83e2fa34c99fa0ed86771925265",
-    "bytes": 8208
+    "sha256": "ae9688e599bd01c36aae3920cad1430bc900268e259f710feff67a07098ba751",
+    "bytes": 8547
   },
   {
     "path": "sources/canonical.txt",
@@ -6136,8 +6141,8 @@
   },
   {
     "path": "sources/verification.json",
-    "sha256": "8c6a29b6e4d175046cef267a81123c33361314ebfb4a56e0141e267c132e0b47",
-    "bytes": 371282
+    "sha256": "863319a4837c1b26cc79639ab2a889a95c66c05e5378f5cc014bf6c14384fa10",
+    "bytes": 371629
   },
   {
     "path": "sources/version-analysis.json",
