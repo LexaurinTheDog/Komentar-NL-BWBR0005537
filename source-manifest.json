@@ -3275,6 +3275,91 @@
     "bytes": 2405
   },
   {
+    "path": "sources/author-annex7-end/CRVB-2024-2006-local.md",
+    "sha256": "4c6fc83e2fcf7a7622b0ef20aa898b4db58a4022ac24d686eacb2ec218d5b4fb",
+    "bytes": 13909
+  },
+  {
+    "path": "sources/author-annex7-end/CRVB-2024-2006.txt",
+    "sha256": "e81c3649d2ebe968f50274d4fcbd81cbed4c7fd69abbac3c77e00d710ce17caa",
+    "bytes": 14026
+  },
+  {
+    "path": "sources/author-annex7-end/CRVB-2024-2006.xml",
+    "sha256": "50b392013fe2d7324f9a852a1be0e482d4f7feee6c79e44a8a1ab535a88ef3db",
+    "bytes": 22428
+  },
+  {
+    "path": "sources/author-annex7-end/CRVB-2025-1470-local.md",
+    "sha256": "22f9968cff49923e70cf463f734cc428765341488a8b81744b49b1e2264503c5",
+    "bytes": 4341
+  },
+  {
+    "path": "sources/author-annex7-end/CRVB-2025-1470.txt",
+    "sha256": "b80dd3ce7802f6699dda86edce0063faa66cd641c84a386b5e7d2b9e3da6bc16",
+    "bytes": 4283
+  },
+  {
+    "path": "sources/author-annex7-end/CRVB-2025-1470.xml",
+    "sha256": "0e5af328bde7e0b7a471016d68fe3ed36cdff274e7092491c632dd9dc7aad1f4",
+    "bytes": 10858
+  },
+  {
+    "path": "sources/author-annex7-end/HR-2021-1231-local.md",
+    "sha256": "42f21788294817d80bf05d625c99695d414f9262a29b22da0c05ffa8d5c5859d",
+    "bytes": 5159
+  },
+  {
+    "path": "sources/author-annex7-end/HR-2021-1231.txt",
+    "sha256": "c5fbcbf10bf32fe1dabe985603b8d083ac3aec0eb72b006fb30f0ac887ddd43b",
+    "bytes": 4853
+  },
+  {
+    "path": "sources/author-annex7-end/HR-2021-1231.xml",
+    "sha256": "0bd8e26becdc855dc04d8441f3faa21f6262a58463a2318e4ba79464d76851ea",
+    "bytes": 11186
+  },
+  {
+    "path": "sources/author-annex7-end/assigned-source-records.json",
+    "sha256": "ae4724a980be889ae4093c63a034b10b007ae64d8a504f52b366236138246191",
+    "bytes": 38184
+  },
+  {
+    "path": "sources/author-annex7-end/author-content-check.json",
+    "sha256": "f6ca2de041cba788fe677265165f08089bbc2cfb5bc71754cb52d9df71152079",
+    "bytes": 2830
+  },
+  {
+    "path": "sources/author-annex7-end/case-search-log.json",
+    "sha256": "35e6c8909bbec0e6335eb8f80ceedbaf56b8c3d409ea24cdaf3c2cb0f6963717",
+    "bytes": 1514
+  },
+  {
+    "path": "sources/author-annex7-end/change-map.json",
+    "sha256": "8640d5332ad5c7e9f47e6cfb50b248228e2aa42b8f9bd10ea78fcefaa091b6c3",
+    "bytes": 5845
+  },
+  {
+    "path": "sources/author-annex7-end/coverage-recheck.json",
+    "sha256": "17a8823e14d33ea72bbf635f01f8ba2b2c3a2cff96a5ffd9d15689f715ca4107",
+    "bytes": 20895
+  },
+  {
+    "path": "sources/author-annex7-end/preflight-result.json",
+    "sha256": "b51ca0268d1b1e0ce7a83b4e915fc83a34cd49432049d8e8c9635bc48a3ab37d",
+    "bytes": 4502
+  },
+  {
+    "path": "sources/author-annex7-end/selected.xml",
+    "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "bytes": 2622149
+  },
+  {
+    "path": "sources/author-annex7-end/verification.json",
+    "sha256": "b266a1f86ae4c501e8e3b745e477b4ff3176b66c5ea2a5f4e186773db00370c9",
+    "bytes": 2884
+  },
+  {
     "path": "sources/canonical.txt",
     "sha256": "7a3c38fde613177fe078f374a25bd153fec6af8f7ddbfd1f337be95fe59a7cf1",
     "bytes": 377436
@@ -8020,26 +8105,6 @@
     "bytes": 1943
   },
   {
-    "path": "sources/structural-inventory.json",
-    "sha256": "9f4631e4a7cf252d0a1785d04ae3a072a198d3a430bae6df2bb11487b179414d",
-    "bytes": 22075
-  },
-  {
-    "path": "sources/version-analysis.json",
-    "sha256": "329fce80c7a0c131988b0e16481dc469bd0ff908feea2f077a6aa4d908729364",
-    "bytes": 512269
-  },
-  {
-    "path": "sources/version-information.html",
-    "sha256": "1c152d67d9d1469c2c80fed3cff2b1fddd42573ad393cd0585ba90b03cea7583",
-    "bytes": 1762757
-  },
-  {
-    "path": "sources/versions.html",
-    "sha256": "039105fb83129a7c5771a9c950cb81de5278ecdc0f6c1b3df6bcfe740e9a2991",
-    "bytes": 8702
-  },
-  {
     "path": "sources/review-029/art-10-38.xml",
     "sha256": "ddfe5fc46748442c8ccbe30ee5bbcf220584c0a9af7ebcd5ca33629e0e0c352d",
     "bytes": 2908
@@ -8235,6 +8300,11 @@
     "bytes": 2622149
   },
   {
+    "path": "sources/review-029/strict-validation.json",
+    "sha256": "114c457e381c178aeba701985da841ece4ed2e8a8a2e41077b841e8bacb00b42",
+    "bytes": 550
+  },
+  {
     "path": "sources/review-029/unit-review.json",
     "sha256": "f169d878d7aa3ac8cf3c69e13a122f3b68439a924834439df73e46d4a347a4b0",
     "bytes": 6719
@@ -8250,8 +8320,28 @@
     "bytes": 2200
   },
   {
+    "path": "sources/structural-inventory.json",
+    "sha256": "9f4631e4a7cf252d0a1785d04ae3a072a198d3a430bae6df2bb11487b179414d",
+    "bytes": 22075
+  },
+  {
     "path": "sources/verification.json",
-    "sha256": "5830238280ff5d7d74170e14f64310aeca7c8a4a5a2c725eedf23ff03f48a3b2",
-    "bytes": 425494
+    "sha256": "0e61a2126b3e608282c6c2ad0891886eb061e6054a2369f164f1e4b8749e98f6",
+    "bytes": 429786
+  },
+  {
+    "path": "sources/version-analysis.json",
+    "sha256": "329fce80c7a0c131988b0e16481dc469bd0ff908feea2f077a6aa4d908729364",
+    "bytes": 512269
+  },
+  {
+    "path": "sources/version-information.html",
+    "sha256": "1c152d67d9d1469c2c80fed3cff2b1fddd42573ad393cd0585ba90b03cea7583",
+    "bytes": 1762757
+  },
+  {
+    "path": "sources/versions.html",
+    "sha256": "039105fb83129a7c5771a9c950cb81de5278ecdc0f6c1b3df6bcfe740e9a2991",
+    "bytes": 8702
   }
 ]

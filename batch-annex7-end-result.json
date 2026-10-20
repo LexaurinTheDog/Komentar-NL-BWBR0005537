@@ -1,0 +1,30 @@
+{
+  "complete": true,
+  "kind": "bounded_author",
+  "authored_ids": [
+    "bijlage-2-art-7",
+    "bijlage-2-art-8",
+    "bijlage-2-art-9",
+    "bijlage-2-art-10",
+    "bijlage-2-art-11",
+    "bijlage-2-art-12",
+    "bijlage-3-art-1",
+    "bijlage-3-art-2"
+  ],
+  "completed_units": 8,
+  "total_assigned": 8,
+  "written_book_units": 588,
+  "total_book_units": 588,
+  "whole_book_complete": false,
+  "independent_review": false,
+  "source_preflight": "sources/author-annex7-end/preflight-result.json",
+  "validation": "batch-annex7-end-validation.json",
+  "unresolved_blockers": [],
+  "limitations": [
+    "Acht nieuwe eenheden wachten op onafhankelijke tweede beoordeling.",
+    "Geen boekfinalisatie verricht.",
+    "Selectieve rechtspraak; geen uitputtende controle van latere behandeling.",
+    "Nieuwe HTML-verzoeken mislukten; bewaarde officiële antwoorden van dezelfde auteursdag en nieuwe identieke XML gebruikt.",
+    "Technische validatie bewijst geen juridische kwaliteit."
+  ]
+}

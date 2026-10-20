@@ -1,47 +1,51 @@
-# INDEX — Onvoltooid werkmanuscript
+# INDEX — Commentaar op de Algemene wet bestuursrecht
 
-460 van 588 commentaareenheden geschreven. De volledige brondekking is afzonderlijk verantwoord.
+- [00-inleiding.md](00-inleiding.md) — Afbakening, bronnen en leeswijzer
+- [01-deel-01.md](01-deel-01.md) — Commentaarhoofdstuk 01: Hoofdstuk 1 Inleidende bepalingen
+- [02-deel-02.md](02-deel-02.md) — Commentaarhoofdstuk 02: Hoofdstuk 2 Verkeer met bestuursorganen
+- [03-deel-03.md](03-deel-03.md) — Commentaarhoofdstuk 03: Hoofdstuk 2 Verkeer met bestuursorganen
+- [04-deel-04.md](04-deel-04.md) — Commentaarhoofdstuk 04: Hoofdstuk 3 Algemene bepalingen over besluiten
+- [05-deel-05.md](05-deel-05.md) — Commentaarhoofdstuk 05: Hoofdstuk 3 Algemene bepalingen over besluiten
+- [06-deel-06.md](06-deel-06.md) — Commentaarhoofdstuk 06: Hoofdstuk 4 Bijzondere bepalingen over besluiten
+- [07-deel-07.md](07-deel-07.md) — Commentaarhoofdstuk 07: Hoofdstuk 4 Bijzondere bepalingen over besluiten
+- [08-deel-08.md](08-deel-08.md) — Commentaarhoofdstuk 08: Hoofdstuk 4 Bijzondere bepalingen over besluiten
+- [09-deel-09.md](09-deel-09.md) — Commentaarhoofdstuk 09: Hoofdstuk 4 Bijzondere bepalingen over besluiten
+- [10-deel-10.md](10-deel-10.md) — Commentaarhoofdstuk 10: Hoofdstuk 4 Bijzondere bepalingen over besluiten
+- [11-deel-11.md](11-deel-11.md) — Commentaarhoofdstuk 11: Hoofdstuk 4 Bijzondere bepalingen over besluiten
+- [12-deel-12.md](12-deel-12.md) — Commentaarhoofdstuk 12: Hoofdstuk 5 Handhaving
+- [13-deel-13.md](13-deel-13.md) — Commentaarhoofdstuk 13: Hoofdstuk 5 Handhaving
+- [14-deel-14.md](14-deel-14.md) — Commentaarhoofdstuk 14: Hoofdstuk 5 Handhaving
+- [15-deel-15.md](15-deel-15.md) — Commentaarhoofdstuk 15: Hoofdstuk 6 Algemene bepalingen over bezwaar en beroep
+- [16-deel-16.md](16-deel-16.md) — Commentaarhoofdstuk 16: Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep
+- [17-deel-17.md](17-deel-17.md) — Commentaarhoofdstuk 17: Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep
+- [18-deel-18.md](18-deel-18.md) — Commentaarhoofdstuk 18: Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter
+- [19-deel-19.md](19-deel-19.md) — Commentaarhoofdstuk 19: Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter
+- [20-deel-20.md](20-deel-20.md) — Commentaarhoofdstuk 20: Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter
+- [21-deel-21.md](21-deel-21.md) — Commentaarhoofdstuk 21: Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter
+- [22-deel-22.md](22-deel-22.md) — Commentaarhoofdstuk 22: Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter
+- [23-deel-23.md](23-deel-23.md) — Commentaarhoofdstuk 23: Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter
+- [24-deel-24.md](24-deel-24.md) — Commentaarhoofdstuk 24: Hoofdstuk 9 Klachtbehandeling
+- [25-deel-25.md](25-deel-25.md) — Commentaarhoofdstuk 25: Hoofdstuk 9 Klachtbehandeling
+- [26-deel-26.md](26-deel-26.md) — Commentaarhoofdstuk 26: Hoofdstuk 10 Bepalingen over bestuursorganen
+- [27-deel-27.md](27-deel-27.md) — Commentaarhoofdstuk 27: Hoofdstuk 10 Bepalingen over bestuursorganen
+- [28-deel-28.md](28-deel-28.md) — Commentaarhoofdstuk 28: Hoofdstuk 11 Slotbepalingen
+- [29-deel-29.md](29-deel-29.md) — Commentaarhoofdstuk 29: Bijlage 1 Regeling rechtstreeks beroep (artikel 7:1, eerste lid, onderdeel g)
+- [30-deel-30.md](30-deel-30.md) — Commentaarhoofdstuk 30: Bijlage 2 Bevoegdheidsregeling bestuursrechtspraak (artikelen 8:5, 8:6, 8:7, 8:105 en 8:106)
+- [31-deel-31.md](31-deel-31.md) — Commentaarhoofdstuk 31: Bijlage 3 Regeling verlaagd griffierecht (artikelen 8:41 en 8:109)
 
-- [Inleiding](00-inleiding.md)
-- [Bronnen](SOURCES.md)
-- [Beoordelingsstaat](REVIEW.md)
-- [Bron- en parsercontrole](PREFLIGHT.md)
-- [Hoofdstuk 1 Inleidende bepalingen](01-deel-01.md) — 10/10
-- [Hoofdstuk 2 Verkeer met bestuursorganen](02-deel-02.md) — 25/25
-- [Hoofdstuk 2 Verkeer met bestuursorganen](03-deel-03.md) — 2/2
-- [Hoofdstuk 3 Algemene bepalingen over besluiten](04-deel-04.md) — 25/25
-- [Hoofdstuk 3 Algemene bepalingen over besluiten](05-deel-05.md) — 20/20
-- [Hoofdstuk 4 Bijzondere bepalingen over besluiten](06-deel-06.md) — 25/25
-- [Hoofdstuk 4 Bijzondere bepalingen over besluiten](07-deel-07.md) — 25/25
-- [Hoofdstuk 4 Bijzondere bepalingen over besluiten](08-deel-08.md) — 25/25
-- [Hoofdstuk 4 Bijzondere bepalingen over besluiten](09-deel-09.md) — 25/25
-- [Hoofdstuk 4 Bijzondere bepalingen over besluiten](10-deel-10.md) — 25/25
-- [Hoofdstuk 4 Bijzondere bepalingen over besluiten](11-deel-11.md) — 14/14
-- [Hoofdstuk 5 Handhaving](12-deel-12.md) — 25/25
-- [Hoofdstuk 5 Herstelsancties](13-deel-13.md) — 25/25
-- [Hoofdstuk 5 Bestuurlijke boete](14-deel-14.md) — 13/13
-- [Hoofdstuk 6 Algemene bepalingen over bezwaar en beroep](15-deel-15.md) — 24/24
-- [Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep](16-deel-16.md) — 25/25
-- [Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep](17-deel-17.md) — 6/6
-- [Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter](18-deel-18.md) — 25/25
-- [Hoofdstuk 8 Partijen, getuigen, deskundigen, tolken en digitaal procederen](19-deel-19.md) — 26/26
-- [Hoofdstuk 8 Verzending, griffierecht en vooronderzoek](20-deel-20.md) — 25/25
-- [Hoofdstuk 8 Vereenvoudigde behandeling, verzet en niet tijdig beslissen](21-deel-21.md) — 25/25
 
+Eerdere auteurscheckpoints (historische voortgang):
 
 [Auteurscheckpoint 8:71–8:85](batch-8-71-85-result.json): twintig nieuwe toelichtingen; boek onvoltooid.
 
-
 [Auteurscheckpoint 8:114–9:13](batch-8-114-9-13-result.json): twintig nieuwe toelichtingen; boek onvoltooid.
-
 
 [Auteurscheckpoint 9:14–9:33](batch-9-14-33-result.json): twintig nieuwe toelichtingen; boek onvoltooid.
 
-
 [Auteurscheckpoint 9:34–10:16](batch-9-34-10-16-result.json): twintig nieuwe toelichtingen; boek onvoltooid.
-
 
 [Auteurscheckpoint 10:17–10:37](batch-10-17-37-result.json): twintig nieuwe toelichtingen; boek onvoltooid.
 
-
 [Auteurscheckpoint 10:38–bijlage 2, artikel 6](batch-10-38-annex6-result.json): twintig nieuwe toelichtingen; boek onvoltooid.
+
+[Acht laatste bijlageartikelen](batch-annex7-end-result.json): auteurscheckpoint, onafhankelijke beoordeling nog vereist.

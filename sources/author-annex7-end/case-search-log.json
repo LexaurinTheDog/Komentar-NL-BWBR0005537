@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-21",
+  "web_queries": [
+    "site.uitspraken.rechtspraak.nl \"bijlage 2\" \"artikel 10\" \"8:106\"",
+    "site.uitspraken.rechtspraak.nl \"bijlage 3\" \"griffierecht\" \"340\"",
+    "site.rechtspraak.nl \"8:106\" \"artikel 10\" \"schorsende\"",
+    "site.rechtspraak.nl \"bijlage 3\" \"gehandicaptenparkeerkaart\" griffierecht",
+    "site.rechtspraak.nl \"bijlage 3\" \"omzetbelasting\" \"griffierecht\""
+  ],
+  "local_corpus_searches": [
+    "rg: artikel 10 van de Bevoegdheidsregeling / artikel 9 en 8:106 in crvb",
+    "rg: Regeling verlaagd griffierecht in landelijke corpus"
+  ],
+  "selected_cases": [
+    "ECLI:NL:CRVB:2025:1470",
+    "ECLI:NL:CRVB:2024:2006",
+    "ECLI:NL:HR:2021:1231"
+  ],
+  "primary_full_texts_read": true,
+  "local_full_texts_read": true,
+  "comparison": "Relevante feiten, rechterlijke overwegingen en dictum stemmen overeen. XML heeft aanvullende samenvattingen; lokale weergave behoudt afzonderlijke overwegingnummers.",
+  "supported_units": [
+    "bijlage-2-art-9",
+    "bijlage-2-art-10",
+    "bijlage-3-art-1",
+    "bijlage-3-art-2"
+  ],
+  "no_selected_separate_case_for": [
+    "bijlage-2-art-7",
+    "bijlage-2-art-8",
+    "bijlage-2-art-11",
+    "bijlage-2-art-12"
+  ],
+  "limitations": [
+    "Selectieve rechtspraak; geen uitputtende actualiserings- of latere-behandelingscontrole.",
+    "HR 2021:1231 betreft tarieven 2019: bedragen niet als actuele tarieven gebruikt.",
+    "Geen inhoudelijke leer ontleend aan niet-geselecteerde zoekresultaten."
+  ]
+}

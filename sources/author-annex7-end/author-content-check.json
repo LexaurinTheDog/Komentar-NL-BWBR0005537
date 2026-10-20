@@ -1,0 +1,58 @@
+{
+  "independent_review": false,
+  "scope": "Auteurscontrole uitsluitend acht toegewezen eenheden",
+  "units": [
+    {
+      "id": "bijlage-2-art-7",
+      "commentary_chars": 2872,
+      "checked_against_full_source": true,
+      "check": "Rotterdam-concentratie, gehele wetten versus deelverwijzingen, geneste ACM/Wft/telecomuitzonderingen, verschillende sectorlijsten en vergelijking met artikel 11; bronspelling APB niet stilzwijgend gerepareerd."
+    },
+    {
+      "id": "bijlage-2-art-8",
+      "commentary_chars": 3706,
+      "checked_against_full_source": true,
+      "check": "Alle tien leden afzonderlijk gelezen; ressort/woonplaats/zetel/ligging onderscheiden; Flevoland, buitenlandse autoriteit, landbouwrestituties en bronbenaming Haarlem behouden."
+    },
+    {
+      "id": "bijlage-2-art-9",
+      "commentary_chars": 2898,
+      "checked_against_full_source": true,
+      "check": "Raadroute plus 8:104 en automatische opschorting 8:106 met tweede-liduitzondering; Wlz, Wmo, Zvw en bijzondere herstelcategorieën onderscheiden; twee volledige CRvB-uitspraken gelezen."
+    },
+    {
+      "id": "bijlage-2-art-10",
+      "commentary_chars": 3229,
+      "checked_against_full_source": true,
+      "check": "Geen automatische opschorting enkel door artikel 10; hoedanigheidscriterium, Wmo/Jeugdwet en herstelverdeling, oudere pensioenwetten en 4:126 los van titel 8.4 behandeld."
+    },
+    {
+      "id": "bijlage-2-art-11",
+      "commentary_chars": 3233,
+      "checked_against_full_source": true,
+      "check": "Rechtstreeks beroep en hoger beroep onderscheiden; Meststoffen, Wft, ACM, telecom en verordeningsuitzonderingen gelezen; lijst niet gelijkgesteld aan Rotterdam; APB-bronafwijking expliciet gemeld."
+    },
+    {
+      "id": "bijlage-2-art-12",
+      "commentary_chars": 3137,
+      "checked_against_full_source": true,
+      "check": "Vijf vermeldingen, toedeling hof versus artikel 5 en rechtbankverdeling, 4:126-koppeling en opschorting 8:106 inclusief niet-tijdig-uitzondering behandeld."
+    },
+    {
+      "id": "bijlage-3-art-1",
+      "commentary_chars": 2665,
+      "checked_against_full_source": true,
+      "check": "Alle vier onderdelen, natuurlijke-persoonvereiste uit hoofdtekst, inclusieve 340-grens, dwangsom versus boete en bestuursdwangkosten, historische tarieven HR-zaak duidelijk onderscheiden."
+    },
+    {
+      "id": "bijlage-3-art-2",
+      "commentary_chars": 3618,
+      "checked_against_full_source": true,
+      "check": "Positieve lijst met deelcategorieën gelezen, AWR-uitzonderingen, rechtsbijstandverlener versus rechtzoekende, Wlz en herstelonderdelen; tariefroute gescheiden van rechterlijke aanwijzing."
+    }
+  ],
+  "limitations": [
+    "Geen onafhankelijke tweede beoordeling.",
+    "Minimumlengte en tekstvergelijking bewijzen geen juridische kwaliteit."
+  ]
+}

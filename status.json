@@ -1,6 +1,6 @@
 {
-  "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T22:58:10.260829+00:00",
+  "stage": "authoring_checkpoint_pending_review",
+  "updated_at": "2026-10-20T23:06:27.403192+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -18,11 +18,12 @@
     "review_verified_at": "2026-10-20T22:03:45.864689+00:00",
     "review_evidence": "sources/review-023/verification.json",
     "author_batch_verified_at": "2026-10-20T22:58:10.260829+00:00",
-    "author_batch_evidence": "sources/author-10-38-annex6/verification.json"
+    "author_batch_evidence": "sources/author-annex7-end/verification.json",
+    "author_batch_preflight": "sources/author-annex7-end/preflight-result.json"
   },
   "official_articles": 584,
   "total_units": 588,
-  "completed_units": 580,
+  "completed_units": 588,
   "completed_ids": [
     "aanhef",
     "art-1:1",
@@ -603,9 +604,7 @@
     "bijlage-2-art-3",
     "bijlage-2-art-4",
     "bijlage-2-art-5",
-    "bijlage-2-art-6"
-  ],
-  "missing_commentary_ids": [
+    "bijlage-2-art-6",
     "bijlage-2-art-7",
     "bijlage-2-art-8",
     "bijlage-2-art-9",
@@ -615,6 +614,7 @@
     "bijlage-3-art-1",
     "bijlage-3-art-2"
   ],
+  "missing_commentary_ids": [],
   "case_law_sources": {
     "read_and_used": [
       "ECLI:NL:RVS:2021:953",
@@ -794,26 +794,20 @@
   },
   "coverage": true,
   "validation_result": {
-    "whole_book_complete": false,
-    "bounded_author_passed": true,
-    "strict_validator": {
-      "repo": "Komentar-NL-BWBR0005537",
-      "units": 588,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 1126403,
-      "errors": [
-        "krátký/chybějící komentář u 8 jednotek: ['bijlage-2-art-7(0<400)', 'bijlage-2-art-8(0<400)', 'bijlage-2-art-9(0<400)', 'bijlage-2-art-10(0<400)', 'bijlage-2-art-11(0<400)', 'bijlage-2-art-12(0<400)', 'bijlage-3-art-1(0<400)', 'bijlage-3-art-2(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
-    },
-    "evidence": "batch-10-38-annex6-validation.json"
+    "verbatim_ratio": 1.0,
+    "commentary_coverage": 588,
+    "shared_builder_exit_code": 0,
+    "strict_before_commit_ok": false,
+    "strict_before_commit_errors": [
+      "necommitnuté změny v repu"
+    ],
+    "evidence": "batch-annex7-end-validation.json"
   },
   "remaining_limitations": [
-    "Acht eenheden buiten deze batch nog ongeschreven.",
-    "Deze twintig toelichtingen wachten op onafhankelijke tweede beoordeling.",
-    "Selectieve rechtspraak; latere behandeling niet uitputtend gecontroleerd.",
-    "Nieuwe HTML-opvragen mislukten; geldingsbewijs uit bewaarde succesvolle officiële antwoorden van dezelfde auteursdag en nieuwe identieke XML.",
+    "Acht nieuwe eenheden wachten op onafhankelijke tweede beoordeling.",
+    "Geen boekfinalisatie verricht.",
+    "Selectieve rechtspraak; geen uitputtende controle van latere behandeling.",
+    "Nieuwe HTML-verzoeken mislukten; bewaarde officiële antwoorden van dezelfde auteursdag en nieuwe identieke XML gebruikt.",
     "Technische validatie bewijst geen juridische kwaliteit."
   ],
   "preflight": {
@@ -845,41 +839,29 @@
     "complete": true,
     "kind": "bounded_author",
     "authored_ids": [
-      "art-10:38",
-      "art-10:39",
-      "art-10:40",
-      "art-10:41",
-      "art-10:42",
-      "art-10:43",
-      "art-10:44",
-      "art-10:45",
-      "art-11:1",
-      "art-11:2",
-      "art-11:3",
-      "art-11:4",
-      "wetsluiting",
-      "bijlage-1",
-      "bijlage-2-art-1",
-      "bijlage-2-art-2",
-      "bijlage-2-art-3",
-      "bijlage-2-art-4",
-      "bijlage-2-art-5",
-      "bijlage-2-art-6"
+      "bijlage-2-art-7",
+      "bijlage-2-art-8",
+      "bijlage-2-art-9",
+      "bijlage-2-art-10",
+      "bijlage-2-art-11",
+      "bijlage-2-art-12",
+      "bijlage-3-art-1",
+      "bijlage-3-art-2"
     ],
-    "completed_units": 20,
-    "total_assigned": 20,
-    "written_book_units": 580,
+    "completed_units": 8,
+    "total_assigned": 8,
+    "written_book_units": 588,
     "total_book_units": 588,
     "whole_book_complete": false,
     "independent_review": false,
-    "source_preflight": "sources/author-10-38-annex6/preflight-result.json",
-    "validation": "batch-10-38-annex6-validation.json",
+    "source_preflight": "sources/author-annex7-end/preflight-result.json",
+    "validation": "batch-annex7-end-validation.json",
     "unresolved_blockers": [],
     "limitations": [
-      "Acht eenheden buiten deze batch nog ongeschreven.",
-      "Deze twintig toelichtingen wachten op onafhankelijke tweede beoordeling.",
-      "Selectieve rechtspraak; latere behandeling niet uitputtend gecontroleerd.",
-      "Nieuwe HTML-opvragen mislukten; geldingsbewijs uit bewaarde succesvolle officiële antwoorden van dezelfde auteursdag en nieuwe identieke XML.",
+      "Acht nieuwe eenheden wachten op onafhankelijke tweede beoordeling.",
+      "Geen boekfinalisatie verricht.",
+      "Selectieve rechtspraak; geen uitputtende controle van latere behandeling.",
+      "Nieuwe HTML-verzoeken mislukten; bewaarde officiële antwoorden van dezelfde auteursdag en nieuwe identieke XML gebruikt.",
       "Technische validatie bewijst geen juridische kwaliteit."
     ]
   },
@@ -1382,7 +1364,16 @@
     ],
     "remaining_units": 128
   },
-  "unreviewed_authored_ids": [],
+  "unreviewed_authored_ids": [
+    "bijlage-2-art-7",
+    "bijlage-2-art-8",
+    "bijlage-2-art-9",
+    "bijlage-2-art-10",
+    "bijlage-2-art-11",
+    "bijlage-2-art-12",
+    "bijlage-3-art-1",
+    "bijlage-3-art-2"
+  ],
   "last_review_batch": {
     "complete": true,
     "kind": "bounded_second_pass",
@@ -1567,5 +1558,38 @@
     "source_preflight": "sources/review-027/preflight-result.json",
     "case_evidence": "sources/review-027/case-review.json",
     "reviewed_at": "2026-10-20T22:41:17.843945+00:00"
+  },
+  "remaining_ids": [],
+  "remaining_units": 0,
+  "whole_book_complete": false,
+  "author_annex7_end": {
+    "complete": true,
+    "kind": "bounded_author",
+    "authored_ids": [
+      "bijlage-2-art-7",
+      "bijlage-2-art-8",
+      "bijlage-2-art-9",
+      "bijlage-2-art-10",
+      "bijlage-2-art-11",
+      "bijlage-2-art-12",
+      "bijlage-3-art-1",
+      "bijlage-3-art-2"
+    ],
+    "completed_units": 8,
+    "total_assigned": 8,
+    "written_book_units": 588,
+    "total_book_units": 588,
+    "whole_book_complete": false,
+    "independent_review": false,
+    "source_preflight": "sources/author-annex7-end/preflight-result.json",
+    "validation": "batch-annex7-end-validation.json",
+    "unresolved_blockers": [],
+    "limitations": [
+      "Acht nieuwe eenheden wachten op onafhankelijke tweede beoordeling.",
+      "Geen boekfinalisatie verricht.",
+      "Selectieve rechtspraak; geen uitputtende controle van latere behandeling.",
+      "Nieuwe HTML-verzoeken mislukten; bewaarde officiële antwoorden van dezelfde auteursdag en nieuwe identieke XML gebruikt.",
+      "Technische validatie bewijst geen juridische kwaliteit."
+    ]
   }
 }

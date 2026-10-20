@@ -1,0 +1,21 @@
+{
+  "bounded_author_technical_ok": true,
+  "assigned_units": 8,
+  "preserved_prior_commentaries": 580,
+  "commented_book_units": 588,
+  "remaining_unwritten": 0,
+  "shared_builder": {
+    "exit_code": 0,
+    "units": 588,
+    "chapters": 31
+  },
+  "strict_validator_before_commit": {
+    "verbatim_ratio": 1.0,
+    "errors": [
+      "necommitnuté změny v repu"
+    ],
+    "ok": false
+  },
+  "independent_review": false,
+  "whole_book_complete": false
+}
