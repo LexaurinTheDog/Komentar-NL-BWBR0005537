@@ -3420,6 +3420,31 @@
     "bytes": 72800
   },
   {
+    "path": "sources/finalization/prior-00-inleiding.md.txt",
+    "sha256": "d40a311d334eb3d124aab78829f8754a084b46e9dc0cfd7116b1f7a6bca9fd86",
+    "bytes": 3504
+  },
+  {
+    "path": "sources/finalization/prior-README.md.txt",
+    "sha256": "305c6fda84a70ae9e41e4e3070bfbbf4f8f08a0a9eb059094e130b207473b667",
+    "bytes": 54789
+  },
+  {
+    "path": "sources/finalization/prior-REVIEW.md.txt",
+    "sha256": "caed91e019406fa92f8520b861476dd606ff3257600c20440916d0f3f5f7769c",
+    "bytes": 227046
+  },
+  {
+    "path": "sources/finalization/prior-review-result.json",
+    "sha256": "b698786a1d6f5785794b5136208bd9038d7ff852d8ebc3fb8df6ef2b4d86bb53",
+    "bytes": 4163
+  },
+  {
+    "path": "sources/finalization/prior-status.json",
+    "sha256": "8f635867b4ab178b46c965800a245c7c22d52659d660e1aa9fa85875d1d7a2c7",
+    "bytes": 37716
+  },
+  {
     "path": "sources/intake-date.html",
     "sha256": "d2f8df9dce1b63b8033e1e222315532ed233cedfadcb3746a88d25c34e23ae7c",
     "bytes": 4204181
@@ -8320,14 +8345,119 @@
     "bytes": 2200
   },
   {
+    "path": "sources/review-030/CRVB-2024-2006.xml",
+    "sha256": "50b392013fe2d7324f9a852a1be0e482d4f7feee6c79e44a8a1ab535a88ef3db",
+    "bytes": 22428
+  },
+  {
+    "path": "sources/review-030/CRVB-2025-1470.xml",
+    "sha256": "0e5af328bde7e0b7a471016d68fe3ed36cdff274e7092491c632dd9dc7aad1f4",
+    "bytes": 10858
+  },
+  {
+    "path": "sources/review-030/HR-2021-1231.xml",
+    "sha256": "0bd8e26becdc855dc04d8441f3faa21f6262a58463a2318e4ba79464d76851ea",
+    "bytes": 11186
+  },
+  {
+    "path": "sources/review-030/assigned-source-check.json",
+    "sha256": "105e757e5b1d6c29bbf169c69170aadd24f81fc9340e507f1cd6b55f80f4af55",
+    "bytes": 37905
+  },
+  {
+    "path": "sources/review-030/case-review.json",
+    "sha256": "0f48efccf29b383e88013f8f2ba62c6448d01a07aa8a1faf1e15e4f0de47c80e",
+    "bytes": 1403
+  },
+  {
+    "path": "sources/review-030/check.py",
+    "sha256": "881d79643a7edf640cd9e4117a9c77381d243428086c1c0f58a44b188ffab7a5",
+    "bytes": 1393
+  },
+  {
+    "path": "sources/review-030/content-check.json",
+    "sha256": "912b99321d1225b8f5213724457c85c1a7943f9e84547f13ff6e25ba9954d0d6",
+    "bytes": 691
+  },
+  {
+    "path": "sources/review-030/coverage-recheck.json",
+    "sha256": "97421e6b8141b5e2cb00b5968153feea74a2db6d885a76bb0e08b594c376cca6",
+    "bytes": 20884
+  },
+  {
+    "path": "sources/review-030/current.html",
+    "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+    "bytes": 4204181
+  },
+  {
+    "path": "sources/review-030/finish.py",
+    "sha256": "4a53afe922d49b50de00c3315a060483276bc45c2adde6a8f5200f9d6a5212e2",
+    "bytes": 11039
+  },
+  {
+    "path": "sources/review-030/history.html",
+    "sha256": "5e5bcbedd7b188cc19eb2eeebe452d5c364cef51c9a4157e819ece3280865ff1",
+    "bytes": 1755568
+  },
+  {
+    "path": "sources/review-030/link-check.json",
+    "sha256": "2cf8e20c3a6d412a00a701a17c9e41a8428218be9f02b4b488f625045ebb0270",
+    "bytes": 1611
+  },
+  {
+    "path": "sources/review-030/preflight-result.json",
+    "sha256": "c2664d4e55c752d8e6526030b6e5f4a1b7685ecb8e3b5e4b15e8a624552c2334",
+    "bytes": 2766
+  },
+  {
+    "path": "sources/review-030/prior-preflight-result.json",
+    "sha256": "a758598f8caee58c8daeb5f72647c4b96865df8087c3457f83136b55017638d3",
+    "bytes": 7054
+  },
+  {
+    "path": "sources/review-030/review-result.json",
+    "sha256": "b698786a1d6f5785794b5136208bd9038d7ff852d8ebc3fb8df6ef2b4d86bb53",
+    "bytes": 4163
+  },
+  {
+    "path": "sources/review-030/search-log.json",
+    "sha256": "32831afad44db7b0a0af7316cc83fa99f7c8c50143e2da7001f62e0d62f0d250",
+    "bytes": 409
+  },
+  {
+    "path": "sources/review-030/selected.xml",
+    "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "bytes": 2622149
+  },
+  {
+    "path": "sources/review-030/unit-review.json",
+    "sha256": "f8232c4d920c1af140b780eadc8e7ad973050a72a75658e223926a778a4c972f",
+    "bytes": 3013
+  },
+  {
+    "path": "sources/review-030/validation.json",
+    "sha256": "0e36d90abd930004d8f49181c9e2a6f2729eca164ca399313e7ae3d1a8d04be3",
+    "bytes": 144
+  },
+  {
+    "path": "sources/review-030/verification.json",
+    "sha256": "6aece2eaf8c3c81f72beb74ea983a917484d8b43a2744932fbc57939066632ca",
+    "bytes": 2821
+  },
+  {
+    "path": "sources/review-030/version-extract.txt",
+    "sha256": "46dd24c48a7fe2c093a2c5dab46bc5fbe57bb9fc81e6c885c01cc2803f85e49f",
+    "bytes": 415450
+  },
+  {
     "path": "sources/structural-inventory.json",
     "sha256": "9f4631e4a7cf252d0a1785d04ae3a072a198d3a430bae6df2bb11487b179414d",
     "bytes": 22075
   },
   {
     "path": "sources/verification.json",
-    "sha256": "0e61a2126b3e608282c6c2ad0891886eb061e6054a2369f164f1e4b8749e98f6",
-    "bytes": 429786
+    "sha256": "e96acb790f0aac954d34eaceea697d95c551add90d7404025c7d2e5919e5aa14",
+    "bytes": 429931
   },
   {
     "path": "sources/version-analysis.json",
@@ -8343,5 +8473,485 @@
     "path": "sources/versions.html",
     "sha256": "039105fb83129a7c5771a9c950cb81de5278ecdc0f6c1b3df6bcfe740e9a2991",
     "bytes": 8702
+  },
+  {
+    "path": "case-cards/ECLI-NL-CBB-2019-29.md",
+    "sha256": "9a17994fe025149fa176c6320b3caf7d5a5c13ec8d1b8efb047200e005f99257",
+    "bytes": 2394
+  },
+  {
+    "path": "case-cards/ECLI-NL-CBB-2024-31.md",
+    "sha256": "574ae0e4f3cfd21a095a039794b193e20efc380e53f6fafd9a4a4af5f2910604",
+    "bytes": 3721
+  },
+  {
+    "path": "case-cards/ECLI-NL-CBB-2025-603.md",
+    "sha256": "ac85b8771c5f5516eba8671f4a267ff775d6f15c0c2cac4590b00d8121957daa",
+    "bytes": 2947
+  },
+  {
+    "path": "case-cards/ECLI-NL-CBB-2026-101.md",
+    "sha256": "306e5c79194065953c59c37afe4f03b36d683cfd98ee55cb231b9159bc81d38f",
+    "bytes": 2824
+  },
+  {
+    "path": "case-cards/ECLI-NL-CBB-2026-406.md",
+    "sha256": "c522ed94a9021680e735a64178f5c0b52187bdf1be5bac4ca4a06cde056ede2d",
+    "bytes": 2966
+  },
+  {
+    "path": "case-cards/ECLI-NL-CBB-2026-95.md",
+    "sha256": "067ea251a56cbc712fb36fa9b9e66058d686c38c4656eadda58d69105d60d1af",
+    "bytes": 2524
+  },
+  {
+    "path": "case-cards/ECLI-NL-CRVB-2011-BU3479.md",
+    "sha256": "2564cdf4fd530451a87303ab930690f15aac012b999279ba828262d0094ec17c",
+    "bytes": 2169
+  },
+  {
+    "path": "case-cards/ECLI-NL-CRVB-2013-2659.md",
+    "sha256": "86e0f120909f511d6e094b74a6ae37fa573f9085fb87190f0d004147c985ce0c",
+    "bytes": 2616
+  },
+  {
+    "path": "case-cards/ECLI-NL-CRVB-2016-3597.md",
+    "sha256": "e619f9f5a9282d2caf7a2d2d96d8fc11ce777193778edca950a94d392a3c6cc5",
+    "bytes": 1082
+  },
+  {
+    "path": "case-cards/ECLI-NL-CRVB-2016-4390.md",
+    "sha256": "c776b9953a5dfa251dd66b85a0e8950c56bb17d11fd11dcf6ba5fcc22870048a",
+    "bytes": 3274
+  },
+  {
+    "path": "case-cards/ECLI-NL-CRVB-2017-2226.md",
+    "sha256": "691d242da39186cadc9fea1dcebedac8cf0b9ed263ff98279902450ed1c55295",
+    "bytes": 3442
+  },
+  {
+    "path": "case-cards/ECLI-NL-CRVB-2021-1500.md",
+    "sha256": "dfa88ecaf55d4015b9f58830b5e4c10eaae67efa48fcf645eafed08a6e9dc2c0",
+    "bytes": 3004
+  },
+  {
+    "path": "case-cards/ECLI-NL-CRVB-2024-1889.md",
+    "sha256": "2fa88c2c2c5c275467c3d3402c5c85fc99e98055017de4215412044ac9235021",
+    "bytes": 2893
+  },
+  {
+    "path": "case-cards/ECLI-NL-CRVB-2024-2006.md",
+    "sha256": "f4139501e4ce0369d29d8e24f359c6f399af4bf7f2756612fd0b5d2b0edd04a9",
+    "bytes": 2073
+  },
+  {
+    "path": "case-cards/ECLI-NL-CRVB-2025-1470.md",
+    "sha256": "295e5734365c93fd12e391c597d85847c227c50e3e9c922ccf2dc1782bed7ad0",
+    "bytes": 1696
+  },
+  {
+    "path": "case-cards/ECLI-NL-CRVB-2025-1668.md",
+    "sha256": "56ba0d2763da1b521327047ad07c89ec47101ac71db7254c4d25d37d195ba67a",
+    "bytes": 3348
+  },
+  {
+    "path": "case-cards/ECLI-NL-CRVB-2026-384.md",
+    "sha256": "fbcbea5808987f232111462fe015fa0ee5a683bac9bec95f16fb3b0204a7056b",
+    "bytes": 1837
+  },
+  {
+    "path": "case-cards/ECLI-NL-GHARL-2017-7881.md",
+    "sha256": "2830569c02a1abb9bd73832bf5875edc42d28d15e9cbff5f6a1a133d64ddd92c",
+    "bytes": 1110
+  },
+  {
+    "path": "case-cards/ECLI-NL-GHARL-2020-3942.md",
+    "sha256": "1a3e662c04c282825d2fc239f512037ecaa3aa0ce43c771c4ce88918a391362a",
+    "bytes": 3871
+  },
+  {
+    "path": "case-cards/ECLI-NL-GHDHA-2024-1447.md",
+    "sha256": "aa607674a9d7eda5f647d393e0fcdd37de2e791e988d05bfd41d5e08b28a0687",
+    "bytes": 3310
+  },
+  {
+    "path": "case-cards/ECLI-NL-GHSHE-2017-5464.md",
+    "sha256": "9026c4d8ed166b34a7e16589cf00c93d4c4d3bebb885b9f52ebe834667eb6d78",
+    "bytes": 2536
+  },
+  {
+    "path": "case-cards/ECLI-NL-HR-2015-354.md",
+    "sha256": "13c5241323905e228e84caaf9d570dbe67d9e24ca5d9c3d2c58ae09400961bf5",
+    "bytes": 3160
+  },
+  {
+    "path": "case-cards/ECLI-NL-HR-2015-817.md",
+    "sha256": "6b54a4fcc4c52bf4d9efefa107fc438db0df8720b68b9fb279eec6e9f16e5924",
+    "bytes": 2294
+  },
+  {
+    "path": "case-cards/ECLI-NL-HR-2018-672-8-42.md",
+    "sha256": "591a51427cbb752b148e730a695ecc563bb412067dfaffdf1e0725f56232f17f",
+    "bytes": 3317
+  },
+  {
+    "path": "case-cards/ECLI-NL-HR-2018-672.md",
+    "sha256": "9792624be03d5fe337d27f1ba487e1876037e9ec593c97d3c95f6c9ba9cd50f9",
+    "bytes": 3222
+  },
+  {
+    "path": "case-cards/ECLI-NL-HR-2020-1730.md",
+    "sha256": "1904426bece7b73da862be4d1b69bfe3a868b55b1740ca82d8520c0947e97d0d",
+    "bytes": 3197
+  },
+  {
+    "path": "case-cards/ECLI-NL-HR-2021-1231.md",
+    "sha256": "51e4839f4c22bc5c2fce4e850ddcd8bf3cdc60fa6f3a03498248c66948ee079c",
+    "bytes": 1969
+  },
+  {
+    "path": "case-cards/ECLI-NL-HR-2025-106.md",
+    "sha256": "b70106e28594ce54fe3c412ad1e4e1f4881718c375f1bcc863d6b41dc43a5176",
+    "bytes": 3759
+  },
+  {
+    "path": "case-cards/ECLI-NL-HR-2025-158.md",
+    "sha256": "8b9866f18f630e9152bc5736e066ae1e19866b0c2418af1770ebb773bdb78d12",
+    "bytes": 3166
+  },
+  {
+    "path": "case-cards/ECLI-NL-RBDHA-2013-BZ9560.md",
+    "sha256": "73ce4764fd45fca6b8e1fd006a24f26f053480871ae41001b9ae268bb415387d",
+    "bytes": 3925
+  },
+  {
+    "path": "case-cards/ECLI-NL-RBDHA-2025-2646.md",
+    "sha256": "da6197680189ea942d7d3d665655b1efb1377fcf888160ea3f62f5bb59af8aab",
+    "bytes": 2547
+  },
+  {
+    "path": "case-cards/ECLI-NL-RBMNE-2024-6535.md",
+    "sha256": "ee585955a1bd46a6772f20ae20c1fc7f3b3106fb2370c464324e5508ca57b73b",
+    "bytes": 2477
+  },
+  {
+    "path": "case-cards/ECLI-NL-RBMNE-2026-4469.md",
+    "sha256": "a092baaad7423f6861161d272943c0e3023ff742ba1634b6b624f1d2ae886ebc",
+    "bytes": 3427
+  },
+  {
+    "path": "case-cards/ECLI-NL-RBZWB-2024-4150.md",
+    "sha256": "1aac64745b23ca73bca71aea39dc74d1b55aa08ba4fbc9ad32b85247f5479ef6",
+    "bytes": 3193
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2008-BC2506.md",
+    "sha256": "0d978cee9b6f6cfa0c79a61e9b513473a27bab0908a355975b15e5ccad66ef64",
+    "bytes": 2292
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2012-BY2522.md",
+    "sha256": "669bec9a9ebee9b62d0f872468d300c70e924a5f7dd8a92e4be284e682cf603a",
+    "bytes": 2780
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2013-1026.md",
+    "sha256": "25e24ba7a984a71c16ec5da60d44e4b11420df13d91fd1730b8654e656f72cf0",
+    "bytes": 3656
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2014-3379.md",
+    "sha256": "c22600c070459c4a3943498f2ab27982e97a44cccd0acf4b50acda8c83c0f96f",
+    "bytes": 3258
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2014-4682.md",
+    "sha256": "c7ab6e3533252b97e4ba686cb586235c452b77fd781623c06e666ade550872e4",
+    "bytes": 2010
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2016-1177.md",
+    "sha256": "3b4650b0858fe8cc847b1e4b16e2018f4e8134553cb29a805e3107d2e709dbe6",
+    "bytes": 2170
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2016-3131.md",
+    "sha256": "579b6a7661ecb383593116e4ba07c5b8938c10e5e57f5485b604be6cc1739ce6",
+    "bytes": 2026
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2017-2719.md",
+    "sha256": "babc73ca65113b2aa0066bfdada55e6fddb7f11ca41f1da979142c640f05c0f8",
+    "bytes": 2588
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2018-105.md",
+    "sha256": "c92b4182eac32a28fa0078e19e1a3d4fd91b872905722afd0968b208ee29c5b6",
+    "bytes": 2940
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2018-2115.md",
+    "sha256": "e2885ad07688748f69f7f4e006e5c97290957cf66f93393594a28ccdab7f40bf",
+    "bytes": 2996
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2018-2310.md",
+    "sha256": "2ce699d5c10455590f781cb4b15fb4def763e501ac77b1ef8954a1fd3743f3fb",
+    "bytes": 2322
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2019-1476.md",
+    "sha256": "c5bfb3a3d65e0b3571e7e11e57d68c703e6c0ca9315342906f83cc3905faac2e",
+    "bytes": 2470
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2020-1367.md",
+    "sha256": "a63915980b1b7e3711b0c434228bf01c7d63f01724fc58afceea92a86a213651",
+    "bytes": 3706
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2020-1682.md",
+    "sha256": "93cb8a5f90f8f3cd75be975cd4605ca309bc0897dafae7e2d43ca3304a6d17f9",
+    "bytes": 3097
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2020-2571.md",
+    "sha256": "9f1a6095c9feef7b3ddeb3354612761f68e837b2f6bd7a2738fec98e65b21568",
+    "bytes": 3655
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2021-1232.md",
+    "sha256": "152c8e28b543656af354cc1108c717cd62610e15bdbddba931f1fa88a689cb14",
+    "bytes": 2902
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2021-670.md",
+    "sha256": "d0ba0626008bbd55454815c81df475219d387cb0e4bf46825c5b840a3cd60152",
+    "bytes": 2142
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2021-786.md",
+    "sha256": "0ce08261d4ac4cec1752333ca1d906ba26be06b2ec5e72d918b092a142c854c0",
+    "bytes": 3673
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2021-870.md",
+    "sha256": "6adf88556d7f695536688bc098878058a3ce9446f07a9e1f94d93254703a7187",
+    "bytes": 3257
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2021-953.md",
+    "sha256": "7787397f6a51ae482660f802ef4998f2682fa3c5ad33bfe5ce4e072951f05e15",
+    "bytes": 6985
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2022-1918.md",
+    "sha256": "6ac95ca03c5d0546d25c497d2385868659aa748cb1955027f4de75a3c8238e7c",
+    "bytes": 3408
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2022-1973.md",
+    "sha256": "4b9c21f789243f840aca38659fadf49c606a9eae5ece10b0228d0647b811feb9",
+    "bytes": 3403
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2022-2221.md",
+    "sha256": "de729b67e53904e8810317f7308b8db4452d2f59ddfcba8d80ada9ac68646deb",
+    "bytes": 2965
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2022-285.md",
+    "sha256": "778977dba3be3ac339da6c9f3714624d139b7f454b5bc2c898e39c0a7269a445",
+    "bytes": 2680
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2022-3143.md",
+    "sha256": "b59b5ef16ffbcba2a5b4cb8410c64a81a9c5da3f52b0ae286e994d7c7f9f8a8b",
+    "bytes": 2300
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2023-2067.md",
+    "sha256": "a1c6c25a057a5325c0297db272787f402706d6a91c686361c29b2ef821d0bf5d",
+    "bytes": 3029
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2023-2071.md",
+    "sha256": "630a59a24f362b6cd4299425efb0ab6c3660ce7ab6c3796140ac2fdbe0f433d4",
+    "bytes": 2902
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2023-2969.md",
+    "sha256": "5c4a7f6c3ce6e19832b8ed1848600e3cc53bf788db724e26441e50ab0ae25b14",
+    "bytes": 3214
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2023-4471.md",
+    "sha256": "ba5323c18a788e0027b17189b774472304f752cc6740feb76f7d55f9e73454bc",
+    "bytes": 3230
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2023-606-uitspraak.md",
+    "sha256": "b3560a980969eb42a961403f20a3d6279e86af06a4d435a6f2662218021e5717",
+    "bytes": 2166
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2023-606.md",
+    "sha256": "2369d5cda6660cc4356e7eeed75c2f270a6775affe4f53f218a90c4833d0e8eb",
+    "bytes": 3380
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2024-361.md",
+    "sha256": "d6635585ac516d4394d9fcbf568ac557d16a91e8e0a20c61b09afb89f588b561",
+    "bytes": 3139
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2024-4599.md",
+    "sha256": "cbf6171b73f51582873d2b428807c3691b0fa055cfb4f8fce3bf4775f3f99e54",
+    "bytes": 3605
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2024-676.md",
+    "sha256": "9d824b6a94aba330b1430c405d8be5528ba2a7e03f37258665734b50a4bcad5b",
+    "bytes": 2763
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2025-2001.md",
+    "sha256": "a6fbaa9d3c084f24364801faa667cbde89dece7ec8f00a07798a2e19d32a9b4a",
+    "bytes": 3008
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2025-2337.md",
+    "sha256": "c64b798ff6af81c75cde4542a9b0f5c3cb5885677b91cfc145df5ce50e154940",
+    "bytes": 3075
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2025-2455.md",
+    "sha256": "538d6b74dee7bee8236f4960ff0b113a858eb7b00a7f662f6d004868c78f834f",
+    "bytes": 1686
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2025-3399.md",
+    "sha256": "cfc7d3aadfb30d1cdea953b688705e36a4edf321cb959f98e825716f349b58d2",
+    "bytes": 2911
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2025-4125.md",
+    "sha256": "4612fca4e67dc350d41401cd52fe7b9a4fdf157cd3a589b1ebfde3c82bee116a",
+    "bytes": 2163
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2025-422.md",
+    "sha256": "12a3b66c8fe52858a7d4b836e7b2e51020054b6612d235924b9389c7d1b3caac",
+    "bytes": 3084
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2025-545.md",
+    "sha256": "dd26393973daad8ff44e3c239d381a0e68b8bfb93127b1194852fb0b2065d7a3",
+    "bytes": 3793
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2025-6300.md",
+    "sha256": "159846b705881fe4e8c4c2f21dd328844e8d44c494654e2a38deb16e68de7e09",
+    "bytes": 2207
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2025-6333.md",
+    "sha256": "0134d1d9ab0b0c0fba74680343abb8825e696c0c41f28d0724206889ada2e4b2",
+    "bytes": 2834
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2026-1352.md",
+    "sha256": "0187216603e70ed3fcd47fba771d010f2ba03b3899bd04147c55eefa4dbb24c3",
+    "bytes": 1976
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2026-1545.md",
+    "sha256": "c5c235a40e4af0b4126588a96e9b38db04c350809eb1222148e550adf1d75b95",
+    "bytes": 1185
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2026-211.md",
+    "sha256": "6f3e8b59cbe2e1cb3aa239f6eef95ea0bdb27da52cb3060866daf0a8f49e6ea4",
+    "bytes": 3092
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2026-3129.md",
+    "sha256": "61f09bb23cc92107420278b1a6c86f7db5ae46b138e9855d4fe0158354b7957d",
+    "bytes": 3384
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2026-3492.md",
+    "sha256": "80a4e812540fb5777d02fd1b5fd5976c39f1e9a59b30ae601e76540965fb2498",
+    "bytes": 1945
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2026-3653.md",
+    "sha256": "2c36388f537eddaed5e02d42ae3ae3cbfaecc84e8db8ff85c3c09a76e559ccf8",
+    "bytes": 2281
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2026-4448.md",
+    "sha256": "6686491399aa33df9164b0aac3a529ed9d0720d36231958fcf9c71b71f0c21d7",
+    "bytes": 2799
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2026-4455.md",
+    "sha256": "d579ef175c25cda4e84d6e19e00e4afee3644685f527721c1240c7fe74b6d59f",
+    "bytes": 3059
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2026-4746.md",
+    "sha256": "a7b58ba1849bce0edb6d0c491632c5bdab8bdbdf6ba69bf96f1ffe1603eaab1e",
+    "bytes": 2646
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2026-4866.md",
+    "sha256": "71b4275ddc0c033671b664756b3853351ddfc9a04bf498eee89d7dd0297843da",
+    "bytes": 2122
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2026-4905.md",
+    "sha256": "70e8e63168a878b4384bde9febe4bf6cbcc2482c470d6ec5f509d64520318547",
+    "bytes": 2585
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2026-4964.md",
+    "sha256": "e4cc53628760158f01089e64d4357a27f6ecea661ca8e1f25fbbcfc2feaf40d0",
+    "bytes": 1971
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2026-5621.md",
+    "sha256": "8439dfb191f144e85637e59531d5c6935b68eb8ba3bfb346f091400f42780bcc",
+    "bytes": 3277
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2026-5912.md",
+    "sha256": "83b142ae7f779e8376805bba7bae12c2e9503c25977c4300f9771bc846013f42",
+    "bytes": 2578
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2026-911.md",
+    "sha256": "0b67b04f42b48b3cdc204308f026e64d8cd62a3f25458f6fb55d1cf552f2a16c",
+    "bytes": 3469
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2026-925.md",
+    "sha256": "1f7010e0382371dd804ce0339c832b5df3b52c08d7a35f39a2eb0a0f9e8ae0f7",
+    "bytes": 1937
+  },
+  {
+    "path": "case-cards/ECLI-NL-RVS-2026-929.md",
+    "sha256": "5a63d6a324b4de5d6331c6e0a03d911562d3e580ef5411c41d9fe28ecde43a4f",
+    "bytes": 3802
+  },
+  {
+    "path": "case-cards/author-8-86-113.md",
+    "sha256": "5a8b01f5b4318a52d50b22a6e011e5ff06ff04a19fdb505f57838f90def7df5b",
+    "bytes": 4052
+  },
+  {
+    "path": "cases/ECLI-NL-RVS-2025-5425.md",
+    "sha256": "e4aea199e4c7084a963303ac9066c26610ebdb9e17425da3c756a2740105d865",
+    "bytes": 2516
   }
 ]
