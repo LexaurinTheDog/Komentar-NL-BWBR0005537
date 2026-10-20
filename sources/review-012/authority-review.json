@@ -1,0 +1,121 @@
+[
+  {
+    "ecli": "ECLI:NL:RVS:2023:2067",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State",
+    "date": "2023-05-31",
+    "docket": "202100578/2/A3",
+    "paragraphs": [
+      "7.3–7.6",
+      "8.1–8.5"
+    ],
+    "supported_ids": [
+      "art-5:1"
+    ],
+    "full_text_read": true,
+    "official_xml": "sources/review-012/ECLI-NL-RVS-2023-2067.xml",
+    "full_text_path": "sources/review-012/ECLI-NL-RVS-2023-2067.txt",
+    "sha256": "c4c848e9553455e69435ed5dad95dcf7ee6ec30f042a79a64907633a89a22a49",
+    "unchanged_from_author_source": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2023-2067.md",
+    "local_found": true,
+    "local_sha256": "67fafa7b76b01335b653ef07e27a2bb4c311b2323ec9d5655f16f37d5ac53995",
+    "local_body_contained_in_official": true,
+    "full_body_whitespace_equal": true
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2023:2071",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State",
+    "date": "2023-05-31",
+    "docket": "202106120/2/A3",
+    "paragraphs": [
+      "9.1–9.5",
+      "10–11"
+    ],
+    "supported_ids": [
+      "art-5:1"
+    ],
+    "full_text_read": true,
+    "official_xml": "sources/review-012/ECLI-NL-RVS-2023-2071.xml",
+    "full_text_path": "sources/review-012/ECLI-NL-RVS-2023-2071.txt",
+    "sha256": "d6bdc7a40d56dff2af73c6ecab6cef58b524b2c79a6301af442c0ed545b0445a",
+    "unchanged_from_author_source": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2023-2071.md",
+    "local_found": true,
+    "local_sha256": "ee74b87e828d4e4f813fbd253a16c8cb590cc46f836d7a3b633ab2cad6a7bc43",
+    "local_body_contained_in_official": true,
+    "full_body_whitespace_equal": true
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2018:2115",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State, grote kamer",
+    "date": "2018-06-27",
+    "docket": "201601765/1/A2",
+    "paragraphs": [
+      "7.2–7.4",
+      "8.3–8.6",
+      "10"
+    ],
+    "supported_ids": [
+      "art-5:10a"
+    ],
+    "full_text_read": true,
+    "official_xml": "sources/review-012/ECLI-NL-RVS-2018-2115.xml",
+    "full_text_path": "sources/review-012/ECLI-NL-RVS-2018-2115.txt",
+    "sha256": "dcee18c037a0e102ab90296e15b6e59b005b42ed6f4c90fce4562aaaef4e7584",
+    "unchanged_from_author_source": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2018-2115.md",
+    "local_found": true,
+    "local_sha256": "bfad29484ca62036d1ad618f1811363921dfade19332c38a59494fe6d459786a",
+    "local_body_contained_in_official": true,
+    "full_body_whitespace_equal": true
+  },
+  {
+    "ecli": "ECLI:NL:CBB:2025:603",
+    "court": "College van Beroep voor het bedrijfsleven",
+    "date": "2025-11-18",
+    "docket": "24/429",
+    "paragraphs": [
+      "6.1–6.3",
+      "7.1–7.2"
+    ],
+    "supported_ids": [
+      "art-5:8",
+      "art-5:13",
+      "art-5:17"
+    ],
+    "full_text_read": true,
+    "official_xml": "sources/review-012/ECLI-NL-CBB-2025-603.xml",
+    "full_text_path": "sources/review-012/ECLI-NL-CBB-2025-603.txt",
+    "sha256": "e3bbc0e4446eb108679a9030c60148da82913be6710accb9105f2ef16f31f683",
+    "unchanged_from_author_source": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/cbb/ecli-nl-cbb-2025-603.md",
+    "local_found": true,
+    "local_sha256": "758d2ab0ca22237d3ce73b0f29751565ef6a7be15d7070b140611deb5b8137c4",
+    "local_body_contained_in_official": true,
+    "full_body_whitespace_equal": false
+  },
+  {
+    "ecli": "ECLI:NL:RBMNE:2026:4469",
+    "court": "Rechtbank Midden-Nederland",
+    "date": "2026-05-28",
+    "docket": "UTR 25/4666",
+    "paragraphs": [
+      "9–13 (sociale veiligheid)",
+      "repeated 13, paragraph beginning De rechtbank volgt eiseres hierin niet (governance)",
+      "repeated 18, paragraphs beginning Gelet op artikel 5:13 and Naar het oordeel van de rechtbank"
+    ],
+    "supported_ids": [
+      "art-5:11",
+      "art-5:13",
+      "art-5:16",
+      "art-5:17"
+    ],
+    "full_text_read": true,
+    "official_xml": "sources/review-012/ECLI-NL-RBMNE-2026-4469.xml",
+    "full_text_path": "sources/review-012/ECLI-NL-RBMNE-2026-4469.txt",
+    "sha256": "b15d5e44adfdfad2179cb930dd2bbde99e4769cc927646c57372bf969b882b2e",
+    "unchanged_from_author_source": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rbmne/ecli-nl-rbmne-2026-4469.md",
+    "local_found": false
+  }
+]

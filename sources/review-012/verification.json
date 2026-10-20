@@ -1,0 +1,140 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T16:18:17.582085+00:00",
+    "path": "sources/review-012/current.html",
+    "bytes": 4204181,
+    "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T16:18:13.904076+00:00",
+    "path": "sources/review-012/history.html",
+    "bytes": 1748379,
+    "sha256": "5a4ade167e4570e3969b63ee92dc9579e61cf780b444d35b83a6f0c31b420ddd",
+    "accepted_format": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T16:18:11.561384+00:00",
+    "path": "sources/review-012/selected.xml",
+    "bytes": 2622149,
+    "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "xml_root": "toestand",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2023:2067",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2023:2067",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T16:18:10.303942+00:00",
+    "path": "sources/review-012/ECLI-NL-RVS-2023-2067.xml",
+    "bytes": 27619,
+    "sha256": "c4c848e9553455e69435ed5dad95dcf7ee6ec30f042a79a64907633a89a22a49",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2023:2071",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2023:2071",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T16:18:10.483035+00:00",
+    "path": "sources/review-012/ECLI-NL-RVS-2023-2071.xml",
+    "bytes": 25945,
+    "sha256": "d6bdc7a40d56dff2af73c6ecab6cef58b524b2c79a6301af442c0ed545b0445a",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2018:2115",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2018:2115",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T16:18:10.655584+00:00",
+    "path": "sources/review-012/ECLI-NL-RVS-2018-2115.xml",
+    "bytes": 32090,
+    "sha256": "dcee18c037a0e102ab90296e15b6e59b005b42ed6f4c90fce4562aaaef4e7584",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBMNE:2026:4469",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBMNE:2026:4469",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T16:18:11.226805+00:00",
+    "path": "sources/review-012/ECLI-NL-RBMNE-2026-4469.xml",
+    "bytes": 35464,
+    "sha256": "b15d5e44adfdfad2179cb930dd2bbde99e4769cc927646c57372bf969b882b2e",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CBB:2025:603",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CBB:2025:603",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T16:18:11.417414+00:00",
+    "path": "sources/review-012/ECLI-NL-CBB-2025-603.xml",
+    "bytes": 30480,
+    "sha256": "e3bbc0e4446eb108679a9030c60148da82913be6710accb9105f2ef16f31f683",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0001854",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T16:18:15.385733+00:00",
+    "path": "sources/review-012/sr-current.html",
+    "bytes": 4600683,
+    "sha256": "5cb3c8508d7bc979ca43cc68b9f1fa863f031e7f04a848192e0f3697222e3be2",
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01/0/informatie",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01/0/informatie",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T16:18:12.709088+00:00",
+    "path": "sources/review-012/sr-history.html",
+    "bytes": 1609714,
+    "sha256": "9f432ef166c045c93bca83e93c69f4d18f546aa7f2c40b444dd6504c0129727e",
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0006297",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0006297/2026-10-01",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T16:18:13.241273+00:00",
+    "path": "sources/review-012/wid-current.html",
+    "bytes": 222510,
+    "sha256": "2b2ec157f51dc9b9fd3fdecab3a2eef4469027958ed66a66f601c3e8e9e80b4a",
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0006297/2026-10-01/0/informatie",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0006297/2026-10-01/0/informatie",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T16:18:13.484517+00:00",
+    "path": "sources/review-012/wid-history.html",
+    "bytes": 67508,
+    "sha256": "117bb6f23e8c11ed967b693c275872158f699cd8a0b670e1cd567f723e2340c1",
+    "accepted_format": true
+  }
+]

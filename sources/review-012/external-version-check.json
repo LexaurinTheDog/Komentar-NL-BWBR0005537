@@ -1,0 +1,16 @@
+[
+  {
+    "regulation": "sr",
+    "version": "2026-07-01",
+    "effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 01-07-2026 t/m heden.",
+    "current_evidence": "sources/review-012/sr-current.html",
+    "history_evidence": "sources/review-012/sr-history.html"
+  },
+  {
+    "regulation": "wid",
+    "version": "2026-10-01",
+    "effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 01-10-2026 t/m heden.",
+    "current_evidence": "sources/review-012/wid-current.html",
+    "history_evidence": "sources/review-012/wid-history.html"
+  }
+]

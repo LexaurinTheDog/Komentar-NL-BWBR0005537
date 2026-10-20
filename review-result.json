@@ -1,250 +1,237 @@
 {
   "complete": true,
   "kind": "bounded_independent_review",
-  "reviewed_at": "2026-10-20T16:03:01.111724+00:00",
+  "reviewed_at": "2026-10-20T16:21:55.883112+00:00",
   "decisive_date": "2026-10-19",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "art-4:111",
-    "art-4:112",
-    "art-4:113",
-    "art-4:114",
-    "art-4:115",
-    "art-4:116",
-    "art-4:117",
-    "art-4:118",
-    "art-4:119",
-    "art-4:120",
-    "art-4:121",
-    "art-4:122",
-    "art-4:123",
-    "art-4:124",
-    "art-4:125",
-    "art-4:126",
-    "art-4:127",
-    "art-4:128",
-    "art-4:129",
-    "art-4:130"
+    "art-4:131",
+    "art-5:1",
+    "art-5:2",
+    "art-5:3",
+    "art-5:4",
+    "art-5:5",
+    "art-5:6",
+    "art-5:7",
+    "art-5:8",
+    "art-5:9",
+    "art-5:10",
+    "art-5:10a",
+    "art-5:11",
+    "art-5:12",
+    "art-5:13",
+    "art-5:14",
+    "art-5:15",
+    "art-5:16",
+    "art-5:16a",
+    "art-5:17"
   ],
   "corrected_ids": [
-    "art-4:111",
-    "art-4:117",
-    "art-4:118",
-    "art-4:124",
-    "art-4:130"
+    "art-5:6",
+    "art-5:10a",
+    "art-5:15",
+    "art-5:17"
   ],
   "retained_ids": [
-    "art-4:112",
-    "art-4:113",
-    "art-4:114",
-    "art-4:115",
-    "art-4:116",
-    "art-4:119",
-    "art-4:120",
-    "art-4:121",
-    "art-4:122",
-    "art-4:123",
-    "art-4:125",
-    "art-4:126",
-    "art-4:127",
-    "art-4:128",
-    "art-4:129"
+    "art-4:131",
+    "art-5:1",
+    "art-5:2",
+    "art-5:3",
+    "art-5:4",
+    "art-5:5",
+    "art-5:7",
+    "art-5:8",
+    "art-5:9",
+    "art-5:10",
+    "art-5:11",
+    "art-5:12",
+    "art-5:13",
+    "art-5:14",
+    "art-5:16",
+    "art-5:16a"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "art-4:111",
+      "id": "art-4:131",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Beide leden volledig gelezen. Afwijzingsbevoegdheid geen automatisch verval; cumulatieve bekendheid, dag na bekendheid, vijf jaar en objectieve twintig jaar gescheiden. Onherroepelijkheid verschuift uitsluitend de korte aanvang; 4:130 lid 3 juist. Wns IV–VI uit officiële evidence van de vorige batch meegelezen zonder de eerdere review opnieuw te doen. Geen ongefundeerde stuitingsmogelijkheid. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:1",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Drie leden gelezen, Sr 51 leden 2/3 opnieuw officieel gecontroleerd. Normschending, normadressaat, plegen/medeplegen, functioneel daderschap en boeteverwijtbaarheid onderscheiden. Beide volledige uitspraken uit 2023 dragen afzonderlijk natuurlijke persoon/beschikkingsmacht/aanvaarding en rechtspersoon/sfeer. Partijstellingen en AG niet als rechterlijke conclusie weergegeven. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:2",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Lid 1 a–c en lid 2 volledig gelezen. Nadelige toelatingsbeslissing niet automatisch sanctie; alle vier herstelfuncties, punitief aspect en enkele last juist. Zelfstandige last niet automatisch zonder rechtsbescherming; samengestelde bestuursdwang 5:21 juist onderscheiden. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:3",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Onderdelen a/b en exacte verwijzingsgrens 5:4–5:10 gelezen. Geen automatische uitbreiding naar alle bijzondere sancties of uitsluiting van 5:10a. Wettelijke aanwijzing en hogere zelfstandige waarborgen gescheiden. Beleidsregel vervangt wettelijke aanwijzing niet. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:4",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Beide leden gelezen, 5:46 lid 4 en actuele Sr 1 lid 2 gecontroleerd. Bevoegdheid juiste orgaan, vooraf omschreven overtreding/sanctie en temporele vergelijking gescheiden. Geen boetebevoegdheid uit enkel toezicht of beleid afgeleid. Gunstiger recht boete correct begrensd. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:5",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Volledige norm gelezen. Rechtvaardigingsgrond versus schuld/verwijtbaarheid 5:41, temporele en materiële omvang van voor zover en noodsituatie duidelijk. Nuttig gevolg of kostenbesparing geen automatische rechtvaardiging; later voortgezette toestand afzonderlijk. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:6",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "corrected",
-      "finding": "Beide leden met onderdelen a–d volledig vergeleken. Verlenging tegenover stuiting en bijzonder aanvangsmoment civiele vordering juist. Opening gecorrigeerd: genoemde rechtspositie is bepalend, geen extra bewijs van dagelijks feitelijk onvermogen tot verhaal vereist. Volledig gelezen fiscale hofzaak uitsluitend voor uitleg einddatum uitstel gebruikt.",
+      "finding": "Hele norm gelezen. Gecorrigeerd: het verbod grijpt aan bij het opleggen van de nieuwe herstelsanctie zolang de eerdere wegens dezelfde overtreding van kracht is; een latere ingangsdatum of uitvoering volstaat niet. Opvolgende maatregelen, invordering al verbeurde dwangsommen en combinatie met boete blijven onderscheiden.",
       "resolved": true
     },
     {
-      "id": "art-4:112",
+      "id": "art-5:7",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "retained",
-      "finding": "Drie leden gelezen. Verzuim, schriftelijkheid, twee weken vanaf dag na toezending, afwijkend wettelijk voorschrift en kostenwaarschuwing onderscheiden. Uitstelblokkade en stuiting via 4:106 correct. Geen bevoegdheid uit kostenwaarschuwing afgeleid. Behouden.",
+      "finding": "Hele norm gelezen. Klaarblijkelijke dreiging vereist concrete feiten en bestaande herstelbevoegdheid; geen preventieve boete of zelfstandige grondslag. Eerste dreiging tegenover herhaling 5:2 onderscheiden; fictieve activiteit en vergunningstatus illustreren de actuele feitelijke toets. Behouden.",
       "resolved": true
     },
     {
-      "id": "art-4:113",
+      "id": "art-5:8",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "retained",
-      "finding": "Beide leden en bronnoten gelezen. Originele indexeringsregelingen uit 2014 en 2024 opnieuw opgehaald; schuldgrens 500 euro, tarieven 9/20 euro en artikel IV lid 1 met ontstaansdatum betalingsverplichting bevestigd. Hoofdtekst 454 euro niet stilzwijgend gewijzigd; fictieve schuld 480 euro krijgt terecht laag tarief. Behouden.",
+      "finding": "Volledige norm en complete CBb-uitspraak gelezen. Zelfstandige voorschriften/handelingen, evenredigheid totale last en 5:6/5:43 niet verward. R.o. 7.2 bevestigt verschillende nalevingsmomenten; eerdere groepering van feitcodes correct vermeld. Geen automatische stapeling. Behouden.",
       "resolved": true
     },
     {
-      "id": "art-4:114",
+      "id": "art-5:9",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "retained",
-      "finding": "Alle definitie-elementen gelezen: schriftelijk bevel, bestuursorgaan, geldsom binnen 4:85 en afdwingingsstrekking. Definitie, betalingsbeschikking, wettelijke bevoegdheid en executoriale titel gescheiden. Privaatrechtelijke huur niet zonder meer onder titel 4.4 gebracht. Behouden.",
+      "finding": "Aanhef en onderdelen a/b gelezen. Overtreding en voorschrift beide nodig; plaats/tijd constatering tegenover gedragsmoment onderscheiden. Zo nodig laat passende precisie toe. Aanvullende eisen 5:24, 5:32a en 5:52 gecontroleerd; geen automatische nietigheid bij elk schrijfgebrek. Behouden.",
       "resolved": true
     },
     {
-      "id": "art-4:115",
+      "id": "art-5:10",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "retained",
-      "finding": "Volledige norm en 5:10 lid 2 gelezen. Toekenning bij wet, concrete vordering en bevoegd orgaan vereist; gemeentelijke verordening, protocol of correcte aanmaning schept geen zelfstandige bevoegdheid. Bundeling herstelt bevoegdheidsgebrek niet. Behouden.",
+      "finding": "Beide leden gelezen. Rechthebbend orgaan en wettelijke uitzondering; dwangbevelgrondslag versus bestaande invorderbare schuld, betaling/uitstel en sanctiespecifieke verjaring juist. 4:115 en invorderingsbeschikking vóór aanmaning 5:37 gecontroleerd. Maximum geen opeisbaar totaal. Behouden.",
       "resolved": true
     },
     {
-      "id": "art-4:116",
-      "source_checked": true,
-      "all_paragraphs_checked": true,
-      "disposition": "retained",
-      "finding": "Volledige norm en huidige Rv 430/438 gelezen. Executoriale titel zonder voorafgaand betalingsvonnis en behoud executieregels juist. Betekening, burgerlijke executierechter, betaling/uitstel/verjaring en beroepsuitsluiting 8:4 niet verward. Behouden.",
-      "resolved": true
-    },
-    {
-      "id": "art-4:117",
+      "id": "art-5:10a",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "corrected",
-      "finding": "Beide leden gelezen. Verstrijken volledige geldige aanmaningstermijn en slechts resterend saldo correct. Bij wet toegekende afwijking kan uitvaardiging en executie raken. Voorbeeld gecorrigeerd van enkel opstellen naar daadwerkelijk uitvaardigen: vooraf een concept maken is niet de verboden handeling.",
+      "finding": "Beide leden en hele uitspraak 2018:2115 gelezen. Objectieve verhoortoets, voorafgaande cautie en punitief gebruik onder dwang verkregen verklaring juist. Werknemers spraken niet namens houder. Toegevoegd dat uiteindelijke herroeping wegens niet-aangetoonde beleidswaarschuwing plaatsvond; geen cautiesucces gesuggereerd. Documenten geen categorische vrijstelling.",
       "resolved": true
     },
     {
-      "id": "art-4:118",
+      "id": "art-5:11",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Hele norm en volledige RBMNE-uitspraak gelezen. Wettelijk aangewezen persoon/taak versus sanctiecompetentie en mandaat correct. Per rapport sociale veiligheid/governance afzonderlijk beoordeeld; eerste aanleg en historische sectorcontext zichtbaar. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:12",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Drie leden volledig gelezen. Draagplicht, uitgevend verantwoordelijk orgaan, onmiddellijke vertoning op verzoek, foto/naam/hoedanigheid en modeldelegatie juist. Geen ongeverifieerd model of automatische bewijsuitsluiting gesteld. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:13",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Hele norm en beide volledige casusuitspraken gelezen. Taakgerichte noodzakelijkheid, afgebakende gegevens/periode en alternatieven; routinecontrole geen vereiste vooraf bewezen overtreding. CBb concrete documentencontrole en RBMNE noodzakelijke onderliggende governancegegevens juist begrensd. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:14",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Hele norm gelezen. Beperking door wettelijk voorschrift of aanwijzend orgaan tegenover uitbreiding en louter werkafspraak onderscheiden. Gecontroleerde kan bevoegdheid niet eenzijdig verkleinen; voorbeeld uitsluiting tijdelijk meenemen sluit aan op 5:17 lid 3. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:15",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "corrected",
-      "finding": "Volledige norm en 4:8 gelezen. Uitsluiting uitsluitend voor genoemde twee handelingen; oorspronkelijke beschikking, bekende betaling en horen in bezwaar afzonderlijk. Formulering aangescherpt tot buiten toepassing laten, zodat geen algemene opheffing van 4:8 wordt gesuggereerd.",
+      "finding": "Alle drie leden gelezen. Apparatuur, woning/bewonerstoestemming en sterke arm correct; betreden geen algemene doorzoekingsbevoegdheid. Toegevoegd dat toezichthouder zelf de begeleidende personen aanwijst. Begeleider krijgt daardoor geen zelfstandig toezichthouderschap of eigen informatiebevoegdheid.",
       "resolved": true
     },
     {
-      "id": "art-4:119",
+      "id": "art-5:16",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "retained",
-      "finding": "Beide leden gelezen. Alle drie bijkomende posten met eigen grondslag onderscheiden; bundeling verschillende verplichtingen dezelfde schuldenaar aan hetzelfde orgaan niet als schuldvernieuwing behandeld. Saldi, uitstel en specificatie 4:122 juist. Behouden.",
+      "finding": "Hele norm en 5:20/5:10a gelezen. Vorderen versus vrijblijvend vragen, derden, redelijke taakgrens en geheimhoudingsomvang correct. Punitief verklaren niet via medewerkingsplicht afgedwongen. Mediazaak bevestigt daadwerkelijk toezichtsdomein. Behouden.",
       "resolved": true
     },
     {
-      "id": "art-4:120",
+      "id": "art-5:16a",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "retained",
-      "finding": "Alle drie leden en Rv 434a gelezen. Kostenlast, afzonderlijke gerechtelijke/buitengerechtelijke tariefgrondslagen en voortbestaan kosten ondanks latere betaling juist. Geen verzonnen actuele tarieven of aanspraak op onuitgevoerde ambtshandelingen. Behouden.",
+      "finding": "Hele norm en actuele WID 1 opnieuw officieel gecontroleerd, inclusief versiehistorie. Toepasselijke toestand 1 oktober 2026 geldt op beide peildata; ongedateerde wijzigingen uitgesloten. Inzage versus inname/kopiëren en taaknoodzaak correct; geen documentcategorie uit geheugen ingevuld. Behouden.",
       "resolved": true
     },
     {
-      "id": "art-4:121",
-      "source_checked": true,
-      "all_paragraphs_checked": true,
-      "disposition": "retained",
-      "finding": "Alle cumulatieve voorwaarden gelezen: gedeeltelijk bevel, beslaglegging, dezelfde verplichting, reeds vervallen termijnen en bepaalbaar invorderbaar bedrag op beslagdatum. Geen toekomstige opeisbaarheid of extra zelfstandige schuld. Onderscheid 4:119 correct. Behouden.",
-      "resolved": true
-    },
-    {
-      "id": "art-4:122",
-      "source_checked": true,
-      "all_paragraphs_checked": true,
-      "disposition": "retained",
-      "finding": "Lid 1 a–e en lid 2 a–b volledig gelezen. Woord aan hoofd, actuele hoofdsom, dragende beschikking/voorschrift, kosten, kostenwaarschuwing en voorwaardelijke aanmaningsvergoeding/renteaanvang behandeld. Geen ongefundeerde automatische nietigheid bij elk gebrek. Behouden.",
-      "resolved": true
-    },
-    {
-      "id": "art-4:123",
-      "source_checked": true,
-      "all_paragraphs_checked": true,
-      "disposition": "retained",
-      "finding": "Beide leden en Rv 438/438a gelezen. Betekening exploot, uitsluiting 3:41–45 en verplichte aanwijzing bevoegde rechtbank juist. Bestuursrechtelijke hoofdschuldprocedure gescheiden van civiele executie; enkele betwistingsbrief niet gelijk aan schorsing. Behouden.",
-      "resolved": true
-    },
-    {
-      "id": "art-4:124",
+      "id": "art-5:17",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "corrected",
-      "finding": "Hele norm en 3:1 lid 2, 4:104–110 gelezen. Parallelle civiele bevoegdheden en geen dubbele inning juist. Te ruime verkorting rond 4:109 vervangen door exacte rolverdeling: 4:107/108 voor schuldeiser van bestuursorgaan, uitdrukkelijke uitsluiting als ook die schuldeiser bestuursorgaan is, afzonderlijke 4:105/106 blijven bestaan.",
-      "resolved": true
-    },
-    {
-      "id": "art-4:125",
-      "source_checked": true,
-      "all_paragraphs_checked": true,
-      "disposition": "retained",
-      "finding": "Alle vijf leden en Haagse uitspraak volledig gelezen. Zelfde orgaan, betwisting, dezelfde schuld bij latere bijkomende besluiten, verwijzing, zo mogelijk afschrift en voorlopige voorziening correct. R.o. 13 eigen rechterlijk oordeel onderscheiden van draagkrachtstellingen en motiveringsgebrek hoofdboete. Behouden.",
-      "resolved": true
-    },
-    {
-      "id": "art-4:126",
-      "source_checked": true,
-      "all_paragraphs_checked": true,
-      "disposition": "retained",
-      "finding": "Vier leden en alle uitsluitingen a–d gelezen. Rechtmatig publiekrechtelijk handelen, causaliteit en cumulatieve abnormale/speciale last juist; aanvaarding, beperking, toerekening, elders verzekerd, voordeel uit dezelfde gebeurtenis en andere vorm vergoeding behandeld. Wns IV–VI en inwerkingtreding opnieuw geverifieerd. RBMNE uitsluitend oudrechtelijk overgangsoordeel. Behouden.",
-      "resolved": true
-    },
-    {
-      "id": "art-4:127",
-      "source_checked": true,
-      "all_paragraphs_checked": true,
-      "disposition": "retained",
-      "finding": "Onderdelen a/b volledig gelezen. Gebeurtenis, aard van geleden/toekomstige schade en redelijkerwijs mogelijke begroting onderscheiden. Onvolledige aanvraag tegenover materieel onbewezen schade en herstelkader 4:5 correct. Omzet niet als nettoverlies gepresenteerd. Behouden.",
-      "resolved": true
-    },
-    {
-      "id": "art-4:128",
-      "source_checked": true,
-      "all_paragraphs_checked": true,
-      "disposition": "retained",
-      "finding": "Beide leden gelezen. Maximum 500 euro is geen rechtstreeks geheven universeel tarief; wettelijk voorschrift en centrale delegatie bij/krachtens AMvB onderscheiden. Vergoeding betaald recht via 4:129 c correct; geen verzonnen sanctie voor betalingsgebrek. Behouden.",
-      "resolved": true
-    },
-    {
-      "id": "art-4:129",
-      "source_checked": true,
-      "all_paragraphs_checked": true,
-      "disposition": "retained",
-      "finding": "Aanhef en onderdelen a–d volledig gelezen. Toekenning hoofdcompensatie, redelijke beperking/bijstand, beroepsmatige derde, betaald recht en latere schadeaanvang rente juist. Volledige CBb-uitspraak gelezen: analogie r.o. 25–28 en onverplichte vergoeding/rente r.o. 29–30 juist begrensd; geen algemene schadedrempel overgenomen. Behouden.",
-      "resolved": true
-    },
-    {
-      "id": "art-4:130",
-      "source_checked": true,
-      "all_paragraphs_checked": true,
-      "disposition": "corrected",
-      "finding": "Drie leden gelezen. Acht weken/zes maanden, onafhankelijkheid voorzitter of enig lid, bijzondere termijnen en eenmalige schriftelijke verdaging juist. Aangescherpt: lid 1 commissie ingesteld tegenover lid 2 daadwerkelijk ingeschakeld. Voorbeeld volgt dit verschil. Aanhouding tot onherroepelijkheid en algemene opschorting onderscheiden.",
+      "finding": "Drie leden volledig gelezen. Zakelijke/digitale gegevens, kopieën en strikt tijdelijk meenemen alleen voor kopiëren als ter plaatse onmogelijk, met schriftelijk bewijs. Gecorrigeerd: CBb-zaak betrof vrijwillig getoonde stukken, niet een bewezen formele inzagevordering; geen algemene dwanggrond uit dat arrest. Mediazaak/5:13/5:20 juist begrensd.",
       "resolved": true
     }
   ],
   "limitations": [
-    "Uitsluitend de twintig exact genoemde artikelen zijn in deze batch inhoudelijk beoordeeld; geen voltooiing van het gehele boek.",
-    "368 eenheden buiten deze opdracht missen nog commentaar en tweede beoordeling.",
-    "Rechtspraakcontrole is selectief; geen uitputtende vervolg- of cassatiecontrole.",
-    "Drie gebruikte uitspraken ontbreken als individuele lokale corpusbestanden; volledige officiële Rechtspraak-XML is leidend.",
-    "Het lokale CBb-bestand is niet als bytegelijke volledige officiële body aangemerkt.",
-    "Concrete bijzondere kostenregelingen en deurwaarderstarieven zijn niet integraal geïnventariseerd.",
-    "Technische minimumlengte en tekstidentiteit zijn geen bewijs van juridische kwaliteit; geen externe professionele goedkeuring."
+    "Uitsluitend de twintig exact genoemde eenheden zijn inhoudelijk beoordeeld; geen voltooiing van het boek.",
+    "348 eenheden buiten deze opdracht missen commentaar en tweede beoordeling.",
+    "Rechtspraakonderzoek en lokale corpuszoekactie zijn selectief; geen uitputtende controle van latere behandeling of onherroepelijkheid.",
+    "De RBMNE-uitspraak ontbreekt als individuele lokale corpuskopie; volledige officiële XML is gelezen. De lokale CBb-body is niet geheel gelijk aan de officiële volledige body.",
+    "Ministerieel legitimatiemodel, bijzondere toezichtsregelingen en alle gegevensbeschermingsvragen zijn niet zelfstandig geïnventariseerd.",
+    "Technische minimumlengte en bronidentiteit bewijzen geen juridische kwaliteit; geen externe professionele goedkeuring."
   ],
   "whole_book_complete": false,
   "evidence": {
     "source_preflight": "preflight-result.json",
-    "assigned_source_records": "sources/review-011/assigned-source-records.json",
-    "official_http": "sources/review-011/verification.json",
-    "historical_comparison": "sources/review-011/historical-comparison.json",
-    "external_versions": "sources/review-011/external-version-check.json",
-    "promulgations": "sources/review-011/promulgation-review.json",
-    "authorities": "sources/review-011/authority-review.json",
-    "search_log": "sources/review-011/case-search-log.json",
+    "assigned_source_records": "sources/review-012/assigned-source-records.json",
+    "official_http": "sources/review-012/verification.json",
+    "historical_comparison": "sources/review-012/historical-comparison.json",
+    "external_versions": "sources/review-012/external-version-check.json",
+    "internal_crossrefs": "sources/review-012/internal-crossrefs.json",
+    "authorities": "sources/review-012/authority-review.json",
+    "search_log": "sources/review-012/case-search-log.json",
     "technical": "review-technical.json",
-    "prior_review": "sources/review-011/prior-review-result.json"
-  },
-  "validation_result": {
-    "scoped_technical_ok": true,
-    "statutory_text_agreement": 1.0,
-    "coverage_expected": 588,
-    "coverage_parsed": 588,
-    "whole_book_strict_ok": false,
-    "whole_book_blocker": "368 unwritten units outside assigned review",
-    "strict_evidence": "strict-validation.json",
-    "build_evidence": "build-validation-log.json",
-    "local_links_checked": 547,
-    "broken_local_links": 0
+    "prior_review": "sources/review-012/prior-review-result.json"
   }
 }

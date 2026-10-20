@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T16:15:03.966946+00:00",
+  "checked_at": "2026-10-20T16:21:55.883112+00:00",
   "shared_builder": {
     "command": [
       "python3",
@@ -10,22 +10,7 @@
     "stdout": "",
     "stderr": "CHYBÍ komentář k 348 jednotkám, např.: ['art-5:18', 'art-5:19', 'art-5:20', 'art-5:21', 'art-5:22', 'art-5:23', 'art-5:24', 'art-5:25', 'art-5:26', 'art-5:27']\n"
   },
-  "checkpoint_method": "Render only genuinely authored text in affected chapters 11 and 12 with shared loading and quote functions. Whole-book gate unchanged.",
-  "bounded_authoring_complete": true,
-  "whole_book_complete": false,
-  "shared_strict_validation": {
-    "exit_code": 1,
-    "result": {
-      "repo": "Komentar-NL-BWBR0005537",
-      "units": 588,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 416656,
-      "errors": [
-        "krátký/chybějící komentář u 348 jednotek: ['art-5:18(0<400)', 'art-5:19(0<400)', 'art-5:20(0<400)', 'art-5:21(0<400)', 'art-5:22(0<120)', 'art-5:23(0<120)', 'art-5:24(0<400)', 'art-5:25(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
-    },
-    "evidence": "batch-4-131-5-17-validation.json"
-  }
+  "checkpoint_method": "Existing _checkpoint.py renders substantive written commentary as explicitly incomplete; shared completion gate unchanged.",
+  "scope_review_complete": true,
+  "whole_book_complete": false
 }
