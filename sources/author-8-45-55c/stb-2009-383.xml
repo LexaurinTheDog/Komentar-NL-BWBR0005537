@@ -1,0 +1,837 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE officiele-publicatie PUBLIC "-//Overheid//Officiele publicaties 1.0//NL" "http://standaarden.overheid.nl/op/dtd/offpublicatie.dtd"[]>
+<officiele-publicatie>
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2009-383/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel status="officieel">Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Wet van 28 augustus 2009 tot aanvulling van de Algemene wet
+	 bestuursrecht met doeltreffendere rechtsmiddelen tegen niet tijdig beslissen
+	 door bestuursorganen (Wet dwangsom en beroep bij niet tijdig beslissen)</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses
+		  van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al>Allen, die deze zullen zien of horen lezen, saluut!
+			 doen te weten:</considerans.al>
+          <considerans.al>Alzo Wij in overweging genomen hebben, dat het
+			 wenselijk is belanghebbenden doeltreffendere rechtsmiddelen te bieden tegen het
+			 niet tijdig nemen van een besluit door een bestuursorgaan;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen
+			 overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij
+			 goedvinden en verstaan bij deze:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">I</nr>
+          </kop>
+          <wat type="wijziging">De Algemene wet bestuursrecht wordt als volgt
+			 gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Het opschrift van afdeling 4.1.3 komt te luiden:</wat>
+            <wijziging>
+              <wijzig-divisie soort="afdeling" opmaak="default">
+                <kop>
+                  <label>AFDELING</label>
+                  <nr status="officieel">4.1.3</nr>
+                  <titel status="officieel">BESLISTERMIJN EN DWANGSOM BIJ NIET TIJDIG
+						BESLISSEN</titel>
+                </kop>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Na het opschrift van afdeling 4.1.3 wordt ingevoegd:</wat>
+            <wijziging>
+              <wijzig-divisie soort="paragraaf" opmaak="default">
+                <kop>
+                  <label>§</label>
+                  <nr status="officieel">4.1.3.1</nr>
+                  <titel status="officieel">Beslistermijn</titel>
+                </kop>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Ba</lidnr>
+            <wat>In artikel 4:13, tweede lid, wordt «kennisgeving» vervangen
+				door: mededeling.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Bb</lidnr>
+            <wat>Artikel 4:14, derde lid, komt te luiden:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Indien, bij het ontbreken van een bij wettelijk voorschrift
+						bepaalde termijn, een beschikking niet binnen acht weken kan worden gegeven,
+						deelt het bestuursorgaan dit binnen deze termijn aan de aanvrager mede en noemt
+						het daarbij een redelijke termijn binnen welke de beschikking wel tegemoet kan
+						worden gezien.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Bc</lidnr>
+            <wat>Artikel 4:15 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">4:15</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>De termijn voor het geven van een beschikking wordt
+						opgeschort met ingang van de dag na die waarop het bestuursorgaan:</al>
+                  <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>de aanvrager krachtens artikel 4:5 uitnodigt de
+							 aanvraag aan te vullen, tot de dag waarop de aanvraag is aangevuld of de
+							 daarvoor gestelde termijn ongebruikt is verstreken, of</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>de aanvrager mededeelt dat voor de beschikking op de
+							 aanvraag redelijkerwijs noodzakelijke informatie aan een buitenlandse instantie
+							 is gevraagd, tot de dag waarop deze informatie is ontvangen of verder uitstel
+							 niet meer redelijk is,</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>De termijn voor het geven van een beschikking wordt voorts
+						opgeschort:</al>
+                  <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>gedurende de termijn waarvoor de aanvrager schriftelijk
+							 met uitstel heeft ingestemd,</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>zolang de vertraging aan de aanvrager kan worden
+							 toegerekend, of</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>zolang het bestuursorgaan door overmacht niet in staat
+							 is een beschikking te geven.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>In geval van overmacht deelt het bestuursorgaan zo spoedig
+						mogelijk aan de aanvrager mede dat de beslistermijn is opgeschort, alsmede
+						binnen welke termijn de beschikking wel tegemoet kan worden gezien.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>Indien de opschorting eindigt, doet het bestuursorgaan
+						daarvan in de gevallen, bedoeld in het eerste lid, onderdeel b, of het tweede
+						lid, onderdelen b en c, zo spoedig mogelijk mededeling aan de aanvrager, onder
+						vermelding van de termijn binnen welke de beschikking alsnog moet worden
+						gegeven.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Na paragraaf 4.1.3.1 (nieuw) wordt een paragraaf toegevoegd,
+				luidende:</wat>
+            <wijziging>
+              <wijzig-divisie soort="paragraaf" opmaak="default">
+                <kop>
+                  <label>§</label>
+                  <nr status="officieel">4.1.3.2</nr>
+                  <titel status="officieel">Dwangsom bij niet tijdig beslissen</titel>
+                </kop>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">4:16</nr>
+                  </kop>
+                  <al>Deze paragraaf is van toepassing indien dit bij wettelijk
+						voorschrift of bij besluit van het bestuursorgaan is bepaald.</al>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">4:17</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Indien een beschikking op aanvraag niet tijdig wordt
+						  gegeven, verbeurt het bestuursorgaan aan de aanvrager een dwangsom voor elke
+						  dag dat het in gebreke is, doch voor ten hoogste 42 dagen. De Algemene
+						  termijnenwet is op laatstgenoemde termijn niet van toepassing.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>De dwangsom bedraagt de eerste veertien dagen € 20 per
+						  dag, de daaropvolgende veertien dagen € 30 per dag en de overige dagen € 40 per
+						  dag.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>De eerste dag waarover de dwangsom verschuldigd is, is de
+						  dag waarop twee weken zijn verstreken na de dag waarop de termijn voor het
+						  geven van de beschikking is verstreken en het bestuursorgaan van de aanvrager
+						  een schriftelijke ingebrekestelling heeft ontvangen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4.</lidnr>
+                    <al>Indien de aanvraag elektronisch kon worden gedaan, is
+						  artikel 4:3a van overeenkomstige toepassing op de ingebrekestelling.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">5.</lidnr>
+                    <al>Beroep tegen het niet tijdig geven van de beschikking
+						  schort de dwangsom niet op.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">6.</lidnr>
+                    <al>Geen dwangsom is verschuldigd indien:</al>
+                    <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>het bestuursorgaan onredelijk laat in gebreke is
+								gesteld,</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>de aanvrager geen belanghebbende is, of</al>
+                      </li>
+                      <li>
+                        <li.nr>c.</li.nr>
+                        <al>de aanvraag kennelijk niet-ontvankelijk of kennelijk
+								ongegrond is.</al>
+                      </li>
+                    </lijst>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">7.</lidnr>
+                    <al>Indien er meer dan één aanvrager is, is de dwangsom aan
+						  ieder van de aanvragers voor een gelijk deel verschuldigd.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">8.</lidnr>
+                    <al>De in het tweede lid genoemde bedragen kunnen bij
+						  algemene maatregel van bestuur worden gewijzigd voorzover de
+						  consumentenprijsindex daartoe aanleiding geeft.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">4:18</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Het bestuursorgaan stelt de verschuldigdheid en de hoogte
+						  van de dwangsom bij beschikking vast binnen twee weken na de laatste dag
+						  waarover de dwangsom verschuldigd was.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>De betaling geschiedt binnen zes weken nadat de
+						  beschikking op de voorgeschreven wijze is bekendgemaakt.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">4:19</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Het bezwaar, beroep of hoger beroep tegen de beschikking
+						  op de aanvraag heeft mede betrekking op een beschikking tot vaststelling van de
+						  hoogte van de dwangsom, voorzover de belanghebbende deze beschikking
+						  betwist.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>De administratieve rechter kan de beslissing op het
+						  beroep of hoger beroep inzake de beschikking tot vaststelling van de hoogte van
+						  de dwangsom echter verwijzen naar een ander orgaan, indien behandeling door dit
+						  orgaan gewenst is.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>In beroep of hoger beroep legt de belanghebbende zo
+						  mogelijk een afschrift over van de beschikking die hij betwist.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4.</lidnr>
+                    <al>Het eerste tot en met het derde lid zijn van
+						  overeenkomstige toepassing op een verzoek om voorlopige voorziening.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">4:20</nr>
+                  </kop>
+                  <al>Het bestuursorgaan kan onverschuldigd betaalde dwangsommen
+						terugvorderen voor zover na de dag waarop de beschikking, bedoeld in artikel
+						4:18, eerste lid, is vastgesteld, nog geen vijf jaren zijn verstreken.</al>
+                </artikel>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Ca</lidnr>
+            <wat>Artikel 6:12 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">6:12</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Indien het bezwaar of beroep is gericht tegen het niet
+						tijdig nemen van een besluit, is het niet aan een termijn gebonden.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Het bezwaar- of beroepschrift kan worden ingediend zodra
+						het bestuursorgaan in gebreke is tijdig een besluit te nemen.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Indien tegen het niet tijdig nemen van een besluit beroep
+						openstaat met toepassing van afdeling 8.2.4a, kan het beroepschrift worden
+						ingediend zodra:</al>
+                  <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>het bestuursorgaan in gebreke is tijdig een besluit te
+							 nemen, en</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>twee weken zijn verstreken na de dag waarop
+							 belanghebbende het bestuursorgaan schriftelijk heeft medegedeeld dat het in
+							 gebreke is.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>Indien redelijkerwijs niet van de belanghebbende kan worden
+						gevergd dat hij het bestuursorgaan in gebreke stelt, kan het beroepschrift
+						worden ingediend zodra het bestuursorgaan in gebreke is tijdig een besluit te
+						nemen.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>Het bezwaar of beroep is niet-ontvankelijk indien het
+						bezwaar- of beroepschrift onredelijk laat is ingediend.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Cb</lidnr>
+            <wat>Artikel 6:20 wordt gewijzigd als volgt:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste tot en met zesde lid vervalt telkens «op de
+				  aanvraag».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het tweede lid, onderdeel b, wordt «de indiener van de
+				  aanvraag» vervangen door: de belanghebbende.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Cc</lidnr>
+            <wat>Artikel 7:1, eerste lid, komt te luiden:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Degene aan wie het recht is toegekend beroep bij een
+						administratieve rechter in te stellen, dient alvorens beroep in te stellen
+						bezwaar te maken, tenzij:</al>
+                  <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <?xpp no_newline_after?>
+                      <li.nr>a.</li.nr>
+                      <al>het besluit in bezwaar of in administratief beroep is
+							 genomen,</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>het besluit aan goedkeuring is onderworpen,</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>het besluit een goedkeuring of een weigering daarvan
+							 inhoudt,</al>
+                    </li>
+                    <li>
+                      <li.nr>d.</li.nr>
+                      <al>het besluit is voorbereid met toepassing van afdeling
+							 3.4, of</al>
+                    </li>
+                    <li>
+                      <li.nr>e.</li.nr>
+                      <al>tegen het besluit beroep openstaat met toepassing van
+							 afdeling 8.2.4a.</al>
+                    </li>
+                  </lijst>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>In de artikelen 7:14 en 7:27 wordt «hoofdstuk 4» telkens
+				vervangen door: hoofdstuk 4, met uitzondering van artikel 4:14, eerste lid,
+				artikel 4:15 en paragraaf 4.1.3.2, .</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>Na artikel 7:14 wordt een artikel toegevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">7:14a</nr>
+                </kop>
+                <al>Indien door een ander dan de aanvrager bezwaar is gemaakt
+					 tegen een besluit op aanvraag, wordt de aanvrager voor de toepassing van
+					 paragraaf 4.1.3.2 gelijkgesteld met de indiener van het bezwaarschrift.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">F</lidnr>
+            <wat>Na artikel 7:27 wordt een artikel toegevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">7:27a</nr>
+                </kop>
+                <al>Indien het beroep tegen een besluit op aanvraag is ingesteld
+					 door een ander dan de aanvrager, wordt de aanvrager voor de toepassing van
+					 paragraaf 4.1.3.2 gelijkgesteld met degene die het beroep heeft ingesteld.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">G</lidnr>
+            <wat>Na afdeling 8.2.4 wordt een nieuwe afdeling ingevoegd,
+				luidende:</wat>
+            <wijziging>
+              <wijzig-divisie soort="afdeling" opmaak="default">
+                <kop>
+                  <label>AFDELING</label>
+                  <nr status="officieel">8.2.4A</nr>
+                  <titel status="officieel">BEROEP BIJ NIET TIJDIG BESLISSEN</titel>
+                </kop>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8:55a</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Deze afdeling is van toepassing indien:</al>
+                    <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>de wettelijke beslistermijn is overschreden en het
+								bestuursorgaan geen mededeling heeft gedaan als bedoeld in artikel 4:14, eerste
+								lid;</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>bij het ontbreken van een wettelijke beslistermijn de
+								termijn van acht weken, bedoeld in artikel 4:13, tweede lid, is overschreden en
+								het bestuursorgaan geen mededeling heeft gedaan als bedoeld in artikel 4:14,
+								derde lid; of</al>
+                      </li>
+                      <li>
+                        <li.nr>c.</li.nr>
+                        <al>het bestuursorgaan niet tijdig beslist op bezwaar of
+								in administratief beroep en geen mededeling heeft gedaan als bedoeld in artikel
+								4:14, eerste lid.</al>
+                      </li>
+                    </lijst>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Deze afdeling is voorts van toepassing indien
+						  paragraaf 4.1.3.2 van toepassing is.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8:55b</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Indien het beroep is gericht tegen het niet tijdig nemen
+						  van een besluit, doet de rechtbank binnen acht weken nadat het beroepschrift is
+						  ontvangen en aan de vereisten van artikel 6:5 is voldaan, uitspraak met
+						  toepassing van artikel 8:54, tenzij de rechtbank een onderzoek ter zitting
+						  nodig acht.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Indien de rechtbank een onderzoek ter zitting nodig acht,
+						  deelt zij dit zo spoedig mogelijk aan partijen mede.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Indien de rechtbank een onderzoek ter zitting nodig acht,
+						  behandelt zij het beroep zo mogelijk met toepassing van artikel 8:52. In dat
+						  geval doet de rechtbank zo mogelijk binnen dertien weken uitspraak.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8:55c</nr>
+                  </kop>
+                  <al>Indien het beroep gegrond is, stelt de rechtbank
+						desgevraagd tevens de hoogte van de ingevolge artikel 4:17 verbeurde dwangsom
+						vast.</al>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8:55d</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Indien het beroep gegrond is en nog geen besluit is
+						  bekendgemaakt, bepaalt de rechtbank dat het bestuursorgaan binnen twee weken na
+						  de dag waarop de uitspraak wordt verzonden alsnog een besluit bekendmaakt.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>De rechtbank verbindt aan haar uitspraak een nadere
+						  dwangsom voor iedere dag dat het bestuursorgaan in gebreke blijft de uitspraak
+						  na te leven.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>In bijzondere gevallen of indien de naleving van andere
+						  wettelijke voorschriften daartoe noopt, kan de rechtbank een andere termijn
+						  bepalen of een andere voorziening treffen.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8:55e</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Indien tegen de met toepassing van artikel 8:54 gedane
+						  uitspraak verzet wordt gedaan, beslist de rechtbank daarover binnen zes
+						  weken.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Artikel 8:55, tweede lid, is niet van toepassing.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Indien het verzet gegrond is, beslist de rechtbank zo
+						  spoedig mogelijk op het beroep.</al>
+                  </lid>
+                </artikel>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IA</nr>
+          </kop>
+          <wat type="wijziging">Artikel 19 van de Beroepswet wordt gewijzigd als
+			 volgt:</wat>
+          <wijziging>
+            <nr status="officieel">1.</nr>
+            <wat>Voor de tekst wordt de aanduiding «1.» geplaatst.</wat>
+          </wijziging>
+          <wijziging>
+            <nr status="officieel">2.</nr>
+            <wat>Er wordt een lid toegevoegd, luidende:</wat>
+            <artikeltekst>
+              <lid>
+                <lidnr status="officieel">2.</lidnr>
+                <al>Het eerste lid geldt niet indien de uitspraak een beroep
+					 tegen het niet tijdig nemen van een besluit betreft.</al>
+              </lid>
+            </artikeltekst>
+          </wijziging>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IB</nr>
+          </kop>
+          <wat type="wijziging">Aan artikel 27h, vijfde lid, van de Algemene wet
+			 inzake rijksbelastingen wordt een volzin toegevoegd, luidende: De eerste volzin
+			 geldt niet indien de uitspraak een beroep tegen het niet tijdig nemen van een
+			 besluit betreft.</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">II</nr>
+          </kop>
+          <wat type="wijziging">Op 1 januari 2009 wordt de Algemene wet
+			 bestuursrecht gewijzigd als volgt:</wat>
+          <wijziging>
+            <nr status="officieel">1.</nr>
+            <wat>De artikelen 4:16 en 8:55a vervallen.</wat>
+          </wijziging>
+          <wijziging>
+            <nr status="officieel">2.</nr>
+            <wat>In artikel 6:12, eerste lid, wordt «bezwaar of beroep» vervangen
+				door: beroep.</wat>
+          </wijziging>
+          <wijziging>
+            <nr status="officieel">3.</nr>
+            <wat>Artikel 6:12, tweede lid, vervalt onder vernummering van het
+				derde tot en met vijfde lid tot tweede tot en met vierde lid.</wat>
+          </wijziging>
+          <wijziging>
+            <nr status="officieel">4.</nr>
+            <wat>In artikel 6:12, tweede lid (nieuw), wordt de aanhef vervangen
+				door: Het beroepschrift kan worden ingediend zodra:.</wat>
+          </wijziging>
+          <wijziging>
+            <nr status="officieel">5.</nr>
+            <wat>In artikel 6:12, vierde lid (nieuw), wordt «bezwaar of beroep»
+				vervangen door «beroep» en wordt «bezwaar- of beroepschrift» vervangen door:
+				beroepschrift.</wat>
+          </wijziging>
+          <wijziging>
+            <nr status="officieel">6.</nr>
+            <wat>Artikel 6:20 komt te luiden:</wat>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">6:20</nr>
+              </kop>
+              <lid>
+                <lidnr status="officieel">1.</lidnr>
+                <al>Indien het beroep zich richt tegen het niet tijdig nemen van
+					 een besluit, blijft het bestuursorgaan verplicht dit besluit te nemen, tenzij
+					 de belanghebbende daarbij als gevolg van de beslissing op het beroep geen
+					 belang meer heeft.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">2.</lidnr>
+                <al>Het bestuursorgaan deelt een besluit als bedoeld in het
+					 eerste lid onverwijld mede aan het orgaan waarbij het beroep aanhangig is.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">3.</lidnr>
+                <al>Het beroep tegen het niet tijdig nemen van een besluit heeft
+					 mede betrekking op het alsnog genomen besluit, tenzij dit geheel aan het beroep
+					 tegemoet komt.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">4.</lidnr>
+                <al>De beslissing op het beroep kan echter worden verwezen naar
+					 een ander orgaan waarbij bezwaar of beroep tegen het alsnog genomen besluit
+					 aanhangig is, dan wel kan of kon worden gemaakt of ingesteld.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">5.</lidnr>
+                <al>Het beroep tegen het niet tijdig nemen van een besluit kan
+					 alsnog gegrond worden verklaard, indien de indiener van het beroepschrift
+					 daarbij belang heeft.</al>
+              </lid>
+            </artikel>
+          </wijziging>
+          <wijziging>
+            <nr status="officieel">7.</nr>
+            <wat>Artikel 7:1, eerste lid, onderdeel e, komt te luiden:</wat>
+            <artikeltekst>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>e.</li.nr>
+                  <al>het beroep zich richt tegen het niet tijdig nemen van een
+						besluit.</al>
+                </li>
+              </lijst>
+            </artikeltekst>
+          </wijziging>
+          <wijziging>
+            <nr status="officieel">8.</nr>
+            <wat>Artikel 7:1a, tweede lid, komt te luiden:</wat>
+            <artikeltekst>
+              <lid>
+                <lidnr status="officieel">2.</lidnr>
+                <al>Het bestuursorgaan wijst het verzoek in ieder geval af,
+					 indien tegen het besluit een ander bezwaarschrift is ingediend waarin eenzelfde
+					 verzoek ontbreekt, tenzij dat andere bezwaarschrift kennelijk niet-ontvan<?xpp afbm?>kelijk
+					 is.</al>
+              </lid>
+            </artikeltekst>
+          </wijziging>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IIA</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1.</lidnr>
+            <al>Behoudens het bepaalde in het tweede lid, heeft de
+				inwerkingtreding van deze wet geen gevolgen voor bepalingen van provinciale,
+				gemeentelijke en waterschapsverordeningen ten aanzien van een financiële
+				tegemoetkoming of dwangsom bij niet tijdig beslissen, noch voor de bevoegdheid
+				om dergelijke bepalingen vast te stellen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2.</lidnr>
+            <al>De bepalingen van provinciale, gemeentelijke en
+				waterschapsverordeningen ten aanzien van een financiële tegemoetkoming of
+				dwangsom bij niet tijdig beslissen, die van kracht zijn op het tijdstip waarop
+				artikel 4:16 van de Algemene wet bestuursrecht vervalt, zijn met ingang van dat
+				tijdstip van rechtswege vervallen, evenals de bevoegdheid tot het maken van
+				dergelijke verordeningen ten aanzien van dit onder<?xpp afbm?>werp.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3.</lidnr>
+            <al>Een bestuursorgaan dat krachtens een provinciale, gemeentelijke
+				of waterschapsverordening een financiële tegemoetkoming of een dwangsom
+				verschuldigd is indien het bepaalde besluiten niet tijdig neemt, kan ten
+				aanzien van die besluiten niet een besluit nemen als bedoeld in artikel 4:16
+				van de Algemene wet bestuursrecht.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IIB</nr>
+          </kop>
+          <al>Paragraaf 4.1.3.2 van de Algemene wet bestuursrecht vindt gedurende
+			 drie jaren na de datum waarop artikel 4:16 van die wet vervalt, geen toepassing
+			 ten aanzien van beschikkingen, genomen op grond van de Vreemdelingenwet 2000 of
+			 het Soeverein Besluit van 12 december 1813, en ten aanzien van beslissingen op
+			 bezwaar, gemaakt tegen zodanige beschikkingen, voor zover bij wettelijk
+			 voorschrift of bij besluit van het bestuursorgaan niet anders is bepaald.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">III</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1.</lidnr>
+            <al>Op het niet tijdig beslissen op een aanvraag die of een bezwaar-
+				of beroepschrift dat is ingediend voor het tijdstip waarop paragraaf 4.1.3.2
+				van de Algemene wet bestuursrecht van toepassing is geworden, blijft het recht
+				zoals dit gold voor dat tijdstip van toepassing.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2.</lidnr>
+            <al>Op een bezwaar- of beroepschrift tegen het niet tijdig nemen van
+				een besluit dat is ingediend voor het tijdstip waarop afdeling 8.2.4a van
+				toepassing is geworden, blijft het recht zoals dit gold voor dat tijdstip van
+				toepassing.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IV</nr>
+          </kop>
+          <al>Deze wet treedt in werking met ingang van de dag na de datum van
+			 uitgifte van het Staatsblad waarin zij wordt geplaatst.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">V</nr>
+          </kop>
+          <al>Deze wet wordt aangehaald als: Wet dwangsom en beroep bij niet
+			 tijdig beslissen.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst
+			 en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks
+			 aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+        </slotformulering>
+        <histnoot type="parlementair">
+          <al>Kamerstuk 29 934</al>
+        </histnoot>
+        <gegeven>
+          <label>Gegeven te </label>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2009-08-28">28 augustus 2009</datum>
+          </dagtekening>
+          <koning>Beatrix</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van
+		  Binnenlandse Zaken en
+		  Koninkrijksrelaties,</functie>
+          <naam>
+            <voornaam>G. ter</voornaam>
+            <achternaam>Horst</achternaam>
+          </naam>
+        </ondertekening>
+        <ondertekening>
+          <functie>De Minister van
+		  Justitie,</functie>
+          <naam>
+            <voornaam>E. M. H.</voornaam>
+            <achternaam>Hirsch Ballin</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2009-09-30">Uitgegeven de <nadruk type="cur">dertigste</nadruk> september
+			 2009</datum>
+          <ondertekening>
+            <functie>De Minister van
+			 Justitie,</functie>
+            <naam>
+              <voornaam>E. M. H.</voornaam>
+              <achternaam>Hirsch
+				  Ballin</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

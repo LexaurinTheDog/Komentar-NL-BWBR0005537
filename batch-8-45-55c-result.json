@@ -1,0 +1,87 @@
+{
+  "complete": true,
+  "kind": "bounded_author",
+  "authored_ids": [
+    "art-8:45",
+    "art-8:45a",
+    "art-8:46",
+    "art-8:47",
+    "art-8:48",
+    "art-8:49",
+    "art-8:50",
+    "art-8:51",
+    "art-8:51a",
+    "art-8:51b",
+    "art-8:51c",
+    "art-8:51d",
+    "art-8:52",
+    "art-8:53",
+    "art-8:54",
+    "art-8:54a",
+    "art-8:55",
+    "art-8:55a",
+    "art-8:55b",
+    "art-8:55c"
+  ],
+  "completed_units": 20,
+  "total_assigned": 20,
+  "written_book_units": 420,
+  "total_book_units": 588,
+  "whole_book_complete": false,
+  "independent_review": false,
+  "source_preflight": "sources/author-8-45-55c/preflight-result.json",
+  "author_content_check": "sources/author-8-45-55c/author-content-check.json",
+  "technical_support": "sources/author-8-45-55c/technical-check.json",
+  "case_law_sources": [
+    {
+      "ecli": "ECLI:NL:CRVB:2017:2226",
+      "case_card": "case-cards/ECLI-NL-CRVB-2017-2226.md",
+      "source": "sources/author-8-45-55c/ECLI-NL-CRVB-2017-2226.xml",
+      "supported_ids": [
+        "art-8:47"
+      ],
+      "full_text_read": true
+    },
+    {
+      "ecli": "ECLI:NL:CRVB:2016:4390",
+      "case_card": "case-cards/ECLI-NL-CRVB-2016-4390.md",
+      "source": "sources/author-8-45-55c/ECLI-NL-CRVB-2016-4390.xml",
+      "supported_ids": [
+        "art-8:51a"
+      ],
+      "full_text_read": true
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2025:422",
+      "case_card": "case-cards/ECLI-NL-RVS-2025-422.md",
+      "source": "sources/author-8-45-55c/ECLI-NL-RVS-2025-422.xml",
+      "supported_ids": [
+        "art-8:51d"
+      ],
+      "full_text_read": true
+    },
+    {
+      "ecli": "ECLI:NL:RBZWB:2024:4150",
+      "case_card": "case-cards/ECLI-NL-RBZWB-2024-4150.md",
+      "source": "sources/author-8-45-55c/ECLI-NL-RBZWB-2024-4150.xml",
+      "supported_ids": [
+        "art-8:54",
+        "art-8:55"
+      ],
+      "full_text_read": true
+    }
+  ],
+  "shared_builder": {
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "CHYBÍ komentář k 168 jednotkám, např.: ['art-8:55d', 'art-8:55e', 'art-8:55f', 'art-8:56', 'art-8:57', 'art-8:58', 'art-8:59', 'art-8:60', 'art-8:60a', 'art-8:61']\n"
+  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "168 eenheden buiten deze afgebakende auteursbatch zijn nog ongeschreven.",
+    "De twintig nieuwe toelichtingen8:45–8:55c wachten op onafhankelijke tweede beoordeling; bestaande400 beoordelingen zijn behouden.",
+    "Selectieve rechtspraak; geen uitputtende latere-behandelingscontrole of zelfstandige verificatie van alle in arresten aangehaalde autoriteiten.",
+    "Direct EUR-Lex HTTP202-responsen afgewezen; aanvullende browserextractie heeft geen blootgelegde HTTP-status. De geldende Awb en Rv zijn rechtstreeks geverifieerd.",
+    "Technische lengte- en tekstcontroles bewijzen geen juridische kwaliteit."
+  ]
+}

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CRVB:2016:4390</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-21T19:28:22</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2016-11-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Centrale_Raad_van_Beroep" scheme="overheid.RechterlijkeMacht">Centrale Raad van Beroep</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2016-07-08</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">15/285 WAO-G</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht_socialezekerheidsrecht">Bestuursrecht; Socialezekerheidsrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537">Algemene wet bestuursrecht</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=8:51a">Algemene wet bestuursrecht 8:51a</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=8:80a">Algemene wet bestuursrecht 8:80a</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>RSV 2017/81</rdf:li>
+          <rdf:li>NJB 2016/2243</rdf:li>
+          <rdf:li>AB 2016/431 met annotatie van R. Ortlep</rdf:li>
+          <rdf:li>ABkort 2016/420</rdf:li>
+          <rdf:li>USZ 2017/28</rdf:li>
+          <rdf:li>SZR-Updates.nl 2016-1152</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CRVB:2016:4390">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CRVB:2016:4390</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2016-11-21T09:13:10</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2016-11-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CRVB:2016:4390 Centrale Raad van Beroep , 08-07-2016 / 15/285 WAO-G</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CRVB:2016:4390:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Een rechtbank mag slechts in zeer uitzonderlijke gevallen terugkomen van een in een tussenuitspraak zonder voorbehoud gegeven oordeel. De overwegingen in de tussenuitspraak over de belangafweging die moet worden gemaakt bij de terugvordering van onverschuldigd betaalde voorschotten zijn onjuist. De tussenuitspraak berust op een evident onjuiste juridische grondslag. De rechtbank heeft dus terecht een dergelijk bijzonder geval aanwezig geacht dat het terugkomen van het in de tussenuitspraak gegeven oordeel rechtvaardigde. De eisen van een goede procesorde brengen mee dat de rechtbank partijen in de gelegenheid dient te stellen zich hierover uit te laten, teneinde te voorkomen dat zij op een ondeugdelijke grondslag een einduitspraak zou doen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CRVB:2016:4390:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <para>15/285 WAO-G</para>
+  <parablock>
+    <para>Datum uitspraak: 8 juli 2016 </para>
+  </parablock>
+  <parablock>
+    <para>Centrale Raad van Beroep</para>
+    <para>Meervoudige kamer</para>
+  </parablock>
+  <parablock>
+    <para>Gerectificeerde uitspraak op het hoger beroep tegen de uitspraak van de rechtbank Amsterdam van 2 december 2014, 13/5050 (aangevallen uitspraak)</para>
+  </parablock>
+  <parablock>
+    <para>Partijen:</para>
+  </parablock>
+  <parablock>
+    <para>
+      [appellant] te [woonplaats], Marokko (appellant)</para>
+  </parablock>
+  <parablock>
+    <para>de Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen (Uwv)</para>
+  </parablock>
+  <parablock>
+    <para>PROCESVERLOOP</para>
+    <para>Namens appellant heeft mr. C.A.J. de Roy van Zuydewijn, advocaat, hoger beroep ingesteld.</para>
+  </parablock>
+  <parablock>
+    <para>Het Uwv heeft een verweerschrift ingediend.</para>
+  </parablock>
+  <parablock>
+    <para>Het onderzoek ter zitting heeft plaatsgevonden op 19 februari 2016. Appellant heeft zich laten vertegenwoordigen door zijn gemachtigde. Het Uwv heeft zich laten vertegenwoordigen door F.M.J. Eijmael.</para>
+  </parablock>
+  <section role="overwegingen">
+    <title>OVERWEGINGEN</title>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Voor een uiteenzetting van de feiten waarvan bij de oordeelsvorming wordt uitgegaan wordt verwezen naar de tussenuitspraak van de rechtbank Amsterdam van 13 juni 2014, ECLI:NL:RBAMS:2014:3265. Hier wordt volstaan met het volgende.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Bij uitspraak van 19 maart 2014, ECLI:NL:CRVB:2014:899, heeft de Raad bepaald dat appellant met ingang van 14 april 1993 geen recht heeft op een uitkering ingevolge de Wet op de arbeidsongeschiktheidsverzekering (WAO). Gelet op deze uitspraak is tussen partijen niet meer in geschil dat de aan appellant over de periode van 1 juli 2008 tot en met 1 augustus 2010 verstrekte voorschotten onverschuldigd zijn betaald. Het geschil spitst zich toe op het antwoord op de vraag of het Uwv gehouden is deze voorschotten terug te vorderen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Bij besluit van 15 maart 2012 heeft het Uwv de aan appellant op grond van de WAO betaalde voorschotten ter hoogte van € 26.890,30 teruggevorderd. Bij besluit van 25 juli 2013 (bestreden besluit) heeft het Uwv het bezwaar van appellant tegen het besluit van 15 maart 2012 ongegrond verklaard onder de overweging dat het Uwv op grond van artikel 57 van de WAO verplicht is om de onverschuldigd betaalde voorschotten van appellant terug te vorderen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>In haar tussenuitspraak van 13 juni 2014 heeft de rechtbank – kort gezegd – overwogen dat uit het bestreden besluit volgt dat het Uwv aan de terugvordering van de voorschotten artikel 57 van de WAO ten grondslag heeft gelegd en dat het Uwv, gelet op de redactie van dat artikel, niet aan een belangenafweging is toegekomen. Naar het oordeel van de rechtbank verdraagt deze grondslag zich niet met het per 1 juli 2009 in werking getreden artikel 4:95 van de Algemene wet bestuursrecht (Awb). Artikel 4:95, vierde lid, van de Awb ziet op de mogelijkheid tot terugvordering van onverschuldigd betaalde voorschotten en toepassing van die mogelijkheid vereist een belangenafweging. Nu het Uwv geen belangenafweging heeft gemaakt, heeft de rechtbank in haar tussenuitspraak geoordeeld dat het bestreden besluit is genomen in strijd met artikel 3:4 van de Awb, waarin is bepaald dat het bestuursorgaan de rechtsreeks bij het besluit betrokken belangen afweegt. Op grond van artikel 8:51a, eerste lid, van de Awb heeft de rechtbank het Uwv in de gelegenheid gesteld het gebrek in het bestreden besluit te herstellen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>In zijn brief van 8 juli 2014 heeft het Uwv meegedeeld zich niet te kunnen vinden in de tussenuitspraak van de rechtbank en geen gebruik te zullen maken van de mogelijkheid het gebrek te herstellen. Het Uwv stelt zich op het standpunt dat op grond van artikel 57, eerste lid, van de WAO de verplichting bestaat al wat onverschuldigd is betaald terug te vorderen. Niet artikel 4:95, vierde lid, van de Awb is de grondslag om voorschotten terug te vorderen, maar artikel 57, eerste lid, van de WAO. Volgens het Uwv moet artikel 57, eerste lid, van de WAO gezien worden als een lex specialis ten opzichte van de Awb.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <para>De rechtbank heeft bij de aangevallen uitspraak het beroep van appellant ongegrond verklaard. Daartoe heeft de rechtbank overwogen dat het Uwv met juistheid heeft gesteld dat de terugvordering moet worden gebaseerd op de specifieke regeling van artikel 57 van de WAO, en niet op grond van de algemene terugvorderingsbepaling in artikel 4:95, vierde lid van de Awb. Met het in werking treden van artikel 4:95 van de Awb per 1 juli 2009 is artikel 57 van de WAO op dit punt niet gewijzigd. Uit artikel 57, eerste lid, van de WAO volgt dat het Uwv gehouden is om hetgeen onverschuldigd is betaald terug te vorderen, en niet eerst na een belangenafweging. Hieruit volgt dat de rechtbank in de tussenuitspraak op verkeerde gronden heeft overwogen dat de terugvordering van de in het kader van de WAO verstrekte voorschotten wordt beheerst door artikel 4:95, vierde lid, van de Awb en dat de rechtbank ten onrechte heeft overwogen dat bij terugvordering een belangenafweging als bedoeld in artikel 3:4 van de Awb had moeten plaatsvinden. Het staat de rechtbank – behalve in uitzonderlijke gevallen – niet vrij terug te komen van een door haar in een tussenuitspraak zonder voorbehoud gegeven oordeel. Aan de uitspraak van de Hoge Raad van 25 april 2008, ECLI:NL:HR:2008:BC2800, ontleent de rechtbank echter de overtuiging dat zij de bevoegdheid heeft een tussenuitspraak te heroverwegen, indien in die tussenuitspraak met toepassing van een onjuiste maatstaf is beslist. De eisen van een goede procesorde brengen immers mee dat de rechter, als is gebleken dat een eerdere door hem gegeven, maar niet in een einduitspraak vervatte eindbeslissing berust op een onjuiste juridische of feitelijke grondslag, bevoegd is om, nadat partijen de gelegenheid hebben gekregen zich dienaangaande uit te laten, over te gaan tot heroverweging van die eindbeslissing, teneinde te voorkomen dat hij op een ondeugdelijke grondslag een einduitspraak zou doen. De rechtbank overweegt dat het Uwv zich op goede gronden op het standpunt heeft kunnen stellen dat van dringende redenen om van terugvordering af te zien geen sprake is. De rechtbank sluit zich aan bij de bepaling van artikel 57, eerste lid, van de WAO, waaruit volgt dat het Uwv gehouden is om al hetgeen onverschuldigd ingevolge de WAO is betaald terug te vorderen. De financieel slechte situatie van appellant levert geen dringende reden op om op grond van artikel 57, vijfde lid, van de WAO geheel of gedeeltelijk van terugvordering af te zien. Bij de invordering zal daarmee rekening gehouden kunnen worden door de beslagvrije voet in aanmerking te nemen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>In hoger beroep heeft appellant betoogd dat de rechtbank ten onrechte is teruggekomen van haar in de tussenuitspraak gegeven oordeel. Het staat de rechtbank – behalve in bijzondere omstandigheden – niet vrij om terug te komen een door haar in een tussenuitspraak zonder voorbehoud gegeven oordeel. In ieder geval had de rechtbank niet zonder appellant in kennis te stellen van haar gewijzigde oordeel en niet zonder appellant de gelegenheid te bieden om zijn zienswijze hierover naar voren te brengen tot de uitspraak kunnen komen. Dat is in strijd met de goede procesorde. Appellant is van mening dat het standpunt van het Uwv zoals dat verwoord is in de brief van 8 juli 2014 onjuist is. Volgens vaste jurisprudentie van de Raad (ECLI:NL:CRVB:2014:12) wordt de terugvordering sinds de wijziging van het wettelijke stelsel per 1 juli 2009 beheerst door artikel 4:95, vierde lid, van de Awb, wat betekent dat bij terugvordering een belangenafweging dient plaats te vinden. In dit geval had het Uwv moeten laten meewegen dat het betalen van de voorschotten ingegeven is door termijnverloop, niet tijdig beslissen en opdrachten van de bestuursrechter en dat geen sprake is geweest van onverschuldigde betalingen als gevolg van een toedoen door appellant. Daarnaast had het Uwv moeten laten meewegen dat appellant geen vervangend inkomen heeft en dat het voor hem onmogelijk is om de voorschotten terug te betalen. Onder deze omstandigheden dient het geen enkel redelijk doel om aan de terugvordering vast te houden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>Het Uwv heeft verzocht om bevestiging van de aangevallen uitspraak.</para>
+      <para />
+      <parablock>
+        <para>4. De Raad overweegt als volgt</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Ingevolge artikel 57, eerste lid, van de WAO wordt onder meer de uitkering, de loonsuppletie, bedoeld in artikel 65c, en de inkomenssuppletie, bedoeld in artikel 65d, die als gevolg van een beschikking als bedoeld in artikel 36a onverschuldigd is betaald, alsmede hetgeen anderszins onverschuldigd is betaald, door het Uitvoeringsinstituut werknemersverzekeringen teruggevorderd.</para>
+      <para />
+      <parablock>
+        <para>Op grond van artikel 57, vijfde lid, van de WAO kan het Uitvoeringsinstituut werknemersverzekeringen besluiten geheel of gedeeltelijk van terugvordering af te zien indien daarvoor dringende redenen aanwezig zijn. Ingevolge artikel 4:95, vierde lid, van de Awb worden betaalde voorschotten verrekend met de te betalen geldsom. Onverschuldigde betaalde voorschotten kunnen worden teruggevorderd.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Artikel 4:95 van de Awb is ingevoerd bij de Aanpassingswet vierde tranche Awb. In de Memorie van Toelichting bij deze wet (Kamerstukken II, 2006/07, 31 124, nr. 3, blz. 2) is de wetgever ingegaan op de verhouding tussen de met de vierde tranche Awb in te voeren bepalingen en de bijzondere wetgeving:</para>
+      <para />
+      <parablock>
+        <para>“Het karakter van de bepalingen in de vierde tranche is hoofdzakelijk dwingend van aard. Met betrekking tot bijvoorbeeld titel 4.4 over bestuursrechtelijke geldschulden wil dit zeggen dat de voorstellen omtrent de vaststelling en de inhoud van de betalingsverplichting, het tijdstip waarop de geldvordering verjaart alsmede wanneer aanmaning en invordering bij dwangbevel mogelijk is, voor het gehele bestuursrecht gelden. Voor de aanpassingswetgeving betekent dit allereerst dat bepalingen die met een dergelijk dwingend voorschrift in strijd zijn, dienen te vervallen. Hetzelfde geldt voor voorschriften in de bijzondere wetgeving die hetzelfde voorschrijven als het dwingende Awb-voorschrift: dergelijke bepalingen worden immers overbodig. Slechts op het niveau van formele wet kan zo nodig worden afgeweken van deze dwingendrechtelijke voorschriften. Dit dient dan in zulke gevallen uitdrukkelijk in de bijzondere wet te worden vermeld door middel van de formulering: ‘In afwijking van artikel…Awb…’ ”</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <parablock>
+        <para>Met de inwerkingtreding van artikel 4:95 van de Awb op 1 juli 2009 is artikel 57, eerste lid, van de WAO op dit punt ongewijzigd gebleven. Met de ten tijde van het bestreden besluit geldende tekst van artikel 57, eerste lid, van de WAO is duidelijk dat de terugvordering van bij wijze van voorschot betaalde toeslagen een verplicht karakter heeft. Dat betekent dat </para>
+        <para>– anders dan de Raad heeft geoordeeld in zijn uitspraak van 8 januari 2014, ECLI:NL:CRVB:2014:12 voor de terugvordering van een voorschot op grond van artikel 77 van de Wet werk en inkomen naar arbeidsvermogen, zoals dat artikel gold tot </para>
+        <para>1 januari 2013 – artikel 4:95, vierde lid, van de Awb in dit geval niet van toepassing is. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <parablock>
+        <para>Zoals de Raad eerder heeft overwogen (onder meer in de uitspraken van 9 december 2011, ECLI:NL:CRVB:2011:BU7433 en van 2 november 2012, ECLI:CRVB:2012:BY2116), mag een rechtbank slechts in zeer uitzonderlijke gevallen terugkomen van een in een tussenuitspraak zonder voorbehoud gegeven oordeel. Uit 4.1 tot en met 4.3 volgt dat de overwegingen in de tussenuitspraak over de belangafweging die op grond van artikel 4:95, vierde lid, van de Awb gemaakt moet worden bij de terugvordering van onverschuldigd betaalde voorschotten onjuist zijn. De tussenuitspraak berust dan ook op een evident onjuiste juridische grondslag. De rechtbank heeft dus terecht een dergelijk bijzonder geval aanwezig geacht dat het terugkomen van het in de tussenuitspraak gegeven oordeel rechtvaardigde. </para>
+        <para>De primaire grond van het hoger beroep slaagt niet.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <para>Evenals de Hoge Raad in zijn onder 2.3 genoemde arrest is de Raad van oordeel dat de eisen van een goede procesorde meebrengen dat de rechtbank, alvorens zij gebruik maakt van haar bevoegdheid om in zeer uitzonderlijke gevallen in de einduitspraak terug te komen van een in een tussenuitspraak gegeven oordeel, partijen in de gelegenheid dient te stellen zich hierover uit te laten, teneinde te voorkomen dat zij op een ondeugdelijke grondslag een einduitspraak zou doen. Ten onrechte heeft de rechtbank dit nagelaten. Niet gebleken is echter dat appellant in dit geval hierdoor in zijn belangen is geschaad, nu hij in hoger beroep zijn standpunten en zienswijze alsnog afdoende naar voren heeft kunnen brengen. Om die reden zal de aangevallen uitspraak niet worden vernietigd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.6.</nr>
+      <parablock>
+        <para>Op grond van artikel 57, eerste lid, van de WAO was het Uwv gehouden tot terugvordering van de onverschuldigd betaalde uitkering over de periode van 1 juli 2008 tot </para>
+        <para>1 augustus 2010. Appellant heeft zijn standpunt dat de terugvordering onaanvaardbare gevolgen heeft niet met concrete gegevens onderbouwd. Van dringende redenen in de zin van artikel 57, vijfde lid, van de WAO is slechts sprake indien door de terugvordering van de voorschotten onaanvaardbare sociale of financiële consequenties voor de betrokkene optreden. Appellant heeft geen gegevens ingebracht op grond waarvan zou moeten worden geoordeeld dat daarvan sprake is. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.7.</nr>
+      <para>Uit de overwegingen 4.1 tot en met 4.6 volgt dat het hoger beroep niet slaagt en dat de aangevallen uitspraak, met verbetering van gronden, moet worden bevestigd. </para>
+      <para />
+      <para>5. Aanleiding bestaat het Uwv te veroordelen in de kosten die appellant in verband met de behandeling van het hoger beroep redelijkerwijs heeft moeten maken nu appellant niet eerder dan in hoger beroep in de gelegenheid is gesteld te reageren op het gewijzigde oordeel van de rechtbank. De proceskosten worden begroot op € 992,- in verband met verleende rechtsbijstand in hoger beroep. </para>
+      <para />
+      <para>6. Voorts bestaat aanleiding om met toepassing van artikel 8:114, tweede lid, van de Awb te bepalen dat de griffier het in hoger beroep betaalde griffierecht aan appellant vergoedt.</para>
+      <para>BESLISSING</para>
+      <para />
+      <parablock>
+        <para>De Centrale Raad van Beroep</para>
+      </parablock>
+      <para />
+      <itemizedlist mark="-">
+        <listitem>
+          <para>bevestigt de aangevallen uitspraak; </para>
+        </listitem>
+        <listitem>
+          <para>veroordeelt het Uwv in de proceskosten van appellant tot een bedrag van € 992,-;</para>
+        </listitem>
+        <listitem>
+          <para>bepaalt dat de griffier aan appellant het in hoger beroep betaalde griffierecht van € 123,- vergoedt.</para>
+        </listitem>
+      </itemizedlist>
+      <para />
+      <para />
+      <parablock>
+        <para>Deze uitspraak is gedaan door I.M.J. Hilhorst-Hagen als voorzitter en P. Vrolijk en L. Koper als leden, in tegenwoordigheid van L.H.J. van Haarlem als griffier. De beslissing is uitgesproken in het openbaar op 8 juli 2016.</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <parablock>
+        <para>(getekend) I.M.J. Hilhorst-Hagen</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <parablock>
+        <para>(getekend) L.H.J. van Haarlem</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>TM</title>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

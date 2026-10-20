@@ -1,0 +1,83 @@
+{
+  "searched_at": "2026-10-20",
+  "method": [
+    "Primary-domain web search and actual full XML retrieval from data.rechtspraak.nl",
+    "Exact filename search in local national judicial corpus, then comparison of full judgment elements with downloaded XML. First uppercase attempt returned nothing; corrected lowercase search found three cases."
+  ],
+  "queries": [
+    "site.raadvanstate.nl \"8:51a\" \"tussenuitspraak\" \"terugkomen\"",
+    "site.rechtspraak.nl \"2017:2226\" \"deskundige\"",
+    "site.rechtspraak.nl \"8:55\" \"buiten redelijke twijfel\" verzet",
+    "site.raadvanstate.nl \"verzet\" \"2024\" \"buiten redelijke twijfel\"",
+    "site.raadvanstate.nl \"8:55c\" \"611g\"",
+    "site.raadvanstate.nl \"8:51d\" \"herstellen\" \"2025\""
+  ],
+  "selected": [
+    {
+      "ecli": "ECLI:NL:CRVB:2017:2226",
+      "case_card": "case-cards/ECLI-NL-CRVB-2017-2226.md",
+      "source": "sources/author-8-45-55c/ECLI-NL-CRVB-2017-2226.xml",
+      "supported_ids": [
+        "art-8:47"
+      ],
+      "full_text_read": true
+    },
+    {
+      "ecli": "ECLI:NL:CRVB:2016:4390",
+      "case_card": "case-cards/ECLI-NL-CRVB-2016-4390.md",
+      "source": "sources/author-8-45-55c/ECLI-NL-CRVB-2016-4390.xml",
+      "supported_ids": [
+        "art-8:51a"
+      ],
+      "full_text_read": true
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2025:422",
+      "case_card": "case-cards/ECLI-NL-RVS-2025-422.md",
+      "source": "sources/author-8-45-55c/ECLI-NL-RVS-2025-422.xml",
+      "supported_ids": [
+        "art-8:51d"
+      ],
+      "full_text_read": true
+    },
+    {
+      "ecli": "ECLI:NL:RBZWB:2024:4150",
+      "case_card": "case-cards/ECLI-NL-RBZWB-2024-4150.md",
+      "source": "sources/author-8-45-55c/ECLI-NL-RBZWB-2024-4150.xml",
+      "supported_ids": [
+        "art-8:54",
+        "art-8:55"
+      ],
+      "full_text_read": true
+    }
+  ],
+  "not_selected": [
+    {
+      "ecli": "ECLI:NL:RBZWB:2022:7965",
+      "reason": "Search hit not used as authority; no claim to full-text verification."
+    }
+  ],
+  "no_separately_verified_case_selected_for": [
+    "art-8:45",
+    "art-8:45a",
+    "art-8:46",
+    "art-8:48",
+    "art-8:49",
+    "art-8:50",
+    "art-8:51",
+    "art-8:51b",
+    "art-8:51c",
+    "art-8:52",
+    "art-8:53",
+    "art-8:54a",
+    "art-8:55a",
+    "art-8:55b",
+    "art-8:55c"
+  ],
+  "limits": [
+    "Selective thematic search; no exhaustive negative result for each technical unit.",
+    "No exhaustive later-treatment check or independent reading of all authorities quoted by the four judgments.",
+    "Local lower-court coverage unavailable; RBZWB case read from primary official XML.",
+    "Firecrawl status: authenticated but0 credits; no successful Firecrawl extraction claimed."
+  ]
+}

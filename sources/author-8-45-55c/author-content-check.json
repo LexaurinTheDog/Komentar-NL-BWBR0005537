@@ -1,0 +1,152 @@
+{
+  "checked_at": "2026-10-20T19:16:05.512736+00:00",
+  "independent_review": false,
+  "scope": "Author checked each assigned unit against its source and actually used authority; not fresh-process second pass.",
+  "units": [
+    {
+      "id": "art-8:45",
+      "chars": 2592,
+      "reviewed_against_source": true,
+      "specific_points": "Alle zes leden; verzoek versus plicht partijen/organen/werkgevers,8:29,boeteverklaringen, geen algemene afdwinging buitenstaanders; Commissie advieswensen en eigen reactietermijn.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:45a",
+      "chars": 2490,
+      "reviewed_against_source": true,
+      "specific_points": "Niet-partijrol, alleen Commissie/ACM; toestemming mondeling, verslag8:44, stukkenmededeling en vierweekse reactie onderscheiden.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:46",
+      "chars": 2506,
+      "reviewed_against_source": true,
+      "specific_points": "Minstensweek vooraf alle vereiste gegevens; Rv179(3) alleen eerste zin,180 beperkte leden, geen algehele import of opname uit uitgesloten lid; afzonderlijke8:33.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:47",
+      "chars": 2622,
+      "reviewed_against_source": true,
+      "specific_points": "Benoeming/opdracht/termijn, verplichte voornemenmededeling en facultatieve wensronde; verslag, vierweekse reactie/verlenging,8:30/34; CRvB eigen oordeel versus klacht zorgvuldig onderscheiden.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:48",
+      "chars": 2206,
+      "reviewed_against_source": true,
+      "specific_points": "Alleen arts in rechterlijk8:47-onderzoek, genoemde artsen, relevante informatie en onevenredige privacyschade; geen onbeperkte inzage of fysieke dwang.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:49",
+      "chars": 1920,
+      "reviewed_against_source": true,
+      "specific_points": "Benoemingsbevoegdheid,8:35 en36, geen algemene kosteloze toevoeging of automatische vergoeding partijvertaler; specifieke communicatiekwestie.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:50",
+      "chars": 2169,
+      "reviewed_against_source": true,
+      "specific_points": "Taakgebonden toegang, medewerking organen, partijen vooraf en aanwezigheid; procesverbaal griffier, ondertekening voorzitter en griffier; historische waarneming niet verzinnen.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:51",
+      "chars": 2642,
+      "reviewed_against_source": true,
+      "specific_points": "Gedelegeerde opdracht, redelijke toegang, machtiging binnentreden,8:50(2)(3), griffier ondertekent alleen; feiten versus deskundigenconclusie; afsluitende checklist.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:51a",
+      "chars": 2547,
+      "reviewed_against_source": true,
+      "specific_points": "Vrijblijvende herstelgelegenheid versus opdracht, derdenbescherming, termijn/verlenging,8:80a/6:19, geen garantie einduitspraak; CRvB uitzonderlijke heroverweging en tegenspraak contextbegrensd.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:51b",
+      "chars": 2308,
+      "reviewed_against_source": true,
+      "specific_points": "Keuzebericht spoedig, afzonderlijke schriftelijke herstelverantwoording, vierweekse reactie na verzending en verlenging; nieuwe besluitbekendmaking onderscheiden; hoogste aanleg alleen2/3.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:51c",
+      "chars": 2382,
+      "reviewed_against_source": true,
+      "specific_points": "Vier verschillende aanvangsgebeurtenissen voor bericht vervolg, geen vierweekse einduitspraak; resterende reactierechten anderepartijen;8:51d alleenb-d.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:51d",
+      "chars": 3009,
+      "reviewed_against_source": true,
+      "specific_points": "Hoogste aanleg ook eerste/enige aanleg, bindende opdracht, exacte selectieve verwijzingen51a/b/c; RVS2025:422 tussenuitspraak geen eindtoestemming tankstation; zaaktermen niet generaliseren; checklist.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:52",
+      "chars": 2352,
+      "reviewed_against_source": true,
+      "specific_points": "Spoed hoofdzaak versus voorlopige maatregel; alle zes termijningrepen, kan versus automatisch; zittingsdatum snel/onverwijld,8:56 uitgesloten; geen blanketvrijstelling hoorwaarborgen.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:53",
+      "chars": 2404,
+      "reviewed_against_source": true,
+      "specific_points": "Onvoldoende spoed of gewone behandeling nodig zelfstandig; verplicht vervolg, geen inhoudelijk oordeel/reset alle termijnen; praktische checklist.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:54",
+      "chars": 2476,
+      "reviewed_against_source": true,
+      "specific_points": "Voor uitnodiging, niet voor begin zitting; alle vier kennelijke uitkomsten, geen waarschijnlijkheid; verzetverwijzing; RB kostenzaak geen algehele zittingsplicht.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:54a",
+      "chars": 2062,
+      "reviewed_against_source": true,
+      "specific_points": "Kennelijk onjuiste instemming7:1a, voor uitnodiging; terug als bezwaar en7:10; rechtsmiddel8:104(2)(b) gecontroleerd en aanvankelijke schrijffout(a) gecorrigeerd.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:55",
+      "chars": 3546,
+      "reviewed_against_source": true,
+      "specific_points": "Alle tien leden; indieningsregels/zes weken, voorwaardelijke schorsing en55e, gevraagd horen behalve gegrond, nieuwe kamer, drie uitkomsten en onderzoekherstel; beide cumulatieve eisen directe hoofdzaakuitspraak; RB waarschuwing niet als feit verzonnen; checklist.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:55a",
+      "chars": 917,
+      "reviewed_against_source": true,
+      "specific_points": "Officieel vervallen slot behouden, geen historische leden overgenomen; voorbeeld oude modelverwijzing, geen huidige norm.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:55b",
+      "chars": 2109,
+      "reviewed_against_source": true,
+      "specific_points": "Achtweken gekoppeld ontvangst én6:5, geen garantie gegrondheid; uitzondering benodigde zitting snel meedelen, zo mogelijk versneld/dertienweken; geen bestuurlijke beslistermijn8:55d.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:55c",
+      "chars": 2487,
+      "reviewed_against_source": true,
+      "specific_points": "Desgevraagd bestaande bestuurlijke dwangsom, toegang/uitzonderingen4:17 en beschikking4:19; onderscheid nadere rechterlijke dwangsom55d; Rv611c/611g volledig gelezen, beperkte import, executietitel en zesmaandverjaring/verbeurte.",
+      "fictional_example": true
+    }
+  ],
+  "unresolved_blockers": [],
+  "limitations": [
+    "Length and exact-text checks do not certify legal quality.",
+    "Independent second pass remains required for these20 units."
+  ]
+}
