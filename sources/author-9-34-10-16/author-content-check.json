@@ -1,0 +1,130 @@
+{
+  "independent_review": false,
+  "units": [
+    {
+      "id": "art-9:34",
+      "chars": 1605,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:35",
+      "chars": 1540,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:36",
+      "chars": 1559,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:36a",
+      "chars": 1942,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:1",
+      "chars": 1535,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:2",
+      "chars": 1501,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:3",
+      "chars": 1937,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:4",
+      "chars": 1485,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:5",
+      "chars": 1504,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:6",
+      "chars": 1483,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:7",
+      "chars": 1468,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:8",
+      "chars": 1472,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:9",
+      "chars": 1524,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:10",
+      "chars": 1522,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:11",
+      "chars": 1432,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:12",
+      "chars": 2038,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:13",
+      "chars": 1548,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:14",
+      "chars": 1516,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:15",
+      "chars": 1553,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-10:16",
+      "chars": 1596,
+      "source_read": true,
+      "fictional_example": true
+    }
+  ],
+  "prior_commentaries_preserved": 520,
+  "no_missing_assigned": true,
+  "duplicate_delimiters": [],
+  "similar_pairs_over_060": [],
+  "checks": "Meaning, paragraph distinctions, statutory cross-references, contemporary version, fictional examples and authority scope checked by author; length is not a quality certificate."
+}

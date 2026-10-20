@@ -1,0 +1,41 @@
+{
+  "complete": true,
+  "kind": "bounded_author",
+  "authored_ids": [
+    "art-9:34",
+    "art-9:35",
+    "art-9:36",
+    "art-9:36a",
+    "art-10:1",
+    "art-10:2",
+    "art-10:3",
+    "art-10:4",
+    "art-10:5",
+    "art-10:6",
+    "art-10:7",
+    "art-10:8",
+    "art-10:9",
+    "art-10:10",
+    "art-10:11",
+    "art-10:12",
+    "art-10:13",
+    "art-10:14",
+    "art-10:15",
+    "art-10:16"
+  ],
+  "completed_units": 20,
+  "total_assigned": 20,
+  "written_book_units": 540,
+  "total_book_units": 588,
+  "whole_book_complete": false,
+  "independent_review": false,
+  "source_preflight": "sources/author-9-34-10-16/preflight-result.json",
+  "validation": "batch-9-34-10-16-validation.json",
+  "unresolved_blockers": [],
+  "limitations": [
+    "48 eenheden buiten deze batch nog ongeschreven.",
+    "Deze twintig toelichtingen wachten op onafhankelijke tweede beoordeling.",
+    "Selectieve rechtspraak; geen uitputtende dekking of volledige controle van latere behandeling.",
+    "Technische validatie bewijst geen juridische kwaliteit."
+  ]
+}

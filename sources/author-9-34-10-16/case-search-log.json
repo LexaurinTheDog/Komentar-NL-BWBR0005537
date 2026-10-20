@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-21",
+  "web_queries": [
+    "site.raadvanstate.nl \"10:3\" \"mandaat\" \"bezwaar\" uitspraak",
+    "site.rechtspraak.nl \"9:36a\" ombudsman"
+  ],
+  "local_corpus_root": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak",
+  "selected": "ECLI:NL:RVS:2025:5425",
+  "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2025-5425.md",
+  "local_sha256": "5f1b16ce8efdf548c22ae0ab83f54cbb5f339624a9420074b72093fa2d1ee79d",
+  "read_also": [
+    "ECLI:NL:RVS:2022:3004"
+  ],
+  "primary_full_text_read": true,
+  "supported_units": [
+    "art-10:3"
+  ],
+  "selected_paragraphs": [
+    "5",
+    "5.1",
+    "5.2",
+    "5.3"
+  ],
+  "remaining_units": "No separately sufficiently relevant verified judicial full text selected; statutory analysis only.",
+  "limits": [
+    "Selective research; not exhaustive",
+    "Historical Wabo facts not treated as current environmental law",
+    "No full subsequent-treatment search"
+  ]
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "accessed_at": "2026-10-20T22:36:34.243337+00:00",
+    "accepted_format": false
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "accessed_at": "2026-10-20T22:36:34.375878+00:00",
+    "accepted_format": false
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+    "accessed_at": "2026-10-20T22:36:35.213884+00:00",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+    "path": "sources/author-9-34-10-16/selected.xml",
+    "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "bytes": 2622149,
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2025:5425",
+    "accessed_at": "2026-10-20T22:36:35.401836+00:00",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2025:5425",
+    "path": "sources/author-9-34-10-16/ECLI-NL-RVS-2025-5425.xml",
+    "sha256": "5874d91d4f5d6035ce503a35ab9b9b99e9dd783122f8bb57926632cb14febba3",
+    "bytes": 24503,
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+    "accessed_at": "2026-10-20T22:36:54.129017+00:00",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+    "path": "sources/author-9-34-10-16/current.html",
+    "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+    "bytes": 4204181,
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie?view=changes",
+    "accessed_at": "2026-10-20T22:36:54.731713+00:00",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie?view=changes",
+    "path": "sources/author-9-34-10-16/history.html",
+    "sha256": "03e099aa6096fbfc2a4cc8bf7ac9475266ab4dd41905aa7a92065b8acdabc452",
+    "bytes": 1755568,
+    "accepted_format": true
+  }
+]

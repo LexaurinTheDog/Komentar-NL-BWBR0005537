@@ -1,0 +1,81 @@
+{
+  "complete": true,
+  "scope": "Source/parser preflight for the assigned twenty units only; no whole-book content review",
+  "decisive_date": "2026-10-19",
+  "batch_authoring_date": "2026-10-21",
+  "official_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+  "verified_at": "2026-10-20T22:37:48.368046+00:00",
+  "version_evidence": {
+    "effective_statement": "Geldend van 15-08-2026 t/m heden. Alles openklappen Alles dichtklappen Inhoudsopgave Hoofds",
+    "consultation": "Geraadpleegd op 20-10-2026. Geldend van 15-08-2026 t/m heden. Alles openklappen Alles dichtklappen Inhoudsopgave Hoofdstuk 1 Inleidende bepalingen (Artikelen 1:1-1:9) Titel 1.",
+    "latest_effective_on_decisive_date": "2026-08-15",
+    "latest_effective_on_recheck": "2026-08-15",
+    "next_scheduled_version": "2027-01-01",
+    "history": "sources/author-9-34-10-16/history-rows.json",
+    "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "identical_to_canonical": true,
+    "http_results": "sources/author-9-34-10-16/verification.json"
+  },
+  "historical_versions_checked": {
+    "previous": "2026-08-01_0",
+    "previous_xml": "sources/preflight/previous-official.xml",
+    "previous_sha256": "04d8986ae1ad30cc84a00bfd91d1ca79a3ea6a0be48aeaf5bcb1fc5e606ebc66",
+    "selected": "2026-08-15_0",
+    "assigned_changed_ids": [],
+    "versions_concatenated": false,
+    "assigned_repealed_slots": []
+  },
+  "annexes_checked": [
+    {
+      "annex": "1",
+      "expected_child_ids": [],
+      "evidence_path": "sources/author-9-34-10-16/selected.xml",
+      "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "disposition": "Unnumbered operative list retained whole as bijlage-1"
+    },
+    {
+      "annex": "2",
+      "expected_child_ids": [
+        "bijlage-2-art-1",
+        "bijlage-2-art-2",
+        "bijlage-2-art-3",
+        "bijlage-2-art-4",
+        "bijlage-2-art-5",
+        "bijlage-2-art-6",
+        "bijlage-2-art-7",
+        "bijlage-2-art-8",
+        "bijlage-2-art-9",
+        "bijlage-2-art-10",
+        "bijlage-2-art-11",
+        "bijlage-2-art-12"
+      ],
+      "evidence_path": "sources/author-9-34-10-16/selected.xml",
+      "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "disposition": "Numbered articles individually retained"
+    },
+    {
+      "annex": "3",
+      "expected_child_ids": [
+        "bijlage-3-art-1",
+        "bijlage-3-art-2"
+      ],
+      "evidence_path": "sources/author-9-34-10-16/selected.xml",
+      "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "disposition": "Numbered articles individually retained"
+    }
+  ],
+  "coverage": {
+    "expected_units": 588,
+    "parsed_units": 588,
+    "missing": [],
+    "extra": [],
+    "duplicates": [],
+    "aanhef_and_wetsluiting": "both present",
+    "evidence": "sources/author-9-34-10-16/coverage-recheck.json"
+  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "Fresh first landing/history requests failed; dated official URL and history query retry succeeded and bodies were validated.",
+    "Selective case research, no independent second content review."
+  ]
+}
