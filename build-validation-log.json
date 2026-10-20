@@ -12,5 +12,25 @@
   },
   "checkpoint_method": "Existing _checkpoint.py renders written substantive commentary and labels output incomplete; shared completion gate unchanged.",
   "scope_review_complete": true,
-  "whole_book_complete": false
+  "whole_book_complete": false,
+  "strict_validator": {
+    "command": [
+      "python3",
+      "/Volumes/LaCie/open-commentary/_tools/validate.py",
+      "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537"
+    ],
+    "exit_code": 1,
+    "result": {
+      "repo": "Komentar-NL-BWBR0005537",
+      "units": 588,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 241508,
+      "errors": [
+        "krátký/chybějící komentář u 415 jednotek: ['art-4:85(0<400)', 'art-4:86(0<400)', 'art-4:87(0<400)', 'art-4:88(0<400)', 'art-4:89(0<400)', 'art-4:90(0<400)', 'art-4:91(0<400)', 'art-4:92(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "scope": "Whole-book validator; only missing commentaries outside the completed review batch prevent passing."
+  }
 }
