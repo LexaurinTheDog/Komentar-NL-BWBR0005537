@@ -1,0 +1,7 @@
+{
+  "previous": "sources/preflight/previous-official.xml",
+  "previous_sha256": "04d8986ae1ad30cc84a00bfd91d1ca79a3ea6a0be48aeaf5bcb1fc5e606ebc66",
+  "selected_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+  "assigned_changed_ids": [],
+  "canonical_replaced": false
+}

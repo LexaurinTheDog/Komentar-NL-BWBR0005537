@@ -300,3 +300,8 @@ Precies twintig toegewezen eenheden zijn toegelicht, inclusief de vervallen plaa
 
 
 Reviewbatch 023 controleerde uitsluitend de twintig artikelen 8:71–8:85 en verduidelijkte vier toelichtingen. Zie [inhoudelijke beoordeling](sources/review-023/review-result.json), [bronpreflight](sources/review-023/preflight-result.json) en [REVIEW](REVIEW.md). De boekstand blijft 460 van 588 geschreven eenheden.
+
+
+## Auteurscheckpoint 8:86–8:113
+
+Voor artikelen 8:86–8:95 en 8:104–8:113 zijn de [officiële versiecontrole](sources/author-8-86-113/preflight-result.json), [HTTP-resultaten en hashes](sources/author-8-86-113/verification.json), [onafhankelijk uit XML afgeleide volledigheid](sources/author-8-86-113/coverage-recheck.json) en [wijzigingsvergelijking](sources/author-8-86-113/change-map.json) vastgelegd. De geselecteerde rechtspraak is volledig gelezen en met het nationale corpus vergeleken; de [casuskaarten](case-cards/author-8-86-113.md) begrenzen het gebruik. De [selectielog](sources/author-8-86-113/case-search-log.json) pretendeert geen uitputtend onderzoek.

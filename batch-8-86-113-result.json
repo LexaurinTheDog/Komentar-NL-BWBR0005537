@@ -1,0 +1,41 @@
+{
+  "complete": true,
+  "kind": "bounded_author",
+  "authored_ids": [
+    "art-8:86",
+    "art-8:87",
+    "art-8:88",
+    "art-8:89",
+    "art-8:90",
+    "art-8:91",
+    "art-8:92",
+    "art-8:93",
+    "art-8:94",
+    "art-8:95",
+    "art-8:104",
+    "art-8:105",
+    "art-8:106",
+    "art-8:107",
+    "art-8:108",
+    "art-8:109",
+    "art-8:110",
+    "art-8:111",
+    "art-8:112",
+    "art-8:113"
+  ],
+  "completed_units": 20,
+  "total_assigned": 20,
+  "written_book_units": 480,
+  "total_book_units": 588,
+  "whole_book_complete": false,
+  "independent_review": false,
+  "source_preflight": "sources/author-8-86-113/preflight-result.json",
+  "validation": "batch-8-86-113-validation.json",
+  "unresolved_blockers": [],
+  "limitations": [
+    "108 eenheden buiten deze auteursopdracht zijn nog ongeschreven.",
+    "Deze twintig toelichtingen wachten op een onafhankelijke tweede beoordeling.",
+    "Selectieve rechtspraak; geen uitputtende controle van latere behandeling.",
+    "Technische tekst- en lengtecontrole bewijst geen juridische kwaliteit."
+  ]
+}

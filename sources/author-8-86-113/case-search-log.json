@@ -1,0 +1,43 @@
+{
+  "queries": [
+    "site.raadvanstate.nl 8:88 causaal 2017",
+    "site.raadvanstate.nl 8:110 incidenteel 2024"
+  ],
+  "selected_full_texts": [
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2021:2023",
+      "accessed_at": "2026-10-20T22:05:05.604764+00:00",
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2021:2023",
+      "content_type": "application/xml",
+      "path": "sources/author-8-86-113/ECLI-NL-RVS-2021-2023.xml",
+      "sha256": "fbcdc72d8f2580481f2fdb80427f54c15bf43580c6c6d488cf1e28454702c055",
+      "bytes": 55804,
+      "xml_root": "open-rechtspraak"
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2020:2242",
+      "accessed_at": "2026-10-20T22:05:05.928749+00:00",
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2020:2242",
+      "content_type": "application/xml",
+      "path": "sources/author-8-86-113/ECLI-NL-RVS-2020-2242.xml",
+      "sha256": "b0e5dd987a59b264d1b41f8b5ae10307f86048d65fb9248817edc2396c02d13e",
+      "bytes": 30209,
+      "xml_root": "open-rechtspraak"
+    }
+  ],
+  "local_corpus": [
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2021-2023.md",
+      "sha256": "ecea1f5f4e2b002e171e1ff180ccf185e5deee607bd2457087a08353a30af1e8",
+      "snapshot": "sources/author-8-86-113/ecli-nl-rvs-2021-2023-local.md"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2020-2242.md",
+      "sha256": "578090987777664c66859f0dd41ced6144edd818d5c54010d9a26282bbb79cde",
+      "snapshot": "sources/author-8-86-113/ecli-nl-rvs-2020-2242-local.md"
+    }
+  ],
+  "selection": "Causation and damage proof; distinction between defence and incidental appeal. No exhaustive survey or negative conclusion about other units."
+}

@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-10-20T21:54:09.065042+00:00",
+  "checked_at": "2026-10-20T22:10:38.422599+00:00",
   "shared_builder": {
     "exit_code": 1,
     "stdout": "",
-    "stderr": "CHYBÍ komentář k 148 jednotkám, např.: ['art-8:71', 'art-8:72', 'art-8:72a', 'art-8:73', 'art-8:73a', 'art-8:74', 'art-8:75', 'art-8:75a', 'art-8:76', 'art-8:77']\n"
+    "stderr": "CHYBÍ komentář k 108 jednotkám, např.: ['art-8:114', 'art-8:115', 'art-8:116', 'art-8:117', 'art-8:118', 'art-8:119', 'art-9:1', 'art-9:2', 'art-9:3', 'art-9:4']\n"
   },
+  "checkpoint_method": "Affected chapters rendered with unchanged shared load_units/load_commentary/quote; only written commentary included. Whole-book completion gate unchanged.",
   "whole_book_complete": false,
-  "bounded_review_complete": true,
-  "checkpoint_method": "Shared builder refuses 148 missing out-of-scope commentaries. Only affected complete chapter assembled with unchanged shared load_units/load_commentary/quote; no substitute prose."
+  "bounded_authoring_complete": true
 }

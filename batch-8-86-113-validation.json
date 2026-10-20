@@ -1,0 +1,14 @@
+{
+  "bounded_author_technical_ok": true,
+  "authored_units": 20,
+  "commented_book_units": 480,
+  "remaining_unwritten": 108,
+  "source_text_agreement": 1.0,
+  "whole_book_complete": false,
+  "independent_review": false,
+  "shared_builder": {
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "CHYBÍ komentář k 108 jednotkám, např.: ['art-8:114', 'art-8:115', 'art-8:116', 'art-8:117', 'art-8:118', 'art-8:119', 'art-9:1', 'art-9:2', 'art-9:3', 'art-9:4']\n"
+  }
+}

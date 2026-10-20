@@ -2745,6 +2745,116 @@
     "bytes": 2056
   },
   {
+    "path": "sources/author-8-86-113/ECLI-NL-RVS-2020-2242.txt",
+    "sha256": "879707a1cbffc7cab2459b5accce9cc0b824ec26321e6e1a8b5a3cce79748fac",
+    "bytes": 23759
+  },
+  {
+    "path": "sources/author-8-86-113/ECLI-NL-RVS-2020-2242.xml",
+    "sha256": "b0e5dd987a59b264d1b41f8b5ae10307f86048d65fb9248817edc2396c02d13e",
+    "bytes": 30209
+  },
+  {
+    "path": "sources/author-8-86-113/ECLI-NL-RVS-2021-2023.txt",
+    "sha256": "06aea95dd13470b45bae8f424712fbe3619707d3d9a0002ad137468d2d88333c",
+    "bytes": 49085
+  },
+  {
+    "path": "sources/author-8-86-113/ECLI-NL-RVS-2021-2023.xml",
+    "sha256": "fbcdc72d8f2580481f2fdb80427f54c15bf43580c6c6d488cf1e28454702c055",
+    "bytes": 55804
+  },
+  {
+    "path": "sources/author-8-86-113/author-content-check.json",
+    "sha256": "e121aff172e3d7c522052ef2be14fcbbe2a6b534a5b15537bb6434eb27ebce7b",
+    "bytes": 1365
+  },
+  {
+    "path": "sources/author-8-86-113/case-search-log.json",
+    "sha256": "c94556fb07f0a8fb0898215d6f16f91a967227fe5606770618d2e40c26227140",
+    "bytes": 1916
+  },
+  {
+    "path": "sources/author-8-86-113/change-map.json",
+    "sha256": "48bc564bd4416498126a708a73d3707d10dc5fb98ad4fd1c6fc57b2e0bea6fdd",
+    "bytes": 299
+  },
+  {
+    "path": "sources/author-8-86-113/check.py",
+    "sha256": "ab70461570cadc7022f8a338bcfe1fb558b27f42c2c28eb3c0f0188c61ffd783",
+    "bytes": 6261
+  },
+  {
+    "path": "sources/author-8-86-113/corpus-comparison.json",
+    "sha256": "b0a9fc75444f98a9602574963dc69fd116e94e8a55365dc0f6c2bf9db90fecd9",
+    "bytes": 459
+  },
+  {
+    "path": "sources/author-8-86-113/coverage-recheck.json",
+    "sha256": "5133954de78be7b53baa590f2ea296f8f0e1db22f7ed60bbd74f830aeaf59274",
+    "bytes": 20812
+  },
+  {
+    "path": "sources/author-8-86-113/current.html",
+    "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+    "bytes": 4204181
+  },
+  {
+    "path": "sources/author-8-86-113/ecli-nl-rvs-2020-2242-local.md",
+    "sha256": "578090987777664c66859f0dd41ced6144edd818d5c54010d9a26282bbb79cde",
+    "bytes": 24357
+  },
+  {
+    "path": "sources/author-8-86-113/ecli-nl-rvs-2021-2023-local.md",
+    "sha256": "ecea1f5f4e2b002e171e1ff180ccf185e5deee607bd2457087a08353a30af1e8",
+    "bytes": 49034
+  },
+  {
+    "path": "sources/author-8-86-113/fetch.py",
+    "sha256": "55a41f8b4590b813d1ec5bbc88e6782e574e896e5a437b7289a82882eeae6f6a",
+    "bytes": 1411
+  },
+  {
+    "path": "sources/author-8-86-113/finish.py",
+    "sha256": "9ec2a101e6c287a9d254e1406e1e650161220b899ac51872c682e882eb99ab84",
+    "bytes": 7082
+  },
+  {
+    "path": "sources/author-8-86-113/history-rows.json",
+    "sha256": "94dfd41b2b4c971dd4749226389aad77cbd10d8c0b543d4115100b296fd09bd3",
+    "bytes": 143907
+  },
+  {
+    "path": "sources/author-8-86-113/history.html",
+    "sha256": "13d5f2c87fa450585b5db8cef3c38a77bd119f3b0551a5a4f2561e34b8d74b88",
+    "bytes": 1755568
+  },
+  {
+    "path": "sources/author-8-86-113/internal-crossrefs.json",
+    "sha256": "7941e2e37d296d5b3f838a1e48b304fa0fadca4c2d4fe12a48d9d30d97b890cb",
+    "bytes": 509
+  },
+  {
+    "path": "sources/author-8-86-113/preflight-result.json",
+    "sha256": "862c9e5293310dc94d1ba9449dbcf537c33f7b14d52da42c3df9571fa64a926a",
+    "bytes": 2577
+  },
+  {
+    "path": "sources/author-8-86-113/preservation-check.json",
+    "sha256": "4dfb09f60bdcf21e433693c67143b8b4030a694a176f8dae3918753813c669f4",
+    "bytes": 500
+  },
+  {
+    "path": "sources/author-8-86-113/selected.xml",
+    "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "bytes": 2622149
+  },
+  {
+    "path": "sources/author-8-86-113/verification.json",
+    "sha256": "c88d79f837cf44e3e2659655cf16882396af5fc7394d676cc6428024f72352fe",
+    "bytes": 2453
+  },
+  {
     "path": "sources/canonical.txt",
     "sha256": "7a3c38fde613177fe078f374a25bd153fec6af8f7ddbfd1f337be95fe59a7cf1",
     "bytes": 377436
@@ -6861,8 +6971,8 @@
   },
   {
     "path": "sources/verification.json",
-    "sha256": "0925e7ee399e81169d202321bdfd4e08ce0b0f7cb1f96056a1552ed5e250f0da",
-    "bytes": 395875
+    "sha256": "65479d6d0b7e7f7fb95007553521072450ff3d49a1d23a7a9087fd020f68c302",
+    "bytes": 398710
   },
   {
     "path": "sources/version-analysis.json",

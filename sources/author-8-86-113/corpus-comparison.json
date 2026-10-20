@@ -1,0 +1,12 @@
+[
+  {
+    "local_raw": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/_raw/rvs/ecli-nl-rvs-2021-2023.xml.gz",
+    "sha256": "c63046620e8075b5b5b64aae055c42db7ae927ab0360f3ed438c8a1c6f3e17d3",
+    "decompressed_identical": true
+  },
+  {
+    "local_raw": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/_raw/rvs/ecli-nl-rvs-2020-2242.xml.gz",
+    "sha256": "158d834e265bcc0438dd53d7071f8a792d99876e75d1dfec4ceebcdc227c7c7b",
+    "decompressed_identical": true
+  }
+]

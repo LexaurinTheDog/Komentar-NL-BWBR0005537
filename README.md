@@ -119,3 +119,8 @@ Precies twintig toegewezen eenheden zijn toegelicht, inclusief de vervallen plaa
 
 
 Reviewbatch 023 controleerde uitsluitend de twintig artikelen 8:71–8:85 en verduidelijkte vier toelichtingen. Zie [inhoudelijke beoordeling](sources/review-023/review-result.json), [bronpreflight](sources/review-023/preflight-result.json) en [REVIEW](REVIEW.md). De boekstand blijft 460 van 588 geschreven eenheden.
+
+
+## Auteurscheckpoint 8:86–8:113
+
+Twintig toelichtingen toegevoegd: artikelen 8:86–8:95 en 8:104–8:113. Er zijn nu 480 van 588 eenheden geschreven; 108 buiten deze batch ontbreken. Geen voltooiing van het gehele boek. De geldende bron van 15 augustus 2026 is opnieuw officieel geverifieerd, met behoud van canonieke tekst en eerdere auteursarbeid. Deze batch wacht op onafhankelijke tweede beoordeling.
