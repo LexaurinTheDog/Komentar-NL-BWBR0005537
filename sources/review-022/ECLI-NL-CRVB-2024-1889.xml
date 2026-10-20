@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CRVB:2024:1889</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T01:21:22</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2024-10-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Centrale_Raad_van_Beroep" scheme="overheid.RechterlijkeMacht">Centrale Raad van Beroep</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2024-08-27</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">22/2575 PW</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht_socialezekerheidsrecht">Bestuursrecht; Socialezekerheidsrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:RBZWB:2022:3641" psi:type="http://psi.rechtspraak.nl/hogerBeroep" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#bekrachtiging/bevestiging">Eerste aanleg: ECLI:NL:RBZWB:2022:3641, Bekrachtiging/bevestiging</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>Abkort 2024/210</rdf:li>
+          <rdf:li>NJB 2024/2276</rdf:li>
+          <rdf:li>USZ 2024/325</rdf:li>
+          <rdf:li>JWWB 2024/204</rdf:li>
+          <rdf:li>JB 2024/202</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CRVB:2024:1889">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CRVB:2024:1889</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2024-10-10T16:01:35</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2024-10-14</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CRVB:2024:1889 Centrale Raad van Beroep , 27-08-2024 / 22/2575 PW</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CRVB:2024:1889:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Schending art. 8:57 lid 1 Awb door de rechtbank. Ten onrechte zitting achterwege gelaten. Toekenning bijzondere bijstand in de vorm van een lening. Toekenning van bijstand naar norm voor gehuwden. Geen duurzaam gescheiden leven. De Raad oordeelt dat de rechtbank ten onrechte een zitting achterwege heeft gelaten.  De gemachtigde van appellante heeft door te reageren op het verzoek van de rechtbank in ieder geval niet ‘passief’ toestemming verleend voor het achterwege laten van een zitting. Gelet op de inhoud van die reactie, heeft hij daarvoor ook actief geen toestemming verleend. Daarom heeft de rechtbank ten onrechte afgezien van het horen van appellante op zitting. In hoger beroep heeft appellante alsnog de gelegenheid gehad om haar standpunten mondeling toe te lichten. Appellante is door de schending van art. 8:57 lid 1 Awb dan ook niet benadeeld. De hoogte van de bijstand is juist vastgesteld. Er is geen sprake van duurzaam gescheiden leven, want appellante wilde met haar echtgenoot samenwonen in Nederland en heeft dat vanaf 2022 ook gedaan. De bijzondere bijstand is terecht in de vorm van een lening verstrekt.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CRVB:2024:1889:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <para />
+    <parablock>
+      <para>22/2575 PW, 22/2577 PW</para>
+      <para>Centrale Raad van Beroep</para>
+      <para>Meervoudige kamer</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Uitspraak op het hoger beroep tegen de uitspraak van de rechtbank Zeeland-West-Brabant van 30 juni 2022, 21/3384 en 21/3449 (aangevallen uitspraak)</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Partijen:</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        [appellante] te [woonplaats] (appellante)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>het college van burgemeester en wethouders van Tilburg (college)</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Datum uitspraak: 27 augustus 2024</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">SAMENVATTING</bridgehead>
+    <para />
+    <parablock>
+      <para>Het gaat in deze zaak om de vraag of het college de hoogte van de bijstand juist heeft vastgesteld en of de bijzondere bijstand terecht in de vorm van een lening is verstrekt. De Raad komt tot het oordeel dat dit het geval is. Wel oordeelt de Raad dat de rechtbank ten onrechte een zitting achterwege heeft gelaten. Appellante is hierdoor niet benadeeld, zodat de Raad de uitspraak van de rechtbank niet vernietigt.</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>PROCESVERLOOP</title>
+    <para />
+    <parablock>
+      <para>Met een besluit van 19 april 2021 heeft het college aan appellante bijzondere bijstand toegekend voor de kosten van woninginrichting in de vorm van een lening. Met een besluit van 23 april 2021 heeft het college appellante (algemene) bijstand toegekend met ingang van 1 maart 2021 naar de norm voor een gehuwde met een niet-rechthebbende partner.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellante heeft tegen deze besluiten bezwaar gemaakt, omdat zij meent dat de bijstand voor de kosten van woninginrichting ‘om niet’ had moeten worden verstrekt en omdat zij bijstand naar de norm voor een alleenstaande wil ontvangen. Met een besluit van 8 juli 2021 (bestreden besluit 1) is het college echter bij de toekenning van bijstand naar de norm voor een gehuwde met niet-rechthebbende partner gebleven en met een besluit van 15 juli 2021 (bestreden besluit 2) is het college ook bij de toekenning van bijzondere bijstand in de vorm van een lening gebleven.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellante heeft tegen de bestreden besluiten beroep ingesteld. De rechtbank heeft in de aangevallen uitspraak het beroep tegen bestreden besluit 2 ongegrond verklaard. De rechtbank heeft het beroep tegen bestreden besluit 1 gegrond verklaard en dat besluit vernietigd, maar de rechtsgevolgen ervan in stand gelaten.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Namens appellante heeft mr. J.L.A.M. van Os, advocaat, hoger beroep ingesteld. Het college heeft een verweerschrift ingediend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Raad heeft de zaak behandeld op een zitting van 29 augustus 2023. Appellante is verschenen, bijgestaan door mr. Van Os. Het college heeft zich laten vertegenwoordigen door mr. J. Jansen.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>OVERWEGINGEN</title>
+    <para />
+  </section>
+  <section>
+    <title>Inleiding</title>
+    <para />
+    <parablock>
+      <para>1. Bij de beoordeling van het hoger beroep zijn de volgende feiten en omstandigheden van belang. </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Appellante is in 2019 gehuwd met X, die in Marokko bij zijn ouders is blijven wonen. Op 1 maart 2021 is appellante naar de gemeente Tilburg verhuisd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Appellante heeft op 8 februari 2021 een aanvraag om bijstand op grond van de Participatiewet (PW) ingediend.</para>
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Op 25 maart 2021 heeft appellante een aanvraag om bijzondere bijstand ingediend voor de kosten van woninginrichting tot een bedrag van € 2.500,-.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para>Bij besluit van 19 april 2021, na bezwaar gehandhaafd bij bestreden besluit 2, heeft het college appellante bijzondere bijstand voor de kosten van woninginrichting toegekend tot een bedrag van € 2.500,- in de vorm van een geldlening. Aan bestreden besluit 2 heeft het college ten grondslag gelegd dat geen sprake is van een noodzakelijke verhuizing en dat er daarom geen recht op bijzondere bijstand bestaat. Gelet op het verbod op reformatio in peius, heeft het college het besluit van 19 april 2021 gehandhaafd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5.</nr>
+      <para>Bij besluit van 23 april 2021, na bezwaar gehandhaafd bij bestreden besluit 1, heeft het college appellante bijstand verleend met ingang van 1 maart 2021 tot een bedrag gelijk aan 50% van de gehuwdennorm. Het college heeft aan de besluitvorming het volgende ten grondslag gelegd. Er is geen sprake van duurzaam gescheiden leven. Er is geen aanleiding om de bijstandsnorm van appellante met toepassing van artikel 18, eerste lid, van de PW te verhogen. De inkomsten van appellante zijn hoger dan de voor haar noodzakelijke kosten.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Uitspraak van de rechtbank </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>2. De rechtbank heeft overwogen dat geen van beide partijen heeft aangegeven prijs te stellen op een behandeling ter zitting, waarna de rechtbank het onderzoek met toepassing van artikel 8:57 van de Algemene wet bestuursrecht (Awb) heeft gesloten. De rechtbank heeft het beroep tegen bestreden besluit 2 ongegrond verklaard en daarmee bestreden besluit 2 in stand gelaten. De rechtbank heeft het beroep tegen bestreden besluit 1 gegrond verklaard, dat besluit vernietigd vanwege een motiveringsgebrek en de rechtsgevolgen van dat besluit in stand gelaten. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Het standpunt van appellante</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>3. Appellante is het met die uitspraak van de rechtbank niet eens, behoudens voor zover het de gegrondverklaring van het beroep tegen bestreden besluit 1 betreft. Wat zij daartegen heeft aangevoerd, wordt hierna besproken. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Het oordeel van de Raad</title>
+    <para />
+    <parablock>
+      <para>4. De Raad beoordeelt of de rechtbank terecht de rechtsgevolgen van het besluit om bijstand toe te kennen naar de norm voor een alleenstaande met niet-rechthebbende partner in stand heeft gelaten. Verder beoordeelt de Raad of de rechtbank terecht het besluit om bijstand voor woninginrichting in de vorm van een lening te verstrekken in plaats van om niet in stand heeft gelaten, en of de rechtbank terecht een zitting achterwege heeft gelaten. Hij doet dat aan de hand van de argumenten die appellante in hoger beroep heeft aangevoerd, de beroepsgronden. De Raad komt tot het oordeel dat het hoger beroep niet slaagt. Hierna legt de Raad uit hoe hij tot dit oordeel komt en welke gevolgen dit oordeel heeft.</para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>De wettelijke regels die voor de beoordeling van het hoger beroep belangrijk zijn, zijn te vinden in de bijlage bij deze uitspraak.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Heeft de rechtbank terecht bepaald dat het onderzoek ter zitting achterwege kon blijven?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Op grond van artikel 8:57, eerste lid, van Awb kan de bestuursrechter bepalen dat het onderzoek ter zitting achterwege blijft indien geen van de partijen, nadat zij zijn gewezen op hun recht ter zitting te worden gehoord, binnen een door hem gestelde redelijke termijn heeft verklaard dat zij gebruik wil maken van dit recht.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>Appellante heeft aangevoerd dat zij ten onrechte niet door de rechtbank op zitting is gehoord. Deze beroepsgrond slaagt. </para>
+      <para />
+      <paragroup>
+        <nr>4.3.1.</nr>
+        <para>Bij brief van 28 maart 2022 heeft de rechtbank partijen voorgesteld om, om geen zittingstijd verloren te laten gaan, een zitting achterwege te laten tenzij een van de partijen aangeeft dat zij mondeling op een zitting wil worden gehoord. Indien een van de partijen op zitting wil worden gehoord, dan moet zij dat binnen vier weken na de datum van verzending van de brief aan de rechtbank laten weten. Als de rechtbank binnen die termijn geen reactie van een van de partijen ontvangt, dan sluit zij het onderzoek en doet zij binnen zes weken uitspraak.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.2.</nr>
+        <para>Bij brief van 21 april 2022 heeft de gemachtigde van appellante gereageerd op de brief van de rechtbank van 28 maart 2022. Hij schrijft daarin:</para>
+        <para />
+        <parablock>
+          <para>“Ik heb al eerder met U gedeeld dat zittingstijd zo goed mogelijk moet worden benut. Ik heb aangegeven dat ik van cliënten probeer zo snel mogelijk duidelijkheid te krijgen of zij naar de zitting willen en dat ook aan U kenbaar te maken. Ik heb dat niet volledig in eigen hand. Wat U nu met deze standaardbrief stelt is op zijn minst merkwaardig te noemen. Het wel of niet bijwonen van een zitting heeft immers in Uw visie geen of nauwelijks invloed op de uitspraak. Het onderzoek is immers afgerond en Uw rechtbank kan binnen 6 weken uitspraak doen. Ik verzoek U om een duidelijke toelichting op deze vaststelling. Ik zal U daarna laten weten of ik een zitting wenselijk acht […]. Ik verneem graag Uw reactie.”</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.3.</nr>
+        <para>Bij brief van 17 mei 2022 heeft de rechtbank aan de gemachtigde van appellante het volgende meegedeeld:</para>
+        <para />
+        <parablock>
+          <para>“De rechtbank stelt vast dat in bovengenoemde zaak geen van partijen heeft aangegeven op zitting te willen worden gehoord. De rechtbank sluit daarom het onderzoek en zal binnen zes weken na de verzenddatum van deze brief uitspraak doen. U krijgt de uitspraak daarna zo spoedig mogelijk toegestuurd. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>In reactie op uw brief van 22 april 2022 merkt de rechtbank op dat zij u niet kan volgen in uw constatering dat het al dan niet ter zitting verschijnen geen invloed zou hebben op de uiteindelijke uitspraak. De rechtbank ziet in beginsel juist graag dat partijen en/of hun gemachtigden ter zitting verschijnen om hun standpunt toe te lichten. De rechtbank wil, zoals reeds aangegeven, enkel geen zittingsruimte (meer) verloren laten gaan in verband met het streven de rechtspraak efficiënter en tijdiger te laten verlopen en heeft daarom gekozen om brieven in het kader van 8:57 Awb te versturen.”</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.4.</nr>
+        <para>In zijn reactie van 18 mei 2022 op de onder 4.3.3 genoemde brief, schrijft de gemachtigde van appellante dat hij vooralsnog niet akkoord gaat met de mededeling van de rechtbank dat hij in deze zaken zonder zitting uitspraak zal doen. Daarna heeft de rechtbank zonder zitting te houden op 30 juni 2022 uitspraak gedaan.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.5.</nr>
+        <para>Voor 12 juni 2017 kon de bestuursrechter bepalen dat het onderzoek ter zitting achterwege zou blijven, indien partijen daarvoor toestemming hadden verleend. Dit betekende dat als een partij niet reageerde op een verzoek om toestemming tot het achterwege laten van een zitting, bijvoorbeeld omdat zij vergeten was om te reageren, de bestuursrechter een zitting moest houden. Bij de Wet Wijziging van het Wetboek van Burgerlijke Rechtsvordering en de Algemene wet bestuursrecht in verband met vereenvoudiging en digitalisering van het procesrecht (Wijzigingswet) is artikel 8:57 van de Awb met ingang van 12 juni 2017 gewijzigd. In de Memorie van Toelichting bij de Wijzigingswet<footnote-ref linkend="_da312136-3569-4753-86dc-c543d2ca5d6a" /> (Memorie van Toelichting) is daarover onder meer het volgende opgemerkt:</para>
+        <para />
+        <parablock>
+          <para>“Deze wijziging strekt ertoe om de bestuursrechter de mogelijkheid te bieden de zogenoemde «antwoordkaartmethode» te hanteren (al dan niet in digitale vorm) indien hij geen gebruik wil maken van de mogelijkheid om de zaak vereenvoudigd af te doen, maar hij niettemin van oordeel is dat een zitting, indien partijen daar geen bezwaar tegen hebben, achterwege kan blijven. De bestuursrechter stelt in dat geval alle partijen in de gelegenheid om binnen een redelijke termijn te verklaren dat zij ter zitting willen worden gehoord. Daarbij worden partijen gewezen op het recht dat zij hebben op een zitting. Indien een partij niet binnen de gestelde (redelijke) termijn reageert wordt zij geacht toestemming te hebben gegeven voor het achterwege laten van de zitting. De zitting wordt gehouden indien een van de partijen heeft verklaard gebruik te willen maken van de zitting. (…) De onderhavige wijziging beoogt te regelen wat het gevolg kan zijn wanneer iemand niet reageert op het verzoek van de rechter om toestemming voor het achterwege laten van het onderzoek ter terechtzitting. Uit jurisprudentie volgt dat het de rechter thans niet is toegestaan om een mededeling te doen aan partijen dat een (nadere) zitting achterwege blijft tenzij partijen uitdrukkelijk aangeven te willen worden gehoord (CRvB 5 december 2000, RSV/ 2001/39). Deze jurisprudentie leidt ertoe dat er ook bij het uitblijven van reacties op het verzoek van de rechter om toestemming voor het achterwege laten van het onderzoek ter zitting, toch een zitting wordt georganiseerd. In de praktijk is gebleken dat partijen deze zittingen in veel gevallen niet bijwonen. Dit is, mede gelet op de kosten die zijn gemoeid met het organiseren van een onderzoek ter zitting, niet efficiënt. De wijziging van de artikelen 8:57 (…) strekt ertoe het gevolg van het niet reageren op een verzoek om toestemming te wijzigen: als partijen niet aangeven te willen worden gehoord, kan de zitting achterwege blijven. Deze wijziging strookt met de opvatting van het Europese Hof voor de Rechten van de Mens dat het mogelijk is dat impliciet afstand wordt gedaan van het recht op een mondelinge behandeling, als maar duidelijk is dat zulks bewust gebeurt.”</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.6.</nr>
+        <para>Uit deze passage uit de Memorie van Toelichting leidt de Raad af dat de wetgever de bestuursrechter de mogelijkheid heeft willen bieden om een zitting achterwege te laten indien hij van oordeel is dat een zitting niet nodig is en partijen daartegen geen bezwaar hebben. In de situatie voor de wetswijziging van 12 juni 2017 dienden partijen ‘actief’ toestemming te verlenen voor het afdoen van de zaak zonder zitting. Sinds deze wetswijziging is het ook mogelijk dat partijen, door niet te reageren, daarvoor ‘passief’ toestemming geven.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.7.</nr>
+        <para>Niet in geschil is dat de gemachtigde van appellante bij brief van 21 april 2022 heeft gereageerd op het verzoek van de rechtbank van 28 maart 2022 waarin staat dat als een van beide partijen op een zitting wil worden gehoord, zij dat binnen vier weken na de datum van de verzending van de brief aan de rechtbank moet te laten weten. Dat verzoek is ook tijdig gedaan. Weliswaar heeft de gemachtigde van appellant in zijn reactie niet uitdrukkelijk verzocht om een zitting, maar uit de brief kan ook niet worden afgeleid dat appellante afstand heeft gedaan van het recht om tijdens een zitting te worden gehoord. De gemachtigde van appellante heeft door te reageren op het verzoek van de rechtbank in ieder geval niet ‘passief’ toestemming verleend voor het achterwege laten van een zitting. Gelet op de inhoud van die reactie, heeft hij daarvoor ook actief geen toestemming verleend. Daarom heeft de rechtbank ten onrechte afgezien van het horen van appellante op zitting. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.8.</nr>
+        <para>In hoger beroep heeft appellante alsnog de gelegenheid gehad om haar standpunten mondeling toe te lichten. Zij is door de schending van artikel 8:57, eerste lid, van de Awb door de rechtbank dan ook niet benadeeld. Daarin is dan ook geen grond gelegen voor vernietiging van de aangevallen uitspraak. Wel heeft dit de hierna onder 5 vermelde gevolgen.</para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Duurzaam gescheiden leven</emphasis>
+          </para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>De hier te beoordelen periode loopt van 1 maart 2021 tot en met 23 april 2021.</para>
+      <para />
+      <paragroup>
+        <nr>4.4.1.</nr>
+        <para>Ingevolge artikel 3, tweede lid, aanhef en onder b, van de PW wordt degene die duurzaam gescheiden leeft van de persoon met wie hij gehuwd is, aangemerkt als ongehuwd. Echtgenoten leven pas duurzaam gescheiden, als beiden of één van hen de echtelijke samenleving wil verbreken, waardoor ieder afzonderlijk zijn eigen leven leidt alsof hij niet met de ander gehuwd is en dit door ten minste één van beiden als blijvend is bedoeld. Dit is vaste rechtspraak.<footnote-ref linkend="_12d3abbe-d1cb-4f73-b609-6a2c0470fd6f" /> Of dit zo is, zal moeten blijken uit concrete feiten en omstandigheden. In het algemeen kan worden aangenomen dat betrokkenen na het sluiten van een huwelijk de bedoeling hebben om – misschien pas op termijn – echtelijk te gaan samenleven. Alleen in uitzonderlijke gevallen leven betrokkenen vanaf de huwelijksdatum duurzaam gescheiden. Dit moet dan ondubbelzinnig blijken uit concrete feiten en omstandigheden.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.4.2.</nr>
+        <para>Appellante heeft aangevoerd dat de uitleg van de Raad van het begrip ‘duurzaam gescheiden leven’ niet juist is. Uit de wet volgt dat enkel beoordeeld moet worden of echtgenoten feitelijk gescheiden leven. Deze beroepsgrond slaagt niet.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.4.3.</nr>
+        <para>De in 4.10 weergegeven uitleg van het begrip ‘duurzaam gescheiden leven’ is ontleend aan de geschiedenis van de totstandkoming van het met artikel 3, tweede lid, aanhef en onder b, van de PW overeenkomende artikel 3 van de Algemene bijstandswet.<footnote-ref linkend="_30d047ac-9c69-4c9e-ba8e-774d54dc2124" /> De Raad ziet geen aanleiding om op de onder 4.4.1 genoemde vaste rechtspraak terug te komen.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.4.4.</nr>
+        <para>Appellante heeft verder aangevoerd dat sprake is van een gewilde verbreking van de samenleving en dat zij en X daarom als duurzaam gescheiden levende echtgenoten moeten worden aangemerkt. Ook deze beroepsgrond slaagt niet. Appellante heeft op 10 februari 2021 verklaard dat zij, als zij voldoende inkomsten heeft, uiteindelijk met X wil samenwonen in Nederland. Dat is in 2022 ook gebeurd. Alleen al hieruit blijkt dat van een gewilde verbreking van de echtelijke samenleving geen sprake is. Het gegeven dat appellante en X in de te beoordelen periode hun hoofdverblijf niet in dezelfde woning hadden, is niet voldoende om aan te nemen dat zij duurzaam gescheiden leefden. Zoals de Raad eerder heeft overwogen kan de echtelijke samenleving ook bestaan zonder dat de betrokkenen samenwonen.<footnote-ref linkend="_cc4b33e7-408a-44a7-9eac-ec475510c7f8" /></para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.4.5.</nr>
+        <para>Uit 4.10 tot en met 4.11 volgt dat het college appellante terecht heeft aangemerkt als niet duurzaam gescheiden levend van X.</para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Heeft het college terecht afgezien van afstemming van de bijstand?</emphasis>
+          </para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <para>Appellante heeft verder aangevoerd dat de bijstand op grond van artikel 18, eerste lid, van de PW afgestemd moet worden op een hoger bedrag. Deze beroepsgrond slaagt niet. </para>
+      <para />
+      <paragroup>
+        <nr>4.5.1.</nr>
+        <para>Het college stemt de bijstand en de daaraan verbonden verplichtingen af op de omstandigheden, de mogelijkheden en de middelen van de belanghebbende. Dat staat in artikel 18, eerste lid, van de PW. Voor een dergelijke individuele afstemming in de vorm van een verlaging of een verhoging van de bijstand is alleen plaats in zeer bijzondere situaties. Dit is vaste rechtspraak.<footnote-ref linkend="_533ccce1-d945-45f3-9a6d-ff8b4513ad1c" /> Het is aan degene die deze afstemming wenst om aannemelijk te maken dat er een zeer bijzondere situatie is, zoals hiervoor bedoeld. Appellante is niet in deze bewijslast geslaagd.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.5.2.</nr>
+        <para>Het college heeft een opstelling gemaakt van de inkomsten en uitgaven van appellante waaruit blijkt dat de inkomsten van appellante hoger zijn dan haar uitgaven. Voor de vaststelling van de uitgaven van appellante heeft het college, zo begrijpt de Raad, in zijn beleid aansluiting willen zoeken bij de zogenaamde Nibud-normen voor levensonderhoud. Appellante heeft terecht opgemerkt dat het college verwijst naar een Nibud-norm voor voeding en dat daarin geen kosten voor kleding zijn verdisconteerd, maar appellante heeft niet aannemelijk gemaakt dat zich een bijzondere situatie voordoet die tot afstemming noopt. Verder is niet gebleken van andere kosten waarmee het college ook rekening had moeten houden. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.5.3.</nr>
+        <para>Uit 4.5.2 volgt dat het college niet gehouden was om de bijstand op grond van artikel 18, eerste lid, van de PW af te stemmen op een hoger bedrag. </para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Heeft het college de bijzondere bijstand terecht in de vorm van een lening verstrekt?</emphasis>
+          </para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.6.</nr>
+      <para>Appellante heeft met betrekking tot de bijzondere bijstand aangevoerd dat sprake is van een noodzakelijke verhuizing zodat deze bijstand niet in de vorm van een lening, maar ‘om niet’ had moeten worden verstrekt. Zij heeft gesteld dat zij in haar vorige woonplaats te maken heeft gehad met bedreigingen en geweld en dat zij daarom genoodzaakt was te verhuizen. Zou er geen urgentie tot verhuizen zijn geweest, dan had zij niet zo gemakkelijk een huurwoning in de gemeente Tilburg verkregen. Deze beroepsgrond slaagt niet. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.7.</nr>
+      <para>Bij de toepassing van artikel 35, eerste lid, van de PW moet eerst worden beoordeeld of de kosten waarvoor bijzondere bijstand wordt gevraagd zich voordoen, vervolgens of die kosten in het individuele geval van de betrokkene noodzakelijk zijn en daarna of die kosten voortvloeien uit bijzondere omstandigheden. Ten slotte moet worden beoordeeld of de kosten kunnen worden voldaan uit de bijstandsnorm, de individuele inkomenstoeslag, individuele studietoeslag, het vermogen en het inkomen voor zover dit meer bedraagt dan de bijstandsnorm. Op dit punt heeft de bijstandverlenende instantie een zekere beoordelingsruimte. Degene die een aanvraag doet om bijzondere bijstand moet aannemelijk maken dat wordt voldaan aan de voorwaarden voor toekenning van die bijstand. Dit is vaste rechtspraak.<footnote-ref linkend="_79a882a8-c8cf-4356-92e5-cd605d539d61" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.8.</nr>
+      <para>Appellante heeft niet aannemelijk gemaakt dat sprake is van een noodzakelijke verhuizing, zodat de uit deze verhuizing voortvloeiende kosten niet als noodzakelijk kunnen worden aangemerkt. Concrete bewijsstukken, waaruit de noodzaak blijkt om op grond van sociale dan wel medische redenen te verhuizen, ontbreken. Ook de stelling dat appellante zonder urgentieverklaring niet zo snel een huurwoning had kunnen verkrijgen, is niet met bewijsstukken onderbouwd. Hierdoor valt niet uit te sluiten dat appellante de woning heeft verkregen op basis van een loting, zoals het college stelt, of op basis van inschrijvingsduur.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.9.</nr>
+      <para>Uit 4.8 volgt dat appellante niet aannemelijk heeft gemaakt dat zij recht op bijzondere bijstand had. Appellante is reeds daarom niet tekortgedaan door de verlening van bijzondere bijstand in de vorm van een geldlening.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Conclusie en gevolgen </title>
+    <para />
+    <paragroup>
+      <nr>4.10.</nr>
+      <para>Het hoger beroep slaagt dus niet. De aangevallen uitspraak wordt, voor zover aangevochten, bevestigd. </para>
+      <para />
+      <parablock>
+        <para>5. De Raad ziet in de schending van artikel 8:57, eerste lid, van de Awb aanleiding om het college te veroordelen tot vergoeding van de kosten die appellante in verband met het hoger beroep heeft moeten maken. De kosten worden vastgesteld op € 1.750,- voor de kosten van het hoger beroep en de zitting in hoger beroep. Ook bestaat aanleiding te bepalen dat de griffier het door appellante in hoger beroep betaalde griffierecht terugbetaalt met toepassing van artikel 8:114, tweede lid, van de Awb, omdat de in 4.3.8 geconstateerde schending losstaat van de rechtmatigheid van de bestreden besluiten. </para>
+      </parablock>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>BESLISSING</title>
+    <para />
+    <parablock>
+      <para>De Centrale Raad van Beroep</para>
+    </parablock>
+    <para />
+    <itemizedlist mark="-">
+      <listitem>
+        <para> bevestigt de aangevallen uitspraak, voor zover aangevochten;</para>
+      </listitem>
+      <listitem>
+        <para> veroordeelt het college in de proceskosten van appellante in hoger beroep tot een bedrag van € 1.750,-;</para>
+      </listitem>
+      <listitem>
+        <para> bepaalt dat de griffier het in hoger beroep betaalde griffierecht van € 136,- aan appellante terugbetaalt.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door O.L.H.W.I. Korte als voorzitter en E.C.G. Okhuizen en J.J. Janssen als leden, in tegenwoordigheid van N. van der Horn als griffier. De beslissing is uitgesproken in het openbaar op 27 augustus 2024</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>					(getekend) O.L.H.W.I. Korte</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>					(getekend) N. van der Horn</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Bijlage: voor deze uitspraak belangrijke wettelijke regels</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline italic">Algemene wet bestuursrecht</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 8:57</para>
+    </parablock>
+    <para>1. De bestuursrechter kan bepalen dat het onderzoek ter zitting achterwege blijft indien geen van de partijen, nadat zij zijn gewezen op hun recht ter zitting te worden gehoord, binnen een door hem gestelde redelijke termijn heeft verklaard dat zij gebruik wil maken van dit recht.</para>
+    <para>(…)</para>
+    <para>3. Als de bestuursrechter bepaalt dat het onderzoek of het nadere onderzoek ter zitting achterwege blijft, sluit hij het onderzoek.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline italic">Participatiewet</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 3, tweede lid</para>
+      <para>In deze wet en de daarop berustende bepalingen wordt:</para>
+    </parablock>
+    <para>a. […]</para>
+    <para>b. als ongehuwd mede aangemerkt degene die duurzaam gescheiden leeft van de persoon met wie hij gehuwd is.</para>
+    <para />
+    <parablock>
+      <para>Artikel 18, eerste lid</para>
+      <para>Het college stemt de bijstand en de daaraan verbonden verplichtingen af op de omstandigheden, mogelijkheden en middelen van de belanghebbende.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 24, aanhef en onder a</para>
+      <para>Voor gehuwden waarvan een echtgenoot geen recht op algemene bijstand heeft is voor de rechthebbende echtgenoot de norm gelijk aan 50% van de norm die voor hem zou gelden als hij gehuwd zou zijn met een rechthebbende echtgenoot van zijn leeftijd, indien:</para>
+    </parablock>
+    <para>a. de rechthebbende echtgenoot 21 jaar of ouder is en geen kostendelende medebewoners heeft</para>
+    <para />
+    <parablock>
+      <para>Artikel 35, eerste lid</para>
+      <para>Onverminderd paragraaf 2.2, heeft de alleenstaande of het gezin recht op bijzondere bijstand voor zover de alleenstaande of het gezin niet beschikt over de middelen om te voorzien in de uit bijzondere omstandigheden voortvloeiende noodzakelijke kosten van het bestaan en deze kosten naar het oordeel van het college niet kunnen worden voldaan uit de bijstandsnorm, de individuele inkomenstoeslag, bedoeld in artikel 36, de studietoeslag, bedoeld in artikel 36b, het vermogen en het inkomen voor zover dit meer bedraagt dan de bijstandsnorm, waarbij artikel 31, tweede lid, en artikel 34, tweede lid, niet van toepassing zijn. Het college bepaalt het begin en de duur van de periode waarover het vermogen en het inkomen in aanmerking wordt genomen.</para>
+    </parablock>
+  </section>
+  <footnote id="_da312136-3569-4753-86dc-c543d2ca5d6a" label="1">
+    <para> Kamerstukken II 2014/15, 34 059, nr. 3, blz. 116 e.v.</para>
+  </footnote>
+  <footnote id="_12d3abbe-d1cb-4f73-b609-6a2c0470fd6f" label="2">
+    <para> Zie bijvoorbeeld de uitspraak van 25 september 2018, ECLI:NL:CRVB:2018:2918.</para>
+  </footnote>
+  <footnote id="_30d047ac-9c69-4c9e-ba8e-774d54dc2124" label="3">
+    <para> Kamerstukken II, 1991/92, 22 545, nr. 3, blz. 106. Vergelijk ook de uitspraak van 17 juli 2007, ECLI:NL:CRVB:2007:BA9885.</para>
+  </footnote>
+  <footnote id="_cc4b33e7-408a-44a7-9eac-ec475510c7f8" label="4">
+    <para> Uitspraak van 9 oktober 2012, ECLI:NL:CRVB:2012:BX9932.</para>
+  </footnote>
+  <footnote id="_533ccce1-d945-45f3-9a6d-ff8b4513ad1c" label="5">
+    <para> Zie bijvoorbeeld de uitspraak van 28 juli 2015, ECLI:NL:CRVB:2015:2492.</para>
+  </footnote>
+  <footnote id="_79a882a8-c8cf-4356-92e5-cd605d539d61" label="6">
+    <para> Zie bijvoorbeeld de uitspraak van 8 augustus 2017, ECLI:NL:CRVB:2017:3059. </para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

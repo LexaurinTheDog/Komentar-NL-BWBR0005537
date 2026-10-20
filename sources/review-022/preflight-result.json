@@ -1,0 +1,83 @@
+{
+  "complete": true,
+  "scope": "Source preflight for exactly twenty reviewed articles 8:55d–8:70; no other commentary reviewed.",
+  "decisive_date": "2026-10-19",
+  "batch_authoring_date": "2026-10-20",
+  "official_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+  "verified_at": "2026-10-20T21:52:45.721779+00:00",
+  "version_evidence": {
+    "effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 15-08-2026 t/m heden.",
+    "latest_effective_on_decisive_date": "2026-08-15",
+    "latest_effective_on_review_date": "2026-08-15",
+    "first_future_change": "2027-01-01",
+    "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "identical_to_canonical": true,
+    "http_results": "sources/review-022/verification.json",
+    "history": "sources/review-022/history-rows.json"
+  },
+  "historical_versions_checked": {
+    "previous": "2026-08-01_0",
+    "previous_xml": "sources/preflight/previous-official.xml",
+    "previous_sha256": "04d8986ae1ad30cc84a00bfd91d1ca79a3ea6a0be48aeaf5bcb1fc5e606ebc66",
+    "selected": "2026-08-15_0",
+    "assigned_changed_ids": [],
+    "historical_versions_concatenated": false,
+    "assigned_repealed_slots": [],
+    "conditional_variants": "Both 8:36c application regimes remain separate in the global independent inventory."
+  },
+  "annexes_checked": [
+    {
+      "annex": "1",
+      "official_path": "/Bijlage1",
+      "expected_child_ids": [],
+      "evidence_path": "sources/review-022/selected.xml",
+      "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "disposition": "Volledige ongenummerde normatieve lijst als bijlage-1 behouden."
+    },
+    {
+      "annex": "2",
+      "official_path": "/Bijlage2",
+      "expected_child_ids": [
+        "bijlage-2-art-1",
+        "bijlage-2-art-2",
+        "bijlage-2-art-3",
+        "bijlage-2-art-4",
+        "bijlage-2-art-5",
+        "bijlage-2-art-6",
+        "bijlage-2-art-7",
+        "bijlage-2-art-8",
+        "bijlage-2-art-9",
+        "bijlage-2-art-10",
+        "bijlage-2-art-11",
+        "bijlage-2-art-12"
+      ],
+      "evidence_path": "sources/review-022/selected.xml",
+      "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "disposition": "Alle genummerde normatieve bijlageartikelen afzonderlijk behouden."
+    },
+    {
+      "annex": "3",
+      "official_path": "/Bijlage3",
+      "expected_child_ids": [
+        "bijlage-3-art-1",
+        "bijlage-3-art-2"
+      ],
+      "evidence_path": "sources/review-022/selected.xml",
+      "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "disposition": "Alle genummerde normatieve bijlageartikelen afzonderlijk behouden."
+    }
+  ],
+  "coverage": {
+    "expected_units": 588,
+    "parsed_units": 588,
+    "missing": [],
+    "duplicates": [],
+    "evidence": "sources/review-022/coverage-recheck.json",
+    "aanhef_and_wetsluiting": "Both present; previous repaired omissions not reintroduced."
+  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "Only assigned commentary units reviewed; global source inventory is not global legal review.",
+    "Direct official downloads succeeded; no extraction service needed."
+  ]
+}

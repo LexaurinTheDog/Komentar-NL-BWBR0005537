@@ -1,0 +1,61 @@
+{
+  "checked_at": "2026-10-20T21:53:12.935471+00:00",
+  "method": "Exact ECLI lookup, freshly downloaded primary full XML, entire judgments read, national raw corpus judgment elements compared. Existing cited cases selectively reviewed; no new case selected.",
+  "queries": [
+    "ECLI:NL:RVS:2025:2337",
+    "ECLI:NL:CRVB:2024:1889",
+    "ECLI:NL:RVS:2023:606"
+  ],
+  "selected": [
+    {
+      "ecli": "ECLI:NL:RVS:2025:2337",
+      "case_card": "case-cards/ECLI-NL-RVS-2025-2337.md",
+      "source": "sources/author-8-55d-70/ECLI-NL-RVS-2025-2337.xml",
+      "supported_ids": [
+        "art-8:55d"
+      ],
+      "full_text_read": true
+    },
+    {
+      "ecli": "ECLI:NL:CRVB:2024:1889",
+      "case_card": "case-cards/ECLI-NL-CRVB-2024-1889.md",
+      "source": "sources/author-8-55d-70/ECLI-NL-CRVB-2024-1889.xml",
+      "supported_ids": [
+        "art-8:57"
+      ],
+      "full_text_read": true
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2023:606",
+      "case_card": "case-cards/ECLI-NL-RVS-2023-606.md",
+      "source": "sources/author-8-55d-70/ECLI-NL-RVS-2023-606.xml",
+      "supported_ids": [
+        "art-8:69a"
+      ],
+      "full_text_read": true
+    }
+  ],
+  "limits": [
+    "No exhaustive later-treatment or case-law coverage.",
+    "Other authorities quoted inside these judgments not independently adopted."
+  ],
+  "no_separate_case_selected_for": [
+    "art-8:55e",
+    "art-8:55f",
+    "art-8:56",
+    "art-8:58",
+    "art-8:59",
+    "art-8:60",
+    "art-8:60a",
+    "art-8:61",
+    "art-8:62",
+    "art-8:63",
+    "art-8:64",
+    "art-8:65",
+    "art-8:66",
+    "art-8:67",
+    "art-8:68",
+    "art-8:69",
+    "art-8:70"
+  ]
+}

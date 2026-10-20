@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T21:50:45.004643+00:00",
+  "updated_at": "2026-10-20T21:54:09.065042+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -15,8 +15,8 @@
     "verified_at": "2026-10-20T13:47:01.778268+00:00",
     "current_recheck_date": "2026-10-20",
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
-    "review_verified_at": "2026-10-20T19:23:57.530789+00:00",
-    "review_evidence": "sources/review-021/verification.json",
+    "review_verified_at": "2026-10-20T21:54:09.065042+00:00",
+    "review_evidence": "sources/review-022/verification.json",
     "author_batch_verified_at": "2026-10-20T21:50:45.004643+00:00",
     "author_batch_evidence": "sources/author-8-55d-70/verification.json"
   },
@@ -809,9 +809,9 @@
   },
   "remaining_limitations": [
     "148 eenheden buiten deze auteursbatch zijn nog ongeschreven.",
-    "Twintig nieuwe toelichtingen8:55d–8:70 wachten op onafhankelijke tweede beoordeling.",
     "Selectieve rechtspraak;geen volledige latere-behandelingscontrole of zelfstandige verificatie van alle aangehaalde andere arresten.",
-    "Lengte- en tekstcontroles bewijzen geen juridische kwaliteit."
+    "Lengte- en tekstcontroles bewijzen geen juridische kwaliteit.",
+    "Reviewbatch 022 controleert uitsluitend twintig artikelen; geen hele-boekvoltooiing."
   ],
   "preflight": {
     "complete": true,
@@ -1346,5 +1346,32 @@
     "art-8:69",
     "art-8:69a",
     "art-8:70"
-  ]
+  ],
+  "last_review_batch": {
+    "ids": [
+      "art-8:55d",
+      "art-8:55e",
+      "art-8:55f",
+      "art-8:56",
+      "art-8:57",
+      "art-8:58",
+      "art-8:59",
+      "art-8:60",
+      "art-8:60a",
+      "art-8:61",
+      "art-8:62",
+      "art-8:63",
+      "art-8:64",
+      "art-8:65",
+      "art-8:66",
+      "art-8:67",
+      "art-8:68",
+      "art-8:69",
+      "art-8:69a",
+      "art-8:70"
+    ],
+    "units_reviewed": 20,
+    "complete": true,
+    "evidence": "sources/review-022/review-result.json"
+  }
 }

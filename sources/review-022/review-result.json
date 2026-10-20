@@ -1,0 +1,186 @@
+{
+  "complete": true,
+  "kind": "bounded_independent_second_pass",
+  "reviewed_at": "2026-10-20T21:54:09.065042+00:00",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "art-8:55d",
+    "art-8:55e",
+    "art-8:55f",
+    "art-8:56",
+    "art-8:57",
+    "art-8:58",
+    "art-8:59",
+    "art-8:60",
+    "art-8:60a",
+    "art-8:61",
+    "art-8:62",
+    "art-8:63",
+    "art-8:64",
+    "art-8:65",
+    "art-8:66",
+    "art-8:67",
+    "art-8:68",
+    "art-8:69",
+    "art-8:69a",
+    "art-8:70"
+  ],
+  "corrected_ids": [
+    "art-8:55d",
+    "art-8:60",
+    "art-8:61",
+    "art-8:66"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "art-8:55d",
+      "checked_against_full_source": true,
+      "disposition": "corrected",
+      "review": "Twee weken vanaf dag na verzending en bekendmaken in plaats van enkel intern beslissen gecontroleerd. Verplichte nadere rechterlijke dwangsom onderscheiden van 4:17/8:55c. Rv 611g verduidelijkt: zes maanden vanaf verbeurte, met wettelijke schorsing. FIFO-arrest 2025:2337 volledig gelezen; historische nareisregeling en uitzonderlijke bedragen niet veralgemeniseerd.",
+      "commentary_chars": 2448
+    },
+    {
+      "id": "art-8:55e",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Alle drie leden gecontroleerd: zes weken voor verzetrechter, gerichte uitsluiting van 8:55(3), spoedig vervolg bij gegrond verzet. Geen automatische schorsing of inhoudelijk gelijk uit verzet afgeleid. Opschortingsvoorbeeld past bij onderscheid hoofdzaak/verzet; behouden.",
+      "commentary_chars": 1838
+    },
+    {
+      "id": "art-8:55f",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Ontstaan beschikking en niet tijdig bekendmaken gescheiden. Toepasselijkheid 4:20a, bekendmaking 4:20c, eigen dwangsom 4:20d en aangepaste toegang 6:12 gelezen. Geen fictieve vergunning voor iedere aanvraag of onbeperkt gebruiksrecht geclaimd; behouden.",
+      "commentary_chars": 2472
+    },
+    {
+      "id": "art-8:56",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Drie weken, plaats en tijdstip en afloop vooronderzoek kloppen. Uitnodiging onderscheiden van persoonlijke oproeping 8:59/8:27; uitzondering versnelde behandeling daadwerkelijk 8:52(3). Verplichte aanwijzingen uit 8:58/8:60 en fictieve aankondiging van deskundige consistent; behouden.",
+      "commentary_chars": 1817
+    },
+    {
+      "id": "art-8:57",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Alle partijen, kennisgeving hoorrecht, redelijke termijn en discretionaire keuze gecontroleerd. CRvB2024:1889 volledig gelezen: tijdige concrete reactie geen afstand, concrete afwezigheid van benadeling in hoger beroep geen algemene reparatievrijbrief. Vier lusgevallen na eerdere zitting en voorbehoud bij d, sluiting onder lid3 correct; behouden.",
+      "commentary_chars": 2147
+    },
+    {
+      "id": "art-8:58",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Tiendagentermijn en uitnodigingsinformatie conform beide leden. Geen absolute uitsluiting van laat bewijs verzonnen; omvang, verklaring voor vertraging en mogelijkheid tot tegenspraak als procesorde-afweging uitgelegd. Geen algemene toestemming voor nieuwe beroepsgronden; behouden.",
+      "commentary_chars": 2015
+    },
+    {
+      "id": "art-8:59",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Keuze tussen persoonlijk verschijnen en persoonlijk/of gemachtigde gelezen; 8:27/8:31 verbinden plicht en mogelijke gevolgtrekkingen. Geen automatische nederlaag door afwezigheid en geen verwarring partij/getuige. Fictieve ziekenhuisopname is verzoek om aanpassing, geen zelf verleende ontheffing; behouden.",
+      "commentary_chars": 1789
+    },
+    {
+      "id": "art-8:60",
+      "checked_against_full_source": true,
+      "disposition": "corrected",
+      "review": "Alle vier leden en Rv172/178 gelezen. Aanvaarding deskundige/tolk en eigen partijoproeping onderscheiden. Medebrenging verduidelijkt: bij exploot opgeroepen afwezige getuige en rechterlijk bevel; kostenregeling omvat ook weigering eed/verklaring. Geen automatische sanctie. Beide ontvangers en uiterste aankondigingstermijn kloppen.",
+      "commentary_chars": 2493
+    },
+    {
+      "id": "art-8:60a",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Beide leden gelezen; schriftelijke tien dagen, tijdige aankondiging mondeling en beperkte verwijzing naar 8:45a(3). Controle van 8:45a bevestigt toestemming in lid2, stukkenmededeling in lid3 en vierweekse reactie in lid4. Commissie/ACM geen partij en geen bindend advies; behouden.",
+      "commentary_chars": 1917
+    },
+    {
+      "id": "art-8:61",
+      "checked_against_full_source": true,
+      "disposition": "corrected",
+      "review": "Alle tien leden gelezen. Ontstaansgronden proces-verbaal, inhoud, ondertekening, pleitnotities en procedure voor gehele verklaring correct. Toegevoegd dat 8:36e(d) zakelijke samenvattingsopname proces-verbaal of aantekening kan vervangen na rechterlijke keuze. Geen opname van gehele zitting of privé-opnamerecht verondersteld; lid9 en beperkte verstrekking lid10 afzonderlijk gehouden.",
+      "commentary_chars": 2619
+    },
+    {
+      "id": "art-8:62",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Openbare zitting als hoofdregel en vier limitatief opgesomde uitzonderingsgronden gelezen. Gehele/gedeeltelijke sluiting, noodzakelijkheid bij minderjarigen/privacy en ernstige schade rechtspleging voldoende onderscheiden. Geen gelijkstelling gesloten deuren aan beperkte stukkenkennis of besloten uitspraak; behouden.",
+      "commentary_chars": 1759
+    },
+    {
+      "id": "art-8:63",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Rv179 volledig gelezen: lid2 en uitsluitend eerste zin lid3 voor getuigen/deskundigen, lid1 alleen getuigen. Partijvragen, beletten antwoord, confrontatie en rechtervragen verklaard. Nutcriterium lid2 geen willekeur; zelfoproeping na afwezigheid in lid3 brengt schorsing mee; behouden.",
+      "commentary_chars": 2184
+    },
+    {
+      "id": "art-8:64",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Alle vijf leden gelezen. Hervatten vooronderzoek, spoedige bepaling/mededeling nieuwe datum, hervatting bestaande stand en opnieuw aanvangen afzonderlijk. Recht op nadere zitting en verwijzing 8:57(2)(3) juist, voorbeeld maakt sluiting niet automatisch; behouden.",
+      "commentary_chars": 1769
+    },
+    {
+      "id": "art-8:65",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Drie leden gelezen. Voltooid onderzoek, daadwerkelijk laatste woord en mededeling uitspraakmoment onderscheiden. Nog ontbrekend onderzoek leidt tot schorsing of heropening, niet ongezien aanvullen; praktisch hoofdstukchecklist aansluitend en specifiek; behouden.",
+      "commentary_chars": 2028
+    },
+    {
+      "id": "art-8:66",
+      "checked_against_full_source": true,
+      "disposition": "corrected",
+      "review": "Zes weken na werkelijke sluiting, schriftelijke versus mondelinge uitspraak, bijzondere verlenging maximaal zes weken en mededeling gecontroleerd. Geformuleerde redengevingssuggestie aangescherpt: lid3 verplicht tot mededeling, schrijft zelf geen uiteenzetting van redenen voor. Voorwaarde lid2 blijft bestaan; overschrijding levert geen automatisch inhoudelijk gelijk.",
+      "commentary_chars": 1990
+    },
+    {
+      "id": "art-8:67",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Alle zes leden gelezen: onmiddellijk mondeling of maximaal week verdagen met aanzegging, beslissing plus gronden, proces-verbaal/handtekeningen en openbare uitspraak met rechtsmiddelvoorlichting. Toezending/terbeschikkingstelling en termijnvangst niet gelijkgesteld aan horen van dictum; behouden.",
+      "commentary_chars": 1892
+    },
+    {
+      "id": "art-8:68",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Beide leden gelezen: rechterlijk oordeel onvolledig onderzoek, bepalen voortzettingswijze en spoedige griffiersmededeling. Geen herziening van reeds gedane einduitspraak; nieuwe feitelijke informatie vergt tegenspraak. Ingezonden stuk heropent onderzoek niet vanzelf; behouden.",
+      "commentary_chars": 1776
+    },
+    {
+      "id": "art-8:69",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Drie leden gelezen: dossiergrondslag en gedingomvang, verplichte aanvulling rechtsgronden tegenover bevoegdheid feitenaanvulling. Verkeerd wetsnummer niet fataal, nieuwe feitelijke klacht of ander besluit niet ongemerkt toegevoegd. Voorbeeld afzonderlijk terugvorderingsbesluit blijft buiten geschil; behouden.",
+      "commentary_chars": 2051
+    },
+    {
+      "id": "art-8:69a",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Kennelijk beschermingsbereik beperkt vernietiging, geen ontvankelijkheidsvoorwaarde. Verschil normschending, passeren gebrek en relativiteit correct. ABRvS2023:606 volledig gelezen inclusief 7.11/7.12 en dictum: beperkte eigen inspraakrechten, oud bestemmingsplan, tussenuitspraak en geen algehele afschaffing relativiteit; behouden.",
+      "commentary_chars": 2083
+    },
+    {
+      "id": "art-8:70",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Alle vier uitkomsten gecontroleerd; bevoegdheid/ontvankelijkheid versus inhoud, relativiteit versus volledige rechtmatigheid en gegrondheid versus voorzieningen 8:72 juist onderscheiden. Tussenuitspraak geen eindgegrondverklaring; mogelijke onderscheiden deeluitkomsten en dictum praktisch uitgelegd; behouden.",
+      "commentary_chars": 2278
+    }
+  ],
+  "limitations": [
+    "Only these twenty commentary units reviewed; 148 other book units remain unwritten.",
+    "Selective review of three cited judgments, no exhaustive case-law or later-treatment investigation.",
+    "Source inventory checks cover the whole statutory structure but are not a legal review of unassigned commentary.",
+    "No external professional approval; technical length checks do not prove legal quality."
+  ],
+  "whole_book_complete": false,
+  "source_preflight": "sources/review-022/preflight-result.json",
+  "case_evidence": "sources/review-022/case-comparison.json"
+}

@@ -11,3 +11,8 @@ Overwegingen7.7–7.9 nuanceren de eerdere koppeling van procedurele en materië
 In7.11 stelt de Afdeling vast dat de Aerius-berekening ter inzage had moeten liggen;7.12 bespreekt waarom herstel van dit inspraakgebrek de uitkomst hier niet kon veranderen en anderen niet aannemelijk waren benadeeld. De tussenuitspraak rondt het beroep niet af: de raad krijgt in8 en het dictum26 weken om het gebrek rond geluid- en lichthinder te herstellen. Proceskosten en griffierecht worden tot de einduitspraak aangehouden. De uitspraak is dus geen eindvernietiging wegens ontbrekende inspraakstukken.
 
 De kaart gebruikt de procesrechtelijke nuancering, niet de oude materiële bestemmingsplan- en natuurwetgeving als huidige rechtsbron. Het VIN-arrest en de oudere overzichtsuitspraak worden in het arrest besproken, maar zijn voor deze batch niet zelfstandig volledig geverifieerd. De ongerijmde jaaraanduidingen in de gepubliceerde procesverlooptekst worden niet gecorrigeerd of als dragende rechtsgrond gebruikt. Geen uitputtende latere-behandelingscontrole.
+
+
+## Tweede beoordeling — 20 oktober 2026, reviewbatch 022
+
+De volledige uitspraak, dragende overwegingen en het dictum zijn opnieuw gelezen. Het [nieuwe officiële afschrift](../sources/review-022/ECLI-NL-RVS-2023-606.xml) bevat dezelfde rechterlijke tekst als het auteursafschrift en het nationale corpus. Zie [HTTP en hashes](../sources/review-022/verification.json) en de [corpusvergelijking](../sources/review-022/case-comparison.json). De hierboven beschreven inhoudelijke en historische grenzen blijven gelden. Deze beoordeling omvat geen uitputtend onderzoek naar latere behandeling en geen externe professionele goedkeuring.

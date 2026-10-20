@@ -1,0 +1,30 @@
+{
+  "bounded_review_complete": true,
+  "reviewed_ids": [
+    "art-8:55d",
+    "art-8:55e",
+    "art-8:55f",
+    "art-8:56",
+    "art-8:57",
+    "art-8:58",
+    "art-8:59",
+    "art-8:60",
+    "art-8:60a",
+    "art-8:61",
+    "art-8:62",
+    "art-8:63",
+    "art-8:64",
+    "art-8:65",
+    "art-8:66",
+    "art-8:67",
+    "art-8:68",
+    "art-8:69",
+    "art-8:69a",
+    "art-8:70"
+  ],
+  "units_reviewed": 20,
+  "corrected_units": 4,
+  "retained_units": 16,
+  "whole_book_complete": false,
+  "source_text_agreement": 1.0
+}
