@@ -1,0 +1,89 @@
+{
+  "searched_at": "2026-10-20T14:56:33.295506+00:00",
+  "scope": "Selective official primary and local national judicial corpus research for exactly twenty assigned articles.",
+  "queries": [
+    "site.raadvanstate.nl \"4:51\" \"redelijke termijn\" subsidie",
+    "site.raadvanstate.nl \"4:46\" \"evenredig\" subsidie 2025",
+    "site.raadvanstate.nl \"4:41\" vergoeding vermogensvorming",
+    "site.raadvanstate.nl/uitspraken/ \"4:46\" \"evenredigheid\" \"2025\"",
+    "site.raadvanstate.nl/uitspraken/ \"4:39\" \"verplichtingen\" \"subsidie\"",
+    "site.raadvanstate.nl/uitspraken/ \"4:49\" \"redelijkerwijs\" \"2026\"",
+    "\"4:37\" \"bestuursorgaan gevoerde\" accountant verplichting",
+    "site.raadvanstate.nl \"4:33\" \"voorwaarde\"",
+    "site.raadvanstate.nl \"4:34\" \"vier weken\""
+  ],
+  "discovery_urls": [
+    "https://www.raadvanstate.nl/uitspraken/@124877/202001123-1-a2/",
+    "https://www.raadvanstate.nl/uitspraken/@153178/202304993-1-a2/",
+    "https://www.raadvanstate.nl/uitspraken/@103787/201505606-1-a2/",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:6300"
+  ],
+  "local_search": "sources/review-007/local-search-log.json",
+  "local_comparison": "sources/review-007/local-official-case-comparison.json",
+  "fully_read": [
+    {
+      "ecli": "ECLI:NL:RVS:2016:1177",
+      "snapshot": "sources/review-007/case-2016-1177.xml",
+      "supported_units": [
+        "art-4:38",
+        "art-4:39",
+        "art-4:46"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2021:670",
+      "snapshot": "sources/review-007/case-2021-670.xml",
+      "supported_units": [
+        "art-4:41"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2025:4125",
+      "snapshot": "sources/review-007/case-2025-4125.xml",
+      "supported_units": [
+        "art-4:51"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2025:6300",
+      "snapshot": "sources/review-007/case-2025-6300.xml",
+      "supported_units": [
+        "art-4:46"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2026:3653",
+      "snapshot": "sources/review-007/case-2026-3653.xml",
+      "supported_units": [
+        "art-4:49"
+      ]
+    }
+  ],
+  "no_separate_verified_case_adopted_for": [
+    "art-4:32",
+    "art-4:33",
+    "art-4:34",
+    "art-4:35",
+    "art-4:36",
+    "art-4:37",
+    "art-4:40",
+    "art-4:42",
+    "art-4:43",
+    "art-4:44",
+    "art-4:45",
+    "art-4:47",
+    "art-4:48",
+    "art-4:50"
+  ],
+  "excluded": [
+    "Third-party commercial commentary and editorial case summaries not adopted as authority.",
+    "Other judgments mentioned in the read decisions were not independently read and are not presented as independent authorities.",
+    "Discovered 2009:BI7269 and 2017:1774 were not adopted or represented as fully read."
+  ],
+  "limitations": [
+    "Selective, not exhaustive research or subsequent-treatment survey.",
+    "Firecrawl status: zero credits; direct official downloads, web search and local full-text corpus used.",
+    "Direct Raad van State HTML fetch received HTTP 403; complete official Rechtspraak XML succeeded for all five cases.",
+    "Historical local rules, SOIT and ESF law in case snapshots are context, not represented as current standalone law."
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "complete": true,
+  "task": "bounded_independent_second_pass",
+  "scope": "Exactly assigned twenty units; not whole-book completion.",
+  "reviewed_at": "2026-10-20T14:48:26.559447+00:00",
+  "decisive_date": "2026-10-19",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "art-4:18",
+    "art-4:19",
+    "art-4:20",
+    "art-4:20a",
+    "art-4:20b",
+    "art-4:20c",
+    "art-4:20d",
+    "art-4:20e",
+    "art-4:20f",
+    "art-4:21",
+    "art-4:22",
+    "art-4:23",
+    "art-4:24",
+    "art-4:25",
+    "art-4:26",
+    "art-4:27",
+    "art-4:28",
+    "art-4:29",
+    "art-4:30",
+    "art-4:31"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "unit_id": "art-4:18",
+      "status": "corrected",
+      "review": "Wettelijke tweewekentermijn, laatste dwangsomdag, afzonderlijk besluitkarakter en controleerbare berekening gelezen. Betaling en rente onderscheiden van vaststelling met 4:87/4:100 en volledig gelezen 2026:4448. Bronafwijkingen in datums en dagentelling niet als rekenvoorbeeld overgenomen.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:19",
+      "status": "corrected",
+      "review": "Alle vier leden gecontroleerd: betwisting, bezwaar/beroep/hoger beroep, verwijzing, afschrift en voorlopige voorziening. Hoofdprocedurevoorwaarde en afzonderlijke gewone route verduidelijkt. Eigen rechterlijke toepassing in 2026:4448 gelezen; wettelijke vertragingdwangsom van handhavingslast onderscheiden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:20",
+      "status": "retained_after_review",
+      "review": "Vijfjaarsbevoegdheidsgrens vanaf dag na vaststellingsbeschikking, onverschuldigde betaling, discretionaire formulering en dubbelbetalingsvoorbeeld gecontroleerd. Geen algemene terugvorderingsgrond of aanvang bij uitbetaling afgeleid; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:20a",
+      "status": "corrected",
+      "review": "Beide leden en 3:10 lid 4 gecontroleerd. Bijzondere toepasselijkverklaring en uitsluiting gewone dwangsom behouden. Gedeeltelijke toepasselijkverklaring en dwingende procedurekeuze met 2026:4455 toegelicht; oud Wabo-geval niet naar nieuwe Omgevingswetaanvragen veralgemeniseerd.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:20b",
+      "status": "corrected",
+      "review": "Ontstaan, besluitkarakter en afzonderlijke derde dag gelezen. Onaantastbaarheid daarvan onderscheiden, juiste aanvraagomvang, opschorting en standaardvoorschriften getoetst. 2026:4455 beperkt tot ontstaan/bekendmaking bouwtoestemming; bijzondere uitsluiting van lid 3 zichtbaar, andere vergunningen niet als verkregen behandeld.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:20c",
+      "status": "corrected",
+      "review": "Twee weken vanaf ontstaan en verplichte vermelding bij bekendmaking én mededeling gecontroleerd. Beroep niet tijdig bekendmaken volgens 8:55f/6:12 toegevoegd en met 2026:4455 begrensd: latere besluiten op bezwaar tegen vergunning niet automatisch deel van bekendmakingsgeding.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:20d",
+      "status": "corrected",
+      "review": "Alle drie leden gelezen, opvolgende tweeweekse perioden en toepasselijke verwijzing naar 4:17 lid 5 onder a en b gecontroleerd. Huidige dagstaffel, maximum 42 dagen en € 1.442 uitgewerkt. Afwijkende oudere ledenverwijzing in uitspraakbijlage niet in actuele wetstekst geïmporteerd.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:20e",
+      "status": "retained_after_review",
+      "review": "Steeds voorgeschreven voorwaarden uit wettelijk voorschrift of beleidsregel, automatische inhoud, afbakening losse praktijk en latere correctie volgens 4:20f gecontroleerd. Fictieve meldplicht passend en geen onbeperkte nieuwe bevoegdheid afgeleid; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:20f",
+      "status": "retained_after_review",
+      "review": "Alle leden gelezen: ernstige gevolgen algemeen belang, noodzakelijkheid, zes weken vanaf bekendmaking en volledige wettelijke schadeplicht op deze grond. Voorbeeld benoemt concreet risico; andere intrekkingsgronden vereisen eigen basis. Titelchecklist passend; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:21",
+      "status": "corrected",
+      "review": "Alle vier leden en elementen subsidiedefinitie gelezen. Lid-2-uitzonderingen voor belastingen, premies en bijdragen nu concreet vermeld; lid 3 regeling uitsluitend voor publiekrechtelijke rechtspersonen en lid 4 bekostiging behouden. Opdrachtgrens getoetst aan 2025:3399 zonder algemene regel uit ontbreken document af te leiden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:22",
+      "status": "retained_after_review",
+      "review": "Bedrag, tijdvak en bepaald wettelijk voorschrift gecontroleerd. Individueel maximum en begrotingspost van plafond onderscheiden; fictieve bedragen niet als wetstekst gepresenteerd. Verwijzingen 4:25–4:27 juist; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:23",
+      "status": "corrected",
+      "review": "Alle leden/letters gelezen. Vier jaar zelfstandige AMvB, overbrugging met tijdig wetsvoorstel, Europese programma-instellingen, benoemde begrotingsontvanger/maximumbedrag en incidentele vier jaar afzonderlijk uitgewerkt. Verslagplicht beperkt tot a/d. Begrotingssubsidie en mededinging met 2025:3399 toegevoegd; acht weken als rechterlijke bijzondere route, niet wettelijke algemene termijn.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:24",
+      "status": "retained_after_review",
+      "review": "Vijfjaarlijkse gepubliceerde evaluatie voor wettelijk geregelde subsidie en wettelijke afwijkingsmogelijkheid gelezen. Doeltreffendheid/effecten gescheiden van administratie en vaststelling; verwijzingen 4:42/4:50/4:51 gecontroleerd. Geen automatische beëindiging bij negatief resultaat; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:25",
+      "status": "retained_after_review",
+      "review": "Alle drie leden: wettelijke grondslag, verplichte weigering voor zover plafondoverschrijding en temporele beperking bij late besluitvorming/bezwaar/beroep gecontroleerd. Geen ongeclausuleerde aanspraak of nieuw onbeperkt budget afgeleid. Voorbeeld en verdelingsverband passend; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:26",
+      "status": "corrected",
+      "review": "Beide leden en vooraf kenbare wettelijke methode gecontroleerd. 2018:2310 volledig gelezen en uitzonderlijke herstel-loting toegevoegd: aantoonbare systeemstoring, ontbrekende eerlijke rangorde en rechtsgrond met terugwerkende kracht. Geen vrije wijzigingsbevoegdheid. Praktische fictieve dossiercontrole toegevoegd.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:27",
+      "status": "retained_after_review",
+      "review": "Bekendmaking voor tijdvak, latere eerste grens/verlaging en bescherming voordien ingediende aanvragen gelezen. Interne vaststelling en bekendmaking onderscheiden; 4:28 als bijzondere cumulatieve uitzondering behouden. Geen automatische toekenning uit plafondbescherming; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:28",
+      "status": "retained_after_review",
+      "review": "Alle drie cumulatieve voorwaarden gelezen: wettelijk vroeg aanvraagmoment, verlaging door begrotingsvaststelling/goedkeuring en vooraf gepubliceerde waarschuwing met gevolgen. Latere losse waarschuwing niet als automatisch herstel behandeld. Afbakening 4:34 begrotingsvoorwaarde correct; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:29",
+      "status": "corrected",
+      "review": "Aanvraag vóór afloop onderscheiden van tijdstip van verleningsbesluit; orgaan kan ook later op tijdige aanvraag verlenen. Mogelijkheid wettelijke afwijking, facultatief tweefasenmodel en verwijzingen 4:42/4:43 gecontroleerd. Verlening, vaststelling, betaling en voorschot blijven gescheiden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:30",
+      "status": "retained_after_review",
+      "review": "Beide leden gelezen: omschrijving activiteiten in beschikking en alleen aangekondigde nadere uitwerking. Uitwerking van wezenlijke vervanging onderscheiden, vergelijking 4:40 gecontroleerd. Bijeenkomstenvoorbeeld begrenst latere verwachtingen bij vaststelling; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:31",
+      "status": "corrected",
+      "review": "Bedrag of bepaalbare formule en bij ontbreken bedrag in beginsel individueel maximum gelezen. Niet gelijk aan 4:22 plafond. Overeenkomstige vaststelling als 4:46-uitgangspunt toegevoegd: maximum geen vrije budgetheroverweging, lager bedrag vergt toepasselijke grond of reeds verleende formule.",
+      "resolved": true
+    }
+  ],
+  "limitations": [
+    "Only these twenty assigned units underwent this substantive second pass; whole-book completion is not claimed.",
+    "415 units still lack commentary; the strict whole-book validator and shared final builder remain unsatisfied for that reason.",
+    "Selective judicial research; no exhaustive later-treatment, lower-regulation or temporary-exception survey.",
+    "The four case cards preserve source anomalies, older judicial-annex numbering and transitional Wabo context; these do not supply current statutory wording.",
+    "Length, link and equality checks are technical evidence and do not certify legal quality or external professional approval."
+  ],
+  "changed_ids": [
+    "art-4:18",
+    "art-4:19",
+    "art-4:20a",
+    "art-4:20b",
+    "art-4:20c",
+    "art-4:20d",
+    "art-4:21",
+    "art-4:23",
+    "art-4:26",
+    "art-4:29",
+    "art-4:31"
+  ],
+  "unchanged_ids": [
+    "art-4:20",
+    "art-4:20e",
+    "art-4:20f",
+    "art-4:22",
+    "art-4:24",
+    "art-4:25",
+    "art-4:27",
+    "art-4:28",
+    "art-4:30"
+  ],
+  "source_preflight": "preflight-result.json",
+  "technical_support": "review-technical.json",
+  "case_law_evidence": "sources/review-006/case-search-log.json",
+  "every_assigned_unit_read_against_source": true,
+  "outside_scope_commentaries_preserved": true,
+  "whole_book_complete": false
+}

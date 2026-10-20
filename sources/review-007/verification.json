@@ -1,0 +1,36 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T14:50:59.164956+00:00",
+    "path": "sources/review-007/current.html",
+    "bytes": 4204181,
+    "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T14:51:01.056596+00:00",
+    "path": "sources/review-007/history.html",
+    "bytes": 1741190,
+    "sha256": "82343f28c0b3230de6c573b5f4f20c3f24157f3d402bb16dd2c8365bab4907e3",
+    "accepted_format": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T14:50:59.808184+00:00",
+    "path": "sources/review-007/selected.xml",
+    "bytes": 2622149,
+    "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "xml_root": "toestand",
+    "accepted_format": true
+  }
+]

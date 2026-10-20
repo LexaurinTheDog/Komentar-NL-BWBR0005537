@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2016:1177</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-07-08T12:36:22</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2016-05-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2016-05-04</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">201505606/1/A2</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Den Haag</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:RBDHA:2015:7249" psi:type="http://psi.rechtspraak.nl/hogerBeroep" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#meerdere afhandelingswijzen">Eerste aanleg: ECLI:NL:RBDHA:2015:7249, Meerdere afhandelingswijzen</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537">Algemene wet bestuursrecht</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=4:38">Algemene wet bestuursrecht 4:38</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=4:39">Algemene wet bestuursrecht 4:39</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0019562">Wet openbaarmaking uit publieke middelen gefinancierde topinkomens</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>ABkort 2016/177</rdf:li>
+          <rdf:li>NJB 2016/1136</rdf:li>
+          <rdf:li>AB 2016/285 met annotatie van W. den Ouden</rdf:li>
+          <rdf:li>Gst. 2016/125 met annotatie van D. Schuurman, H.F.T. Pennarts</rdf:li>
+          <rdf:li>JB 2016/120</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2016:1177">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2016:1177</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2016-05-04T11:11:12</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2016-05-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2016:1177 Raad van State , 04-05-2016 / 201505606/1/A2</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2016:1177:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluit van 13 december 2013 heeft het college de subsidie aan Brijder vastgesteld op een bedrag van € 2.514.344,00 en € 130.831,00 aan teveel betaalde voorschotten teruggevorderd.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2016:1177:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>Bij deze uitspraak is een persbericht uitgebracht.</para>
+    <para />
+    <para>201505606/1/A2.</para>
+    <para>Datum uitspraak: 4 mei 2016</para>
+    <para />
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para />
+    <para>Uitspraak op de hoger beroepen van:</para>
+    <para />
+    <para>1. het college van burgemeester en wethouders van Den Haag,</para>
+    <para>2. de besloten vennootschappen met beperkte aansprakelijkheid Brijder Verslavingszorg B.V. (hierna: Brijder) en Parnassia Groep B.V. (hierna: Parnassia), beide gevestigd te Den Haag,</para>
+    <para>appellanten,</para>
+    <para />
+    <para>tegen de uitspraak van de rechtbank Den Haag van 25 juni 2015 in zaak nr. 14/8254 in het geding tussen:</para>
+    <para />
+    <para>Brijder en Parnassia</para>
+    <para />
+    <para>en</para>
+    <para />
+    <para>het college.</para>
+    <para />
+    <para>Procesverloop</para>
+    <para />
+    <para>Bij besluit van 13 december 2013 heeft het college de subsidie aan Brijder vastgesteld op een bedrag van € 2.514.344,00 en € 130.831,00 aan teveel betaalde voorschotten teruggevorderd.</para>
+    <para />
+    <para>Bij besluit van 8 juli 2014 heeft het college het door Brijder en Parnassia daartegen gemaakte bezwaar ongegrond verklaard.</para>
+    <para />
+    <para>Bij besluit van 18 juli 2014 heeft het college het besluit van 8 juli 2014 ingetrokken, het door Brijder en Parnassia gemaakte bezwaar gegrond verklaard, het besluit van 13 december 2013 voor zover dit betrekking heeft op de berekening van de korting herroepen, de subsidie vastgesteld op een bedrag van € 2.540.737,00 en € 104.471,00 aan teveel betaalde voorschotten teruggevorderd.</para>
+    <para />
+    <para>Bij uitspraak van 25 juni 2015 heeft de rechtbank het door Brijder en Parnassia daartegen ingestelde beroep gegrond verklaard, het besluit van 18 juli 2014 vernietigd, het besluit van 13 december 2013 geheel herroepen en, onder vaststelling van de subsidie overeenkomstig de subsidieverlening, bepaald dat de uitspraak in de plaats treedt van het vernietigde besluit. Deze uitspraak is aangehecht.</para>
+    <para />
+    <para>Tegen deze uitspraak heeft het college hoger beroep ingesteld.</para>
+    <para />
+    <para>Brijder en Parnassia hebben een verweerschrift ingediend en incidenteel hoger beroep ingesteld.</para>
+    <para />
+    <para>Het college heeft een zienswijze ingediend naar aanleiding van het incidenteel hoger beroep.</para>
+    <para />
+    <para>Het college heeft een nader stuk ingediend.</para>
+    <para />
+    <para>De Afdeling heeft de zaak ter zitting behandeld op 3 maart 2016, waar het college, vertegenwoordigd door mr. O.J.D.M.L. Jansen, werkzaam als advocaat in dienst van de gemeente Den Haag, en Brijder en Parnassia, vertegenwoordigd door mr. K.D. Meersma, advocaat te Amsterdam, en [bestuurder van Parnassia], zijn verschenen.</para>
+    <para />
+    <para>Overwegingen</para>
+    <para />
+    <para>Aanleiding</para>
+    <para />
+    <para>1. Het college heeft bij besluit van 21 december 2011 voor de periode 1 januari tot en met 31 december 2012 aan Brijder op grond van de Haagse Kaderverordening Subsidieverstrekking (hierna: HKS) en het Uitvoeringsvoorschrift subsidies instellingen en natuurlijke personen voor de sectoren onderwijs, cultuur, welzijn en sport bij de HKS (hierna: Uitvoeringsvoorschrift) een productsubsidie verleend voor een bedrag van € 2.731.562,00. De subsidie is verleend op grond van een twaalftal door Brijder ingediende aanvragen ten behoeve van projecten in het kader van ‘Den Haag onder Dak II, Voltooien, bestendigen en verdiepen’.</para>
+    <para />
+    <para>Bij brief van 21 oktober 2013 heeft het college aan Parnassia het voornemen kenbaar gemaakt om de aan haar verstrekte subsidie voor het jaar 2012 te korten in verband met de aanwezigheid van één of meer topinkomens.</para>
+    <para />
+    <para>2. In het besluit van 13 december 2013 heeft het college op het verleende subsidiebedrag van € 2.731.562,00 een bedrag van € 86.354,00, dat is betrokken bij het project Heroïneverstrekking van Parnassia Psycho Medische Zorg en daarmee is verrekend, in mindering gebracht. Deze verlaging is tussen partijen niet in geschil. Het college heeft vervolgens het resterende bedrag van € 2.645.208,00 met € 130.831,00 gekort vanwege overschrijding van het bezoldigingsmaximum als bedoeld in de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens (hierna: Wopt) en het subsidiebedrag vastgesteld op € 2.514.377,00.</para>
+    <para />
+    <para>3. Aan het besluit van 18 juli 2014 heeft het college ten grondslag gelegd dat Brijder zich niet aan de subsidieverplichting heeft gehouden dat de inkomensgrens in de Wopt als bezoldigingsgrens in acht moet worden genomen, nu drie bestuurders van Parnassia een bezoldiging hebben genoten boven de Wopt-norm. Daarbij heeft het college zich op het standpunt gesteld dat Parnassia en Brijder zodanig met elkaar zijn verweven dat de overschrijding van de bezoldigingsnorm door de bestuurders van Parnassia aan Brijder kan worden toegerekend. Het college heeft het bezwaar in zoverre gegrond verklaard dat bij het bepalen van de inkomens ten onrechte de werkgeversbijdragen sociale lasten zijn meegenomen. Daardoor is de subsidie met € 26.360,00 teveel gekort. Het college heeft het besluit van 13 december 2013, voor zover dit betrekking had op de berekening van de korting, herroepen, de subsidie vastgesteld op een bedrag van € 2.540.737,00 en € 104.471,00 aan uitbetaalde voorschotten teruggevorderd.</para>
+    <para />
+    <para>Uitspraak van de rechtbank</para>
+    <para />
+    <para>4. De rechtbank heeft geoordeeld dat het besluit tot subsidieverlening en de daaraan verbonden subsidieverplichtingen, waaronder de uit de HKS voortvloeiende verplichting met betrekking tot het bezoldigingsmaximum, in rechte vaststaan. De rechtbank komt derhalve niet toe aan de beoordeling of artikel 10, zevende lid, van de HKS onverbindend moet worden verklaard wegens strijdigheid met de artikelen 4:38 en 4:39 van de Algemene wet bestuursrecht (hierna: Awb).</para>
+    <para />
+    <para>Voorts heeft de rechtbank geoordeeld dat de subsidieverplichting is opgelegd aan subsidieontvanger Brijder en dat die verplichting niet geldt ten aanzien van eventueel aan de subsidieontvanger gelieerde rechtspersonen aan wie de subsidie mogelijkerwijs ook ten goede komt.</para>
+    <para />
+    <para>Incidenteel hoger beroep van Brijder en Parnassia</para>
+    <para />
+    <para>5. Parnassia en Brijder betogen dat de rechtbank ten onrechte heeft geoordeeld dat in een procedure over subsidievaststelling de vraag of de in artikel 10, zevende lid, van de HKS gestelde voorwaarde bij de subsidieverlening onverbindend is wegens strijd met de artikelen 4:38, eerste lid, en 4:39 van de Awb, niet meer aan de orde kan komen.</para>
+    <para />
+    <para>Daartoe voeren zij aan dat de formele rechtskracht van het verleningsbesluit in dit geval niet in de weg mag staan aan effectieve rechtsbescherming. In het verleningsbesluit zijn de standaardvoorwaarden uit de HKS opgenomen. Eerst uit het vaststellingsbesluit is voor Brijder en Parnassia duidelijk geworden dat de subsidieverplichting met betrekking tot topinkomens ook betrekking had op aan de subsidieontvanger gelieerde rechtspersonen. Nu niet in geschil is dat Brijder de Wopt-norm in acht heeft genomen en dat voor Brijder niet was te voorzien dat niet alleen de bezoldiging van haar eigen bestuurders aan haar zou worden toegerekend, maar ook de bezoldiging die Parnassia aan haar medewerkers betaalt, kan de formele rechtskracht van het begunstigende verleningsbesluit hun niet worden tegengeworpen. In dat verband hebben Brijder en Parnassia gewezen op een arrest van de Hoge Raad van 17 december 2010 (ECLI:NL:HR:2010:BO7489; www.rechtspraak.nl).</para>
+    <para />
+    <para>Voorts voeren zij aan dat, gelet op de uitspraak van de Afdeling van 25 juni 2014 in zaak nr. 201311157/1/A2, artikel 10, zevende en achtste lid, van de HKS onverbindend moeten worden geacht wegens strijd met de artikelen 4:38, eerste lid, en 4:39 van de Awb. Met artikel 10, zevende en achtste lid, van de HKS legt het college aan Brijder als subsidieontvanger de verplichting op om de Wopt-norm in acht te nemen, waarbij niet-naleving daarvan leidt tot een lagere subsidievaststelling. Het doel van de verplichting in de HKS is het voeren van inkomenspolitiek, terwijl het doel van de subsidie is gelegen in het bieden van verslavingszorg, aldus Brijder en Parnassia. De subsidieverplichting is derhalve geen doelgebonden verplichting als bedoeld in artikel 4:38, eerste lid, van de Awb. Het verband tussen de subsidieverplichting en de gesubsidieerde activiteit is volgens Brijder en Parnassia voorts te ver verwijderd om als een geoorloofde oneigenlijke verplichting in de zin van artikel 4:39 van de Awb te kunnen worden aangemerkt. Dit leidt er volgens Brijder en Parnassia toe dat de verplichting van artikel 10, zevende en achtste lid, van de HKS in strijd is met de artikelen 4:38 en 4:39 van de Awb en dat artikel 10, zevende en achtste lid, van de HKS onverbindend moet worden geacht.</para>
+    <para />
+    <para>Wettelijk kader</para>
+    <para />
+    <para>5.1. Ingevolge artikel 4:38, eerste lid, van de Awb kan het bestuursorgaan de subsidie-ontvanger ook andere verplichtingen opleggen die strekken tot verwezenlijking van het doel van de subsidie.</para>
+    <para />
+    <para>Ingevolge het tweede lid worden de verplichtingen, indien de subsidie op een wettelijk voorschrift berust, opgelegd bij wettelijk voorschrift of krachtens wettelijk voorschrift bij de subsidieverlening.</para>
+    <para />
+    <para>Ingevolge het derde lid kunnen de verplichtingen, indien de subsidie niet op een wettelijk voorschrift berust, worden opgelegd bij de subsidieverlening.</para>
+    <para />
+    <para>Ingevolge artikel 4:39, eerste lid, kunnen verplichtingen die niet strekken tot verwezenlijking van het doel van de subsidie slechts aan de subsidie worden verbonden voor zover dit bij wettelijk voorschrift is bepaald.</para>
+    <para />
+    <para>Ingevolge het tweede lid kunnen verplichtingen als bedoeld in het eerste lid slechts betrekking hebben op de wijze waarop of de middelen waarmee de gesubsidieerde activiteit wordt verricht.</para>
+    <para />
+    <para>Ingevolge artikel 6, eerste lid, van de Wopt vermeldt de verantwoordelijke in het financieel verslagleggingsdocument het belastbare loon, de voorzieningen ten behoeve van beloningen betaalbaar op termijn, de functie of functies en de duur van het dienstverband in dat jaar van eenieder van wie de som van het belastbare loon en de voorzieningen ten behoeve van beloningen betaalbaar op termijn van zijn functie of functies het gemiddelde belastbare loon van ministers te boven is gegaan.</para>
+    <para />
+    <para>Ingevolge artikel 10, zevende lid, van de HKS is de subsidieontvanger, waarop artikel 6 van de Wopt van toepassing is, verplicht om de inkomensgrens zoals bedoeld in het eerste lid van dat artikel als bezoldigingsmaximum in acht te nemen.</para>
+    <para />
+    <para>Ingevolge het achtste lid kan, indien de subsidieontvanger de in het vorige lid bedoelde verplichting niet nakomt, het in de verleningsbeschikking genoemde subsidiebedrag bij de subsidievaststelling worden verminderd. De vermindering is gelijk aan het bedrag van de overschrijding van de geldende inkomensgrens in het kalenderjaar waarop de verleningsbeschikking betrekking heeft.</para>
+    <para />
+    <para>Beoordeling van het incidenteel hoger beroep van Brijder en Parnassia</para>
+    <para />
+    <para>5.2. De rechtbank heeft niet onderkend dat de verplichting met betrekking tot het bezoldigingsmaximum van medewerkers niet, als afzonderlijke verplichting, eerst bij besluit van 13 december 2013 is opgelegd, maar rechtstreeks voortvloeit uit artikel 10, zevende lid, van de HKS. Aan dit algemeen verbindende voorschrift kan verbindende kracht worden ontzegd, indien het in strijd is met een hoger wettelijk voorschrift, dan wel indien het in strijd is met een algemeen rechtsbeginsel. De vraag die derhalve dient te worden beantwoord is of deze strijd zich voordoet.</para>
+    <para />
+    <para>5.3. Ingevolge artikel 4:38, eerste lid, van de Awb kan het college met toepassing van die bepaling slechts verplichtingen opleggen die strekken tot verwezenlijking van het doel van de subsidie. Het doel van de verleende subsidie is gelegen in het bieden van verslavingszorg.</para>
+    <para />
+    <para>Het college kan niet worden gevolgd in zijn standpunt dat artikel 10, zevende lid, van de HKS is bedoeld om de doelmatige besteding van subsidiegelden te bevorderen. Het doel van die bepaling is gelegen in het normeren van de inkomens van medewerkers van instellingen die van gemeentewege worden gesubsidieerd. Daarbij wordt onder meer verwezen naar de toelichting in het raadsvoorstel van 8 februari 2011, vastgesteld door de gemeenteraad op 10 maart 2011, bij de totstandkoming van artikel 10, zevende lid, van de HKS. In die toelichting is vermeld dat het doel van het in de HKS gevoerde beleid is dat instellingen die gemeentelijke subsidie ontvangen een maatschappelijk acceptabel beloningsbeleid hanteren.</para>
+    <para />
+    <para>Reeds de door de gemeenteraad gemaakte keuze om gevolgen te verbinden aan een overschrijding van de Wopt-norm, ook als zou kunnen worden aangetoond dat een topsalaris uit een andere bron dan de door het college verstrekte subsidie zou worden betaald omdat in artikel 10, zevende lid, van de HKS geen onderscheid wordt gemaakt naar financieringsbron, wijst erop dat het doel van de verplichting is gelegen in het voorkomen van topsalarissen in plaats van een doelmatige besteding van subsidiegelden.</para>
+    <para />
+    <para>Gelet op het voorgaande strekt de verplichting niet tot verwezenlijking van het doel van de subsidie, maar tot verwezenlijking van een ander doel, namelijk inkomenspolitiek, zodat de verplichting geen doelgebonden verplichting is als bedoeld in artikel 4:38, eerste lid, van de Awb.</para>
+    <para />
+    <para>5.4. Vervolgens is aan de orde of de verplichting een zogenoemde niet-doelgebonden of oneigenlijke verplichting is als bedoeld in artikel 4:39 van de Awb. Ingevolge het tweede lid kan een dergelijke verplichting slechts betrekking hebben op de wijze waarop of de middelen waarmee de gesubsidieerde activiteit wordt verricht.</para>
+    <para />
+    <para>Uit de geschiedenis van de totstandkoming van die bepaling (Kamerstukken 1993/94, 23 700, nr. 3, blz. 66) blijkt dat met het opleggen van oneigenlijke subsidieverplichtingen terughoudendheid dient te worden betracht. Daarin is vermeld dat ook verplichtingen die niet strekken tot verwezenlijking van het doel van de subsidie wel enig verband dienen te houden met de gesubsidieerde activiteit en dat dit tot uitdrukking is gebracht door te bepalen dat de verplichtingen slechts betrekking kunnen hebben op de wijze waarop of de middelen waarmee de gesubsidieerde activiteit wordt verricht.</para>
+    <para />
+    <para>De gesubsidieerde activiteit wordt weliswaar verricht met behulp van medewerkers, maar de in artikel 10, zevende lid, van de HKS vervatte verplichting heeft geen betrekking op deze medewerkers, maar op hun inkomens. Daarmee is het verband tussen de verplichting en de gesubsidieerde activiteit te ver verwijderd om als een geoorloofde niet-doelgebonden verplichting in de zin van artikel 4:39, tweede lid, van de Awb te kunnen worden aangemerkt.</para>
+    <para />
+    <para>5.5. Gelet op het vorenstaande is artikel 10, zevende en achtste lid, van de HKS in strijd met de artikelen 4:38, eerste lid, en 4:39 van de Awb en daarom onverbindend. De subsidie kon derhalve niet op grond van artikel 4:46, tweede lid, aanhef en onder b, lager worden vastgesteld. De rechtbank heeft dit niet onderkend.</para>
+    <para />
+    <para>Het betoog slaagt.</para>
+    <para />
+    <para>Hoger beroep van het college</para>
+    <para />
+    <para>6. Nu de onverbindendheid van artikel 10, achtste lid, van de HKS met zich brengt dat een lagere subsidievaststelling niet tot de mogelijkheden behoort, behoeft het hoger beroep van het college geen bespreking meer.</para>
+    <para />
+    <para>Conclusie</para>
+    <para />
+    <para>7. Het hoger beroep van Brijder en Parnassia is gegrond. De aangevallen uitspraak dient te worden vernietigd. Doende hetgeen de rechtbank zou behoren te doen, zal de Afdeling het beroep tegen het besluit van het college van 18 juli 2014 gegrond verklaren. Dat besluit komt wegens strijd met artikel 4:46, tweede lid, aanhef en onder b, van de Awb voor vernietiging in aanmerking. De Afdeling zal zelf in de zaak voorzien. Het besluit van 13 december 2013 zal worden herroepen. De Afdeling zal voorts de subsidie aan Brijder over 2012 vaststellen op een bedrag van € 2.645.208,00. De Afdeling zal bepalen dat deze uitspraak in de plaats treedt van het vernietigde besluit.</para>
+    <para />
+    <para>Proceskosten</para>
+    <para />
+    <para>8. De Afdeling zal het college ten aanzien van Brijder en Parnassia veroordelen tot het vergoeden van de proceskosten. De proceskosten voor de door een derde beroepsmatig verleende rechtsbijstand zullen op grond van het Besluit proceskosten bestuursrecht worden vastgesteld op € 3.472,00. In dat verband is toegekend: een punt voor het indienen van een bezwaarschrift, een punt voor het verschijnen ter hoorzitting in bezwaar, een punt voor het indienen van een beroepschrift, een punt voor het verschijnen ter zitting van de rechtbank, een punt voor het indienen van een incidenteel hogerberoepschrift, een punt voor het verweerschrift en een punt voor het verschijnen ter zitting van de Afdeling. Daarbij is een waarde van € 496,00 per punt en een wegingsfactor van 1 aangehouden.</para>
+    <para />
+    <para>Beslissing</para>
+    <para />
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para />
+    <para>I. verklaart het hoger beroep van de besloten vennootschappen met beperkte aansprakelijkheid Brijder Verslavingszorg B.V. en Parnassia Groep B.V. gegrond;</para>
+    <para />
+    <para>II. vernietigt de uitspraak van de rechtbank Den Haag van 25 juni 2015 in zaak nr. SGR 14/8254;</para>
+    <para />
+    <para>III. verklaart het door de besloten vennootschappen met beperkte aansprakelijkheid Brijder Verslavingszorg B.V. en Parnassia Groep B.V. bij de rechtbank ingestelde beroep gegrond;</para>
+    <para />
+    <para>IV. vernietigt het besluit van het college van burgemeester en wethouders van Den Haag van 18 juli 2014, kenmerk BSD/2014.641;</para>
+    <para />
+    <para>V. herroept het besluit van het college van burgemeester en wethouders van Den Haag van 13 december 2013, kenmerk BSD/2013.1505;</para>
+    <para />
+    <para>VI. bepaalt dat de subsidie aan de besloten vennootschap Brijder Verslavingszorg B.V. over 2012 wordt vastgesteld op € 2.645.208,00;</para>
+    <para />
+    <para>VII. bepaalt dat deze uitspraak in de plaats treedt van het vernietigde besluit;</para>
+    <para />
+    <para>VIII. veroordeelt het college van burgemeester en wethouders van Den Haag tot vergoeding van bij de besloten vennootschappen met beperkte aansprakelijkheid Brijder Verslavingszorg B.V. en Parnassia Groep B.V. in verband met de behandeling van het beroep en hoger beroep opgekomen proceskosten tot een bedrag van € 3.472,00 (zegge: vierendertighonderdtweeënzeventig euro);</para>
+    <para />
+    <para>IX. gelast dat het college van burgemeester en wethouders van Den Haag aan de besloten vennootschappen met beperkte aansprakelijkheid Brijder Verslavingszorg B.V. en Parnassia Groep B.V. het door hen voor de behandeling van het beroep betaalde griffierecht ten bedrage van € 328,00 (zegge: driehonderdachtentwintig euro) vergoedt;</para>
+    <para />
+    <para>X. bepaalt dat van het college van burgemeester en wethouders van Den Haag een griffierecht van € 497,00 (zegge: vierhonderdzevenennegentig euro) wordt geheven.</para>
+    <para />
+    <para>Aldus vastgesteld door mr. D.A.C. Slump, voorzitter, en mr. C.J. Borman en mr. R.J.J.M. Pans, leden, in tegenwoordigheid van mr. M. Rijsdijk, griffier.</para>
+    <para />
+    <para>w.g. Slump w.g. Rijsdijk</para>
+    <para>voorzitter griffier</para>
+    <para />
+    <para>Uitgesproken in het openbaar op 4 mei 2016</para>
+    <para />
+    <para>705.</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>
