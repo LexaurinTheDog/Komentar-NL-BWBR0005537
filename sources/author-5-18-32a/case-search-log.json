@@ -1,0 +1,120 @@
+{
+  "searched_at": "2026-10-20T16:30:45.034745+00:00",
+  "queries": [
+    "site.raadvanstate.nl \"5:31\" \"5:25\" spoedeisende bestuursdwang 2025",
+    "site.raadvanstate.nl \"5:32a\" \"begunstigingstermijn\" 2025",
+    "site.rechtspraak.nl \"5:20\" \"medewerking\" 2025",
+    "site.raadvanstate.nl \"5:30\" \"2024\" \"dertien\"",
+    "site.raadvanstate.nl \"2025:1475\""
+  ],
+  "local_search": {
+    "command": "rg -l -i \"artikel 5:31|artikel 5:32a|artikel 5:29|artikel 5:20\" /Volumes/LaCie/law-intake/eu/nl/rechtspraak",
+    "matches": 706,
+    "evidence": "sources/author-5-18-32a/local-matches.txt"
+  },
+  "firecrawl": {
+    "probe_exit_code": 1,
+    "status": "authenticated but zero credits",
+    "log": "sources/author-5-18-32a/firecrawl-attempt.log",
+    "fallback": "Direct official HTTP and local judicial corpus; web discovery for primary decisions."
+  },
+  "read_and_used": [
+    {
+      "ecli": "ECLI:NL:CBB:2026:95",
+      "court": "College van Beroep voor het bedrijfsleven",
+      "date": "2026-03-10",
+      "docket": "23/1394",
+      "paragraphs": [
+        "3.1–3.3"
+      ],
+      "supported_ids": [
+        "art-5:20"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2025:545",
+      "court": "Afdeling bestuursrechtspraak van de Raad van State",
+      "date": "2025-02-12",
+      "docket": "202202122/1/R3",
+      "paragraphs": [
+        "7.2",
+        "8.2–8.3",
+        "10–14",
+        "16"
+      ],
+      "supported_ids": [
+        "art-5:24",
+        "art-5:25",
+        "art-5:27",
+        "art-5:29",
+        "art-5:30",
+        "art-5:31c"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:GHDHA:2024:1447",
+      "court": "Gerechtshof Den Haag",
+      "date": "2024-08-27",
+      "docket": "200.318.899/01",
+      "paragraphs": [
+        "6.2–6.12",
+        "6.15–6.18"
+      ],
+      "supported_ids": [
+        "art-5:30"
+      ]
+    }
+  ],
+  "local_comparison": [
+    {
+      "ecli": "ECLI:NL:CBB:2026:95",
+      "official_full_text_path": "sources/author-5-18-32a/ECLI-NL-CBB-2026-95.txt",
+      "local_available": true,
+      "local_snapshot": "sources/author-5-18-32a/ECLI-NL-CBB-2026-95-local.md",
+      "local_sha256": "69e302c0d41e1edc13ea751afa054971cb3610d0cc0d7a87e9c78900e0355d46",
+      "local_body_contained_in_official": true,
+      "full_body_whitespace_equal": false
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2025:545",
+      "official_full_text_path": "sources/author-5-18-32a/ECLI-NL-RVS-2025-545.txt",
+      "local_available": true,
+      "local_snapshot": "sources/author-5-18-32a/ECLI-NL-RVS-2025-545-local.md",
+      "local_sha256": "f1ebbdcfe560ba41e9efa48380fc05de0ad78743e1aed4017f487ab76ec67c70",
+      "local_body_contained_in_official": true,
+      "full_body_whitespace_equal": true
+    },
+    {
+      "ecli": "ECLI:NL:GHDHA:2024:1447",
+      "official_full_text_path": "sources/author-5-18-32a/ECLI-NL-GHDHA-2024-1447.txt",
+      "local_available": false
+    }
+  ],
+  "downloaded_not_used": [
+    {
+      "ecli": "ECLI:NL:RVS:2025:1475",
+      "reason": "Screened portions concern sector-specific monument/building-stop regime; not relied on and not claimed fully read."
+    }
+  ],
+  "units_without_separate_case": [
+    "art-5:18",
+    "art-5:19",
+    "art-5:21",
+    "art-5:22",
+    "art-5:23",
+    "art-5:26",
+    "art-5:28",
+    "art-5:31",
+    "art-5:31a",
+    "art-5:31b",
+    "art-5:31d",
+    "art-5:32",
+    "art-5:32a"
+  ],
+  "limitations": [
+    "Selective research, not exhaustive.",
+    "No sufficiently verified separate decision added to technical units; no claim that relevant decisions do not exist.",
+    "GHDHA civil interlocutory judgment only; later damages outcome not researched.",
+    "CBB ruling decides appealability of these letters, not universal validity of information demands."
+  ]
+}

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2026:95</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-03-10T14:04:56</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-03-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2026-03-10</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">23/1394</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Den Haag</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0002541&amp;g=2005-07-01">Zaaizaad- en Plantgoedwet</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2026:95">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2026:95</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-03-09T12:01:09</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-03-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2026:95 College van Beroep voor het bedrijfsleven , 10-03-2026 / 23/1394</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2026:95:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Brieven waarin de perceelsaangifte van een boomkwekerij wordt gevorderd, zijn geen besluiten in de zin van artikel 1:3, eerste lid, van de Awb. In de brieven staan geen concrete maatregelen vermeld, als niet wordt voldaan aan de vordering. Bezwaar terecht niet-ontvankelijk verklaard.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2026:95:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak </para>
+    <para>
+      <inlinemediaobject>
+        <imageobject>
+          <imagedata align="center" scale="100" fileref="3b976bfd-a994-4a95-b5d4-54a43abe681c" depth="1" width="568" format="image/png" />
+        </imageobject>
+      </inlinemediaobject>
+      <inlinemediaobject>
+        <imageobject>
+          <imagedata align="center" scale="100" fileref="f0830273-e999-459c-addb-fbf1f06eed06" depth="1" width="13" format="image/png" />
+        </imageobject>
+      </inlinemediaobject>
+    </para>
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 23/1394 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 10 maart 2026 in de zaak tussen<?linebreak?></bridgehead>
+    <bridgehead role="bold">
+      [naam 1] B.V., te [woonplaats] ( [naam 2] )</bridgehead>
+    <para>(gemachtigde: [naam 2] )</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw (Naktuinbouw)</bridgehead>
+    <para>(gemachtigden: mr. R.G.J. Broenink en mr. M. van der Ven) </para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Met brieven van 14 juni 2023 en 26 juni 2023 heeft Naktuinbouw de perceelsaangifte van [naam 2] gevorderd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 26 juni 2023 (bestreden besluit) heeft Naktuinbouw het bezwaar van [naam 2] niet-ontvankelijk verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [naam 2] heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Naktuinbouw heeft een verweerschrift ingediend en nadere stukken ingezonden.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De zitting was op 27 januari 2026. Deze zaak is op de zitting gevoegd behandeld met zaken 23/189, 24/810 en 25/692. Aan de zitting hebben de gemachtigden van partijen deelgenomen. Na de zitting is de zaak 23/1394 van de zaken 23/189, 24/810 en 25/692 gesplitst. </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen </title>
+    <para />
+    <para>1. [naam 2] heeft een boomkwekerij. Naktuinbouw houdt toezicht als keuringsinstantie voor de tuinbouw. In die toezichthoudende taak heeft Naktuinbouw met de brieven van 14 juni 2023 en 26 juni 2023 van [naam 2] gevorderd dat zij aangifte doet van haar percelen. In de brief van 14 juni 2023 staat dat als [naam 2] geen gevolg geeft aan de vordering, Naktuinbouw de Nederlandse Voedsel- en Warenautoriteit (NVWA) hiervan op de hoogte zal stellen en zal verzoeken maatregelen te treffen. In de brief van 26 juni 2023 staat dat als Naktuinbouw op 28 juni 2023 vóór 17.00 uur de aangifte niet heeft ontvangen, zij vanaf die datum geen keurings- en inspectiewerkzaamheden meer uitvoert voor [naam 2] .</para>
+    <para />
+    <para>2 Naktuinbouw heeft het bezwaar van [naam 2] tegen deze twee brieven niet-ontvankelijk verklaard, omdat het gaat om toezichthandelingen en dus om feitelijke handelingen. In het kader van het door haar uit te oefenen toezicht vordert Naktuinbouw perceelsaangifte. Dit doet zij op grond van artikel 5:16 en artikel 5:20 van de Algemene wet bestuursrecht (Awb). Bij de parlementaire behandeling van titel 5.2 van de Awb (Toezicht op de naleving) is gesteld dat bij toezichthandelingen van bestuursorganen als Naktuinbouw sprake is van feitelijk handelen. Ook uit rechtspraak blijkt dat genoemde toezichthandelingen niet als besluit worden gekwalificeerd. De verplichting vloeit voort uit de wet. </para>
+    <para />
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Het College overweegt als volgt. Op grond van artikel 1:3, eerste lid, van de Awb is een besluit gericht op rechtsgevolg. Dit betekent dat de beslissing moet zijn bedoeld om verandering te brengen in de rechten en/of plichten van degene tot wie die beslissing is gericht (zie van de uitspraak van het College van 18 november 2025 (ECLI:NL:CBB:2025:608), onder 5.3).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>In de brieven van 14 juni 2023 en 26 juni 2023 wordt gevorderd dat [naam 2] aangifte doet van haar percelen. Als zij dat niet tijdig doet, dan is het gevolg daarvan dat Naktuinbouw geen keurings- en inspectiewerkzaamheden voor [naam 2] meer uitvoert. Ook zal Naktuinbouw de NVWA verzoeken maatregelen te treffen. In deze brieven staan geen concrete maatregelen vermeld. De mededeling dat mogelijk geen keurings- en inspectiewerkzaamheden meer zullen worden uitgevoerd, is alleen een mededeling dat mogelijk geen bepaalde feitelijke handelingen (meer) zullen plaatsvinden (zie de uitspraak van het College van 5 december 2023 (ECLI:NL:CBB:2023:673), onder 6.2). Om die reden zijn de brieven niet gericht op rechtsgevolg en zijn ze daarmee geen besluiten in de zin van artikel 1:3, eerste lid, van de Awb. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>Naktuinbouw heeft gelet hierop het bezwaar tegen de brieven terecht niet-ontvankelijk verklaard. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>Het beroep is ongegrond. Naktuinbouw hoeft geen proceskosten te vergoeden.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing </title>
+    <para />
+    <parablock>
+      <para>Het College verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. J.H. de Wildt, in aanwezigheid van mr. C.D.V. Efstratiades, griffier. De beslissing is in het openbaar uitgesproken op 10 maart 2026.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>w.g. J.H. de Wildt 	w.g. C.D.V. Efstratiades</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

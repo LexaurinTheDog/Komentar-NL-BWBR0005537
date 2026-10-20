@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T16:21:55.883112+00:00",
+  "updated_at": "2026-10-20T16:32:49.812418+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -17,12 +17,12 @@
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
     "review_verified_at": "2026-10-20T16:18:17.582085+00:00",
     "review_evidence": "sources/review-012/verification.json",
-    "author_batch_verified_at": "2026-10-20T16:15:03.966946+00:00",
-    "author_batch_evidence": "sources/author-4-131-5-17/verification.json"
+    "author_batch_verified_at": "2026-10-20T16:32:49.812418+00:00",
+    "author_batch_evidence": "sources/author-5-18-32a/verification.json"
   },
   "official_articles": 584,
   "total_units": 588,
-  "completed_units": 240,
+  "completed_units": 260,
   "completed_ids": [
     "aanhef",
     "art-1:1",
@@ -263,9 +263,7 @@
     "art-5:15",
     "art-5:16",
     "art-5:16a",
-    "art-5:17"
-  ],
-  "missing_commentary_ids": [
+    "art-5:17",
     "art-5:18",
     "art-5:19",
     "art-5:20",
@@ -285,7 +283,9 @@
     "art-5:31c",
     "art-5:31d",
     "art-5:32",
-    "art-5:32a",
+    "art-5:32a"
+  ],
+  "missing_commentary_ids": [
     "art-5:32b",
     "art-5:33",
     "art-5:34",
@@ -658,7 +658,10 @@
       "ECLI:NL:RVS:2023:2071",
       "ECLI:NL:RVS:2018:2115",
       "ECLI:NL:CBB:2025:603",
-      "ECLI:NL:RBMNE:2026:4469"
+      "ECLI:NL:RBMNE:2026:4469",
+      "ECLI:NL:CBB:2026:95",
+      "ECLI:NL:RVS:2025:545",
+      "ECLI:NL:GHDHA:2024:1447"
     ],
     "fetched_not_yet_assessed": [
       "ECLI:NL:CBB:2024:31"
@@ -668,8 +671,8 @@
   "coverage": true,
   "validation_result": {
     "complete": false,
-    "reason": "348 eenheden buiten deze auteursbatch hebben nog geen commentaar; volledige gedeelde bouw blijft geblokkeerd.",
-    "not_independent_review": false,
+    "reason": "328 eenheden buiten deze auteursbatch hebben geen commentaar; volledige gedeelde bouw blijft geblokkeerd.",
+    "not_independent_review": true,
     "strict_validator": {
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
@@ -681,7 +684,7 @@
       "warnings": [],
       "ok": false
     },
-    "independent_review_scope": "Current batch exactly twenty ids in review-result.json; previous 220 preserved separately. Whole-book review incomplete.",
+    "independent_review_scope": "Earlier independent review evidence preserved. New author batch 5:18–5:32a not independently reviewed.",
     "validated_at": "2026-10-20T16:17:00.040516+00:00",
     "evidence": "strict-validation.json",
     "bounded_review_passed": true,
@@ -697,12 +700,12 @@
     }
   },
   "remaining_limitations": [
-    "Uitsluitend de twintig exact genoemde eenheden zijn inhoudelijk beoordeeld; geen voltooiing van het boek.",
-    "348 eenheden buiten deze opdracht missen commentaar en tweede beoordeling.",
-    "Rechtspraakonderzoek en lokale corpuszoekactie zijn selectief; geen uitputtende controle van latere behandeling of onherroepelijkheid.",
-    "De RBMNE-uitspraak ontbreekt als individuele lokale corpuskopie; volledige officiële XML is gelezen. De lokale CBb-body is niet geheel gelijk aan de officiële volledige body.",
-    "Ministerieel legitimatiemodel, bijzondere toezichtsregelingen en alle gegevensbeschermingsvragen zijn niet zelfstandig geïnventariseerd.",
-    "Technische minimumlengte en bronidentiteit bewijzen geen juridische kwaliteit; geen externe professionele goedkeuring."
+    "328 eenheden buiten deze auteursopdracht blijven ongeschreven.",
+    "De twintig nieuwe toelichtingen bij 5:18–5:32a wachten op een onafhankelijke tweede beoordeling; de eerdere reviewgegevens blijven behouden.",
+    "Rechtspraakonderzoek is selectief, zonder uitputtende controle van vervolgprocedures of het uiteindelijke schadebedrag in het civiele tussenarrest.",
+    "De wijze van stopvordering krachtens 5:19(5) en alle bijzondere sectorregels zijn niet zelfstandig onderzocht.",
+    "De civiele hofuitspraak ontbreekt op het gecontroleerde lokale standaardpad; de officiële volledige tekst is wel gelezen.",
+    "Technische tekstidentiteit en minimumlengte bewijzen geen juridische kwaliteit."
   ],
   "preflight": {
     "complete": true,
@@ -713,31 +716,30 @@
   "last_author_batch": {
     "task": "bounded_author",
     "ids": [
-      "art-4:131",
-      "art-5:1",
-      "art-5:2",
-      "art-5:3",
-      "art-5:4",
-      "art-5:5",
-      "art-5:6",
-      "art-5:7",
-      "art-5:8",
-      "art-5:9",
-      "art-5:10",
-      "art-5:10a",
-      "art-5:11",
-      "art-5:12",
-      "art-5:13",
-      "art-5:14",
-      "art-5:15",
-      "art-5:16",
-      "art-5:16a",
-      "art-5:17"
+      "art-5:18",
+      "art-5:19",
+      "art-5:20",
+      "art-5:21",
+      "art-5:22",
+      "art-5:23",
+      "art-5:24",
+      "art-5:25",
+      "art-5:26",
+      "art-5:27",
+      "art-5:28",
+      "art-5:29",
+      "art-5:30",
+      "art-5:31",
+      "art-5:31a",
+      "art-5:31b",
+      "art-5:31c",
+      "art-5:31d",
+      "art-5:32",
+      "art-5:32a"
     ],
     "completed_units": 20,
-    "evidence": "batch-4-131-5-17-result.json",
-    "independently_reviewed": true,
-    "review_evidence": "review-result.json"
+    "evidence": "batch-5-18-32a-result.json",
+    "independently_reviewed": false
   },
   "bounded_independent_review": {
     "complete": true,

@@ -1,0 +1,70 @@
+{
+  "checked_at": "2026-10-20T16:33:31.084435+00:00",
+  "scope": "Exactly twenty assigned articles, 5:18–5:32a including intermediate lettered units; author checkpoint only.",
+  "assigned_ids": [
+    "art-5:18",
+    "art-5:19",
+    "art-5:20",
+    "art-5:21",
+    "art-5:22",
+    "art-5:23",
+    "art-5:24",
+    "art-5:25",
+    "art-5:26",
+    "art-5:27",
+    "art-5:28",
+    "art-5:29",
+    "art-5:30",
+    "art-5:31",
+    "art-5:31a",
+    "art-5:31b",
+    "art-5:31c",
+    "art-5:31d",
+    "art-5:32",
+    "art-5:32a"
+  ],
+  "assigned_units_complete": 20,
+  "assigned_errors": [],
+  "existing_commentaries_preserved": 240,
+  "independent_review": false,
+  "statutory_text_agreement": 1.0,
+  "independent_official_identifier_coverage": {
+    "expected": 588,
+    "parsed": 588,
+    "missing": [],
+    "duplicates": []
+  },
+  "shared_strict_validation": {
+    "command": [
+      "python3",
+      "/Volumes/LaCie/open-commentary/_tools/validate.py",
+      "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537"
+    ],
+    "exit_code": 1,
+    "result": {
+      "repo": "Komentar-NL-BWBR0005537",
+      "units": 588,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 458893,
+      "errors": [
+        "krátký/chybějící komentář u 328 jednotek: ['art-5:32b(0<400)', 'art-5:33(0<120)', 'art-5:34(0<400)', 'art-5:35(0<400)', 'art-5:36(0<120)', 'art-5:37(0<400)', 'art-5:37a(0<400)', 'art-5:38(0<400)']",
+        "necommitnuté změny v repu"
+      ],
+      "warnings": [],
+      "ok": false
+    }
+  },
+  "shared_build": "build-validation-log.json",
+  "whole_book_complete": false,
+  "remaining_unwritten_outside_assignment": 328,
+  "limitations": [
+    "Fresh independent content review pending for these twenty authored units.",
+    "Whole-book validator remains blocked by 328 missing commentaries outside this assignment.",
+    "Minimum length and absence of exact repetition are not proof of legal quality."
+  ],
+  "local_links_checked": 678,
+  "broken_local_links": [],
+  "repeated_long_paragraphs": [],
+  "repeated_long_sentences": [],
+  "complete": true
+}

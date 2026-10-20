@@ -1,0 +1,25 @@
+[
+  {
+    "ecli": "ECLI:NL:CBB:2026:95",
+    "official_full_text_path": "sources/author-5-18-32a/ECLI-NL-CBB-2026-95.txt",
+    "local_available": true,
+    "local_snapshot": "sources/author-5-18-32a/ECLI-NL-CBB-2026-95-local.md",
+    "local_sha256": "69e302c0d41e1edc13ea751afa054971cb3610d0cc0d7a87e9c78900e0355d46",
+    "local_body_contained_in_official": true,
+    "full_body_whitespace_equal": false
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2025:545",
+    "official_full_text_path": "sources/author-5-18-32a/ECLI-NL-RVS-2025-545.txt",
+    "local_available": true,
+    "local_snapshot": "sources/author-5-18-32a/ECLI-NL-RVS-2025-545-local.md",
+    "local_sha256": "f1ebbdcfe560ba41e9efa48380fc05de0ad78743e1aed4017f487ab76ec67c70",
+    "local_body_contained_in_official": true,
+    "full_body_whitespace_equal": true
+  },
+  {
+    "ecli": "ECLI:NL:GHDHA:2024:1447",
+    "official_full_text_path": "sources/author-5-18-32a/ECLI-NL-GHDHA-2024-1447.txt",
+    "local_available": false
+  }
+]

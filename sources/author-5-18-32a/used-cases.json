@@ -1,0 +1,47 @@
+[
+  {
+    "ecli": "ECLI:NL:CBB:2026:95",
+    "court": "College van Beroep voor het bedrijfsleven",
+    "date": "2026-03-10",
+    "docket": "23/1394",
+    "paragraphs": [
+      "3.1–3.3"
+    ],
+    "supported_ids": [
+      "art-5:20"
+    ]
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2025:545",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State",
+    "date": "2025-02-12",
+    "docket": "202202122/1/R3",
+    "paragraphs": [
+      "7.2",
+      "8.2–8.3",
+      "10–14",
+      "16"
+    ],
+    "supported_ids": [
+      "art-5:24",
+      "art-5:25",
+      "art-5:27",
+      "art-5:29",
+      "art-5:30",
+      "art-5:31c"
+    ]
+  },
+  {
+    "ecli": "ECLI:NL:GHDHA:2024:1447",
+    "court": "Gerechtshof Den Haag",
+    "date": "2024-08-27",
+    "docket": "200.318.899/01",
+    "paragraphs": [
+      "6.2–6.12",
+      "6.15–6.18"
+    ],
+    "supported_ids": [
+      "art-5:30"
+    ]
+  }
+]
