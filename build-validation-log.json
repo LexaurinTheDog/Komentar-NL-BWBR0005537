@@ -12,5 +12,27 @@
   },
   "checkpoint_method": "Existing _checkpoint.py renders only substantive written commentary as explicitly incomplete; shared completion gate unchanged.",
   "scope_review_complete": true,
-  "whole_book_complete": false
+  "whole_book_complete": false,
+  "strict_validator": {
+    "command": [
+      "python3",
+      "/Volumes/LaCie/open-commentary/_tools/validate.py",
+      "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537"
+    ],
+    "checked_at": "2026-10-20T15:43:43.196892+00:00",
+    "exit_code": 1,
+    "result": {
+      "repo": "Komentar-NL-BWBR0005537",
+      "units": 588,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 332706,
+      "errors": [
+        "krátký/chybějící komentář u 388 jednotek: ['art-4:111(0<400)', 'art-4:112(0<400)', 'art-4:113(0<400)', 'art-4:114(0<400)', 'art-4:115(0<120)', 'art-4:116(0<400)', 'art-4:117(0<400)', 'art-4:118(0<120)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "stderr": "",
+    "output_git_clean_at_check": true
+  }
 }
