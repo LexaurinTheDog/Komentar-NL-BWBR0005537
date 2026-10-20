@@ -1,0 +1,74 @@
+[
+  {
+    "ecli": "ECLI:NL:CBB:2026:95",
+    "court": "College van Beroep voor het bedrijfsleven",
+    "date": "2026-03-10",
+    "docket": "23/1394",
+    "paragraphs": [
+      "3.1–3.3"
+    ],
+    "supported_ids": [
+      "art-5:20"
+    ],
+    "full_text_read": true,
+    "official_xml": "sources/review-013/ECLI-NL-CBB-2026-95.xml",
+    "full_text_path": "sources/review-013/ECLI-NL-CBB-2026-95.txt",
+    "sha256": "a04413abb03085c826ba5c6f0770962c8bbf399e70a892e25573b7283f1b852a",
+    "unchanged_from_author_source": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/cbb/ecli-nl-cbb-2026-95.md",
+    "local_found": true,
+    "local_sha256": "69e302c0d41e1edc13ea751afa054971cb3610d0cc0d7a87e9c78900e0355d46",
+    "local_body_contained_in_official": true,
+    "full_body_whitespace_equal": false
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2025:545",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State",
+    "date": "2025-02-12",
+    "docket": "202202122/1/R3",
+    "paragraphs": [
+      "7.2",
+      "8.2–8.3",
+      "10–14",
+      "16"
+    ],
+    "supported_ids": [
+      "art-5:24",
+      "art-5:25",
+      "art-5:27",
+      "art-5:29",
+      "art-5:30",
+      "art-5:31c"
+    ],
+    "full_text_read": true,
+    "official_xml": "sources/review-013/ECLI-NL-RVS-2025-545.xml",
+    "full_text_path": "sources/review-013/ECLI-NL-RVS-2025-545.txt",
+    "sha256": "825cb0c74709359d0d09baaf48f79f6bcf1c8d7a66671349affa99e5221c7f06",
+    "unchanged_from_author_source": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2025-545.md",
+    "local_found": true,
+    "local_sha256": "f1ebbdcfe560ba41e9efa48380fc05de0ad78743e1aed4017f487ab76ec67c70",
+    "local_body_contained_in_official": true,
+    "full_body_whitespace_equal": true
+  },
+  {
+    "ecli": "ECLI:NL:GHDHA:2024:1447",
+    "court": "Gerechtshof Den Haag",
+    "date": "2024-08-27",
+    "docket": "200.318.899/01",
+    "paragraphs": [
+      "6.2–6.12",
+      "6.15–6.18"
+    ],
+    "supported_ids": [
+      "art-5:30"
+    ],
+    "full_text_read": true,
+    "official_xml": "sources/review-013/ECLI-NL-GHDHA-2024-1447.xml",
+    "full_text_path": "sources/review-013/ECLI-NL-GHDHA-2024-1447.txt",
+    "sha256": "88804e643f35f06d746a262fe08e28abfe296d691d373e35c7b6f0fc2400538e",
+    "unchanged_from_author_source": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/ghdha/ecli-nl-ghdha-2024-1447.md",
+    "local_found": false
+  }
+]

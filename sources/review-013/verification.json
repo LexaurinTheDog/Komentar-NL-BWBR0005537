@@ -1,0 +1,94 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T16:35:07.960510+00:00",
+    "path": "sources/review-013/current.html",
+    "bytes": 4204181,
+    "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T16:35:07.868152+00:00",
+    "path": "sources/review-013/history.html",
+    "bytes": 1755568,
+    "sha256": "cd0d218a7a73b112bd9df57441602f5b4495b4e523add52904642784bcec2033",
+    "accepted_format": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T16:35:05.639061+00:00",
+    "path": "sources/review-013/selected.xml",
+    "bytes": 2622149,
+    "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "xml_root": "toestand",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2025:545",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2025:545",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T16:35:04.868376+00:00",
+    "path": "sources/review-013/ECLI-NL-RVS-2025-545.xml",
+    "bytes": 44002,
+    "sha256": "825cb0c74709359d0d09baaf48f79f6bcf1c8d7a66671349affa99e5221c7f06",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:GHDHA:2024:1447",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:GHDHA:2024:1447",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T16:35:05.045999+00:00",
+    "path": "sources/review-013/ECLI-NL-GHDHA-2024-1447.xml",
+    "bytes": 46664,
+    "sha256": "88804e643f35f06d746a262fe08e28abfe296d691d373e35c7b6f0fc2400538e",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CBB:2026:95",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CBB:2026:95",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T16:35:06.345947+00:00",
+    "path": "sources/review-013/ECLI-NL-CBB-2026-95.xml",
+    "bytes": 10462,
+    "sha256": "a04413abb03085c826ba5c6f0770962c8bbf399e70a892e25573b7283f1b852a",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0006763",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0006763/2010-07-01",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T16:35:06.690436+00:00",
+    "path": "sources/review-013/awbi-current.html",
+    "bytes": 126568,
+    "sha256": "45c49ffbb5bbf8d893d80f1a05f5ecce82d8ec8f4d2381e440094740e3bfdddc",
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0006763/2010-07-01/0/informatie",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0006763/2010-07-01/0/informatie",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T16:35:06.630504+00:00",
+    "path": "sources/review-013/awbi-history.html",
+    "bytes": 41209,
+    "sha256": "fd179852301b8873a8e2b66ef2afe6848abc02cb0ceb68e89b46d9f8795867fb",
+    "accepted_format": true
+  }
+]

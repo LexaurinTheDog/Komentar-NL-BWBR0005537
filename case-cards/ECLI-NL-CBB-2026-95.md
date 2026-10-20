@@ -11,3 +11,5 @@ Rechter: College van Beroep voor het bedrijfsleven, enkelvoudige kamer. Zaak **2
 **Broncontrole op 20 oktober 2026.** De volledige officiële XML en uitspraakbody zijn gelezen. De lokale corpusbody is zonder witruimte volledig aanwezig in de officiële body maar niet geheel daaraan gelijk. Geen uitputtend onderzoek naar latere behandeling of alle bijzondere tuinbouwregels.
 
 **Bewaarde bronnen:** [officiële XML](../sources/author-5-18-32a/ECLI-NL-CBB-2026-95.xml), [volledige uitspraakbody](../sources/author-5-18-32a/ECLI-NL-CBB-2026-95.txt), [HTTP en hashes](../sources/author-5-18-32a/verification.json), [corpusvergelijking](../sources/author-5-18-32a/local-case-comparison.json).
+
+Tweede inhoudelijke beoordeling op 20 oktober 2026: volledige officiële XML opnieuw opgehaald en gelezen, identiek aan de auteursbron. [Nieuwe HTTP-respons en hash](../sources/review-013/verification.json) en [autoriteitenstaat met lokale vergelijking](../sources/review-013/authority-review.json). De hierboven afgebakende ondersteuning blijft gelden; geen uitputtende vervolgcontrole of externe professionele goedkeuring.

@@ -1,0 +1,2431 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE officiele-publicatie PUBLIC "-//Overheid//Officiele publicaties 1.0//NL" "http://standaarden.overheid.nl/op/dtd/offpublicatie.dtd"[]>
+<officiele-publicatie>
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2009-264/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel status="officieel">Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Wet van 25 juni 2009 tot aanvulling van de Algemene wet
+    bestuursrecht (Vierde tranche Algemene wet bestuursrecht)</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses
+        van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al>Allen, die deze zullen zien of horen lezen, saluut!
+          doen te weten:</considerans.al>
+          <considerans.al>Alzo Wij in overweging genomen hebben, dat het, gelet
+          op artikel 107, tweede lid, van de Grondwet wenselijk is de Algemene wet
+          bestuursrecht aan te vullen met bepalingen inzake bestuursrechtelijke
+          geldschulden, inzake bestuurlijke handhaving, in het bijzonder de bestuurlijke
+          boete, en inzake attributie;</considerans.al>
+          <considerans.al bevat="gehoord">Zo is het, dat Wij, de Raad van State
+          gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en
+          verstaan, gelijk Wij goedvinden en verstaan bij deze:</considerans.al>
+        </considerans>
+      </aanhef>
+      <wettekst>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">I</nr>
+          </kop>
+          <wat type="wijziging">De Algemene wet bestuursrecht wordt gewijzigd als
+          volgt:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Aan artikel 1:1 wordt een lid toegevoegd, luidende:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>De vermogensrechtelijke gevolgen van een handeling van een
+                  bestuursorgaan treffen de rechtspersoon waartoe het bestuursorgaan
+                  behoort.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 4:52 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">4:52</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Het subsidiebedrag wordt overeenkomstig de
+                  subsidievaststelling betaald.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Indien de subsidie niet op een wettelijk voorschrift
+                  berust, kan bij de subsidieverlening, of, indien geen beschikking tot
+                  subsidieverlening is gegeven, bij de subsidievaststelling een van artikel 4:87,
+                  eerste lid, afwijkende termijn voor de betaling van het subsidiebedrag worden
+                  vastgesteld.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>De artikelen 4:54 en 4:55 vervallen.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>Artikel 4:57 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">4:57</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Het bestuursorgaan kan onverschuldigd betaalde
+                  subsidiebedragen terugvorderen.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Het bestuursorgaan kan het terug te vorderen bedrag bij
+                  dwangbevel invorderen.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Het bestuursorgaan kan het terug te vorderen bedrag
+                  verrekenen met een aan dezelfde subsidie-ontvanger voor dezelfde activiteiten
+                  verstrekte subsidie voor een ander tijdvak.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>Terugvordering van een subsidiebedrag of een voorschot
+                  vindt niet plaats voor zover na de dag waarop de subsidie is vastgesteld, dan
+                  wel de handeling, bedoeld in artikel 4:49, eerste lid, onderdeel c, heeft
+                  plaatsgevonden, vijf jaren zijn verstreken.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>Na titel 4.3 wordt een titel ingevoegd, luidende:</wat>
+            <wijziging>
+              <wijzig-divisie soort="titeldeel" opmaak="default">
+                <kop kopopmaak="vet">
+                  <label>TITEL</label>
+                  <nr status="officieel">4.4</nr>
+                  <titel status="officieel">BESTUURSRECHTELIJKE GELDSCHULDEN</titel>
+                </kop>
+                <wijzig-divisie soort="afdeling" opmaak="default">
+                  <kop>
+                    <label>AFDELING</label>
+                    <nr status="officieel">4.4.1</nr>
+                    <titel status="officieel">VASTSTELLING EN INHOUD VAN DE VERPLICHTING TOT
+                    BETALING</titel>
+                  </kop>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:85</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Deze titel is van toepassing op geldschulden die
+                      voortvloeien uit:</al>
+                      <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                          <li.nr>a.</li.nr>
+                          <al>een wettelijk voorschrift dat een verplichting tot
+                          betaling uitsluitend aan of door een bestuursorgaan regelt, of</al>
+                        </li>
+                        <li>
+                          <li.nr>b.</li.nr>
+                          <al>een besluit dat vatbaar is voor bezwaar of
+                          beroep.</al>
+                        </li>
+                      </lijst>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Deze titel is niet van toepassing op verplichtingen tot
+                      betaling van een geldsom voor het in behandeling nemen van een aanvraag.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>Deze titel is niet van toepassing op verplichtingen tot
+                      betaling die bij uitspraak van de administratieve rechter zijn opgelegd.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:86</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>De verplichting tot betaling van een geldsom wordt bij
+                      beschikking vastgesteld.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>De beschikking vermeldt in ieder geval:</al>
+                      <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                          <li.nr>a.</li.nr>
+                          <al>de te betalen geldsom;</al>
+                        </li>
+                        <li>
+                          <li.nr>b.</li.nr>
+                          <al>de termijn waarbinnen de betaling moet
+                          plaatsvinden.</al>
+                        </li>
+                      </lijst>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:87</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>De betaling geschiedt binnen zes weken nadat de
+                      beschikking op de voorgeschreven wijze is bekendgemaakt, tenzij de beschikking
+                      een later tijdstip vermeldt.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Bij of krachtens wettelijk voorschrift kan een andere
+                      termijn voor de betaling worden vastgesteld.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:88</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Bij wettelijk voorschrift kan worden bepaald dat een
+                      geldsom moet worden betaald zonder dat dit bij beschikking is vastgesteld.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>In dat geval wordt tevens bepaald binnen welke termijn
+                      de betaling moet plaatsvinden.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>Indien de belanghebbende binnen redelijke termijn
+                      daarom verzoekt wordt de op het bestuursorgaan rustende verplichting tot
+                      betaling zo spoedig mogelijk alsnog bij beschikking vastgesteld.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:89</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Tenzij bij wettelijk voorschrift anders is bepaald,
+                      geschiedt betaling door bijschrijving op een daartoe door de schuldeiser
+                      bestemde bankrekening.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Betaling geschiedt in euro, tenzij bij wettelijk
+                      voorschrift of bij besluit van het bestuursorgaan anders is bepaald.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>Betaling door bijschrijving op een bankrekening
+                      geschiedt op het tijdstip waarop de rekening van de schuldeiser wordt
+                      gecrediteerd.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">4.</lidnr>
+                      <al>Bij wettelijk voorschrift kan worden bepaald dat
+                      betaling aan een ander dan de schuldeiser geschiedt.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:90</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Indien girale betaling naar het oordeel van het
+                      bestuursorgaan bezwaarlijk is, kan het betaling in andere vorm ontvangen of
+                      verrichten.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>De schuldeiser is verplicht voor iedere contante
+                      betaling een kwitantie af te geven, tenzij bij wettelijk voorschrift anders is
+                      bepaald.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:91</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>De kosten van betaling komen ten laste van de
+                      schuldenaar.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Indien een bestuursorgaan betaalt aan een schuldeiser
+                      buiten de Europese Unie, kunnen de daaraan verbonden kosten op het te betalen
+                      bedrag in mindering worden gebracht, tenzij bij wettelijk voorschrift anders is
+                      bepaald.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:92</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Betaling ter voldoening van een bepaalde geldschuld
+                      strekt in de eerste plaats tot mindering van de kosten, vervolgens tot
+                      mindering van de verschenen rente en ten slotte tot mindering van de hoofdsom
+                      en de lopende rente.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Indien een schuldenaar verschillende geldschulden heeft
+                      bij dezelfde schuldeiser, kan de schuldenaar bij de betaling de geldschuld
+                      aanwijzen waaraan de betaling moet worden toegerekend.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:93</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Verrekening van een geldschuld met een bestaande
+                      vordering geschiedt slechts voor zover in de bevoegdheid daartoe bij wettelijk
+                      voorschrift is voorzien.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Verrekening geschiedt onder vermelding van de vordering
+                      waarmee de geldschuld is verrekend alsmede de hoogte van het bedrag van de
+                      verrekening.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>De verrekening werkt terug overeenkomstig artikel 129,
+                      eerste en tweede lid, van Boek 6 van het Burgerlijk Wetboek.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">4.</lidnr>
+                      <al>De schuldenaar is niet bevoegd tot verrekening voor
+                      zover beslag op de vordering van de schuldeiser nietig zou zijn.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">5.</lidnr>
+                      <al>Uitstel van betaling staat aan verrekening niet in de
+                      weg.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:94</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Het bestuursorgaan kan de wederpartij uitstel van
+                      betaling verlenen.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Gedurende het uitstel kan het bestuursorgaan niet
+                      aanmanen of invorderen.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>De beschikking tot uitstel van betaling vermeldt de
+                      termijn waarvoor het uitstel geldt.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">4.</lidnr>
+                      <al>Het bestuursorgaan kan aan de beschikking tot uitstel
+                      van betaling voorschriften verbinden.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:95</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Het bestuursorgaan kan vooruitlopend op de vaststelling
+                      van een verplichting tot betaling van een geldsom een voorschot verlenen indien
+                      redelijkerwijs kan worden aangenomen dat een verplichting tot betaling zal
+                      worden vastgesteld, tenzij bij wettelijk voorschrift anders is bepaald.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>In de beschikking tot verlening van een voorschot kan,
+                      in afwijking van artikel 4:86, tweede lid, onderdeel a, worden volstaan met de
+                      vermelding van de wijze waarop het bedrag van het voorschot wordt bepaald.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>Bij de beschikking tot verlening van een voorschot kan
+                      een van artikel 4:87, eerste lid, afwijkende termijn voor de betaling van het
+                      voorschot worden vastgesteld.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">4.</lidnr>
+                      <al>Betaalde voorschotten worden verrekend met de te
+                      betalen geldsom. Onverschuldigd betaalde voorschotten kunnen worden
+                      teruggevorderd.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">5.</lidnr>
+                      <al>Het bestuursorgaan kan het terug te vorderen voorschot
+                      bij dwangbevel invorderen voor zover deze bevoegdheid ook ten aanzien van de
+                      terugvordering van de hoofdsom is toegekend.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">6.</lidnr>
+                      <al>Het bestuursorgaan kan aan de beschikking tot verlening
+                      van een voorschot voorschriften verbinden.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:96</nr>
+                    </kop>
+                    <al>Het bestuursorgaan kan de beschikking tot uitstel van
+                    betaling onderscheidenlijk tot verlening van een voorschot intrekken of
+                    wijzigen:</al>
+                    <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>indien de voorschriften niet worden nageleefd;</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>indien de wederpartij onjuiste of onvolledige
+                        gegevens heeft verstrekt en de verstrekking van juiste of volledige gegevens
+                        tot een andere beschikking zou hebben geleid, of</al>
+                      </li>
+                      <li>
+                        <li.nr>c.</li.nr>
+                        <al>voor zover veranderde omstandigheden zich verzetten
+                        tegen voortduring van het uitstel onderscheidenlijk tegen de verlening van het
+                        voorschot.</al>
+                      </li>
+                    </lijst>
+                  </artikel>
+                </wijzig-divisie>
+                <wijzig-divisie soort="afdeling" opmaak="default">
+                  <kop>
+                    <label>AFDELING</label>
+                    <nr status="officieel">4.4.2</nr>
+                    <titel status="officieel">VERZUIM EN WETTELIJKE RENTE</titel>
+                  </kop>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:97</nr>
+                    </kop>
+                    <al>De schuldenaar is in verzuim indien hij niet binnen de
+                    voorgeschreven termijn heeft betaald.</al>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:98</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Het verzuim heeft de verschuldigdheid van wettelijke
+                      rente tot gevolg overeenkomstig de artikelen 119, eerste en tweede lid, en 120,
+                      eerste lid, van Boek 6 van het Burgerlijk Wetboek.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Wettelijke rente is niet verschuldigd indien het bedrag
+                      ervan bij enige of laatste betaling minder bedraagt dan € 20, dan wel, indien
+                      het bestuursorgaan de schuldenaar is, € 10.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>De in het tweede lid bedoelde bedragen kunnen bij
+                      algemene maatregel van bestuur worden gewijzigd voor zover de
+                      consumentenprijsindex daartoe aanleiding geeft.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">4.</lidnr>
+                      <al>Indien na het intreden van het verzuim de koers van het
+                      geld waarin de geldschuld moet worden betaald zich heeft gewijzigd, is artikel
+                      125 van Boek 6 van het Burgerlijk Wetboek van overeenkomstige toepassing.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:99</nr>
+                    </kop>
+                    <al>Het bestuursorgaan stelt het bedrag van de verschuldigde
+                    wettelijke rente bij beschikking vast.</al>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:100</nr>
+                    </kop>
+                    <al>Indien het bestuursorgaan de beschikking tot betaling van
+                    een door hem verschuldigde geldsom niet tijdig geeft, is het wettelijke rente
+                    verschuldigd vanaf het tijdstip waarop het in verzuim zou zijn geweest indien
+                    de beschikking op de laatste dag van de daarvoor gestelde termijn zou zijn
+                    gegeven.</al>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:101</nr>
+                    </kop>
+                    <al>Voor zover het bestuursorgaan uitstel van betaling heeft
+                    verleend of de rechter de verplichting tot betaling heeft geschorst, is de
+                    schuldenaar over de termijn van uitstel of schorsing wettelijke rente
+                    verschuldigd, tenzij bij het uitstel of de schorsing anders is bepaald.</al>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:102</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Indien een betaling aan het bestuursorgaan is geschied
+                      op grond van een beschikking die in bezwaar of in beroep is gewijzigd of
+                      vernietigd, is het bestuursorgaan over de termijn tussen de betaling en de
+                      terugbetaling wettelijke rente verschuldigd over het te veel betaalde
+                      bedrag.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Indien een afwijzende beschikking tot betaling door het
+                      bestuursorgaan als gevolg van bezwaar of beroep wordt vervangen door een
+                      beschikking tot betaling, is het bestuursorgaan wettelijke rente verschuldigd
+                      vanaf het tijdstip waarop het in verzuim zou zijn geweest indien de beschikking
+                      op de laatste dag van de daarvoor gestelde termijn zou zijn gegeven.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>Wettelijke rente is niet verschuldigd voor zover de
+                      belanghebbende onjuiste of onvolledige gegevens heeft verstrekt, dan wel aan de
+                      belanghebbende is toe te rekenen dat onjuiste of onvolledige gegevens zijn
+                      verstrekt.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">4.</lidnr>
+                      <al>Dit artikel is van overeenkomstige toepassing indien
+                      het bestuursorgaan de beschikking tot betaling met terugwerkende kracht wijzigt
+                      of intrekt.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:103</nr>
+                    </kop>
+                    <al>Deze afdeling is niet van toepassing indien bij de wet
+                    een andere regeling omtrent verzuim en de gevolgen daarvan is getroffen.</al>
+                  </artikel>
+                </wijzig-divisie>
+                <wijzig-divisie soort="afdeling" opmaak="default">
+                  <kop>
+                    <label>AFDELING</label>
+                    <nr status="officieel">4.4.3</nr>
+                    <titel status="officieel">VERJARING</titel>
+                  </kop>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:104</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>De rechtsvordering tot betaling van een geldsom
+                      verjaart vijf jaren nadat de voorgeschreven betalingstermijn is
+                      verstreken.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Na voltooiing van de verjaring kan het bestuursorgaan
+                      zijn bevoegdheden tot aanmaning en verrekening en tot uitvaardiging en
+                      tenuitvoerlegging van een dwangbevel niet meer uitoefenen.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:105</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>De verjaring wordt gestuit door een daad van
+                      rechtsvervolging overeenkomstig artikel 316, eerste lid, van Boek 3 van het
+                      Burgerlijk Wetboek. Artikel 316, tweede lid, van Boek 3 van het Burgerlijk
+                      Wetboek is van overeenkomstige toepassing.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Erkenning van het recht op betaling stuit de verjaring
+                      van de rechtsvordering tegen hem die het recht erkent.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:106</nr>
+                    </kop>
+                    <al>Het bestuursorgaan kan de verjaring ook stuiten door een
+                    aanmaning als bedoeld in artikel 4:112 een beschikking tot verrekening of een
+                    dwangbevel dan wel door een daad van tenuitvoerlegging van een dwangbevel.</al>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:107</nr>
+                    </kop>
+                    <al>De schuldeiser van het bestuursorgaan kan de verjaring
+                    ook stuiten door een schriftelijke aanmaning of een schriftelijke mededeling
+                    waarin hij zich ondubbelzinnig zijn recht op betaling voorbehoudt.</al>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:108</nr>
+                    </kop>
+                    <al>Indien de schuldeiser van het bestuursorgaan een recht
+                    tot verrekening als bedoeld in artikel 4:93 heeft, eindigt dit recht niet door
+                    verjaring van de rechtsvordering.</al>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:109</nr>
+                    </kop>
+                    <al>Indien de schuldeiser van het bestuursorgaan zelf een
+                    bestuursorgaan is, zijn de artikelen 4:107 en 4:108 niet van toepassing.</al>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:110</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Door stuiting van de verjaring begint een nieuwe
+                      verjaringstermijn te lopen met de aanvang van de volgende dag.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>De nieuwe termijn is gelijk aan de oorspronkelijke,
+                      doch niet langer dan vijf jaren.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>Wordt de verjaring echter gestuit door het instellen
+                      van een eis die door toewijzing wordt gevolgd, dan is artikel 324 van Boek 3
+                      van het Burgerlijk Wetboek van overeenkomstige toepassing.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:111</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>De verjaringstermijn van de rechtsvordering tot
+                      betaling aan een bestuursorgaan wordt verlengd met de tijd gedurende welke de
+                      schuldenaar na de aanvang van die termijn uitstel van betaling heeft.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Het eerste lid is van overeenkomstige toepassing
+                      indien:</al>
+                      <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                          <li.nr>a.</li.nr>
+                          <al>de schuldenaar in surseance van betaling
+                          verkeert;</al>
+                        </li>
+                        <li>
+                          <li.nr>b.</li.nr>
+                          <al>de schuldenaar in staat van faillissement
+                          verkeert;</al>
+                        </li>
+                        <li>
+                          <li.nr>c.</li.nr>
+                          <al>ten aanzien van de schuldenaar de
+                          schuldsaneringsregeling natuurlijke personen van toepassing is;</al>
+                        </li>
+                        <li>
+                          <li.nr>d.</li.nr>
+                          <al>de tenuitvoerlegging van een dwangbevel is
+                          geschorst ingevolge een lopend rechtsgeding, met dien verstande dat de termijn
+                          waarmee de verjaringstermijn wordt verlengd een aanvang neemt op de dag waarop
+                          het rechtsgeding door middel van dagvaarding aanhangig wordt gemaakt.</al>
+                        </li>
+                      </lijst>
+                    </lid>
+                  </artikel>
+                </wijzig-divisie>
+                <wijzig-divisie soort="afdeling" opmaak="default">
+                  <kop>
+                    <label>AFDELING</label>
+                    <nr status="officieel">4.4.4</nr>
+                    <titel status="officieel">AANMANING EN INVORDERING BIJ DWANGBEVEL</titel>
+                  </kop>
+                  <wijzig-divisie soort="paragraaf" opmaak="default">
+                    <kop>
+                      <label>Paragraaf</label>
+                      <nr status="officieel">4.4.4.1</nr>
+                      <titel status="officieel">De aanmaning</titel>
+                    </kop>
+                    <artikel status="goed">
+                      <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">4:112</nr>
+                      </kop>
+                      <lid>
+                        <lidnr status="officieel">1.</lidnr>
+                        <al>Het bestuursorgaan maant de schuldenaar die in
+                        verzuim is schriftelijk aan tot betaling binnen twee weken, gerekend vanaf de
+                        dag na die waarop de aanmaning is toegezonden.</al>
+                      </lid>
+                      <lid>
+                        <lidnr status="officieel">2.</lidnr>
+                        <al>Bij wettelijk voorschrift kan een andere termijn
+                        worden vastgesteld.</al>
+                      </lid>
+                      <lid>
+                        <lidnr status="officieel">3.</lidnr>
+                        <al>De aanmaning vermeldt dat bij niet tijdige betaling
+                        deze kan worden afgedwongen door op kosten van de schuldenaar uit te voeren
+                        invorderingsmaatregelen.</al>
+                      </lid>
+                    </artikel>
+                    <artikel status="goed">
+                      <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">4:113</nr>
+                      </kop>
+                      <lid>
+                        <lidnr status="officieel">1.</lidnr>
+                        <al>Het bestuursorgaan kan voor de aanmaning een
+                        vergoeding in rekening brengen. De vergoeding bedraagt € 6 indien de schuld
+                        minder dan € 454 bedraagt en € 14 indien de schuld € 454 of meer bedraagt.</al>
+                      </lid>
+                      <lid>
+                        <lidnr status="officieel">2.</lidnr>
+                        <al>De aanmaning vermeldt de vergoeding die in rekening
+                        wordt gebracht.</al>
+                      </lid>
+                      <lid>
+                        <lidnr status="officieel">3.</lidnr>
+                        <al>De in het eerste lid bedoelde bedragen kunnen bij
+                        algemene maatregel van bestuur worden gewijzigd voor zover de
+                        consumentenprijsindex daartoe aanleiding geeft.</al>
+                      </lid>
+                    </artikel>
+                  </wijzig-divisie>
+                  <wijzig-divisie soort="paragraaf" opmaak="default">
+                    <kop>
+                      <label>Paragraaf</label>
+                      <nr status="officieel">4.4.4.2</nr>
+                      <titel status="officieel">Invordering bij dwangbevel</titel>
+                    </kop>
+                    <artikel status="goed">
+                      <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">4:114</nr>
+                      </kop>
+                      <al>Onder dwangbevel wordt verstaan: een schriftelijk bevel
+                      van een bestuursorgaan dat ertoe strekt de betaling van een geldsom als bedoeld
+                      in artikel 4:85 af te dwingen.</al>
+                    </artikel>
+                    <artikel status="goed">
+                      <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">4:115</nr>
+                      </kop>
+                      <al>De bevoegdheid tot uitvaardiging van een dwangbevel
+                      bestaat slechts indien zij bij de wet is toegekend.</al>
+                    </artikel>
+                    <artikel status="goed">
+                      <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">4:116</nr>
+                      </kop>
+                      <al>Een dwangbevel levert een executoriale titel op, die
+                      met toepassing van de voorschriften van het Wetboek van Burgerlijke
+                      Rechtsvordering kan worden tenuitvoergelegd.</al>
+                    </artikel>
+                    <artikel status="goed">
+                      <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">4:117</nr>
+                      </kop>
+                      <lid>
+                        <lidnr status="officieel">1.</lidnr>
+                        <al>Een dwangbevel wordt slechts uitgevaardigd wanneer
+                        binnen de overeenkomstig artikel 4:112 gestelde aanmaningstermijn niet volledig
+                        is betaald.</al>
+                      </lid>
+                      <lid>
+                        <lidnr status="officieel">2.</lidnr>
+                        <al>Bij de wet kan evenwel worden bepaald dat het
+                        dwangbevel zo nodig zonder aanmaning en voor het verstrijken van bij wettelijk
+                        voorschrift gestelde of eerder gegunde betalings- of aanmaningstermijnen kan
+                        worden uitgevaardigd of tenuitvoergelegd.</al>
+                      </lid>
+                    </artikel>
+                    <artikel status="goed">
+                      <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">4:118</nr>
+                      </kop>
+                      <al>Artikel 4:8 is niet van toepassing op de aanmaning en
+                      het dwangbevel.</al>
+                    </artikel>
+                    <artikel status="goed">
+                      <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">4:119</nr>
+                      </kop>
+                      <lid>
+                        <lidnr status="officieel">1.</lidnr>
+                        <al>Bij het dwangbevel kunnen tevens de
+                        aanmaningsvergoeding, de wettelijke rente en de kosten van het dwangbevel
+                        worden ingevorderd.</al>
+                      </lid>
+                      <lid>
+                        <lidnr status="officieel">2.</lidnr>
+                        <al>Het dwangbevel kan betrekking hebben op verschillende
+                        verplichtingen tot betaling van een geldsom door de schuldenaar aan het
+                        bestuursorgaan.</al>
+                      </lid>
+                    </artikel>
+                    <artikel status="goed">
+                      <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">4:120</nr>
+                      </kop>
+                      <lid>
+                        <lidnr status="officieel">1.</lidnr>
+                        <al>De betekening en de tenuitvoerlegging van het
+                        dwangbevel geschieden op kosten van degene tegen wie het is uitgevaardigd.</al>
+                      </lid>
+                      <lid>
+                        <lidnr status="officieel">2.</lidnr>
+                        <al>De gerechtelijke kosten worden berekend met
+                        toepassing van de op grond van artikel 434a van het Wetboek van Burgerlijke
+                        Rechtsvordering vastgestelde tarieven. De buitengerechtelijke kosten worden
+                        berekend met toepassing van bij algemene maatregel van bestuur vast te stellen
+                        tarieven.</al>
+                      </lid>
+                      <lid>
+                        <lidnr status="officieel">3.</lidnr>
+                        <al>De kosten zijn ook verschuldigd indien het dwangbevel
+                        door betaling van verschuldigde bedragen niet of niet volledig ten uitvoer is
+                        gelegd.</al>
+                      </lid>
+                    </artikel>
+                    <artikel status="goed">
+                      <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">4:121</nr>
+                      </kop>
+                      <al>Indien een dwangbevel dat is uitgevaardigd voor een
+                      gedeelte van een verplichting tot betaling van een geldsom ten uitvoer wordt
+                      gelegd door beslaglegging, kunnen bij datzelfde dwangbevel alle tot het
+                      tijdstip van beslaglegging vervallen termijnen van die verplichting worden inge<?xpp afbm?>vorderd,
+                      mits het op dat tijdstip invorderbare bedrag uit het dwangbevel is op te
+                      maken.</al>
+                    </artikel>
+                    <artikel status="goed">
+                      <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">4:122</nr>
+                      </kop>
+                      <lid>
+                        <lidnr status="officieel">1.</lidnr>
+                        <al>Het dwangbevel vermeldt in ieder geval:</al>
+                        <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                          <li>
+                            <li.nr>a.</li.nr>
+                            <al>aan het hoofd het woord «dwangbevel»;</al>
+                          </li>
+                          <li>
+                            <li.nr>b.</li.nr>
+                            <al>het bedrag van de invorderbare hoofdsom;</al>
+                          </li>
+                          <li>
+                            <li.nr>c.</li.nr>
+                            <al>de beschikking of het wettelijk voorschrift
+                            waaruit de geldschuld voortvloeit;</al>
+                          </li>
+                          <li>
+                            <li.nr>d.</li.nr>
+                            <al>de kosten van het dwangbevel, en</al>
+                          </li>
+                          <li>
+                            <li.nr>e.</li.nr>
+                            <al>dat het op kosten van de schuldenaar ten uitvoer
+                            kan worden gelegd.</al>
+                          </li>
+                        </lijst>
+                      </lid>
+                      <lid>
+                        <lidnr status="officieel">2.</lidnr>
+                        <al>Het dwangbevel vermeldt, indien van toepassing:</al>
+                        <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                          <li>
+                            <li.nr>a.</li.nr>
+                            <al>het bedrag van de aanmaningsvergoeding, en</al>
+                          </li>
+                          <li>
+                            <li.nr>b.</li.nr>
+                            <al>de ingangsdatum van de wettelijke rente.</al>
+                          </li>
+                        </lijst>
+                      </lid>
+                    </artikel>
+                    <artikel status="goed">
+                      <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">4:123</nr>
+                      </kop>
+                      <lid>
+                        <lidnr status="officieel">1.</lidnr>
+                        <al>De bekendmaking van een dwangbevel geschiedt door
+                        middel van de betekening van een exploot als bedoeld in het Wetboek van
+                        Burgerlijke Rechtsvordering. De artikelen 3:41 tot en met 3:45 zijn niet van
+                        toepassing.</al>
+                      </lid>
+                      <lid>
+                        <lidnr status="officieel">2.</lidnr>
+                        <al>Het exploot vermeldt in ieder geval de rechtbank
+                        waarbij tegen het dwangbevel en de tenuitvoerlegging ervan overeenkomstig de
+                        artikelen 438 en 438a van het Wetboek van Burgerlijke Rechtsvordering kan
+                        worden opgekomen.</al>
+                      </lid>
+                    </artikel>
+                    <artikel status="goed">
+                      <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">4:124</nr>
+                      </kop>
+                      <al>Het bestuursorgaan beschikt ten aanzien van de
+                      invordering ook over de bevoegdheden die een schuldeiser op grond van het
+                      privaatrecht heeft.</al>
+                    </artikel>
+                  </wijzig-divisie>
+                </wijzig-divisie>
+                <wijzig-divisie soort="afdeling" opmaak="default">
+                  <kop>
+                    <label>AFDELING</label>
+                    <nr status="officieel">4.4.5</nr>
+                    <titel status="officieel">BEZWAAR EN BEROEP</titel>
+                  </kop>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">4:125</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Het bezwaar, beroep of hoger beroep tegen de
+                      beschikking waarbij de verplichting tot betaling van een geldsom is
+                      vastgesteld, heeft mede betrekking op een bijkomende beschikking van hetzelfde
+                      bestuursorgaan omtrent verrekening, uitstel van betaling, verlening van een
+                      voorschot, vaststelling van de rente of gehele of gedeeltelijke kwijtschelding,
+                      voor zover de belanghebbende deze beschikking betwist.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Het bezwaar, beroep of hoger beroep tegen een
+                      bijkomende beschikking heeft mede betrekking op een latere bijkomende
+                      beschikking met betrekking tot dezelfde geldschuld, voor zover de
+                      belanghebbende deze beschikking betwist.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>De administratieve rechter kan de beslissing op het
+                      beroep of hoger beroep inzake de bijkomende beschikking echter verwijzen naar
+                      een ander orgaan, indien behandeling door dit orgaan gewenst is.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">4.</lidnr>
+                      <al>In beroep of hoger beroep legt de belanghebbende zo
+                      mogelijk een afschrift over van de bijkomende beschikking die hij betwist.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">5.</lidnr>
+                      <al>Het eerste tot en met het vierde lid zijn van
+                      overeenkomstige toepassing op een verzoek om voorlopige voorziening.</al>
+                    </lid>
+                  </artikel>
+                </wijzig-divisie>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">F</lidnr>
+            <wat>In hoofdstuk 5 wordt voor afdeling 5.2 een titel ingevoegd,
+            luidende:</wat>
+            <wijziging>
+              <wijzig-divisie soort="titeldeel" opmaak="default">
+                <kop kopopmaak="vet">
+                  <label>TITEL</label>
+                  <nr status="officieel">5.1</nr>
+                  <titel status="officieel">ALGEMENE BEPALINGEN</titel>
+                </kop>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">5:1</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>In deze wet wordt verstaan onder overtreding: een
+                    gedraging die in strijd is met het bepaalde bij of krachtens enig wettelijk
+                    voorschrift.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Onder overtreder wordt verstaan: degene die de
+                    overtreding pleegt of medepleegt.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Overtredingen kunnen worden begaan door natuurlijke
+                    personen en rechtspersonen.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">5:2</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>In deze wet wordt verstaan onder:</al>
+                    <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>bestuurlijke sanctie: een door een bestuursorgaan
+                        wegens een overtreding opgelegde verplichting of onthouden aanspraak;</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>herstelsanctie: een bestuurlijke sanctie die strekt
+                        tot het geheel of gedeeltelijk ongedaan maken of beëindigen van een
+                        overtreding, tot het voorkomen van herhaling van een overtreding, dan wel tot
+                        het wegnemen of beperken van de gevolgen van een overtreding;</al>
+                      </li>
+                      <li>
+                        <li.nr>c.</li.nr>
+                        <al>bestraffende sanctie: een bestuurlijke sanctie voor
+                        zover deze beoogt de overtreder leed toe te voegen.</al>
+                      </li>
+                    </lijst>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Geen bestuurlijke sanctie is de enkele last tot het
+                    verrichten van bepaalde handelingen.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">5:3</nr>
+                  </kop>
+                  <al>De artikelen 5:4 tot en met 5:10 zijn van toepassing
+                  op:</al>
+                  <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>in dit hoofdstuk geregelde bestuurlijke sancties,
+                      en</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>bij wettelijk voorschrift aangewezen andere
+                      bestuurlijke sancties.</al>
+                    </li>
+                  </lijst>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">5:4</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>De bevoegdheid tot het opleggen van een bestuurlijke
+                    sanctie bestaat slechts voor zover zij bij of krachtens de wet is
+                    verleend.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Een bestuurlijke sanctie wordt slechts opgelegd indien de
+                    overtreding en de sanctie bij of krachtens een aan de gedraging voorafgaand
+                    wettelijk voorschrift zijn omschreven.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">5:5</nr>
+                  </kop>
+                  <al>Het bestuursorgaan legt geen bestuurlijke sanctie op voor
+                  zover voor de overtreding een rechtvaardigingsgrond bestond.</al>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">5:6</nr>
+                  </kop>
+                  <al>Het bestuursorgaan legt geen herstelsanctie op zolang een
+                  andere wegens dezelfde overtreding opgelegde herstelsanctie van kracht is.</al>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">5:7</nr>
+                  </kop>
+                  <al>Een herstelsanctie kan worden opgelegd zodra het gevaar
+                  voor de overtreding klaarblijkelijk dreigt.</al>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">5:8</nr>
+                  </kop>
+                  <al>Indien twee of meer voorschriften zijn overtreden, kan voor
+                  de overtreding van elk afzonderlijk voorschrift een bestuurlijke sanctie worden
+                  opgelegd.</al>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">5:9</nr>
+                  </kop>
+                  <al>De beschikking tot oplegging van een bestuurlijke sanctie
+                  vermeldt:</al>
+                  <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>de overtreding alsmede het overtreden voorschrift;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>zo nodig een aanduiding van de plaats waar en het
+                      tijdstip waarop de overtreding is geconstateerd.</al>
+                    </li>
+                  </lijst>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">5:10</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Voor zover een bestuurlijke sanctie verplicht tot
+                    betaling van een geldsom, komt deze geldsom toe aan het bestuursorgaan dat de
+                    sanctie heeft opgelegd, tenzij bij wettelijk voorschrift anders is
+                    bepaald.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Het bestuursorgaan kan de geldsom invorderen bij
+                    dwangbevel.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">5:10a</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Degene die wordt verhoord met het oog op het aan hem
+                    opleggen van een bestraffende sanctie, is niet verplicht ten behoeve daarvan
+                    verklaringen omtrent de overtreding af te leggen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Voor het verhoor wordt aan de betrokkene medegedeeld dat
+                    hij niet verplicht is tot antwoorden.</al>
+                  </lid>
+                </artikel>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">G</lidnr>
+            <wat>Het opschrift van afdeling 5.2 komt te luiden:</wat>
+            <wijziging>
+              <wijzig-divisie soort="titeldeel" opmaak="default">
+                <kop kopopmaak="vet">
+                  <label>TITEL</label>
+                  <nr status="officieel">5.2</nr>
+                  <titel status="officieel">TOEZICHT OP DE NALEVING</titel>
+                </kop>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">H</lidnr>
+            <wat>De afdelingen 5.3 en 5.4 worden vervangen door:</wat>
+            <wijziging>
+              <wijzig-divisie soort="titeldeel" opmaak="default">
+                <kop kopopmaak="vet">
+                  <label>TITEL</label>
+                  <nr status="officieel">5.3</nr>
+                  <titel status="officieel">HERSTELSANCTIES</titel>
+                </kop>
+                <wijzig-divisie soort="afdeling" opmaak="default">
+                  <kop>
+                    <label>AFDELING</label>
+                    <nr status="officieel">5.3.1</nr>
+                    <titel status="officieel">LAST ONDER BESTUURSDWANG</titel>
+                  </kop>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:21</nr>
+                    </kop>
+                    <al>Onder last onder bestuursdwang wordt verstaan: de
+                    herstelsanctie, inhoudende:</al>
+                    <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>een last tot geheel of gedeeltelijk herstel van de
+                        overtreding, en</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>de bevoegdheid van het bestuursorgaan om de last door
+                        feitelijk handelen ten uitvoer te leggen, indien de last niet of niet tijdig
+                        wordt uitgevoerd.</al>
+                      </li>
+                    </lijst>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:23</nr>
+                    </kop>
+                    <al>Deze afdeling is niet van toepassing op optreden ter
+                    onmiddellijke handhaving van de openbare orde.</al>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:24</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>De last onder bestuursdwang omschrijft de te nemen
+                      herstelmaatregelen.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>De last onder bestuursdwang vermeldt de termijn
+                      waarbinnen zij moet worden uitgevoerd.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>De last onder bestuursdwang wordt bekendgemaakt aan de
+                      overtreder, aan de rechthebbenden op het gebruik van de zaak waarop de last
+                      betrekking heeft en aan de aanvrager.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:25</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>De toepassing van bestuursdwang geschiedt op kosten van
+                      de overtreder, tenzij deze kosten redelijkerwijze niet of niet geheel te zijnen
+                      laste behoren te komen.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>De last vermeldt in hoeverre de kosten van
+                      bestuursdwang ten laste van de overtreder zullen worden gebracht.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>Tot de kosten van bestuursdwang behoren de kosten van
+                      voorbereiding van bestuursdwang, voor zover deze zijn gemaakt na het
+                      verstrijken van de termijn waarbinnen de last had moeten worden
+                      uitgevoerd.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">4.</lidnr>
+                      <al>De kosten van voorbereiding van bestuursdwang zijn ook
+                      verschuldigd, voor zover als gevolg van het alsnog uitvoeren van de last geen
+                      bestuursdwang is toegepast.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">5.</lidnr>
+                      <al>Tot de kosten van bestuursdwang behoren tevens de
+                      kosten van vergoeding van schade ingevolge artikel 5:27, zesde lid.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">6.</lidnr>
+                      <al>Het bestuursorgaan stelt de hoogte van de verschuldigde
+                      kosten vast.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:27</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Om bestuursdwang toe te passen, hebben door het
+                      bestuursorgaan aangewezen personen toegang tot elke plaats, voor zover dat
+                      redelijkerwijs voor de vervulling van hun taak nodig is.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Voor het binnentreden in een woning zonder toestemming
+                      van de bewoner is het bestuursorgaan dat bestuursdwang toepast bevoegd tot het
+                      geven van een machtiging als bedoeld in artikel 2 van de Algemene wet op het
+                      binnentreden.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>Een plaats die niet bij de overtreding is betrokken,
+                      wordt niet betreden dan nadat het bestuursorgaan dit de rechthebbende ten
+                      minste achtenveertig uren tevoren schriftelijk heeft aangezegd.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">4.</lidnr>
+                      <al>Het derde lid geldt niet, indien tijdige aanzegging
+                      wegens de vereiste spoed niet mogelijk is. De aanzegging geschiedt dan zo
+                      spoedig mogelijk.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">5.</lidnr>
+                      <al>De aanzegging omschrijft de wijze waarop het betreden
+                      zal plaatsvinden.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">6.</lidnr>
+                      <al>Het bestuursorgaan vergoedt de schade die door het
+                      betreden van een plaats als bedoeld in het derde lid wordt veroorzaakt, voor
+                      zover deze redelijkerwijs niet ten laste van de rechthebbende behoort te komen,
+                      onverminderd het recht tot verhaal van deze schade op de overtreder ingevolge
+                      artikel 5:25, vijfde lid.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:28</nr>
+                    </kop>
+                    <al>Het bestuursorgaan dat bestuursdwang toepast, is bevoegd
+                    tot het verzegelen van gebouwen, terreinen en hetgeen zich daarin of daarop
+                    bevindt.</al>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:29</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Voor zover de toepassing van bestuursdwang dit vergt,
+                      kan het bestuursorgaan zaken meevoeren en opslaan.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Het bestuursorgaan doet van het meevoeren en opslaan
+                      proces-verbaal opmaken. Een afschrift van het proces-verbaal wordt verstrekt
+                      aan degene die de zaken onder zijn beheer had.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>Het bestuursorgaan draagt zorg voor de bewaring van de
+                      opgeslagen zaken en geeft deze zaken terug aan de rechthebbende.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">4.</lidnr>
+                      <al>Het bestuursorgaan kan de teruggave opschorten totdat
+                      de ingevolge artikel 5:25 verschuldigde kosten zijn voldaan.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">5.</lidnr>
+                      <al>Indien de rechthebbende niet tevens de overtreder is,
+                      kan het bestuursorgaan de teruggave opschorten totdat de kosten van bewaring
+                      zijn voldaan.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:30</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Indien een meegevoerde en opgeslagen zaak niet binnen
+                      dertien weken nadat zij is meegevoerd, kan worden teruggegeven, kan het
+                      bestuursorgaan de zaak verkopen.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Het bestuursorgaan kan de zaak eerder verkopen, zodra
+                      de ingevolge artikel 5:25 verschuldigde kosten, vermeerderd met de voor de
+                      verkoop geraamde kosten, in verhouding tot de waarde van de zaak onevenredig
+                      hoog worden.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>Verkoop vindt evenwel niet plaats binnen twee weken na
+                      de verstrekking van het afschrift van het proces-verbaal van meevoeren en
+                      opslaan, tenzij het gevaarlijke stoffen of eerder aan bederf onderhevige
+                      stoffen betreft.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">4.</lidnr>
+                      <al>Gedurende drie jaren na het tijdstip van verkoop heeft
+                      degene die op dat tijdstip eigenaar was, recht op de opbrengst van de zaak
+                      onder aftrek van de ingevolge artikel 5:25 verschuldigde kosten en de kosten
+                      van de verkoop. Na het verstrijken van deze termijn vervalt een batig saldo aan
+                      het bestuursorgaan.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">5.</lidnr>
+                      <al>Indien naar het oordeel van het bestuursorgaan verkoop
+                      niet mogelijk is, kan het de zaak om niet aan een derde in eigendom overdragen
+                      of laten vernietigen. Het eerste tot en met het derde lid zijn van
+                      overeenkomstige toepassing.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:31</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Een bestuursorgaan dat bevoegd is om een last onder
+                      bestuursdwang op te leggen, kan in spoedeisende gevallen besluiten dat
+                      bestuursdwang zal worden toegepast zonder voorafgaande last. Artikel 5:24,
+                      eerste en derde lid, is op dit besluit van overeenkomstige toepassing.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Indien de situatie zo spoedeisend is, dat een besluit
+                      niet kan worden afgewacht, kan terstond bestuursdwang worden toegepast, maar
+                      wordt zo spoedig mogelijk nadien alsnog een besluit als bedoeld in het eerste
+                      lid bekendgemaakt.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:31a</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>De aanvrager van een last onder bestuursdwang, dan wel
+                      een andere belanghebbende die door de overtreding wordt benadeeld, kan het
+                      bestuursorgaan verzoeken bestuursdwang toe te passen.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Het verzoek kan worden gedaan na afloop van de termijn,
+                      bedoeld in artikel 5:24, tweede lid.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>Het bestuursorgaan beslist binnen vier weken op het
+                      verzoek. De beslissing is een beschikking.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:31b</nr>
+                    </kop>
+                    <al>De beschikking omtrent de toepassing vervalt, voor zover
+                    de last onder bestuursdwang wordt ingetrokken of vernietigd.</al>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:31c</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Het bezwaar, beroep of hoger beroep tegen de last onder
+                      bestuursdwang heeft mede betrekking op een beschikking die strekt tot
+                      toepassing van bestuursdwang of op een beschikking tot vaststelling van de
+                      kosten van de bestuursdwang, voor zover de belanghebbende deze beschikking
+                      betwist.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>De administratieve rechter kan de beslissing op het
+                      beroep of hoger beroep inzake de beschikking tot toepassing van bestuursdwang
+                      of de beschikking tot vaststelling van de kosten echter verwijzen naar een
+                      ander orgaan, indien behandeling door dit orgaan gewenst is.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>In beroep of hoger beroep legt de belanghebbende zo
+                      mogelijk een afschrift over van de beschikking die hij betwist.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">4.</lidnr>
+                      <al>Het eerste tot en met het derde lid zijn van
+                      overeenkomstige toepassing op een verzoek om voorlopige voorziening.</al>
+                    </lid>
+                  </artikel>
+                </wijzig-divisie>
+                <wijzig-divisie soort="onbekend" opmaak="default">
+                  <kop>
+                    <label>AFDELING</label>
+                    <nr status="officieel">5.3.2</nr>
+                    <titel status="officieel">LAST ONDER DWANGSOM</titel>
+                  </kop>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:31d</nr>
+                    </kop>
+                    <al>Onder last onder dwangsom wordt verstaan: de
+                    herstelsanctie, inhoudende:</al>
+                    <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>een last tot geheel of gedeeltelijk herstel van de
+                        overtreding, en</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>de verplichting tot betaling van een geldsom indien
+                        de last niet of niet tijdig wordt uitgevoerd.</al>
+                      </li>
+                    </lijst>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:32</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Een bestuursorgaan dat bevoegd is een last onder
+                      bestuursdwang op te leggen, kan in plaats daarvan aan de overtreder een last
+                      onder dwangsom opleggen.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Voor een last onder dwangsom wordt niet gekozen, indien
+                      het belang dat het betrokken voorschrift beoogt te beschermen, zich daartegen
+                      verzet.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:32a</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>De last onder dwangsom omschrijft de te nemen
+                      herstelmaatregelen.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Bij een last onder dwangsom die strekt tot het ongedaan
+                      maken van een overtreding of het voorkomen van verdere overtreding, wordt een
+                      termijn gesteld gedurende welke de overtreder de last kan uitvoeren zonder dat
+                      een dwangsom wordt verbeurd.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:32b</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Het bestuursorgaan stelt de dwangsom vast hetzij op een
+                      bedrag ineens, hetzij op een bedrag per tijdseenheid waarin de last niet is
+                      uitgevoerd, dan wel per overtreding van de last.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Het bestuursorgaan stelt tevens een bedrag vast
+                      waarboven geen dwangsom meer wordt verbeurd.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>De bedragen staan in redelijke verhouding tot de
+                      zwaarte van het geschonden belang en tot de beoogde werking van de
+                      dwangsom.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:33</nr>
+                    </kop>
+                    <al>Een verbeurde dwangsom wordt betaald binnen zes weken
+                    nadat zij van rechtswege is verbeurd.</al>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:34</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Het bestuursorgaan dat een last onder dwangsom heeft
+                      opgelegd, kan op verzoek van de overtreder de last opheffen, de looptijd ervan
+                      opschorten voor een bepaalde termijn of de dwangsom verminderen ingeval van
+                      blijvende of tijdelijke gehele of gedeeltelijk onmogelijkheid voor de
+                      overtreder om aan zijn verplichtingen te voldoen.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Het bestuursorgaan dat een last onder dwangsom heeft
+                      opgelegd, kan op verzoek van de overtreder de last opheffen indien de
+                      beschikking een jaar van kracht is geweest zonder dat de dwangsom is
+                      verbeurd.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:35</nr>
+                    </kop>
+                    <al>In afwijking van artikel 4:104 verjaart de bevoegdheid
+                    tot invordering van een verbeurde dwangsom door verloop van een jaar na de dag
+                    waarop zij is verbeurd.</al>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:37</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Alvorens aan te manen tot betaling van de dwangsom,
+                      beslist het bestuursorgaan bij beschikking omtrent de invordering van een
+                      dwangsom.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Het bestuursorgaan geeft voorts een beschikking omtrent
+                      de invordering van de dwangsom, indien een belanghebbende daarom verzoekt.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>Het bestuursorgaan beslist binnen vier weken op het
+                      verzoek.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:38</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Indien uit een beschikking tot intrekking of wijziging
+                      van de last onder dwangsom voortvloeit dat een reeds gegeven beschikking tot
+                      invordering van die dwangsom niet in stand kan blijven, vervalt die
+                      beschikking.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Het bestuursorgaan kan een nieuwe beschikking tot
+                      invordering geven die in overeenstemming is met de gewijzigde last onder
+                      dwangsom.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:39</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Het bezwaar, beroep of hoger beroep tegen de last onder
+                      dwangsom heeft mede betrekking op een beschikking die strekt tot invordering
+                      van de dwangsom, voor zover de belanghebbende deze beschikking betwist.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>De administratieve rechter kan de beslissing op het
+                      beroep of hoger beroep tegen de beschikking tot invordering echter verwijzen
+                      naar een ander orgaan, indien behandeling door dit orgaan gewenst is.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>In beroep of hoger beroep legt de belanghebbende zo
+                      mogelijk een afschrift over van de beschikking die hij betwist.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">4.</lidnr>
+                      <al>Het eerste tot en met het derde lid zijn van
+                      overeenkomstige toepassing op een verzoek om voorlopige voorziening.</al>
+                    </lid>
+                  </artikel>
+                </wijzig-divisie>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">I</lidnr>
+            <wat>Aan hoofdstuk 5 wordt een titel toegevoegd, luidende:</wat>
+            <wijziging>
+              <wijzig-divisie soort="titeldeel" opmaak="default">
+                <kop kopopmaak="vet">
+                  <label>TITEL</label>
+                  <nr status="officieel">5.4</nr>
+                  <titel status="officieel">BESTUURLIJKE BOETE</titel>
+                </kop>
+                <wijzig-divisie soort="afdeling" opmaak="default">
+                  <kop>
+                    <label>AFDELING</label>
+                    <nr status="officieel">5.4.1</nr>
+                    <titel status="officieel">ALGEMENE BEPALINGEN</titel>
+                  </kop>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:40</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Onder bestuurlijke boete wordt verstaan: de
+                      bestraffende sanctie, inhoudende een onvoorwaardelijke verplichting tot
+                      betaling van een geldsom.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Deze titel is niet van toepassing op de intrekking of
+                      wijziging van een aanspraak op financiële middelen.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:41</nr>
+                    </kop>
+                    <al>Het bestuursorgaan legt geen bestuurlijke boete op voor
+                    zover de overtreding niet aan de overtreder kan worden verweten.</al>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:42</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Het bestuursorgaan legt geen bestuurlijke boete op
+                      indien de overtreder is overleden.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Een bestuurlijke boete vervalt indien zij op het
+                      tijdstip van het overlijden van de overtreder niet onherroepelijk is. Een
+                      onherroepelijke bestuurlijke boete vervalt voorzover zij op dat tijdstip nog
+                      niet is betaald.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:43</nr>
+                    </kop>
+                    <al>Het bestuursorgaan legt geen bestuurlijke boete op indien
+                    aan de overtreder wegens dezelfde overtreding reeds eerder een bestuurlijke
+                    boete is opgelegd, dan wel een kennisgeving als bedoeld in artikel 5:50, tweede
+                    lid, aanhef en onderdeel a, is bekendgemaakt.</al>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:44</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Het bestuursorgaan legt geen bestuurlijke boete op
+                      indien tegen de overtreder wegens dezelfde gedraging:</al>
+                      <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                          <li.nr>a.</li.nr>
+                          <al>een strafvervolging is ingesteld en het onderzoek
+                          ter terechtzitting is begonnen, of</al>
+                        </li>
+                        <li>
+                          <li.nr>b.</li.nr>
+                          <al>het recht tot strafvordering is vervallen ingevolge
+                          artikel 74 of 74c van het Wetboek van Strafrecht, ingevolge artikel 37 van de
+                          Wet op de economische delicten, dan wel ingevolge artikel 76 van de Algemene
+                          wet inzake rijksbelastingen.</al>
+                        </li>
+                      </lijst>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Indien de gedraging tevens een strafbaar feit is, wordt
+                      zij aan de officier van justitie voorgelegd, tenzij bij wettelijk voorschrift
+                      is bepaald, dan wel met het openbaar ministerie is overeengekomen, dat daarvan
+                      kan worden afgezien.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>Voor een gedraging die aan de officier van justitie
+                      moet worden voorgelegd, legt het bestuursorgaan slechts een bestuurlijke boete
+                      op indien:</al>
+                      <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                          <li.nr>a.</li.nr>
+                          <al>de officier van justitie aan het bestuursorgaan
+                          heeft medegedeeld ten aanzien van de overtreder zowel van strafvervolging als
+                          van toepassing van artikel 74 van het Wetboek van Strafrecht af te zien,
+                          of</al>
+                        </li>
+                        <li>
+                          <li.nr>b.</li.nr>
+                          <al>het bestuursorgaan niet binnen dertien weken een
+                          reactie van de officier van justitie heeft ontvangen.</al>
+                        </li>
+                      </lijst>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:45</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Indien artikel 5:53 van toepassing is, vervalt de
+                      bevoegdheid tot het opleggen van een bestuurlijke boete vijf jaren nadat de
+                      overtreding heeft plaatsgevonden.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>In de overige gevallen vervalt de bevoegdheid tot het
+                      opleggen van een bestuurlijke boete twee jaren nadat de overtreding heeft
+                      plaatsgevonden.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>Indien tegen de bestuurlijke boete bezwaar wordt
+                      gemaakt of beroep wordt ingesteld, wordt de vervaltermijn opgeschort tot
+                      onherroepelijk op het bezwaar of beroep is beslist.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:46</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>De wet bepaalt de bestuurlijke boete die wegens een
+                      bepaalde overtreding ten hoogste kan worden opgelegd.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Tenzij de hoogte van de bestuurlijke boete bij
+                      wettelijk voorschrift is vastgesteld, stemt het bestuursorgaan de bestuurlijke
+                      boete af op de ernst van de overtreding en de mate waarin deze aan de
+                      overtreder kan worden verweten. Het bestuursorgaan houdt daarbij zo nodig
+                      rekening met de omstandigheden waaronder de overtreding is gepleegd.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>Indien de hoogte van de bestuurlijke boete bij
+                      wettelijk voorschrift is vastgesteld, legt het bestuursorgaan niettemin een
+                      lagere bestuurlijke boete op indien de overtreder aannemelijk maakt dat de
+                      vastgestelde bestuurlijke boete wegens bijzondere omstandigheden te hoog
+                      is.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">4.</lidnr>
+                      <al>Artikel 1, tweede lid, van het Wetboek van Strafrecht
+                      is van overeenkomstige toepassing.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:47</nr>
+                    </kop>
+                    <al>Een bestuurlijke boete die is opgelegd wegens een
+                    gedraging die tevens een strafbaar feit is, vervalt indien het gerechtshof met
+                    toepassing van artikel 12i van het Wetboek van Strafvordering de vervolging van
+                    de overtreder voor dat feit beveelt. Artikel 74b, eerste lid, van het Wetboek
+                    van Strafrecht is van overeenkomstige toepasssing.</al>
+                  </artikel>
+                </wijzig-divisie>
+                <wijzig-divisie soort="onbekend" opmaak="default">
+                  <kop>
+                    <label>AFDELING</label>
+                    <nr status="officieel">5.4.2</nr>
+                    <titel status="officieel">DE PROCEDURE</titel>
+                  </kop>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:48</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Het bestuursorgaan en de voor de overtreding bevoegde
+                      toezichthouder kunnen van de overtreding een rapport opmaken.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Het rapport is gedagtekend en vermeldt:</al>
+                      <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                          <li.nr>a.</li.nr>
+                          <al>de naam van de overtreder;</al>
+                        </li>
+                        <li>
+                          <li.nr>b.</li.nr>
+                          <al>de overtreding alsmede het overtreden
+                          voorschrift;</al>
+                        </li>
+                        <li>
+                          <li.nr>c.</li.nr>
+                          <al>zo nodig een aanduiding van de plaats waar en het
+                          tijdstip waarop de overtreding is geconstateerd.</al>
+                        </li>
+                      </lijst>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>Een afschrift van het rapport wordt uiterlijk bij de
+                      bekendmaking van de beschikking tot oplegging van de bestuurlijke boete aan de
+                      overtreder toegezonden of uitgereikt.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">4.</lidnr>
+                      <al>Indien van de overtreding een proces-verbaal als
+                      bedoeld in artikel 152 van het Wetboek van Strafvordering is opgemaakt, treedt
+                      dit voor de toepassing van deze afdeling in de plaats van het rapport.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:49</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Het bestuursorgaan stelt de overtreder desgevraagd in
+                      de gelegen<?xpp afbm?>heid de gegevens waarop het opleggen van de bestuurlijke
+                      boete, dan wel het voornemen daartoe, berust, in te zien en daarvan afschriften
+                      te vervaardigen.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Voor zover blijkt dat de verdediging van de overtreder
+                      dit redelijkerwijs vergt, draagt het bestuursorgaan er zoveel mogelijk zorg
+                      voor dat deze gegevens aan de overtreder worden medegedeeld in een voor deze
+                      begrijpelijke taal.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:50</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Indien de overtreder in de gelegenheid wordt gesteld
+                      over het voornemen tot het opleggen van een bestuurlijke boete zijn zienswijze
+                      naar voren te brengen,</al>
+                      <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                          <li.nr>a.</li.nr>
+                          <al>wordt het rapport reeds bij de uitnodiging daartoe
+                          aan de overtreder toegezonden of uitgereikt;</al>
+                        </li>
+                        <li>
+                          <li.nr>b.</li.nr>
+                          <al>zorgt het bestuursorgaan voor bijstand door een
+                          tolk, indien blijkt dat de verdediging van de overtreder dit redelijkerwijs
+                          vergt.</al>
+                        </li>
+                      </lijst>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Indien het bestuursorgaan nadat de overtreder zijn
+                      zienswijze naar voren heeft gebracht, beslist dat:</al>
+                      <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                          <li.nr>a.</li.nr>
+                          <al>voor de overtreding geen bestuurlijke boete zal
+                          worden opgelegd, of</al>
+                        </li>
+                        <li>
+                          <li.nr>b.</li.nr>
+                          <al>de overtreding alsnog aan de officier van justitie
+                          zal worden voorgelegd,</al>
+                        </li>
+                      </lijst>
+                      <al>wordt dit schriftelijk aan de overtreder
+                      medegedeeld.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:51</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Indien van de overtreding een rapport is opgemaakt,
+                      beslist het bestuursorgaan omtrent het opleggen van de bestuurlijke boete
+                      binnen dertien weken na de dagtekening van het rapport.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>De beslistermijn wordt opgeschort met ingang van de dag
+                      waarop de gedraging aan het openbaar ministerie is voorgelegd, tot de dag
+                      waarop het bestuursorgaan weer bevoegd wordt een bestuurlijke boete op te
+                      leggen.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:52</nr>
+                    </kop>
+                    <al>De beschikking tot oplegging van de bestuurlijke boete
+                    vermeldt:</al>
+                    <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>de naam van de overtreder;</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>het bedrag van de boete.</al>
+                      </li>
+                    </lijst>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:53</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Dit artikel is van toepassing indien voor de
+                      overtreding een bestuurlijke boete van meer dan € 340 kan worden opgelegd,
+                      tenzij bij wettelijk voorschrift anders is bepaald.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>In afwijking van artikel 5:48 wordt van de overtreding
+                      steeds een rapport of proces-verbaal opgemaakt.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>In afwijking van afdeling 4.1.2 wordt de overtreder
+                      steeds in de gelegenheid gesteld zijn zienswijze naar voren te brengen.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">5:54</nr>
+                    </kop>
+                    <al>Deze titel is van overeenkomstige toepassing op andere
+                    bestraffende sancties, voor zover dit bij wettelijk voorschrift is
+                    bepaald.</al>
+                  </artikel>
+                </wijzig-divisie>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">J</lidnr>
+            <wat>Artikel 8:4 wordt gewijzigd als volgt: </wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>De punt aan het slot van onderdeel l wordt vervangen door een
+              puntkomma.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Toegevoegd wordt een onderdeel, luidende:</wat>
+              <al>m. inhoudende een aanmaning als bedoeld in artikel 4:112 of een
+              dwangbevel.</al>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">K</lidnr>
+            <wat>Na artikel 8:28 wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">8:28a</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Indien het beroep is ingesteld tegen een bestuurlijke boete
+                  is, in afwijking van de artikelen 8:27 en 8:28, de partij aan wie de
+                  bestuurlijke boete is opgelegd, niet verplicht omtrent de overtreding
+                  verklaringen af te leggen.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Voor de rechtbank deze partij verhoort, deelt zij haar mede
+                  dat zij niet verplicht is tot antwoorden.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">L</lidnr>
+            <wat>In artikel 8:41, vierde lid, wordt «de desbetreffende
+            rechtspersoon» telkens vervangen door: het bestuursorgaan.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">M</lidnr>
+            <wat>In artikel 8:72, zevende lid, wordt «de door haar aangewezen
+            rechtspersoon» vervangen door: het bestuursorgaan.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">N</lidnr>
+            <wat>Na artikel 8:72 wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">8:72a</nr>
+                </kop>
+                <al>Indien de rechtbank een beschikking tot het opleggen van een
+                bestuurlijke boete vernietigt, neemt zij een beslissing omtrent het opleggen
+                van de boete en bepaalt zij dat haar uitspraak in zoverre in de plaats treedt
+                van de vernietigde beschikking.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">O</lidnr>
+            <wat>In artikel 8:73, eerste lid en artikel 8:73a, eerste lid, wordt
+            « de door haar aangewezen rechtspersoon» telkens vervangen door: het
+            bestuursorgaan.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">P</lidnr>
+            <wat>In artikel 8:74, eerste lid, wordt «de door de rechtbank
+            aangewezen rechtspersoon» vervangen door: het bestuursorgaan.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Q</lidnr>
+            <wat>Artikel 8:75, derde lid, vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">R</lidnr>
+            <wat>Artikel 8:76 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">8:76</nr>
+                </kop>
+                <al>Voor zover een uitspraak strekt tot vergoeding van schade,
+                griffierecht of proceskosten als bedoeld in de artikelen 8:73, 8:73a, 8:74,
+                8:75, 8:75a, 8:82, vierde lid, of artikel 8:87, derde lid, levert zij een
+                executoriale titel op, die met toepassing van de voorschriften van het Wetboek
+                van Burgerlijke Rechtsvordering kan worden tenuitvoergelegd.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">S</lidnr>
+            <wat>Artikel 8:82 wordt gewijzigd als volgt: </wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het derde lid, tweede volzin, wordt «de desbetreffende
+              rechtspersoon» vervangen door: het bestuursorgaan.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het vierde lid wordt «de door de voorzieningenrechter
+              aangewezen rechtspersoon» vervangen door: het bestuursorgaan.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">T</lidnr>
+            <wat>In artikel 8:87, derde lid, wordt «de desbetreffende
+            rechtspersoon» vervangen door: het bestuursorgaan.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">U</lidnr>
+            <wat>Het opschrift van titel 10.1 komt te luiden: </wat>
+            <wijziging>
+              <al>
+                <nadruk type="vet">Titel 10.1 Mandaat,
+              delegatie en attributie</nadruk>
+              </al>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">V</lidnr>
+            <wat>Aan artikel 10:3 wordt een vierde lid toegevoegd,
+            luidende:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>Indien artikel 5:53 van toepassing is, wordt mandaat tot
+                  het opleggen van een bestuurlijke boete niet verleend aan degene die van de
+                  overtreding een rapport of proces-verbaal heeft opgemaakt.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">W</lidnr>
+            <wat>Na artikel 10:20 wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">10:21</nr>
+                </kop>
+                <al>Deze afdeling is van overeenkomstige toepassing indien een
+                bestuursorgaan zijn bevoegdheid tot het verrichten van andere handelingen dan
+                besluiten overdraagt aan een ander die deze onder eigen verantwoordelijkheid
+                uitoefent, met dien verstande dat artikel 10:19 van overeenkomstige toepassing
+                is voor zover de aard van de handeling zich daartegen niet verzet.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">X</lidnr>
+            <wat>Na afdeling 10.1.2 wordt een afdeling ingevoegd, luidende:</wat>
+            <wijziging>
+              <wijzig-divisie soort="onbekend" opmaak="default">
+                <kop kopopmaak="cur">
+                  <label>Afdeling</label>
+                  <nr status="officieel">10.1.3</nr>
+                  <titel status="officieel">Attributie</titel>
+                </kop>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">10:22</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Indien een bevoegdheid tot het nemen van besluiten bij
+                    wettelijk voorschrift is toegedeeld aan een persoon of college, werkzaam onder
+                    de verantwoordelijkheid van een bestuursorgaan, kan dit bestuursorgaan per
+                    geval of in het algemeen instructies geven ter zake van de uitoefening van de
+                    toegedeelde bevoegdheid.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Degene aan wie de bevoegdheid is toegedeeld, verschaft
+                    het bestuursorgaan op diens verzoek inlichtingen over de uitoefening van de
+                    bevoegdheid.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">10:23</nr>
+                  </kop>
+                  <al>Artikel 10:22 is van overeenkomstige toepassing indien bij
+                  wettelijk voorschrift een bevoegdheid tot het verrichten van andere handelingen
+                  dan besluiten is toegedeeld aan een persoon of college, werkzaam onder de
+                  verantwoordelijkheid van een bestuursorgaan.</al>
+                </artikel>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">II</nr>
+          </kop>
+          <wat type="wijziging">Artikel 243 van het Wetboek van Strafvordering
+          wordt gewijzigd als volgt:</wat>
+          <wijziging>
+            <nr status="officieel">1.</nr>
+            <wat>Voor de tekst wordt de aanduiding «1.» geplaatst.</wat>
+          </wijziging>
+          <wijziging>
+            <nr status="officieel">2.</nr>
+            <wat>Toegevoegd wordt een tweede lid, luidende:</wat>
+            <artikeltekst>
+              <lid>
+                <lidnr status="officieel">2.</lidnr>
+                <al>Indien terzake van het feit aan de verdachte een bestuurlijke
+                boete is opgelegd, dan wel een mededeling als bedoeld in artikel 5:50, tweede
+                lid, onderdeel a, van de Algemene wet bestuursrecht is verzonden, heeft dit
+                dezelfde rechtsgevolgen als een kennisgeving van niet verdere vervolging, met
+                dien verstande dat artikel 245a niet van toepassing is.</al>
+              </lid>
+            </artikeltekst>
+          </wijziging>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">III</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1.</lidnr>
+            <al>Op een verplichting tot betaling van een geldsom aan of door een
+            bestuursorgaan die is vastgesteld of ontstaan voor het tijdstip van
+            inwerkingtreding van deze wet, blijft het recht zoals dat gold voor dat
+            tijdstip van toepassing.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2.</lidnr>
+            <al>Op een verplichting tot betaling aan of door een bestuursorgaan
+            in verband met een subsidie die voor het tijdstip van inwerkingtreding van deze
+            wet is verleend, blijft het recht zoals dat gold voor dat tijdstip van
+            toepassing.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IV</nr>
+          </kop>
+          <al>Indien een bestuurlijke sanctie wordt opgelegd wegens een
+          overtreding die plaatsvond voor het tijdstip van inwerkingtreding van deze wet,
+          blijft het recht zoals dat gold voor dat tijdstip van toepassing.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">V</nr>
+          </kop>
+          <al>Voor de plaatsing van deze wet in het Staatsblad stelt Onze
+          Minister van Justitie de nummering van de artikelen in de titels 4.4, 5.1 en
+          5.4 en in afdeling 10.1.3 opnieuw vast en brengt hij de in deze wet voorkomende
+          aanhalingen van deze artikelen met de nieuwe nummering in overeenstemming.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">VI</nr>
+          </kop>
+          <al>De artikelen van deze wet treden in werking op een bij koninklijk
+          besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen
+          daarvan verschillend kan worden vastgesteld.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">VII</nr>
+          </kop>
+          <al>Deze wet wordt aangehaald als: Vierde tranche Algemene wet
+          bestuursrecht.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst
+          en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks
+          aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+        </slotformulering>
+        <histnoot type="parlementair">
+          <al>Kamerstuk 29 702</al>
+        </histnoot>
+        <gegeven>
+          <label>Gegeven te </label>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2009-06-25">25 juni 2009</datum>
+          </dagtekening>
+          <koning>Beatrix</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van
+        Justitie,</functie>
+          <naam>
+            <voornaam>E. M. H.</voornaam>
+            <achternaam>Hirsch
+            Ballin</achternaam>
+          </naam>
+        </ondertekening>
+        <ondertekening>
+          <functie>De Minister van
+        Binnenlandse Zaken en
+        Koninkrijksrelaties,</functie>
+          <naam>
+            <voornaam>G. ter</voornaam>
+            <achternaam>Horst</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2009-06-30">Uitgegeven de <nadruk type="cur">dertigste</nadruk> juni 2009</datum>
+          <ondertekening>
+            <functie>De Minister van
+          Justitie,</functie>
+            <naam>
+              <voornaam>E. M. H.</voornaam>
+              <achternaam>Hirsch
+              Ballin</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

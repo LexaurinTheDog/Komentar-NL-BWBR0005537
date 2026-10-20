@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2020-500/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Wet van 18 november 2020 tot wijziging van de Algemene wet bestuursrecht naar aanleiding van de evaluatie van de regeling over bestuursrechtelijke geldschulden (Evaluatiewet bestuursrechtelijke geldschuldenregeling Awb)</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+          <considerans.al>Alzo Wij in overweging genomen hebben, dat het naar aanleiding van de evaluatie van de regeling over bestuursrechtelijke geldschulden in titel 4.4 van de Algemene wet bestuursrecht wenselijk is hierin een kwijtscheldingsbepaling op te nemen en enkele wijzigingen van technische aard aan te brengen;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">I</nr>
+          </kop>
+          <wat type="wijziging">De Algemene wet bestuursrecht wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Na artikel 4:94 wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">4:94a</nr>
+                </kop>
+                <al>Tenzij bij wettelijk voorschrift anders is bepaald, kan een bestuursorgaan een geldschuld geheel of gedeeltelijk kwijtschelden indien de nadelige gevolgen van de invordering onevenredig zijn in verhouding tot de met de invordering te dienen doelen.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 4:96 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Voor de tekst wordt de aanduiding «1.» geplaatst.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Er wordt een lid toegevoegd, luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>De verplichting tot betaling van een voorschot wordt opgeschort met ingang van de dag waarop het bestuursorgaan aan de wederpartij schriftelijk kennis geeft van het ernstige vermoeden dat er grond bestaat om toepassing te geven aan het eerste lid, aanhef en onder a of b, tot en met de dag waarop de beschikking omtrent intrekking of wijziging is bekendgemaakt of de dag waarop sedert de kennisgeving van het ernstige vermoeden dertien weken zijn verstreken.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Aan artikel 5:25, zesde lid, wordt toegevoegd «binnen vijf jaar nadat de bestuursdwang is toegepast».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>Artikel 5:35 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">5:35</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>In afwijking van artikel 4:104, eerste lid, verjaart de rechtsvordering tot betaling van een verbeurde dwangsom door verloop van een jaar na de dag waarop zij is verbeurd.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Indien op de dag waarop de rechtsvordering verjaart, bezwaar, beroep of hoger beroep openstaat of aanhangig is tegen de last onder dwangsom, wordt de verjaringstermijn verlengd tot onherroepelijk op het bezwaar, beroep of hoger beroep is beslist.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>Na artikel 5:37 wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">5:37a</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Een beschikking tot invordering van een dwangsom stuit de verjaring.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Indien op de dag waarop de rechtsvordering verjaart een verzoek als bedoeld in artikel 5:37, tweede lid, aanhangig is, wordt de verjaringstermijn verlengd tot onherroepelijk op het verzoek is beslist.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Indien op de dag waarop de rechtsvordering verjaart bezwaar, beroep of hoger beroep openstaat of aanhangig is tegen de afwijzing van een verzoek als bedoeld in artikel 5:37, tweede lid, of tegen het niet tijdig nemen van een beslissing op een zodanig verzoek, wordt de verjaringstermijn verlengd tot:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>de termijn voor het maken van bezwaar of het instellen van beroep of hoger beroep ongebruikt is verstreken;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>onherroepelijk op het bezwaar, beroep of hoger beroep is beslist; of</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>het bestuursorgaan alsnog een beschikking tot invordering van een dwangsom heeft gegeven.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>Indien op de dag waarop de rechtsvordering verjaart, de beschikking omtrent invordering ingevolge een uitspraak van de voorzieningenrechter is geschorst, wordt de verjaringstermijn verlengd met de duur van de schorsing.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">II</nr>
+          </kop>
+          <al>Op een beschikking tot invordering van een dwangsom die is gegeven voor het tijdstip van inwerkingtreding van deze wet blijft het recht van toepassing zoals dat gold voor dat tijdstip.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">III</nr>
+          </kop>
+          <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IV</nr>
+          </kop>
+          <al>Deze wet wordt aangehaald als: Evaluatiewet bestuursrechtelijke geldschuldenregeling Awb.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+        </slotformulering>
+        <histnoot type="parlementair">
+          <al>Kamerstuk <dossierref dossier="35477">35 477</dossierref></al>
+        </histnoot>
+        <gegeven>
+          <label>Gegeven te </label>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2020-11-18">18 november 2020</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister voor Rechtsbescherming,</functie>
+          <naam>
+            <voornaam>S.</voornaam>
+            <achternaam>Dekker</achternaam>
+          </naam>
+        </ondertekening>
+        <ondertekening>
+          <functie>De Minister van Binnenlandse Zaken en Koninkrijksrelaties,</functie>
+          <naam>
+            <voornaam>K.H.</voornaam>
+            <achternaam>Ollongren</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2020-12-09">Uitgegeven de <nadruk type="cur">negende</nadruk> december 2020</datum>
+          <ondertekening>
+            <functie>De Minister van Justitie en Veiligheid,</functie>
+            <naam>
+              <voornaam>F.B.J.</voornaam>
+              <achternaam>Grapperhaus</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

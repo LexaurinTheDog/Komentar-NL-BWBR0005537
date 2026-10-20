@@ -15,3 +15,5 @@ Rechter: Afdeling bestuursrechtspraak van de Raad van State. Zaak **202202122/1/
 **Bewijs.** Volledige officiële uitspraak inclusief bijlage gelezen; officiële en lokale uitspraakbody zijn na verwijdering van witruimte gelijk. Awbi 2 en 6 zijn daarnaast in de actuele officiële versie van 1 juli 2010 gecontroleerd. Geen uitputtende latere-rechtspraakcontrole.
 
 **Bewaarde bronnen:** [officiële XML](../sources/author-5-18-32a/ECLI-NL-RVS-2025-545.xml), [volledige uitspraakbody](../sources/author-5-18-32a/ECLI-NL-RVS-2025-545.txt), [HTTP en hashes](../sources/author-5-18-32a/verification.json), [corpusvergelijking](../sources/author-5-18-32a/local-case-comparison.json).
+
+Tweede inhoudelijke beoordeling op 20 oktober 2026: volledige officiële XML opnieuw opgehaald en gelezen, identiek aan de auteursbron. [Nieuwe HTTP-respons en hash](../sources/review-013/verification.json) en [autoriteitenstaat met lokale vergelijking](../sources/review-013/authority-review.json). De hierboven afgebakende ondersteuning blijft gelden; geen uitputtende vervolgcontrole of externe professionele goedkeuring.

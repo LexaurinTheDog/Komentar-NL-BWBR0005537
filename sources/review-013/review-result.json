@@ -1,0 +1,239 @@
+{
+  "complete": true,
+  "kind": "bounded_independent_review",
+  "reviewed_at": "2026-10-20T16:39:24.178734+00:00",
+  "decisive_date": "2026-10-19",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "art-5:18",
+    "art-5:19",
+    "art-5:20",
+    "art-5:21",
+    "art-5:22",
+    "art-5:23",
+    "art-5:24",
+    "art-5:25",
+    "art-5:26",
+    "art-5:27",
+    "art-5:28",
+    "art-5:29",
+    "art-5:30",
+    "art-5:31",
+    "art-5:31a",
+    "art-5:31b",
+    "art-5:31c",
+    "art-5:31d",
+    "art-5:32",
+    "art-5:32a"
+  ],
+  "corrected_ids": [
+    "art-5:20",
+    "art-5:25",
+    "art-5:27",
+    "art-5:31d",
+    "art-5:32"
+  ],
+  "retained_ids": [
+    "art-5:18",
+    "art-5:19",
+    "art-5:21",
+    "art-5:22",
+    "art-5:23",
+    "art-5:24",
+    "art-5:26",
+    "art-5:28",
+    "art-5:29",
+    "art-5:30",
+    "art-5:31",
+    "art-5:31a",
+    "art-5:31b",
+    "art-5:31c",
+    "art-5:32a"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "art-5:18",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Alle zes leden tegen officiële XML gelezen. Onderzoek/opneming/monsterneming, openen verpakking, tweede monster op verzoek indien mogelijk met wettelijke uitzondering, kort meenemen alleen bij onmogelijkheid ter plaatse plus schriftelijk bewijs, mogelijke teruggave en resultaten op verzoek afzonderlijk juist. Onderscheid met 5:29 en begrenzing 5:13 gecontroleerd. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:19",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Alle vijf leden gelezen. Voertuigtaak en redelijk oordeel over relevante lading onderscheiden; bestuurderbescheiden wettelijk voorgeschreven; stilhouden en overbrengen alleen ten dienste van controle; ministeriële wijze van stopvordering niet uit het artikel verzonnen. Fictieve vrachtwagencontrole passend. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:20",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "corrected",
+      "finding": "Alle vier leden gelezen. Rechtmatige bevoegdheid, redelijke medewerking/termijn en afgebakende geheimhoudingsplicht correct. CBb 2026:95 volledig gelezen: concrete brieven geen besluiten; sanctiebeschikking niet daarmee gelijkgesteld. Lid 4 aangescherpt met hoofdstuk 2/3/4 van bijlage 2 en bijlage 3, geen algemene rechtertoedeling.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:21",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Beide onderdelen gelezen. Herstelopdracht plus feitelijke uitvoeringsmogelijkheid; definitie schept geen bevoegdheid; 5:4/5:24/5:25/5:31/5:31d en samenloop 5:6 correct. Fictieve containerlast draagt niet vanzelf vernietiging. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:22",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Vervallen plaats en officiële overgangsnoot gelezen; Stb. 2009/264 III–IV apart gelezen. Geen oude inhoud als huidig recht voorgesteld; historische verwijzing verlangt eigen tijdstoets. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:23",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Hele norm gelezen. Uitsluiting betreft gehele afdeling bij onmiddellijke openbare-ordehandhaving, geen eigen bevoegdheid en geen uitsluiting van alle spoed. 5:31 onderscheiden; uitvoeringsbevoegdheden niet alsnog zonder grond geïmporteerd. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:24",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Drie leden en RvS 2025:545 volledig gelezen. Concrete herstelomschrijving, realistische uitvoeringstermijn en drie groepen ontvangers juist. R.o. 7.2/8.2–8.3 dragen contextuele termijnbeoordeling, geen vaste woningontruimingstermijn. Gebruiksgerechtigde niet automatisch overtreder. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:25",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "corrected",
+      "finding": "Alle zes leden en RvS 2025:545 r.o. 10–16 gelezen. Kostenregel/uitzondering, kennisgeving verhaal, voorbereiding na termijn, alsnog herstel, schade 5:27 lid 6 en vijfjarige vaststelling gescheiden. Overgangsverwijzing gecorrigeerd: Stb. 2020/500 II ziet op eerdere dwangsominvorderingsbeschikkingen en is geen algemene uitzondering voor oude bestuursdwangkosten. Officiële wijziging I C en metadata 1 april 2021 gecontroleerd.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:26",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Vervallen plaats en overgangsnoot gelezen. Geen actuele invorderingsbevoegdheid uit de vervallen plaats afgeleid; titel 4.4 onderscheiden van vaststelling 5:25. Historische dwangbevelverwijzing niet zonder bron gereconstrueerd. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:27",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "corrected",
+      "finding": "Zes leden gelezen. Aangewezen uitvoerders/taaknoodzaak onderscheiden van toezicht; Awbi 2/6 en versiehistorie officieel gecontroleerd. Toegevoegd: ernstig en onmiddellijk gevaar volgens Awbi 2 lid 3 kan schriftelijke machtiging uitzonderen; spoed 5:31 vervult die toets niet automatisch. RvS 2025:545 machtigingsduur correct, 48 uur schriftelijke aanzegging, spoeduitzondering, wijze en schadevergoeding juist.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:28",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Hele norm gelezen. Verzegeling onderdeel van bevoegde bestuursdwang, geen vrijstaande algemene sluitingsgrond. Omvang/evenredigheid en praktische toegang onderscheiden van eigendom, meevoeren 5:29 en vernietiging 5:30. Voorbeeld afgeschermde zaken van derde passend. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:29",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Vijf leden gelezen. Noodzaak meevoeren, proces-verbaal/kopie aan beheerder, bewaarplicht/teruggave en twee verschillende opschortingsregimes volledig. Niet-overtredende rechthebbende slechts bewaarkosten; machinevoorbeeld strookt daarmee. RvS 2025:545 r.o. 13.2 zelfstandige schending lid 2 correct. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:30",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Vijf leden en heel GHDHA 2024:1447 plus RvS 2025:545 gelezen. Dertien weken versus vervroegde kosten/waarderoute, afzonderlijk minimum twee weken vanaf proces-verbaalkopie en gevaar/bederf, drie jaar netto-opbrengst eigenaar, onmogelijke verkoop voor vernietiging juist. Hof tussenarrest/bewijsopdracht niet als toegewezen €225.000 gepresenteerd. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:31",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Beide leden gelezen. Vooraf besluit zonder last versus zeer spoedeisend feitelijk handelen vóór besluit en zo spoedig mogelijke bekendmaking onderscheiden; verwijzing beperkt tot 5:24 leden 1/3. Geen vrijstelling van bevoegdheid/overtreding of uitvoeringswaarborgen. Tijdsanalyse in voorbeeld passend. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:31a",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Drie leden gelezen. Bestaande last, aanvrager of andere benadeelde belanghebbende, verstrijken 5:24-termijn en vierweekse beschikking correct. Beslistermijn geen uitvoeringsgarantie; eerste handhavingsverzoek niet verward met dit vervolgmoment. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:31b",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Hele norm gelezen. Intrekking/vernietiging dragende last doet toepassingsbeschikking naar omvang vervallen; voor zover en gedeeltelijk herstel correct. Schorsing niet gelijkgesteld en kostengevolgen niet ongemotiveerd uitgebreid. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:31c",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Alle vier leden gelezen. Concentratie bezwaar/beroep/hoger beroep bij kenbare betwisting, verwijzing door rechter, kopie zo mogelijk en voorlopige voorziening behandeld. RvS 2025:545 illustreert enkel onderscheiden materiële toets last/kosten; geen gefingeerde procesrechtelijke ratio. Afdelingschecklist concreet en bronvast. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:31d",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "corrected",
+      "finding": "Twee onderdelen gelezen. Herstelprikkel en voorwaardelijke geldplicht onderscheiden van legalisering en feitelijke uitvoering. Aangescherpt: verbeurte ontstaat van rechtswege; invorderingsbeschikking schept die schuld niet. 5:33 en 5:37 rechtstreeks gecontroleerd; eerdere formulering over vaststellen voorkwam dit onderscheid onvoldoende expliciet.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:32",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "corrected",
+      "finding": "Drie leden gelezen. Afgeleide bestuursdwangbevoegdheid, overtreder/herstelmacht en beschermde belangentoets juist. Lid 3 aangescherpt: hoofdstuk 2/3/4 bijlage 2 of bijlage 3; geen onbegrensde competentie. Overstappen getoetst aan 5:6 en urgentievoorbeeld aan 5:31.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:32a",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Beide leden gelezen. Concrete herstelmaatregelen en daadwerkelijke herstelmogelijkheid voor ongedaanmaking/verdere overtreding; preventief 5:7 en herhaling onderscheiden. 6:16 en geen automatische termijnverlenging bij verzoek correct. Fictieve specialistische afkoppeling vraagt feitelijke planning. Behouden.",
+      "resolved": true
+    }
+  ],
+  "limitations": [
+    "Uitsluitend de twintig exact genoemde eenheden zijn inhoudelijk beoordeeld; het boek is onvoltooid.",
+    "328 eenheden buiten deze opdracht missen nog commentaar en tweede beoordeling.",
+    "Drie bestaande uitspraken volledig herlezen; rechtspraak- en lokale corpuscontrole selectief, zonder uitputtende controle van latere behandeling of onherroepelijkheid.",
+    "De woonbootzaak is een civiel tussenarrest; het uiteindelijke schadebedrag is niet onderzocht. Lokale GHDHA-kopie ontbreekt; officiële volledige tekst beschikbaar.",
+    "De ministeriële stopregeling, alle bijzondere toezichtsregelingen en toepasselijke lagere uitzonderingen zijn niet afzonderlijk geïnventariseerd.",
+    "Technische tekstdekking, lengte en herhalingschecks bewijzen geen juridische kwaliteit. Geen externe professionele goedkeuring."
+  ],
+  "whole_book_complete": false,
+  "evidence": {
+    "source_preflight": "sources/review-013/preflight-result.json",
+    "assigned_source_records": "sources/review-013/assigned-source-records.json",
+    "official_http": "sources/review-013/verification.json",
+    "additional_http": "sources/review-013/additional-verification.json",
+    "historical_comparison": "sources/review-013/historical-comparison.json",
+    "external_version": "sources/review-013/external-version-check.json",
+    "transitional_records": "sources/review-013/transitional-records.json",
+    "internal_crossrefs": "sources/review-013/internal-crossrefs.json",
+    "authorities": "sources/review-013/authority-review.json",
+    "search_log": "sources/review-013/case-search-log.json",
+    "technical": "review-technical.json",
+    "prior_review": "sources/review-013/prior-review-result.json"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T16:32:49.812418+00:00",
+  "updated_at": "2026-10-20T16:39:24.178734+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -15,8 +15,8 @@
     "verified_at": "2026-10-20T13:47:01.778268+00:00",
     "current_recheck_date": "2026-10-20",
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
-    "review_verified_at": "2026-10-20T16:18:17.582085+00:00",
-    "review_evidence": "sources/review-012/verification.json",
+    "review_verified_at": "2026-10-20T16:35:07.960510+00:00",
+    "review_evidence": "sources/review-013/verification.json",
     "author_batch_verified_at": "2026-10-20T16:32:49.812418+00:00",
     "author_batch_evidence": "sources/author-5-18-32a/verification.json"
   },
@@ -672,7 +672,7 @@
   "validation_result": {
     "complete": false,
     "reason": "328 eenheden buiten deze auteursbatch hebben geen commentaar; volledige gedeelde bouw blijft geblokkeerd.",
-    "not_independent_review": true,
+    "not_independent_review": false,
     "strict_validator": {
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
@@ -684,11 +684,11 @@
       "warnings": [],
       "ok": false
     },
-    "independent_review_scope": "Earlier independent review evidence preserved. New author batch 5:18–5:32a not independently reviewed.",
+    "independent_review_scope": "Current batch exactly twenty ids in review-result.json; previous 240 preserved separately. Whole-book review incomplete.",
     "validated_at": "2026-10-20T16:34:10.295897+00:00",
     "evidence": "strict-validation.json",
-    "bounded_review_passed": false,
-    "scoped_review_complete": false,
+    "bounded_review_passed": true,
+    "scoped_review_complete": true,
     "scoped_technical_ok": true,
     "whole_book_complete": false,
     "assigned_batch_passed": true,
@@ -700,12 +700,12 @@
     }
   },
   "remaining_limitations": [
-    "328 eenheden buiten deze auteursopdracht blijven ongeschreven.",
-    "De twintig nieuwe toelichtingen bij 5:18–5:32a wachten op een onafhankelijke tweede beoordeling; de eerdere reviewgegevens blijven behouden.",
-    "Rechtspraakonderzoek is selectief, zonder uitputtende controle van vervolgprocedures of het uiteindelijke schadebedrag in het civiele tussenarrest.",
-    "De wijze van stopvordering krachtens 5:19(5) en alle bijzondere sectorregels zijn niet zelfstandig onderzocht.",
-    "De civiele hofuitspraak ontbreekt op het gecontroleerde lokale standaardpad; de officiële volledige tekst is wel gelezen.",
-    "Technische tekstidentiteit en minimumlengte bewijzen geen juridische kwaliteit."
+    "Uitsluitend de twintig exact genoemde eenheden zijn inhoudelijk beoordeeld; het boek is onvoltooid.",
+    "328 eenheden buiten deze opdracht missen nog commentaar en tweede beoordeling.",
+    "Drie bestaande uitspraken volledig herlezen; rechtspraak- en lokale corpuscontrole selectief, zonder uitputtende controle van latere behandeling of onherroepelijkheid.",
+    "De woonbootzaak is een civiel tussenarrest; het uiteindelijke schadebedrag is niet onderzocht. Lokale GHDHA-kopie ontbreekt; officiële volledige tekst beschikbaar.",
+    "De ministeriële stopregeling, alle bijzondere toezichtsregelingen en toepasselijke lagere uitzonderingen zijn niet afzonderlijk geïnventariseerd.",
+    "Technische tekstdekking, lengte en herhalingschecks bewijzen geen juridische kwaliteit. Geen externe professionele goedkeuring."
   ],
   "preflight": {
     "complete": true,
@@ -739,32 +739,33 @@
     ],
     "completed_units": 20,
     "evidence": "batch-5-18-32a-result.json",
-    "independently_reviewed": false
+    "independently_reviewed": true,
+    "review_evidence": "review-result.json"
   },
   "bounded_independent_review": {
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "art-4:131",
-      "art-5:1",
-      "art-5:2",
-      "art-5:3",
-      "art-5:4",
-      "art-5:5",
-      "art-5:6",
-      "art-5:7",
-      "art-5:8",
-      "art-5:9",
-      "art-5:10",
-      "art-5:10a",
-      "art-5:11",
-      "art-5:12",
-      "art-5:13",
-      "art-5:14",
-      "art-5:15",
-      "art-5:16",
-      "art-5:16a",
-      "art-5:17"
+      "art-5:18",
+      "art-5:19",
+      "art-5:20",
+      "art-5:21",
+      "art-5:22",
+      "art-5:23",
+      "art-5:24",
+      "art-5:25",
+      "art-5:26",
+      "art-5:27",
+      "art-5:28",
+      "art-5:29",
+      "art-5:30",
+      "art-5:31",
+      "art-5:31a",
+      "art-5:31b",
+      "art-5:31c",
+      "art-5:31d",
+      "art-5:32",
+      "art-5:32a"
     ],
     "evidence": "review-result.json",
     "technical_evidence": "review-technical.json",
@@ -772,7 +773,7 @@
   },
   "cumulative_independent_review": {
     "complete": false,
-    "units_reviewed": 240,
+    "units_reviewed": 260,
     "reviewed_ids": [
       "aanhef",
       "art-1:1",
@@ -1013,11 +1014,31 @@
       "art-5:15",
       "art-5:16",
       "art-5:16a",
-      "art-5:17"
+      "art-5:17",
+      "art-5:18",
+      "art-5:19",
+      "art-5:20",
+      "art-5:21",
+      "art-5:22",
+      "art-5:23",
+      "art-5:24",
+      "art-5:25",
+      "art-5:26",
+      "art-5:27",
+      "art-5:28",
+      "art-5:29",
+      "art-5:30",
+      "art-5:31",
+      "art-5:31a",
+      "art-5:31b",
+      "art-5:31c",
+      "art-5:31d",
+      "art-5:32",
+      "art-5:32a"
     ],
-    "prior_cumulative_evidence": "sources/review-012/prior-status.json",
-    "prior_batch_evidence": "sources/review-012/prior-review-result.json",
+    "prior_cumulative_evidence": "sources/review-013/prior-status.json",
+    "prior_batch_evidence": "sources/review-013/prior-review-result.json",
     "current_batch_evidence": "review-result.json",
-    "remaining_units": 348
+    "remaining_units": 328
   }
 }

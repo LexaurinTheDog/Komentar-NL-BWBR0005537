@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2020-500.xml",
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2020-500.xml",
+    "content_type": "text/xml",
+    "accessed_at": "2026-10-20T16:36:37.983338+00:00",
+    "path": "sources/review-013/stb-2020-500.xml",
+    "bytes": 10445,
+    "sha256": "e66cff1b0a8a690e1b167dfba8d4112a4aab32da3b3c4d0a1cfb2cf076a00109",
+    "xml_root": "officiele-publicatie",
+    "accepted_format": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2009-264.xml",
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2009-264.xml",
+    "content_type": "text/xml",
+    "accessed_at": "2026-10-20T16:36:38.032738+00:00",
+    "path": "sources/review-013/stb-2009-264.xml",
+    "bytes": 124462,
+    "sha256": "af4f3ab5e3321978e314242c0f1785819027c3252832f80ae2f8e5237ecd6e2b",
+    "xml_root": "officiele-publicatie",
+    "accepted_format": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0006763/2010-07-01_0/xml/BWBR0006763_2010-07-01_0.xml",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0006763/2010-07-01_0/xml/BWBR0006763_2010-07-01_0.xml",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T16:36:37.992313+00:00",
+    "path": "sources/review-013/awbi.xml",
+    "bytes": 58686,
+    "sha256": "57cb3e7dd8012753d71ac965f2a4284d7df1d01c0258134dfa7889128126355a",
+    "xml_root": "toestand",
+    "accepted_format": true
+  }
+]
