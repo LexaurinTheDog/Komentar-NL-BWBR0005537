@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2012-682.xml",
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2012-682.xml",
+    "content_type": "text/xml",
+    "accessed_at": "2026-10-20T17:42:35.441887+00:00",
+    "path": "sources/review-016/stb-2012-682.xml",
+    "bytes": 569062,
+    "sha256": "cb7cf9a5570bcdb37a2ce72d9e06a8c6c617645611058165304bb3b470f78225",
+    "xml_root": "officiele-publicatie",
+    "accepted_format": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2016-288.xml",
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2016-288.xml",
+    "content_type": "text/xml",
+    "accessed_at": "2026-10-20T17:42:35.291145+00:00",
+    "path": "sources/review-016/stb-2016-288.xml",
+    "bytes": 154072,
+    "sha256": "82329ca5901ba46749999e33e112f276de470b9f8aacf5143a5889cf72521737",
+    "xml_root": "officiele-publicatie",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2024:676",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2024:676",
+    "accessed_at": "2026-10-20T17:42:57.392716+00:00",
+    "path": "sources/review-016/ECLI-NL-RVS-2024-676.xml",
+    "bytes": 8818,
+    "sha256": "d5ade88fea47084f6f576d2aa700bd8d2b7e585dc8d76f0f2c001f9173de676f",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  }
+]

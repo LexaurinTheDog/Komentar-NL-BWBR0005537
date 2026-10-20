@@ -3073,6 +3073,148 @@
       "sha256": "08cba7004610854cfbfd66737b97843fa1f16100f1ea956b6a7b083fa5d34351",
       "xml_root": "officiele-publicatie",
       "accepted_format": true
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0005537",
+      "http_status": 200,
+      "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+      "content_type": "text/html;charset=UTF-8",
+      "accessed_at": "2026-10-20T17:40:52.860638+00:00",
+      "path": "sources/review-016/current.html",
+      "bytes": 4204181,
+      "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+      "accepted_format": true
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+      "http_status": 200,
+      "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+      "content_type": "text/html;charset=UTF-8",
+      "accessed_at": "2026-10-20T17:40:52.292759+00:00",
+      "path": "sources/review-016/history.html",
+      "bytes": 1755568,
+      "sha256": "3f7881e26fe39bc58142d786b4a2ca2ec9b71e9da6552cb5d54abd93a54a2f41",
+      "accepted_format": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+      "content_type": "application/xml",
+      "accessed_at": "2026-10-20T17:40:50.820261+00:00",
+      "path": "sources/review-016/selected.xml",
+      "bytes": 2622149,
+      "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "xml_root": "toestand",
+      "accepted_format": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2024:4599",
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2024:4599",
+      "content_type": "application/xml",
+      "accessed_at": "2026-10-20T17:40:50.144389+00:00",
+      "path": "sources/review-016/ECLI-NL-RVS-2024-4599.xml",
+      "bytes": 61042,
+      "sha256": "0c045b81eb906e281a3f0b6b8fa75276cf20e25c4d60754e694b3230f5e7d6f6",
+      "xml_root": "open-rechtspraak",
+      "accepted_format": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2020:2571",
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2020:2571",
+      "content_type": "application/xml",
+      "accessed_at": "2026-10-20T17:40:50.472623+00:00",
+      "path": "sources/review-016/ECLI-NL-RVS-2020-2571.xml",
+      "bytes": 89935,
+      "sha256": "b6b5d313f147dc2835a51766a65d8bd6b8c3d93f57a5acae2bbef6589b234027",
+      "xml_root": "open-rechtspraak",
+      "accepted_format": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2025:106",
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2025:106",
+      "content_type": "application/xml",
+      "accessed_at": "2026-10-20T17:40:50.692778+00:00",
+      "path": "sources/review-016/ECLI-NL-HR-2025-106.xml",
+      "bytes": 30701,
+      "sha256": "a8dc60d53b3a6a06eacd21734dc3fdb4e5eabd2b2c758b0d6ee3656291e5dfdf",
+      "xml_root": "open-rechtspraak",
+      "accepted_format": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2022:1918",
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2022:1918",
+      "content_type": "application/xml",
+      "accessed_at": "2026-10-20T17:40:50.895850+00:00",
+      "path": "sources/review-016/ECLI-NL-RVS-2022-1918.xml",
+      "bytes": 34469,
+      "sha256": "de2e3f30acd7873d7a973d19ae3b33aba64b7e92339556df85dc19bae740c3cc",
+      "xml_root": "open-rechtspraak",
+      "accepted_format": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2024:361",
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2024:361",
+      "content_type": "application/xml",
+      "accessed_at": "2026-10-20T17:40:51.030192+00:00",
+      "path": "sources/review-016/ECLI-NL-RVS-2024-361.xml",
+      "bytes": 19990,
+      "sha256": "4e2383e4e7aea206197ba58902aadf03b79445e22ff7dff5dc7c25a0558ea961",
+      "xml_root": "open-rechtspraak",
+      "accepted_format": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CRVB:2025:1668",
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CRVB:2025:1668",
+      "content_type": "application/xml",
+      "accessed_at": "2026-10-20T17:40:51.055411+00:00",
+      "path": "sources/review-016/ECLI-NL-CRVB-2025-1668.xml",
+      "bytes": 26434,
+      "sha256": "978be3bf6c6963fa6124273bb42699dc798f9ba3a26dd5534d5fc3972d5f0df2",
+      "xml_root": "open-rechtspraak",
+      "accepted_format": true
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2012-682.xml",
+      "http_status": 200,
+      "final_url": "https://zoek.officielebekendmakingen.nl/stb-2012-682.xml",
+      "content_type": "text/xml",
+      "accessed_at": "2026-10-20T17:42:35.441887+00:00",
+      "path": "sources/review-016/stb-2012-682.xml",
+      "bytes": 569062,
+      "sha256": "cb7cf9a5570bcdb37a2ce72d9e06a8c6c617645611058165304bb3b470f78225",
+      "xml_root": "officiele-publicatie",
+      "accepted_format": true
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2016-288.xml",
+      "http_status": 200,
+      "final_url": "https://zoek.officielebekendmakingen.nl/stb-2016-288.xml",
+      "content_type": "text/xml",
+      "accessed_at": "2026-10-20T17:42:35.291145+00:00",
+      "path": "sources/review-016/stb-2016-288.xml",
+      "bytes": 154072,
+      "sha256": "82329ca5901ba46749999e33e112f276de470b9f8aacf5143a5889cf72521737",
+      "xml_root": "officiele-publicatie",
+      "accepted_format": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2024:676",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2024:676",
+      "accessed_at": "2026-10-20T17:42:57.392716+00:00",
+      "path": "sources/review-016/ECLI-NL-RVS-2024-676.xml",
+      "bytes": 8818,
+      "sha256": "d5ade88fea47084f6f576d2aa700bd8d2b7e585dc8d76f0f2c001f9173de676f",
+      "xml_root": "open-rechtspraak",
+      "accepted_format": true
     }
   ],
   "verified_at": "2026-10-20T13:47:01.778268+00:00",
@@ -5637,5 +5779,144 @@
     "preflight": "sources/author-6-17-7-11/preflight-result.json",
     "case_cards": "sources/author-6-17-7-11/used-cases.json",
     "decisive_date": "2026-10-19"
+  },
+  "bounded_review_016": {
+    "complete": true,
+    "scope": "Source/parser check for bounded independent review of twenty units; annex inventory checked for source completeness, without reviewing annex commentary.",
+    "decisive_date": "2026-10-19",
+    "official_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+    "verified_at": "2026-10-20T17:40:52.860638+00:00",
+    "version_evidence": {
+      "effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 15-08-2026 t/m heden.",
+      "latest_effective_on_decisive_date": "2026-08-15",
+      "latest_effective_on_review_date": "2026-08-15",
+      "first_future_change": "2027-01-01",
+      "current_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "refetch_identical": true,
+      "history_evidence": "sources/review-016/history.html",
+      "requests": "sources/review-016/verification.json",
+      "transitional_clauses": "sources/review-016/transitional-records.json"
+    },
+    "historical_versions_checked": {
+      "selected_version": "2026-08-15_0",
+      "previous_version": "2026-08-01",
+      "previous_xml_path": "sources/preflight/previous-official.xml",
+      "previous_xml_sha256": "04d8986ae1ad30cc84a00bfd91d1ca79a3ea6a0be48aeaf5bcb1fc5e606ebc66",
+      "historical_version_separately_parsed": true,
+      "changed_official_paths": [
+        "/Bijlage2",
+        "/Bijlage2/Divisie3/Artikel7",
+        "/Bijlage2/Divisie4/Artikel11"
+      ],
+      "assigned_units_changed_since_previous_version": [],
+      "separate_conditional_variants": [
+        {
+          "id": "art-8:36c--digitaal",
+          "official_lid_paths": [
+            "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid1_1",
+            "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid2_1",
+            "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid3_1",
+            "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid4_1"
+          ],
+          "disposition": "Conditional series preserved separately, not a historical version concatenation."
+        },
+        {
+          "id": "art-8:36c--overig",
+          "official_lid_paths": [
+            "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid1_2",
+            "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid2_2",
+            "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid3_2",
+            "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid4_2"
+          ],
+          "disposition": "Conditional series preserved separately, not a historical version concatenation."
+        }
+      ],
+      "historical_concatenation_detected": false
+    },
+    "annexes_checked": [
+      {
+        "annex": "1",
+        "official_path": "/Bijlage1",
+        "title": "Bijlage 1 Regeling rechtstreeks beroep (artikel 7:1, eerste lid, onderdeel g)",
+        "article_count": 0,
+        "expected_child_ids": [],
+        "expected_unit_ids": [
+          "bijlage-1"
+        ],
+        "direct_body_paragraph_count": 32,
+        "disposition": "Entire unnumbered operative schedule retained as a single unit; no paragraph omitted.",
+        "evidence_path": "sources/intake-official.xml",
+        "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871"
+      },
+      {
+        "annex": "2",
+        "official_path": "/Bijlage2",
+        "title": "Bijlage 2 Bevoegdheidsregeling bestuursrechtspraak (artikelen 8:5, 8:6, 8:7, 8:105 en 8:106)",
+        "article_count": 12,
+        "expected_child_ids": [
+          "bijlage-2-art-1",
+          "bijlage-2-art-2",
+          "bijlage-2-art-3",
+          "bijlage-2-art-4",
+          "bijlage-2-art-5",
+          "bijlage-2-art-6",
+          "bijlage-2-art-7",
+          "bijlage-2-art-8",
+          "bijlage-2-art-9",
+          "bijlage-2-art-10",
+          "bijlage-2-art-11",
+          "bijlage-2-art-12"
+        ],
+        "expected_unit_ids": [
+          "bijlage-2-art-1",
+          "bijlage-2-art-2",
+          "bijlage-2-art-3",
+          "bijlage-2-art-4",
+          "bijlage-2-art-5",
+          "bijlage-2-art-6",
+          "bijlage-2-art-7",
+          "bijlage-2-art-8",
+          "bijlage-2-art-9",
+          "bijlage-2-art-10",
+          "bijlage-2-art-11",
+          "bijlage-2-art-12"
+        ],
+        "direct_body_paragraph_count": 0,
+        "disposition": "All numbered annex articles retained separately with annex-prefixed identifiers.",
+        "evidence_path": "sources/intake-official.xml",
+        "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871"
+      },
+      {
+        "annex": "3",
+        "official_path": "/Bijlage3",
+        "title": "Bijlage 3 Regeling verlaagd griffierecht (artikelen 8:41 en 8:109)",
+        "article_count": 2,
+        "expected_child_ids": [
+          "bijlage-3-art-1",
+          "bijlage-3-art-2"
+        ],
+        "expected_unit_ids": [
+          "bijlage-3-art-1",
+          "bijlage-3-art-2"
+        ],
+        "direct_body_paragraph_count": 0,
+        "disposition": "All numbered annex articles retained separately with annex-prefixed identifiers.",
+        "evidence_path": "sources/intake-official.xml",
+        "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871"
+      }
+    ],
+    "coverage": {
+      "expected_units": 588,
+      "parsed_units": 588,
+      "missing_ids": [],
+      "duplicate_ids": [],
+      "all_statutory_text_matches_xml": true,
+      "operative_formulas_present": true
+    },
+    "unresolved_blockers": [],
+    "limitations": [
+      "Current and previous official states compared separately; not every historic state downloaded.",
+      "Effective Awb procedural text and existing conditional variants verified; applicability of digital transition rules remains case-specific."
+    ]
   }
 }

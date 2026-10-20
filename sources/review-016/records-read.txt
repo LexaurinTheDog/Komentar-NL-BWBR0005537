@@ -1,0 +1,221 @@
+Internal references 40
+
+=== art-2:1
+1 Een bestuursorgaan draagt zorg voor passende ondersteuning bij het verkeer met dat bestuursorgaan.
+
+2 Een ieder kan zich ter behartiging van zijn belangen in het verkeer met bestuursorganen laten bijstaan of door een gemachtigde laten vertegenwoordigen.
+
+3 Het bestuursorgaan kan van een gemachtigde een schriftelijke machtiging verlangen.
+
+=== art-2:4
+1 Het bestuursorgaan vervult zijn taak zonder vooringenomenheid.
+
+2 Het bestuursorgaan waakt ertegen dat tot het bestuursorgaan behorende of daarvoor werkzame personen die een persoonlijk belang bij een besluit hebben, de besluitvorming beïnvloeden.
+
+=== art-3:2
+Bij de voorbereiding van een besluit vergaart het bestuursorgaan de nodige kennis omtrent de relevante feiten en de af te wegen belangen.
+
+=== art-3:45
+1 Indien tegen een besluit bezwaar kan worden gemaakt of beroep kan worden ingesteld, wordt daarvan bij de bekendmaking en bij de mededeling van het besluit melding gemaakt.
+
+2 Hierbij wordt vermeld door wie, binnen welke termijn en bij welk orgaan bezwaar kan worden gemaakt of beroep kan worden ingesteld.
+
+=== art-4:7
+1 Voordat een bestuursorgaan een aanvraag tot het geven van een beschikking geheel of gedeeltelijk afwijst, stelt het de aanvrager in de gelegenheid zijn zienswijze naar voren te brengen indien:
+
+a. de afwijzing zou steunen op gegevens over feiten en belangen die de aanvrager betreffen, en
+
+b. die gegevens afwijken van gegevens die de aanvrager ter zake zelf heeft verstrekt.
+
+2 Het eerste lid geldt niet indien sprake is van een afwijking van de aanvraag die slechts van geringe betekenis voor de aanvrager kan zijn.
+
+=== art-4:8
+1 Voordat een bestuursorgaan een beschikking geeft waartegen een belanghebbende die de beschikking niet heeft aangevraagd naar verwachting bedenkingen zal hebben, stelt het die belanghebbende in de gelegenheid zijn zienswijze naar voren te brengen indien:
+
+a. de beschikking zou steunen op gegevens over feiten en belangen die de belanghebbende betreffen, en
+
+b. die gegevens niet door de belanghebbende zelf ter zake zijn verstrekt.
+
+2 Het eerste lid geldt niet indien de belanghebbende niet heeft voldaan aan een wettelijke verplichting gegevens te verstrekken.
+
+=== art-6:11
+Ten aanzien van een na afloop van de termijn ingediend bezwaar- of beroepschrift blijft niet-ontvankelijkverklaring op grond daarvan achterwege indien redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest.
+
+=== art-6:12
+1 Indien het beroep is gericht tegen het niet tijdig nemen van een besluit dan wel het niet tijdig bekendmaken van een van rechtswege verleende beschikking, is het niet aan een termijn gebonden.
+
+2 Het beroepschrift kan worden ingediend zodra:
+
+a. het bestuursorgaan in gebreke is tijdig een besluit te nemen of een van rechtswege verleende beschikking bekend te maken, en
+
+b. twee weken zijn verstreken na de dag waarop belanghebbende het bestuursorgaan schriftelijk heeft medegedeeld dat het in gebreke is.
+
+3 Indien redelijkerwijs niet van de belanghebbende kan worden gevergd dat hij het bestuursorgaan in gebreke stelt, kan het beroepschrift worden ingediend zodra het bestuursorgaan in gebreke is tijdig een besluit te nemen.
+
+4 Het beroep is niet-ontvankelijk indien het beroepschrift onredelijk laat is ingediend.
+
+=== art-6:15
+1 Indien het bezwaar- of beroepschrift wordt ingediend bij een onbevoegd bestuursorgaan of bij een onbevoegde bestuursrechter, wordt het, onder vermelding van de datum van ontvangst, zo spoedig mogelijk doorgezonden aan het bevoegde orgaan, onder gelijktijdige mededeling hiervan aan de afzender.
+
+2 Het eerste lid is van overeenkomstige toepassing indien in plaats van een bezwaarschrift een beroepschrift is ingediend of omgekeerd.
+
+3 Het tijdstip van indiening bij het onbevoegde orgaan is bepalend voor de vraag of het bezwaar- of beroepschrift tijdig is ingediend, behoudens in geval van kennelijk onredelijk gebruik van procesrecht.
+
+=== art-6:6
+Het bezwaar of beroep kan niet-ontvankelijk worden verklaard, indien:
+
+a. niet is voldaan aan artikel 6:5 of aan enig ander bij de wet gesteld vereiste voor het in behandeling nemen van het bezwaar of beroep, of
+
+b. het bezwaar- of beroepschrift geheel of gedeeltelijk is geweigerd op grond van artikel 2:15,
+
+mits de indiener de gelegenheid heeft gehad het verzuim te herstellen binnen een hem daartoe gestelde termijn.
+
+=== art-6:7
+De termijn voor het indienen van een bezwaar- of beroepschrift bedraagt zes weken.
+
+=== art-6:8
+1 De termijn vangt aan met ingang van de dag na die waarop het besluit op de voorgeschreven wijze is bekendgemaakt.
+
+2 De termijn voor het indienen van een bezwaarschrift tegen een besluit waartegen alleen door een of meer bepaalde belanghebbenden administratief beroep kon worden ingesteld, vangt aan met ingang van de dag na die waarop de beroepstermijn ongebruikt is verstreken.
+
+3 De termijn voor het indienen van een beroepschrift tegen een besluit dat aan goedkeuring is onderworpen, vangt aan met ingang van de dag na die waarop het besluit, inhoudende de goedkeuring van dat besluit, op de voorgeschreven wijze is bekendgemaakt.
+
+4 De termijn voor het indienen van een beroepschrift tegen een besluit dat tot een of meer belanghebbenden is gericht en dat is voorbereid met toepassing van afdeling 3.4 vangt aan met ingang van de dag na die waarop het besluit overeenkomstig artikel 3:44, eerste lid, onderdeel a, ter inzage is gelegd.
+
+=== art-7:12
+1 De beslissing op het bezwaar dient te berusten op een deugdelijke motivering, die bij de bekendmaking van de beslissing wordt vermeld. Daarbij wordt, indien ingevolge artikel 7:3 van het horen is afgezien, tevens aangegeven op welke grond dat is geschied.
+
+2 De beslissing wordt bekendgemaakt door toezending of uitreiking aan degenen tot wie zij is gericht. Betreft het een besluit dat niet tot een of meer belanghebbenden is gericht, dan wordt de beslissing tevens bekendgemaakt op dezelfde wijze als waarop dat besluit bekendgemaakt is, tenzij het bestreden besluit in stand wordt gelaten.
+
+3 Zo spoedig mogelijk na de bekendmaking van de beslissing wordt hiervan mededeling gedaan aan de belanghebbenden die in bezwaar of bij de voorbereiding van het bestreden besluit hun zienswijze naar voren hebben gebracht.
+
+4 Bij de mededeling, bedoeld in het derde lid, is artikel 6:23 van overeenkomstige toepassing en wordt met het oog op de aanvang van de beroepstermijn zo duidelijk mogelijk aangegeven wanneer de bekendmaking van de beslissing overeenkomstig het tweede lid heeft plaatsgevonden.
+
+=== art-7:13
+1 Dit artikel is van toepassing indien ten behoeve van de beslissing op het bezwaar een adviescommissie is ingesteld:
+
+a. die bestaat uit een voorzitter en ten minste twee leden,
+
+b. waarvan de voorzitter geen deel uitmaakt van en niet werkzaam is onder verantwoordelijkheid van het bestuursorgaan en
+
+c. die voldoet aan eventueel bij wettelijk voorschrift gestelde andere eisen.
+
+2 Indien een commissie over het bezwaar zal adviseren, deelt het bestuursorgaan dit zo spoedig mogelijk mede aan de indiener van het bezwaarschrift.
+
+3 Het horen geschiedt door de commissie. De commissie kan het horen opdragen aan de voorzitter of een lid dat geen deel uitmaakt van en niet werkzaam is onder verantwoordelijkheid van het bestuursorgaan.
+
+4 De commissie beslist over de toepassing van artikel 7:4, zesde lid, van artikel 7:5, tweede lid, en, voor zover bij wettelijk voorschrift niet anders is bepaald, van artikel 7:3.
+
+5 Een vertegenwoordiger van het bestuursorgaan wordt voor het horen uitgenodigd en wordt in de gelegenheid gesteld een toelichting op het standpunt van het bestuursorgaan te geven.
+
+6 Het advies van de commissie wordt schriftelijk uitgebracht en bevat een verslag van het horen.
+
+7 Indien de beslissing op het bezwaar afwijkt van het advies van de commissie, wordt in de beslissing de reden voor die afwijking vermeld en wordt het advies met de beslissing meegezonden.
+
+=== art-7:15
+1 Voor de behandeling van het bezwaar is geen recht verschuldigd.
+
+2 De kosten, die de belanghebbende in verband met de behandeling van het bezwaar redelijkerwijs heeft moeten maken, worden door het bestuursorgaan uitsluitend vergoed op verzoek van de belanghebbende voor zover het bestreden besluit wordt herroepen wegens aan het bestuursorgaan te wijten onrechtmatigheid.
+
+3 Het verzoek wordt gedaan voordat het bestuursorgaan op het bezwaar heeft beslist. Het bestuursorgaan beslist op het verzoek bij de beslissing op het bezwaar.
+
+4 Bij algemene maatregel van bestuur worden nadere regels gesteld over de kosten waarop de vergoeding uitsluitend betrekking kan hebben en over de wijze waarop het bedrag van de kosten wordt vastgesteld.
+
+5 Indien aan de belanghebbende in verband met het bezwaar een toevoeging is verleend op grond van de Wet op de rechtsbijstand, betaalt het bestuursorgaan de toe te kennen vergoeding aan de rechtsbijstandverlener. De rechtsbijstandverlener stelt de belanghebbende zoveel mogelijk schadeloos voor de door deze voldane eigen bijdrage. De rechtsbijstandverlener doet aan de Raad voor rechtsbijstand opgave van een kostenvergoeding door het bestuursorgaan.
+
+=== art-8:110
+1 Indien hoger beroep is ingesteld, kan degene die ook hoger beroep had kunnen instellen, incidenteel hoger beroep instellen. De voorschriften omtrent het hoger beroep zijn van toepassing, tenzij in deze titel anders is bepaald.
+
+2 Het incidenteel hoger beroep wordt ingesteld binnen zes weken nadat de hogerberoepsrechter de gronden van het hoger beroep aan de desbetreffende partij heeft verzonden.
+
+3 Binnen vier weken nadat de hogerberoepsrechter de gronden van het incidenteel hoger beroep aan partijen heeft verzonden, kunnen deze partijen schriftelijk hun zienswijze omtrent het incidenteel hoger beroep naar voren brengen.
+
+4 De hogerberoepsrechter kan de in het tweede en derde lid genoemde termijnen verlengen of, indien hij het hoger beroep behandelt met overeenkomstige toepassing van afdeling 8.2.3, verkorten.
+
+5 Voor het incidenteel hoger beroep is geen griffierecht verschuldigd.
+
+=== art-8:111
+1 Niet-ontvankelijkheid van het hoger beroep heeft geen gevolgen voor de ontvankelijkheid van het incidenteel hoger beroep, tenzij die niet-ontvankelijkheid het gevolg is van:
+
+a. overschrijding van de termijn voor het instellen van hoger beroep,
+
+b. overschrijding van de termijn voor betaling van het griffierecht, of
+
+c. de omstandigheid dat degene die het hoger beroep heeft ingesteld daartoe niet gerechtigd was.
+
+2 Intrekking van het hoger beroep na aanvang van de termijn voor het instellen van incidenteel hoger beroep heeft geen gevolgen voor de ontvankelijkheid van het incidenteel hoger beroep.
+
+=== art-8:112
+1 Incidenteel hoger beroep kan worden ingesteld onder de voorwaarde dat het hoger beroep gegrond is.
+
+2 Een voorwaardelijk incidenteel hoger beroep vervalt als het hoger beroep niet-ontvankelijk of ongegrond is, dan wel wordt ingetrokken. In het laatste geval deelt de griffier de indiener mee dat zijn hoger beroep is vervallen.
+
+=== art-8:24
+1 Partijen kunnen zich laten bijstaan of door een gemachtigde laten vertegenwoordigen.
+
+2 De bestuursrechter kan van een gemachtigde een schriftelijke machtiging verlangen.
+
+3 Het tweede lid is niet van toepassing ten aanzien van advocaten.
+
+=== art-8:29
+1 Partijen die verplicht zijn inlichtingen te geven dan wel stukken over te leggen, kunnen, indien daarvoor gewichtige redenen zijn, het geven van inlichtingen dan wel het overleggen van stukken weigeren of de bestuursrechter mededelen dat uitsluitend hij kennis zal mogen nemen van de inlichtingen onderscheidenlijk de stukken.
+
+2 Gewichtige redenen zijn voor een bestuursorgaan in ieder geval niet aanwezig, voor zover ingevolge de Wet open overheid de verplichting zou bestaan een verzoek om informatie, vervat in de over te leggen stukken, in te willigen.
+
+3 De bestuursrechter beslist of de in het eerste lid bedoelde weigering onderscheidenlijk de beperking van de kennisneming gerechtvaardigd is.
+
+4 Indien de bestuursrechter heeft beslist dat de weigering gerechtvaardigd is, vervalt de verplichting.
+
+5 Indien de bestuursrechter heeft beslist dat de beperking van de kennisneming gerechtvaardigd is, kan hij slechts met toestemming van de andere partijen mede op de grondslag van die inlichtingen onderscheidenlijk die stukken uitspraak doen. Indien de toestemming wordt geweigerd, wordt de zaak verwezen naar een andere kamer.
+
+6 Inzake een beroep tegen een besluit op grond van de Wet open overheid neemt, in zo verre in afwijking van het eerste en derde lid, uitsluitend de bestuursrechter kennis van de stukken waarvan op grond van de Wet open overheid om openbaarmaking of verstrekking is verzocht. De toestemming, bedoeld in het vijfde lid, is van rechtswege verleend.
+
+=== art-8:41
+1 Van de indiener van het beroepschrift wordt door de griffier een griffierecht geheven.
+
+2 Het griffierecht bedraagt:
+
+a. € 54 indien door een natuurlijke persoon beroep is ingesteld tegen een besluit als omschreven in de bij deze wet behorende Regeling verlaagd griffierecht,
+
+b. € 200 indien door een natuurlijke persoon beroep is ingesteld tegen een ander besluit,
+
+c. € 397 indien anders dan door een natuurlijke persoon beroep is ingesteld.
+
+3 Indien het een beroepschrift tegen twee of meer samenhangende besluiten dan wel van twee of meer indieners tegen hetzelfde besluit betreft, is eenmaal griffierecht verschuldigd. Dit griffierecht is gelijk aan het hoogste van de bedragen die bij toepassing van het tweede lid verschuldigd zouden zijn geweest.
+
+4 De griffier deelt de indiener van het beroepschrift mede welk griffierecht is verschuldigd en wijst hem daarbij op het bepaalde in het vijfde en zesde lid.
+
+5 Het griffierecht dient binnen vier weken na verzending van de mededeling van de griffier te zijn bijgeschreven op de rekening van het gerecht dan wel ter griffie te zijn gestort.
+
+6 Indien het bedrag niet tijdig is bijgeschreven of gestort, is het beroep niet-ontvankelijk, tenzij redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest. In afwijking van de eerste zin blijft niet-ontvankelijkverklaring achterwege, indien aannemelijk is dat de indiener van het beroepschrift op de datum waarop het bedrag uiterlijk moet zijn bijgeschreven of gestort, in betalingsonmacht verkeert.
+
+7 Indien het beroep wordt ingetrokken omdat het bestuursorgaan geheel of gedeeltelijk aan de indiener van het beroepschrift is tegemoetgekomen, vergoedt het bestuursorgaan aan de indiener het door deze betaalde griffierecht.
+
+8 In andere gevallen kan het bestuursorgaan, indien het beroep wordt ingetrokken, het betaalde griffierecht geheel of gedeeltelijk vergoeden.
+
+=== art-8:54a
+1 Totdat partijen zijn uitgenodigd om op een zitting van de bestuursrechter te verschijnen, kan de bestuursrechter het onderzoek sluiten, indien voortzetting van het onderzoek niet nodig is, omdat het bestuursorgaan kennelijk ten onrechte heeft ingestemd met rechtstreeks beroep bij de bestuursrechter.
+
+2 In dat geval strekt de uitspraak ertoe dat het bestuursorgaan het beroepschrift als bezwaarschrift behandelt. Artikel 7:10 is van overeenkomstige toepassing.
+
+=== art-8:72
+1 Indien de bestuursrechter het beroep gegrond verklaart, vernietigt hij het bestreden besluit geheel of gedeeltelijk.
+
+2 De vernietiging van een besluit of een gedeelte van een besluit brengt vernietiging van de rechtsgevolgen van dat besluit of van het vernietigde gedeelte daarvan mee.
+
+3 De bestuursrechter kan bepalen dat:
+
+a. de rechtsgevolgen van het vernietigde besluit of het vernietigde gedeelte daarvan geheel of gedeeltelijk in stand blijven, of
+
+b. zijn uitspraak in de plaats treedt van het vernietigde besluit of het vernietigde gedeelte daarvan.
+
+4 De bestuursrechter kan, indien toepassing van het derde lid niet mogelijk is, het bestuursorgaan opdragen een nieuw besluit te nemen of een andere handeling te verrichten met inachtneming van zijn aanwijzingen. Daarbij kan hij:
+
+a. bepalen dat wettelijke voorschriften over de voorbereiding van het nieuwe besluit of de andere handeling geheel of gedeeltelijk buiten toepassing blijven;
+
+b. het bestuursorgaan een termijn stellen voor het nemen van het nieuwe besluit of het verrichten van de andere handeling.
+
+5 De bestuursrechter kan zo nodig een voorlopige voorziening treffen. Daarbij bepaalt hij het tijdstip waarop de voorlopige voorziening vervalt.
+
+6 De bestuursrechter kan bepalen dat, indien of zolang het bestuursorgaan niet voldoet aan een uitspraak, het bestuursorgaan aan een door hem aangewezen partij een in de uitspraak vast te stellen dwangsom verbeurt. De artikelen 611a, vierde lid, 611b tot en met 611d en 611g van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing.
+Editorial notes []

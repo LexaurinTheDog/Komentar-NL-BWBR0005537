@@ -1,0 +1,240 @@
+{
+  "complete": true,
+  "kind": "bounded_independent_review",
+  "reviewed_at": "2026-10-20T17:25:35.172497+00:00",
+  "decisive_date": "2026-10-19",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "art-5:51",
+    "art-5:52",
+    "art-5:53",
+    "art-5:54",
+    "art-6:1",
+    "art-6:2",
+    "art-6:3",
+    "art-6:4",
+    "art-6:5",
+    "art-6:6",
+    "art-6:7",
+    "art-6:8",
+    "art-6:9",
+    "art-6:10",
+    "art-6:11",
+    "art-6:12",
+    "art-6:13",
+    "art-6:14",
+    "art-6:15",
+    "art-6:16"
+  ],
+  "corrected_ids": [
+    "art-6:5",
+    "art-6:6",
+    "art-6:7",
+    "art-6:11",
+    "art-6:12",
+    "art-6:14"
+  ],
+  "retained_ids": [
+    "art-5:51",
+    "art-5:52",
+    "art-5:53",
+    "art-5:54",
+    "art-6:1",
+    "art-6:2",
+    "art-6:3",
+    "art-6:4",
+    "art-6:8",
+    "art-6:9",
+    "art-6:10",
+    "art-6:13",
+    "art-6:15",
+    "art-6:16"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "art-5:51",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Beide leden gelezen: dertien weken vanaf dagtekening rapport, specifieke OM-opschorting vanaf voorlegging tot herstel bevoegdheid, geen algemene herstart. RvS 2021:1232 volledig gelezen; termijn van orde en afwijzing van matiging correct weergegeven. Aanvullend rapport bewijst geen zelfstandige herstartregel; verval 5:45 en totale procedureduur onderscheiden. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:52",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Naam en bedrag, allebei in de boetebeschikking, gelezen. Identiteit van rechtspersoon niet met handelsnaam of holding vereenzelvigd; 5:9 en 4:86 gecontroleerd. Herkenbare verschrijving onderscheiden van verkeerde keuze overtreder, zonder algemene nietigheidsclaim. Vennootschapsvoorbeeld passend. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:53",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Alle drie leden gelezen: mogelijke boete boven €340, wettelijke afwijking, verplicht rapport/proces-verbaal en zienswijze. De uiteindelijk gematigde boete verandert de procedure niet vanzelf. Verwijzingen 5:45 en 10:3 lid 4, inzage en toezending gecontroleerd. Geen sectorale afwijking verzonnen. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:54",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Hele norm gelezen. Overeenkomstige toepassing op andere bestraffende sancties afhankelijk van wettelijk voorschrift; geen zelfstandige sanctiebevoegdheid uit de schakel afgeleid. Voorwaardelijk sectorvoorbeeld en checklist dekken bevoegdheid, voorbereiding en rechtsbescherming zonder een niet onderzochte concrete sanctie geldend te verklaren. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:1",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Hoofdstukken 6 en 7 en de voorwaarde van elders geopende rechtsbescherming gecontroleerd. Geen toepassing van hoofdstuk 8 of nieuw algemeen beroep tegen feitelijke handelingen uit deze bepaling afgeleid. Verschil met wettelijke gelijkstelling 6:2 en het bijzondere-handelingvoorbeeld correct. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:2",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Beide onderdelen gelezen. Schriftelijke weigering om te beslissen onderscheiden van inhoudelijke afwijzing, niet tijdig beslissen van een fictieve vergunning. Termijn, eventuele opschorting en bestaan van besluitplicht vereist. 6:12, 7:1 lid 1 f en 4:17 afzonderlijk getoetst. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:3",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Gehele voorbereidingsregel en tenzij-clausule gelezen. Rechtstreeks zelfstandig geraakt belang vereist; gewone proceslast niet automatisch voldoende. Aanvechtbaarheid onderscheiden van gebrekkigheid van de voorbereiding en latere toets bij eindbesluit. Procesvolgordevoorbeeld blijft voorwaardelijk en pretendeert geen nieuwe appellabiliteitsregel. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:4",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Drie leden gelezen: bezwaar bij besluitnemer, administratief beroep bij beroepsorgaan en beroep bij bestuursrechter. Geschrift, inhoud boven opschrift, voorafgaand bezwaar 7:1 en doorzenden 6:15 gecontroleerd. Elektronisch regime afhankelijk van ontvanger; telefoon niet als algemeen geldig bezwaar gepresenteerd. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:5",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "corrected",
+      "finding": "Alle leden en a–d gelezen. Ondertekening, identificatie, dagtekening, besluit en gronden, afschrift zo mogelijk en noodzakelijke vertaling gedekt. Aangevuld met functionele elektronische handtekening onder 2:18 bij bestuursorganen en afzonderlijke rechterlijke digitale regeling; ontbreken natte handtekening niet automatisch gebrek. Pro forma geeft geen nieuwe indieningstermijn.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:6",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "corrected",
+      "finding": "Beide gronden en verplichte voorafgaande herstelgelegenheid gelezen. Kan blijft facultatieve consequentie na herstel; tijdigheid afzonderlijk. Materiële precisering: uitzondering voor bezwaar in 2:16 lid 1 heft lid 2 voor geheel niet aangewezen kanalen niet op. Voor behouden vroegere afdeling 2.3 verwijzing naar artikel XV Stb. 2025/445 en 2:7 toegevoegd. Geen onbeperkt digitaal indieningsrecht aangenomen.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:7",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "corrected",
+      "finding": "Hele zeswekenregel en actuele ATW gelezen; duur, aanvang en indiening gescheiden, kalenderweken en einddagverlenging juist. Volledige CRvB 2021:1500 en CBB 2024:31 gelezen. Aangevuld dat derdebelanghebbenden de eerdere ontvankelijkverklaring wel kunnen bestrijden: afschaffing ambtshalve toets eerdere fase beschermt niet tegen ieder partijbetoog.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:8",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Alle vier leden gelezen. Dag na juiste bekendmaking, bijzondere bezwaartermijn na ongebruikte beperkte administratieve beroepstermijn, goedkeuringsbesluit en terinzagelegging bij afdeling 3.4 afzonderlijk behandeld. 3:41 en 3:44 gecontroleerd. Verzend- versus inzagevoorbeeld kiest het passende lid; geen gelijkstelling dagtekening en bekendmaking. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:9",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Beide leden gelezen; ontvangsthoofdregel en cumulatieve tijdige terpostbezorging/ontvangst uiterlijk binnen week behouden. Volledige RvS 2020:1682 gelezen: ACM-geregistreerde vervoerder en bewijsvermoeden bij ontbrekend/onleesbaar stempel juist. Geen extra digitale week, actuele vervoerdersregistratie of onmogelijke novemberdatum uit de bron overgenomen. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:10",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Beide leden met a/b gelezen. Bestaand maar nog niet bekendgemaakt besluit onderscheiden van redelijke indruk dat reeds beslist was. Geen algemene ontvankelijkheid wegens verwachte afwijzing. Aanhouden tot termijnbegin, overige ontvankelijkheidseisen en grens met zienswijze/stilzitten behandeld. Voorbeeld berust op werkelijk bestaand besluit. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:11",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "corrected",
+      "finding": "Gehele norm en volledige CBB 2024:31/2026:406 gelezen. Individueel kader, geringe verwijtbaarheid, bewijsregie, spoedig handelen en specifieke zeswekenlijn juist. Geen algemene coulance of automatische termijn na herstel. Aangevuld met r.o. 5.2: niet-professionele hulpverlener eveneens in beginsel risico indiener, maar gewone contextuele maatstaf bij bijzondere omstandigheden. Historische digitale zaak vervangt actuele regels niet.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:12",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "corrected",
+      "finding": "Alle vier leden en beide onderdelen lid 2 gelezen. Geen gewone indieningstermijn, wel verstreken besluit-/bekendmakingstermijn, schriftelijke ingebrekestelling en twee weken, plus grens onredelijk laat. Tekst aangescherpt: lid 3 formuleert de uitzondering specifiek voor niet tijdig nemen van een besluit; beide vormen uit lid 1 niet ongelezen vereenzelvigd. Dwangsom en vergunning van rechtswege afzonderlijk.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:13",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Hele norm en volledige RvS 2021:786 gelezen. Verwijtbare gemiste voorfase tegenover Aarhus/omgevingsrechtelijke openbare voorbereiding; ook onderdelentrechter betrokken. Geen opheffing alle bezwaarplichten, automatische toegang niet-belanghebbenden of inhoudelijk gelijk uit ontvankelijkheid. Huidige tekst officieel ongewijzigd; historische sectorwetten niet als huidige opsomming gebruikt. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:14",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "corrected",
+      "finding": "Beide leden gelezen: schriftelijke bevestiging en zo spoedig mogelijke kennisgeving beroep aan besluitnemer. Ontvangst niet met definitieve ontvankelijkheid verward. Aangescherpt dat uitzonderingen op elektronische bevestiging onder 2:17 lid 1 niet vanzelf zelfstandige verplichting van 6:14 schrappen; toepasselijk overgangsregime afzonderlijk. Voorbeeld en beide ontvangers correct.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:15",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Alle drie leden gelezen. Verplichte spoedige doorzending, ontvangstdatum en gelijktijdig bericht, verwisseling bezwaar/beroep en oorspronkelijke indieningstijd gedekt. Kennelijk onredelijk gebruik onderscheiden van gewone vergissing. Geen nieuwe termijn voor al te late eerste indiening; intern verkeerd digitaal kanaal afzonderlijk. Overgangsnoot 2016/288 gelezen. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:16",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Gehele hoofdregel en wettelijke uitzondering gelezen. Geen automatische schorsing door bezwaar/beroep of verzoek om voorziening; inwerkingtreding 3:40 en spoed/connexiteit 8:81 onderscheiden. Betalingsuitstel heeft eigen grondslag 4:94. Fictieve last en afsluitende werkcontrole blijven binnen deze twintig artikelen. Behouden.",
+      "resolved": true
+    }
+  ],
+  "limitations": [
+    "Precies de twintig genoemde eenheden zijn inhoudelijk beoordeeld; geen review van het gehele boek. De eerdere 280 commentaren zijn behouden.",
+    "288 eenheden buiten deze opdracht missen nog commentaar; volledige bouw en strikte eindvalidatie blijven daarom geblokkeerd.",
+    "Zes volledige officiële uitspraken selectief herlezen; geen uitputtend onderzoek van alle latere behandeling, sectorale afwijkingen of actuele registratie van postvervoerders.",
+    "Lokale CBB 2024:31 mist voorwerk vóór Procesverloop; de volledige officiële versie is gelezen en het resterende lokale body komt overeen.",
+    "Geen volledige kalender van krachtens ATW artikel 3 lid 3 gelijkgestelde dagen; geen concrete einddagberekening gepubliceerd. Digitale toepasselijkheid vergt per zaak overgangs- en sectorcontrole.",
+    "Historische sanctie-, Wmo-, TVL-, woning- en planregels in de uitspraken zijn context, geen actuele sectorale normstelling.",
+    "Bronovereenstemming, minimumlengte en herhalingscontrole bewijzen geen juridische kwaliteit. Dit is geen externe professionele goedkeuring."
+  ],
+  "whole_book_complete": false,
+  "evidence": {
+    "source_preflight": "sources/review-015/preflight-result.json",
+    "assigned_source_records": "sources/review-015/assigned-source-records.json",
+    "official_http": "sources/review-015/verification.json",
+    "additional_http": "sources/review-015/additional-verification.json",
+    "historical_comparison": "sources/review-015/historical-comparison.json",
+    "external_version": "sources/review-015/external-version-check.json",
+    "transitional_records": "sources/review-015/transitional-records.json",
+    "internal_crossrefs": "sources/review-015/internal-crossrefs.json",
+    "authorities": "sources/review-015/authority-review.json",
+    "search_log": "sources/review-015/case-search-log.json",
+    "technical": "review-technical.json",
+    "prior_review": "sources/review-015/prior-review-result.json"
+  }
+}

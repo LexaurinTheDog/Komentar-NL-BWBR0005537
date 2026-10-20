@@ -1,0 +1,339 @@
+---
+source: rechtspraak
+country: nl
+document_type: decision
+court: Raad van State
+ecli: ECLI:NL:RVS:2024:4599
+date: '2024-11-13'
+date_published: '2024-11-13'
+case_number:
+- 202203062/1/R1
+procedure:
+- Eerste aanleg - meervoudig
+subject:
+- Bestuursrecht
+relations: null
+references: null
+source_url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:4599
+download_url: https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2024:4599
+chars: 52692
+license: Public Domain Mark
+retrieved_at: '2026-10-05T14:04:34Z'
+---
+
+# ECLI:NL:RVS:2024:4599 – Raad van State, 2024-11-13
+
+- **Instantie:** Raad van State
+- **Datum:** 2024-11-13
+- **Zaaknummer:** 202203062/1/R1
+- **Rechtsgebied:** Bestuursrecht
+
+## Inhoudsindicatie
+
+Bij besluit van 27 januari 2022 heeft de raad van de gemeente Schouwen-Duiveland het bestemmingsplan "Renesse" vastgesteld. Het plangebied omvat de kern van Renesse bestaande uit het centrumgebied, het transferium en de gebieden rond de Jan Renesseweg, Scholderlaan en Stoofweg. In het bijzonder gaat het plan over een regeling voor verblijfsrecreatie in de vorm van tweede woningen en de recreatieve verhuur van woningen aan derden in het gebied Oude Moolweg-Scholderlaan; een van oorsprong recreatief bewoond gebied dat bestaat uit 214 woningen. De raad heeft in het bestemmingsplan voor 26 woningen in dit gebied een zogenoemde uitsterfregeling opgenomen, waardoor recreatieve verhuur aan derden - ondanks de woonbestemming - mogelijk blijft, tenzij deze recreatieve functie gedurende een aaneengesloten periode van een jaar is beëindigd [appellant sub 1] en anderen zijn erfpachters dan wel eigenaren van (recreatie)woningen in het gebied Oude Moolweg-Scholderlaan. Zij kunnen zich niet verenigen met het bestemmingsplan, onder meer omdat het recreatieve verhuur van hun woningen aan derden niet toestaat.
+
+## Uitspraak
+
+202203062/1/R1.
+
+Datum uitspraak: 13 november 2024
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak in het geding tussen:
+
+1. [appellant sub 1], wonend te [woonplaats], en anderen,
+
+2. [appellant sub 2], wonend te [woonplaats],
+
+3. [appellant sub 3] en anderen, allen wonend te Renesse, gemeente Schouwen-Duiveland,
+
+4. [appellant sub 4], wonend te Renesse, gemeente Schouwen-Duiveland,
+
+5. [appellant sub 5A] en [appellant sub 5B], beiden wonend te [woonplaats], (hierna tezamen en in enkelvoud: [appellant sub 5]),
+
+6. wijlen [appellant sub 6], laatstelijk gewoond hebbend te [woonplaats], thans zijn rechtsopvolgers, de erven van [appellant sub 6] (hierna: de erven [appellant sub 6]),
+
+appellanten,
+
+en
+
+de raad van de gemeente Schouwen-Duiveland,
+
+verweerder.
+
+Procesverloop
+
+Bij besluit van 27 januari 2022 heeft de raad het bestemmingsplan "Renesse" vastgesteld.
+
+Tegen dit besluit hebben [appellant sub 1] en anderen beroep ingesteld.
+
+De raad heeft een verweerschrift ingediend.
+
+Bij besluit van 23 maart 2023 heeft de raad het bestemmingsplan "Renesse" gewijzigd vastgesteld.
+
+[appellant sub 1] en anderen en de raad hebben nadere stukken ingediend.
+
+[appellant sub 2], [appellant sub 3] en anderen, [appellant sub 4], [appellant sub 5] en de erven [appellant sub 6], hebben beroep ingesteld tegen het besluit van 23 maart 2023.
+
+De erven [appellant sub 6] en de raad hebben een nader stuk ingediend.
+
+[belanghebbende A] en [belanghebbende B] hebben gebruik gemaakt van de geboden gelegenheid een schriftelijke uiteenzetting te gegeven.
+
+De voorzitter van de Afdeling heeft staatsraad advocaat-generaal mr. A.G.A. Nijmeijer (hierna: de AG) verzocht een conclusie te nemen als bedoeld in artikel 8:12a van de Algemene wet bestuursrecht (hierna: de Awb). Partijen zijn in de gelegenheid gesteld schriftelijk op het verzoek te reageren. [appellant sub 1] en anderen en [appellant sub 3] en anderen hebben daarvan gebruik gemaakt.
+
+[appellant sub 1] en anderen, [appellant sub 3] en anderen en [appellant sub 4] hebben een nader stuk ingediend.
+
+De Afdeling heeft de zaak ter zitting behandeld op 26 maart 2024, waar [appellant sub 1] en anderen, vertegenwoordigd dan wel bijgestaan door mr. F.P. van Galen, advocaat te Leiden, [appellant sub 2], [appellant sub 3] en anderen, vertegenwoordigd dan wel bijgestaan door [gemachtigde A], [appellant sub 4], bijgestaan door mr. M.R.A. Arntz, rechtsbijstandverlener te Leusden, de erven [appellant sub 6], vertegenwoordigd door [gemachtigde B] en [gemachtigde C], en de raad, vertegenwoordigd door R.P. Stam, bijgestaan door mr. A. Schreijenberg, advocaat te Middelburg, zijn verschenen. Ook de AG was ter zitting aanwezig.
+
+De AG heeft op 29 mei 2024, ECLI:NL:RVS:2024:2238, een conclusie genomen. [appellant sub 1] en anderen, [appellant sub 3] en anderen, [appellant sub 4] en de raad hebben op de conclusie gereageerd.
+
+Vervolgens heeft de Afdeling het onderzoek gesloten.
+
+Overwegingen
+
+Overgangsrecht inwerkingtreding Omgevingswet
+
+1. Op 1 januari 2024 zijn de Omgevingswet en de Invoeringswet Omgevingswet in werking getreden. Op grond van artikel 4.6, derde lid, van de Invoeringswet Omgevingswet blijft op een beroep tegen een besluit tot vaststelling van een bestemmingsplan waarvan het ontwerp vóór het tijdstip van inwerkingtreding van de Omgevingswet ter inzage is gelegd het recht zoals dat gold onmiddellijk vóór dat tijdstip van toepassing tot het bestemmingsplan onherroepelijk is.
+
+Het ontwerpplan is op 22 februari 2021 ter inzage gelegd. Dat betekent dat op deze beroepsprocedure de Wet ruimtelijke ordening (hierna: de Wro), zoals die gold vóór 1 januari 2024, van toepassing blijft.
+
+Toetsingskader
+
+2. Bij de vaststelling van een bestemmingsplan moet de raad bestemmingen aanwijzen en regels geven die de raad uit het oogpunt van een goede ruimtelijke ordening nodig acht. De raad heeft daarbij beleidsruimte en moet de betrokken belangen afwegen. De Afdeling oordeelt niet zelf of het plan in overeenstemming is met een goede ruimtelijke ordening. De Afdeling beoordeelt aan de hand van de beroepsgronden of het besluit tot vaststelling van het bestemmingsplan in overeenstemming is met het recht. Daarbij kan aan de orde komen of de nadelige gevolgen van het plan onevenredig zijn in verhouding tot de met het plan te dienen doelen.
+
+Inleiding
+
+3. Het doel van het plan is te komen tot een actueel planologisch kader voor het plangebied. Het plangebied omvat de kern van Renesse bestaande uit het centrumgebied, het transferium en de gebieden rond de Jan Renesseweg, Scholderlaan en Stoofweg. In het bijzonder gaat het plan over een regeling voor verblijfsrecreatie in de vorm van tweede woningen en de recreatieve verhuur van woningen aan derden in het gebied Oude Moolweg-Scholderlaan; een van oorsprong recreatief bewoond gebied dat bestaat uit 214 woningen. De raad heeft in het op 27 januari 2022 vastgestelde bestemmingsplan voor 26 woningen in dit gebied een zogenoemde uitsterfregeling opgenomen, waardoor recreatieve verhuur aan derden - ondanks de woonbestemming - mogelijk blijft, tenzij deze recreatieve functie gedurende een aaneengesloten periode van een jaar is beëindigd.
+
+4. [appellant sub 1] en anderen zijn erfpachters dan wel eigenaren van (recreatie)woningen in het gebied Oude Moolweg-Scholderlaan. Zij kunnen zich niet verenigen met het bestemmingsplan, onder meer omdat het recreatieve verhuur van hun woningen aan derden niet toestaat.
+
+Besluit van 23 maart 2023
+
+5. Bij besluit van 23 maart 2023 heeft de raad het bij besluit van 27 januari 2022 vastgestelde plan gewijzigd vastgesteld. De raad heeft in dit plan 20 extra woningen onder de reikwijdte van de uitsterfregeling gebracht, waaronder onder meer alle woningen van [appellant sub 1] en anderen. Verder is een verleende omgevingsvergunning voor het adres [locatie 1] in de planregeling verwerkt.
+
+Afdeling 3.4 van de Awb is bij de vaststelling van het plan niet opnieuw gevolgd. De raad heeft geen nieuw ontwerpbesluit ter inzage gelegd en is teruggevallen op de voorbereidingsprocedure die ten grondslag is gelegd aan het besluit van 27 januari 2022.
+
+6. [appellant sub 2], [appellant sub 3] en anderen, [appellant sub 4], [appellant sub 5] en de erven [appellant sub 6] - bewoners van (recreatie)woningen in het gebied Oude Moolweg-Scholderlaan - hebben enkel beroep ingesteld tegen het besluit van 23 maart 2023. Zij kunnen zich niet verenigen met dat besluit. [appellant sub 2], [appellant sub 5] en de erven [appellant sub 6] betogen, kort gezegd, dat hun woningen ten onrechte niet onder de reikwijdte van de uitsterfregeling zijn gebracht. [appellant sub 4] en [appellant sub 3] en anderen komen, kort gezegd, op tegen het onderbrengen van 20 extra woningen onder de reikwijdte van de uitsterfregeling.
+
+Leeswijzer
+
+7. De Afdeling bespreekt hierna eerst de vraag of het besluit van 23 maart 2023 een besluit is als bedoeld in artikel 6:19, eerste lid, van de Awb (overwegingen 8-10.1). Daarbij gaat de Afdeling ook in op de conclusie van de AG van 29 mei 2024 (overwegingen 9-9.3). Vervolgens zal de Afdeling ingaan op de vraag of en zo ja in hoeverre de beroepen van [appellant sub 2], [appellant sub 3] en anderen, [appellant sub 4], [appellant sub 5] en de erven [appellant sub 6] tegen het besluit van 23 maart 2023 ontvankelijk zijn (overwegingen 11-13). Daarna gaat de Afdeling in op de vraag of de raad het bij besluit van 23 maart 2023 vastgestelde plan kon vaststellen zonder opnieuw een ontwerpbesluit ter inzage te leggen, dus zonder volledig toepassing te geven aan de openbare voorbereidingsprocedure van afdeling 3.4 van de Awb (overwegingen 14-14.2). Hierna zal de Afdeling de (van rechtswege ontstane) beroepen tegen het bij besluit van 23 maart 2023 vastgestelde bestemmingsplan beoordelen (overwegingen 15-18). In de kern gaat het dan om de vraag of de raad ervoor heeft kunnen kiezen voor het gebruik van recreatieve verhuur aan derden een uitsterfregeling op te nemen en zo ja, of er in het bij besluit van 23 maart 2023 vastgestelde plan een eenduidige (uitsterf)regeling is opgenomen. Vervolgens zal de Afdeling het beroep van [appellant sub 1] en anderen tegen het bij besluit van 27 januari 2022 vastgestelde bestemmingsplan - voor zover daar nog belang bij bestaat - beoordelen (overwegingen 19-19.2). Tot slot volgt een conclusie en wordt ingegaan op de proceskosten (overwegingen 20-23).
+
+Is het besluit van 23 maart 2023 een besluit als bedoeld in artikel 6:19, eerste lid, van de Awb?
+
+8. Artikel 6:19, eerste lid, van de Awb luidt:
+
+"Het bezwaar of beroep heeft van rechtswege mede betrekking op een besluit tot intrekking, wijziging of vervanging van het bestreden besluit, tenzij partijen daarbij onvoldoende belang hebben."
+
+- Artikel 6:19, eerste lid, van de Awb (algemeen)
+
+9. De voorzitter van de Afdeling heeft de AG gevraagd om - samengevat weergegeven - ten behoeve van de rechtsontwikkeling een conclusie te nemen over artikel 6:19, eerste lid, van de Awb in relatie tot elkaar opvolgende (besluiten over) ruimtelijke plannen. De AG heeft op 29 mei 2024 een conclusie genomen, die de Afdeling bij deze uitspraak zal betrekken.
+
+9.1. De conclusie ziet op:
+
+(1) de rechtspraak over de toepassing van artikel 6:19 van de Awb in bestemmingsplanzaken onder de Wro;
+
+(2) de toepassing van artikel 6:19 van de Awb in zaken die gaan over de wijziging van een omgevingsplan onder de Omgevingswet.
+
+Zoals onder 1 is overwogen, blijft op deze zaak de Wro van toepassing. De vraag hoe artikel 6:19 van de Awb moet worden toegepast in zaken die gaan over de wijziging van een omgevingsplan, wordt in deze uitspraak dus niet beantwoord.
+
+9.2. De AG stelt in zijn conclusie voorop dat het bij artikel 6:19, eerste lid, van de Awb in het bijzonder gaat om de vraag of een besluit kwalificeert als een nader besluit dat voldoende samenhangt met het bestreden besluit dan wel of sprake is van een primair besluit tot vaststelling van een bestemmingsplan waartegen alle belanghebbenden beroep kunnen instellen.
+
+De AG stelt vervolgens dat uit uitspraken van de Afdeling naar voren komt dat artikel 6:19 van de Awb in bestemmingsplanzaken ruim wordt toegepast. De buiten bestemmingsplanzaken gestelde eis dat de besluitvorming binnen de grondslag en de reikwijdte van het bestreden besluit moet vallen en dat er een (inhoudelijke) relatie moet bestaan tussen het hangende beroep genomen besluit en het bestreden besluit, komt in de rechtspraak over bestemmingsplanzaken niet duidelijk naar voren. De enige relatie die er in ieder geval moet zijn is dat het nieuwe bestemmingsplan betrekking heeft op hetzelfde plangebied als het oorspronkelijke plan. Daardoor ontstaat in vergelijking tot andere typen zaken relatief vaak een fictief beroep tegen een besluit dat hangende beroep wordt genomen.
+
+De AG stelt dat de ruime toepassing van artikel 6:19 van de Awb in bestemmingsplanzaken in het licht van de doelstelling van dat artikel - namelijk het voorkomen van verlies aan rechtsbescherming en het bevorderen van een effectieve geschilbeslechting - niet alleen voordelen, maar ook nadelen met zich brengt. De nadelen houden in belangrijke mate verband met de uitdijende werking die een fictief beroep heeft op de omvang van het geding in het reële beroep. De AG reikt een aantal oplossingen aan om de uitdijende werking van een fictief beroep te beperken door:
+
+1) alleen herstelbesluiten en zuivere reparatiebesluiten onder de reikwijdte van artikel 6:19 van de Awb te brengen;
+
+2) bij de beoordeling of sprake is van een reparatiebesluit nadrukkelijk(er) een relatie te leggen met de beroepsgronden die in het reële beroep zijn ingebracht, in het bijzonder door de gebiedsgewijze benadering achterwege te laten;
+
+3) bij een besluit dat valt onder de reikwijdte van artikel 6:19 van de Awb, de kring van beroepsgerechtigden consequent in te perken tot degenen die door het hangende beroep genomen besluit in een nadeliger positie komen te verkeren of door gewijzigde feiten of omstandigheden redelijkerwijs niet kunnen worden verweten dat zij tegen het oorspronkelijke besluit geen beroep hebben ingesteld;
+
+4) als afdeling 3.4 van de Awb is toegepast bij een gecombineerd besluit geen fictief beroep tegen het gecombineerde besluit aan te nemen, maar rechtsbescherming te creëren door het instellen van reëel beroep tegen het gecombineerde besluit, waarbij moet worden voldaan aan een aantal randvoorwaarden die de effectieve geschilbeslechting en rechtsbescherming borgen.
+
+9.3. De Afdeling onderschrijft dat artikel 6:19 van de Awb in bestemmingsplanzaken in de bestaande rechtspraak ruim wordt toegepast en dat de hiermee gepaard gaande uitdijende werking die een fictief beroep heeft op de omvang van het geding, in het reële beroep nadelen met zich kan brengen. Dat geldt temeer als - zoals hier - door de beroepen tegen het nadere besluit de aard en omvang van het oorspronkelijke geschil aanzienlijk wordt vergroot. De nadelen in de huidige praktijk zijn naar het oordeel van de Afdeling echter niet zodanig groot dat zij daarin op dit moment aanleiding ziet om haar rechtspraak in het licht van de door de AG aangedragen oplossingslijnen aan te passen. Daarbij neemt de Afdeling in aanmerking dat het doel van artikel 6:19 van de Awb - namelijk het voorkomen van verlies aan rechtsbescherming en het bevorderen van een effectieve geschilbeslechting - door de ruime toepassing van artikel 6:19 van de Awb in bestemmingsplanzaken wordt gediend. Bovendien kan - zoals hierna ook zal volgen - de bestuursrechter in de huidige rechtspraak van geval tot geval, in het verlengde van de tegen het bestreden besluit en nader besluit aangevoerde beroepsgronden, bepalen hoe een tijdens een beroepsprocedure genomen besluit moet worden gekwalificeerd, welke kring van beroepsgerechtigden daarbij hoort, en of afzonderlijke behandeling van daartegen gerichte beroepschriften gewenst of noodzakelijk is. Er zal in de toekomst mogelijk een moment komen dat (toch) wordt gezocht naar mogelijkheden om de uitdijende werking langs de lijnen van de door de AG aangedragen oplossingen nadrukkelijk(er) te beperken als de nadelen meer toe zullen nemen, bijvoorbeeld ten aanzien van omgevingsplanzaken gelet op de regelstructuur van een omgevingsplan. De conclusie bevat (ook) daarover beschouwingen en aanbevelingen, die in toekomstige zaken van de Afdeling aan bod kunnen komen.
+
+- Artikel 6:19, eerste lid, van de Awb (in deze zaak)
+
+10. Bij besluit van 23 maart 2023 heeft de raad het bestemmingsplan "Renesse" gewijzigd vastgesteld. Voor zover de raad zich in het vaststellingsbesluit met nummer 763853 op het standpunt stelt dat dit besluit een besluit is zoals bedoeld in artikel 6:19, eerste lid, van de Awb, overweegt de Afdeling het volgende.
+
+Bij besluit van 27 januari 2022 heeft de raad het bestemmingsplan "Renesse" vastgesteld. In dit plan is onder meer voor 26 woningen in het gebied Oude Moolweg-Scholderlaan een zogenoemde uitsterfregeling opgenomen, waardoor recreatieve verhuur aan derden - ondanks de woonbestemming - mogelijk blijft, tenzij deze recreatieve functie gedurende een aaneengesloten periode van een jaar is beëindigd. Tijdens de behandeling van dat bestemmingsplan heeft de gemeenteraad het college van burgemeester en wethouders van Schouwen-Duiveland (hierna: het college) opgedragen om te onderzoeken of er meer woningen in het gebied Oude Moolweg-Scholderlaan onder de uitsterfregeling vallen voor wat betreft de recreatieve verhuur van woningen aan derden. Uit het raadsvoorstel van 17 januari 2023 blijkt dat het college op grond van de resultaten van dit onderzoek de raad heeft voorgesteld het plan, zoals door de raad is vastgesteld op 27 januari 2022, te wijzigen door in aanvulling op dit plan nog 9 extra woningen onder de uitsterfregeling voor wat betreft de recreatieve verhuur van woningen aan derden te brengen en ook een eerder, op 5 maart 2021 verleende omgevingsvergunning voor het verbouwen van een vakantiewoning voor het adres [locatie 1] in het bestemmingsplan te verwerken. Daarnaast heeft de raad op 23 maart 2023 bij amendement besloten om naast de 9 in het raadsvoorstel van 17 januari 2023 genoemde woningen nog eens 11 extra woningen onder de reikwijdte van de uitsterfregeling te brengen. Met het bestemmingsplan, vastgesteld op 23 maart 2023, is daarmee uiteindelijk voor 20 extra woningen in het gebied Oude Moolweg-Scholderlaan alsnog een zogenoemde uitsterfregeling opgenomen, waaronder ook voor de woningen van [appellant sub 1] en anderen. Het besluit van 23 maart 2023 heeft in verband daarmee betrekking op onderdelen van het besluit van 27 januari 2022 waartegen het beroep van [appellant sub 1] en anderen is gericht, en is dan ook in zoverre aan te merken als een reparatiebesluit, zoals bedoeld in paragraaf 6.4.2, onder a, van de conclusie. Het voorgaande geeft daarom aanleiding om het besluit van 23 maart 2023 aan te merken als een besluit in de zin van artikel 6:19, eerste lid, van de Awb.
+
+10.1. Gelet op het vorenstaande wordt het beroep van [appellant sub 1] en anderen tegen het besluit van 27 januari 2022 (hierna: oorspronkelijke plan) geacht mede gericht te zijn tegen het besluit van 23 maart 2023 (hierna: reparatieplan).
+
+Beroepen tegen het besluit van 23 maart 2023
+
+- Ontvankelijkheid
+
+11. [appellant sub 2], [appellant sub 3] en anderen, [appellant sub 4], [appellant sub 5] en de erven [appellant sub 6] hebben beroep ingesteld tegen het reparatieplan. [appellant sub 2], [appellant sub 5] en de erven [appellant sub 6] betogen, kort gezegd, dat hun woningen ten onrechte niet onder de reikwijdte van de uitsterfregeling zijn gebracht. [appellant sub 4] en [appellant sub 3] en anderen komen, kort gezegd, op tegen het onderbrengen van 20 extra woningen onder de reikwijdte van de uitsterfregeling. Volgens hen brengt het recreatieve gebruik van woningen door derden in hun omgeving veel overlast met zich mee.
+
+11.1. De Afdeling stelt vast dat [appellant sub 2], [appellant sub 3] en anderen, [appellant sub 4], [appellant sub 5] en de erven [appellant sub 6] alleen tegen het reparatieplan beroep hebben ingesteld. Zij hebben geen beroep ingesteld tegen het oorspronkelijke plan. Gelet op het belang van een efficiënte geschilbeslechting en de rechtszekerheid van de andere partijen moet er in zo’n geval van worden uitgegaan dat [appellant sub 2], [appellant sub 3] en anderen, [appellant sub 4], [appellant sub 5] en de erven [appellant sub 6] in het vaststellen van het oorspronkelijke plan hebben berust. Dit betekent dat zij tegen het reparatieplan slechts kunnen opkomen voor zover dat besluit hen ten opzichte van het oorspronkelijke plan in een nadeliger positie heeft gebracht of als hen door gewijzigde feiten of omstandigheden redelijkerwijs niet kan worden verweten dat zij geen beroep hebben ingesteld tegen het eerdere besluit (vergelijk de uitspraken van de Afdeling van 23 februari 2022, ECLI:NL:RVS:2022:576, onder 14.1, en van 22 juni 2022, ECLI:NL:RVS:2022:1755, onder 3.1).
+
+11.2. Het reparatieplan bevat geen wijzigingen voor de mogelijkheden van [appellant sub 2], [appellant sub 5] en de erven [appellant sub 6] voor recreatief gebruik van hun woningen door derden ten opzichte van het oorspronkelijke plan. [appellant sub 2], [appellant sub 5] en de erven [appellant sub 6] zijn naar het oordeel van de Afdeling niet in een nadeliger positie gebracht door het reparatieplan. Daarnaast is niet aangetoond of gebleken dat in dit geval sprake is van feiten of omstandigheden waardoor [appellant sub 2], [appellant sub 5] en de erven [appellant sub 6] anderszins redelijkerwijs niet kunnen worden verweten niet eerder te zijn opgekomen.
+
+Gelet daarop zijn de beroepen van [appellant sub 2], [appellant sub 5] en de erven [appellant sub 6] niet-ontvankelijk
+
+11.3. Voor [appellant sub 3] en anderen en [appellant sub 4] is dat anders. Met het plan zijn onder meer 20 extra woningen onder de reikwijdte van de zogenoemde uitsterfregeling gebracht met mogelijk nadelige effecten voor hun woon- en leefklimaat tot gevolg. [appellant sub 3] en anderen en [appellant sub 4] zijn naar het oordeel van de Afdeling om die reden wel in een nadeliger positie gebracht door het reparatieplan, zodat hen in zoverre redelijkerwijs niet kan worden verweten dat zij hieromtrent geen beroep hebben ingesteld tegen het oorspronkelijke plan.
+
+12. [appellant sub 1] en anderen stellen dat het beroep van [appellant sub 3] en anderen niet-ontvankelijk is voor zover het is ingesteld door [appellant sub 3A] en [appellant sub 3B], omdat deze personen [appellant sub 3] niet hebben gemachtigd om namens hen een beroepschrift in te dienen.
+
+12.1. Op grond van artikel 8:24, tweede lid, van de Awb kan van een gemachtigde een schriftelijke machtiging worden verlangd.
+
+12.2. De Afdeling stelt vast dat van [appellant sub 3A] en [appellant sub 3B] geen machtiging is overgelegd, waaruit blijkt dat zij [appellant sub 3] hebben gemachtigd om namens hen een beroepschrift in te dienen tegen het reparatieplan. Machtigingen van deze personen zijn ook niet overgelegd nadat daarom uitdrukkelijk door de Afdeling is verzocht.
+
+12.3. Gelet op het voorgaande is het beroep van [appellant sub 3] en anderen niet-ontvankelijk, voor zover het is ingediend door [appellant sub 3A] en [appellant sub 3B]. Waar hierna wordt gesproken over [appellant sub 3] en anderen gaat het dus niet om [appellant sub 3A] en [appellant sub 3B].
+
+13. Hierna gaat de Afdeling in op de beroepen van [appellant sub 1] en anderen, [appellant sub 3] en anderen en [appellant sub 4].
+
+- Toepassing afdeling 3.4 van de Awb
+
+14. [appellant sub 3] en anderen betogen dat het reparatieplan ten onrechte niet is voorbereid met toepassing van afdeling 3.4 van de Awb. Volgens hen is er met het brengen van 20 extra woningen onder de reikwijdte van de uitsterfregeling sprake van een aanzienlijke wijziging van het bestemmingsplan en had het reparatieplan om die reden volgens afdeling 3.4 van de Awb moeten worden voorbereid. Een en ander klemt volgens hen temeer omdat de raad het bestemmingsplan "Renesse" integraal opnieuw heeft vastgesteld. Ook [appellant sub 1] en anderen betogen dat het reparatieplan met toepassing van afdeling 3.4 van de Awb voorbereid had moeten worden.
+
+14.1. Een bestuursorgaan dient in beginsel een besluit als bedoeld in artikel 6:19 van de Awb, dat strekt tot wijziging van een besluit tot vaststelling van een bestemmingsplan, voor te bereiden met toepassing van afdeling 3.4 van de Awb, indien het oorspronkelijke besluit met toepassing van die afdeling is voorbereid. Hierop zijn uitzonderingen mogelijk.
+
+De raad kan na de vaststelling van het plan waarbij de zienswijze van een appellant niet of niet geheel is gehonoreerd, alsnog besluiten dat deze zienswijze dient te leiden tot een aanpassing van het plan, zonder dat afdeling 3.4 opnieuw behoeft te worden toegepast, mits deze aanpassingen naar aard en omvang niet zodanig groot zijn dat een wezenlijk ander plan wordt vastgesteld. Verder wordt als uitzondering aangenomen de situatie dat het besluit als bedoeld in artikel 6:19 van de Awb wijzigingen van ondergeschikte aard bevat die de raad in het plan wil doorvoeren, zonder dat de tegen het ontwerpplan ingediende zienswijzen daartoe aanleiding gaven. Zie de uitspraken van 22 februari 2012, ECLI:NL:RVS:2012:BV6546, onder 2.2.3, en 15 maart 2017, ECLI:NL:RVS:2017:681, onder 9.2.
+
+14.2. Naar het oordeel van de Afdeling hoefde de uniforme openbare voorbereidingsprocedure van afdeling 3.4 van de Awb niet opnieuw toegepast te worden op het reparatieplan, omdat geen sprake is van een wezenlijk ander plan of van niet-ondergeschikte wijzigingen. Daartoe overweegt de Afdeling als volgt. Zoals hiervoor onder 10 is overwogen, is bij het reparatieplan mede tegemoetgekomen aan de reacties van eigenaren van woningen in het gebied Oude Moolweg-Scholderlaan, zoals de raad reeds bij het op 27 januari 2022 vastgestelde, oorspronkelijke plan beoogde te doen. In verband daarmee is het plan op enkele onderdelen gewijzigd door 20 extra woningen onder de reikwijdte van de uitsterfregeling te brengen. Ook is een eerder verleende omgevingsvergunning voor het adres [locatie 1] in het bestemmingsplan verwerkt. Bij het voorgaande betrekt de Afdeling dat [appellant sub 3] en anderen en [appellant sub 1] en anderen hun bezwaren bij de Afdeling naar voren hebben kunnen brengen. Zij zijn niet geschaad in hun rechtsbeschermingsmogelijkheden.
+
+Voor zover [appellant sub 3] en anderen aanvoeren dat de raad het reparatieplan integraal opnieuw heeft vastgesteld, overweegt de Afdeling als volgt. Met de AG in punt 6.2 van zijn conclusie ziet de Afdeling niet dat het feit dat bij de beschikbaarstelling van het besluit van 23 maart 2023 op www.ruimtelijkeplannen.nl de verbeelding en daarmee de regels van het bestemmingsplan "Renesse" integraal worden weergegeven zonder meer maakt dat de raad met dat besluit alle planregels van het plan integraal opnieuw heeft vastgesteld. Voor de omvang van de wijzigingen in het reparatieplan ten opzichte van het oorspronkelijke plan zijn in dit geval het raadsvoorstel en het door de raad aangenomen amendement van doorslaggevend belang. Daaruit volgt dat de raad in het reparatieplan alleen de wijzingen ten opzichte van het oorspronkelijke plan heeft willen vaststellen. Het voorgaande leidt naar het oordeel van de Afdeling tot de conclusie dat de raad het reparatieplan niet integraal opnieuw heeft vastgesteld.
+
+De betogen slagen niet.
+
+- Ingetrokken beroepsgrond
+
+15. Op de zitting hebben [appellant sub 1] en anderen hun beroepsgrond dat van het reparatieplan ten onrechte op de voet van artikel 3.8, derde lid, van de Wro geen bekendmaking in het Gemeenteblad van Schouwen-Duiveland heeft plaatsgevonden, ingetrokken.
+
+- Heeft de raad ervoor kunnen kiezen voor het gebruik van recreatieve verhuur aan derden een uitsterfregeling op te nemen?
+
+16. [appellant sub 1] en anderen betogen primair dat dat de raad in het reparatieplan ten onrechte niet heeft onderkend dat het gebruik van woningen in het gebied Oude Moolweg-Scholderlaan voor recreatieve verhuur aan derden onder het gebruiksovergangsrecht van dit plan valt, omdat dit gebruik in overeenstemming was met de woonbestemming van het voorheen geldende bestemmingsplan "Bebouwde Kom Renesse", dat door de raad is vastgesteld op 25 oktober 2007 (hierna: het vorige plan). Daartoe voeren [appellant sub 1] en anderen aan dat de bestemming "Woondoeleinden" in het vorige plan zo moet worden uitgelegd dat dit recreatief gebruik toestond, waaronder uitdrukkelijk ook recreatieve verhuur wordt verstaan. Verder voeren zij onder meer aan dat uit de plantoelichting van het vorige plan volgt dat het tegengaan van recreatief gebruik van woningen niet gold voor het in het plangebied gelegen gebied Oude Moolweg-Scholderlaan. Zij wijzen erop dat de recreatieve verhuur in het vorige plan werd geregeld via de gemeentelijke gebruiksverordening en juist in het gebied Oude Moolweg-Scholderlaan recreatief gebruik werd toegestaan. In dat verband wijzen zij op de uitspraak van de Afdeling van 8 december 2004, ECLI:NL:RVS:2004:AR7073. Bovendien voeren [appellant sub 1] en anderen aan dat de raad de beleidsmatige keuze om recreatief gebruik van woningen tegen te gaan onvoldoende en ondeugdelijk heeft gemotiveerd.
+
+Daarnaast betogen [appellant sub 1] en anderen secundair dat voor hun percelen in het gebied Oude Moolweg-Scholderlaan het gebruik van woningen voor recreatieve verhuur aan derden ten onrechte niet positief is bestemd, mede in het licht van de omstandigheid dat een deel van de eigenaren de woningen aanhoudt als tweede woning. Volgens hen zijn er geen zodanige zwaarwegende nadelen dat niet een dergelijke bestemming toegekend zou kunnen worden. Ook ontbreekt volgens [appellant sub 1] en anderen ten onrechte een locatie specifieke onderbouwing waarom er ten aanzien van hun percelen voor een uitsterfregeling is gekozen en niet voor een minder vergaande maatregel. Dit is volgens hen in strijd met het evenredigheidsbeginsel.
+
+[appellant sub 3] en anderen en [appellant sub 4] betogen daarentegen dat de raad bij het mogelijk maken van recreatieve verhuur van woningen aan derden in het gebied Oude Moolweg-Scholderlaan hun belangen onvoldoende in zijn afweging heeft betrokken. Dit gebruik brengt namelijk de nodige overlast met zich en ook is dat niet in overeenstemming is met hetgeen de raad heeft beoogd voor dit gebied, namelijk alleen nog bestendig woongebruik mogelijk te maken, aldus [appellant sub 3] en anderen en [appellant sub 4].
+
+16.1. In de plantoelichting is vermeld dat de woningen in het gebied Oude Moolweg-Scholderlaan aanvankelijk zijn gebouwd als recreatiewoningen, maar dat het gebied langzaam is geëvolueerd tot een gebied met reguliere woningen. Verblijfsrecreatie in de vorm van tweede woningen is toegestaan binnen de bestemming "Wonen". Een woning mag voor eigen gebruik als tweede woning worden gebruikt. Het gebruik van een woning als verblijfsrecreatief verhuurobject aan derden is echter niet toegestaan binnen de bestemming "Wonen" omdat recreatieve verhuur van woningen aan derden doorgaans op gespannen voet staat met de woonfunctie. Op diverse plekken binnen de gemeentegrenzen is verhuur van woningen als recreatieobject aan derden vanwege overlastsituaties beëindigd door middel van handhaving van het bestemmingsplan. In de praktijk blijken de belangen en gedragingen van vaste bewoners en de tijdelijk verblijvende recreanten te ver uiteen te liggen om in duurzame harmonie naast elkaar te kunnen bestaan, zo staat in de plantoelichting. Er is daarom gekozen voor een uitsterfconstructie zodat op termijn alle woningen gebruikt worden voor bestendig woongebruik.
+
+16.2. Aan de woonpercelen in het gebied Oude Moolweg-Scholderlaan is in het oorspronkelijke plan van 27 januari 2022 de bestemming "Wonen" toegekend. Sommige percelen hebben in dat plan en het reparatieplan tevens de aanduiding "specifieke vorm van wonen - uitsterfconstructie verblijfsrecreatieve verhuur" gekregen.
+
+16.3. Artikel 22.1 van de planregels luidt:
+
+"De voor 'Wonen' aangewezen gronden zijn bestemd voor:
+
+a. het wonen in woningen;
+
+[…]
+
+d. ter plaatse van de aanduiding 'specifieke vorm van wonen - uitsterfconstructie verblijfsrecreatieve verhuur': tevens voor recreatief nachtverblijf in een woning door personen die hun hoofdverblijf elders hebben, waarbij het aantal slaapplaatsen ten behoeve van recreatieve nachtverblijf maximaal 10 per woning bedraagt. Indien deze functie gedurende een aaneengesloten periode van één jaar is beëindigd, is dit gebruik niet meer toegestaan;
+
+[…]."
+
+16.4. Niet in discussie is dat in het gebied Oude Moolweg-Scholderlaan in 1932 de eerste recreatiewoningen zijn gerealiseerd en dat deze woningen aanvankelijk ook als zodanig werden gebruikt. Evenmin is in geschil dat de recreatieve verhuur van woningen aan derden ten tijde van de bestemmingsplannen "Oude Moolweg" uit 1985 en "Scholderlaan" uit 1986 voor veel percelen in dit gebied planologisch was toegestaan. Dat gebruik is na verloop van tijd deels verschoven naar bestendig woongebruik. In het vorige plan - het bestemmingsplan "Bebouwde kom Renesse" uit 2007 - is die laatste vorm van gebruik bestemd door aan alle woonpercelen in het gebied Oude Moolweg-Scholderlaan de bestemming "Woondoeleinden" toe te kennen. Er is geen grond voor het oordeel dat het gebruik van woningen voor recreatieve verhuur aan derden in overeenstemming was met deze bestemming. Ingevolge artikel 6, eerste lid, van de planvoorschriften waren deze percelen namelijk bestemd voor de huisvesting van personen. Aan alle woningen is een subbestemming toegekend waarin het begrip "woning" terugkomt. Blijkens de begripsbepalingen in artikel 1, onder 105, van de planvoorschriften wordt het begrip "woning" gedefinieerd als een hoofdgebouw dat dient voor de huisvesting van één afzonderlijk huishouden. De Afdeling overweegt dat de tekst van dit artikel van de planvoorschriften niet anders kan worden gelezen dan dat hieruit een zekere duurzaamheid in het gebruik volgt waarvan bij recreatieverhuur aan derden geen sprake is.
+
+De stelling van [appellant sub 1] en anderen dat uit de plantoelichting van het vorige plan volgt dat de raad met het vorige plan niet heeft beoogd het gebruik als recreatiewoning onmogelijk te maken, volgt de Afdeling niet, alleen al nu de plantoelichting geen bindend onderdeel is van het bestemmingsplan, zodat hieraan geen juridische betekenis toekomt. Voor zover [appellant sub 1] en anderen in het bijzonder hebben gewezen op een gemeentelijke gebruiksverordening, is met partijen ter zitting vastgesteld dat die verordening ziet op de woonkernen in de gemeente en geen betrekking heeft op het gebied Oude Moolweg-Scholderlaan. Reeds daarom komt in dit geval niet de door [appellant sub 1] en anderen beoogde betekenis toe aan de gemeentelijke gebruiksverordening. Voor zover [appellant sub 1] en anderen in dit verband gewezen hebben op de uitspraak van de Afdeling van 8 december 2004 was daar sprake van een andere situatie dan thans in geschil. In die zaak ging het namelijk om een situatie waarop de gemeentelijke gebruiksverordening wél van toepassing was. Met betrekking tot de stelling van [appellant sub 1] en anderen dat de raad de beleidsmatige keuze om recreatieve verhuur van woningen tegen te gaan onvoldoende en ondeugdelijk heeft gemotiveerd, overweegt de Afdeling dat het vorige plan onherroepelijk is, zodat de rechtmatigheid van de (beleidsmatige) keuze in het vorige plan in deze procedure niet ter discussie kan worden gesteld.
+
+Gelet op al het voorgaande stelt de Afdeling vast dat het gebruik van de woningen in het gebied Oude Moolweg-Scholderlaan als verblijfsrecreatief verhuurobject aan derden voor zover dat is aangevangen voor de inwerkingtreding van het vorige plan, mede gelet op wat de bestemmingsplannen uit 1985 en 1986 mogelijk maakten, in zoverre in het vorige plan uit 2007 voor de eerste maal onder het overgangsrecht is gebracht.
+
+16.5. Het opnieuw onder het overgangsrecht brengen van bestaand legaal gebruik kan alleen onder bijzondere omstandigheden aanvaardbaar zijn. De raad moet dan aannemelijk maken dat het legale gebruik op termijn zal worden beëindigd. Als dat niet de bedoeling is, betekent dit niet dat het gebruik als zodanig moet worden bestemd. Gebruik in strijd met een geldende bestemming of gebruik dat onder het overgangsrecht valt, doet namelijk op zichzelf geen gerechtvaardigde verwachtingen ontstaan over een toe te kennen bestemming. Indien de raad van mening is dat het als zodanig bestemmen van het gebruik niet in overeenstemming is met een goede ruimtelijke ordening ligt het op de weg van de raad na te gaan welke regeling kan worden getroffen om het bestaande legale gebruik in het plan te kunnen voortzetten.
+
+Uit de stukken en het verhandelde op de zitting is gebleken dat de raad de beëindiging van het gebruik van de woningen in het gebied Oude Moolweg-Scholderlaan als verblijfsrecreatief verhuurobject aan derden al geruime tijd wenselijk acht met het oog op het realiseren van een gebied met alleen bestendig wonen. Dit volgt uit de het door hem gevoerde beleid sinds de vaststelling van het vorige plan om het gebruik van woningen voor verhuur aan derden - anders dan het gebruik van de woningen als tweede woningen - verder te reguleren. Dat volgt ook uit de bestemming "Woondoeleinden" die in het vorige plan aan de woonpercelen in het gebied was toegekend.
+
+Voor zover [appellant sub 1] en anderen en [appellant sub 3] en anderen en [appellant sub 4] betogen dat de raad onvoldoende oog heeft gehad voor hun belangen, overweegt de Afdeling het volgende. Uit paragraaf 3.4.2 van de plantoelichting volgt dat de raad het gebruik van woningen voor recreatieve verhuur aan derden in het gebied Oude Moolweg-Scholderlaan uit het oogpunt van een goede ruimtelijke ordening niet wenselijk acht. Bij deze stellingname heeft de raad meer gewicht toegekend aan het belang van vaste bewoners - zoals [appellant sub 3] en anderen en [appellant sub 4] - dan aan de belangen van de verhuurders en van de tijdelijk verblijvende recreanten. Dit acht de Afdeling in dit geval niet onredelijk. De Afdeling neemt hierbij in aanmerking dat de raad heeft toegelicht dat bij het gebruik van woningen voor recreatieve verhuur aan derden geen goed woon- en leefklimaat kan worden gegarandeerd. In de praktijk blijken de belangen en gedragingen van vaste bewoners en de tijdelijk verblijvende recreanten te ver uiteen te liggen om in een duurzame situatie naast elkaar te kunnen bestaan. Dat, naar [appellant sub 1] en anderen stellen, een deel van de eigenaren de woningen aanhoudt als tweede woning en dat met het verbod op recreatieve verhuur aan derden deze woningen in het gebied minder intensief gebruikt zullen worden, met de nodige leegstand van woningen tot gevolg, maakt het voorgaande volgens de raad niet anders. Dit omdat er een ruimtelijk relevant verschil is tussen het gebruik als tweede woning door één huishouden en het gebruik als recreatiewoning door derden. De Afdeling acht dit standpunt van de raad niet onaannemelijk. [appellant sub 1] en anderen hebben dit standpunt van de raad ook niet gemotiveerd betwist, zodat de Afdeling geen aanleiding ziet om daaraan te twijfelen. Het gebruik van woningen voor recreatieve verhuur aan derden is dus niet toegelaten. De raad heeft de gevolgen hiervan voor [appellant sub 1] en anderen onderkend. De Afdeling ziet in wat [appellant sub 1] en anderen hebben aangevoerd geen aanleiding voor het oordeel dat de raad aan het hiervoor genoemde belang van bestendig woongebruik in het gebied Oude Moolweg-Scholderlaan niet een groter gewicht heeft mogen toekennen.
+
+De betogen slagen in zoverre niet.
+
+- Is er een eenduidige (uitsterf)regeling in het reparatieplan opgenomen?
+
+17. [appellant sub 1] en anderen, [appellant sub 3] en anderen en [appellant sub 4] betogen dat de raad onvoldoende inzichtelijk heeft gemaakt op welke wijze de raad de percelen heeft gekozen die met het reparatieplan aanvullend onder de uitsterfregeling ten behoeve van recreatieve verhuur van woningen aan derden zijn gebracht. Volgens hen zijn de betrokken woningen in het gebied Oude Moolweg-Scholderlaan zonder afdoende motivering onder de uitsterfregeling gebracht en heeft de raad ten onrechte geen ruimtelijke afweging gemaakt.
+
+[appellant sub 1] en anderen wijzen er in dat verband op dat de raad ten onrechte niet alle woningen die voor recreatieve doeleinden gebruikt worden in het gebied Oude Moolweg-Scholderlaan onder de uitsterfregeling heeft gebracht.
+
+[appellant sub 3] en anderen en [appellant sub 4] betogen in dat verband dat de raad ten onrechte juist te ruimhartig woningen die recreatief door derden gebruikt worden onder een uitsterfregeling heeft gebracht. Volgens hen zijn de woningen in kwestie niet eerder recreatief verhuurd. In het bijzonder betwist [appellant sub 4] dat de woningen op de percelen [locatie 2] en [locatie 3], [locatie 4] en [locatie 5] recreatief zijn verhuurd.
+
+17.1. De raad stelt zich op het standpunt dat verschillende mogelijkheden zijn bezien om tot een eenduidige regeling te komen om het gebruik van woningen voor recreatieve verhuur aan derden in het gebied Oude Moolweg-Scholderlaan (verder) te beperken. Het opnemen van een uitsterfregeling is een adequate oplossing omdat hiermee voldoende recht wordt gedaan aan de belangen van de bestaande gebruikers van woningen voor recreatieve doeleinden en de omwonenden die duurzaam in het gebied wonen. Ter zitting heeft de raad verder toegelicht dat hij het ook uit het oogpunt van een goede ruimtelijke ordening van belang acht om een eenduidige regeling voor recreatieve verhuur aan derden op te nemen omdat dat de rechtszekerheid en handhaafbaarheid ten goede komt.
+
+17.2. Zoals de Afdeling hiervoor onder 16.4 heeft overwogen, viel het gebruik van de woningen als verblijfsrecreatief verhuurobject aan derden voor zover dat is aangevangen vóór de inwerkingtreding van het vorige plan onder de beschermende werking van het overgangsrecht van het vorige plan. Ook heeft de raad ervoor kunnen kiezen dit gebruik onder een uitsterfregeling op te nemen (hiervoor onder 16.5).
+
+In het oorspronkelijke plan heeft de raad aan gronden van 26 woonpercelen de aanduiding "specifieke vorm van wonen - uitsterfconstructie verblijfsrecreatieve verhuur" toegekend. Dit betreft de volgende adressen: [26 locaties].
+
+In het reparatieplan heeft de raad aan gronden van 20 extra woonpercelen - 9 op basis van het raadsvoorstel en 11 op basis van een amendement - de aanduiding "specifieke vorm van wonen - uitsterfconstructie verblijfsrecreatieve verhuur" toegekend. Dit betreft de volgende in het raadsvoorstel genoemde adressen: [9 locaties]. En het betreft de volgende in het amendement genoemde adressen: [11 locaties].
+
+17.3. Bij zijn keuze voor het opnemen van een uitsterfregeling voor een woonperceel heeft de raad het volgende toegelicht.
+
+In het ontwerpbestemmingsplan is aanvankelijk voorgesteld om (alleen) de op basis van een onderzoek naar betaalde toeristenbelasting in kaart gebrachte bestaande recreatieve woningverhuur aan derden in een deel van Renesse te legaliseren. In reactie op zienswijzen naar aanleiding van het ontwerpbestemmingsplan is vervolgens naast de resultaten van het onderzoek naar betaalde toeristenbelasting, ook het gebruik van de woningen op grond van de basisregistratie personen betrokken bij de inventarisatie van het bestaande gebruik. Uit een analyse van de gegevens uit de basisregistratie personen is gebleken dat op 26 woonadressen in het gebied sinds de inwerkingtreding van het vorige bestemmingsplan nooit iemand is ingeschreven. Op basis daarvan is het oorspronkelijke plan vastgesteld. Daarmee was een deel van de woningen dat onder het ontwerpbestemmingsplan onder de uitsterfregeling was gebracht dat bij het oorspronkelijke plan niet meer, zoals [locatie 6] en [locatie 7]. Naar aanleiding van reacties die zijn ingediend tijdens en na vaststelling van dat bestemmingsplan is nader onderzoek gedaan naar de recreatieve verhuur van woningen. Zoals uit het raadsvoorstel van 17 januari 2023 blijkt, is uit dat onderzoek naar voren gekomen dat er nog 9 adressen zijn waar niemand minimaal één jaar aaneengesloten op dat adres heeft gewoond. In het bijzonder is daarin voor het adres [locatie 2] toegelicht dat voor deze woning een vergunning is verleend voor het bouwen van een recreatiewoning, die vervolgens ook als zodanig is verhuurd. En volgens het raadsvoorstel zijn voor de adressen [locatie 8] en [locatie 9] in het verweerschrift van de raad naar aanleiding van het beroep van [appellant sub 1] en anderen tegen het oorspronkelijke plan verwachtingen gewekt dat deze adressen ook een aanduiding zouden krijgen. Naar aanleiding van vragen van verschillende raadsfracties is vervolgens (nog) een nadere analyse uitgevoerd op de woningen in het gebied. Omdat [locatie 8] en [locatie 9] op grond van gewekte verwachting alsnog worden toegevoegd aan de lijst woningen die onder de uitsterfregeling vallen, moet dit ook gelden voor de 11 in het amendement genoemde adressen, zo staat in het amendement van 23 maart 2023.
+
+17.4. De Afdeling stelt vast dat wat de raad heeft beoogd, namelijk het opnemen van een eenduidige regeling voor alle woningen in het gebied Oude Moolweg-Scholderlaan die gebruikt worden als verblijfsrecreatief verhuurobject aan derden en in het vorige plan in zoverre onder het gebruiksovergangsrecht vielen, teneinde op termijn een gebied met alleen bestendig wonen gerealiseerd te krijgen, niet in het reparatieplan tot uitdrukking komt. Op de zitting heeft de Afdeling - in het licht van de hiervoor onder 17.3 genoemde uitgangspunten - met de partijen voor elk adres dat onder de (uitsterf)regeling is opgenomen, zoals hiervoor genoemd onder 17.2, vastgesteld op grond waarvan door de raad de keuze is gemaakt om het betreffende adres onder de (uitsterf)regeling te brengen. Daaruit is eerst en vooral naar voren gekomen dat de raad een ruimhartige (uitsterf)regeling heeft vastgesteld. Dat leidt ertoe dat niet is uitgesloten dat er woonpercelen zijn waarvan het gebruik als verblijfsrecreatief verhuurobject aan derden niet onder het overgangsrecht van het vorige plan viel, en daarmee illegaal was, zodat er in zoverre voor een aantal situaties planologische rechten worden geschapen die voorheen niet bestonden. Ook is niet uitgesloten dat er woonpercelen zijn waarvan het gebruik als verblijfsrecreatief verhuurobject aan derden wél onder het overgangsrecht van het vorige plan viel, maar die in het reparatieplan toch niet onder de (uitsterf)regeling zijn gebracht. Om mogelijk te maken wat de raad heeft beoogd, had moeten worden voorzien in een (uitsterf)regeling voor al de situaties waarvan het gebruik van de in het gebied Oude Moolweg-Scholderlaan gelegen 214 woningen als verblijfsrecreatief verhuurobject aan derden in het vorige plan onder het gebruiksovergangsrecht viel. Omdat de bedoeling van de raad en dat wat het reparatieplan voorschrijft in zoverre niet met elkaar overeenkomen, en niet is gebleken dat gewijzigde omstandigheden hiertoe aanleiding hebben gegeven, is het reparatieplan niet met de vereiste zorgvuldigheid voorbereid, zodat het in strijd is met artikel 3:2 van de Awb. De betogen van [appellant sub 1] en anderen, [appellant sub 3] en anderen en [appellant sub 4] dat de raad onvoldoende inzichtelijk heeft gemaakt op welke wijze de raad de percelen heeft gekozen die met het reparatieplan aanvullend onder de uitsterfregeling ten behoeve van recreatieve verhuur van woningen aan derden zijn gebracht, slagen in zoverre wel.
+
+- Overige beroepsgronden
+
+18. Nu de overige beroepsgronden van [appellant sub 1] en anderen, [appellant sub 3] en anderen en [appellant sub 4] in het bijzonder verband houden met de uitsterfregeling, komt de Afdeling aan een beoordeling daarvan, wat daar verder ook van zij, verder niet meer toe.
+
+Het beroep tegen het besluit van 27 januari 2022
+
+19. Uit het voorgaande volgt dat het besluit van 23 maart 2023 geen stand kan houden. Dit betekent dat het besluit van 27 januari 2022 zal herleven, tenzij dat besluit ook wordt vernietigd. [appellant sub 1] en anderen hebben daarom nog belang bij een beoordeling van hun beroep, voor zover gericht tegen het besluit van 27 januari 2022.
+
+19.1. De Afdeling stelt vast dat het gebrek dat onder 17.4 is geconstateerd, ook kleeft aan het besluit van 27 januari 2022. De Afdeling ziet daarom grond voor het oordeel dat ook dat besluit te vernietigen wat betreft de plandelen met de bestemming "Wonen" voor de percelen van [appellant sub 1] en anderen op dezelfde grond als het besluit van 23 maart 2023.
+
+19.2. Nu de overige beroepsgronden van [appellant sub 1] en anderen in het bijzonder verband houden met de uitsterfregeling, komt de Afdeling aan een beoordeling daarvan, wat daar verder ook van zij, verder niet meer toe.
+
+Conclusie
+
+20. Gelet op wat onder 11.2 is overwogen, zijn de beroepen van [appellant sub 2], [appellant sub 5] en de erven [appellant sub 6] tegen het besluit van 23 maart 2023 niet-ontvankelijk.
+
+Gelet op wat onder 12.3 is overwogen, is het beroep van [appellant sub 3] en anderen, voor zover het is ingediend door [appellant sub 3A] en [appellant sub 3B], tegen het besluit van 23 maart 2023 niet-ontvankelijk.
+
+Gelet op wat onder 17.4 is overwogen zijn de beroepen van [appellant sub 1] en anderen, [appellant sub 3] en anderen, en [appellant sub 4] tegen het besluit van 23 maart 2023 gegrond.
+
+Gelet op wat onder 19.1 is overwogen, is het beroep van [appellant sub 1] en anderen tegen het besluit van 27 januari 2022 gegrond.
+
+Het besluit van 23 maart 2023 moet worden vernietigd voor zover aan de percelen in het in het plangebied gelegen gebied Oude Moolweg-Scholderlaan de functieaanduiding "specifieke vorm van wonen - uitsterfconstructie verblijfsrecreatieve verhuur" is toegekend en het besluit van 27 januari 2022 moet worden vernietigd wat betreft de plandelen met de bestemming "Wonen" voor de percelen van [appellant sub 1] en anderen vanwege strijd met artikel 3:2 van de Awb.
+
+21. De Afdeling ziet aanleiding de raad op te dragen de hierna in de beslissing nader aangeduide onderdelen van deze uitspraak binnen vier weken na verzending van de uitspraak te verwerken op de landelijke voorziening.
+
+22. Zoals de Afdeling heeft overwogen in haar uitspraak van 27 maart 2024, ECLI:NL:RVS:2024:1174, zijn op een eventueel nieuw te nemen besluit de Omgevingswet en de daarbij behorende omgevingsrechtelijke regels van toepassing. Dat houdt onder meer in dat niet meer kan worden teruggevallen op het vóór 1 januari 2024 ter inzage gelegde ontwerpbestemmingsplan, omdat in het ontwerpbestemmingsplan geen regels zijn gesteld met het oog op een evenwichtige toedeling van functies aan locaties.
+
+Proceskosten
+
+23. De raad moet op na te melden wijze tot vergoeding van de proceskosten van [appellant sub 1] en anderen en [appellant sub 4] worden veroordeeld. Ten aanzien van [appellant sub 3] en anderen bestaat geen aanleiding een proceskostenveroordeling uit te spreken, omdat zij geen proceskostenformulier hebben overgelegd en ook niet is gebleken dat zij zijn bijgestaan door een beroepsmatige rechtsbijstandverlener.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State:
+
+I. verklaart de beroepen van [appellant sub 2], [appellant sub 5A] en [appellant sub 5B], wijlen [appellant sub 6], thans zijn rechtsopvolgers, de erven van [appellant sub 6], en [appellant sub 3] en anderen, voor zover het betreft [appellant sub 3A] en [appellant sub 3B], tegen het besluit van 23 maart 2023 van de raad van de gemeente Schouwen-Duiveland niet-ontvankelijk;
+
+II. verklaart de overige beroepen tegen het besluit van 23 maart 2023 van de raad van de gemeente Schouwen-Duiveland gegrond;
+
+III. vernietigt het besluit van 23 maart 2023 van de raad van de gemeente Schouwen-Duiveland tot vaststelling van het bestemmingsplan "Renesse", voor zover aan de gronden van de percelen in het in het plangebied gelegen gebied Oude Moolweg-Scholderlaan de functieaanduiding "specifieke vorm van wonen - uitsterfconstructie verblijfsrecreatieve verhuur" is toegekend;
+
+IV. verklaart het beroep van [appellant sub 1] en anderen tegen het besluit van 27 januari 2022 gegrond;
+
+V. vernietigt het besluit van 27 januari 2022 van de raad van de gemeente Schouwen-Duiveland tot vaststelling van het bestemmingsplan "Renesse" wat betreft de plandelen met de bestemming "Wonen" voor de percelen [locatie 8], [locatie 10], [locatie 3], [locatie 4], [locatie 5], [locatie 6], [locatie 11], [locatie 7], [locatie 12], [locatie 14], [locatie 2], [locatie 15], [locatie 16], [locatie 9] en [locatie 17];
+
+VI. draagt de raad van de gemeente Schouwen-Duiveland op om binnen vier weken na verzending van deze uitspraak ervoor zorg te dragen dat de hiervoor vermelde onderdelen III en V worden verwerkt op de landelijke voorziening;
+
+VII. veroordeelt de raad van de gemeente Schouwen-Duiveland tot vergoeding van bij [appellant sub 1] en anderen in verband met de behandeling van de beroepen opgekomen proceskosten tot een bedrag van € 2.625,00, geheel toe te rekenen aan een door een derde beroepsmatig verleende rechtsbijstand, met dien verstande dat bij betaling aan een van hen het bestuursorgaan aan zijn betalingsverplichting heeft voldaan;
+
+VIII. veroordeelt de raad van de gemeente Schouwen-Duiveland tot vergoeding van bij [appellant sub 4] in verband met de behandeling van het beroep opgekomen proceskosten tot een bedrag van € 2.187,50, geheel toe te rekenen aan een door een derde beroepsmatig verleende rechtsbijstand;
+
+IX. gelast dat de raad van de gemeente Schouwen-Duiveland aan [appellant sub 1] en anderen het door hen voor de behandeling van de beroepen betaalde griffierecht ten bedrage van € 184,00 vergoedt, met dien verstande dat bij betaling aan een van hen het bestuursorgaan aan zijn betalingsverplichting heeft voldaan;
+
+X. gelast dat de raad van de gemeente Schouwen-Duiveland aan [appellant sub 3] en anderen het door hen voor de behandeling van het beroep betaalde griffierecht ten bedrage van € 184,00 vergoedt, met dien verstande dat bij betaling aan een van hen het bestuursorgaan aan zijn betalingsverplichting heeft voldaan;
+
+XI. gelast dat de raad van de gemeente Schouwen-Duiveland aan [appellant sub 4] het door hem voor de behandeling van het beroep betaalde griffierecht ten bedrage van € 184,00 vergoedt.
+
+Aldus vastgesteld door mr. H.J.M. Besselink, voorzitter, en mr. H. Benek en mr. N.H. van den Biggelaar, leden, in tegenwoordigheid van mr. J.C. Lammers, griffier.
+
+w.g. Besselink
+
+voorzitter
+
+w.g. Lammers
+
+griffier
+
+Uitgesproken in het openbaar op 13 november 2024
+
+890

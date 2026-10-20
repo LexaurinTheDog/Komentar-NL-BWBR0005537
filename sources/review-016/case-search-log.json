@@ -1,0 +1,52 @@
+{
+  "checked_at": "2026-10-20T17:44:48.655700+00:00",
+  "scope": "Selective re-reading of six cited full official judgments; one full primary judgment added on withdrawal of appeal.",
+  "discovery_command": [
+    "rg",
+    "-l",
+    "dwaling.*(bedrog|bedreiging)|bedrog.*(dwaling|bedreiging)",
+    "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs",
+    "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/crvb"
+  ],
+  "local_discovery": "sources/review-016/local-matches.txt",
+  "verified_authorities": [
+    "ECLI:NL:RVS:2022:1918",
+    "ECLI:NL:RVS:2024:4599",
+    "ECLI:NL:RVS:2020:2571",
+    "ECLI:NL:HR:2025:106",
+    "ECLI:NL:RVS:2024:361",
+    "ECLI:NL:CRVB:2025:1668",
+    "ECLI:NL:RVS:2024:676"
+  ],
+  "newly_added": [
+    "ECLI:NL:RVS:2024:676"
+  ],
+  "earlier_author_search": "sources/author-6-17-7-11/case-search-log.json",
+  "local_comparison": "sources/review-016/authority-review.json",
+  "unverified_exploratory_hits": [
+    "ECLI:NL:CBB:2026:485 (preliminary assessment of administrative-act status, irrelevant to withdrawal; excluded)",
+    "ECLI:NL:RVS:2024:857 (nationality revocation, irrelevant to withdrawal of appeal; excluded)"
+  ],
+  "no_separate_authority_used_for": [
+    "art-6:17",
+    "art-6:18",
+    "art-6:20",
+    "art-6:23",
+    "art-6:24",
+    "art-7:1",
+    "art-7:1a",
+    "art-7:4",
+    "art-7:5",
+    "art-7:6",
+    "art-7:7",
+    "art-7:8",
+    "art-7:9",
+    "art-7:10"
+  ],
+  "limitations": [
+    "Not exhaustive: no claim that technical units have no relevant case law.",
+    "Firecrawl was authenticated but had zero credits; direct official HTTP used. Web tool could not access selected URLs; direct downloads succeeded.",
+    "Older sector legislation and historical amounts in the judgments are context only; no current WOZ, immigration, pension, road or timber-sector advice asserted.",
+    "No complete later-treatment history or separate full text review of AG opinions referenced in judgments."
+  ]
+}

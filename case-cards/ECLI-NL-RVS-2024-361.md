@@ -15,3 +15,7 @@ Relevante overwegingen: **8–8.3; 9.2–11; dictum I–III**. Ondersteunde comm
 **Grenzen en historische context.** Dit is geen algemene toestemming om horen over te slaan omdat later een rechterlijke zitting mogelijk is. Het passeren is een zaakgebonden oordeel en moet naast de terughoudende lijn uit RVS 2022:1918 worden gelezen. De historische verkeers-, weg- en bestuursdwangregels zijn alleen context; hun actuele materiële toepassing is niet onderzocht. De volledige gepubliceerde bijlage is gelezen.
 
 **Bronvergelijking.** De volledige officiële body komt bij negeren van witruimte overeen met de lokale gerechtelijke corpusversie. De volledige officiële publicatie is gelezen. Selectieve keuze; geen uitputtend onderzoek naar alle latere behandeling of sectorale uitzonderingen. Dit is een auteursanalyse, geen onafhankelijke tweede beoordeling.
+
+## Tweede beoordeling, batch 016 — 20 oktober 2026
+
+Het eerdere uitdrukkelijke hoorsverzoek bleef gelden ondanks niet reageren op het formulier. R.o. 8.2 passeert in deze concrete zaak het gebrek; kosten en griffierecht volgen wel. Die uitkomst weerspreekt de hoorplicht uit 8.1 niet. De volledige primaire publicatie is afzonderlijk herlezen voor art-7:3. [Nieuwe officiële XML](../sources/review-016/ECLI-NL-RVS-2024-361.xml), [volledig leesafschrift](../sources/review-016/ECLI-NL-RVS-2024-361.txt) en [HTTP, tijdstip en hash](../sources/review-016/verification.json). Dit is een afgebakende tweede lezing, geen uitputtend onderzoek van latere rechtspraak of externe professionele goedkeuring.

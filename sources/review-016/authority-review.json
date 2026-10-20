@@ -1,0 +1,147 @@
+[
+  {
+    "ecli": "ECLI:NL:RVS:2022:1918",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State",
+    "date": "2022-07-06",
+    "docket": "202106513/1/V2",
+    "paragraphs": "4–6.1; 7.1; 8–10",
+    "supported_units": [
+      "art-7:2",
+      "art-7:3",
+      "art-6:22"
+    ],
+    "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2022:1918",
+    "official_xml": "sources/review-016/ECLI-NL-RVS-2022-1918.xml",
+    "sha256": "de2e3f30acd7873d7a973d19ae3b33aba64b7e92339556df85dc19bae740c3cc",
+    "full_text_read": true,
+    "read_scope": "Full official judgment body including all published statutory annexes, disposition and footnotes. No separate externally attached cassation pleading read.",
+    "unchanged_from_author_snapshot": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2022-1918.md",
+    "local_sha256": "39aad5385e27f4e21648a0c6ada5f68c04492865b7e2a483afe300ba04bdd68e",
+    "full_official_body_in_local": true,
+    "assessment": "Horen is de regel; het ontbreken van bewijs rechtvaardigde in deze persoonlijke omstandigheden geen kennelijke ongegrondheid. R.o. 5.3 is geen automatische genezing door een rechterlijke zitting. Partijbeleid in 4.1–4.7 en het eigen oordeel vanaf 5 onderscheiden."
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2024:4599",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State",
+    "date": "2024-11-13",
+    "docket": "202203062/1/R1",
+    "paragraphs": "9.1–10.1; 11.1–11.3; 14–14.2; 17.4; 19–23",
+    "supported_units": [
+      "art-6:19"
+    ],
+    "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2024:4599",
+    "official_xml": "sources/review-016/ECLI-NL-RVS-2024-4599.xml",
+    "sha256": "0c045b81eb906e281a3f0b6b8fa75276cf20e25c4d60754e694b3230f5e7d6f6",
+    "full_text_read": true,
+    "read_scope": "Full official judgment body including all published statutory annexes, disposition and footnotes. No separate externally attached cassation pleading read.",
+    "unchanged_from_author_snapshot": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2024-4599.md",
+    "local_sha256": "b09ace8cfa79b9312cc7b4572dfc8005230fb7f45892bf0d6daf0a366429c4fd",
+    "full_official_body_in_local": true,
+    "assessment": "De in 9.2 samengevatte AG-voorstellen zijn in 9.3 niet overgenomen. R.o. 9.1 beperkt het oordeel uitdrukkelijk tot bestemmingsplannen onder oud recht. Toegang van nieuwe appellanten, vernietiging van beide besluiten en resterend belang afzonderlijk gecontroleerd."
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2020:2571",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State, grote kamer",
+    "date": "2020-10-28",
+    "docket": "201903064/1/A3",
+    "paragraphs": "6.2.3–6.2.9; 6.3–6.3.3; 7.1.11–7.3; 8–8.1.1",
+    "supported_units": [
+      "art-7:11",
+      "art-6:19"
+    ],
+    "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2020:2571",
+    "official_xml": "sources/review-016/ECLI-NL-RVS-2020-2571.xml",
+    "sha256": "b6b5d313f147dc2835a51766a65d8bd6b8c3d93f57a5acae2bbef6589b234027",
+    "full_text_read": true,
+    "read_scope": "Full official judgment body including all published statutory annexes, disposition and footnotes. No separate externally attached cassation pleading read.",
+    "unchanged_from_author_snapshot": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2020-2571.md",
+    "local_sha256": "42b6522038f36214a442f984e86510b72a821da51d466294ee451b963a692e08",
+    "full_official_body_in_local": true,
+    "assessment": "De eigen tweeslag en grenzen van heroverweging staan in 6.2.3–6.2.8; 6.3.2–6.3.3 sluit de nieuwe overtredingsbesluiten uit van 6:19. De minister won het hoger beroep, maar Greenpeace ook het beroep wegens onbevoegdheid. De tweejaarstermijnen uit de historische houtsector zijn geen algemene Awb-termijnen."
+  },
+  {
+    "ecli": "ECLI:NL:HR:2025:106",
+    "court": "Hoge Raad, belastingkamer",
+    "date": "2025-01-24",
+    "docket": "24/01332",
+    "paragraphs": "4.3.1–4.4.4; 4.5.1–4.5.4; 6.1–6.3",
+    "supported_units": [
+      "art-6:22"
+    ],
+    "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2025:106",
+    "official_xml": "sources/review-016/ECLI-NL-HR-2025-106.xml",
+    "sha256": "a8dc60d53b3a6a06eacd21734dc3fdb4e5eabd2b2c758b0d6ee3656291e5dfdf",
+    "full_text_read": true,
+    "read_scope": "Full official judgment body including all published statutory annexes, disposition and footnotes. No separate externally attached cassation pleading read.",
+    "unchanged_from_author_snapshot": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2025-106.md",
+    "local_sha256": "041c1a276ec7e97252bab7345216172f0f9560ba2d971cb0fa2f2a58d7e24d02",
+    "full_official_body_in_local": false,
+    "assessment": "De hypothetische uitkomst met tijdig verstrekte gegevens en mogelijke inbreng draagt het benadelingskader. Kosten en griffierecht blijven de regel bij passeren. R.o. 4.5.2 passeert het gebrek toch op een andere dragende grond. Het arrest houdt elke verdere beslissing aan; de laatste genummerde inhoudelijke overweging is 6.3; de beslissing over kosten van hof/rechtbank staat in 4.5.4.",
+    "body_from_proceedings_in_local": true,
+    "limitation": "Local derivative omits official front matter; all remaining reasoning, disposition and published annex material matches. Full official front matter read separately."
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2024:361",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State",
+    "date": "2024-01-31",
+    "docket": "202205800/1/A2",
+    "paragraphs": "8–8.3; 9.2–11; dictum I–III",
+    "supported_units": [
+      "art-7:3"
+    ],
+    "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2024:361",
+    "official_xml": "sources/review-016/ECLI-NL-RVS-2024-361.xml",
+    "sha256": "4e2383e4e7aea206197ba58902aadf03b79445e22ff7dff5dc7c25a0558ea961",
+    "full_text_read": true,
+    "read_scope": "Full official judgment body including all published statutory annexes, disposition and footnotes. No separate externally attached cassation pleading read.",
+    "unchanged_from_author_snapshot": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2024-361.md",
+    "local_sha256": "fa415cdd9b837cd57bc190d58dfac3384517cdff883a2de2e14df15de9d00a20",
+    "full_official_body_in_local": true,
+    "assessment": "Het eerdere uitdrukkelijke hoorsverzoek bleef gelden ondanks niet reageren op het formulier. R.o. 8.2 passeert in deze concrete zaak het gebrek; kosten en griffierecht volgen wel. Die uitkomst weerspreekt de hoorplicht uit 8.1 niet."
+  },
+  {
+    "ecli": "ECLI:NL:CRVB:2025:1668",
+    "court": "Centrale Raad van Beroep, meervoudige kamer",
+    "date": "2025-11-06",
+    "docket": "24/1039 AOW",
+    "paragraphs": "5.1–5.8; 6 en dictum",
+    "supported_units": [
+      "art-7:11"
+    ],
+    "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CRVB:2025:1668",
+    "official_xml": "sources/review-016/ECLI-NL-CRVB-2025-1668.xml",
+    "sha256": "978be3bf6c6963fa6124273bb42699dc798f9ba3a26dd5534d5fc3972d5f0df2",
+    "full_text_read": true,
+    "read_scope": "Full official judgment body including all published statutory annexes, disposition and footnotes. No separate externally attached cassation pleading read.",
+    "unchanged_from_author_snapshot": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/crvb/ecli-nl-crvb-2025-1668.md",
+    "local_sha256": "33a7a1102adf501b7406a946aece7b6927db16eb8db6991385a6f376c02ae7a3",
+    "full_official_body_in_local": false,
+    "assessment": "Bij gelijkblijvende totale pensioenkorting is de andere berekeningsgrond geen verboden verslechtering. De zelfstandige herzieningsplicht wordt daarna uitdrukkelijk ten overvloede onderzocht. R.o. 5.1 begrenst tevens heroverweging van geheel losstaande besluitonderdelen.",
+    "body_from_proceedings_in_local": true,
+    "limitation": "Local derivative omits official front matter; all remaining reasoning, disposition and published annex material matches. Full official front matter read separately."
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2024:676",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State",
+    "date": "2024-02-19",
+    "docket": "202301650/1/V2",
+    "paragraphs": "2.1–2.3; 3 en dictum",
+    "supported_units": [
+      "art-6:21"
+    ],
+    "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2024:676",
+    "official_xml": "sources/review-016/ECLI-NL-RVS-2024-676.xml",
+    "sha256": "d5ade88fea47084f6f576d2aa700bd8d2b7e585dc8d76f0f2c001f9173de676f",
+    "full_text_read": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2024-676.md",
+    "local_sha256": "1abfd3858df9b892dcc20abb8e7c77b823b0ad43dd688e21d2d44323095bd3ad",
+    "full_official_body_in_local": true,
+    "assessment": "Bevoegd gedane intrekking van beroep na termijn in beginsel niet terug te draaien. Niet-toerekenbare dwaling, dwang of bedrog als beperkte uitzonderingen; vergissing gemachtigde in deze zaak niet voldoende. Geheel ongedaan gemaakte rechtbankuitspraak, geen inhoudelijk oordeel over de mvv-aanspraak."
+  }
+]
