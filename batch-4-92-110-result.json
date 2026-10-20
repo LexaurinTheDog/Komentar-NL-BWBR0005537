@@ -109,5 +109,17 @@
     "Fresh independent review of this batch pending.",
     "Selective case research; no exhaustive later-treatment check.",
     "Shared full-book builder and validator continue to report incomplete coverage outside this batch."
-  ]
+  ],
+  "validation": "batch-4-92-110-validation.json",
+  "strict_validator": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 331413,
+    "errors": [
+      "krátký/chybějící komentář u 388 jednotek: ['art-4:111(0<400)', 'art-4:112(0<400)', 'art-4:113(0<400)', 'art-4:114(0<400)', 'art-4:115(0<120)', 'art-4:116(0<400)', 'art-4:117(0<400)', 'art-4:118(0<120)']"
+    ],
+    "warnings": [],
+    "ok": false
+  }
 }

@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-10-20T15:38:18.416071+00:00",
+  "scope": "Bounded authoring of exactly the twenty assigned articles; no claim of whole-book completion.",
+  "assigned_ids": [
+    "art-4:92",
+    "art-4:93",
+    "art-4:94",
+    "art-4:94a",
+    "art-4:95",
+    "art-4:96",
+    "art-4:97",
+    "art-4:98",
+    "art-4:99",
+    "art-4:100",
+    "art-4:101",
+    "art-4:102",
+    "art-4:103",
+    "art-4:104",
+    "art-4:105",
+    "art-4:106",
+    "art-4:107",
+    "art-4:108",
+    "art-4:109",
+    "art-4:110"
+  ],
+  "assigned_units_complete": 20,
+  "assigned_errors": [],
+  "existing_commentaries_preserved": 180,
+  "independent_review": false,
+  "statutory_text_agreement": 1.0,
+  "independent_official_identifier_coverage": {
+    "expected": 588,
+    "parsed": 588,
+    "missing": [],
+    "duplicates": []
+  },
+  "local_links_checked": 445,
+  "broken_local_links": [],
+  "repeated_long_paragraphs": [],
+  "shared_strict_validation": {
+    "command": [
+      "python3",
+      "/Volumes/LaCie/open-commentary/_tools/validate.py",
+      "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537"
+    ],
+    "exit_code": 1,
+    "result": {
+      "repo": "Komentar-NL-BWBR0005537",
+      "units": 588,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 331413,
+      "errors": [
+        "krátký/chybějící komentář u 388 jednotek: ['art-4:111(0<400)', 'art-4:112(0<400)', 'art-4:113(0<400)', 'art-4:114(0<400)', 'art-4:115(0<120)', 'art-4:116(0<400)', 'art-4:117(0<400)', 'art-4:118(0<120)']"
+      ],
+      "warnings": [],
+      "ok": false
+    }
+  },
+  "shared_build": "build-validation-log.json",
+  "output_git_clean_at_validation": true,
+  "whole_book_complete": false,
+  "remaining_unwritten_outside_assignment": 388,
+  "limitations": [
+    "These are author checks; a fresh independent content review remains pending.",
+    "Whole-book validation fails only for 388 units outside this authoring batch.",
+    "Minimum length and absence of repetition are not proof of legal quality."
+  ]
+}
