@@ -1,0 +1,193 @@
+---
+source: rechtspraak
+country: nl
+document_type: decision
+court: Raad van State
+ecli: ECLI:NL:RVS:2021:1232
+date: '2021-06-09'
+date_published: '2021-06-09'
+case_number:
+- 202002852/1/A3
+procedure:
+- Hoger beroep
+subject:
+- Bestuursrecht
+relations: null
+references: null
+source_url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2021:1232
+download_url: https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2021:1232
+chars: 14734
+license: Public Domain Mark
+retrieved_at: '2026-10-05T03:37:27Z'
+---
+
+# ECLI:NL:RVS:2021:1232 – Raad van State, 2021-06-09
+
+- **Instantie:** Raad van State
+- **Datum:** 2021-06-09
+- **Zaaknummer:** 202002852/1/A3
+- **Rechtsgebied:** Bestuursrecht
+
+## Inhoudsindicatie
+
+Bij besluit van 16 januari 2019 heeft de minister van Infrastructuur en Waterstaat [appellante] een bestuurlijke boete opgelegd van € 4.400,-. Op zaterdag 3 februari 2018 heeft een inspecteur van de Inspectie Leefomgeving en Transport een vrachtwagen van [appellante] met kenteken [..-…-] gecontroleerd. De inspecteur heeft verklaard dat hij bij die controle afwijkende waarden in de pulsgever heeft geconstateerd. Dat is een apparaat waarmee de snelheid van het voertuig en de afgelegde afstand worden doorgegeven. Daardoor bestond bij de inspecteur het vermoeden dat de tachograaf werd gemanipuleerd. De inspecteur heeft vervolgens de vrachtwagen bij een erkende Scaniadealer laten onderzoeken. In de cabine van de vrachtwagen is een schakelaar gevonden waarmee de bewegingssensor ingeschakeld kon worden, aldus de inspecteur. Volgens de minister is sprake van een overtreding van artikel 2.4:13, tweede lid, van het Arbeidstijdenbesluit vervoer
+
+## Uitspraak
+
+202002852/1/A3.
+
+Datum uitspraak: 9 juni 2021
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak op het hoger beroep van:
+
+[appellante], gevestigd te [plaats],
+
+appellante,
+
+tegen de uitspraak van de rechtbank Noord-Nederland van 30 maart 2020 in zaak nr. 19/3136 in het geding tussen:
+
+[appellante]
+
+en
+
+de minister van Infrastructuur en Milieu (lees: de minister van Infrastructuur en Waterstaat).
+
+Procesverloop
+
+Bij besluit van 16 januari 2019 heeft de minister [appellante] een bestuurlijke boete opgelegd van € 4.400,-.
+
+Bij besluit van 18 juli 2019 heeft de minister het door [appellante] daartegen gemaakte bezwaar ongegrond verklaard.
+
+Bij uitspraak van 30 maart 2020 heeft de rechtbank het door [appellante] daartegen ingestelde beroep ongegrond verklaard. Deze uitspraak is aangehecht.
+
+Tegen deze uitspraak heeft [appellante] hoger beroep ingesteld.
+
+De minister heeft een schriftelijke uiteenzetting gegeven.
+
+De Afdeling heeft de zaak ter zitting behandeld op 31 maart 2021, waar [appellante], vertegenwoordigd door M.G. Velkers, rechtsbijstandverlener te Bolsward, en de minister, vertegenwoordigd door mr. W.P. van Kooten-Vroegindeweij en G.D. van Voorthuizen, zijn verschenen.
+
+Overwegingen
+
+Inleiding
+
+1. Op zaterdag 3 februari 2018 heeft een inspecteur van de Inspectie Leefomgeving en Transport een vrachtwagen van [appellante] met kenteken [..-…-] gecontroleerd. De inspecteur heeft verklaard dat hij bij die controle afwijkende waarden in de pulsgever heeft geconstateerd. Dat is een apparaat waarmee de snelheid van het voertuig en de afgelegde afstand worden doorgegeven. Daardoor bestond bij de inspecteur het vermoeden dat de tachograaf werd gemanipuleerd. De inspecteur heeft vervolgens de vrachtwagen bij een erkende Scaniadealer laten onderzoeken. De inspecteur heeft verklaard dat in de vrachtwagen een bewerkte bewegingssensor werd aangetroffen waarmee invloed kan worden uitgeoefend op het signaal van de pulsgever. In de cabine van de vrachtwagen is een schakelaar gevonden waarmee de bewegingssensor ingeschakeld kon worden, aldus de inspecteur. Deze bevindingen zijn opgenomen in een op ambtsbelofte opgemaakt boeterapport van 5 februari 2018 en een op ambtsbelofte opgemaakt aanvullend boeterapport van 3 januari 2019.
+
+2. Volgens de minister is sprake van een overtreding van artikel 2.4:13, tweede lid, van het Arbeidstijdenbesluit vervoer (hierna: Atbv) en artikel 32, derde lid, van Verordening (EU) nr. 165/2014 (hierna: de Verordening). Op grond van de Beleidsregel boetoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (wegvervoer) 2016 heeft de minister [appellante] daarom op 16 januari 2019 een bestuurlijke boete opgelegd van € 4.400,-. Bij het besluit van 18 juli 2019 is de minister bij zijn standpunt gebleven. De rechtbank heeft dat besluit rechtmatig geacht.
+
+Het hoger beroep
+
+3. [appellante] betoogt dat de rechtbank ten onrechte heeft geoordeeld dat de minister bevoegd was een bestuurlijke boete op te leggen. Er was namelijk geen sprake van een overtreding van artikel 2.4:13, tweede lid, van het Atbv en artikel 32, derde lid, van de Verordening. De inspecteur vermoedde ten onrechte dat de pulsgever was gemanipuleerd. De minister heeft tot op heden geen notities overgelegd waaruit dat vermoeden blijkt. Uit de door de minister overgelegde foto’s blijkt ook niet op welke wijze de pulsgever gemanipuleerd zou zijn. Graag zou zij in de gelegenheid gesteld worden om een technicus de in beslag genomen apparatuur te laten onderzoeken. Daartoe moet de minister bevolen worden om de in beslag genomen apparatuur mee te nemen naar de zitting bij de Afdeling. Verder had de minister de waarden die de inspecteur heeft gemeten van de pulsgever moeten overleggen. Dat is tot op heden niet gebeurd, waardoor het aanvullende boeterapport geen enkele bewijskracht heeft. Ook moet getwijfeld worden aan de juistheid van de boeterapporten van de inspecteur. Daarnaast heeft de rechtbank ten onrechte overwogen dat de inspecteur het bestaan van de overtreding heeft onderbouwd met twee op ambtseed opgemaakte rapporten en ter zitting een toelichting heeft gegeven. Dit is niet juist, omdat de gemachtigde van de minister bij de rechtbank de boeterapporten niet heeft opgesteld. Hij heeft slechts een toelichting over de algemene gang van zaken kunnen geven, aldus [appellante].
+
+Verder betoogt [appellante] dat de rechtbank ten onrechte de bestuurlijke boete niet heeft gematigd. Daarbij heeft de rechtbank ten onrechte overwogen dat de beslistermijn van dertien weken, zoals is opgenomen in artikel 5:51 van de Algemene wet bestuursrecht (hierna: Awb), slechts een termijn van orde is zodat aan een overschrijding van die termijn geen consequenties verbonden hoeven te worden. Ook heeft zij voorkomen dat nieuwe overtredingen werden gepleegd. Dat blijkt uit een onlangs gedaan onderzoek zodat voldoende inspanningen zijn verricht om een nieuwe overtreding te voorkomen. Daarom moet de bestuurlijke boete worden gematigd, aldus [appellante].
+
+Het wettelijk kader
+
+4. De relevante wet- en regelgeving is opgenomen in een bijlage. Deze maakt deel uit van de uitspraak.
+
+Was de minister bevoegd een bestuurlijke boete op te leggen?
+
+5. Een bestuursorgaan mag, onverminderd zijn eigen verantwoordelijkheid om een besluit zorgvuldig voor te bereiden, in beginsel afgaan op de juistheid van de bevindingen in een op ambtsbelofte opgemaakt en ondertekend boeterapport, voor zover deze bevindingen eigen waarnemingen van de opsteller van het boeterapport weergeven. Als die bevindingen worden betwist, zal moeten worden onderzocht of er, gelet op de aard en inhoud van die betwisting, grond bestaat voor zodanige twijfel aan die bevindingen dat deze niet of niet volledig aan de vaststelling van de overtreding ten grondslag kunnen worden gelegd. Met de enkele stelling van [appellante] dat moet worden getwijfeld aan de juistheid van de boeterapporten, heeft zij niet aannemelijk gemaakt dat van het hiervoor genoemde uitgangspunt moet worden afgeweken. De minister mag dus uitgaan van de juistheid van de boeterapporten. Anders dan [appellante] veronderstelt, heeft de rechtbank niet overwogen dat de inspecteur die de boeterapporten heeft opgesteld, ter zitting een toelichting heeft gegeven. De rechtbank heeft overwogen dat de minister met de boeterapporten het bestaan van een overtreding heeft onderbouwd en ter zitting nog een toelichting heeft gegeven.
+
+5.1. Uit artikel 32 van de Verordening volgt dat vervoersondernemingen en bestuurders ervoor moeten zorgen dat digitale tachografen en bestuurderskaarten correct werken en correct worden gebruikt. Het is niet toegestaan om gegevens op het registratieblad, op de tachograaf of gegevens die op de bestuurderskaart zijn opgeslagen, dan wel afdrukken van de tachograaf te vervalsen, te verbergen, uit te wissen of te vernietigen. Ook manipulatie die hiertoe kan leiden is niet toegestaan. Ook mag in het voertuig geen voorziening aanwezig zijn die met dat doel kan worden gebruikt.
+
+5.2. De Afdeling is van oordeel dat de rechtbank op juiste gronden heeft geoordeeld dat de minister bevoegd was een bestuurlijke boete op te leggen, omdat [appellante] artikel 2.4:13, tweede lid, van het Atbv en artikel 32, derde lid, van de Verordening heeft overtreden. Die overtreding blijkt uit de boeterapporten en de daarbij gevoegde foto’s. Daarin staat dat de inspecteur bij meting van de pulsgever afwijkende waarden constateerde. Normaal gesproken moeten de waarden 10,5 mA en 2 mA na 1 minuut in de stroomspaarstand zijn, maar in dit geval werden waarden gemeten van 13,1 mA en na 1 minuut 13,1 mA in de stroomspaarstand. Weliswaar stonden deze waarden niet in het boeterapport van 5 februari 2018 vermeld, maar na navraag bij de inspecteur zijn die waarden alsnog verstrekt en in het aanvullende boeterapport van 3 januari 2019 opgenomen. Die afwijkende waarden leverden een gegrond vermoeden van fraude op, zodat de inspecteur aanleiding mocht zien om de vrachtwagen bij een erkende Scaniadealer nader te laten onderzoeken. Daar heeft een onderzoek plaatsgevonden naar een mogelijk tweede aanwezige voertuigunit en/of bewegingssensor. Opnieuw werden afwijkende waarden in de pulsgever gemeten, namelijk 12,8 mA en 4,6 mA na 1 minuut in de stroomspaarstand. In de garage is de pulsgever uit de versnellingsbak van de vrachtwagen verwijderd waarna de inspecteur zag dat de behuizing van de pulsgever beschadigd was. Het moederbord van de pulsgever bleek niet origineel te zijn en er bleek een printplaat aangesloten te zijn. Van deze bevindingen zijn foto’s gemaakt. Daarmee was een voorziening aangebracht die als doel heeft de juiste werking van de tachograaf te manipuleren. In de cabine van de vrachtwagen werden bovendien een zogeheten device en een schakelaar gevonden waarmee de tachograaf kon worden uitgeschakeld. Op die manier konden rusttijden worden geregistreerd terwijl de vrachtwagen in werkelijkheid reed en rijtijden moest registreren. De foto’s zijn toegevoegd ter onderbouwing van de in de boeterapporten opgenomen bevindingen en vormen bewijs dat [appellante] artikel 2.4:13, tweede lid, van het Atbv en artikel 32, derde lid, van de Verordening heeft overtreden. Er was apparatuur in de vrachtwagen die gebruikt kan worden om registratieapparatuur te beïnvloeden. [appellante] heeft het tegendeel niet aannemelijk gemaakt. Bij gebrek aan concrete aanknopingspunten om te twijfelen aan de juistheid van de boeterapporten ziet de Afdeling geen reden om de in beslag genomen apparatuur nader te laten onderzoeken.
+
+Het betoog faalt.
+
+Moet de bestuurlijke boete worden gematigd?
+
+6. Op grond van artikel 5:51 van de Awb moet het bestuursorgaan binnen dertien weken na het opstellen van het boeterapport een besluit nemen omtrent het opleggen van de bestuurlijke boete. Hoewel in dit geval op 5 februari 2018 een boeterapport is opgemaakt, is er ook op 3 januari 2019 een aanvullend boeterapport opgemaakt waarna op 16 januari 2019 het besluit tot het opleggen van de bestuurlijke boete is genomen. Zoals de Afdeling eerder heeft geoordeeld, bijvoorbeeld in haar uitspraak van 29 augustus 2018, ECLI:NL:RVS:2018:2831, is de dertienwekentermijn een termijn van orde, zodat aan de overschrijding daarvan geen consequenties zijn verbonden. De rechtbank heeft daarom terecht geen aanleiding gezien om vanwege de overschrijding van de termijn van dertien weken de bestuurlijke boete te matigen.
+
+6.1. Zoals de Afdeling eerder heeft overwogen in bijvoorbeeld de hiervoor genoemde uitspraak van 29 augustus 2018, kunnen inspanningen die zijn verricht nadat de overtreding is geconstateerd, van belang zijn voor de beoordeling of de opgelegde bestuurlijke boete passend en geboden is. Het enkele feit dat bij een nieuwe controle geen overtredingen zijn geconstateerd, is onvoldoende voor de conclusie dat inspanningen zijn verricht nadat de overtreding is geconstateerd om nieuwe overtredingen te voorkomen. Ook daarom is er geen aanleiding om de bestuurlijke boete te matigen.
+
+Het betoog faalt.
+
+Herhaalde en ingelaste gronden
+
+7. Voor zover [appellante] in hoger beroep haar in bezwaar en beroep aangevoerde gronden heeft herhaald en ingelast, overweegt de Afdeling dat het hoger beroep in zoverre een niet nader gemotiveerde herhaling daarvan betreft. In de overwegingen van de aangevallen uitspraak is de rechtbank op die gronden ingegaan. [appellante] heeft in het hogerberoepschrift, noch ter zitting, behoudens wat hiervoor is besproken, redenen aangevoerd waarom de weerlegging van die gronden in de aangevallen uitspraak onjuist, dan wel onvolledig zou zijn. Gelet hierop kan het aldus aangevoerde niet leiden tot vernietiging van de aangevallen uitspraak.
+
+Het betoog faalt.
+
+Het verzoek om schadevergoeding
+
+8. [appellante] heeft verzocht de minister te veroordelen tot een schadevergoeding, vanwege de onrechtmatigheid van het besluit van 18 juli 2019. Omdat uit het voorgaande volgt dat geen sprake is van onrechtmatigheid van dat besluit, wordt het verzoek om schadevergoeding afgewezen.
+
+Conclusie
+
+9. Het hoger beroep is ongegrond. De aangevallen uitspraak moet worden bevestigd. De Afdeling zal het verzoek om schadevergoeding afwijzen.
+
+10. De minister hoeft geen proceskosten te vergoeden.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State:
+
+I. bevestigt de aangevallen uitspraak;
+
+II. wijst het verzoek om schadevergoeding af.
+
+Aldus vastgesteld door mr. D.A.C. Slump, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. J. de Vries, griffier.
+
+Het lid van de enkelvoudige kamer is verhinderd de uitspraak te ondertekenen.
+
+De griffier is verhinderd de uitspraak te ondertekenen.
+
+Uitgesproken in het openbaar op 9 juni 2021
+
+582-857.
+
+BIJLAGE
+
+Algemene wet bestuursrecht
+
+Artikel 5:51
+
+1. Indien van de overtreding een rapport is opgemaakt, beslist het bestuursorgaan omtrent het opleggen van de bestuurlijke boete binnen dertien weken na de dagtekening van het rapport.
+
+[…]
+
+Verordening (EU) nr. 165/2014
+
+Artikel 32 Correct gebruik van de tachograaf
+
+1. Vervoersondernemingen en bestuurders zorgen ervoor dat digitale tachografen en bestuurderskaarten correct werken en correct worden gebruikt. Vervoersondernemingen en bestuurders die gebruikmaken van analoge tachografen, zorgen ervoor dat deze correct werken en dat de registratiebladen correct wordt gebruikt.
+
+[…]
+
+3. Het is verboden gegevens op het registratieblad, op de tachograaf of op de bestuurderskaart opgeslagen gegevens, of afdrukken van de tachograaf te vervalsen, te verbergen, uit te wissen of te vernietigen. Manipulatie van de tachograaf, het registratieblad of de bestuurderskaart die kan leiden tot het vervalsen, uitwissen of vernietigen van de gegevens en/of afgedrukte informatie is verboden. In het voertuig mag geen voorziening aanwezig zijn die met dit doel kan worden gebruikt.
+
+[…]
+
+Artikel 38 Controleambtenaren
+
+[…]
+
+2. Indien controleambtenaren na het uitvoeren van een controle voldoende bewijs hebben gevonden voor een gegrond vermoeden van fraude, zijn zij bevoegd om het voertuig door te verwijzen naar een erkende werkplaats om aanvullende tests te verrichten en met name om na te gaan dat de tachograaf:
+
+a) correct werkt;
+
+b) correct gegevens registreert en opslaat, en dat de ijkparameters correct zijn.
+
+[…]
+
+Arbeidstijdenbesluit vervoer
+
+Artikel 2.4:13
+
+[…]
+
+2. Voor zover verordening (EG) nr. 561/2006 van toepassing is, is het verboden te handelen in strijd met de artikelen […] 32, eerste tot en met vierde lid, […] van verordening (EU) nr. 165/2014.
+
+[…]
+
+Artikel 8:1
+
+1. Het niet naleven van de artikelen […] 2.4:13, tweede tot en met vierde lid, […] levert een overtreding op.
+
+Beleidsregel boetoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (wegvervoer) 2016
+
+Boetecatalogus

@@ -1,0 +1,113 @@
+[
+  {
+    "ecli": "ECLI:NL:RVS:2021:1232",
+    "official_snapshot": "sources/author-5-51-6-16/ECLI-NL-RVS-2021-1232.xml",
+    "sha256": "b45cf38963a3f3362b221291b8471202f257b5d487ca1ae96cb57a3ffa14bcfa",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2021-1232.md",
+    "local_exists": true,
+    "normalized_full_body_in_local": true,
+    "court": "Raad van State",
+    "date": "2021-06-09",
+    "docket": "202002852/1/A3",
+    "paragraphs": "6",
+    "supported_units": [
+      "art-5:51"
+    ],
+    "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2021:1232",
+    "official_full_text_read": true,
+    "case_card": "case-cards/ECLI-NL-RVS-2021-1232.md"
+  },
+  {
+    "ecli": "ECLI:NL:CRVB:2021:1500",
+    "official_snapshot": "sources/author-5-51-6-16/ECLI-NL-CRVB-2021-1500.xml",
+    "sha256": "87cc3ec490e54cc7220ff1540b418d8dae370d74ccb6be675fb7e4b243eb733e",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/crvb/ecli-nl-crvb-2021-1500.md",
+    "local_exists": true,
+    "normalized_full_body_in_local": true,
+    "court": "Centrale Raad van Beroep",
+    "date": "2021-07-09",
+    "docket": "20/754 WMO15",
+    "paragraphs": "4.1–4.7",
+    "supported_units": [
+      "art-6:7"
+    ],
+    "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CRVB:2021:1500",
+    "official_full_text_read": true,
+    "case_card": "case-cards/ECLI-NL-CRVB-2021-1500.md"
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2020:1682",
+    "official_snapshot": "sources/author-5-51-6-16/ECLI-NL-RVS-2020-1682.xml",
+    "sha256": "835b91497961888c0f04367b67d08eb8f1ca82fbef13e58ff2b0a835ef042f7c",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2020-1682.md",
+    "local_exists": true,
+    "normalized_full_body_in_local": true,
+    "court": "Raad van State",
+    "date": "2020-07-15",
+    "docket": "201904417/1/A3",
+    "paragraphs": "4.1–4.3",
+    "supported_units": [
+      "art-6:9"
+    ],
+    "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2020:1682",
+    "official_full_text_read": true,
+    "case_card": "case-cards/ECLI-NL-RVS-2020-1682.md"
+  },
+  {
+    "ecli": "ECLI:NL:CBB:2024:31",
+    "official_snapshot": "sources/author-5-51-6-16/ECLI-NL-CBB-2024-31.xml",
+    "sha256": "14c4220b00829f5103bd46e334a515fcbf8224524049b0c1eb275fd880e7ba2d",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/cbb/ecli-nl-cbb-2024-31.md",
+    "local_exists": true,
+    "normalized_full_body_in_local": false,
+    "court": "College van Beroep voor het bedrijfsleven",
+    "date": "2024-01-30",
+    "docket": "22/1049",
+    "paragraphs": "2.2–3.5; 4.1–5.2; 6–7.3; 8–12",
+    "supported_units": [
+      "art-6:11",
+      "art-6:7"
+    ],
+    "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CBB:2024:31",
+    "official_full_text_read": true,
+    "case_card": "case-cards/ECLI-NL-CBB-2024-31.md",
+    "official_body_from_Procesverloop_in_local": true,
+    "limitation": "Local corpus omits official front matter before Procesverloop; the complete official front matter was read separately. Whitespace-normalized remainder, including all reasoning and disposition, matches."
+  },
+  {
+    "ecli": "ECLI:NL:CBB:2026:406",
+    "official_snapshot": "sources/author-5-51-6-16/ECLI-NL-CBB-2026-406.xml",
+    "sha256": "765e63015941892d134ad099260e408c627b028473d2061a62afb215136fede2",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/cbb/ecli-nl-cbb-2026-406.md",
+    "local_exists": true,
+    "normalized_full_body_in_local": true,
+    "court": "College van Beroep voor het bedrijfsleven",
+    "date": "2026-09-01",
+    "docket": "24/931",
+    "paragraphs": "3–6",
+    "supported_units": [
+      "art-6:11"
+    ],
+    "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CBB:2026:406",
+    "official_full_text_read": true,
+    "case_card": "case-cards/ECLI-NL-CBB-2026-406.md"
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2021:786",
+    "official_snapshot": "sources/author-5-51-6-16/ECLI-NL-RVS-2021-786.xml",
+    "sha256": "aa90d6c8385de18e6cad589577bfb242a0706f4aacd44e0409ab70bc70b29c39",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2021-786.md",
+    "local_exists": true,
+    "normalized_full_body_in_local": true,
+    "court": "Raad van State",
+    "date": "2021-04-14",
+    "docket": "201908374/1/R3",
+    "paragraphs": "4.3–4.11; context 5.1–5.2, 8.4 en 12–15",
+    "supported_units": [
+      "art-6:13"
+    ],
+    "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2021:786",
+    "official_full_text_read": true,
+    "case_card": "case-cards/ECLI-NL-RVS-2021-786.md"
+  }
+]

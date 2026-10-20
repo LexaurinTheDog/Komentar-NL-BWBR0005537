@@ -1,0 +1,135 @@
+{
+  "checked_at": "2026-10-20T17:15:43.123864+00:00",
+  "kind": "author_self_check",
+  "independent_review": false,
+  "units_checked": 20,
+  "checked_ids": [
+    "art-5:51",
+    "art-5:52",
+    "art-5:53",
+    "art-5:54",
+    "art-6:1",
+    "art-6:2",
+    "art-6:3",
+    "art-6:4",
+    "art-6:5",
+    "art-6:6",
+    "art-6:7",
+    "art-6:8",
+    "art-6:9",
+    "art-6:10",
+    "art-6:11",
+    "art-6:12",
+    "art-6:13",
+    "art-6:14",
+    "art-6:15",
+    "art-6:16"
+  ],
+  "checks": [
+    {
+      "id": "art-5:51",
+      "checked_distinctions": "Dagtekening rapport, dertien weken, OM-opschorting en karakter termijn van orde onderscheiden van verval en totale procedureduur; geen automatische herstart bij aanvulling.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-5:52",
+      "checked_distinctions": "Naam en bedrag, identiteit rechtspersoon, samenhang 5:9 en 4:86, geen algemene nietigheidsclaim.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-5:53",
+      "checked_distinctions": "Potentiële boete boven 340, wettelijke afwijking, verplicht rapport, zienswijze, vervaltermijn en functiescheiding afzonderlijk gecontroleerd.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-5:54",
+      "checked_distinctions": "Wettelijke schakel voor andere bestraffende sancties; geen nieuwe sanctiebevoegdheid uit de overeenkomstige toepassing; afsluitchecklist titel 5.4.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:1",
+      "checked_distinctions": "Elders geopende rechtsgang tegen andere handelingen als voorwaarde, geen algemeen nieuw beroepsrecht.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:2",
+      "checked_distinctions": "Schriftelijke niet-beslissing en stilzitten onderscheiden van inhoudelijke afwijzing, geldelijke dwangsom en beschikking van rechtswege.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:3",
+      "checked_distinctions": "Voorbereidende procedurebeslissing, zelfstandig rechtstreeks effect en latere toets bij eindbesluit onderscheiden.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:4",
+      "checked_distinctions": "Bezwaar, administratief beroep en rechterlijk beroep met eigen ontvanger, geschrift en doorzendroute.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:5",
+      "checked_distinctions": "Alle onderdelen eerste lid, afschrift zo mogelijk, noodzakelijke vertaling, concreet pro-formageval en geen termijnverlenging door ontbrekende gronden.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:6",
+      "checked_distinctions": "Beide wettelijke gronden en herstelvoorwaarde; actuele 2:15 en 2:16 gelezen, niet met oude elektronische openstelling verward.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:7",
+      "checked_distinctions": "Duur, aanvang en ontvangst gescheiden; actuele ATW gecontroleerd, dwingend recht versus openbare orde met procesfase.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:8",
+      "checked_distinctions": "Alle vier leden en hun verschillende aanvangsmomenten behandeld; bekendmaking niet gelijkgesteld met dagtekening of feitelijke lezing.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:9",
+      "checked_distinctions": "Ontvangsthoofdregel en twee postvoorwaarden, geregistreerde vervoerders, bewijsvermoeden en digitale begrenzing.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:10",
+      "checked_distinctions": "Bestaand besluit en redelijke indruk afzonderlijk; aanhouding en andere ontvankelijkheidsvragen behouden.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:11",
+      "checked_distinctions": "Contextueel grotekamerkader, toerekening, spoed na beletsel, specifieke zeswekenlijn, professionele hulp en recente afwijzende toepassing volledig gelezen.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:12",
+      "checked_distinctions": "Beide vormen van stilzitten, verstreken beslistermijn, ingebrekestelling, twee weken, lid 3-uitzondering en onredelijk laat; geen automatische vergunning of geldclaim.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:13",
+      "checked_distinctions": "Verwijtbare gemiste voorfase, omgevingsrechtelijke openbare voorbereiding en grenzen van Varkens in Nood onderscheiden; actuele wettelijke tekst behouden.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:14",
+      "checked_distinctions": "Beide leden: bevestiging geen definitief ontvankelijkheidsoordeel; beroepsorgaan informeert besluitnemer, elektronische samenhang.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:15",
+      "checked_distinctions": "Doorzenden, verkeerde rechtsmiddelsoort, oorspronkelijke indieningstijd en misbruikuitzondering, geen nieuwe termijn door doorzending.",
+      "specific_fictional_example": true
+    },
+    {
+      "id": "art-6:16",
+      "checked_distinctions": "Geen automatische schorsing, wettelijke uitzonderingen, inwerkingtreding en getroffen voorlopige voorziening afzonderlijk; scoped werkcontrole.",
+      "specific_fictional_example": true
+    }
+  ],
+  "unresolved_blockers": [],
+  "limitations": [
+    "Geen onafhankelijke tweede beoordeling.",
+    "Technische lengte en herhalingscontrole bewijzen geen juridische kwaliteit."
+  ]
+}

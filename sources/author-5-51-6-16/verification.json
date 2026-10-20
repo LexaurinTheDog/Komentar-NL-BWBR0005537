@@ -1,0 +1,142 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537",
+    "accessed_at": "2026-10-20T17:04:22.074064+00:00",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+    "content_type": "text/html;charset=UTF-8",
+    "path": "sources/author-5-51-6-16/current.html",
+    "bytes": 4204181,
+    "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+    "accessed_at": "2026-10-20T17:04:25.125391+00:00",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+    "content_type": "text/html;charset=UTF-8",
+    "path": "sources/author-5-51-6-16/history.html",
+    "bytes": 1755568,
+    "sha256": "ea64ce7aa45e2ce2e5ff69e45f5c44b4367d39b0d03b752259104f5060a14996",
+    "accepted_format": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+    "accessed_at": "2026-10-20T17:04:26.391674+00:00",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+    "content_type": "application/xml",
+    "path": "sources/author-5-51-6-16/selected.xml",
+    "bytes": 2622149,
+    "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "xml_root": "toestand",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CBB:2024:31",
+    "accessed_at": "2026-10-20T17:05:19.380131+00:00",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CBB:2024:31",
+    "content_type": "application/xml",
+    "path": "sources/author-5-51-6-16/ECLI-NL-CBB-2024-31.xml",
+    "bytes": 45664,
+    "sha256": "14c4220b00829f5103bd46e334a515fcbf8224524049b0c1eb275fd880e7ba2d",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2021:786",
+    "accessed_at": "2026-10-20T17:06:12.995486+00:00",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2021:786",
+    "content_type": "application/xml",
+    "path": "sources/author-5-51-6-16/ECLI-NL-RVS-2021-786.xml",
+    "bytes": 55787,
+    "sha256": "aa90d6c8385de18e6cad589577bfb242a0706f4aacd44e0409ab70bc70b29c39",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2020:1682",
+    "accessed_at": "2026-10-20T17:06:13.578385+00:00",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2020:1682",
+    "content_type": "application/xml",
+    "path": "sources/author-5-51-6-16/ECLI-NL-RVS-2020-1682.xml",
+    "bytes": 33955,
+    "sha256": "835b91497961888c0f04367b67d08eb8f1ca82fbef13e58ff2b0a835ef042f7c",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2021:1232",
+    "accessed_at": "2026-10-20T17:06:19.356802+00:00",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2021:1232",
+    "content_type": "application/xml",
+    "path": "sources/author-5-51-6-16/ECLI-NL-RVS-2021-1232.xml",
+    "bytes": 21092,
+    "sha256": "b45cf38963a3f3362b221291b8471202f257b5d487ca1ae96cb57a3ffa14bcfa",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CRVB:2021:1500",
+    "accessed_at": "2026-10-20T17:06:19.981400+00:00",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CRVB:2021:1500",
+    "content_type": "application/xml",
+    "path": "sources/author-5-51-6-16/ECLI-NL-CRVB-2021-1500.xml",
+    "bytes": 22549,
+    "sha256": "87cc3ec490e54cc7220ff1540b418d8dae370d74ccb6be675fb7e4b243eb733e",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CBB:2026:406",
+    "accessed_at": "2026-10-20T17:06:20.631987+00:00",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CBB:2026:406",
+    "content_type": "application/xml",
+    "path": "sources/author-5-51-6-16/ECLI-NL-CBB-2026-406.xml",
+    "bytes": 10495,
+    "sha256": "765e63015941892d134ad099260e408c627b028473d2061a62afb215136fede2",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0002448",
+    "accessed_at": "2026-10-20T17:06:55.421931+00:00",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0002448/2010-10-10",
+    "content_type": "text/html;charset=UTF-8",
+    "path": "sources/author-5-51-6-16/atw-current.html",
+    "bytes": 64139,
+    "sha256": "fa2bed2f56e0eef9549456895a40f870ef408e8cf838d3bf3f63807d6361107c",
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0002448/2010-10-10/0/informatie",
+    "accessed_at": "2026-10-20T17:07:01.571505+00:00",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0002448/2010-10-10/0/informatie",
+    "content_type": "text/html;charset=UTF-8",
+    "path": "sources/author-5-51-6-16/atw-history.html",
+    "bytes": 53542,
+    "sha256": "114dca53c6a22ac4ca2ceda3d349e4d2245dfecaa51cd7c57c30dadb652bd90d",
+    "accepted_format": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002448/2010-10-10_0/xml/BWBR0002448_2010-10-10_0.xml",
+    "accessed_at": "2026-10-20T17:07:01.910390+00:00",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002448/2010-10-10_0/xml/BWBR0002448_2010-10-10_0.xml",
+    "content_type": "application/xml",
+    "path": "sources/author-5-51-6-16/atw.xml",
+    "bytes": 24346,
+    "sha256": "d5211ce619c22f810a073b41b015a20e6e64c153b56a390c0383b6c8d23afcec",
+    "xml_root": "toestand",
+    "accepted_format": true
+  }
+]

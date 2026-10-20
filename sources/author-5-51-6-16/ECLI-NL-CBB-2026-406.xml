@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2026:406</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-09-01T10:04:44</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-08-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2026-09-01</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">24/931</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Den Haag</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0047444&amp;g=2026-07-11">Uitvoeringsregeling GLB 2023</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2026:406">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2026:406</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-08-28T16:02:42</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-09-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2026:406 College van Beroep voor het bedrijfsleven , 01-09-2026 / 24/931</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2026:406:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Art. 8:57 Awb: In deze uitspraak oordeelt het College dat het beroep van [naam 1] tegen het besluit op bezwaar van 17 september 2024 ongegrond is. De minister heeft met dit besluit het bezwaar tegen het subsidiebesluit van 25 juni 2024 terecht niet-ontvankelijk verklaard, omdat Wagenaar daartegen zonder goede reden buiten de termijn bezwaar heeft gemaakt.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2026:406:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <para>uitspraak </para>
+  <para>
+    <inlinemediaobject>
+      <imageobject>
+        <imagedata align="center" scale="100" fileref="b29340ef-6ffd-4ffd-b477-34d57c8e46df" depth="1" width="568" format="image/png" />
+      </imageobject>
+    </inlinemediaobject>
+    <inlinemediaobject>
+      <imageobject>
+        <imagedata align="center" scale="100" fileref="18e7991b-6a35-4beb-9c74-d5dd16c2046d" depth="1" width="13" format="image/png" />
+      </imageobject>
+    </inlinemediaobject>
+  </para>
+  <section>
+    <title>COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</title>
+    <para />
+    <parablock>
+      <para>zaaknummer: 24/931</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak zonder zitting van de enkelvoudige kamer van 1 september 2026 in de zaak tussen</emphasis>
+        <?linebreak?>
+      </para>
+    </parablock>
+  </section>
+  <section>
+    <title>
+      [naam 1] , te [woonplaats]</title>
+    <para>(gemachtigde: [naam 2] ) </para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>de minister van Landbouw, Visserij, Voedselzekerheid en Natuur</title>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Samenvatting</title>
+    <para />
+    <parablock>
+      <para>In deze uitspraak oordeelt het College dat het beroep van [naam 1] tegen het besluit op bezwaar van 17 september 2024 ongegrond is. De minister heeft met dit besluit het bezwaar tegen het subsidiebesluit van 25 juni 2024 terecht niet-ontvankelijk verklaard, omdat [naam 1] daartegen zonder goede reden buiten de termijn bezwaar heeft gemaakt. </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Beoordeling</title>
+    <para />
+    <para>1. Het College doet uitspraak zonder (nadere) zitting, omdat het over voldoende informatie beschikt om tot een oordeel te komen en omdat partijen, gelet op het bepaalde in artikel 8:57, eerste lid, van de Algemene wet bestuursrecht (Awb), geen gebruik hebben gemaakt van hun recht om ter (nadere) zitting gehoord te worden waarna het onderzoek is gesloten.  </para>
+    <para>2 <?linebreak?>Het eerste lid van artikel 6:9 van de Awb bepaalt, in samenhang met artikel 6:7 van de Awb, dat een bezwaarschrift tijdig is ingediend indien het voor het einde van de bezwaartermijn van zes weken is ontvangen. Artikel 6:11 van de Awb bepaalt dat ten aanzien van een na afloop van de termijn ingediend bezwaarschrift niet-ontvankelijkverklaring op grond daarvan achterwege blijft, indien redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest. De termijnoverschrijding is dan verschoonbaar.</para>
+    <para />
+    <para>3 Op de dag na de bekendmaking van het subsidiebesluit van 25 juni 2024 is de bezwaartermijn gaan lopen en de laatste dag van deze termijn viel op 6 augustus 2024. </para>
+    <para />
+    <para>4 In beroep stelt [naam 1] dat er wel degelijk omstandigheden waren die ertoe hebben geleid dat het bezwaar niet tijdig is ingediend en dat daarvan ten onrechte geen rekenschap is gegeven. Bovendien kan de minister enige coulance betrachten bij het verschoonbaar achten van een termijnoverschrijding in lijn met het afzien van het ambtshalve toetsen. Dat zou ertoe moeten leiden dat het bezwaar alsnog inhoudelijk behandeld wordt. </para>
+    <para>5 [naam 1] betwist niet dat het bezwaarschrift op 9 augustus 2024 en dus buiten de termijn is ingediend. Het College moet beoordelen of de minister de termijnoverschrijding terecht niet verschoonbaar heeft geacht. Voor het beoordelingskader verwijst het College naar zijn uitspraak van 30 januari 2024 (ECLI:NL:CBB:2024:31). Daaruit volgt dat een termijnoverschrijding alleen verschoonbaar is in geval van bijzondere omstandigheden waardoor de termijnoverschrijding niet aan de indiener kan worden toegerekend. In de uitspraak worden als voorbeelden genoemd persoonlijke omstandigheden aan de zijde van de indiener zelf (zoals psychisch onvermogen, ernstige ziekte of ongeval van de indiener of ziekte of overlijden van diens naasten en de zorgtaken die daarmee gepaard gaan), of externe omstandigheden die voor overbelasting of stress bij de indiener zorgen (zoals een natuurramp, een besmettelijke dierziekte op het bedrijf of een brand in de woning of in een bedrijfspand). Van dergelijke omstandigheden is in het geval van [naam 1] niet gebleken. De enkele stelling in beroep dat van bijzondere omstandigheden sprake is, is daarvoor niet voldoende. Dat de bezwaartermijn [naam 1] ontschoten is vanwege de vakantieperiode en drukte op het land, zoals hij in bezwaar naar voren heeft gebracht, is geen bijzondere omstandigheid op grond waarvan de termijnoverschrijding verschoonbaar kan worden geacht. Bij afwezigheid van bijzondere omstandigheden kan de minister niet worden verplicht coulance te betrachten bij de beoordeling van de verschoonbaarheid. Dat wat betreft de termijnoverschrijding in bezwaar geen sprake meer is van ambtshalve toetsing door de rechter, maakt dat niet anders. Het College is daarom van oordeel dat de minister het bezwaar terecht niet-ontvankelijk heeft verklaard.</para>
+    <para />
+    <para>6 Nu het bezwaar terecht niet-ontvankelijk is verklaard, is het beroep ongegrond. Het College komt niet toe aan een inhoudelijke beoordeling van het besluit.</para>
+    <para />
+  </section>
+  <section>
+    <title>Conclusie en proceskosten</title>
+    <para />
+    <para>7 Het beroep is ongegrond. </para>
+    <para />
+    <para>8 De minister hoeft geen proceskosten te vergoeden.</para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. D. Brugman, in aanwezigheid van E.A. van der Meel, griffier. De beslissing is in het openbaar uitgesproken op 1 september 2026. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>w.g. D. Brugman w.g. E.A. van der Meel</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>
