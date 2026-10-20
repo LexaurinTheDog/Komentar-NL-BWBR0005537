@@ -5,8 +5,41 @@
   "preserved_prior_commentaries": 340,
   "whole_book_complete": false,
   "global_missing_commentaries": 228,
-  "strict_validator": "Pending execution after checkpoint commit; result recorded before final handoff.",
+  "strict_validator": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 699236,
+    "errors": [
+      "krátký/chybějící komentář u 228 jednotek: ['art-8:18(0<400)', 'art-8:19(0<400)', 'art-8:20(0<400)', 'art-8:21(0<400)', 'art-8:22(0<400)', 'art-8:23(0<400)', 'art-8:24(0<400)', 'art-8:25(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
   "source_text_agreement": 1.0,
   "independent_coverage": "coverage-evidence.json",
-  "independent_review": false
+  "independent_review": false,
+  "strict_validator_exit_code": 1,
+  "strict_validated_at": "2026-10-20T18:21:14.185078+00:00",
+  "global_failure_outside_assigned_scope": true,
+  "technical_audit": {
+    "checked_at": "2026-10-20T18:20:13.364595+00:00",
+    "independent_review": false,
+    "official_text_units_compared": 588,
+    "official_xml_text_errors": [],
+    "source_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "commented_units": 360,
+    "total_units": 588,
+    "commentary_chars": 699236,
+    "commentary_minimum_length_failures": [],
+    "exact_repeated_paragraphs": [],
+    "exact_repeated_long_sentences": [],
+    "local_links_checked": 1133,
+    "broken_local_links": [],
+    "limitations": [
+      "Geen inhoudelijke of onafhankelijke juridische kwaliteitscertificering.",
+      "Geen voltooiing zolang niet alle eenheden werkelijk zijn becommentarieerd.",
+      "De lengtecontrole is alleen een technische ondergrens."
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T18:20:12.916310+00:00",
+  "updated_at": "2026-10-20T18:21:14.185078+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -743,15 +743,15 @@
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 655028,
+      "commentary_chars": 699236,
       "errors": [
-        "krátký/chybějící komentář u 248 jednotek: ['art-8:2(0<400)', 'art-8:3(0<400)', 'art-8:4(0<400)', 'art-8:5(0<400)', 'art-8:6(0<400)', 'art-8:7(0<400)', 'art-8:8(0<400)', 'art-8:9(0<400)']"
+        "krátký/chybějící komentář u 228 jednotek: ['art-8:18(0<400)', 'art-8:19(0<400)', 'art-8:20(0<400)', 'art-8:21(0<400)', 'art-8:22(0<400)', 'art-8:23(0<400)', 'art-8:24(0<400)', 'art-8:25(0<400)']"
       ],
       "warnings": [],
       "ok": false
     },
     "independent_review_scope": "Earlier independent review evidence preserved. New author batch 8:2–8:17 awaits independent second pass.",
-    "validated_at": "2026-10-20T18:08:57.423645+00:00",
+    "validated_at": "2026-10-20T18:21:14.185078+00:00",
     "evidence": "strict-validation.json",
     "bounded_review_passed": true,
     "scoped_review_complete": true,
@@ -785,18 +785,18 @@
     "scope": "Source and parser only; manuscript incomplete."
   },
   "technical_audit": {
-    "checked_at": "2026-10-20T18:08:20.689785+00:00",
+    "checked_at": "2026-10-20T18:20:13.364595+00:00",
     "independent_review": false,
     "official_text_units_compared": 588,
     "official_xml_text_errors": [],
     "source_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
-    "commented_units": 340,
+    "commented_units": 360,
     "total_units": 588,
-    "commentary_chars": 655028,
+    "commentary_chars": 699236,
     "commentary_minimum_length_failures": [],
     "exact_repeated_paragraphs": [],
     "exact_repeated_long_sentences": [],
-    "local_links_checked": 1097,
+    "local_links_checked": 1133,
     "broken_local_links": [],
     "limitations": [
       "Geen inhoudelijke of onafhankelijke juridische kwaliteitscertificering.",

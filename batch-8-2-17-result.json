@@ -100,5 +100,8 @@
     "De afzonderlijke amicusreacties en aangehechte rechtbankuitspraak in IsoSun zijn niet zelfstandig als autoriteiten onderzocht; geen actuele natuurrechtelijke handleiding.",
     "De volledige actuele rechtbankenrangorde in de Wet op de rechterlijke indeling is niet afzonderlijk onderzocht; geen concrete forumkeuze daarop gebaseerd.",
     "Technische tekstidentiteit, minimumlengte en afwezigheid van letterlijke herhaling bewijzen geen juridische kwaliteit."
-  ]
+  ],
+  "bounded_technical_validation_passed": true,
+  "strict_validation": "strict-validation.json",
+  "global_failure_outside_assigned_scope": true
 }
