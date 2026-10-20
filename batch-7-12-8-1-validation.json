@@ -69,5 +69,20 @@
     "exact_repeated_long_sentences": [],
     "local_links_checked": 1048,
     "broken_local_links": []
-  }
+  },
+  "strict_validator": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 654255,
+    "errors": [
+      "krátký/chybějící komentář u 248 jednotek: ['art-8:2(0<400)', 'art-8:3(0<400)', 'art-8:4(0<400)', 'art-8:5(0<400)', 'art-8:6(0<400)', 'art-8:7(0<400)', 'art-8:8(0<400)', 'art-8:9(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "strict_validator_exit_code": 1,
+  "strict_validated_at": "2026-10-20T18:01:27.967597+00:00",
+  "bounded_author_technical_ok": true,
+  "global_failure_outside_assigned_scope": true
 }

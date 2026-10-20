@@ -119,5 +119,8 @@
     "Vier lokale bodies stemmen volledig overeen; twee niet in het corpus gevonden, officiële volledige versies gelezen.",
     "Historische sectorregels, tarieven en Wahv-kostenrechtspraak zijn niet als actuele algemene normen gebruikt.",
     "Alle eerdere beperkingen blijven gelden. Technische controles zijn geen zelfstandige juridische kwaliteitscertificering."
-  ]
+  ],
+  "bounded_technical_validation_passed": true,
+  "strict_validation": "strict-validation.json",
+  "global_failure_outside_assigned_scope": true
 }
