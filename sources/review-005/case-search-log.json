@@ -1,0 +1,79 @@
+{
+  "searched_at": "2026-10-20T14:37:21.715456+00:00",
+  "scope": "Selective primary-source and local national corpus research for exactly twenty assigned units.",
+  "queries": [
+    "site.raadvanstate.nl \"2016:3131\" \"evident onredelijk\"",
+    "site.raadvanstate.nl \"4:17\" \"ingebrekestelling\" \"voldoende duidelijk\"",
+    "site.raadvanstate.nl \"4:6\" \"evident onredelijk\" \"2026\" \"3.6\"",
+    "site.raadvanstate.nl \"3:49\" \"3:50\" \"advies\" \"2026\"",
+    "site.raadvanstate.nl/uitspraken/ \"4:6\" \"2026\" \"evident onredelijk\""
+  ],
+  "discovery_links": [
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI%3ANL%3ARVS%3A2016%3A3131",
+    "https://www.raadvanstate.nl/uitspraken/@158850/202304655-2-a3/",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI%3ANL%3ARVS%3A2026%3A925",
+    "https://www.raadvanstate.nl/uitspraken/@96088/201309219-1-a1/"
+  ],
+  "local_search": "sources/review-005/local-search-log.json",
+  "local_comparison": "sources/review-005/local-official-case-comparison.json",
+  "fully_read": [
+    {
+      "ecli": "ECLI:NL:RVS:2016:3131",
+      "snapshot": "sources/review-005/case-2016-3131.xml",
+      "supported_units": [
+        "art-4:6"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2014:4682",
+      "snapshot": "sources/review-005/case-2014-4682.xml",
+      "supported_units": [
+        "art-4:17"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2026:925",
+      "snapshot": "sources/review-005/case-2026-925.xml",
+      "supported_units": [
+        "art-4:6"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2026:3492",
+      "snapshot": "sources/review-005/case-2026-3492.xml",
+      "supported_units": [
+        "art-4:6"
+      ]
+    }
+  ],
+  "no_separate_verified_case_adopted_for": [
+    "art-3:49",
+    "art-3:50",
+    "art-4:1",
+    "art-4:2",
+    "art-4:3",
+    "art-4:3a",
+    "art-4:4",
+    "art-4:5",
+    "art-4:7",
+    "art-4:8",
+    "art-4:9",
+    "art-4:10",
+    "art-4:11",
+    "art-4:12",
+    "art-4:13",
+    "art-4:14",
+    "art-4:15",
+    "art-4:16"
+  ],
+  "excluded": [
+    "Search snippets and third-party editorial summaries were discovery aids only, not authorities.",
+    "Precedents and EU judgments referred to in the four judgments were not independently read or cited as standalone authorities."
+  ],
+  "limitations": [
+    "Selective research; no exhaustive survey or assertion that no other relevant case exists.",
+    "Firecrawl status reports zero credits. Official HTTP and full-text judicial XML used instead.",
+    "The June 2026 decision is interlocutory; no subsequent final judgment researched. Its reasoning is used as an illustration, not a final grant of relief.",
+    "Older judgments were compared against current Awb text; former Wob deadlines, old monetary rates and old inburgering substantive law are not presented as current law."
+  ]
+}

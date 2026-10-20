@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2016:3131</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-07-12T14:54:14</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2016-11-23</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2016-11-23</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">201502095/1/A3</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Den Haag</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537">Algemene wet bestuursrecht</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=4:6">Algemene wet bestuursrecht 4:6</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>ABkort 2016/423</rdf:li>
+          <rdf:li>NJB 2016/2241</rdf:li>
+          <rdf:li>BA 2017/2</rdf:li>
+          <rdf:li>Module BRP 2017/1195</rdf:li>
+          <rdf:li>AB 2017/101 met annotatie van H.E. Bröring</rdf:li>
+          <rdf:li>AA20170321 met annotatie van A.T. Marseille</rdf:li>
+          <rdf:li>JB 2017/7 met annotatie van L.J.M. Timmermans</rdf:li>
+          <rdf:li>JG 2016/65 met annotatie van Mr. dr. N. Jak, mr. M. Claessens</rdf:li>
+          <rdf:li>JIN 2017/65 met annotatie van L.J.M. Timmermans</rdf:li>
+          <rdf:li>USZ 2017/91</rdf:li>
+          <rdf:li>JOM 2016/1190</rdf:li>
+          <rdf:li>OGR-Updates.nl 2016-0240</rdf:li>
+          <rdf:li>Jurisprudentie Grondzaken 2017/20 met annotatie van Loo, F.M.A. van der</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2016:3131">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2016:3131</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2016-11-25T09:33:54</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2016-11-23</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2016:3131 Raad van State , 23-11-2016 / 201502095/1/A3</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2016:3131:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluit van 18 december 2012 heeft het college een verzoek van [appellante] om wijziging van de van haar in de gemeentelijke basisadministratie (hierna: GBA; thans: basisregistratie personen (BRP)) geregistreerde persoonsgegevens afgewezen.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2016:3131:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>Bij deze uitspraak is een persbericht uitgebracht.</para>
+    <para />
+    <para>201502095/1/A3.</para>
+    <para>Datum uitspraak: 23 november 2016</para>
+    <para />
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para />
+    <para>Uitspraak op het hoger beroep van:</para>
+    <para />
+    <para>[appellante] alias [appellante] (hierna: [appellante]), wonend te Vaals,</para>
+    <para>appellante,</para>
+    <para />
+    <para>tegen de uitspraak van de rechtbank Limburg van 11 februari 2015 in zaak nr. 13/2418 in het geding tussen:</para>
+    <para />
+    <para>[appellante] alias [appellante]</para>
+    <para />
+    <para>en</para>
+    <para />
+    <para>het college van burgemeester en wethouders van Vaals.</para>
+    <para />
+    <para>Procesverloop</para>
+    <para />
+    <para>Bij besluit van 18 december 2012 heeft het college een verzoek van [appellante] om wijziging van de van haar in de gemeentelijke basisadministratie (hierna: GBA; thans: basisregistratie personen (BRP)) geregistreerde persoonsgegevens afgewezen.</para>
+    <para />
+    <para>Bij besluit van 25 juni 2013 heeft het college het door [appellante] daartegen gemaakte bezwaar ongegrond verklaard.</para>
+    <para />
+    <para>Bij uitspraak van 11 februari 2015 heeft de rechtbank het door [appellante] daartegen ingestelde beroep ongegrond verklaard. Deze uitspraak is aangehecht.</para>
+    <para />
+    <para>Tegen deze uitspraak heeft [appellante] hoger beroep ingesteld.</para>
+    <para />
+    <para>Het college heeft een verweerschrift ingediend.</para>
+    <para />
+    <para>De Afdeling heeft de zaak ter zitting behandeld op 1 december 2015, waar [appellante], bijgestaan door mr. R.J. Hamerslag, advocaat te Amsterdam, en het college, vertegenwoordigd door mr. I.J.H. Lemmens en J.J.M. Vanhautem-Géron, beiden werkzaam bij de gemeente, zijn verschenen.</para>
+    <para />
+    <para>Overwegingen</para>
+    <para />
+    <para>Inleiding</para>
+    <para />
+    <para>1. Op 15 september 1999 is [appellante] op basis van een door haar onder ede afgelegde verklaring in de GBA ingeschreven als [persoon], geboren te [plaats], Mongolië, op [..-..-….].</para>
+    <para />
+    <para>Op 25 november 2009 heeft [appellante] het college verzocht de van haar in de GBA geregistreerde persoonsgegevens te wijzigen in [naam] [appellante], geboren te [plaats] op [..-..-….]. Het college heeft dit verzoek afgewezen en bij in rechte vaststaand besluit op bezwaar van 27 april 2010 de afwijzing gehandhaafd.</para>
+    <para />
+    <para>Op 16 april 2010 heeft [appellante] het college verzocht om dezelfde wijziging van de van haar in de GBA geregistreerde persoonsgegevens. Dit tweede verzoek heeft het college afgewezen bij besluit van 3 mei 2010. Bij in rechte vaststaand besluit op bezwaar van 21 januari 2011 heeft het college de afwijzing van dit verzoek gehandhaafd.</para>
+    <para />
+    <para>Op 30 november 2012 heeft [appellante] het college wederom verzocht om dezelfde wijziging van deze persoonsgegevens. Bij het besluit van 18 december 2012 heeft het college dit verzoek afgewezen. In bezwaar heeft het college deze afwijzing met toepassing van artikel 4:6, tweede lid, van de Algemene wet bestuursrecht (hierna: Awb) gehandhaafd onder verwijzing naar de eerdere besluiten. Daaraan heeft het ten grondslag gelegd dat niet is gebleken van nieuwe feiten of veranderde omstandigheden sinds die eerdere besluiten. De overgelegde Mongolische geboorteakte, huwelijksakte van de ouders en het nationaliteitsbewijs, zijnde een paspoort en een identiteitskaart, zijn reeds in een eerdere procedure overgelegd. Met betrekking tot de overige overgelegde documenten is het college van oordeel dat deze geen nieuw gebleken feiten of veranderde omstandigheden zijn, omdat niet aannemelijk is dat deze documenten niet eerder in Mongolië konden worden aangevraagd en/of overgelegd. Het gaat om de volgende documenten: een rapport van een verwantschapsonderzoek, een gelegaliseerde Mongolische identiteitskaart met apostillestempel, een vingerafdrukkenonderzoek, een brief van de moeder van [appellante] die haar relaas bevestigt en een verklaring van de Mongolische ambassade waaruit volgt dat [appellante] aan de [adres] woont.</para>
+    <para />
+    <para>Bij in rechte vaststaand besluit van 14 oktober 2010 heeft de minister van Justitie het aan [appellante] verleende Nederlanderschap ingetrokken.</para>
+    <para />
+    <para>1.1. In hoger beroep is aan de orde of de aangevallen uitspraak is gedaan in strijd met artikel 6 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM), doordat de rechter eerder ook als voorzieningenrechter een andere zaak van [appellante] heeft behandeld. Daarnaast is aan de orde of de rechtbank op juiste wijze tot het oordeel is gekomen dat het besluit van 25 juni 2013, waarbij het college toepassing heeft gegeven aan artikel 4:6, tweede lid, van de Awb, de toets in rechte kan doorstaan.</para>
+    <para />
+    <para>Rechterlijke onpartijdigheid</para>
+    <para />
+    <para>2. [appellante] betoogt dat niet vaststaat dat in beroep onafhankelijk en onpartijdig is rechtgesproken. Zij heeft de rechter op 5 januari 2015 schriftelijk verzocht om zich te verschonen. De rechtbank heeft de gemachtigde van [appellante] telefonisch en het college schriftelijk meegedeeld dat voor verschoning geen grond bestaat en dat de zitting op de beoogde datum doorgang vindt. De reden voor het verzoek om verschoning was dat dezelfde rechter uitspraak heeft gedaan inzake een verzoek tot het treffen van een voorlopige voorziening in de procedure waarin zij voor het eerst verzocht om wijziging van haar persoonsgegevens.</para>
+    <para />
+    <para>2.1. De enkele omstandigheid dat dezelfde rechter in een eerdere procedure op een verzoek tot het treffen van een voorlopige voorziening uitspraak heeft gedaan, maakt niet dat deze rechter in de onderhavige procedure niet onafhankelijk en onpartijdig is, reeds omdat de aangevallen uitspraak in dit geval niet de bodemzaak betrof van die eerdere procedure waarin om een voorlopige voorziening was verzocht.</para>
+    <para />
+    <para>Het betoog faalt.</para>
+    <para />
+    <para>Wijziging ne bis in idem-rechtspraak</para>
+    <para />
+    <para>3. [appellante] betoogt dat de rechtbank ten onrechte tot het oordeel is gekomen dat het college het verzoek terecht met toepassing van artikel 4:6, tweede lid, van de Awb heeft afgewezen.</para>
+    <para />
+    <para>3.1. De Afdeling heeft in haar uitspraak van 22 juni 2016, ECLI:NL:RVS:2016:1759, overwogen dat, en waarom, zij het in die uitspraak onder 3 beschreven ne bis-beoordelingskader niet langer zal toepassen in zaken waarin het voorliggende besluit is gebaseerd op de Vreemdelingenwet 2000 (hierna: de Vw 2000) of op de Wet Centraal Orgaan opvang asielzoekers (hierna: Wet COa). Dit betekent, zo heeft de Afdeling in die uitspraak overwogen, dat de bestuursrechter in die zaken voortaan elk besluit op een opvolgende aanvraag waarbij die aanvraag niet wordt ingewilligd, dan wel waarbij een verzoek om terug te komen van een in rechte onaantastbaar besluit is afgewezen, overeenkomstig artikel 8:69 van de Awb toetst in het licht van de daartegen door de vreemdeling aangevoerde beroepsgronden. Deze toetsing omvat, zoals bij alle besluiten, de motivering van het besluit, de manier waarop het tot stand is gekomen en, indien er beleid wordt gevoerd over de toepassing van artikel 4:6 van de Awb of over verzoeken om terug te komen van rechtens onaantastbare besluiten, op welke wijze aan dat beleid uitvoering is gegeven.</para>
+    <para />
+    <para>3.2. De Afdeling ziet aanleiding ook haar rechtspraak over herhaalde aanvragen en verzoeken om terug te komen van besluiten aan te passen voor zaken waarin de besluiten niet zijn gebaseerd op de Vw 2000 of de Wet COa. Daarmee is immers de eenvormigheid van de rechtspraak over artikel 4:6 van de Awb en verzoeken om terug te komen van rechtens onaantastbare besluiten in het bestuursrecht gediend. Bovendien was de ne bis-rechtspraak uit oogpunt van rechtsbescherming niet onomstreden, zodat ook daarom aansluiting bij de onder 3.1 weergegeven nieuwe lijn in de rede ligt. In aanvulling op voormelde uitspraak overweegt de Afdeling als volgt.</para>
+    <para />
+    <para>3.3. Uitgangspunt is dat een bestuursorgaan in het algemeen bevoegd is om een herhaalde aanvraag inhoudelijk te behandelen en daarbij het oorspronkelijke besluit in volle omvang te heroverwegen. Het bestuursorgaan kan zo'n aanvraag inwilligen of afwijzen. Hetzelfde geldt, als een rechtzoekende het bestuursorgaan verzoekt terug te komen van een besluit. Een bestuursorgaan mag dit ook als de rechtzoekende aan zijn verzoek geen nieuw gebleken feiten of veranderde omstandigheden ten grondslag heeft gelegd. Het bestuursorgaan kan er ingevolge artikel 4:6, tweede lid, van de Awb ook nog steeds voor kiezen om, als er volgens hem geen nieuw gebleken feiten of veranderde omstandigheden zijn, de herhaalde aanvraag af te wijzen onder verwijzing naar zijn eerdere afwijzende besluit. Hetzelfde geldt, als een rechtzoekende het bestuursorgaan verzoekt terug te komen van een besluit.</para>
+    <para />
+    <para>3.4. Als het bestuursorgaan de herhaalde aanvraag of het verzoek terug te komen van een besluit op inhoudelijke gronden afwijst, dan toetst de bestuursrechter het besluit op die aanvraag of dat verzoek aan de hand van de aangevoerde beroepsgronden als ware dit het eerste besluit over die aanvraag of dat verzoek. Anders dan voorheen beoordeelt de bestuursrechter dus niet meer ambtshalve of wat een rechtzoekende aan zijn aanvraag of verzoek ten grondslag heeft gelegd nieuw gebleken feiten of veranderde omstandigheden zijn.</para>
+    <para />
+    <para>3.5. Als het bestuursorgaan - overeenkomstige - toepassing geeft aan artikel 4:6, tweede lid, van de Awb, dan toetst de bestuursrechter aan de hand van de aangevoerde beroepsgronden en eventueel door het bestuursorgaan gevoerd beleid, of het bestuursorgaan zich terecht, en zorgvuldig voorbereid en deugdelijk gemotiveerd op het standpunt heeft gesteld dat er geen nieuw gebleken feiten of veranderde omstandigheden zijn.</para>
+    <para />
+    <para>Als de bestuursrechter tot het oordeel komt dat het bestuursorgaan zich ten onrechte op dat standpunt heeft gesteld, dan zal de bestuursrechter de mogelijkheden tot finale geschilbeslechting onderzoeken, waaronder de mogelijkheid de afdelingen 8.2.2.a en 8.2.7 van de Awb toe te passen. Dat kan ook tot hernieuwde besluitvorming door het bestuursorgaan leiden, als de bestuursrechter of het bestuursorgaan tot het oordeel komt dat het geconstateerde gebrek zich niet op een andere manier laat herstellen.</para>
+    <para />
+    <para>Als het bestuursorgaan uit oogpunt van finale geschilbeslechting door de bestuursrechter in de gelegenheid wordt gesteld het geconstateerde gebrek te herstellen, dan zal de bestuursrechter de nadere motivering van het bestuursorgaan vervolgens in een (eind)uitspraak toetsen, tenzij het bestuursorgaan de aanvraag of het verzoek alsnog inwilligt.</para>
+    <para />
+    <para>Als de bestuursrechter heeft volstaan met vernietiging van het besluit, omdat dat wat betreft de nieuw gebleken feiten of veranderde omstandigheden niet deugdelijk is gemotiveerd, dan kan het bestuursorgaan opnieuw - overeenkomstige - toepassing geven aan artikel 4:6 van de Awb, als het opnieuw afwijzend op de aanvraag of het verzoek beslist. Het kan er ook voor kiezen de aanvraag of het verzoek af te wijzen zonder dit te doen. In dat laatste geval behandelt het bestuursorgaan dus de aanvraag of het verzoek op de manier die onder 3.3 en in 3.4 is beschreven.</para>
+    <para />
+    <para>3.6. Als de bestuursrechter tot het oordeel komt dat het bestuursorgaan zich terecht op het standpunt heeft gesteld dat er geen nieuw gebleken feiten of veranderde omstandigheden zijn, dan kan dat afwijzing van de aanvraag of het verzoek om terug te komen van een besluit in beginsel dragen. De bestuursrechter kan aan de hand van wat de rechtzoekende heeft aangevoerd evenwel tot het oordeel komen dat het besluit op de herhaalde aanvraag of het verzoek om terug te komen van een besluit evident onredelijk is. Als het bestuursorgaan beleid voert, toetst de bestuursrechter in de eerste plaats of het bestuursorgaan een juiste toepassing heeft gegeven aan zijn beleid. Als het bestuursorgaan zulk beleid niet voert en het hierover in het besluit ook geen standpunt heeft ingenomen, dan zal de bestuursrechter het bestuursorgaan in de gelegenheid stellen zodanig standpunt alsnog in te nemen.</para>
+    <para />
+    <para>3.7. De onder 3.3 tot en met 3.6 weergegeven nieuwe lijn wordt met onmiddellijke ingang gehanteerd, omdat deze - zeker in twee-partijengeschillen - begunstigend kan zijn voor rechtzoekenden. Die lijn geldt voor iedere zaak, ongeacht de stand waarin de procedure over een besluit op een herhaalde aanvraag of een verzoek terug te komen van een besluit zich bevindt. Dit kan er in bepaalde gevallen toe leiden dat een uitspraak van een rechtbank die is gedaan vóór deze uitspraak en waarin de rechtbank toepassing heeft gegeven aan de tot deze uitspraak gevolgde lijn, wordt vernietigd. Hiertoe bestaat geen reden als de toepassing van de nieuwe lijn tot dezelfde uitkomst leidt, namelijk dat de beslissing van het bestuursorgaan op de herhaalde aanvraag of het verzoek terug te komen van een eerder besluit in stand blijft.</para>
+    <para />
+    <para>Toepassing van deze nieuwe rechtspraak</para>
+    <para />
+    <para>4. [appellante] betoogt dat de rechtbank heeft miskend dat de door haar nieuw overgelegde documenten wel nieuw gebleken feiten of veranderde omstandigheden zijn. De rechtbank is het college volgens haar ten onrechte gevolgd in zijn standpunt dat niet is gebleken dat zij deze documenten niet al gedurende de vorige procedure in Mongolië had kunnen aanvragen en dus eerder had kunnen overleggen. De door haar overgelegde gelegaliseerde Mongolische identiteitskaart met chip, bevat volgens haar vingerafdrukken die overeenkomen met de van haar bekende vingerafdrukken uit eerdere procedures. Deze identiteitskaart dateert van 15 augustus 2012 en had zij dus niet bij de eerdere procedures kunnen overleggen, aldus [appellante].</para>
+    <para />
+    <para>4.1. Aan het verzoek dat thans voorligt, heeft [appellante] onder meer een authentiek bevonden Mongolische identiteitskaart overgelegd, afgegeven op 15 augustus 2012, derhalve na het vorige afwijzende besluit van 3 mei 2010. Deze identiteitskaart bevat de personalia van [appellante], is voorzien van haar foto en bevat een biometrische chip met vingerafdrukken die volgens haar overeenkomen met de vingerafdrukken die door de Vreemdelingenpolitie zijn afgenomen bij aankomst van [naam], zoals zij zich toen noemde, in Nederland.</para>
+    <para />
+    <para>4.2. De rechtbank is het college ten onrechte gevolgd in zijn standpunt dat de identiteitskaart geen nieuw gebleken feit of veranderde omstandigheid is, reeds omdat niet zou zijn gebleken dat [appellante] die kaart niet ook al in de vorige procedure over had kunnen leggen. Weliswaar heeft [appellante] zelf verklaard dat het sinds 2010 mogelijk was die identiteitskaart aan te vragen, maar in de bestuurlijke fase en in rechte is onduidelijk gebleven vanaf wanneer in 2010 die mogelijkheid bestond. Omdat het tweede verzoek van [appellante] pas bij besluit van 3 mei 2010 is afgewezen, betoogt [appellante] terecht dat het college ten onrechte als vaststaand heeft aangenomen dat zij die identiteitskaart mede aan haar tweede verzoek ten grondslag had kunnen leggen. Gezien de overigens door [appellante] overgelegde stukken en het grote belang dat wordt gehecht aan juiste vermelding van persoonsgegevens in de BRP, had het op de weg van het college gelegen hier nader onderzoek naar te doen, alvorens het verzoek af te wijzen wegens het ontbreken van nieuw gebleken feiten of veranderde omstandigheden. Door dit na te laten heeft het college het besluit niet met de vereiste zorgvuldigheid voorbereid en is het besluit in strijd met artikel 3:2 van Awb genomen. Het college heeft het verzoek daarom ten onrechte op de in het besluit gebruikte motivering afgewezen wegens het ontbreken van nieuw gebleken feiten of veranderde omstandigheden.</para>
+    <para />
+    <para>5. Het hoger beroep is gegrond. De aangevallen uitspraak dient te worden vernietigd. Wat overigens door [appellante] in hoger beroep is aangevoerd, behoeft geen bespreking. Doende wat de rechtbank zou behoren te doen, zal de Afdeling het bij de rechtbank ingestelde beroep gegrond verklaren en het besluit van 25 juni 2013 vernietigen.</para>
+    <para />
+    <para>6. Het college moet een nieuw besluit nemen op het bezwaar van [appellante] met inachtneming van wat in deze uitspraak is overwogen. Met het oog op een efficiënte afdoening van het geschil ziet de Afdeling aanleiding om met toepassing van artikel 8:113, tweede lid, van de Awb te bepalen dat tegen het door het college te nemen nieuwe besluit op bezwaar slechts bij haar beroep kan worden ingesteld.</para>
+    <para />
+    <para>7. Het college dient op na te melden wijze in de proceskosten worden veroordeeld.</para>
+    <para />
+    <para>Beslissing</para>
+    <para />
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para />
+    <para>I. verklaart het hoger beroep gegrond;</para>
+    <para />
+    <para>II. vernietigt de uitspraak van de rechtbank Limburg van 11 februari 2015 in zaak nr. 13/2418;</para>
+    <para />
+    <para>III. vernietigt het besluit van het college van burgemeester en wethouders van Vaals van 25 juni 2013, kenmerk jva13001558;</para>
+    <para />
+    <para>IV. bepaalt dat tegen het door het college van burgemeester en wethouders van Vaals te nemen nieuwe besluit op het bezwaar van [appellante] alias [appellante] slechts bij de Afdeling beroep kan worden ingesteld;</para>
+    <para />
+    <para>V. veroordeelt het college van burgemeester en wethouders van Vaals tot vergoeding van bij [appellante] alias [appellante] in verband met de behandeling van het beroep en het hoger beroep opgekomen proceskosten tot een bedrag van € 1.984,00 (zegge: negentienhonderdvierentachtig euro), geheel toe te rekenen aan door een derde beroepsmatig verleende rechtsbijstand;</para>
+    <para />
+    <para>VI. gelast dat het college van burgemeester en wethouders van Vaals aan [appellante] alias [appellante] het door haar betaalde griffierecht ten bedrage van € 408,00 (zegge: vierhonderdacht euro) voor de behandeling van het beroep en het hoger beroep vergoedt.</para>
+    <para />
+    <para>Aldus vastgesteld door mr. P.B.M.J. van der Beek-Gillessen, voorzitter, en mr. D.J.C. van den Broek en mr. C.M. Wissels, leden, in tegenwoordigheid van mr. J.J. Reuveny, griffier.</para>
+    <para />
+    <para>w.g. Van der Beek-Gillessen w.g. Reuveny</para>
+    <para>voorzitter griffier</para>
+    <para />
+    <para>Uitgesproken in het openbaar op 23 november 2016</para>
+    <para />
+    <para>622-805.</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>

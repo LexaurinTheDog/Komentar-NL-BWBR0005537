@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2026:3492</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-07-24T10:00:42</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-06-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2026-06-17</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">202304655/2/A3</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#tussenuitspraakBestuurlijkeLus">Tussenuitspraak bestuurlijke lus</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2026/1265</rdf:li>
+          <rdf:li>JB 2026/139 met annotatie van mr. J.H. Roelfsema</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2026:3492">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2026:3492</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-06-17T10:17:00</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-06-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2026:3492 Raad van State , 17-06-2026 / 202304655/2/A3</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2026:3492:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluit van 15 september 2021 heeft de burgemeester van Roermond het verzoek van [appellant] om herziening van het besluit van sluiting van zijn woning op grond van de Opiumwet afgewezen. De burgemeester heeft bij besluit van 12 september 2019 de woning die [appellant] huurde gesloten voor de duur van een maand op grond van artikel 13b, eerste lid, van de Opiumwet. Aan dit besluit ligt een bestuurlijke rapportage van 25 augustus 2019 ten grondslag. Daarin staat dat in de woning voorwerpen zijn aangetroffen die duiden op de voorbereiding van een hennepkwekerij. [appellant] heeft tegen het besluit van 12 september 2019 geen bezwaar gemaakt en ook geen beroep ingesteld, waardoor het onherroepelijk is geworden. [appellant] mocht van de verhuurder nadat de sluiting voorbij was, niet terug naar de woning. Op 4 juni 2021 heeft [appellant] een verzoek om herziening ingediend. In dat kader heeft [appellant] naar voren gebracht dat het Openbaar Ministerie op 31 maart 2020 bekend heeft gemaakt hem niet te vervolgen voor de overtreding van artikel 11a van de Opiumwet. De burgemeester heeft dit herzieningsverzoek afgewezen omdat volgens hem geen nieuwe feiten en omstandigheden naar voren zijn gebracht.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2026:3492:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>202304655/2/A3.</para>
+    <para>Datum uitspraak: 17 juni 2026</para>
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para>Tussenuitspraak met toepassing van artikel 8:51d van de Algemene wet bestuursrecht (hierna: Awb) op het hoger beroep van:</para>
+    <para>[appellant], zonder vaste woon- of verblijfplaats,</para>
+    <para>appellant,</para>
+    <para>tegen de uitspraak van de rechtbank Limburg van 3 juli 2023 in zaak nr. 22/91 in het geding tussen:</para>
+    <para>[appellant]</para>
+    <para>en</para>
+    <para>de burgemeester van Roermond</para>
+    <para>Procesverloop</para>
+    <para>Bij besluit van 15 september 2021 heeft de burgemeester het verzoek van [appellant] om herziening van het besluit van sluiting van zijn woning op grond van de Opiumwet afgewezen.</para>
+    <para>Bij besluit van 23 december 2021 heeft de burgemeester het door [appellant] daartegen gemaakte bezwaar ongegrond verklaard.</para>
+    <para>Bij uitspraak van 3 juli 2023 heeft de rechtbank het door [appellant] daartegen ingestelde beroep ongegrond verklaard.</para>
+    <para>Tegen deze uitspraak heeft [appellant] hoger beroep ingesteld.</para>
+    <para>Bij tussenuitspraak van 29 januari 2025 (ECLI:NL:RVS:2025:330; hierna: de tussenuitspraak) heeft de Afdeling de burgemeester opgedragen om binnen 12 weken na verzending van de tussenuitspraak het daarin omschreven gebrek in het besluit van 23 december 2021 te herstellen door alsnog onderzoek te doen naar de gevolgen van de sluiting van de woning voor [appellant] en te bezien of het besluit van 15 september 2021 in het licht van de uitkomsten van dit onderzoek al dan niet in stand kan blijven en hieraan een toereikende motivering ten grondslag te leggen.</para>
+    <para>Bij brief van 22 april 2025 heeft de burgemeester het besluit van 23 december 2021 voorzien van een nadere motivering.</para>
+    <para>[appellant] heeft zijn zienswijze daarop naar voren gebracht.</para>
+    <para>[appellant] heeft een nader stuk ingediend.</para>
+    <para>De burgemeester heeft bij brief van 4 september 2025 gebruikt gemaakt van de geboden gelegenheid te repliceren.</para>
+    <para>[appellant] heeft bij brief van 12 september 2025 gebruik gemaakt van de geboden gelegenheid te dupliceren.</para>
+    <para>De Afdeling heeft de zaak op een nadere zitting behandeld op 16 december 2025, waar [appellant], bijgestaan door mr. M.M.J.P. Penners, advocaat in Sittard, en de burgemeester, vertegenwoordigd door mr. S. Vissers en H.J.M. van Mensvoort, zijn verschenen.</para>
+    <para>Overwegingen</para>
+    <para>Inleiding</para>
+    <para>1. De burgemeester heeft bij besluit van 12 september 2019 de woning die [appellant] huurde gesloten voor de duur van een maand op grond van artikel 13b, eerste lid, van de Opiumwet. Aan dit besluit ligt een bestuurlijke rapportage van 25 augustus 2019 ten grondslag. Daarin staat dat in de woning voorwerpen zijn aangetroffen die duiden op de voorbereiding van een hennepkwekerij. [appellant] heeft tegen het besluit van 12 september 2019 geen bezwaar gemaakt en ook geen beroep ingesteld, waardoor het onherroepelijk is geworden. [appellant] mocht van de verhuurder nadat de sluiting voorbij was, niet terug naar de woning.</para>
+    <para>2. Op 4 juni 2021 heeft [appellant] een verzoek om herziening ingediend. In dat kader heeft [appellant] naar voren gebracht dat het Openbaar Ministerie op 31 maart 2020 bekend heeft gemaakt hem niet te vervolgen voor de overtreding van artikel 11a van de Opiumwet. De burgemeester heeft dit herzieningsverzoek afgewezen omdat volgens hem geen nieuwe feiten en omstandigheden naar voren zijn gebracht.</para>
+    <para>De tussenuitspraak</para>
+    <para>3. De Afdeling heeft in de tussenuitspraak geoordeeld dat de burgemeester in zijn reactie op het herzieningsverzoek van [appellant] niet is ingegaan op de persoonlijke omstandigheden die door [appellant] naar voren zijn gebracht. Als gevolg van de woningsluiting is hij dakloos geworden en is hij zijn inboedel kwijtgeraakt. Verder is de omgangsregeling met zijn zoon beëindigd, is de door hem aangevraagde exploitatievergunning om een horecabedrijf uit te baten geweigerd en heeft hij te kampen met PTSS als gevolg van onder andere de woningsluiting. Omdat uit de besluitvorming niet blijkt dat de burgemeester deze omstandigheden heeft meegewogen, is de afwijzing van het herzieningsverzoek onvoldoende gemotiveerd. De Afdeling heeft de burgemeester in de tussenuitspraak opgedragen om dit gebrek te herstellen door alsnog onderzoek te doen naar de gevolgen van de sluiting van de woning voor [appellant] en te bezien of het besluit van 15 september 2021 in het licht van de uitkomsten van dit onderzoek al dan niet in stand kan blijven en hieraan een toereikende motivering ten grondslag te leggen.</para>
+    <para>Toetsingskader</para>
+    <para>4. Zoals de Afdeling eerder heeft overwogen (zie de uitspraak van de Afdeling van 21 februari 2018, ECLI:NL:RVS:2018:580) geldt wanneer om herziening van een besluit wordt verzocht dat een bestuursorgaan in het algemeen bevoegd is om dat verzoek inhoudelijk te behandelen en daarbij het oorspronkelijke besluit in volle omvang te heroverwegen. Het bestuursorgaan kan zo'n aanvraag inwilligen of afwijzen. Een bestuursorgaan mag dit ook als de rechtzoekende aan zijn verzoek geen nieuw gebleken feiten of veranderde omstandigheden ten grondslag heeft gelegd.</para>
+    <para>4.1. Het bestuursorgaan kan er ingevolge artikel 4:6, tweede lid, van de Awb ook nog steeds voor kiezen om, als er volgens hem geen nieuw gebleken feiten of veranderde omstandigheden zijn, het verzoek om terug te komen van een besluit af te wijzen onder verwijzing naar zijn eerdere afwijzende besluit. Als het bestuursorgaan - overeenkomstige - toepassing geeft aan artikel 4:6, tweede lid, van de Awb, dan toetst de bestuursrechter aan de hand van de aangevoerde beroepsgronden en eventueel door het bestuursorgaan gevoerd beleid, of het bestuursorgaan zich terecht, en zorgvuldig voorbereid en deugdelijk gemotiveerd op het standpunt heeft gesteld dat er geen nieuw gebleken feiten of veranderde omstandigheden zijn.</para>
+    <para>4.2. Onder nieuw gebleken feiten of veranderde omstandigheden moeten worden begrepen feiten of omstandigheden die na het eerdere besluit zijn voorgevallen of feiten of omstandigheden die weliswaar vóór het eerdere besluit zijn voorgevallen, maar niet vóór dat besluit konden worden aangevoerd. Nieuw gebleken feiten zijn ook bewijsstukken van al eerder gestelde feiten of omstandigheden, als deze niet vóór het nemen van het eerdere besluit konden worden overgelegd (zie onder meer de uitspraak van de Afdeling van 26 april 2022, ECLI:NL:RVS:2022:1219).</para>
+    <para>4.3. Als de bestuursrechter tot het oordeel komt dat het bestuursorgaan zich terecht op het standpunt heeft gesteld dat er geen nieuw gebleken feiten of veranderde omstandigheden zijn, dan kan dat de afwijzing van het verzoek om terug te komen van een besluit in beginsel dragen. De bestuursrechter kan aan de hand van wat de rechtzoekende heeft aangevoerd evenwel tot het oordeel komen dat het besluit op het verzoek om terug te komen van een besluit evident onredelijk is.</para>
+    <para>Beoordeling van de aanvullende motivering van de burgemeester</para>
+    <para>4.4. Bij brief van 22 april 2025 heeft de burgemeester uitvoering gegeven aan de door de Afdeling in de tussenuitspraak gegeven opdracht om het besluit waarbij hij het herzieningsverzoek van [appellant] heeft afgewezen van een nadere motivering te voorzien. Daarbij heeft de burgemeester de omstandigheden die door [appellant] zijn aangevoerd betrokken. De burgemeester stelt zich samengevat op het standpunt dat deze omstandigheden niet kunnen worden aangemerkt als nieuwe feiten en omstandigheden zoals bedoeld in artikel 4:6 van de Awb. De persoonlijke omstandigheden die [appellant] in hoger beroep naar voren heeft gebracht, zijn volgens de burgemeester niet onderbouwd. Bovendien zouden deze omstandigheden niet geleid hebben tot een andere beslissing ten aanzien van de woningsluiting, aldus de burgemeester. In het besluit om de woning te sluiten zijn volgens hem alle feiten en omstandigheden betrokken en afgewogen. De ontbinding van de huurovereenkomst hoefde de burgemeester echter niet expliciet te onderzoeken, omdat dit pas is vereist sinds de reikwijdte van het evenredigheidsbeginsel is uitgewerkt in de uitspraak van de Afdeling van 2 februari 2022, ECLI:NL:RVS:2022:285. De burgemeester komt tot de conclusie dat de afwijzing van het herzieningsverzoek niet evident onredelijk is.</para>
+    <para>4.5. [appellant] stelt dat de burgemeester zijn persoonlijke omstandigheden ten onrechte geheel niet heeft meegewogen in het besluit om de woning te sluiten. Daarnaast wijst [appellant] op de gevolgen die zijn ingetreden na de woningsluiting, die tot op heden voortduren. [appellant] geeft aan dat naar aanleiding van de woningsluiting een gerechtelijke procedure over de omgangsregeling met zijn zoon heeft plaatsgevonden, zijn huurovereenkomst is ontbonden, hij op de zwarte lijst is geplaatst, hij nog steeds geen woning heeft en dat hij is gediagnosticeerd met PTSS. Volgens [appellant] blijkt uit deze omstandigheden dat het besluit om de woning te sluiten evident onredelijk is.</para>
+    <para>- Is sprake van nieuwe feiten of omstandigheden?</para>
+    <para>4.6. De Afdeling stelt voorop dat de rechtbank terecht heeft overwogen dat de burgemeester zich terecht op het standpunt heeft gesteld dat wat [appellant] naar voren heeft gebracht, niet kan worden aangemerkt als een nieuw feit of een nieuwe omstandigheid. Daarbij heeft de rechtbank allereerst terecht overwogen dat een sepot niet als een nieuw gebleken feit of veranderde omstandigheid kan worden aangemerkt (zie de uitspraak van de Afdeling van 13 mei 2015, ECLI:NL:RVS:2015:1503). De omgangsregeling met zijn zoon en het niet hebben van een vaste woon- of verblijfplaats zijn al in de zienswijze op de woningsluiting door [appellant] naar voren gebracht. Als [appellant] zijn inboedel is verloren of dat de inboedel beschadigd is geraakt, zoals hij stelt, is niet gebleken dat dit enig verband houdt met de woningsluiting. Weliswaar is de ontbinding van de huurovereenkomst na de sluiting van 12 september 2019 vastgesteld, namelijk bij vonnis van 6 november 2019, maar [appellant] heeft het vonnis pas na de tussenuitspraak overgelegd. De Afdeling is van oordeel dat [appellant] het vonnis eerder had kunnen en behoren over te leggen (vergelijk de uitspraak van de Afdeling van 27 december 2018, ECLI:NL:RVS:2018:4250).</para>
+    <para>4.7. Het betoog slaagt niet.</para>
+    <para>- Is de afwijzing van het verzoek om herziening evident onredelijk?</para>
+    <para>4.8. Zoals volgt uit het hierboven weergegeven toetsingskader kan als de bestuursrechter tot het oordeel komt dat het bestuursorgaan zich terecht op het standpunt heeft gesteld dat er geen nieuw gebleken feiten of veranderde omstandigheden zijn, dat de afwijzing van de aanvraag of het verzoek om terug te komen van een besluit in beginsel dragen. De bestuursrechter kan aan de hand van wat de rechtzoekende heeft aangevoerd evenwel tot het oordeel komen dat het besluit op de herhaalde aanvraag of het verzoek om terug te komen van een besluit evident onredelijk is.</para>
+    <para>4.9. Zoals de Afdeling eerder heeft overwogen (zie de uitspraak van 18 februari 2026, ECLI:NL:RVS:2026:925) moet de bestuursrechter om te beoordelen of de weigering om een oorspronkelijk besluit te herzien evident onredelijk is, kijken naar de feiten en omstandigheden van het geval. De omstandigheid dat een oorspronkelijk besluit onmiskenbaar onjuist is, kan de bestuursrechter betrekken bij die beoordeling. Alleen in uitzonderlijke gevallen zal de weigering evident onredelijk zijn.</para>
+    <para>4.10. De Afdeling stelt vast dat de burgemeester in het besluit van 23 december 2021 en de nadere motivering van 22 april 2025 niet de omstandigheid of het oorspronkelijk besluit van 12 september 2019 onmiskenbaar onjuist is, heeft betrokken in de beoordeling van de vraag of de afwijzing van het verzoek om herziening evident onredelijk is. Hierdoor is sprake van een motiveringsgebrek. Of de afwijzing van het herzieningsverzoek evident onredelijk is, kan de Afdeling daarom op dit moment niet beoordelen. De Afdeling zal de burgemeester in de gelegenheid stellen om alsnog te beoordelen of de afwijzing van het verzoek om herziening evident onredelijk is doordat het besluit van 12 september 2019 onmiskenbaar onjuist is. De burgemeester moet deze beoordeling van een dragende motivering voorzien.</para>
+    <para>Conclusie</para>
+    <para>5. Gelet op wat onder 4.10 is overwogen, zijn het besluit van 21 december 2023 en de aanvullende motivering van 22 april 2025 in strijd met artikel 7:12, eerste lid, van de Awb.</para>
+    <para>6. Met het oog op een spoedige beslechting van het geschil ziet de Afdeling aanleiding om toepassing te geven aan artikel 8:51d van de Awb. De Afdeling draagt de burgemeester op om binnen zes weken na verzending van deze tussenuitspraak, met inachtneming van wat in deze tussenuitspraak is overwogen, alsnog te motiveren of de weigering om een oorspronkelijk besluit te herzien evident onredelijk is. Daarbij moet de burgemeester de feiten en omstandigheden van het geval betrekken en beoordelen of het oorspronkelijk besluit onmiskenbaar onjuist is. Als de burgemeester een gewijzigd of nieuw besluit neemt, dan moet hij dat besluit op de wettelijk voorgeschreven wijze bekendmaken en aan de Afdeling meedelen.</para>
+    <para>7. In de einduitspraak wordt beslist over de proceskosten en de vergoeding van het betaalde griffierecht.</para>
+    <para>Beslissing</para>
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para>draagt de burgemeester van Roermond op om binnen zes weken na verzending van deze uitspraak, het besluit van 21 december 2023 en de nadere motivering van 22 april 2025 met kenmerk 81576 -2023 te herstellen of in plaats daarvan een gewijzigd of nieuw besluit te nemen, de uitkomst aan de Afdeling mee te delen en een eventueel gewijzigd of nieuw besluit op de wettelijk voorgeschreven wijze bekend te maken.</para>
+    <para>Aldus vastgesteld door mr. J.C.A. de Poorter, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. W. Dijkshoorn, griffier.</para>
+    <para>w.g. De Poorter</para>
+    <para>lid van de enkelvoudige kamer</para>
+    <para>w.g. Dijkshoorn</para>
+    <para>griffier</para>
+    <para>Uitgesproken in het openbaar op 17 juni 2026</para>
+    <para>735-973</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>

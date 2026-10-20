@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2016:3131",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2016:3131",
+    "content_type": "application/xml",
+    "path": "sources/review-005/case-2016-3131.xml",
+    "accessed_at": "2026-10-20T14:34:14.187463+00:00",
+    "sha256": "d19e0008cafffe8e5d6186add109ff31d55c78a70934d888d09d2379012c651f",
+    "bytes": 24238,
+    "accepted_format": true,
+    "xml_root": "open-rechtspraak"
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2014:4682",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2014:4682",
+    "content_type": "application/xml",
+    "path": "sources/review-005/case-2014-4682.xml",
+    "accessed_at": "2026-10-20T14:34:14.372575+00:00",
+    "sha256": "236023ff158b059c5e5ff8077202245c24139bd064408a90e133834257778fe4",
+    "bytes": 23627,
+    "accepted_format": true,
+    "xml_root": "open-rechtspraak"
+  }
+]

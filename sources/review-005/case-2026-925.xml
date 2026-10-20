@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2026:925</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-06-23T08:27:19</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-02-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2026-02-18</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">202405598/1/V6</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>Sdu Nieuws Bestuursrecht 2026/38</rdf:li>
+          <rdf:li>JV 2026/128 met annotatie van mr. M. Zweers</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2026:925">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2026:925</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-02-18T10:16:55</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-02-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2026:925 Raad van State , 18-02-2026 / 202405598/1/V6</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2026:925:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluit van 6 februari 2023 heeft de minister van Sociale Zaken en Werkgelegenheid het verzoek van [appellant] om terug te komen van het besluit van 24 december 2019, waarin de minister [appellant] een boete heeft opgelegd en bepaald heeft dat zij de lening die zij heeft afgesloten, moet terugbetalen, afgewezen. Bij brief van 26 februari 2016 heeft de staatssecretaris [appellant] laten weten dat zij inburgeringsplichtig is. Haar inburgeringstermijn is op 1 maart 2016 gestart en zij moest, nadat de staatssecretaris deze termijn had verlengd, voor 26 oktober 2019 aan haar inburgeringsplicht voldoen. Dit is niet gebeurd. Omdat [appellant] niet op tijd was ingeburgerd, heeft de staatssecretaris haar in het besluit van 24 december 2019 een boete opgelegd van € 1.250,00 en bepaald dat zij de lening die zij had afgesloten, volledig moet terugbetalen. [appellant] heeft geen bezwaar gemaakt tegen dit besluit. De rechtbank heeft overwogen dat de staatssecretaris zich terecht op het standpunt heeft gesteld dat er geen nieuw gebleken feiten of veranderde omstandigheden zijn die maken dat de staatssecretaris moet terugkomen van het besluit van 24 december 2019.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2026:925:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>202405598/1/V6.</para>
+    <para>Datum uitspraak: 18 februari 2026</para>
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para>Uitspraak op het hoger beroep van:</para>
+    <para>[appellant], wonend in [woonplaats],</para>
+    <para>appellant,</para>
+    <para>tegen de uitspraak van de rechtbank Gelderland van 24 juli 2024 in zaak nr. 23/7938 in het geding tussen:</para>
+    <para>[appellant]</para>
+    <para>en</para>
+    <para>de staatssecretaris van Participatie en Integratie.</para>
+    <para>Procesverloop</para>
+    <para>Bij besluit van 6 februari 2023 heeft de minister van Sociale Zaken en Werkgelegenheid het verzoek van [appellant] om terug te komen van het besluit van 24 december 2019, waarin de minister [appellant] een boete heeft opgelegd en bepaald heeft dat zij de lening die zij heeft afgesloten, moet terugbetalen, afgewezen.</para>
+    <para>Bij besluit van 7 november 2023 heeft de minister het door [appellant] daartegen gemaakte bezwaar ongegrond verklaard.</para>
+    <para>Bij uitspraak van 24 juli 2024 heeft de rechtbank het door [appellant] daartegen ingestelde beroep ongegrond verklaard.</para>
+    <para>Tegen deze uitspraak heeft [appellant] hoger beroep ingesteld.</para>
+    <para>De staatssecretaris en [appellant] hebben op verzoek van de Afdeling nadere stukken ingediend.</para>
+    <para>De Afdeling heeft de zaak ter zitting behandeld op 23 september 2025, waar [appellant], vertegenwoordigd door mr. B.G. Smouter, advocaat in Arnhem, en de staatssecretaris, vertegenwoordigd door mr. F. Hummel-Fekkes, vergezeld door A.V. van Drimmelen, zijn verschenen.</para>
+    <para>Overwegingen</para>
+    <para>Inleiding</para>
+    <para>1.       Bij brief van 26 februari 2016 heeft de staatssecretaris [appellant] laten weten dat zij inburgeringsplichtig is. Haar inburgeringstermijn is op 1 maart 2016 gestart en zij moest, nadat de staatssecretaris deze termijn had verlengd, voor 26 oktober 2019 aan haar inburgeringsplicht voldoen. Dit is niet gebeurd. Omdat [appellant] niet op tijd was ingeburgerd, heeft de staatssecretaris haar in het besluit van 24 december 2019 een boete opgelegd van € 1.250,00 en bepaald dat zij de lening die zij had afgesloten, volledig moet terugbetalen. [appellant] heeft geen bezwaar gemaakt tegen dit besluit.</para>
+    <para>2.       Tussen partijen staat vast dat [appellant] niet op tijd aan haar inburgeringsplicht heeft voldaan. In deze zaak gaat het om de vraag of de staatssecretaris het besluit van 24 december 2019, dat in rechte vaststaat, moet herzien.</para>
+    <para>3.       Het wettelijk kader is opgenomen in de bijlage, die deel uitmaakt van deze uitspraak. Op dit geding is de Wet inburgering (Wi) van toepassing zoals die wet luidde tot 1 januari 2022.</para>
+    <para>Oordeel van de rechtbank</para>
+    <para>4.       De rechtbank heeft overwogen dat de staatssecretaris zich terecht op het standpunt heeft gesteld dat er geen nieuw gebleken feiten of veranderde omstandigheden zijn die maken dat de staatssecretaris moet terugkomen van het besluit van 24 december 2019. De weigering om het besluit te herzien is daarnaast niet evident onredelijk of in strijd met het evenredigheidsbeginsel.</para>
+    <para>Betoog [appellant] en volgorde van bespreking daarvan</para>
+    <para>5.       [appellant] betoogt dat de staatssecretaris haar niet kan verplichten de lening terug te betalen. In het besluit van 24 december 2019 heeft de staatssecretaris besloten dat zij de lening die zij heeft afgesloten om de kosten van de inburgeringslessen en -examens te bekostigen, moet terugbetalen. De staatssecretaris heeft haar echter nog geen concrete terugbetalingsverplichting opgelegd. Bij de vraag of de staatssecretaris deze terugbetalingsverplichting op kan leggen, is de uitspraak van de Afdeling van 9 juli 2025, ECLI:NL:RVS:2025:3087, volgens haar relevant.</para>
+    <para>5.1.    Daarnaast betoogt [appellant] dat er, anders dan de rechtbank heeft overwogen, wel degelijk nieuw gebleken feiten en veranderde omstandigheden zijn die maken dat de staatssecretaris het besluit van 24 december 2019 moet herzien. Het gaat haar daarbij zowel om de terugbetalingsverplichting van de lening als om de boete. Ook betoogt zij dat de rechtbank ten onrechte geen aanleiding heeft gezien voor het oordeel dat de weigering het besluit van 24 december 2019 te herzien, evident onredelijk is. Dit besluit is volgens haar onmiskenbaar onjuist, omdat het in strijd is met de Kwalificatierichtlijn. Zij wijst daarbij op het arrest van het Hof van Justitie van 4 februari 2025, Keren, ECLI:EU:C:2025:52, en de hiervoor genoemde uitspraak van de Afdeling van 9 juli 2025.</para>
+    <para>6.       De Afdeling zal eerst ingaan op het gedeelte van het besluit van 24 december 2019 waarin de staatssecretaris heeft bepaald dat [appellant] de lening volledig moet terugbetalen. Daarna, onder 8, zal de Afdeling ingaan op het gedeelte van het besluit waarin de staatssecretaris [appellant] een boete heeft opgelegd.</para>
+    <para>Terugbetalingsverplichting lening</para>
+    <para>7.       Zoals [appellant] terecht naar voren brengt, heeft de staatssecretaris in het besluit van 24 december 2019 alleen bepaald dat [appellant] de lening die zij had afgesloten, volledig moet terugbetalen. De staatssecretaris heeft geen besluit genomen waarin hij heeft vastgesteld hoe hoog de uiteindelijke schuld precies is en de termijn waarbinnen de betaling daarvan moet plaatsvinden. Zoals uit de uitspraak van de Afdeling van 14 oktober 2020, ECLI:NL:RVS:2020:2401, onder 4.2, volgt, ontstaat pas na dit laatste besluit de verplichting om de schuld terug te betalen.</para>
+    <para>7.1.    Uit het arrest Keren volgt dat het Nederlandse systeem waarbij asielstatushouders al dan niet via een lening zelf de volledige kosten van inburgeringscursussen en -examens dragen, in strijd is met artikel 34 van de Kwalificatierichtlijn. Omdat de verplichte integratiemaatregelen voor asielstatushouders kosteloos moeten zijn, is het dus in strijd met het Unierecht dat asielstatushouders de overheidslening moeten terugbetalen. De Afdeling is in de uitspraak van 9 juli 2025, onder 10.5, daarom tot het oordeel gekomen dat artikel 16, vierde lid, van de Wi onverbindend is, voor zover het gaat over asielstatushouders. [appellant] is een asielstatushouder. In artikel 16, vierde lid, van de Wi is de terugbetalingsverplichting van de lening geregeld. Omdat die bepaling onverbindend is, kan de staatssecretaris geen besluit nemen waarin hij de hoogte van de schuld van [appellant] en de termijn waarbinnen zij moet betalen, vaststelt. De staatssecretaris heeft dit op de zitting bij de Afdeling ook erkend. Dit betekent dat er geen verplichting voor [appellant] bestaat om de lening terug te betalen. De vraag is vervolgens of het besluit van 24 december 2019, waarin staat dat [appellant] de lening volledig moet terugbetalen, in stand kan blijven.</para>
+    <para>7.2.    De staatssecretaris heeft het verzoek om herziening afgewezen onder verwijzing naar het besluit van 24 december 2019. De staatssecretaris heeft daarmee overeenkomstige toepassing gegeven aan artikel 4:6, tweede lid, van de Algemene wet bestuursrecht (Awb).</para>
+    <para>7.3.    Als naar het oordeel van de bestuursrechter het bestuursorgaan terecht meent dat er geen nieuw gebleken feiten of veranderde omstandigheden zijn, dan kan dat de afwijzing van de aanvraag of het verzoek om terug te komen van een besluit in beginsel dragen. De bestuursrechter kan aan de hand van wat de rechtzoekende heeft aangevoerd dan wel tot het oordeel komen dat het besluit op de herhaalde aanvraag of het verzoek om terug te komen van een besluit evident onredelijk is. Uit vaste rechtspraak van de Afdeling volgt dat een uitspraak van een rechterlijke instantie geen nieuw gebleken feit of veranderde omstandigheid is als bedoeld in artikel 4:6 van de Awb. De Afdeling verwijst naar de uitspraak van 28 april 2021, ECLI:NL:RVS:2021:908, onder 2.1. De Afdeling laat hier echter in het midden of de staatssecretaris zich terecht op het standpunt heeft gesteld dat er geen nieuw gebleken feiten of veranderde omstandigheden zijn. De Afdeling is namelijk van oordeel dat het besluit om niet terug te komen van het gedeelte van het besluit van 24 december 2019 dat gaat over de lening evident onredelijk is. De Afdeling legt hierna uit hoe zij tot dit oordeel is gekomen.</para>
+    <para>7.4.    Om te beoordelen of de weigering om een oorspronkelijk besluit te herzien evident onredelijk is, moet de bestuursrechter kijken naar de feiten en omstandigheden van het geval. De omstandigheid dat een oorspronkelijk besluit onmiskenbaar onjuist is, kan de bestuursrechter betrekken bij die beoordeling. Alleen in uitzonderlijke gevallen zal de weigering evident onredelijk zijn.</para>
+    <para>7.5.    Uit het arrest Keren en de hiervoor genoemde uitspraak van de Afdeling van 9 juli 2025 volgt dat het gedeelte van het besluit van 24 december 2019 dat gaat over de terugbetalingsverplichting van de lening evident in strijd is met hoger recht, namelijk artikel 34 van de Kwalificatierichtlijn. Dat het daarbij niet gaat om primair Unierecht, zoals de staatssecretaris stelt, doet er niet aan af dat het zonder dieper dan oppervlakkig onderzoek al meteen duidelijk is dat het besluit van 24 december 2019 onverenigbaar is met hoger recht. De Afdeling komt daarom tot de conclusie dat het gedeelte van het besluit van 24 december 2019 dat gaat over de terugbetalingsverplichting van de lening onmiskenbaar onjuist is. Dat het arrest Keren nog niet bestond toen de staatssecretaris dit besluit nam, is geen reden om hier anders over te oordelen. Een arrest van het Hof over een verzoek om een prejudiciële beslissing geeft namelijk in beginsel het recht weer zoals dat steeds heeft gegolden.</para>
+    <para>7.6.    De staatssecretaris voert aan dat de rechtszekerheid zich ertegen verzet dat hij terugkomt van het besluit van 24 december 2019. De Afdeling overweegt dat het rechtszekerheidsbeginsel ertoe dient burgers te beschermen tegen willekeur van de kant van de overheid. De staatssecretaris kan dit beginsel daarom niet inroepen om zichzelf te beschermen. Wel is in het algemeen het voorkomen van rechtsonzekerheid een belang waaraan gewicht toekomt. Die rechtsonzekerheid kan ontstaan doordat een besluit ook na het verstrijken van de termijnen voor bezwaar en beroep niet onaantastbaar blijkt te zijn. Die onzekerheid is vooral onwenselijk wanneer er belangen van derden op het spel staan. Dat is hier niet het geval. Omdat het besluit van 24 december 2019 niet uitvoerbaar is, zoals hiervoor onder 7.1 aan de orde is gekomen, ziet de Afdeling niet in welk belang gediend wordt door dit onmiskenbaar onjuiste besluit in stand te houden. De terugbetalingsverplichting zou dan als het ware wel dreigend boven [appellant]s hoofd blijven hangen, terwijl de staatssecretaris die verplichting nooit zal kunnen verzilveren. Dat is een feitelijk en juridisch hoogst onwenselijke situatie. De Afdeling komt daarom, gelet op de omstandigheden, tot het oordeel dat de weigering van de staatssecretaris om terug te komen van het gedeelte van het besluit van 24 december 2019 dat gaat over de lening evident onredelijk is.</para>
+    <para>7.7.    De verwijzing van de staatssecretaris naar arresten van het Hof is geen reden hier anders over te oordelen. De staatssecretaris wijst erop dat het Hof waarde hecht aan de formele rechtskracht van een besluit en dat het Unierecht een nationaal bestuursorgaan alleen in bijzondere omstandigheden verplicht om een onherroepelijk geworden besluit opnieuw te onderzoeken. Zie de arresten van het Hof van 4 oktober 2012, ECLI:EU:C:2012:608, Byankov, punten 76-77, en 10 maart 2022, ECLI:EU:C:2022:175, Grossmania, punten 52-54. De Afdeling leidt uit de rechtspraak van het Hof echter niet af dat het Unierecht haar belet om tot het oordeel te komen dat het evident onredelijk is om vast te houden aan een onherroepelijk besluit, wanneer dit besluit in strijd is met een arrest van het Hof.</para>
+    <para>7.8.    Het betoog slaagt. Wat [appellant] verder heeft aangevoerd over de terugbetalingsverplichting van de lening behoeft geen bespreking.</para>
+    <para>Boete</para>
+    <para>8.       Wat de Afdeling hiervoor onder 7.2 en 7.3 heeft overwogen over de terugbetalingsverplichting van de lening, geldt ook voor het gedeelte van het besluit van 24 december 2019 dat gaat over de boete (het boetebesluit). Ook hier laat de Afdeling in het midden of de staatssecretaris zich terecht op het standpunt heeft gesteld dat er geen nieuw gebleken feiten of veranderde omstandigheden zijn, omdat de Afdeling van oordeel is dat het besluit om niet terug te komen van het boetebesluit, evident onredelijk is. Daarbij geldt specifiek voor het boetebesluit het volgende.</para>
+    <para>8.1.    In navolging van de grote kamer van de Centrale Raad van Beroep in de uitspraak van 19 juli 2023, ECLI:NL:CRVB:2023:1363, onder 4.4.2 en 4.4.3, komt de Afdeling tot de conclusie dat het hiervoor genoemde "evident-onredelijk" criterium ook geldt voor boetebesluiten. Ook komt de Afdeling tot de conclusie dat uit de aard van het voor de overeenkomstige toepassing van artikel 4:6, tweede lid, van de Awb geldende criterium voortvloeit dat een oppervlakkige inhoudelijke beoordeling of een summier onderzoek voldoende moet zijn om tot onmiskenbare onjuistheid van het oorspronkelijke boetebesluit te concluderen en daarmee tot evidente onredelijkheid van het vasthouden aan het oorspronkelijke boetebesluit. Het is aan de verzoeker om dit aannemelijk te maken.</para>
+    <para>8.2.    Net als de terugbetalingsverplichting (zie hierboven onder 7.5), is ook het boetebesluit onmiskenbaar onjuist. Het Hof heeft in het arrest Keren geoordeeld dat artikel 34 van de Kwalificatierichtlijn zich ertegen verzet dat het feit dat een inburgeringsexamen niet met succes is afgelegd, stelselmatig wordt bestraft met een geldboete. Het Hof overweegt daarbij dat een boete die stelselmatig wordt opgelegd en kan oplopen tot € 1.250,00 kennelijk onevenredig is aan het doel dat met de Nederlandse regeling wordt nagestreefd. De Afdeling is daarom in de uitspraak van 9 juli 2025, onder 10.1, tot het oordeel gekomen dat artikel 31, eerste lid, van de Wi onverbindend is. Op grond van dat artikel heeft de staatssecretaris [appellant] de boete opgelegd. Omdat het zonder dieper dan oppervlakkig onderzoek al meteen duidelijk is dat het boetebesluit onverenigbaar is met hoger recht, komt de Afdeling ook als het gaat over de boete tot de conclusie dat het besluit van 24 december 2019 onmiskenbaar onjuist is.</para>
+    <para>8.3.    Omdat het boetebesluit onmiskenbaar onjuist is, komt de Afdeling tot het oordeel dat de weigering van de staatssecretaris om terug te komen van dit besluit evident onredelijk is.</para>
+    <para>8.4.    Het betoog slaagt. Wat [appellant] verder heeft aangevoerd over de boete behoeft geen bespreking.</para>
+    <para>Conclusie</para>
+    <para>9.       Het hoger beroep is gegrond. De Afdeling vernietigt de uitspraak van de rechtbank. Het beroep is gegrond en de Afdeling vernietigt het besluit van 7 november 2023 wegens strijd met artikel 3:2 van de Awb. De Afdeling ziet aanleiding om met toepassing van artikelen 8:72, derde lid, aanhef en onder b, en 8:72a van de Awb zelf in de zaak te voorzien door het besluit van 6 februari 2023 te herroepen, het besluit van 24 december 2019 in te trekken en te bepalen dat deze uitspraak in de plaats treedt van het vernietigde besluit. Dit betekent dat de boete die de staatssecretaris [appellant] heeft opgelegd, vervalt en dat [appellant] niet verplicht is de lening die zij heeft afgesloten, terug te betalen. Wat dit betekent voor andere zaken waarin de staatssecretaris een asielstatushouder een boete heeft opgelegd en/of heeft bepaald dat de asielstatushouder de lening volledig moet terugbetalen, is in de eerste plaats aan de staatssecretaris of diens ambtsopvolger.</para>
+    <para>10.     De staatssecretaris moet de proceskosten vergoeden.</para>
+    <para>Beslissing</para>
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para>I.        verklaart het hoger beroep gegrond;</para>
+    <para>II.       vernietigt de uitspraak van de rechtbank Gelderland van 24 juli 2024 in zaak nr. 23/7938;</para>
+    <para>III.      verklaart het beroep gegrond;</para>
+    <para>IV.      vernietigt het besluit van 7 november 2023, I-RO201/004517817;</para>
+    <para>V.       herroept het besluit van 6 februari 2023, I-RO010/004508718;</para>
+    <para>VI.      trekt het besluit van 24 december 2019, [kenmerk], in;</para>
+    <para>VII.     bepaalt dat deze uitspraak in de plaats treedt van het vernietigde besluit;</para>
+    <para>VIII.    veroordeelt de staatssecretaris van Participatie en Integratie tot vergoeding van bij [appellant] in verband met de behandeling van het bezwaar, het beroep en het hoger beroep opgekomen proceskosten tot een bedrag van € 6.089,00, geheel toe te rekenen aan door een derde beroepsmatige verleende rechtsbijstand;</para>
+    <para>IX.      gelast dat de staatssecretaris van Participatie en Integratie aan [appellant] het door haar voor de behandeling van het beroep en het hoger beroep betaalde griffierecht ten bedrage van € 188,00 vergoedt.</para>
+    <para>Aldus vastgesteld door mr. J.C.A. de Poorter, voorzitter, en mr. D.A. Verburg en mr. M. den Heyer, leden, in tegenwoordigheid van mr. A.E. de Ruijter, griffier.</para>
+    <para>w.g. De Poorter</para>
+    <para>voorzitter</para>
+    <para>w.g. De Ruijter</para>
+    <para>griffier</para>
+    <para>Uitgesproken in het openbaar op 18 februari 2026</para>
+    <para>887</para>
+    <para> </para>
+    <para>BIJLAGE</para>
+    <para> </para>
+    <para>Kwalificatierichtlijn</para>
+    <para>Artikel 34 ("Toegang tot integratievoorzieningen")</para>
+    <para>Teneinde de integratie van personen die internationale bescherming genieten in de samenleving te vergemakkelijken, bieden de lidstaten toegang tot integratieprogramma's welke zij passend achten om rekening te houden met de specifieke behoeften van personen met de vluchtelingenstatus of de subsidiairebeschermingsstatus, of zorgen zij voor de omstandigheden waaronder de toegang tot dergelijke programma's gewaarborgd is.</para>
+    <para>Algemene wet bestuursrecht</para>
+    <para>Artikel 4:6</para>
+    <para>1. Indien na een geheel of gedeeltelijk afwijzende beschikking een nieuwe aanvraag wordt gedaan, is de aanvrager gehouden nieuw gebleken feiten of veranderde omstandigheden te vermelden.</para>
+    <para>2. Wanneer geen nieuw gebleken feiten of veranderde omstandigheden worden vermeld, kan het bestuursorgaan zonder toepassing te geven aan artikel 4:5 de aanvraag afwijzen onder verwijzing naar zijn eerdere afwijzende beschikking.</para>
+    <para>Wet inburgering (zoals deze wet gold ten tijde van de besluitvorming)</para>
+    <para>Artikel 16</para>
+    <para>[…]</para>
+    <para>4. De inburgeringsplichtige of gewezen inburgeringsplichtige betaalt de lening vermeerderd met de volgens bij of krachtens algemene maatregel van bestuur te stellen regels berekende rente terug.</para>
+    <para>[…]</para>
+    <para>Artikel 31</para>
+    <para>1. Onze Minister legt een bestuurlijke boete op aan de inburgeringsplichtige die de onderdelen van het inburgeringsexamen, bedoeld in artikel 7, tweede lid, onderdelen b en c, niet binnen de in artikel 7b, eerste lid, genoemde termijn, of de met toepassing van artikel 7b, derde lid, of van de krachtens artikel 8, eerste lid, aanhef en onderdeel a, gestelde regels verlengde termijn, heeft behaald.</para>
+    <para>[…]</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>
