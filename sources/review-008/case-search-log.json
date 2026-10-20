@@ -1,0 +1,74 @@
+{
+  "searched_at": "2026-10-20T15:07:46.389904+00:00",
+  "scope": "Selective research for exactly articles 4:52–4:71; no exhaustive case-law or subsequent-treatment claim.",
+  "web_queries": [
+    "site.raadvanstate.nl \"4:56\" \"ernstige vermoeden\"",
+    "site.raadvanstate.nl \"4:57\" \"evenredig\"",
+    "site.raadvanstate.nl \"4:71\" \"toestemming\""
+  ],
+  "local_queries": "sources/review-008/local-search-log.json",
+  "fully_read": [
+    {
+      "ecli": "ECLI:NL:RVS:2012:BY2522",
+      "supported_units": [
+        "art-4:56"
+      ],
+      "snapshot": "sources/review-008/case-2012-BY2522.xml"
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2025:6333",
+      "supported_units": [
+        "art-4:57"
+      ],
+      "snapshot": "sources/review-008/case-2025-6333.xml"
+    }
+  ],
+  "no_separate_verified_case_adopted_for": [
+    "art-4:52",
+    "art-4:53",
+    "art-4:54",
+    "art-4:55",
+    "art-4:58",
+    "art-4:59",
+    "art-4:60",
+    "art-4:61",
+    "art-4:62",
+    "art-4:63",
+    "art-4:64",
+    "art-4:65",
+    "art-4:66",
+    "art-4:67",
+    "art-4:68",
+    "art-4:69",
+    "art-4:70",
+    "art-4:71"
+  ],
+  "rejected_candidates": [
+    {
+      "ecli": "ECLI:NL:CBB:2011:BV0849",
+      "reading": "Full local decision read.",
+      "reason": "Articles 4:69 and 4:71 refer to Regeling LNV-subsidies, not the same numbered Awb provisions."
+    },
+    {
+      "ecli": "ECLI:NL:CBB:2014:374",
+      "reading": "Full local decision read.",
+      "reason": "Article 4:69 concerns Regeling LNV-subsidies; no authority for Awb administration duty."
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2016:159",
+      "reading": "Partial local text inspected, not fully read.",
+      "reason": "Advocate-General opinion on benefits, not adopted as a court holding."
+    },
+    {
+      "ecli": "ECLI:NL:CBB:2021:256",
+      "reading": "Partial local text inspected, not fully read.",
+      "reason": "Not needed for the bounded authority selected; not represented as fully verified."
+    }
+  ],
+  "limitations": [
+    "Firecrawl status returned zero remaining credits; direct official HTTP and web search used.",
+    "Search hits, legislative materials and third-party summaries alone were not adopted as authority.",
+    "Historical SOIT is context, not represented as an effective general subsidy scheme.",
+    "No sufficiently relevant verified case adopted for the other eighteen units; this does not mean no case exists."
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2012:BY2522",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2012:BY2522",
+    "content_type": "application/xml",
+    "path": "sources/review-008/case-2012-BY2522.xml",
+    "accessed_at": "2026-10-20T15:04:02.784879+00:00",
+    "sha256": "c5a9525c049b7ae609399e78d69950b445bea227cf503dec045b34aa61fe4f9c",
+    "bytes": 18153,
+    "accepted_format": true,
+    "xml_root": "open-rechtspraak"
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2025:6333",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2025:6333",
+    "content_type": "application/xml",
+    "path": "sources/review-008/case-2025-6333.xml",
+    "accessed_at": "2026-10-20T15:04:03.244704+00:00",
+    "sha256": "a0258ae0cd1e3f0a9ae560d9e1170f961de3ea3d02ff6f2b9532aa426f8623f4",
+    "bytes": 24686,
+    "accepted_format": true,
+    "xml_root": "open-rechtspraak"
+  }
+]

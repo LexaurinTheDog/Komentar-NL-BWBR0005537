@@ -1,0 +1,16 @@
+[
+  {
+    "ecli": "ECLI:NL:RVS:2012:BY2522",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2012-by2522.md",
+    "local_sha256": "deef6519d13745362cad621fecdf1a768e2d487cdb02537ee04028d3125b77de",
+    "official_path": "sources/review-008/case-2012-BY2522.xml",
+    "full_decision_identical_ignoring_whitespace": true
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2025:6333",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2025-6333.md",
+    "local_sha256": "c5571352f2996936c9282ce40ac804dfc4bef52f4770a8e774d0a1a682f2b232",
+    "official_path": "sources/review-008/case-2025-6333.xml",
+    "full_decision_identical_ignoring_whitespace": true
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "selected_version": "2026-08-15_0",
+  "previous_version": "2026-08-01",
+  "previous_xml_path": "sources/preflight/previous-official.xml",
+  "previous_xml_sha256": "04d8986ae1ad30cc84a00bfd91d1ca79a3ea6a0be48aeaf5bcb1fc5e606ebc66",
+  "historical_version_separately_parsed": true,
+  "changed_official_paths": [
+    "/Bijlage2",
+    "/Bijlage2/Divisie3/Artikel7",
+    "/Bijlage2/Divisie4/Artikel11"
+  ],
+  "assigned_units_changed_since_previous_version": [],
+  "separate_conditional_variants": [
+    {
+      "id": "art-8:36c--digitaal",
+      "official_lid_paths": [
+        "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid1_1",
+        "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid2_1",
+        "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid3_1",
+        "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid4_1"
+      ],
+      "disposition": "Conditional series preserved separately, not a historical version concatenation."
+    },
+    {
+      "id": "art-8:36c--overig",
+      "official_lid_paths": [
+        "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid1_2",
+        "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid2_2",
+        "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid3_2",
+        "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid4_2"
+      ],
+      "disposition": "Conditional series preserved separately, not a historical version concatenation."
+    }
+  ],
+  "historical_concatenation_detected": false
+}

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2012:BY2522</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-07-08T10:31:09</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-04-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:replaces rdfs:label="Vervangt">BY2522</dcterms:replaces>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2012-11-07</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">201200211/1/A2</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537">Algemene wet bestuursrecht</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=4:48">Algemene wet bestuursrecht 4:48</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=4:51">Algemene wet bestuursrecht 4:51</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=4:56">Algemene wet bestuursrecht 4:56</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>AB 2013/37 met annotatie van W. den Ouden</rdf:li>
+          <rdf:li>JB 2013/4 met annotatie van B. de Kam</rdf:li>
+          <rdf:li>JG 2013/11 met annotatie van B. de Kam</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2012:BY2522">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2012:BY2522</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2013-04-05T11:05:26</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2012-11-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2012:BY2522 Raad van State , 07-11-2012 / 201200211/1/A2</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2012:BY2522:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluit van 28 september 2010 heeft het college Cone Zuidhorn medegedeeld dat de subsidie ten behoeve van de exploitatie van zwembad De Waterborgh (hierna: de exploitatiesubsidie) met ingang van 1 januari 2013 wordt beëindigd.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RVS:2012:BY2522:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <parablock>
+      <para>201200211/1/A2.</para>
+      <para>Datum uitspraak: 7 november 2012</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>AFDELING</para>
+      <para>BESTUURSRECHTSPRAAK</para>
+    </parablock>
+    <para />
+    <para>Uitspraak op de hoger beroepen van:</para>
+    <para />
+    <parablock>
+      <para>1.    het college van burgemeester en wethouders van Zuidhorn, </para>
+      <para>2.    mr. D.Y. Li, kantoorhoudend te Groningen, in zijn hoedanigheid van curator in het faillissement van de besloten vennootschap met beperkte aansprakelijkheid Cone Zuidhorn B.V.,</para>
+      <para>appellanten,</para>
+    </parablock>
+    <para />
+    <para>tegen de uitspraak van de rechtbank Groningen van 23 november 2011 in zaken nrs. 11/520 en 11/784 in het geding tussen:</para>
+    <para />
+    <para>de curator</para>
+    <para />
+    <para>en</para>
+    <para />
+    <para>het college.</para>
+    <para />
+    <para>Procesverloop</para>
+    <para />
+    <para>Bij besluit van 28 september 2010 heeft het college Cone Zuidhorn medegedeeld dat de subsidie ten behoeve van de exploitatie van zwembad De Waterborgh (hierna: de exploitatiesubsidie) met ingang van 1 januari 2013 wordt beëindigd.</para>
+    <para />
+    <para>Bij besluit van 30 september 2010 heeft het college de bevoorschotting van de exploitatiesubsidie voor het vierde kwartaal van 2010 opgeschort.</para>
+    <para />
+    <para>Bij besluit van 26 november 2010 heeft het college de subsidie ingetrokken.</para>
+    <para />
+    <para>Bij besluit van 19 april 2011 heeft het college het door de curator tegen de besluiten van 28 en 30 september 2010 gemaakte bezwaren ongegrond verklaard.</para>
+    <para />
+    <para>Bij besluit van 9 juni 2011 heeft het college het door de curator tegen het besluit van 26 november 2010 gemaakte bezwaar ongegrond verklaard.</para>
+    <para />
+    <para>Bij uitspraak van 23 november 2011 heeft de rechtbank het door de curator tegen het besluit van 19 april 2011 ingestelde beroep ongegrond verklaard en het tegen het besluit van 9 juni 2011 ingestelde beroep gegrond verklaard, dit laatste besluit vernietigd en bepaald dat het college opnieuw dient te beslissen op het door de curator gemaakte bezwaar. Deze uitspraak is aangehecht.</para>
+    <para />
+    <para>Tegen deze uitspraak hebben het college en de curator hoger beroep ingesteld.</para>
+    <para />
+    <para>De curator en het college hebben een verweerschrift ingediend.</para>
+    <para />
+    <para>De Afdeling heeft de zaak ter zitting behandeld op 30 augustus 2012, waar het college, vertegenwoordigd door mr. S.G. Tichelaar, advocaat te Groningen, en W. Landman, en de curator, vertegenwoordigd door mr. J.G.L. van Nus, advocaat te Groningen, zijn verschenen.</para>
+    <para />
+    <para>Overwegingen</para>
+    <para />
+    <para>1.    Ingevolge artikel 4:48, eerste lid, van de Algemene wet bestuursrecht (hierna: de Awb) kan, zolang de subsidie niet is vastgesteld, het bestuursorgaan de subsidieverlening intrekken of ten nadele van de subsidie-ontvanger wijzigen, indien:</para>
+    <para />
+    <para>a. de activiteiten waarvoor subsidie is verleend niet of niet geheel hebben plaatsgevonden of zullen plaatsvinden;</para>
+    <para />
+    <para>b. de subsidie-ontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen;</para>
+    <para />
+    <para>[…].</para>
+    <para />
+    <para>Ingevolge het tweede lid werkt de intrekking of wijziging terug tot en met het tijdstip waarop de subsidie is verleend, tenzij bij de intrekking of wijziging anders is bepaald.</para>
+    <para />
+    <para>Ingevolge artikel 4:51 geschiedt, indien aan een subsidie-ontvanger voor drie of meer achtereenvolgende jaren subsidie is verstrekt voor dezelfde of in hoofdzaak dezelfde voortdurende activiteiten, gehele of gedeeltelijke weigering van de subsidie voor een daarop aansluitend tijdvak op de grond, dat veranderde omstandigheden of gewijzigde inzichten zich tegen voortzetting of ongewijzigde voortzetting van de subsidie verzetten, slechts met inachtneming van een redelijke termijn.</para>
+    <para />
+    <para>Ingevolge artikel 4:56 wordt de verplichting tot betaling van een subsidiebedrag of een voorschot opgeschort met ingang van de dag waarop het bestuursorgaan aan de subsidie-ontvanger schriftelijk kennis geeft van het ernstige vermoeden dat er grond bestaat om toepassing te geven aan artikel 4:48 of 4:49, tot en met de dag waarop de beschikking omtrent de intrekking of wijziging is bekendgemaakt of de dag waarop sedert de kennisgeving van het ernstige vermoeden dertien weken zijn verstreken.</para>
+    <para />
+    <para>2.    Het college heeft Cone Zuidhorn medegedeeld dat de exploitatiesubsidie met ingang van 1 januari 2013 wordt beëindigd, omdat de gemeenteraad een meerjarenbegroting heeft vastgesteld waaruit blijkt dat na 2012 geen gelden meer beschikbaar worden gesteld voor de exploitatie van het zwembad.</para>
+    <para />
+    <para>Voorts heeft het college de bevoorschotting van de exploitatiesubsidie voor het vierde kwartaal van 2010 opgeschort, omdat het vermoedt dat door een faillissement van Cone Zuidhorn de activiteiten waarvoor subsidie is verleend niet of niet geheel zullen plaatsvinden en zij niet zal voldoen aan de aan de subsidie verbonden verplichting dat de uitvoeringsovereenkomst wordt nagekomen.</para>
+    <para />
+    <para>Ten slotte heeft het college de subsidie ingetrokken, omdat Cone Zuidhorn bij vonnis van 23 november 2010 failliet is verklaard.</para>
+    <para />
+    <para>3.    De curator betoogt tevergeefs dat de rechtbank er ten onrechte aan voorbij is gegaan dat de veranderde omstandigheden die hebben geleid tot de beëindiging van de exploitatiesubsidie met ingang van 1 januari 2013, geheel aan het college zijn te wijten. Gelet op het bepaalde in artikel 4:51, eerste lid, van de Awb mag het college een subsidie, die voor drie of meer achtereenvolgende jaren is verstrekt voor dezelfde voortdurende activiteiten geheel of gedeeltelijk weigeren op de grond, dat gewijzigde inzichten, die in het onderhavige geval de gemeentebegroting betreffen, zich tegen voortzetting of ongewijzigde voortzetting van de subsidie verzetten. Dat de gewijzigde inzichten die zich tegen voortzetting van de subsidie zouden verzetten niet aan Cone Zuidhorn te wijten zijn, is daarbij niet van belang. Deze bepaling vereist slechts dat het college een redelijke termijn in acht neemt indien hij een subsidie die voor drie of meer achtereenvolgende jaren is verstrekt, wegens gewijzigde inzichten weigert.</para>
+    <para />
+    <para>Voor zover de curator betoogt, dat Cone Zuidhorn het gerechtvaardigd vertrouwen mocht hebben dat het zwembad voor langere tijd zou worden geëxploiteerd en dit bij Cone Zuidhorn gewekte vertrouwen in de weg staat aan toepassing van artikel 4:51 van de Awb, faalt dit betoog, reeds omdat niet is gebleken van een toezegging van het college met de strekking dat de exploitatie van het zwembad ook na 1 januari 2013 zou worden gesubsidieerd.</para>
+    <para />
+    <para>4.    De curator betoogt dat de rechtbank ten onrechte voorbij is gegaan aan zijn betoog dat door de opschorting van de bevoorschotting bij het besluit van 30 september 2010, Cone Zuidhorn in acute betalingsproblemen kwam die faillissement tot gevolg hadden. Als de opschorting van de bevoorschotting leidt tot faillissement, mag geen toepassing worden gegeven aan artikel 4:56 van de Awb. De rechtbank heeft miskend dat de belangen van Cone Zuidhorn in het geheel niet zijn meegewogen bij dat besluit, aldus de curator.</para>
+    <para />
+    <para>4.1.        Het college heeft aan zijn besluit van 30 september 2010 tot opschorting van de bevoorschotting ten grondslag gelegd, dat het het ernstige vermoeden heeft dat Cone Zuidhorn zal failleren en dat de activiteiten waarvoor de subsidie is verleend daardoor niet of niet geheel zullen plaatsvinden. Dat ernstige vermoeden heeft het college onder meer gebaseerd op een brief 15 juli 2010 van [directeur] van Cone Group B.V., waarin staat dat de onderneming op korte termijn niet meer aan haar betalingsverplichtingen kan voldoen en uitstel van betaling of faillissement zal moeten aanvragen, tenzij de gemeente bereid is aanvullende financiering beschikbaar te stellen. Voorts heeft het college zich gebaseerd op gesprekken op 16 juli en 26 augustus 2010 die leidden tot eenzelfde conclusie. Gelet daarop kon het college het ernstige vermoeden hebben dat er grond bestond om toepassing te geven aan artikel 4:48 van de Awb. Gelet op artikel 4:56 van de Awb is daarmee de bevoegdheid van het college om de betaling van de voorschotten op de subsidie op te schorten gegeven.</para>
+    <para />
+    <para>In de geschiedenis van de totstandkoming van de artikelen 4:48 en 4:56 van de Awb (Kamerstukken II, 23 700, nr. 3, blz. 77, 84) is vermeld dat de onder a genoemde intrekkingsgrond van het eerste lid van artikel 4:48 mede goede diensten kan bewijzen ingeval van faillissement of surseance van de subsidieontvanger. Immers, faillissement zal veelal, en surseance kan meebrengen dat de activiteiten waarvoor subsidie is verleend niet of niet geheel meer plaatsvinden of zullen plaatsvinden. In dat geval kan het bestuur tot intrekking overgaan, alsmede daarop vooruitlopend de betaling van eventuele voorschotten opschorten. Voorts is vermeld dat het opschorten van de betalingen moet worden gezien als een tijdelijke conservatoire maatregel. Hieruit valt af te leiden dat de wetgever toepassing van artikel 4:56 van de Awb onder meer in het geval van een dreigend faillissement aangewezen acht. Dat opschorting van de bevoorschotting niet in het belang van de Cone Zuidhorn is en haar faillissement heeft bespoedigd, maakt derhalve niet dat het college de bevoorschotting niet mocht opschorten.</para>
+    <para />
+    <para>Het betoog faalt.</para>
+    <para />
+    <para>5.    Het college betoogt dat de rechtbank ten onrechte heeft overwogen dat het college de subsidie niet in redelijkheid heeft kunnen intrekken met terugwerkende kracht tot en met het tijdstip waarop de subsidie is verleend. Daartoe voert het college aan dat de rechtbank ten onrechte heeft overwogen dat het college heeft bijgedragen aan het faillissement van Cone Zuidhorn, dat de rechtbank daarbij heeft miskend dat het college beoogde dat Cone Zuidhorn het zwembad de volle vijf jaren zou exploiteren en de gemeente aanzienlijke schade heeft geleden.</para>
+    <para />
+    <para>5.1.    Uit het tweede lid van artikel 4:48 van de Awb blijkt het uitgangspunt bij de intrekking van een subsidieverlening is dat deze terugwerkende kracht heeft. Het bestuursorgaan dat de subsidie intrekt kan anders bepalen. In de geschiedenis van de totstandkoming van deze bepaling  (Kamerstukken II, 23 700, nr. 3, blz. 77) is vermeld dat de mogelijkheid dat het bestuursorgaan anders bepaalt is opgenomen, omdat, met name bij subsidies voor voortdurende activiteiten, de redelijkheid soms zal eisen dat de intrekking niet verder terugwerkt dan tot op het tijdstip waarop de activiteiten zijn beëindigd of het tijdstip, waarop in strijd met de verplichtingen is gehandeld.</para>
+    <para />
+    <para>5.2.    Niet in geschil is, dat de subsidie is verleend voor een voortdurende activiteit, te weten de exploitatie van het zwembad De Waterborgh. Het college heeft niet betwist dat Cone Zuidhorn tot op het moment van faillissement het zwembad heeft geëxploiteerd overeenkomstig de subsidieverplichtingen en de met haar gesloten uitvoeringsovereenkomst en dat de subsidiegelden zijn besteed overeenkomstig het doel van de subsidie. Nu het college niet heeft gesteld dat het faillissement van Cone Zuidhorn aan haar is te wijten, heeft het college in het licht van voormelde omstandigheden de intrekking van de subsidie met terugwerkende kracht niet in redelijkheid kunnen baseren op de enkele omstandigheid dat Cone Zuidhorn het zwembad De Waterborgh niet vijf jaren lang heeft geëxploiteerd. Derhalve eist de redelijkheid in onderhavig geval dat de intrekking niet verder terugwerkt dan tot op het tijdstip waarop de activiteiten zijn beëindigd. De rechtbank heeft dan ook terecht geoordeeld dat het college in het onderhavige geval de subsidie niet in redelijkheid heeft kunnen intrekken met terugwerkende kracht tot het tijdstip van verlening.</para>
+    <para />
+    <para>5.3.    Het betoog faalt.</para>
+    <para />
+    <para>6.    De hoger beroepen zijn ongegrond. De aangevallen uitspraak dient te worden bevestigd.</para>
+    <para />
+    <para>7.    Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+    <para />
+    <para>Beslissing</para>
+    <para />
+    <para>De Afdeling bestuursrechtspraak van de Raad van State</para>
+    <para />
+    <para>Recht doende in naam der Koningin:</para>
+    <para />
+    <para>bevestigt de aangevallen uitspraak.</para>
+    <para />
+    <para>Aldus vastgesteld door mr. J.E.M. Polak, voorzitter, en mr. C.J.M. Schuyt en mr. N. Verheij, leden, in tegenwoordigheid van mr. M.R. Poot, ambtenaar van staat.</para>
+    <para />
+    <parablock>
+      <para>w.g. Polak    w.g. Poot</para>
+      <para>voorzitter    ambtenaar van staat</para>
+    </parablock>
+    <para />
+    <para>Uitgesproken in het openbaar op 7 november 2012</para>
+    <para />
+    <para>362.</para>
+  </uitspraak>
+</open-rechtspraak>
