@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/schema/op-xsd-2012-2">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2020-99/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Besluit van 6 maart 2019, houdende vaststelling van het tijdstip van gedeeltelijke inwerkingtreding van de Wet van 13 juli 2016 tot wijziging van het Wetboek van Burgerlijke Rechtsvordering en de Algemene wet bestuursrecht in verband met vereenvoudiging en digitalisering van het procesrecht (Stb. 2016, 288), de Invoeringswet vereenvoudiging en digitalisering procesrecht, het Besluit digitalisering burgerlijk procesrecht en bestuursprocesrecht en het Aanpassingsbesluit vereenvoudiging en digitalisering procesrecht (Inwerkingtredingsbesluit digitaal procederen in bestuursrechtelijke cassatieprocedures)</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al bevat="voordracht">Op voordracht van Onze Minister voor Rechtsbescherming van 4 maart 2020, Directie Wetgeving en Juridische Zaken, nr. 2839208;</considerans.al>
+          <considerans.al bevat="grondslag">Gelet op artikel V, eerste lid, van de Wet van 13 juli 2016 tot wijziging van het Wetboek van Burgerlijke Rechtsvordering en de Algemene wet bestuursrecht in verband met vereenvoudiging en digitalisering van het procesrecht (<extref doc="stb-2016-288" soort="document" status="actief">Stb. 2016, 288</extref>), artikel CX, eerste lid van de Invoeringswet vereenvoudiging en digitalisering procesrecht, artikel 9 van het Besluit digitalisering burgerlijk procesrecht en bestuursprocesrecht en artikel XI van het Aanpassingsbesluit vereenvoudiging en digitalisering procesrecht;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Hebben goedgevonden en verstaan:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <?xpp qa?>
+        <?xpp lead;-1?>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>Voor het beroep in cassatie bij de Hoge Raad waarop afdeling 4 van hoofdstuk V van de Algemene wet inzake rijksbelastingen van toepassing of van overeenkomstige toepassing is, treden met ingang van 15 april 2020 in werking:</al>
+          <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>Artikel II, onderdelen H, voor zover het betreft de artikelen 8:36a, 8:36b, 8:36c, eerste lid, tweede zin, van de Algemene wet bestuursrecht, I en L, van de Wet van 13 juli 2016 tot wijziging van het Wetboek van Burgerlijke Rechtsvordering en de Algemene wet bestuursrecht in <?xpp ep?>verband met vereenvoudiging en digitalisering van het procesrecht (<extref doc="stb-2016-288" soort="document" status="actief">Stb. 2016, 288</extref>);</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>het Besluit digitalisering burgerlijk procesrecht en bestuursprocesrecht;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>artikel X, aanhef en onderdeel 3, van het Aanpassingsbesluit vereenvoudiging en digitalisering procesrecht.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <?xpp qa?>
+        <?xpp lead;-1?>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <al>Artikel LXIII, van de Invoeringswet vereenvoudiging en digitalisering procesrecht treedt in werking met ingang van 15 april 2020.</al>
+        </artikel>
+        <?xpp qa?>
+        <?xpp lead;-1?>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <al>Dit besluit wordt aangehaald als: Inwerkingtredingsbesluit digitaal procederen in bestuursrechtelijke cassatieprocedures.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Onze Minister voor Rechtsbescherming is belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.</al>
+        </slotformulering>
+        <gegeven>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2020-03-06">6 maart 2019</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister voor Rechtsbescherming,</functie>
+          <naam>
+            <voornaam>S.</voornaam>
+            <achternaam>Dekker</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2020-03-23">Uitgegeven de <nadruk type="cur">drieëntwintigste</nadruk> maart 2020</datum>
+          <ondertekening>
+            <functie>De Minister van Justitie en Veiligheid,</functie>
+            <naam>
+              <voornaam>F.B.J.</voornaam>
+              <achternaam>Grapperhaus</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+      <nota-toelichting>
+        <kop>
+          <titel>NOTA VAN TOELICHTING</titel>
+        </kop>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">1.</nr>
+            <titel>Algemeen</titel>
+          </kop>
+          <al>Met dit koninklijk besluit (KB) wordt digitaal procederen per 15 april 2020 ingevoerd voor bestuursrechtelijke cassatieprocedures bij de Hoge Raad. Bij de Hoge Raad is digitaal procederen in civiele vorderingsprocedures al per 1 maart 2017 ingevoerd (<extref doc="stb-2017-16" soort="document" status="actief">Stb. 2017, 16</extref> en 17) en in strafzaken in twee fasen per 17 december 2018 en 1 februari 2020 (<extref doc="stcrt-2018-68562" soort="document" status="actief">Stcrt. 2018, 68562</extref> en <extref doc="stcrt-2020-2841" soort="document" status="actief">Stcrt. 2020, 2841</extref>).</al>
+          <al-groep>
+            <al>Het gaat bij de bestuursrechtelijke cassatieprocedures om zaken waarvan de belastingkamer van de Hoge Raad kennis neemt, te weten beroep in cassatie waarop afdeling 4 van hoofdstuk V van de Algemene wet inzake rijksbelastingen (Awr) van toepassing is, of – zoals in enkele wetten waarin beroep in cassatie tegen uitspraken van de Centrale Raad van Beroep en het College van Beroep voor het bedrijfsleven is opengesteld – van overeenkomstige toepassing is. Uit de in artikel 1 van dit KB neergelegde omschrijving vloeit voort dat het digitaal procederen ook gaat gelden voor de procedures die direct met het beroep in cassatie verband houden en in bestuursrechtelijke cassatieprocedures van toepassing zijn verklaard (met name de verzoekschriftprocedure inzake schadevergoeding van titel 8.4 Awb en de herzieningsprocedure van titel 8.6 Awb).</al>
+            <al>De bepalingen over de bestuursrechtelijke cassatieprocedure in afdeling 4 van hoofdstuk V van de Awr, waarin mede de bepalingen uit hoofdstuk 8 van de Awb die zien op digitaal procederen van overeenkomstige toepassing zijn verklaard (art. 29 Awr), zijn van overeenkomstige toepassing op het beroep in cassatie bij de Hoge Raad tegen uitspraken van het Gemeenschappelijke Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba (art. 15a, derde lid, Rijkswet rechtsmacht Hoge Raad voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba). Dit betekent dat het digitaal procederen ook gaat gelden voor het beroep in cassatie in Caribische belastingzaken.</al>
+          </al-groep>
+          <al>De Hoge Raad heeft te kennen gegeven dat met ingang van 15 april 2020 verantwoord kan worden gestart met digitaal procederen in cassatie in bestuursrechtelijke zaken. Doordat het digitale systeem thans geschikt is gemaakt, rechtvaardigt dit dat de inwerkingtreding hiermee afwijkt van de vaste verandermomenten. Per 15 april 2020 zijn beroepsmatige rechtsbijstandverleners, niet-natuurlijke personen en bestuursorganen verplicht digitaal te procederen in cassatie in belastingzaken en andere bestuursrechtelijke zaken bij de Hoge Raad. Vanaf die datum geldt tevens voor natuurlijke personen en voor zogenoemde «kleine» stichtingen en verenigingen de mogelijkheid om op vrijwillige basis digitaal te procederen in deze zaken.</al>
+          <al>De Hoge Raad heeft onlangs een nieuwe, op digitaal procederen afgestemde paragraaf van zijn procesreglement openbaar geconsulteerd. De Hoge Raad heeft laten weten dat deze paragraaf voor 15 april 2020 gereed zal zijn.</al>
+          <al>Tenslotte verdient het opmerking dat het overgangsrecht zoals geregeld in de Wet van 13 juli 2016 tot wijziging van het Wetboek van Burgerlijke Rechtsvordering en de Algemene wet bestuursrecht in verband met vereenvoudiging en digitalisering van het procesrecht (<extref doc="stb-2016-288" soort="document" status="actief">Stb. 2016, 288</extref>) (hierna verder: de Wet van 13 juli 2016) van belang is voor dit KB. De strekking van het overgangsrecht is dat het recht zoals dit gold voor het tijdstip van inwerkingtreding van de verplichting om langs elektronische weg te procederen, van toepassing blijft op het beroep in cassatie tegen een voor dat tijdstip bekendgemaakte uitspraak van de bestuursrechter. In het artikelsgewijze deel van de memorie van toelichting bij de Wet van 13 juli 2016 ten grondslag liggende wetsvoorstel is het overgangsrecht uitvoeriger toegelicht (Kamerstukken II 2014/15, <extref doc="kst-34059-3" soort="document" status="actief">34 059, nr. 3</extref>, p. 119–121).</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">2.</nr>
+            <titel>Artikelsgewijze toelichting</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <titel>Artikel 1</titel>
+            </kop>
+            <al>De inwerkingtreding van de artikelen 8:36a en 8:36b van Algemene wet bestuursrecht (Awb), opgenomen in artikel II, onderdeel H, van de Wet van 13 juli 2016, heeft betrekking op de verplichting om langs elektronische weg te procederen en de uitzondering daarop. Artikel 8:36c, eerste lid, tweede zin, van de Awb heeft betrekking op een functionaliteit in het digitale systeem van gegevensverwerking die aangeboden dient te worden in zaken waarvoor de verplichting geldt om langs elektronische weg te procederen.</al>
+            <al>Artikel 8:36g Awb, opgenomen in artikel II, onderdeel I, van de Wet van 13 juli 2016, heeft betrekking op de verplichting om verzending van berichten door de griffier langs elektronische weg te zenden en de uitzondering daarop.</al>
+            <al>In verband met de invoering van artikel 8:36a voorziet de Wet van 13 juli 2016 in het verval van 8:40a, tweede lid, Awb, dat de grondslag is voor het Besluit elektronisch verkeer met de bestuursrechter. De intrekkingsbepaling van dat Besluit, neergelegd in artikel X, aanhef en onderdeel 3, van het Aanpassingsbesluit vereenvoudiging en digitaliseringsprocesrecht, wordt daarom ook in werking gesteld voor de in dit KB bedoelde zaken. Tenslotte is het noodzakelijk om het Besluit digitalisering burgerlijk procesrecht en bestuursprocesrecht voor deze zaken in werking te laten treden. Het Besluit digitalisering burgerlijk procesrecht en bestuursprocesrecht heeft betrekking op het digitale systeem van de rechterlijke instanties. Dit besluit stelt enerzijds voorwaarden aan het nieuwe digitale systeem van de rechterlijke instanties en anderzijds stelt het voorwaarden aan de rechtzoekende en diens procesvertegenwoordiger als gebruiker van het digitale systeem.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <titel>Artikel 2</titel>
+            </kop>
+            <al>Dit artikel voorziet in algehele inwerkingtreding van de met digitaal procederen verband houdende wijzigingen van de Algemene wet inzake rijksbelastingen, zoals deze zijn opgenomen in artikel LXIII van de Wet van 13 juli 2016.</al>
+          </divisie>
+        </divisie>
+        <ondertekening>
+          <functie>De Minister voor Rechtsbescherming,</functie>
+          <naam>
+            <voornaam>S.</voornaam>
+            <achternaam>Dekker</achternaam>
+          </naam>
+        </ondertekening>
+      </nota-toelichting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

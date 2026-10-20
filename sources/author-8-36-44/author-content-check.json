@@ -1,0 +1,151 @@
+{
+  "checked_at": "2026-10-20T18:57:35.623481+00:00",
+  "scope": "Author check of exactly twenty new commentaries; not independent review.",
+  "units": [
+    {
+      "id": "art-8:36",
+      "chars": 2298,
+      "reviewed_against_source": true,
+      "specific_points": "Rechterlijke opdracht en partijopdracht onderscheiden; Rijk/partijbetaling, tarievenstelsel, geen automatische proceskostenvergoeding; partijtolk niet toegevoegd aan lid2; afdelingschecklist.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:36a",
+      "chars": 2400,
+      "reviewed_against_source": true,
+      "specific_points": "Alle zeven leden: toepassingsfasering, overige stukken, verzoek/verzet, doorzending 7:1a, verplicht herstel vóór mogelijke sanctie, papieralternatief en verschoonbare overige stukken; beroepstermijn niet met lid7 vervangen.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:36b",
+      "chars": 2239,
+      "reviewed_against_source": true,
+      "specific_points": "Natuurlijke persoon/informele vereniging; beroepsmatige rechtsbijstand versus incidentele familiehulp; AMvB-uitzondering en gemengde papieren/digitale dossiers.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:36c--digitaal",
+      "chars": 2280,
+      "reviewed_against_source": true,
+      "specific_points": "Systeembereik plus ontvangstbevestiging uitsluitend in deze variant; notificatie verzending versus lezen, partijstuk en afzien van notificatie; geen achtledige samenvoeging; HR houdt verdere beslissing aan.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:36c--overig",
+      "chars": 2291,
+      "reviewed_against_source": true,
+      "specific_points": "Geen tweede zin van lid1 bijgevoegd; vrijwillige openstelling afzonderlijk; dezelfde leden2–4; geen algemene digitale verplichting; arrest beperkt tot gedeeld notificatiestelsel.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:36d",
+      "chars": 2090,
+      "reviewed_against_source": true,
+      "specific_points": "Wettelijke elektronische handtekening en ondertekend-gelden van beroep/verzoek; besluit art5 gelezen; machtiging/tijdigheid niet door ondertekening gerepareerd.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:36e",
+      "chars": 2099,
+      "reviewed_against_source": true,
+      "specific_points": "Door/namens rechter gemaakte zakelijke samenvatting; vier soorten verrichtingen en vervanging van juiste verslag; geen private opname of aantasting tegenspraak.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:36ea",
+      "chars": 2119,
+      "reviewed_against_source": true,
+      "specific_points": "Sinds2026 nieuwe grondslag; openstelling per kanaal/zaak/stuk, geen plicht uit vrijwillige route; wet I K/L en commencement gecontroleerd.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:36f",
+      "chars": 2548,
+      "reviewed_against_source": true,
+      "specific_points": "Beide delegatieonderwerpen; Bep3 traceerbaarheid en Bep8 exacte storingsregel; niet-toerekenbaar, causaal, laatste dag en eerstvolgende dag na kenbaar herstel; checklist.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:36g",
+      "chars": 2041,
+      "reviewed_against_source": true,
+      "specific_points": "Uitgaande digitale route met papieruitzondering8:36b; fasering/KB2020 en kennisgeving8:36c, geen blanketplicht voor alle rechters.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:37",
+      "chars": 2123,
+      "reviewed_against_source": true,
+      "specific_points": "Geadresseerde niet digitaal verplicht of procederend, limitatieve zware stukken aangetekend, overige gewoon, rechterlijke afwijking, feitelijke verzenddatum en retourroute.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:38",
+      "chars": 2088,
+      "reviewed_against_source": true,
+      "specific_points": "BRP op verzenddag of uiterlijk week daarna; spoedig gewone brief versus overige gevallen adrescorrectie/nieuw aangetekend; geen fictieve nieuwe reactietermijn.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:39",
+      "chars": 2246,
+      "reviewed_against_source": true,
+      "specific_points": "Spoedige toegang, aparte8:29/8:32/Woo-uitzonderingen,8:42 overleg versus toezending, omvangrijke stukken inzage minstens week en afschriftkosten zonder verzonnen bedrag.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:40",
+      "chars": 2389,
+      "reviewed_against_source": true,
+      "specific_points": "Eén gezamenlijk beroepschrift, eerste vermelding en opgesomde stukken; kan-bepaling geen volmacht of samengevoegde zelfstandige beroepen; checklist.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:40a",
+      "chars": 1130,
+      "reviewed_against_source": true,
+      "specific_points": "Vervallen plaats behouden; wet K/L en ingang2026; oude verwijzing plaatsen zonder normatieve werking te doen herleven.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:41",
+      "chars": 2999,
+      "reviewed_against_source": true,
+      "specific_points": "Alle acht leden, bedragen54/200/397, bijlage3, eenmaal hoogste bedrag, oude ontvangstjaarregeling en volgend beroep zelfde besluit, vier weken daadwerkelijke bijschrijving,6 betalingsonmacht versus oudere uitspraak,7 verplicht/8 facultatief; checklist.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:41a",
+      "chars": 2160,
+      "reviewed_against_source": true,
+      "specific_points": "Opdracht definitieve beslechting binnen bevoegdheid;8:72(3) opties en8:51a,8:69 en hoorwaarborgen; geen ontbrekende feiten verzinnen.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:42",
+      "chars": 2387,
+      "reviewed_against_source": true,
+      "specific_points": "Vier weken na verzending gronden, verplicht dossier/facultatief verweer tenzij gevraagd, rechterlijke verlenging; beschikbaar/relevant/nieuw/hele document versus database;8:29/39/31; HR oordeel en AG onderscheiden.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:43",
+      "chars": 2145,
+      "reviewed_against_source": true,
+      "specific_points": "Facultatieve repliek opent verplichte dupliekgelegenheid; rechterlijke termijnen; andere partij minimaal eenmaal schriftelijk, niet oneindig antwoordrecht; overige indieningsregels.",
+      "fictional_example": true
+    },
+    {
+      "id": "art-8:44",
+      "chars": 2332,
+      "reviewed_against_source": true,
+      "specific_points": "Verschijnen persoonlijk of gemachtigde naar oproeping, overige partijen gelegenheid bijwonen/uiteenzetten,8:27/31, verslag en handtekeningen/verhindering,8:36e afzonderlijke keuze.",
+      "fictional_example": true
+    }
+  ],
+  "unresolved_blockers": [],
+  "limitations": [
+    "Technical checks do not establish legal quality.",
+    "Independent second pass remains required for new units."
+  ]
+}

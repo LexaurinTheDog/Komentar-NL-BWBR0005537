@@ -1,6 +1,6 @@
 # INDEX — Onvoltooid werkmanuscript
 
-380 van 588 commentaareenheden geschreven. De volledige brondekking is afzonderlijk verantwoord.
+400 van 588 commentaareenheden geschreven. De volledige brondekking is afzonderlijk verantwoord.
 
 - [Inleiding](00-inleiding.md)
 - [Bronnen](SOURCES.md)
@@ -24,4 +24,5 @@
 - [Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep](16-deel-16.md) — 25/25
 - [Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep](17-deel-17.md) — 6/6
 - [Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter](18-deel-18.md) — 25/25
-- [Hoofdstuk 8 Partijen, getuigen, deskundigen en tolken](19-deel-19.md) — 16/25
+- [Hoofdstuk 8 Partijen, getuigen, deskundigen, tolken en digitaal procederen](19-deel-19.md) — 26/26
+- [Hoofdstuk 8 Verzending, griffierecht en vooronderzoek](20-deel-20.md) — 10/25

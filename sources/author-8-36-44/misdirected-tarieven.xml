@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0001897/1929-05-19/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0001897" inwerkingtreding="1929-05-19"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="KB" xml:lang="nl" stam-id="1065103" versie-id="1566502" id="C1566501" label-id="1032174" inwerkingtredingsdatum="1919-10-22">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1065293" versie-id="1566022" id="C1566021" label-id="1031774" inwerking="1919-10-22" bron="Stb.1919-547" effect="nieuwe-regeling" ondertekening_bron="1919-08-28" status="goed">Besluit van 28 augustus 1919, tot regeling van de overbrenging naar de Rijksarchiefbewaarplaatsen van de rechterlijke archieven van 1811 tot 1838<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1919-10-22">22-10-1919</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1065313" versie-id="1566052" id="C1566051" label-id="1031794" inwerking="1919-10-22" bron="Stb.1919-547" effect="nieuwe-regeling" ondertekening_bron="1919-08-28">Besluit tot regeling van overbrenging naar Rijksarchiefbewaarplaatsen van de rechterlijke archieven van 1811 tot 1838<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1919-10-22">22-10-1919</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="1065343" versie-id="1566092" id="C1566091" label-id="1031824" inwerking="1919-10-22" bron="Stb.1919-547" effect="nieuwe-regeling" ondertekening_bron="1919-08-28" status="goed">
+  <wij>Wij WILHELMINA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz.</wij>
+  <considerans>
+    <considerans.al>Op de gemeenschappelijke voordracht van Onzen Minister van Onderwijs, Kunsten en Wetenschappen en van Onzen Minister van Justitie van 30 Mei 1919, n°. 2160 III, afdeeling Kunsten en Wetenschappen en van 18 Juni 1919, 1ste afdeeling C, n°. 713;</considerans.al>
+    <considerans.al>Overwegende, dat het wenschelijk is de rechterlijke archieven, dagteekenende van na de invoering der Fransche wetgeving en van vóór de invoering der nieuwe rechterlijke organisatie op 1 October 1838 (voor de provincie Limburg op 1 Januari 1842), welke nog bij den Hoogen Raad der Nederlanden, de gerechtshoven, de arrondissements-rechtbanken, de kantongerechten en de gemeentebesturen berusten, naar 's Rijks archiefbewaarplaats te 's Gravenhage, de Rijksarchiefbewaarplaatsen in de provinciën of andere nader aan te wijzen archiefbewaarplaatsen over te brengen;</considerans.al>
+    <considerans.al bevat="grondslag">Gelet op de <extref doc="jci1.3:c:BWBR0007376" verwijzing-id="326703" bwb-id="BWBR0007376" label-id="1215304">Archiefwet</extref> 1918 (<nadruk type="cur">Staatsblad</nadruk> n°. 378);</considerans.al>
+    <considerans.al>Den Raad van State gehoord (advies van 22 Juli 1919, n°. 29);</considerans.al>
+    <considerans.al>Gelet op het nader rapport van Onze voornoemde Ministers van 16 Augustus 1919, n°. 2938, afdeeling Kunsten en Wetenschappen en van 25 Augustus 1919, 1ste afdeeling C, n°. 723;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Hebben goedgevonden en verstaan:</al>
+    <al>te bepalen als volgt:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1919-10-22">22-10-1919</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="a-1" stam-id="1065393" versie-id="1566152" id="C1566151" label-id="1031874" inwerking="1919-10-22" label="Artikel 1" bron="Stb.1919-547" effect="nieuwe-regeling" ondertekening_bron="1919-08-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid1" label-id="1031874L1">
+    <lidnr status="redactioneel">1</lidnr>
+    <al>Naar de Rijksarchiefbewaarplaats in de hoofdplaats van eene provincie zullen worden overgebracht de van na de invoering der Fransche wetgeving en van vóór 1 October 1838 (voor de provincie Limburg 1 Januari 1842) dagteekenende archieven van rechterlijke colleges, alleensprekende rechters en rechterlijke ambtenaren, die binnen dien tijd hunne standplaats hebben gehad binnen de thans bestaande grenzen van die provincie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001897&amp;artikel=1&amp;lid=1&amp;z=1929-05-19&amp;g=1929-05-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid2" label-id="1031874L2">
+    <lidnr status="redactioneel">2</lidnr>
+    <al>Ten aanzien van de provincie Zuid-Holland geschiedt deze overbrenging naar de Algemeene Rijksarchiefbewaarplaats te 's Gravenhage.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001897&amp;artikel=1&amp;lid=2&amp;z=1929-05-19&amp;g=1929-05-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1919-10-22">22-10-1919</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001897&amp;artikel=1&amp;g=1929-05-19" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0001897&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001897&amp;artikel=1&amp;z=1929-05-19&amp;g=1929-05-19" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0001897&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="1065423" versie-id="1566182" id="C5210671" label-id="1031904" inwerking="1919-10-22" label="Artikel 2" bron="Stb.1919-547" effect="nieuwe-regeling" ondertekening_bron="1919-08-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <al>De in <intref verwijzing-id="1628108" doc="jci1.3:c:BWBR0001897&amp;artikel=1&amp;z=1929-05-19&amp;g=1929-05-19" bwb-id="BWBR0001897" label-id="1031874" bwb-ng-variabel-deel="/Artikel1">artikel 1</intref> genoemde archieven worden gesteld onder den Rijksarchivaris, die belast is met het beheer van de Rijksarchiefbewaarplaats, waarheen die archieven zullen zijn overgebracht.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1919-10-22">22-10-1919</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001897&amp;artikel=2&amp;g=1929-05-19" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0001897&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001897&amp;artikel=2&amp;z=1929-05-19&amp;g=1929-05-19" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0001897&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="a-3" stam-id="1065473" versie-id="1566232" id="C5210681" label-id="1031954" inwerking="1929-05-19" label="Artikel 3" bron="Stb.1929-162" effect="wijziging" ondertekening_bron="1929-04-15" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="1031954L1">
+    <lidnr status="redactioneel">1</lidnr>
+    <al>De overbrenging der in <intref verwijzing-id="1628109" doc="jci1.3:c:BWBR0001897&amp;artikel=1&amp;z=1929-05-19&amp;g=1929-05-19" bwb-id="BWBR0001897" label-id="1031874" bwb-ng-variabel-deel="/Artikel1">artikel 1</intref> genoemde archieven geschiedt op de wijze en op het tijdstip, tusschen den griffier bij den Hoogen Raad der Nederlanden, bij het gerechtshof, bij de arrondissements-rechtbank of bij het kantongerecht of Burgemeester en Wethouders der gemeente eener- en den Rijksarchivaris van de Rijksarchiefbewaarplaats, waarheen de archieven worden overgebracht, anderzijds, in gemeen overleg te bepalen, met dien verstande, dat de overbrenging moet plaats vinden binnen tien jaren na het in werking treden van dit besluit. Indien geen voldoende ruimte beschikbaar is, zal door de zorgen van Onzen Minister van Onderwijs, Kunsten en Wetenschappen hierin zoo spoedig mogelijk worden voorzien. In dat geval is deze bevoegd, den hiervoor genoemden termijn zoodanig te verlengen, als de voorziening in het ruimtegebrek zal vereischen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001897&amp;artikel=3&amp;lid=1&amp;z=1929-05-19&amp;g=1929-05-19" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="1031954L2">
+    <lidnr status="redactioneel">2</lidnr>
+    <al>Indien het overleg tusschen den griffier of het gemeentebestuur en den Rijksarchivaris niet tot eenstemmigheid leidt, beslist de Algemeene Rijksarchivaris.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001897&amp;artikel=3&amp;lid=2&amp;z=1929-05-19&amp;g=1929-05-19" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1929</publicatiejaar><publicatienr>162</publicatienr><ondertekeningsdatum isodatum="1929-04-15">15-04-1929</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1929</publicatiejaar><publicatienr>162</publicatienr><ondertekeningsdatum isodatum="1929-04-15">15-04-1929</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1929-05-19">19-05-1929</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001897&amp;artikel=3&amp;g=1929-05-19" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0001897&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001897&amp;artikel=3&amp;z=1929-05-19&amp;g=1929-05-19" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0001897&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="a-4" stam-id="1065503" versie-id="1566272" id="C5210691" label-id="1031984" inwerking="1919-10-22" label="Artikel 4" bron="Stb.1919-547" effect="nieuwe-regeling" ondertekening_bron="1919-08-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+  <al>Van de in <intref verwijzing-id="1628110" doc="jci1.3:c:BWBR0001897&amp;artikel=1&amp;z=1929-05-19&amp;g=1929-05-19" bwb-id="BWBR0001897" label-id="1031874" bwb-ng-variabel-deel="/Artikel1">artikel 1</intref> genoemde archieven, die naar eene Rijksarchiefbewaarplaats worden overgebracht, wordt door den Rijksarchivaris van die bewaarplaats een inventaris in duplo opgemaakt, die van eene verklaring aangaande die overbrenging wordt voorzien. Beide exemplaren worden door den griffier of het gemeentebestuur, dat de archieven heeft afgegeven, en den Rijksarchivaris onderteekend. Een exemplaar wordt op de griffie of in het gemeentearchief, het andere in de Rijksarchiefbewaarplaats bewaard.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1919-10-22">22-10-1919</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001897&amp;artikel=4&amp;g=1929-05-19" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0001897&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001897&amp;artikel=4&amp;z=1929-05-19&amp;g=1929-05-19" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0001897&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="a-5" stam-id="1065553" versie-id="1566332" id="C1566331" label-id="1032034" inwerking="1919-10-22" label="Artikel 5" bron="Stb.1919-547" effect="nieuwe-regeling" ondertekening_bron="1919-08-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>5</nr>
+  </kop>
+  <al>Indien stukken, welke van vóór en na 1 October 1838 (voor de provincie Limburg 1 Januari 1842) dagteekenen, in één deel zijn ingeschreven of gebonden, worden zij niet overgebracht.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1919-10-22">22-10-1919</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001897&amp;artikel=5&amp;g=1929-05-19" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0001897&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001897&amp;artikel=5&amp;z=1929-05-19&amp;g=1929-05-19" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0001897&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="a-6" stam-id="1065603" versie-id="1566402" id="C1566401" label-id="1032084" inwerking="1919-10-22" label="Artikel 6" bron="Stb.1919-547" effect="nieuwe-regeling" ondertekening_bron="1919-08-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+  <al>De kosten van overbrenging uit de griffies en gemeentearchieven naar de Rijksarchiefbewaarplaatsen worden uit de ten behoeve van die Rijksarchiefbewaarplaatsen op de Staatsbegrooting uitgetrokken gelden geleden.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1919-10-22">22-10-1919</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001897&amp;artikel=6&amp;g=1929-05-19" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0001897&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001897&amp;artikel=6&amp;z=1929-05-19&amp;g=1929-05-19" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0001897&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="1065633" versie-id="1566442" id="C5210701" label-id="1032114" inwerking="1919-10-22" label="Artikel 7" bron="Stb.1919-547" effect="nieuwe-regeling" ondertekening_bron="1919-08-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <al>Onze Minister van Onderwijs, Kunsten en Wetenschappen is gemachtigd aan de Rijksarchivarissen op te dragen aan gemeenten, die een eigen archivaris en doelmatige archieflokalen hebben, van de overeenkomstig <intref verwijzing-id="1628111" doc="jci1.3:c:BWBR0001897&amp;artikel=1&amp;z=1929-05-19&amp;g=1929-05-19" bwb-id="BWBR0001897" label-id="1031874" bwb-ng-variabel-deel="/Artikel1">artikel 1</intref> naar de Rijksarchiefbewaarplaatsen overgebrachte rechterlijke archieven de zoodanige, welke afkomstig zijn van rechtbanken van eersten aanleg en vredegerechten, die hunne standplaats in die gemeente hebben gehad, tot wederopzeggens in bewaring te geven, onder voorwaarde dat het betrokken gemeentebestuur zich verbinde: </al>
+  <lijst>
+    <li bwb-ng-variabel-deel="/Artikel7/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>de genoemde archieven zoo spoedig mogelijk, en in elk geval binnen den tijd van vijf jaren, te doen inventariseeren naar een door Onzen voornoemden Minister goed te keuren plan;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001897&amp;artikel=7&amp;o=a&amp;z=1929-05-19&amp;g=1929-05-19" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel7/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>in een reglement voor de gemeentelijke archiefbewaarplaats en eene instructie voor den gemeentearchivaris op die archieven toepasselijk te verklaren de voor de Rijksarchiefbewaarplaatsen geldende of nader vast te stellen bepalingen omtrent de toegankelijkheid en het gebruik van archieven;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001897&amp;artikel=7&amp;o=b&amp;z=1929-05-19&amp;g=1929-05-19" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel7/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>te allen tijde aan Onzen voornoemden Minister, den Algemeenen Rijksarchivaris en de Rijksarchivarissen in de provinciën desverlangd eenige stukken uit de genoemde archieven tijdelijk af te staan of kosteloos de ten behoeve van het Rijk verlangde afschriften te verstrekken;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001897&amp;artikel=7&amp;o=c&amp;z=1929-05-19&amp;g=1929-05-19" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel7/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>aan den Algemeenen Rijksarchivaris en aan den Rijksarchivaris in de provincie, waartoe de gemeente behoort, steeds toegang tot de bewaarplaats van die archieven te doen verleenen;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001897&amp;artikel=7&amp;o=d&amp;z=1929-05-19&amp;g=1929-05-19" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel7/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al>terstond mededeeling te doen aan Onzen voornoemden Minister van iedere vaststelling, wijziging of intrekking van een reglement voor de gemeentelijke archiefbewaarplaats of van eene instructie voor den gemeentearchivaris en van iedere benoeming, schorsing, ontslag of overlijden van een ambtenaar, behoorende tot het personeel van de gemeentelijke archiefbewaarplaats.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001897&amp;artikel=7&amp;o=e&amp;z=1929-05-19&amp;g=1929-05-19" onderdeel="o=e"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1919-10-22">22-10-1919</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001897&amp;artikel=7&amp;g=1929-05-19" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0001897&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001897&amp;artikel=7&amp;z=1929-05-19&amp;g=1929-05-19" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0001897&amp;artikel=7"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="1065663" versie-id="1566472" id="C1566471" label-id="1032144" inwerking="1919-10-22" bron="Stb.1919-547" effect="nieuwe-regeling" ondertekening_bron="1919-08-28" status="goed">
+  <slotformulering>
+    <al>Onze Ministers van Onderwijs, Kunsten en Wetenschappen en van Justitie zijn, ieder voor zooveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en waarvan afschrift zal worden gezonden aan den Raad van State en aan de Algemeene Rekenkamer.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Het Loo,</plaats>
+      <datum isodatum="">den 28sten Augustus 1919.</datum>
+    </dagtekening>
+    <koning>WILHELMINA.</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Onderwijs, Kunsten en Wetenschappen,</functie>
+    <naam>
+      <achternaam>J. TH. DE VISSER.</achternaam>
+    </naam>
+  </ondertekening>
+  <ondertekening>
+    <functie>De Minister van Justitie,</functie>
+    <naam>
+      <achternaam>HEEMSKERK.</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">den tweeden October 1919.</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>HEEMSKERK.</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1919-10-22">22-10-1919</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1919</publicatiejaar><publicatienr>547</publicatienr><ondertekeningsdatum isodatum="1919-08-28">28-08-1919</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1919-10-22">22-10-1919</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0001897&amp;g=1929-05-19" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0001897"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0001897&amp;z=1929-05-19&amp;g=1929-05-19" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0001897"/></jcis></meta-data></wetgeving></toestand>

@@ -1,0 +1,1144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2023-183/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Wet van 10 mei 2023 tot wijziging van de Algemene wet bestuursrecht in verband met de herziening van afdeling 2.3 van die wet (Wet modernisering elektronisch bestuurlijk verkeer)</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+          <considerans.al>Alzo Wij in overweging genomen hebben, dat het, gelet op de technologische en maatschappelijke ontwikkelingen op het gebied van het elektronisch verkeer, wenselijk is om afdeling 2.3 van de Algemene wet bestuursrecht te moderniseren;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">I</nr>
+          </kop>
+          <wat type="wijziging">De <nadruk type="vet">Algemene wet bestuursrecht</nadruk> wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Het opschrift van hoofdstuk 2 komt te luiden:</wat>
+            <wijziging>
+              <wijzig-divisie soort="hoofdstuk" opmaak="default">
+                <kop>
+                  <label>HOOFDSTUK</label>
+                  <nr status="officieel">2.</nr>
+                  <titel>VERKEER MET BESTUURSORGANEN</titel>
+                </kop>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 2:1 wordt, onder vernummering van het eerste en tweede lid tot tweede en derde lid, een lid ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Een bestuursorgaan draagt zorg voor passende ondersteuning bij het verkeer met dat bestuursorgaan.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Artikel 2:3 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid wordt «geschriften» vervangen door «een bericht».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het tweede lid wordt «geschriften die niet voor hem bestemd zijn en die ook niet worden doorgezonden» vervangen door «een bericht dat niet voor hem bestemd is en dat ook niet wordt doorgezonden».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>Er wordt een lid toegevoegd, luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Voor een elektronisch ontvangen bericht gelden het eerste en tweede lid slechts indien het bestuursorgaan uit het bericht, gelet op de wijze waarop het is verzonden, zonder nadere bewerking kan afleiden aan wie het bericht moet worden door- of teruggezonden.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>Afdeling 2.3 komt te luiden:</wat>
+            <wijziging>
+              <wijzig-divisie soort="afdeling" opmaak="default">
+                <kop>
+                  <label>AFDELING</label>
+                  <nr status="officieel">2.3</nr>
+                  <titel>VERKEER LANGS ELEKTRONISCHE WEG</titel>
+                </kop>
+                <wijzig-divisie soort="paragraaf" opmaak="default">
+                  <kop>
+                    <label>Paragraaf</label>
+                    <nr status="officieel">2.3.1</nr>
+                    <titel>Algemeen</titel>
+                  </kop>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:7</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>In het verkeer met een bestuursorgaan kan een bericht langs elektronische weg worden verzonden, tenzij een vormvoorschrift zich daartegen verzet.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>In het verkeer met een bestuursorgaan wordt het gebruik van de elektronische weg niet voorgeschreven voor een bericht dat tot een of meer geadresseerden is gericht.</al>
+                    </lid>
+                  </artikel>
+                </wijzig-divisie>
+                <wijzig-divisie soort="paragraaf" opmaak="default">
+                  <kop>
+                    <label>Paragraaf</label>
+                    <nr status="officieel">2.3.2</nr>
+                    <titel>Verzending door een bestuursorgaan</titel>
+                  </kop>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:8</nr>
+                    </kop>
+                    <al>Een bestuursorgaan kan een bericht dat tot een of meer geadresseerden is gericht, slechts elektronisch verzenden voor zover de geadresseerde uitdrukkelijk kenbaar heeft gemaakt dat hij langs deze weg voldoende bereikbaar is.</al>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:9</nr>
+                    </kop>
+                    <al>Indien een bestuursorgaan een bericht elektronisch verzendt, geschiedt dit op een voldoende betrouwbare en vertrouwelijke manier, gelet op de aard en de inhoud van het bericht en het doel waarvoor het wordt gebruikt.</al>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:10</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Indien een bestuursorgaan een bericht elektronisch verzendt door het bericht te plaatsen in een systeem voor gegevensverwerking waarin de geadresseerde toegang heeft tot het bericht, wordt aan de geadresseerde binnen 48 uur elektronisch meegedeeld dat voor hem een bericht van het bestuursorgaan toegankelijk is geworden, tenzij de geadresseerde heeft laten weten een dergelijke kennisgeving niet te willen ontvangen.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>De kennisgeving ontsluit het bericht of bevat informatie over de aard en de rechtsgevolgen van het bericht en vermeldt, voor zover van toepassing, de termijn voor het verrichten van een handeling door de geadresseerde.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>Indien het bestuursorgaan gebruikmaakt van zowel een voorziening voor elektronisch berichtenverkeer en informatieverschaffing als bedoeld in artikel X van de Wet elektronisch berichtenverkeer Belastingdienst als een andere voorziening, kan worden volstaan met kennisgeving van het toegankelijk worden van het bericht in de eerste voorziening.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:11</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Indien een bestuursorgaan een elektronisch bericht niet met succes kan bezorgen bij de geadresseerde, wordt het bericht nogmaals of op een andere wijze verzonden.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Indien een bestuursorgaan een in artikel 2:10 bedoelde kennisgeving niet met succes kan bezorgen bij de geadresseerde, wordt de kennisgeving nogmaals verzonden of spant het bestuursorgaan zich in om geadresseerde langs andere weg te informeren over het niet kunnen bezorgen van de kennisgeving en van de maatregelen die hij kan nemen om kennisgevingen te ontvangen.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>De tweede verzending van een bericht als bedoeld in het eerste lid geldt als tijdstip waarop het bericht is verzonden.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:12</nr>
+                    </kop>
+                    <al>Een door een bestuursorgaan verzonden elektronisch bericht wordt gewijzigd of ingetrokken door de verzending van een nieuw bericht waarin de wijziging of intrekking wordt vermeld.</al>
+                  </artikel>
+                </wijzig-divisie>
+                <wijzig-divisie soort="paragraaf" opmaak="default">
+                  <kop>
+                    <label>Paragraaf</label>
+                    <nr status="officieel">2.3.3</nr>
+                    <titel>Verzending aan een bestuursorgaan</titel>
+                  </kop>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:13</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Een ieder kan een bericht dat deel uitmaakt van een procedure over een besluit of een klacht of een ander krachtens wettelijk voorschrift voorgeschreven bericht elektronisch aan een bestuursorgaan zenden.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Bij wettelijk voorschrift of bij besluit van het bestuursorgaan wordt voor ieder type bericht als bedoeld in het eerste lid, gelet op de aard en de inhoud van het type bericht en het doel waarvoor het wordt gebruikt, een voldoende betrouwbare en vertrouwelijke wijze van verzenden aangewezen.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>Bij wettelijk voorschrift of bij besluit van het bestuursorgaan kunnen nadere eisen worden gesteld, mits die eisen de mogelijkheid van elektronische verzending niet onevenredig belemmeren.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">4.</lidnr>
+                      <al>Bij tijdelijke regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan worden bepaald dat het eerste lid niet van toepassing is op in die tijdelijke regeling aangewezen berichten aan in die tijdelijke regeling aangewezen bestuursorganen voor een in die tijdelijke regeling bepaalde periode.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:14</nr>
+                    </kop>
+                    <al>Een ander bericht dan een bericht als bedoeld in artikel 2:13, eerste lid, kan elektronisch aan een bestuursorgaan worden verzonden voor zover het bestuursorgaan kenbaar heeft gemaakt dat deze weg is geopend. Het bestuursorgaan kan nadere eisen stellen.</al>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:15</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Een bestuursorgaan kan elektronisch verschafte gegevens en bescheiden weigeren voor zover de aanvaarding daarvan tot een onevenredige belasting voor het bestuursorgaan zou leiden.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Een bestuursorgaan kan een elektronisch verzonden bericht weigeren voor zover de betrouwbaarheid of vertrouwelijkheid van het bericht onvoldoende is gewaarborgd, gelet op de aard en de inhoud van het bericht en het doel waarvoor het wordt gebruikt.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>Het bestuursorgaan deelt een weigering op grond van dit artikel zo spoedig mogelijk aan de afzender mee.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:16</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Indien een bericht als bedoeld in artikel 2:13, eerste lid, niet is verzonden op de voor dat bericht aangewezen wijze, kan een bestuursorgaan ermee volstaan de afzender te wijzen op de juiste wijze van verzending, tenzij:</al>
+                      <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                          <li.nr>a.</li.nr>
+                          <al>het bestuursorgaan het bericht zonder nadere bewerking kan behandelen als ware het op de juiste wijze ingediend;</al>
+                        </li>
+                        <li>
+                          <li.nr>b.</li.nr>
+                          <al>het bericht een bezwaarschrift of een administratief beroepschrift betreft; of</al>
+                        </li>
+                        <li>
+                          <li.nr>c.</li.nr>
+                          <al>voor het type bericht geen wijze van verzending is aangewezen.</al>
+                        </li>
+                      </lijst>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Een bestuursorgaan is niet gehouden op een bericht als bedoeld in het eerste lid te reageren, indien het bericht is verzonden op een wijze die niet voor enig bericht als bedoeld in artikel 2:13, eerste lid, is aangewezen.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:17</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Een bestuursorgaan bevestigt de ontvangst van een elektronisch bericht als bedoeld in artikel 2:13, eerste lid, dat is verzonden overeenkomstig het tweede lid van dat artikel en met inachtneming van de nadere eisen, gesteld krachtens het derde lid van dat artikel, tenzij:</al>
+                      <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                          <li.nr>a.</li.nr>
+                          <al>het bestuursorgaan en de verzender gebruikmaken van hetzelfde systeem voor gegevensverwerking en de verzender in dat systeem kan zien dat het bericht voor het bestuursorgaan beschikbaar is; of</al>
+                        </li>
+                        <li>
+                          <li.nr>b.</li.nr>
+                          <al>van de verzender geen elektronisch adres beschikbaar is.</al>
+                        </li>
+                      </lijst>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Indien een bericht als bedoeld in artikel 2:13, eerste lid, aan een bestuursorgaan wordt verzonden door de rechtstreekse invoer van gegevens in een systeem voor gegevensverwerking van het bestuursorgaan, stelt het bestuursorgaan de ingevoerde gegevens aan de verzender ter beschikking op een voldoende betrouwbare en vertrouwelijke manier.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:18</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Aan het vereiste van ondertekening is voldaan door een elektronische handtekening, indien de methode die daarbij voor ondertekening is gebruikt, voldoende betrouwbaar is, gelet op de aard en inhoud van het elektronische bericht en het doel waarvoor het is gebruikt.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Indien de veiligheid en de betrouwbaarheid van het elektronische bericht en het doel waarvoor het wordt gebruikt dit noodzakelijk maken, kan bij wettelijk voorschrift het gebruik worden voorgeschreven van een bepaald type elektronische handtekening als bedoeld in artikel 3, onder 10, van Verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 (PbEU 2014, L 257). Daarbij kunnen aanvullende eisen worden gesteld, tenzij het gaat om een geavanceerde elektronische handtekening als bedoeld in artikel 3, onder 11, of een gekwalificeerde elektronische handtekening als bedoeld in artikel 3, onder 12, van die verordening.</al>
+                    </lid>
+                  </artikel>
+                </wijzig-divisie>
+                <wijzig-divisie soort="paragraaf" opmaak="default">
+                  <kop>
+                    <label>Paragraaf</label>
+                    <nr status="officieel">2.3.4</nr>
+                    <titel>Tijdstip van verzending en ontvangst</titel>
+                  </kop>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:19</nr>
+                    </kop>
+                    <al>Als tijdstip waarop een bericht door een bestuursorgaan elektronisch is verzonden, geldt:</al>
+                    <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>het tijdstip waarop het bericht een systeem voor gegevensverwerking bereikt waarvoor het bestuursorgaan of een ander bestuursorgaan geen verantwoordelijkheid draagt;</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>indien het bestuursorgaan gebruikmaakt van een systeem voor gegevensverwerking waarin de geadresseerde toegang heeft tot het bericht: het tijdstip waarop het bericht toegankelijk wordt voor de geadresseerde;</al>
+                      </li>
+                      <li>
+                        <li.nr>c.</li.nr>
+                        <al>indien het bestuursorgaan gebruikmaakt van zowel een voorziening voor elektronisch berichtenverkeer en informatieverschaffing als bedoeld in artikel X van de Wet elektronisch berichtenverkeer Belastingdienst als een andere voorziening: het tijdstip waarop het bericht toegankelijk is geworden via de eerstgenoemde voorziening.</al>
+                      </li>
+                    </lijst>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:20</nr>
+                    </kop>
+                    <al>Als tijdstip waarop een bericht door een bestuursorgaan elektronisch is ontvangen, geldt het tijdstip waarop het bericht zijn systeem voor gegevensverwerking of een ander daartoe aangewezen systeem heeft bereikt of het tijdstip waarop het bericht op andere wijze elektronisch toegankelijk wordt voor het bestuursorgaan.</al>
+                  </artikel>
+                </wijzig-divisie>
+                <wijzig-divisie soort="paragraaf" opmaak="default">
+                  <kop>
+                    <label>Paragraaf</label>
+                    <nr status="officieel">2.3.5</nr>
+                    <titel>Wettelijke termijnen</titel>
+                  </kop>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:21</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Het bestuursorgaan kan een wettelijke termijn voor de indiening van een bericht verlengen wegens een verminderde elektronische bereikbaarheid van het bestuursorgaan.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Het bestuursorgaan doet van de in het eerste lid bedoelde verlenging zo spoedig mogelijk mededeling op een zodanige wijze dat degenen die gebruikmaken van de desbetreffende wijze van elektronische verzending hiervan tijdig kennis kunnen nemen.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>Indien voor de indiening van een bericht bij een bestuursorgaan een termijn is gesteld, en het bestuursorgaan in een periode voorafgaand aan het einde van die termijn enige tijd niet bereikbaar is via de met toepassing van artikel 2:13, tweede lid, voor dat bericht aangewezen wijze van elektronische verzending, wordt de verzender de overschrijding van die termijn niet tegengeworpen indien redelijkerwijs niet kan worden geoordeeld dat de verzender in verzuim is geweest. De verzender wordt in ieder geval niet geoordeeld in verzuim te zijn geweest voor de duur van de in de vorige zin bedoelde periode.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">4.</lidnr>
+                      <al>Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de verschoonbaarheid van termijnoverschrijdingen wegens verminderde elektronische bereikbaarheid van het bestuursorgaan.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:22</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Indien een kennisgeving als bedoeld in artikel 2:10 niet is verzonden, wordt de overschrijding van een termijn die is aangevangen met de verzending van het bericht waarop deze kennisgeving betrekking heeft, niet aan de geadresseerde tegengeworpen, tenzij de geadresseerde heeft laten weten deze kennisgeving niet te willen ontvangen.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>De overschrijding van een termijn wordt de geadresseerde evenmin tegengeworpen indien hij de kennisgeving, bedoeld in artikel 2:10, niet heeft ontvangen en redelijkerwijs niet kan worden geoordeeld dat hij in verzuim is geweest.</al>
+                    </lid>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:23</nr>
+                    </kop>
+                    <al>Indien de indiening van een bericht als bedoeld in artikel 2:13, eerste lid, aan een termijn is gebonden en de verzender redelijkerwijs kon menen dat hij het bericht kon indienen zoals hij heeft gedaan, wordt deze termijn verlengd met het tijdsverloop tussen de ontvangst van het bericht en de in artikel 2:16, eerste lid, bedoelde reactie, doch met ten minste één werkdag.</al>
+                  </artikel>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:24</nr>
+                    </kop>
+                    <al>Indien een bericht met toepassing van artikel 2:16, eerste lid, onder a, wordt behandeld, vangt een bij wettelijk voorschrift bepaalde behandeltermijn aan op het tijdstip van interne doorgeleiding, mits het bestuursorgaan de afzender onverwijld mededeling doet van de doorgeleiding en het tijdstip waarop de termijn aanvangt.</al>
+                  </artikel>
+                </wijzig-divisie>
+                <wijzig-divisie soort="paragraaf" opmaak="default">
+                  <kop>
+                    <label>Paragraaf</label>
+                    <nr status="officieel">2.3.6</nr>
+                    <titel>Bewijslast</titel>
+                  </kop>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:25</nr>
+                    </kop>
+                    <al>Indien het bestuursorgaan gebruikmaakt van een systeem voor gegevensverwerking waarin de geadresseerde toegang heeft tot het bericht, rust op het bestuursorgaan de bewijslast inzake de ontvangst van aan het bestuursorgaan gezonden berichten en de verzending van aan de geadresseerde gezonden berichten, alsmede inzake gegevens over de kennisneming van deze berichten door de geadresseerde. De afzender of de geadresseerde wordt desgevraagd afschrift van deze gegevens verstrekt.</al>
+                  </artikel>
+                </wijzig-divisie>
+                <wijzig-divisie soort="paragraaf" opmaak="default">
+                  <kop>
+                    <label>Paragraaf</label>
+                    <nr status="officieel">2.3.7</nr>
+                    <titel>Tijdelijke afwijking van deze afdeling</titel>
+                  </kop>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:26</nr>
+                    </kop>
+                    <lid>
+                      <lidnr status="officieel">1.</lidnr>
+                      <al>Bij algemene maatregel van bestuur kan tijdelijk worden afgeweken van het bepaalde bij of krachtens deze afdeling, voor zover dat nodig is wegens nieuwe technische ontwikkelingen. Indien daarbij wordt afgeweken van in deze afdeling geboden waarborgen, wordt een gelijkwaardig alternatief opgenomen.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">2.</lidnr>
+                      <al>Bij toepassing van het eerste lid wordt in ieder geval geregeld van welke bepaling of bepalingen, door welke bestuursorganen of belanghebbenden, op welke wijze en gedurende welke periode wordt afgeweken.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">3.</lidnr>
+                      <al>De voordracht voor de algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.</al>
+                    </lid>
+                    <lid>
+                      <lidnr status="officieel">4.</lidnr>
+                      <al>Onze Minister zendt ten minste twaalf maanden voor het einde van de werkingsduur van de algemene maatregel van bestuur aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de toepassing van de nieuwe ontwikkelingen in relatie tot elektronisch bestuurlijk verkeer, alsmede een standpunt inzake de voortzetting anders dan bij algemene maatregel van bestuur.</al>
+                    </lid>
+                  </artikel>
+                </wijzig-divisie>
+                <wijzig-divisie soort="paragraaf" opmaak="default">
+                  <kop>
+                    <label>Paragraaf</label>
+                    <nr status="officieel">2.3.8</nr>
+                    <titel>Regels over bewaren en vernietigen</titel>
+                  </kop>
+                  <artikel status="goed">
+                    <kop>
+                      <label>Artikel</label>
+                      <nr status="officieel">2:27</nr>
+                    </kop>
+                    <al>Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kunnen regels worden gesteld over het bewaren en vernietigen van berichten die zijn verzonden via een voorziening voor elektronisch berichtenverkeer en informatieverschaffing als bedoeld in artikel X van de Wet elektronisch berichtenverkeer Belastingdienst, waaronder regels inzake de termijn waarbinnen berichten ten minste en ten hoogste worden bewaard.</al>
+                  </artikel>
+                </wijzig-divisie>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>Artikel 4:3a vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">F</lidnr>
+            <wat>Artikel 4:4 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Voor de tekst wordt de aanduiding «1.» geplaatst.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Er wordt een lid toegevoegd, luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>In het formulier worden geen gegevens gevraagd die voor de te nemen beschikking niet noodzakelijk zijn, tenzij wordt vermeld dat de verstrekking van die gegevens niet verplicht is.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">G</lidnr>
+            <wat>Aan artikel 4:5 wordt een lid toegevoegd luidende:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>Het bestuursorgaan kan afzien van het bieden van de gelegenheid het verzuim te herstellen, indien het toepassing geeft aan artikel 2:16, eerste lid, aanhef.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">H</lidnr>
+            <wat>Artikel 4:17 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het vierde lid vervalt.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Het vijfde tot en met zevende lid worden vernummerd tot vierde tot en met zesde lid.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">I</lidnr>
+            <wat>In artikel 4:20d, derde lid, wordt «4:17, vierde lid, en zesde lid, onder a en b» vervangen door «4:17, vijfde lid, onder a en b».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">J</lidnr>
+            <wat>In de artikelen 7:14 en 7:27 wordt «Artikel 3:6, tweede lid» telkens vervangen door «De artikelen 2:24 en 3:6, tweede lid».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">K</lidnr>
+            <wat>Na artikel 8:36e wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">8:36ea</nr>
+                </kop>
+                <al>Voor zover de verplichting tot digitaal procederen als bedoeld in artikel 8:36a niet geldt, kan de bestuursrechter kenbaar maken dat de elektronische weg openstaat voor het instellen van beroep, het aanwenden van andere rechtsmiddelen of het indienen van een ander stuk in het kader van een procedure.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">L</lidnr>
+            <wat>Artikel 8:40a vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">M</lidnr>
+            <wat>In bijlage 2, artikel 1, vervalt in het tekstgedeelte met betrekking tot de Wet op het financieel toezicht onderdeel b, onder verlettering van de onderdelen c tot en met e tot b tot en met d.</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">Ia</nr>
+          </kop>
+          <wat type="wijziging">Artikel 2:13, vierde lid, van de <nadruk type="vet">Algemene wet bestuursrecht</nadruk> vervalt.</wat>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">Ib</nr>
+          </kop>
+          <al>Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan bij ministeriële regeling regels stellen over een specifieke uitkering aan gemeenten ter bekostiging van de ondersteuning van burgers bij het verkeer met en de dienstverlening door een bestuursorgaan langs elektronische weg.</al>
+        </artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">II</nr>
+          </kop>
+          <wat type="wijziging">In artikel 46d, vierde lid, van de <nadruk type="vet">Advocatenwet</nadruk> wordt «De artikelen 2:14 tot en met 2:17» vervangen door «De artikelen 2:8, 2:9, 2:15, 2:18, 2:19, onder a en b, en 2:20».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">III</nr>
+          </kop>
+          <wat type="wijziging">In artikel 1:8 van de<nadruk type="vet"> Algemene douanewet </nadruk>wordt «De artikelen 2:1 en 2:2» vervangen door «De artikelen 2:1, tweede en derde lid, en 2:2».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IV</nr>
+          </kop>
+          <wat type="wijziging">In artikel 13, eerste lid, van de<nadruk type="vet"> Algemene wet inkomensafhankelijke regelingen</nadruk> wordt «In afwijking van artikel 2:14, eerste lid,» vervangen door «In afwijking van de artikelen 2:7, tweede lid, en 2:8».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">V</nr>
+          </kop>
+          <wat type="wijziging">De <nadruk type="vet">Algemene wet inzake rijksbelastingen</nadruk> wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 3a, eerste lid, wordt «In afwijking van artikel 2:14, eerste lid,» vervangen door «In afwijking van de artikelen 2:7, tweede lid, en 2:8».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 27gd wordt «8:31 tot en met 8:40a» vervangen door «8:31 tot en met 8:40».</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">VI</nr>
+          </kop>
+          <wat type="wijziging">De <nadruk type="vet">Dienstenwet</nadruk> wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 12, zesde lid, wordt «artikel 2:14, eerste lid,» vervangen door «artikel 2:8».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 14, derde lid, wordt «artikel 2:14, eerste lid,» vervangen door «artikel 2:8».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Artikel 15 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid wordt «Artikel 2:15, tweede lid» vervangen door «Artikel 2:15, eerste lid».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het tweede lid wordt «de artikelen 2:14, derde lid, 2:15, derde en vierde lid, 2:16 en 2:17» vervangen door «de artikelen 2:9 tot en met 2:12, 2:14, 2:15, tweede en derde lid, en 2:16 tot en met 2:27».</wat>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">VII</nr>
+          </kop>
+          <wat type="wijziging">Aan artikel 7.7, derde lid, van de <nadruk type="vet">Erfgoedwet </nadruk>wordt een zin toegevoegd, luidende: Daarbij kan worden afgeweken van de artikelen 2:7, tweede lid, en 2:8 van de Algemene wet bestuursrecht.</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">VIII</nr>
+          </kop>
+          <wat type="wijziging">Aan artikel 4, tweede lid, van de <nadruk type="vet">Kaderwet overige BZK-subsidies</nadruk> wordt een zin toegevoegd, luidende: Daarbij kan worden afgeweken van de artikelen 2:7, tweede lid, en 2:8 van de Algemene wet bestuursrecht.</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IX</nr>
+          </kop>
+          <wat type="wijziging">In artikel 7c, eerste lid, van de<nadruk type="vet"> Invorderingswet 1990</nadruk> wordt «In afwijking van artikel 2:14, eerste lid,» vervangen door «In afwijking van de artikelen 2:7, tweede lid, en 2:8».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">X</nr>
+          </kop>
+          <wat type="wijziging">De <nadruk type="vet">Kadasterwet </nadruk>wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 7c wordt «de artikelen 2:13 tot en met 2:17» vervangen door «afdeling 2.3».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 7d komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">7d</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Het bestuur van de Dienst is het bestuursorgaan, bedoeld in artikel 2:13, tweede en derde lid, en 2:14 van de Algemene wet bestuursrecht.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Het bestuur van de Dienst geeft uitsluitend toepassing aan de in het eerste lid genoemde bepalingen door het vaststellen van regelingen.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XI</nr>
+          </kop>
+          <wat type="wijziging">Artikel 16.1 van de <nadruk type="vet">Omgevingswet </nadruk>komt te luiden:</wat>
+          <wijziging>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">16.1</nr>
+                <titel>(elektronisch verkeer)</titel>
+              </kop>
+              <lid>
+                <lidnr status="officieel">1.</lidnr>
+                <al>Een elektronische aanvraag om een besluit of een melding op grond van deze wet wordt in bij algemene maatregel van bestuur aangewezen gevallen ingediend of gedaan via de landelijke voorziening, bedoeld in artikel 20.21.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">2.</lidnr>
+                <al>Het elektronisch voldoen aan een andere informatieverplichting dan een melding of het elektronisch verzenden van een ander bericht op grond van deze wet kan in bij algemene maatregel van bestuur aangewezen gevallen plaatsvinden op de bij die maatregel aangegeven wijze.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">3.</lidnr>
+                <al>Bij de maatregel kunnen in afwijking van de artikelen 2:7, tweede lid, en 2:8 van de Algemene wet bestuursrecht gevallen worden aangewezen waarin het verkeer, bedoeld in het eerste en tweede lid, alleen elektronisch kan plaatsvinden.</al>
+              </lid>
+            </artikel>
+          </wijziging>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XII</nr>
+          </kop>
+          <wat type="wijziging">In artikel 47, eerste lid, onder n, van de<nadruk type="vet"> Politiewet 2012 </nadruk>wordt «artikel 2:14, eerste lid,» vervangen door «de artikelen 2:7, tweede lid, en 2:8».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XIII</nr>
+          </kop>
+          <wat type="wijziging">In artikel 35 van de <nadruk type="vet">Uitvoeringswet huurprijzen woonruimte</nadruk> wordt «artikel 2:1, tweede lid» vervangen door «artikel 2:1, derde lid».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XIV</nr>
+          </kop>
+          <wat type="wijziging">De <nadruk type="vet">Vreemdelingenwet 2000</nadruk> wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 2s, tweede lid, wordt «artikel 2:1» vervangen door «artikel 2:1, tweede en derde lid,».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 4, vierde lid, tweede zin, komt te luiden: Daarbij kan ter uitvoering van een verdrag of bindende EU-rechtshandeling het gebruik van de elektronische weg worden voorgeschreven.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>In artikel 23, derde lid, wordt «artikel 2:1» vervangen door «artikel 2:1, tweede en derde lid,».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>In artikel 36 wordt «artikel 2:1, eerste lid» vervangen door «artikel 2:1, tweede lid».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>In artikel 70, eerste lid, wordt «de artikelen 2:1 en 8:24» vervangen door «de artikelen 2:1, tweede en derde lid, en 8:24».</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XV</nr>
+          </kop>
+          <wat type="wijziging">In artikel 6.14, eerste lid, van de <nadruk type="vet">Waterwet</nadruk> wordt «in afwijking van artikel 2:15, eerste en tweede lid,» vervangen door «In afwijking van de artikelen 2:7, tweede lid, en 2:8».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XVa1</nr>
+          </kop>
+          <wat type="wijziging">In artikel 2.8, eerste lid, van de <nadruk type="vet">Wet algemene bepalingen omgevingsrecht</nadruk> wordt «de artikelen 2:14, eerste lid, en 2:15» vervangen door «de artikelen 2:7, tweede lid, en 2:8».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XVa</nr>
+          </kop>
+          <wat type="wijziging">In het tweede lid van artikel 33 van het <nadruk type="vet">Wetboek van Burgerlijke Rechtsvordering</nadruk> wordt «Bij algemene maatregel van bestuur» telkens vervangen door «Bij of krachtens algemene maatregel van bestuur».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XVI</nr>
+          </kop>
+          <wat type="wijziging">In de artikelen 12, onder q, en 12o, tweede lid, onder n, van de <nadruk type="vet">Wet ambtenaren defensie</nadruk> wordt «artikel 2:14, eerste lid,» telkens vervangen door «de artikelen 2:7, tweede lid, en 2:8».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XVII</nr>
+          </kop>
+          <wat type="wijziging">In artikel 25a, zesde lid, onder a, van de <nadruk type="vet">Wet belastingen op milieugrondslag</nadruk> wordt «de artikelen 2:14, eerste lid, en 2:15» vervangen door «de artikelen 2:7, tweede lid, en 2:8».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XVIII</nr>
+          </kop>
+          <wat type="wijziging">De <nadruk type="vet">Wet educatie en beroepsonderwijs</nadruk> wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Na artikel 1.3.9 wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">1.3.10.</nr>
+                  <titel>Verzending berichten aan bevoegd gezag</titel>
+                </kop>
+                <al>Artikel 2:13, eerste lid, van de Algemene wet bestuursrecht is niet van toepassing in het verkeer tussen ouders, studenten, vavo-studenten of deelnemers en het bevoegd gezag.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 4.4.10 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid wordt na de eerste zin een zin toegevoegd, luidende: Artikel 2:7, tweede lid, van de Algemene wet bestuursrecht is niet van toepassing.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Aan het slot van het tweede lid wordt een zin toegevoegd, luidende: De artikelen 2:7, tweede lid, en 2:8 van de Algemene wet bestuursrecht zijn niet van toepassing.</wat>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XVIIIa</nr>
+          </kop>
+          <wat type="wijziging">In artikel 7, derde lid, van de <nadruk type="vet">Wet experiment gesloten coffeeshopketen</nadruk> vervalt «in afwijking van artikel 2:15, eerste lid, van de Algemene wet bestuursrecht».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XIX</nr>
+          </kop>
+          <wat type="wijziging">De <nadruk type="vet">Wet gewasbeschermingsmiddelen en biociden</nadruk> wordt als volgt gewijzigd:</wat>
+          <?xpp qa?>
+          <?xpp lead;1?>
+          <wijziging>
+            <wat>Artikel 8 wordt als volgt gewijzigd:</wat>
+          </wijziging>
+          <wijziging>
+            <nr status="officieel">1.</nr>
+            <wat>In het eerste lid, onder b wordt «artikel 2:15» vervangen door «artikel 2:13, derde lid,».</wat>
+          </wijziging>
+          <wijziging>
+            <nr status="officieel">2.</nr>
+            <wat>In het zesde lid wordt «voorzover een belanghebbende de gegevens niet langs elektronische weg verzendt als bedoeld in artikel 2:15 van de Algemene wet bestuursrecht» vervangen door «in afwijking van de artikelen 2:7, tweede lid, en 2:8 van de Algemene wet bestuursrecht».</wat>
+          </wijziging>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XX</nr>
+          </kop>
+          <wat type="wijziging">De <nadruk type="vet">Wet maatregelen woningmarkt 2014 II</nadruk> wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Artikel 1.6, vierde lid, komt te luiden:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>In afwijking van de artikelen 2:7, tweede lid, en 2:8 van de Algemene wet bestuursrecht wordt de aanvraag om in aanmerking te komen voor de toepassing van de uitzondering, bedoeld in het tweede lid, langs elektronische weg ingediend bij Onze Minister.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 1.12, eerste lid, komt te luiden:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>In afwijking van de artikelen 2:7, tweede lid, en 2:8 van de Algemene wet bestuursrecht wordt een voorgenomen investering langs elektronische weg aangemeld bij Onze Minister.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Artikel 1.13, eerste lid, eerste zin, komt te luiden: In afwijking van de artikelen 2:7, tweede lid, en 2:8 van de Algemene wet bestuursrecht wordt een gerealiseerde investering langs elektronische weg aangemeld door de belastingplichtige bij Onze Minister.</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXI</nr>
+          </kop>
+          <wat type="wijziging">De <nadruk type="vet">Wet op de expertisecentra</nadruk> wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Na artikel 5a wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">5b</nr>
+                  <titel>Verzending berichten aan bevoegd gezag</titel>
+                </kop>
+                <al>Artikel 2:13, eerste lid, van de Algemene wet bestuursrecht is niet van toepassing in het verkeer tussen ouders of leerlingen en het bevoegd gezag.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 38k wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid wordt na de eerste zin een zin toegevoegd, luidende: Artikel 2:7, tweede lid, van de Algemene wet bestuursrecht is niet van toepassing.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Aan het slot van het tweede lid wordt een zin toegevoegd, luidende: De artikelen 2:7, tweede lid, en 2:8 van de Algemene wet bestuursrecht zijn niet van toepassing.</wat>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXII</nr>
+          </kop>
+          <wat type="wijziging">De <nadruk type="vet">Wet op de inlichtingen- en veiligheidsdiensten 2017</nadruk> wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 20, vierde lid, wordt «artikel 76, derde lid» vervangen door «artikel 76, tweede lid».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 76 vervalt het tweede lid, onder vernummering van het derde en vierde lid tot tweede en derde lid.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>In artikel 78, derde lid, wordt «artikel 2:1, eerste lid» vervangen door «artikel 2:1, tweede lid».</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXIII</nr>
+          </kop>
+          <wat type="wijziging">In artikel 14 van de <nadruk type="vet">Wet op de loonvorming</nadruk> wordt «artikel 2:14, eerste lid,» vervangen door «de artikelen 2:7, tweede lid, en 2:8».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXIV</nr>
+          </kop>
+          <wat type="wijziging">In de <nadruk type="vet">Wet op het hoger onderwijs en wetenschappelijk onderzoek</nadruk> wordt na artikel 1.25 een artikel ingevoegd, luidende:</wat>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1.26.</nr>
+            <titel>Verzending berichten aan instellingsbestuur</titel>
+          </kop>
+          <al>Artikel 2:13, eerste lid, van de Algemene wet bestuursrecht is niet van toepassing in het verkeer tussen studenten of ouders en het instellingsbestuur.</al>
+        </artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXV</nr>
+          </kop>
+          <wat type="wijziging">In artikel 16a van de <nadruk type="vet">Wet op het notarisambt</nadruk> wordt «De artikelen 2:1 en 2:2» vervangen door «De artikelen 2:1, tweede en derde lid, en 2:2».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXVI</nr>
+          </kop>
+          <wat type="wijziging">
+            <nadruk type="cur">[Vervallen]</nadruk>
+          </wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXVII</nr>
+          </kop>
+          <wat type="wijziging">De <nadruk type="vet">Wet op het primair onderwijs</nadruk> wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Na artikel 4c wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">4d</nr>
+                  <titel>Verzending berichten aan bevoegd gezag</titel>
+                </kop>
+                <al>Artikel 2:13, eerste lid, van de Algemene wet bestuursrecht is niet van toepassing in het verkeer tussen ouders of leerlingen en het bevoegd gezag.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 38k wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid wordt na de eerste zin een zin toegevoegd, luidende: Artikel 2:7, tweede lid, van de Algemene wet bestuursrecht is niet van toepassing.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Aan het slot van het tweede lid wordt een zin toegevoegd, luidende: De artikelen 2:7, tweede lid, en 2:8 van de Algemene wet bestuursrecht zijn niet van toepassing.</wat>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXVIII</nr>
+          </kop>
+          <wat type="wijziging">De <nadruk type="vet">Wet op het voortgezet onderwijs</nadruk> wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Na artikel 3b wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">3c</nr>
+                  <titel>Verzending berichten aan bevoegd gezag</titel>
+                </kop>
+                <al>Artikel 2:13, eerste lid, van de Algemene wet bestuursrecht is niet van toepassing in het verkeer tussen ouders of leerlingen en het bevoegd gezag.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 41j wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid wordt na de eerste zin een zin toegevoegd, luidende: Artikel 2:7, tweede lid, van de Algemene wet bestuursrecht is niet van toepassing.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Aan het slot van het tweede lid wordt een zin toegevoegd, luidende: De artikelen 2:7, tweede lid, en 2:8 van de Algemene wet bestuursrecht zijn niet van toepassing.</wat>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXIX</nr>
+          </kop>
+          <wat type="wijziging">In artikel 54, onder i, van de <nadruk type="vet">Wet rechtspositie rechterlijke ambtenaren </nadruk>wordt «artikel 2:14, eerste lid,» vervangen door «de artikelen 2:7, tweede lid, en 2:8».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXIXa</nr>
+          </kop>
+          <wat type="wijziging">Artikel 32 van de <nadruk type="vet">Wet register onderwijsdeelnemers</nadruk> wordt als volgt gewijzigd:</wat>
+          <wijziging>
+            <nr status="officieel">1.</nr>
+            <wat>Aan het eerste lid wordt een zin toegevoegd, luidende: Artikel 2:7, tweede lid, van de Algemene wet bestuursrecht is niet van toepassing.</wat>
+          </wijziging>
+          <wijziging>
+            <nr status="officieel">2.</nr>
+            <wat>Na het vierde lid wordt een lid toegevoegd, luidende:</wat>
+            <artikeltekst>
+              <lid>
+                <lidnr status="officieel">5.</lidnr>
+                <al>De artikelen 2:7, tweede lid, en 2:8 van de Algemene wet bestuursrecht zijn niet van toepassing op het tweede en derde lid.</al>
+              </lid>
+            </artikeltekst>
+          </wijziging>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXX</nr>
+          </kop>
+          <wat type="wijziging">In artikel 32e, eerste lid, van de <nadruk type="vet">Wet structuur uitvoeringsorganisatie werk en inkomen </nadruk>wordt «artikel 2:14, eerste lid,» vervangen door «de artikelen 2:7, tweede lid, en 2:8».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXXI</nr>
+          </kop>
+          <wat type="wijziging">In artikel 27 van de <nadruk type="vet">Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen </nadruk>wordt aan het achtste lid een zin toegevoegd, luidende: Daarbij kan worden afgeweken van de artikelen 2:7, tweede lid, en 2:8 van de Algemene wet bestuursrecht.</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXXII</nr>
+          </kop>
+          <wat type="wijziging">In artikel 18 van de<nadruk type="vet"> Wet verplichte beroepspensioenregeling </nadruk>wordt aan het tweede lid een zin toegevoegd, luidende: Daarbij kan worden afgeweken van de artikelen 2:7, tweede lid, en 2:8 van de Algemene wet bestuursrecht.</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXXIII</nr>
+          </kop>
+          <wat type="wijziging">In artikel 15 van de <nadruk type="vet">Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 </nadruk>wordt aan het tweede lid een zin toegevoegd, luidende: Daarbij kan worden afgeweken van de artikelen 2:7, tweede lid, en 2:8 van de Algemene wet bestuursrecht.</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXXIIIa</nr>
+          </kop>
+          <wat type="wijziging">In het eerste lid van artikel 6a van de <nadruk type="vet">Wet wapens en munitie</nadruk> wordt na «de artikelen 6 en 7» ingevoegd «, en in afwijking van artikel 2:1, tweede en derde lid, van de Algemene wet bestuursrecht,».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXXIV</nr>
+          </kop>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Indien het bij koninklijke boodschap van 19 juni 2018 ingediende voorstel van wet houdende algemene regels inzake het elektronisch verkeer in het publieke domein en inzake de generieke digitale infrastructuur (<nadruk type="vet">Wet digitale overheid</nadruk>) (Kamerstukken <dossierref dossier="34972">34 972</dossierref>) tot wet is of wordt verheven en artikel 5, eerste lid, onder f, van die wet in werking treedt of is getreden voordat artikel I, onderdeel C, artikel 2:19, onder c, onderscheidenlijk artikel 2:27, van deze wet in werking treedt, wordt in artikel I, onderdeel C, artikel 2:19, onder c, onderscheidenlijk artikel 2:27, van deze wet «artikel X van de Wet elektronisch berichtenverkeer Belastingdienst» vervangen door «artikel 5, eerste lid, onder f, van de Wet digitale overheid».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Indien het bij koninklijke boodschap van 19 juni 2018 ingediende voorstel van wet houdende algemene regels inzake het elektronisch verkeer in het publieke domein en inzake de generieke digitale infrastructuur (<nadruk type="vet">Wet digitale overheid</nadruk>) (Kamerstukken <dossierref dossier="34972">34 972</dossierref>) tot wet is of wordt verheven en artikel 5, eerste lid, onder f, van die wet gelijktijdig in werking treedt met of later in werking treedt dan artikel I, onderdeel C, artikel 2:19, onder c, onderscheidenlijk artikel 2:27, van deze wet, wordt in artikel 2:19, onder c, onderscheidenlijk artikel 2:27 van de Algemene wet bestuursrecht «artikel X van de Wet elektronisch berichtenverkeer Belastingdienst» vervangen door «artikel 5, eerste lid, onder f, van de Wet digitale overheid».</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXXV</nr>
+          </kop>
+          <wat type="wijziging">
+            <nadruk type="cur">[Vervallen]</nadruk>
+          </wat>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXXVI</nr>
+          </kop>
+          <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXXVII</nr>
+          </kop>
+          <al>Deze wet wordt aangehaald als: Wet modernisering elektronisch bestuurlijk verkeer.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+        </slotformulering>
+        <gegeven>
+          <label>Gegeven te </label>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2023-05-10">10 mei 2023</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van Binnenlandse Zaken en Koninkrijksrelaties,</functie>
+          <naam>
+            <voornaam>H.G.J.</voornaam>
+            <achternaam>Bruins Slot</achternaam>
+          </naam>
+        </ondertekening>
+        <ondertekening>
+          <functie>De Minister voor Rechtsbescherming,</functie>
+          <naam>
+            <voornaam>F.M.</voornaam>
+            <achternaam>Weerwind</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2023-06-07">Uitgegeven de <nadruk type="cur">zevende</nadruk> juni 2023</datum>
+          <ondertekening>
+            <functie>De Minister van Justitie en Veiligheid,</functie>
+            <naam>
+              <voornaam>D.</voornaam>
+              <achternaam>Yeşilgöz-Zegerius</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

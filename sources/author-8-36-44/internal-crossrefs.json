@@ -1,0 +1,323 @@
+{
+  "checked_at": "2026-10-20T18:55:37.397617+00:00",
+  "source": "sources/author-8-36-44/selected.xml",
+  "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+  "references": [
+    "6:10",
+    "6:11",
+    "6:5",
+    "6:6",
+    "6:7",
+    "6:8",
+    "6:9",
+    "7:1a",
+    "8:24",
+    "8:26",
+    "8:27",
+    "8:29",
+    "8:31",
+    "8:32",
+    "8:36",
+    "8:36a",
+    "8:36b",
+    "8:36c",
+    "8:36d",
+    "8:36e",
+    "8:36ea",
+    "8:36f",
+    "8:36g",
+    "8:37",
+    "8:38",
+    "8:39",
+    "8:40",
+    "8:40a",
+    "8:41",
+    "8:41a",
+    "8:42",
+    "8:43",
+    "8:44",
+    "8:45a",
+    "8:47",
+    "8:50",
+    "8:51",
+    "8:51a",
+    "8:58",
+    "8:61",
+    "8:69",
+    "8:72",
+    "8:74",
+    "8:75"
+  ],
+  "records": [
+    {
+      "id": "art-6:5",
+      "text": "1 Het bezwaar- of beroepschrift wordt ondertekend en bevat ten minste:\n\na. de naam en het adres van de indiener;\n\nb. de dagtekening;\n\nc. een omschrijving van het besluit waartegen het bezwaar of beroep is gericht;\n\nd. de gronden van het bezwaar of beroep.\n\n2 Bij het beroepschrift wordt zo mogelijk een afschrift van het besluit waarop het geschil betrekking heeft, overgelegd.\n\n3 Indien het bezwaar- of beroepschrift in een vreemde taal is gesteld en een vertaling voor een goede behandeling van het bezwaar of beroep noodzakelijk is, dient de indiener zorg te dragen voor een vertaling.",
+      "official_path": "/Hoofdstuk6/Afdeling6.2/Artikel6:5",
+      "xml_label_id": "2815024"
+    },
+    {
+      "id": "art-6:6",
+      "text": "Het bezwaar of beroep kan niet-ontvankelijk worden verklaard, indien:\n\na. niet is voldaan aan artikel 6:5 of aan enig ander bij de wet gesteld vereiste voor het in behandeling nemen van het bezwaar of beroep, of\n\nb. het bezwaar- of beroepschrift geheel of gedeeltelijk is geweigerd op grond van artikel 2:15,\n\nmits de indiener de gelegenheid heeft gehad het verzuim te herstellen binnen een hem daartoe gestelde termijn.",
+      "official_path": "/Hoofdstuk6/Afdeling6.2/Artikel6:6",
+      "xml_label_id": "2815034"
+    },
+    {
+      "id": "art-6:7",
+      "text": "De termijn voor het indienen van een bezwaar- of beroepschrift bedraagt zes weken.",
+      "official_path": "/Hoofdstuk6/Afdeling6.2/Artikel6:7",
+      "xml_label_id": "2815044"
+    },
+    {
+      "id": "art-6:8",
+      "text": "1 De termijn vangt aan met ingang van de dag na die waarop het besluit op de voorgeschreven wijze is bekendgemaakt.\n\n2 De termijn voor het indienen van een bezwaarschrift tegen een besluit waartegen alleen door een of meer bepaalde belanghebbenden administratief beroep kon worden ingesteld, vangt aan met ingang van de dag na die waarop de beroepstermijn ongebruikt is verstreken.\n\n3 De termijn voor het indienen van een beroepschrift tegen een besluit dat aan goedkeuring is onderworpen, vangt aan met ingang van de dag na die waarop het besluit, inhoudende de goedkeuring van dat besluit, op de voorgeschreven wijze is bekendgemaakt.\n\n4 De termijn voor het indienen van een beroepschrift tegen een besluit dat tot een of meer belanghebbenden is gericht en dat is voorbereid met toepassing van afdeling 3.4 vangt aan met ingang van de dag na die waarop het besluit overeenkomstig artikel 3:44, eerste lid, onderdeel a, ter inzage is gelegd.",
+      "official_path": "/Hoofdstuk6/Afdeling6.2/Artikel6:8",
+      "xml_label_id": "2815054"
+    },
+    {
+      "id": "art-6:9",
+      "text": "1 Een bezwaar- of beroepschrift is tijdig ingediend indien het voor het einde van de termijn is ontvangen.\n\n2 Bij verzending per post is een bezwaar- of beroepschrift tijdig ingediend indien het voor het einde van de termijn ter post is bezorgd, mits het niet later dan een week na afloop van de termijn is ontvangen.",
+      "official_path": "/Hoofdstuk6/Afdeling6.2/Artikel6:9",
+      "xml_label_id": "2815064"
+    },
+    {
+      "id": "art-6:10",
+      "text": "1 Ten aanzien van een voor het begin van de termijn ingediend bezwaar- of beroepschrift blijft niet-ontvankelijkverklaring op grond daarvan achterwege indien het besluit ten tijde van de indiening:\n\na. wel reeds tot stand was gekomen, of\n\nb. nog niet tot stand was gekomen, maar de indiener redelijkerwijs kon menen dat dit wel reeds het geval was.\n\n2 De behandeling van het bezwaar of beroep kan worden aangehouden tot het begin van de termijn.",
+      "official_path": "/Hoofdstuk6/Afdeling6.2/Artikel6:10",
+      "xml_label_id": "2815074"
+    },
+    {
+      "id": "art-6:11",
+      "text": "Ten aanzien van een na afloop van de termijn ingediend bezwaar- of beroepschrift blijft niet-ontvankelijkverklaring op grond daarvan achterwege indien redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest.",
+      "official_path": "/Hoofdstuk6/Afdeling6.2/Artikel6:11",
+      "xml_label_id": "2815084"
+    },
+    {
+      "id": "art-7:1a",
+      "text": "1 In het bezwaarschrift kan de indiener het bestuursorgaan verzoeken in te stemmen met rechtstreeks beroep bij de bestuursrechter, zulks in afwijking van artikel 7:1.\n\n2 Het bestuursorgaan wijst het verzoek in ieder geval af, indien tegen het besluit een ander bezwaarschrift is ingediend waarin eenzelfde verzoek ontbreekt, tenzij dat andere bezwaarschrift kennelijk niet-ontvankelijk is.\n\n3 Het bestuursorgaan kan instemmen met het verzoek indien de zaak daarvoor geschikt is.\n\n4 Het bestuursorgaan beslist zo spoedig mogelijk op het verzoek. Een beslissing tot instemming wordt genomen zodra redelijkerwijs kan worden aangenomen dat geen nieuwe bezwaarschriften zullen worden ingediend. De artikelen 4:7 en 4:8 zijn niet van toepassing.\n\n5 Indien het bestuursorgaan instemt met het verzoek zendt het het bezwaarschrift, onder vermelding van de datum van ontvangst, onverwijld door aan de bevoegde rechter.\n\n6 Een na de instemming ontvangen bezwaarschrift wordt eveneens onverwijld doorgezonden aan de bevoegde rechter. Indien dit bezwaarschrift geen verzoek als bedoeld in het eerste lid bevat, wordt, in afwijking van artikel 8:41, eerste lid, geen griffierecht geheven.",
+      "official_path": "/Hoofdstuk7/Afdeling7.1/Artikel7:1a",
+      "xml_label_id": "5860644"
+    },
+    {
+      "id": "art-8:24",
+      "text": "1 Partijen kunnen zich laten bijstaan of door een gemachtigde laten vertegenwoordigen.\n\n2 De bestuursrechter kan van een gemachtigde een schriftelijke machtiging verlangen.\n\n3 Het tweede lid is niet van toepassing ten aanzien van advocaten.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.5/Artikel8:24",
+      "xml_label_id": "2815844"
+    },
+    {
+      "id": "art-8:26",
+      "text": "1 De bestuursrechter kan tot de sluiting van het onderzoek ter zitting ambtshalve, op verzoek van een partij of op hun eigen verzoek, belanghebbenden in de gelegenheid stellen als partij aan het geding deel te nemen.\n\n2 Indien de bestuursrechter vermoedt dat er onbekende belanghebbenden zijn, kan hij in de Staatscourant doen aankondigen dat een zaak bij hem aanhangig is. Naast de aankondiging in de Staatscourant kan ook een ander middel voor de aankondiging worden gebruikt.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.5/Artikel8:26",
+      "xml_label_id": "2815864"
+    },
+    {
+      "id": "art-8:27",
+      "text": "1 Partijen die door de bestuursrechter zijn opgeroepen om in persoon dan wel in persoon of bij gemachtigde te verschijnen, al dan niet voor het geven van inlichtingen, zijn verplicht te verschijnen en de verlangde inlichtingen te geven. Partijen worden hierop gewezen, alsmede op artikel 8:31.\n\n2 Indien het een rechtspersoon betreft of een bestuursorgaan dat een college is, kan de bestuursrechter een of meer bepaalde bestuurders onderscheidenlijk een of meer bepaalde leden oproepen.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.5/Artikel8:27",
+      "xml_label_id": "2815874"
+    },
+    {
+      "id": "art-8:29",
+      "text": "1 Partijen die verplicht zijn inlichtingen te geven dan wel stukken over te leggen, kunnen, indien daarvoor gewichtige redenen zijn, het geven van inlichtingen dan wel het overleggen van stukken weigeren of de bestuursrechter mededelen dat uitsluitend hij kennis zal mogen nemen van de inlichtingen onderscheidenlijk de stukken.\n\n2 Gewichtige redenen zijn voor een bestuursorgaan in ieder geval niet aanwezig, voor zover ingevolge de Wet open overheid de verplichting zou bestaan een verzoek om informatie, vervat in de over te leggen stukken, in te willigen.\n\n3 De bestuursrechter beslist of de in het eerste lid bedoelde weigering onderscheidenlijk de beperking van de kennisneming gerechtvaardigd is.\n\n4 Indien de bestuursrechter heeft beslist dat de weigering gerechtvaardigd is, vervalt de verplichting.\n\n5 Indien de bestuursrechter heeft beslist dat de beperking van de kennisneming gerechtvaardigd is, kan hij slechts met toestemming van de andere partijen mede op de grondslag van die inlichtingen onderscheidenlijk die stukken uitspraak doen. Indien de toestemming wordt geweigerd, wordt de zaak verwezen naar een andere kamer.\n\n6 Inzake een beroep tegen een besluit op grond van de Wet open overheid neemt, in zo verre in afwijking van het eerste en derde lid, uitsluitend de bestuursrechter kennis van de stukken waarvan op grond van de Wet open overheid om openbaarmaking of verstrekking is verzocht. De toestemming, bedoeld in het vijfde lid, is van rechtswege verleend.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.5/Artikel8:29",
+      "xml_label_id": "2815894"
+    },
+    {
+      "id": "art-8:31",
+      "text": "Indien een partij niet voldoet aan de verplichting te verschijnen, inlichtingen te geven, stukken over te leggen of mee te werken aan een onderzoek als bedoeld in artikel 8:47, eerste lid, kan de bestuursrechter daaruit de gevolgtrekkingen maken die hem geraden voorkomen.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.5/Artikel8:31",
+      "xml_label_id": "2815914"
+    },
+    {
+      "id": "art-8:32",
+      "text": "1 De bestuursrechter kan, indien de vrees bestaat dat kennisneming van stukken door een partij haar lichamelijke of geestelijke gezondheid zou schaden, bepalen dat deze kennisneming is voorbehouden aan een gemachtigde die advocaat of arts is dan wel daarvoor van de bestuursrechter bijzondere toestemming heeft gekregen.\n\n2 De bestuursrechter kan, indien kennisneming van stukken door een partij de persoonlijke levenssfeer van een ander onevenredig zou schaden, bepalen dat deze kennisneming is voorbehouden aan een gemachtigde die advocaat of arts is dan wel daarvoor van de bestuursrechter bijzondere toestemming heeft gekregen.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.5/Artikel8:32",
+      "xml_label_id": "2815924"
+    },
+    {
+      "id": "art-8:36",
+      "text": "1 Aan de door de bestuursrechter opgeroepen getuigen, deskundigen en tolken en de deskundigen die een onderzoek als bedoeld in artikel 8:47, eerste lid, hebben ingesteld, wordt ten laste van het Rijk een vergoeding toegekend. Het bij en krachtens de Wet tarieven in strafzaken bepaalde is van overeenkomstige toepassing.\n\n2 De partij die een getuige of deskundige heeft meegebracht of opgeroepen, dan wel aan wie een verslag van een deskundige is uitgebracht, is aan deze een vergoeding verschuldigd. Het bij en krachtens de Wet tarieven in strafzaken bepaalde is van overeenkomstige toepassing.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6/Artikel8:36",
+      "xml_label_id": "2815974"
+    },
+    {
+      "id": "art-8:36a",
+      "text": "1 Beroep wordt langs elektronische weg ingesteld.\n\n2 Partijen en andere betrokkenen dienen ook de overige stukken langs elektronische weg in, tenzij de bestuursrechter anders bepaalt. Artikel 6:9 is van overeenkomstige toepassing.\n\n3 Het eerste en het tweede lid zijn van overeenkomstige toepassing op het indienen van verzoeken en het doen van verzet.\n\n4 Het eerste lid is van overeenkomstige toepassing indien een bestuursorgaan een bezwaarschrift doorzendt op grond van artikel 7:1a, vijfde of zesde lid.\n\n5 Indien niet is voldaan aan de verplichtingen die voortvloeien uit het eerste tot en met derde lid of de algemene maatregel van bestuur, bedoeld in artikel 8:36f, eerste lid, stelt de bestuursrechter de desbetreffende partij of andere betrokkene in de gelegenheid dit verzuim te herstellen binnen een door hem te bepalen termijn. Maakt de partij of andere betrokkene van deze gelegenheid geen gebruik, dan kan het beroep niet-ontvankelijk worden verklaard dan wel kan de bestuursrechter het stuk buiten beschouwing laten.\n\n6 In afwijking van het vijfde lid kan de bestuursrechter bepalen dat de procedure wordt voortgezet volgens de regels die gelden voor stukkenwisseling op papier.\n\n7 De bestuursrechter betrekt na afloop van de termijn ingediende stukken als bedoeld in het tweede lid bij zijn beslissing indien redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36a",
+      "xml_label_id": "13681474"
+    },
+    {
+      "id": "art-8:36b",
+      "text": "1 De verplichting tot procederen langs elektronische weg geldt niet voor natuurlijke personen en voor verenigingen waarvan de statuten niet zijn opgenomen in een notariële akte, tenzij zij worden vertegenwoordigd door een derde die beroepsmatig rechtsbijstand verleent.\n\n2 Bij algemene maatregel van bestuur kunnen andere uitzonderingen worden gemaakt op de verplichting tot stukkenwisseling langs elektronische weg bedoeld in artikel 8:36a.\n\n3 Indien een partij niet verplicht is langs elektronische weg te procederen en niet langs elektronische weg procedeert, dient zij de stukken in op papier. De griffier stelt stukken en mededelingen op papier, of indien deze partij dit wenst langs elektronische weg, aan hem ter beschikking en stelt de door deze partij ingediende stukken ter beschikking van de overige partijen.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36b",
+      "xml_label_id": "13681484"
+    },
+    {
+      "id": "art-8:36c--digitaal",
+      "text": "1 Als tijdstip waarop een bericht door de bestuursrechter langs elektronische weg is ontvangen, geldt het tijdstip waarop het bericht het digitale systeem voor gegevensverwerking van de bestuursrechter heeft bereikt. Na elke indiening langs elektronische weg ontvangt de indiener een ontvangstbevestiging in het digitale systeem voor gegevensverwerking.\n\n2 Als tijdstip waarop een bericht dat door de bestuursrechter is geplaatst in het in het eerste lid genoemde digitale systeem voor gegevensverwerking door de geadresseerde is ontvangen, geldt het tijdstip waarop de bestuursrechter de geadresseerde hierover een kennisgeving heeft verzonden buiten het digitale systeem voor gegevensverwerking.\n\n3 Als tijdstip waarop een bericht dat door een partij of een andere betrokkene bij de procedure is geplaatst in het in het eerste lid genoemde digitale systeem voor gegevensverwerking door de andere partijen en betrokkenen bij de procedure is ontvangen, geldt het tijdstip waarop de bestuursrechter de betrokkenen hierover een kennisgeving heeft verzonden buiten het digitale systeem voor gegevensverwerking.\n\n4 Indien een partij of andere betrokkene bij de procedure afziet van digitale bereikbaarheid buiten het digitale systeem voor gegevensverwerking als bedoeld in het eerste lid, zodat de kennisgeving bedoeld in het tweede en derde lid niet kan worden gezonden, geldt als tijdstip waarop een bericht als bedoeld in deze leden door hem is ontvangen, het tijdstip waarop het bericht voor hem toegankelijk is geworden in het digitale systeem voor gegevensverwerking.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c",
+      "xml_label_id": "13681494"
+    },
+    {
+      "id": "art-8:36c--overig",
+      "text": "1 Als tijdstip waarop een bericht door de bestuursrechter langs elektronische weg is ontvangen, geldt het tijdstip waarop het bericht het digitale systeem voor gegevensverwerking van de bestuursrechter heeft bereikt.\n\n2 Als tijdstip waarop een bericht dat door de bestuursrechter is geplaatst in het in het eerste lid genoemde digitale systeem voor gegevensverwerking door de geadresseerde is ontvangen, geldt het tijdstip waarop de bestuursrechter de geadresseerde hierover een kennisgeving heeft verzonden buiten het digitale systeem voor gegevensverwerking.\n\n3 Als tijdstip waarop een bericht dat door een partij of een andere betrokkene bij de procedure is geplaatst in het in het eerste lid genoemde digitale systeem voor gegevensverwerking door de andere partijen en betrokkenen bij de procedure is ontvangen, geldt het tijdstip waarop de bestuursrechter de betrokkenen hierover een kennisgeving heeft verzonden buiten het digitale systeem voor gegevensverwerking.\n\n4 Indien een partij of andere betrokkene bij de procedure afziet van digitale bereikbaarheid buiten het digitale systeem voor gegevensverwerking als bedoeld in het eerste lid, zodat de kennisgeving bedoeld in het tweede en derde lid niet kan worden gezonden, geldt als tijdstip waarop een bericht als bedoeld in deze leden door hem is ontvangen, het tijdstip waarop het bericht voor hem toegankelijk is geworden in het digitale systeem voor gegevensverwerking.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c",
+      "xml_label_id": "13681494"
+    },
+    {
+      "id": "art-8:36d",
+      "text": "1 Waar in de hoofdstukken 6 en 8 voor het verkeer met de bestuursrechter ondertekening is voorgeschreven is aan dit vereiste voldaan indien het stuk is ondertekend met een elektronische handtekening die voldoet aan bij of krachtens algemene maatregel van bestuur te stellen eisen.\n\n2 Een beroepschrift of verzoekschrift dat langs elektronische weg is ingediend in het digitale systeem voor gegevensverwerking van de bestuursrechter, geldt als ondertekend.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36d",
+      "xml_label_id": "13681504"
+    },
+    {
+      "id": "art-8:36e",
+      "text": "De bestuursrechter kan bepalen dat een door of namens hem gemaakte beeld- of geluidsopname van een zakelijke samenvatting van:\n\na. het geven van inlichtingen bedoeld in artikel 8:44,\n\nb. het maken van mondelinge opmerkingen bedoeld in artikel 8:45a, tweede lid,\n\nc. het onderzoek ter plaatse bedoeld in de artikelen 8:50 en 8:51, en\n\nd. de zitting bedoeld in artikel 8:61,\n\nhet proces-verbaal bedoeld in deze artikelen, dan wel de aantekening van het verhandelde ter zitting bedoeld in artikel 8:61, tweede lid, vervangt.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36e",
+      "xml_label_id": "13681514"
+    },
+    {
+      "id": "art-8:36ea",
+      "text": "Voor zover de verplichting tot digitaal procederen als bedoeld in artikel 8:36a niet geldt, kan de bestuursrechter kenbaar maken dat de elektronische weg openstaat voor het instellen van beroep, het aanwenden van andere rechtsmiddelen of het indienen van een ander stuk in het kader van een procedure.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36ea",
+      "xml_label_id": "16684024"
+    },
+    {
+      "id": "art-8:36f",
+      "text": "1 Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het elektronisch verkeer met de bestuursrechter, het digitale systeem voor gegevensverwerking en de verschoonbaarheid van termijnoverschrijdingen wegens verstoring van het digitale systeem voor gegevensverwerking van de rechterlijke instanties of van de toegang tot dit systeem.\n\n2 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van beeld- en geluidsopnamen.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36f",
+      "xml_label_id": "13681524"
+    },
+    {
+      "id": "art-8:36g",
+      "text": "De verzending van berichten door de griffier geschiedt langs elektronische weg, met uitzondering van de berichtgeving aan een partij als bedoeld in artikel 8:36b, die te kennen heeft gegeven deze op papier te willen ontvangen.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.7/Artikel8:36g",
+      "xml_label_id": "13681544"
+    },
+    {
+      "id": "art-8:37",
+      "text": "1 Oproepingen, de uitnodiging om op een zitting van de bestuursrechter te verschijnen, de uitnodiging om te verklaren of van het recht ter zitting te worden gehoord gebruik wordt gemaakt, alsmede de verzending van een afschrift van de uitspraak en van het proces-verbaal van de mondelinge uitspraak aan een geadresseerde voor wie de verplichting tot digitaal procederen als bedoeld in artikel 8:36a niet geldt en die niet digitaal procedeert, geschieden door de griffier bij aangetekende brief, tenzij de bestuursrechter anders bepaalt.\n\n2 Voor het overige geschiedt de verzending van stukken aan geadresseerden als bedoeld in het eerste lid door de griffier bij gewone brief, tenzij de bestuursrechter anders bepaalt.\n\n3 In een brief wordt de datum van verzending vermeld.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.7/Artikel8:37",
+      "xml_label_id": "2815994"
+    },
+    {
+      "id": "art-8:38",
+      "text": "1 Indien de griffier een bij aangetekende brief verzonden stuk terug ontvangt en hem blijkt dat de geadresseerde op de dag van verzending of uiterlijk een week daarna in de basisregistratie personen stond ingeschreven op het op het stuk vermelde adres, dan verzendt hij het stuk zo spoedig mogelijk bij gewone brief.\n\n2 In de overige gevallen waarin de griffier een bij aangetekende brief verzonden stuk terug ontvangt, verbetert hij, indien mogelijk, het op het stuk vermelde adres en verzendt hij het stuk opnieuw bij aangetekende brief.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.7/Artikel8:38",
+      "xml_label_id": "2816004"
+    },
+    {
+      "id": "art-8:39",
+      "text": "1 De griffier zendt de op de zaak betrekking hebbende stukken zo spoedig mogelijk aan partijen, voor zover de bestuursrechter niet op grond van de artikelen 8:29 of 8:32 anders heeft beslist of tenzij het de stukken betreft waarvan op grond van de Wet open overheid om openbaarmaking of verstrekking is verzocht.\n\n2 De griffier kan de toezending van zeer omvangrijke stukken of van stukken die bezwaarlijk kunnen worden vermenigvuldigd, achterwege laten. Hij stelt partijen daarvan in kennis en vermeldt daarbij dat deze stukken gedurende een door hem te bepalen termijn van ten minste een week ter griffie ter inzage worden gelegd.\n\n3 Partijen kunnen afschriften van of uittreksels uit de in het tweede lid bedoelde stukken verkrijgen. Met betrekking tot de kosten is het bij en krachtens de Wet tarieven in strafzaken bepaalde van overeenkomstige toepassing.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.7/Artikel8:39",
+      "xml_label_id": "2816014"
+    },
+    {
+      "id": "art-8:40",
+      "text": "Indien het beroepschrift is ingediend door twee of meer personen, kan worden volstaan met verzending van de oproeping, de uitnodiging om op een zitting van de bestuursrechter te verschijnen, de op de zaak betrekking hebbende stukken en een afschrift van de uitspraak of van het proces-verbaal van de mondelinge uitspraak aan de persoon die als eerste in het beroepschrift is vermeld.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.7/Artikel8:40",
+      "xml_label_id": "2816024"
+    },
+    {
+      "id": "art-8:40a",
+      "text": "Vervallen",
+      "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.7/Artikel8:40a",
+      "xml_label_id": "10495494"
+    },
+    {
+      "id": "art-8:41",
+      "text": "1 Van de indiener van het beroepschrift wordt door de griffier een griffierecht geheven.\n\n2 Het griffierecht bedraagt:\n\na. € 54 indien door een natuurlijke persoon beroep is ingesteld tegen een besluit als omschreven in de bij deze wet behorende Regeling verlaagd griffierecht,\n\nb. € 200 indien door een natuurlijke persoon beroep is ingesteld tegen een ander besluit,\n\nc. € 397 indien anders dan door een natuurlijke persoon beroep is ingesteld.\n\n3 Indien het een beroepschrift tegen twee of meer samenhangende besluiten dan wel van twee of meer indieners tegen hetzelfde besluit betreft, is eenmaal griffierecht verschuldigd. Dit griffierecht is gelijk aan het hoogste van de bedragen die bij toepassing van het tweede lid verschuldigd zouden zijn geweest.\n\n4 De griffier deelt de indiener van het beroepschrift mede welk griffierecht is verschuldigd en wijst hem daarbij op het bepaalde in het vijfde en zesde lid.\n\n5 Het griffierecht dient binnen vier weken na verzending van de mededeling van de griffier te zijn bijgeschreven op de rekening van het gerecht dan wel ter griffie te zijn gestort.\n\n6 Indien het bedrag niet tijdig is bijgeschreven of gestort, is het beroep niet-ontvankelijk, tenzij redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest. In afwijking van de eerste zin blijft niet-ontvankelijkverklaring achterwege, indien aannemelijk is dat de indiener van het beroepschrift op de datum waarop het bedrag uiterlijk moet zijn bijgeschreven of gestort, in betalingsonmacht verkeert.\n\n7 Indien het beroep wordt ingetrokken omdat het bestuursorgaan geheel of gedeeltelijk aan de indiener van het beroepschrift is tegemoetgekomen, vergoedt het bestuursorgaan aan de indiener het door deze betaalde griffierecht.\n\n8 In andere gevallen kan het bestuursorgaan, indien het beroep wordt ingetrokken, het betaalde griffierecht geheel of gedeeltelijk vergoeden.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.1/Artikel8:41",
+      "xml_label_id": "2816054"
+    },
+    {
+      "id": "art-8:41a",
+      "text": "De bestuursrechter beslecht het hem voorgelegde geschil zoveel mogelijk definitief.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.1a/Artikel8:41a",
+      "xml_label_id": "11992854"
+    },
+    {
+      "id": "art-8:42",
+      "text": "1 Binnen vier weken na de dag van verzending van de gronden van het beroepschrift aan het bestuursorgaan zendt dit de op de zaak betrekking hebbende stukken aan de bestuursrechter en kan het een verweerschrift indienen. Indien de bestuursrechter om een verweerschrift heeft verzocht, dient het bestuursorgaan binnen vier weken een verweerschrift in.\n\n2 De bestuursrechter kan de in het eerste lid bedoelde termijnen verlengen.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.2/Artikel8:42",
+      "xml_label_id": "2816074"
+    },
+    {
+      "id": "art-8:43",
+      "text": "1 De bestuursrechter kan de indiener van het beroepschrift in de gelegenheid stellen schriftelijk te repliceren. In dat geval wordt het bestuursorgaan in de gelegenheid gesteld schriftelijk te dupliceren. De bestuursrechter stelt de termijnen voor repliek en dupliek vast.\n\n2 De bestuursrechter stelt andere partijen dan de in het eerste lid bedoelde in de gelegenheid om ten minste eenmaal een schriftelijke uiteenzetting over de zaak te geven. Hij stelt hiervoor een termijn vast.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.2/Artikel8:43",
+      "xml_label_id": "2816084"
+    },
+    {
+      "id": "art-8:44",
+      "text": "1 De bestuursrechter kan partijen oproepen om in persoon dan wel in persoon of bij gemachtigde te verschijnen om te worden gehoord, al dan niet voor het geven van inlichtingen. Indien niet alle partijen worden opgeroepen, worden de niet opgeroepen partijen in de gelegenheid gesteld het horen bij te wonen en een uiteenzetting over de zaak te geven.\n\n2 Van het geven van inlichtingen wordt door de griffier een proces-verbaal opgemaakt.\n\n3 Het wordt door de voorzitter en de griffier ondertekend. Bij verhindering van de voorzitter of de griffier wordt dit in het proces-verbaal vermeld.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.2/Artikel8:44",
+      "xml_label_id": "2816094"
+    },
+    {
+      "id": "art-8:45a",
+      "text": "1 De Europese Commissie en de Autoriteit Consument en Markt kunnen, niet optredende als partij, schriftelijke opmerkingen maken krachtens artikel 15, derde lid, eerste alinea, van de in artikel 8:45, vierde lid, genoemde verordening indien zij de wens daartoe te kennen hebben gegeven. De bestuursrechter kan daarvoor een termijn vaststellen.\n\n2 Met toestemming van de bestuursrechter kunnen de Europese Commissie en de Autoriteit Consument en Markt ook mondelinge opmerkingen maken. De bestuursrechter kan de Europese Commissie en de Autoriteit Consument en Markt voor het maken van mondelinge opmerkingen uitnodigen. Partijen worden in de gelegenheid gesteld daarbij aanwezig te zijn. Artikel 8:44, tweede en derde lid, is van overeenkomstige toepassing.\n\n3 De bestuursrechter doet partijen schriftelijk mededeling van de stukken die hij krachtens artikel 15, derde lid, tweede alinea, van de verordening aan de Europese Commissie of de Autoriteit Consument en Markt verstrekt met het oog op de door hen te maken opmerkingen.\n\n4 Partijen kunnen binnen vier weken na de dag van verzending aan hen van de opmerkingen dan wel van het proces-verbaal van de opmerkingen van de Europese Commissie of de Autoriteit Consument en Markt schriftelijk hun zienswijze met betrekking tot de opmerkingen naar voren brengen. De bestuursrechter kan deze termijn verlengen.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.2/Artikel8:45a",
+      "xml_label_id": "11992874"
+    },
+    {
+      "id": "art-8:47",
+      "text": "1 De bestuursrechter kan een deskundige benoemen voor het instellen van een onderzoek.\n\n2 Bij de benoeming worden vermeld de opdracht die moet worden vervuld en de termijn, bedoeld in het vierde lid.\n\n3 Van het voornemen tot het benoemen van een deskundige als bedoeld in het eerste lid wordt aan partijen mededeling gedaan. De bestuursrechter kan partijen in de gelegenheid stellen om hun wensen omtrent het onderzoek binnen een door hem te bepalen termijn schriftelijk aan hem kenbaar te maken.\n\n4 De bestuursrechter stelt een termijn binnen welke de deskundige aan hem een schriftelijk verslag van het onderzoek uitbrengt.\n\n5 Partijen kunnen binnen vier weken na de dag van verzending van het verslag aan hen schriftelijk hun zienswijze met betrekking tot het verslag naar voren brengen.\n\n6 De bestuursrechter kan de in het vijfde lid bedoelde termijn verlengen.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.2/Artikel8:47",
+      "xml_label_id": "2816124"
+    },
+    {
+      "id": "art-8:50",
+      "text": "1 De bestuursrechter kan een onderzoek ter plaatse instellen. Hij heeft daarbij toegang tot elke plaats voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is.\n\n2 Bestuursorganen verlenen de medewerking die in het belang van het onderzoek is vereist.\n\n3 Van plaats en tijdstip van het onderzoek wordt aan partijen mededeling gedaan. Zij kunnen bij het onderzoek aanwezig zijn.\n\n4 Van het onderzoek wordt door de griffier een proces-verbaal opgemaakt.\n\n5 Het wordt door de voorzitter en de griffier ondertekend. Bij verhindering van de voorzitter of de griffier wordt dit in het proces-verbaal vermeld.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.2/Artikel8:50",
+      "xml_label_id": "2816154"
+    },
+    {
+      "id": "art-8:51",
+      "text": "1 De bestuursrechter kan aan de griffier opdragen een onderzoek ter plaatse in te stellen. Deze heeft daarbij toegang tot elke plaats voor zover dat redelijkerwijs voor de vervulling van de hem opgedragen taak nodig is. De bestuursrechter is bevoegd tot het geven van een machtiging tot binnentreden.\n\n2 Artikel 8:50, tweede en derde lid, is van overeenkomstige toepassing.\n\n3 Van het onderzoek wordt door de griffier een proces-verbaal opgemaakt, dat door hem wordt ondertekend.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.2/Artikel8:51",
+      "xml_label_id": "2816164"
+    },
+    {
+      "id": "art-8:51a",
+      "text": "1 De bestuursrechter kan het bestuursorgaan in de gelegenheid stellen een gebrek in het bestreden besluit te herstellen of te laten herstellen. De vorige volzin vindt geen toepassing, indien belanghebbenden die niet als partij aan het geding deelnemen daardoor onevenredig kunnen worden benadeeld.\n\n2 De bestuursrechter bepaalt de termijn waarbinnen het bestuursorgaan het gebrek kan herstellen. Hij kan deze termijn verlengen.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.2a/Artikel8:51a",
+      "xml_label_id": "10321804"
+    },
+    {
+      "id": "art-8:58",
+      "text": "1 Tot tien dagen voor de zitting kunnen partijen nadere stukken indienen.\n\n2 Op deze bevoegdheid worden partijen in de uitnodiging, bedoeld in artikel 8:56, gewezen.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.5/Artikel8:58",
+      "xml_label_id": "2816264"
+    },
+    {
+      "id": "art-8:61",
+      "text": "1 De voorzitter heeft de leiding van de zitting.\n\n2 De griffier houdt aantekening van het verhandelde ter zitting.\n\n3 De griffier maakt van de zitting een proces-verbaal op:\n\na. indien de bestuursrechter dit ambtshalve of op verzoek van een partij die daarbij belang heeft, bepaalt, of\n\nb. op verzoek van de hogerberoepsrechter of de Hoge Raad.\n\n4 Het bevat de namen van de rechter of de rechters die de zaak behandelt onderscheidenlijk behandelen, die van partijen en van hun vertegenwoordigers of gemachtigden die op de zitting zijn verschenen en van degenen die hen hebben bijgestaan, en die van de getuigen, deskundigen en tolken die op de zitting zijn verschenen.\n\n5 Het houdt een vermelding in van hetgeen op de zitting met betrekking tot de zaak is voorgevallen.\n\n6 Het wordt door de voorzitter en de griffier ondertekend. Bij verhindering van de voorzitter of de griffier wordt dit in het proces-verbaal vermeld.\n\n7 Aan het proces-verbaal kunnen overgelegde pleitnotities worden gehecht.\n\n8 De bestuursrechter kan bepalen dat de verklaring van een partij, getuige of deskundige geheel in het proces-verbaal zal worden opgenomen. In dat geval wordt de verklaring onverwijld op schrift gesteld en aan de partij, getuige of deskundige voorgelezen. Deze mag daarin wijzigingen aanbrengen, die op schrift worden gesteld en aan de partij, getuige of deskundige worden voorgelezen. De verklaring wordt door de partij, getuige of deskundige ondertekend. Heeft ondertekening niet plaats, dan wordt de reden daarvan in het proces-verbaal vermeld.\n\n9 Nadat de bestuursrechter toepassing heeft gegeven aan artikel 8:36e, kan de hogerberoepsrechter of de Hoge Raad verzoeken een schriftelijke weergave van de gesproken tekst van de beeld- of geluidsopname op te stellen.\n\n10 De griffier die een proces-verbaal opmaakt stelt dit ter beschikking aan partijen, indien het derde lid, aanhef en onder a, van toepassing is.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.5/Artikel8:61",
+      "xml_label_id": "2816294"
+    },
+    {
+      "id": "art-8:69",
+      "text": "1 De bestuursrechter doet uitspraak op de grondslag van het beroepschrift, de overgelegde stukken, het verhandelde tijdens het vooronderzoek en het onderzoek ter zitting.\n\n2 De bestuursrechter vult ambtshalve de rechtsgronden aan.\n\n3 De bestuursrechter kan ambtshalve de feiten aanvullen.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.6/Artikel8:69",
+      "xml_label_id": "2816384"
+    },
+    {
+      "id": "art-8:72",
+      "text": "1 Indien de bestuursrechter het beroep gegrond verklaart, vernietigt hij het bestreden besluit geheel of gedeeltelijk.\n\n2 De vernietiging van een besluit of een gedeelte van een besluit brengt vernietiging van de rechtsgevolgen van dat besluit of van het vernietigde gedeelte daarvan mee.\n\n3 De bestuursrechter kan bepalen dat:\n\na. de rechtsgevolgen van het vernietigde besluit of het vernietigde gedeelte daarvan geheel of gedeeltelijk in stand blijven, of\n\nb. zijn uitspraak in de plaats treedt van het vernietigde besluit of het vernietigde gedeelte daarvan.\n\n4 De bestuursrechter kan, indien toepassing van het derde lid niet mogelijk is, het bestuursorgaan opdragen een nieuw besluit te nemen of een andere handeling te verrichten met inachtneming van zijn aanwijzingen. Daarbij kan hij:\n\na. bepalen dat wettelijke voorschriften over de voorbereiding van het nieuwe besluit of de andere handeling geheel of gedeeltelijk buiten toepassing blijven;\n\nb. het bestuursorgaan een termijn stellen voor het nemen van het nieuwe besluit of het verrichten van de andere handeling.\n\n5 De bestuursrechter kan zo nodig een voorlopige voorziening treffen. Daarbij bepaalt hij het tijdstip waarop de voorlopige voorziening vervalt.\n\n6 De bestuursrechter kan bepalen dat, indien of zolang het bestuursorgaan niet voldoet aan een uitspraak, het bestuursorgaan aan een door hem aangewezen partij een in de uitspraak vast te stellen dwangsom verbeurt. De artikelen 611a, vierde lid, 611b tot en met 611d en 611g van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.6/Artikel8:72",
+      "xml_label_id": "2816414"
+    },
+    {
+      "id": "art-8:74",
+      "text": "1 Indien de bestuursrechter het beroep gegrond verklaart, houdt de uitspraak tevens in dat aan de indiener van het beroepschrift het door hem betaalde griffierecht wordt vergoed door het bestuursorgaan.\n\n2 In de overige gevallen kan de uitspraak inhouden dat het betaalde griffierecht door het bestuursorgaan geheel of gedeeltelijk wordt vergoed.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.6/Artikel8:74",
+      "xml_label_id": "2816434"
+    },
+    {
+      "id": "art-8:75",
+      "text": "1 De bestuursrechter is bij uitsluiting bevoegd een partij te veroordelen in de kosten die een andere partij in verband met de behandeling van het beroep bij de bestuursrechter, en van het bezwaar of van het administratief beroep redelijkerwijs heeft moeten maken. De artikelen 7:15, tweede tot en met vierde lid, en 7:28, tweede, vierde en vijfde lid, zijn van toepassing. Een natuurlijke persoon kan slechts in de kosten worden veroordeeld in geval van kennelijk onredelijk gebruik van procesrecht. Bij algemene maatregel van bestuur worden nadere regels gesteld over de kosten waarop een veroordeling als bedoeld in de eerste volzin uitsluitend betrekking kan hebben en over de wijze waarop bij de uitspraak het bedrag van de kosten wordt vastgesteld.\n\n2 In geval van een veroordeling in de kosten ten behoeve van een partij aan wie ter zake van het beroep bij de bestuursrechter, het bezwaar of het administratief beroep een toevoeging is verleend krachtens de Wet op de rechtsbijstand, wordt het bedrag van de kosten betaald aan de rechtsbijstandverlener. De rechtsbijstandverlener stelt de belanghebbende zoveel mogelijk schadeloos voor de door deze voldane eigen bijdrage. De rechtsbijstandverlener doet aan de Raad voor rechtsbijstand opgave van een kostenvergoeding door het bestuursorgaan.",
+      "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.6/Artikel8:75",
+      "xml_label_id": "2816444"
+    }
+  ]
+}

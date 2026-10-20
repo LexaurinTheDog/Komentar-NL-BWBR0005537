@@ -1,0 +1,90 @@
+{
+  "complete": true,
+  "kind": "bounded_author",
+  "authored_ids": [
+    "art-8:36",
+    "art-8:36a",
+    "art-8:36b",
+    "art-8:36c--digitaal",
+    "art-8:36c--overig",
+    "art-8:36d",
+    "art-8:36e",
+    "art-8:36ea",
+    "art-8:36f",
+    "art-8:36g",
+    "art-8:37",
+    "art-8:38",
+    "art-8:39",
+    "art-8:40",
+    "art-8:40a",
+    "art-8:41",
+    "art-8:41a",
+    "art-8:42",
+    "art-8:43",
+    "art-8:44"
+  ],
+  "completed_units": 20,
+  "total_assigned": 20,
+  "written_book_units": 400,
+  "total_book_units": 588,
+  "whole_book_complete": false,
+  "independent_review": false,
+  "source_preflight": "sources/author-8-36-44/preflight-result.json",
+  "technical_support": "sources/author-8-36-44/technical-check.json",
+  "author_content_check": "sources/author-8-36-44/author-content-check.json",
+  "case_law_sources": [
+    {
+      "ecli": "ECLI:NL:HR:2025:158",
+      "court": "Hoge Raad",
+      "date": "2025-01-31",
+      "docket": "24/03954",
+      "paragraphs": "3.2.1–3.3; volledige context 1–5.4 en dictum",
+      "supported_units": [
+        "art-8:36c--digitaal",
+        "art-8:36c--overig"
+      ],
+      "case_card": "case-cards/ECLI-NL-HR-2025-158.md",
+      "official_full_text_read": true,
+      "sha256": "85034e3ef41f0750051744960225be12078e6cc7b4440b77e40a591110809ef5"
+    },
+    {
+      "ecli": "ECLI:NL:HR:2015:354",
+      "court": "Hoge Raad",
+      "date": "2015-02-20",
+      "docket": "14/05176",
+      "paragraphs": "2.3.1–2.3.8, 2.4.1–2.5 en dictum; geheel arrest gelezen",
+      "supported_units": [
+        "art-8:41"
+      ],
+      "case_card": "case-cards/ECLI-NL-HR-2015-354.md",
+      "official_full_text_read": true,
+      "sha256": "ed9293c29ef7db2ba7cf0c9aef0edc27f2eb2d4f0048c75eacad47da02d44d9c"
+    },
+    {
+      "ecli": "ECLI:NL:HR:2018:672",
+      "court": "Hoge Raad",
+      "date": "2018-05-04",
+      "docket": "16/04237",
+      "paragraphs": "3.4.1–3.4.5, toepassing 3.5.1–3.5.3; context 3.1–3.6, 4–6 en dictum",
+      "supported_units": [
+        "art-8:42"
+      ],
+      "case_card": "case-cards/ECLI-NL-HR-2018-672-8-42.md",
+      "official_full_text_read": true,
+      "sha256": "3ab65005dcd07f0e770d5a390e43e7546c424b8aebe9a1751ed840021561aef8"
+    }
+  ],
+  "shared_builder": {
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "CHYBÍ komentář k 188 jednotkám, např.: ['art-8:45', 'art-8:45a', 'art-8:46', 'art-8:47', 'art-8:48', 'art-8:49', 'art-8:50', 'art-8:51', 'art-8:51a', 'art-8:51b']\n"
+  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "188 eenheden buiten deze afgebakende auteursbatch zijn nog ongeschreven.",
+    "De twintig toelichtingen bij 8:36–8:44 wachten op onafhankelijke tweede beoordeling; bestaande beoordelingen zijn behouden.",
+    "Selectieve rechtspraak, geen volledige latere-behandelingscontrole. Historische draagkrachtcriteria niet als actuele normen toegepast.",
+    "Geen volledige gefaseerde invoeringskaart voor alle gerechten/zaaktypen; toepasselijkheid moet per procedure worden vastgesteld.",
+    "Technische lengte- en tekstcontroles bewijzen geen juridische kwaliteit."
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "searched_at": "2026-10-20T18:55:37.397617+00:00",
+  "method": "Primary web discovery followed by direct full official XML retrieval and full reading. Targeted exact-ECLI check of national judicial corpus; copied local derivatives for comparison.",
+  "queries": [
+    "site.rechtspraak.nl griffierecht betalingsonmacht 8:41 2015 354",
+    "site.rechtspraak.nl 8:36c kennisgeving ontvangen digitale systeem",
+    "site.rechtspraak.nl 8:36c 2025:158",
+    "HR2018:672 dossierbegrip (re-read existing primary authority for different supported unit)"
+  ],
+  "used_cases": [
+    {
+      "ecli": "ECLI:NL:HR:2025:158",
+      "court": "Hoge Raad",
+      "date": "2025-01-31",
+      "docket": "24/03954",
+      "paragraphs": "3.2.1–3.3; volledige context 1–5.4 en dictum",
+      "supported_units": [
+        "art-8:36c--digitaal",
+        "art-8:36c--overig"
+      ],
+      "case_card": "case-cards/ECLI-NL-HR-2025-158.md",
+      "official_full_text_read": true,
+      "sha256": "85034e3ef41f0750051744960225be12078e6cc7b4440b77e40a591110809ef5"
+    },
+    {
+      "ecli": "ECLI:NL:HR:2015:354",
+      "court": "Hoge Raad",
+      "date": "2015-02-20",
+      "docket": "14/05176",
+      "paragraphs": "2.3.1–2.3.8, 2.4.1–2.5 en dictum; geheel arrest gelezen",
+      "supported_units": [
+        "art-8:41"
+      ],
+      "case_card": "case-cards/ECLI-NL-HR-2015-354.md",
+      "official_full_text_read": true,
+      "sha256": "ed9293c29ef7db2ba7cf0c9aef0edc27f2eb2d4f0048c75eacad47da02d44d9c"
+    },
+    {
+      "ecli": "ECLI:NL:HR:2018:672",
+      "court": "Hoge Raad",
+      "date": "2018-05-04",
+      "docket": "16/04237",
+      "paragraphs": "3.4.1–3.4.5, toepassing 3.5.1–3.5.3; context 3.1–3.6, 4–6 en dictum",
+      "supported_units": [
+        "art-8:42"
+      ],
+      "case_card": "case-cards/ECLI-NL-HR-2018-672-8-42.md",
+      "official_full_text_read": true,
+      "sha256": "3ab65005dcd07f0e770d5a390e43e7546c424b8aebe9a1751ed840021561aef8"
+    }
+  ],
+  "local_corpus": "sources/author-8-36-44/local-case-search.json",
+  "no_separate_verified_case_added_for": [
+    "art-8:36",
+    "art-8:36a",
+    "art-8:36b",
+    "art-8:36d",
+    "art-8:36e",
+    "art-8:36ea",
+    "art-8:36f",
+    "art-8:36g",
+    "art-8:37",
+    "art-8:38",
+    "art-8:39",
+    "art-8:40",
+    "art-8:40a",
+    "art-8:41a",
+    "art-8:43",
+    "art-8:44"
+  ],
+  "limits": [
+    "No exhaustive search or complete later-treatment audit.",
+    "No independently read cases inferred from citations within judgments.",
+    "Historical fee amounts and income thresholds not used as current law.",
+    "Case 2025:158 reserves further decisions; no completed referral asserted."
+  ],
+  "firecrawl": "Authenticated status reported zero credits; no Firecrawl extraction claimed. Direct official HTTP snapshots used."
+}

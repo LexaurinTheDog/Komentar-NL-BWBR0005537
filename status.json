@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T18:47:09.935302+00:00",
+  "updated_at": "2026-10-20T18:57:35.623481+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -17,12 +17,12 @@
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
     "review_verified_at": "2026-10-20T18:45:47.982120+00:00",
     "review_evidence": "sources/review-019/verification.json",
-    "author_batch_verified_at": "2026-10-20T18:39:30.437073+00:00",
-    "author_batch_evidence": "sources/author-8-18-35/verification.json"
+    "author_batch_verified_at": "2026-10-20T18:57:35.623481+00:00",
+    "author_batch_evidence": "sources/author-8-36-44/verification.json"
   },
   "official_articles": 584,
   "total_units": 588,
-  "completed_units": 380,
+  "completed_units": 400,
   "completed_ids": [
     "aanhef",
     "art-1:1",
@@ -403,9 +403,7 @@
     "art-8:32a",
     "art-8:33",
     "art-8:34",
-    "art-8:35"
-  ],
-  "missing_commentary_ids": [
+    "art-8:35",
     "art-8:36",
     "art-8:36a",
     "art-8:36b",
@@ -425,7 +423,9 @@
     "art-8:41a",
     "art-8:42",
     "art-8:43",
-    "art-8:44",
+    "art-8:44"
+  ],
+  "missing_commentary_ids": [
     "art-8:45",
     "art-8:45a",
     "art-8:46",
@@ -691,7 +691,9 @@
       "ECLI:NL:RVS:2020:1367",
       "ECLI:NL:RVS:2023:4471",
       "ECLI:NL:HR:2018:672",
-      "ECLI:NL:RVS:2026:3129"
+      "ECLI:NL:RVS:2026:3129",
+      "ECLI:NL:HR:2025:158",
+      "ECLI:NL:HR:2015:354"
     ],
     "fetched_not_yet_assessed": [],
     "scope": "selective",
@@ -748,40 +750,32 @@
       ],
       "evidence": "sources/author-8-18-35/used-cases.json",
       "scope": "selective"
+    },
+    "author_8_36_44": {
+      "read_and_used": [
+        "ECLI:NL:HR:2025:158",
+        "ECLI:NL:HR:2015:354",
+        "ECLI:NL:HR:2018:672"
+      ],
+      "evidence": "sources/author-8-36-44/used-cases.json",
+      "scope": "selective"
     }
   },
   "coverage": true,
   "validation_result": {
     "complete": false,
-    "reason": "208 ontbrekende toelichtingen buiten de twintig toegewezen revieweenheden.",
-    "not_independent_review": false,
+    "reason": "188 ontbrekende commentaren buiten deze auteursbatch.",
+    "not_independent_review": true,
     "whole_book_complete": false,
     "bounded_author_passed": true,
-    "evidence": "strict-validation.json",
-    "strict_validator": {
-      "repo": "Komentar-NL-BWBR0005537",
-      "units": 588,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 749793,
-      "errors": [
-        "krátký/chybějící komentář u 208 jednotek: ['art-8:36(0<400)', 'art-8:36a(0<400)', 'art-8:36b(0<400)', 'art-8:36c--digitaal(0<400)', 'art-8:36c--overig(0<400)', 'art-8:36d(0<400)', 'art-8:36e(0<400)', 'art-8:36ea(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
-    },
-    "validated_at": "2026-10-20T18:47:09.935302+00:00",
-    "source_text_agreement": 1.0,
-    "output_clean_at_strict_check": true,
-    "independent_review_scope": "Exactly twenty ids in review-result.json; earlier 360 commentaries preserved. Whole book incomplete.",
-    "assigned_batch_passed": true
+    "evidence": "batch-8-36-44-validation.json"
   },
   "remaining_limitations": [
-    "208 eenheden buiten deze reviewopdracht blijven ongeschreven; het gehele boek is onvoltooid.",
-    "Vijf bestaande volledige officiële uitspraken herlezen; rechtspraakdekking en controle van latere behandeling zijn selectief.",
-    "Drie lokale bodies stemmen onder witruimtenormalisatie geheel overeen; twee HR-derivaten verschillen in serialisatie. De officiële volledige tekst is leidend.",
-    "De vorige en geselecteerde wetstoestand zijn afzonderlijk gecontroleerd; niet alle historische versies zijn gedownload.",
-    "Firecrawl had nul tegoed; negentien rechtstreekse officiële responsen zijn wel opgehaald en gevalideerd.",
-    "Tekstidentiteit, lengte en herhalingscontrole zijn technische controles en bewijzen niet zelfstandig juridische kwaliteit. Geen externe professionele goedkeuring."
+    "188 eenheden buiten deze afgebakende auteursbatch zijn nog ongeschreven.",
+    "De twintig toelichtingen bij 8:36–8:44 wachten op onafhankelijke tweede beoordeling; bestaande beoordelingen zijn behouden.",
+    "Selectieve rechtspraak, geen volledige latere-behandelingscontrole. Historische draagkrachtcriteria niet als actuele normen toegepast.",
+    "Geen volledige gefaseerde invoeringskaart voor alle gerechten/zaaktypen; toepasselijkheid moet per procedure worden vastgesteld.",
+    "Technische lengte- en tekstcontroles bewijzen geen juridische kwaliteit."
   ],
   "preflight": {
     "complete": true,
@@ -811,31 +805,30 @@
   "last_author_batch": {
     "task": "bounded_author",
     "ids": [
-      "art-8:18",
-      "art-8:19",
-      "art-8:20",
-      "art-8:21",
-      "art-8:22",
-      "art-8:23",
-      "art-8:24",
-      "art-8:25",
-      "art-8:26",
-      "art-8:27",
-      "art-8:28",
-      "art-8:28a",
-      "art-8:29",
-      "art-8:30",
-      "art-8:31",
-      "art-8:32",
-      "art-8:32a",
-      "art-8:33",
-      "art-8:34",
-      "art-8:35"
+      "art-8:36",
+      "art-8:36a",
+      "art-8:36b",
+      "art-8:36c--digitaal",
+      "art-8:36c--overig",
+      "art-8:36d",
+      "art-8:36e",
+      "art-8:36ea",
+      "art-8:36f",
+      "art-8:36g",
+      "art-8:37",
+      "art-8:38",
+      "art-8:39",
+      "art-8:40",
+      "art-8:40a",
+      "art-8:41",
+      "art-8:41a",
+      "art-8:42",
+      "art-8:43",
+      "art-8:44"
     ],
     "completed_units": 20,
-    "evidence": "batch-8-18-35-result.json",
-    "independently_reviewed": true,
-    "independent_review_evidence": "review-result.json"
+    "evidence": "batch-8-36-44-result.json",
+    "independently_reviewed": false
   },
   "bounded_independent_review": {
     "complete": true,
