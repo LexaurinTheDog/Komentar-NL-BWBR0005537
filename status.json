@@ -782,7 +782,20 @@
     "reason": "168 ontbrekende commentaren buiten deze auteursbatch.",
     "bounded_author_passed": true,
     "not_independent_review": true,
-    "evidence": "batch-8-45-55c-validation.json"
+    "evidence": "batch-8-45-55c-validation.json",
+    "strict_output": {
+      "repo": "Komentar-NL-BWBR0005537",
+      "units": 588,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 843569,
+      "errors": [
+        "krátký/chybějící komentář u 168 jednotek: ['art-8:55d(0<400)', 'art-8:55e(0<400)', 'art-8:55f(0<400)', 'art-8:56(0<400)', 'art-8:57(0<400)', 'art-8:58(0<400)', 'art-8:59(0<120)', 'art-8:60(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "verbatim_ratio": 1.0,
+    "strict_checked_at": "2026-10-20T19:17:07.907956+00:00"
   },
   "remaining_limitations": [
     "168 eenheden buiten deze afgebakende auteursbatch zijn nog ongeschreven.",

@@ -6,5 +6,27 @@
   "whole_book_complete": false,
   "global_missing_commentaries": 168,
   "source_text_agreement": 1.0,
-  "independent_review": false
+  "independent_review": false,
+  "strict_validation": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 843569,
+    "errors": [
+      "krátký/chybějící komentář u 168 jednotek: ['art-8:55d(0<400)', 'art-8:55e(0<400)', 'art-8:55f(0<400)', 'art-8:56(0<400)', 'art-8:57(0<400)', 'art-8:58(0<400)', 'art-8:59(0<120)', 'art-8:60(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "strict_exit_code": 1,
+  "strict_checked_at": "2026-10-20T19:17:07.907956+00:00",
+  "audit": {
+    "official_xml_text_units_compared": 588,
+    "exact_text_match": true,
+    "commented_units": 420,
+    "prior400_preserved": true,
+    "broken_links": 0,
+    "exact_repeated_paragraphs": 0,
+    "exact_repeated_long_sentences": 0
+  }
 }

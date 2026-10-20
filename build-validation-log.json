@@ -7,5 +7,24 @@
   },
   "checkpoint_method": "Unchanged shared builder executed; it correctly refuses168 out-of-scope missing commentaries. Only affected chapters20/21 assembled using shared load_units/load_commentary/quote. No dummy prose and no weakened validation.",
   "bounded_author_complete": true,
-  "whole_book_complete": false
+  "whole_book_complete": false,
+  "strict_validation": {
+    "exit_code": 1,
+    "result": {
+      "repo": "Komentar-NL-BWBR0005537",
+      "units": 588,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 843569,
+      "errors": [
+        "krátký/chybějící komentář u 168 jednotek: ['art-8:55d(0<400)', 'art-8:55e(0<400)', 'art-8:55f(0<400)', 'art-8:56(0<400)', 'art-8:57(0<400)', 'art-8:58(0<400)', 'art-8:59(0<120)', 'art-8:60(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "checked_at": "2026-10-20T19:17:07.907956+00:00"
+  },
+  "whitespace_check": {
+    "original_prose_and_scripts": "passed",
+    "raw_evidence": "Raw HTTP response bodies preserve original whitespace and line endings; not rewritten to satisfy git whitespace style checks."
+  }
 }
