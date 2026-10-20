@@ -8556,5 +8556,56 @@
       }
     ],
     "preflight": "sources/author-9-14-33/preflight-result.json"
+  },
+  "review_026": {
+    "requests": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0005537",
+        "accessed_at": "2026-10-20T22:30:59.915498+00:00",
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+        "content_type": "text/html;charset=UTF-8",
+        "path": "sources/review-026/current.html",
+        "bytes": 4204181,
+        "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+        "accepted_format": true
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+        "accessed_at": "2026-10-20T22:31:06.429125+00:00",
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+        "content_type": "text/html;charset=UTF-8",
+        "path": "sources/review-026/history.html",
+        "bytes": 1755568,
+        "sha256": "363f60c122fcdbe83110ee5d27463a014a56031605551e356667be973ad87cec",
+        "accepted_format": true
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+        "accessed_at": "2026-10-20T22:31:07.643902+00:00",
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+        "content_type": "application/xml",
+        "path": "sources/review-026/selected.xml",
+        "bytes": 2622149,
+        "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+        "xml_root": "toestand",
+        "accepted_format": true
+      },
+      {
+        "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CRVB:2011:BU3479",
+        "accessed_at": "2026-10-20T22:31:08.885694+00:00",
+        "http_status": 200,
+        "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CRVB:2011:BU3479",
+        "content_type": "application/xml",
+        "path": "sources/review-026/ECLI-NL-CRVB-2011-BU3479.xml",
+        "bytes": 11899,
+        "sha256": "46a96fdae1e98a734c62fa3082c1788af1acc2c647223d0f579035646905d779",
+        "xml_root": "open-rechtspraak",
+        "accepted_format": true
+      }
+    ],
+    "preflight": "sources/review-026/preflight-result.json"
   }
 }

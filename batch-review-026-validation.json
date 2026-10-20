@@ -1,0 +1,14 @@
+{
+  "bounded_review_passed": true,
+  "units_reviewed": 20,
+  "changed_units": 5,
+  "preserved_outside_scope_commentaries": 500,
+  "whole_book_complete": false,
+  "source_text_agreement": 1.0,
+  "shared_builder": {
+    "exit_code": 1,
+    "stderr": "CHYBÍ komentář k 68 jednotkám, např.: ['art-9:34', 'art-9:35', 'art-9:36', 'art-9:36a', 'art-10:1', 'art-10:2', 'art-10:3', 'art-10:4', 'art-10:5', 'art-10:6']\n"
+  },
+  "build_method": "Affected chapters rendered with unchanged shared load_units/load_commentary/quote functions because full builder refuses68 unwritten out-of-scope units.",
+  "high_similarity_pairs": []
+}

@@ -1,0 +1,14 @@
+{
+  "at": "2026-10-20T22:32:03.560453+00:00",
+  "method": "Gerichte tweede controle bestaande verwijzing: volledige verse primaire XML en nationaal corpus. Geen nieuwe algemene jurisprudentiezoektocht.",
+  "query": "ECLI:NL:CRVB:2011:BU3479",
+  "selected": [
+    "ECLI:NL:CRVB:2011:BU3479"
+  ],
+  "local_corpus_snapshot": "sources/review-026/ECLI-NL-CRVB-2011-BU3479-local.md",
+  "local_corpus_sha256": "acb896148ddbb1dcf7a2afc4ff37612db32fe482999df8d0998d11d4ceaa14bc",
+  "other_assigned_units": "Geen afzonderlijke voldoende relevante zaak geselecteerd; toelichting steunt op normtekst.",
+  "limitations": [
+    "Selectieve verificatie; geen uitputtende latere-behandelingscontrole."
+  ]
+}

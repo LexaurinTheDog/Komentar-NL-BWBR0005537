@@ -1,6 +1,6 @@
 {
-  "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T22:29:57.965706+00:00",
+  "stage": "reviewing_incomplete",
+  "updated_at": "2026-10-20T22:32:03.560453+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -1383,187 +1383,186 @@
     "kind": "bounded_second_pass",
     "units_reviewed": 20,
     "reviewed_ids": [
-      "art-8:114",
-      "art-8:115",
-      "art-8:116",
-      "art-8:117",
-      "art-8:118",
-      "art-8:119",
-      "art-9:1",
-      "art-9:2",
-      "art-9:3",
-      "art-9:4",
-      "art-9:5",
-      "art-9:6",
-      "art-9:7",
-      "art-9:8",
-      "art-9:9",
-      "art-9:10",
-      "art-9:11",
-      "art-9:12",
-      "art-9:12a",
-      "art-9:13"
+      "art-9:14",
+      "art-9:15",
+      "art-9:16",
+      "art-9:17",
+      "art-9:18",
+      "art-9:19",
+      "art-9:20",
+      "art-9:21",
+      "art-9:22",
+      "art-9:23",
+      "art-9:24",
+      "art-9:25",
+      "art-9:26",
+      "art-9:27",
+      "art-9:28",
+      "art-9:29",
+      "art-9:30",
+      "art-9:31",
+      "art-9:32",
+      "art-9:33"
     ],
     "changed_commentary_ids": [
-      "art-8:115",
-      "art-8:118",
-      "art-8:119",
-      "art-9:3",
-      "art-9:8",
-      "art-9:13"
+      "art-9:17",
+      "art-9:22",
+      "art-9:23",
+      "art-9:28",
+      "art-9:32"
     ],
     "unresolved_blockers": [],
     "findings": [
       {
-        "id": "art-8:114",
+        "id": "art-9:14",
         "checked_against_full_source": true,
         "disposition": "retained",
-        "review": "Beide leden gelezen: verplichte vergoeding bij gehele/gedeeltelijke vernietiging, keuze griffier en facultatieve vergoeding elders; proceskosten correct onderscheiden. Behouden.",
-        "commentary_chars": 1282
+        "review": "Beide leden: formele aanwijzing, algemene instructies en blijvende bestuursverantwoordelijkheid; 9:7, 9:11–14 en 9:16 gecontroleerd. Behouden.",
+        "commentary_chars": 1413
       },
       {
-        "id": "art-8:115",
+        "id": "art-9:15",
+        "checked_against_full_source": true,
+        "disposition": "retained",
+        "review": "Alle vier leden: ontvangstbericht, horen door adviseur of commissielid, beslissing over hooruitzonderingen en rapport met hoorverslag, advies en aanbevelingen. Behouden.",
+        "commentary_chars": 1502
+      },
+      {
+        "id": "art-9:16",
+        "checked_against_full_source": true,
+        "disposition": "retained",
+        "review": "Enige volzin: reden voor afwijkende conclusies en toezending advies bij9:12; geen bindend advies of nieuwe beroepsgang afgeleid. Checklist bruikbaar. Behouden.",
+        "commentary_chars": 1678
+      },
+      {
+        "id": "art-9:17",
         "checked_against_full_source": true,
         "disposition": "corrected",
-        "review": "Terugwijzing onder a en b en dossieroverdracht gelezen. Verduidelijkt dat na het noodzakelijkheidsoordeel ook b terugwijzing voorschrijft; uitzondering 8:116 alleen onder a.",
-        "commentary_chars": 1472
+        "review": "Beide onderdelen: Nationale ombudsman en vier wettelijke grondslagen decentrale ombudsvoorzieningen. Vier wetten expliciet benoemd; onderscheid interne adviseur behouden.",
+        "commentary_chars": 1321
       },
       {
-        "id": "art-8:116",
+        "id": "art-9:18",
         "checked_against_full_source": true,
         "disposition": "retained",
-        "review": "Enige volzin gelezen: beperkte verwijzing naar 8:115(1)(a), rechterlijk oordeel over ontbreken nadere behandeling en bevoegdheid tot eigen afdoening correct; behouden.",
-        "commentary_chars": 1214
+        "review": "Alle drie leden: een ieder, gedrag jegens ander, schriftelijk verzoek, doorzending met datum en mededeling, hoofdregel onderzoek en uitzonderingen. Behouden.",
+        "commentary_chars": 1388
       },
       {
-        "id": "art-8:117",
+        "id": "art-9:19",
         "checked_against_full_source": true,
         "disposition": "retained",
-        "review": "Enige volzin gelezen: verkeerde rechtbank en facultatieve heling onderscheiden van eigen onbevoegdverklaring en overige rechterlijke fouten; behouden.",
-        "commentary_chars": 1238
+        "review": "Beide leden: openstaand rechtsmiddel naar oordeel ombudsman, waarschuwing/overdracht tenzij terugzending gewenst, ontvangstdatum en6:15(3). Geen heropening verstreken termijn. Behouden.",
+        "commentary_chars": 1464
       },
       {
-        "id": "art-8:118",
+        "id": "art-9:20",
+        "checked_against_full_source": true,
+        "disposition": "retained",
+        "review": "Beide leden: interne klacht als uitgangspunt, redelijkheidsuitzondering en afzonderlijke uitzondering klachtbehandeling; gevolg9:23(h) juist. Behouden.",
+        "commentary_chars": 1424
+      },
+      {
+        "id": "art-9:21",
+        "checked_against_full_source": true,
+        "disposition": "retained",
+        "review": "Volledige overeenkomstige toepassing hoofdstuk2 gelezen en uitzondering2:3(1) vergeleken met bijzondere doorzendregels9:18–19. Behouden.",
+        "commentary_chars": 1368
+      },
+      {
+        "id": "art-9:22",
         "checked_against_full_source": true,
         "disposition": "corrected",
-        "review": "Alle vier leden gelezen: intrekking door bestuursorgaan, verzoek partij, gelijktijdigheid mondeling bij aanwezigheid, sanctie, schriftelijke route en 8:75a. Zeswekentermijn en herstel/verschoonbaarheid/doorzending expliciet toegevoegd.",
-        "commentary_chars": 1612
+        "review": "Alle zes bevoegdheidsgronden en uitzondering niet tijdig beslissen gelezen; beleidsonderdeel a preciezer uitgeschreven. Rechtsmiddel open/aanhangig, bestuursrechter versus andere rechter en rechterlijk toezicht juist. Volledige geciteerde uitspraak gelezen.",
+        "commentary_chars": 2317
       },
       {
-        "id": "art-8:119",
+        "id": "art-9:23",
         "checked_against_full_source": true,
         "disposition": "corrected",
-        "review": "Alle vier leden gelezen: onherroepelijkheid, partijverzoek, cumulatieve nova en uitkomstrelevantie. Exacte procedurele titels en uitzonderingen toegevoegd; griffierecht en terugbetaling juist. Geciteerde uitspraak volledig geverifieerd.",
-        "commentary_chars": 2304
+        "review": "Alle dertien gronden a–m gelezen. j specificeert nu hetzelfde bestuursorgaan en exacte procesroutes; k onderscheiden van uitsluitend nog aanhangige procedures. Herstel9:28(3), kennelijkheid, nova en onafhankelijke klachtinstantie juist.",
+        "commentary_chars": 2525
       },
       {
-        "id": "art-9:1",
+        "id": "art-9:24",
         "checked_against_full_source": true,
         "disposition": "retained",
-        "review": "Beide leden gelezen: een ieder, gedrag jegens ander en toerekening personeel juist onderscheiden van formele eigen klacht 9:4; behouden.",
-        "commentary_chars": 1193
+        "review": "Alle leden en letters: jaar na bevindingen/ander einde/verschuldigde afronding; afwijking bij redelijkerwijs geen interne klacht; tijdige andere procedure en jaar na onherroepelijkheid/ander einde. Behouden.",
+        "commentary_chars": 1660
       },
       {
-        "id": "art-9:2",
+        "id": "art-9:25",
         "checked_against_full_source": true,
         "disposition": "retained",
-        "review": "Volledige zorgplicht gelezen: mondeling/schriftelijk, eigen gedrag en onder verantwoordelijkheid werkzame bestuursorganen; voorbeeld past bij algemene zorgplicht; behouden.",
-        "commentary_chars": 1298
+        "review": "Beide leden: spoedige schriftelijke gemotiveerde mededeling, bij beëindiging ook bestuur en zo nodig betrokkene. Niet onderzoeken geen behoorlijkheidsoordeel. Behouden.",
+        "commentary_chars": 1411
       },
       {
-        "id": "art-9:3",
+        "id": "art-9:26",
+        "checked_against_full_source": true,
+        "disposition": "retained",
+        "review": "Enige volzin: bevoegdheid eigen initiatief, bepaalde aangelegenheid en onverkorte bevoegdheidsgrenzen9:22; geen automatische onderzoeksplicht. Behouden.",
+        "commentary_chars": 1415
+      },
+      {
+        "id": "art-9:27",
+        "checked_against_full_source": true,
+        "disposition": "retained",
+        "review": "Alle drie leden: behoorlijkheid, respecteren dragende rechterlijke rechtsgronden, facultatieve aanbeveling;9:22 blijft voorvraag, rapportage9:36 gecontroleerd. Behouden.",
+        "commentary_chars": 1868
+      },
+      {
+        "id": "art-9:28",
         "checked_against_full_source": true,
         "disposition": "corrected",
-        "review": "Beroepsuitsluiting gelezen. Toegevoegd dat gewone bezwaarroute 7:1 afhankelijk is van beroepsrecht en geen afzonderlijke toegang biedt; gemengde brief afzonderlijk kwalificeren blijft juist.",
-        "commentary_chars": 1376
+        "review": "Alle leden en a–e: ondertekening, naam/adres, dagtekening, gedraging/beide personen, gronden en interne klachtgegevens; vertaalzorg verzoeker expliciet gemaakt. Noodzakelijkheid en herstel na2:15-weigering behouden.",
+        "commentary_chars": 1571
       },
       {
-        "id": "art-9:4",
+        "id": "art-9:29",
         "checked_against_full_source": true,
         "disposition": "retained",
-        "review": "Alle drie leden gelezen: jegens klager, schriftelijk en ondertekend, naam/adres/datum/gedrag en noodzakelijke vertaling 6:5(3); geen algemene overname bezwaarprocedure; behouden.",
-        "commentary_chars": 1260
+        "review": "Volledige betrokkenheidsuitsluiting gelezen: verschil onderzoeker/informatiebron en geen overname uitzondering9:7. Behouden.",
+        "commentary_chars": 1411
       },
       {
-        "id": "art-9:5",
+        "id": "art-9:30",
         "checked_against_full_source": true,
         "disposition": "retained",
-        "review": "Enige volzin gelezen: tevredenheid klager als voorwaarde, gedeeltelijke oplossing niet automatisch volledig einde, geen stilzwijgende tevredenheid verondersteld; behouden.",
-        "commentary_chars": 1266
+        "review": "Beide leden: drie afzonderlijke betrokkenen, gelegenheid toelichting, keuze schriftelijk/mondeling en gezamenlijk/afzonderlijk; geen absoluut gezamenlijk zittingsrecht. Behouden.",
+        "commentary_chars": 1437
       },
       {
-        "id": "art-9:6",
+        "id": "art-9:31",
         "checked_against_full_source": true,
         "disposition": "retained",
-        "review": "Enige volzin gelezen: schriftelijke ontvangstbevestiging en onderscheid ontvangst/interne registratie/afhandeling; geen verzonnen dagentermijn; behouden.",
-        "commentary_chars": 1161
+        "review": "Alle zes leden: huidige/vroegere medewerkers, getuigen/verzoeker/colleges, persoonlijke verschijning, verplichte tussenkomst bij beleid, stukkenverzoek, twee vormen gewichtige redenen, beoordeling en verval alleen bij gerechtvaardigde weigering. Behouden.",
+        "commentary_chars": 1927
       },
       {
-        "id": "art-9:7",
-        "checked_against_full_source": true,
-        "disposition": "retained",
-        "review": "Beide leden gelezen: niet-betrokken behandelaar en uitzondering bestuursorgaan/voorzitter/lid, zorgvuldigheid blijft gelden; voorbeeld geen onjuiste externe-commissie-eis; behouden.",
-        "commentary_chars": 1164
-      },
-      {
-        "id": "art-9:8",
+        "id": "art-9:32",
         "checked_against_full_source": true,
         "disposition": "corrected",
-        "review": "Alle zes gronden en leden2–3 gelezen. Eigen rechtsmiddelen klager, verstreken termijnen, eerdere andere rechter en beide lopende strafrechtelijke situaties uitgeschreven. Vier weken expliciet vanaf ontvangst; geen behandelingsverbod of werkdrukgrond gecreëerd.",
-        "commentary_chars": 1897
+        "review": "Alle drie leden: opdracht versus oproep, verschijnen/onpartijdigheid, speciale verwijzing voor deskundige-ambtenaar, facultatieve eed getuige/tolk. Waarheidsbelofte aangevuld met niets dan de waarheid; geen deskundigeneed verzonnen.",
+        "commentary_chars": 1588
       },
       {
-        "id": "art-9:9",
+        "id": "art-9:33",
         "checked_against_full_source": true,
         "disposition": "retained",
-        "review": "Enige volzin gelezen: klaagschrift plus meegezonden stukken aan betrokkene, beschuldiging geen vastgesteld feit; geen algemene geheimhoudingsuitzondering geïntroduceerd; behouden.",
-        "commentary_chars": 1184
-      },
-      {
-        "id": "art-9:10",
-        "checked_against_full_source": true,
-        "disposition": "retained",
-        "review": "Alle drie leden gelezen: beide betrokkenen gelegenheid tot horen, alle drie uitzonderingen alleen klager, redelijke reactietermijn en verslag; behouden.",
-        "commentary_chars": 1286
-      },
-      {
-        "id": "art-9:11",
-        "checked_against_full_source": true,
-        "disposition": "retained",
-        "review": "Alle drie leden gelezen: zes/tien weken vanaf ontvangst, eenzijdig maximaal vier weken, mededeling aan beide betrokkenen, verder uitstel met schriftelijke instemming; behouden.",
-        "commentary_chars": 1204
-      },
-      {
-        "id": "art-9:12",
-        "checked_against_full_source": true,
-        "disposition": "retained",
-        "review": "Beide leden gelezen: gemotiveerde schriftelijke bevindingen/oordeel/eventuele conclusies en ombudsman plus termijn; geen automatische vergoeding of bewezen ongegrondheid uit onzekerheid; behouden.",
-        "commentary_chars": 1213
-      },
-      {
-        "id": "art-9:12a",
-        "checked_against_full_source": true,
-        "disposition": "retained",
-        "review": "Volledige registratie/publicatieplicht gelezen: alle schriftelijke klachten inclusief informeel opgeloste, jaarlijks publiceren, geen onbegrensde persoonsdossierpublicatie afgeleid; behouden.",
-        "commentary_chars": 1722
-      },
-      {
-        "id": "art-9:13",
-        "checked_against_full_source": true,
-        "disposition": "corrected",
-        "review": "Aanvullend karakter en wettelijke of bestuurlijke activering gelezen; verwijzingen 9:14–16 toegevoegd voor aanwijzing/instructies, horen/advies en gemotiveerde afwijking. Tienwekentermijn correct.",
-        "commentary_chars": 1538
+        "review": "Beide leden: vier opgeroepen groepen, draagplicht decentrale rechtspersoon/Rijk, tariefverwijzing zonder verzonnen bedragen en openbare taak als voorwaarde uitzondering. Behouden.",
+        "commentary_chars": 1515
       }
     ],
     "limitations": [
       "Precies twintig toegewezen eenheden beoordeeld; geen boekvoltooiing.",
-      "88 eenheden buiten deze batch hebben nog geen commentaar.",
+      "68 eenheden buiten deze batch hebben nog geen commentaar.",
       "Selectieve rechtspraakcontrole; geen uitputtende dekking of controle van latere behandeling.",
       "Geen externe professionele goedkeuring; technische validatie bewijst geen juridische kwaliteit."
     ],
     "whole_book_complete": false,
-    "source_preflight": "sources/review-025/preflight-result.json",
-    "case_evidence": "sources/review-025/case-review.json",
-    "reviewed_at": "2026-10-20T22:23:46.379839+00:00"
+    "source_preflight": "sources/review-026/preflight-result.json",
+    "case_evidence": "sources/review-026/case-review.json",
+    "reviewed_at": "2026-10-20T22:32:03.560453+00:00"
   }
 }

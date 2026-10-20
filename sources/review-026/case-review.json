@@ -1,0 +1,25 @@
+{
+  "ecli": "ECLI:NL:CRVB:2011:BU3479",
+  "court": "Centrale Raad van Beroep, voorzieningenrechter",
+  "date": "2011-11-04",
+  "docket": [
+    "11/4812 WWV",
+    "11/5447 WWV-VV"
+  ],
+  "full_text_read": true,
+  "official_snapshot": "sources/review-026/ECLI-NL-CRVB-2011-BU3479.xml",
+  "sha256": "46a96fdae1e98a734c62fa3082c1788af1acc2c647223d0f579035646905d779",
+  "support": [
+    "art-9:22"
+  ],
+  "precise_paragraphs": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "dictum"
+  ],
+  "holding": "Beroep terecht niet-ontvankelijk omdat geen besluit op bezwaar bestreden; bevestiging uitspraak en afwijzing voorlopige voorziening. Aanvullend in6: rechtstreeks ombudsmanverzoek mogelijk maar geen bevoegdheid voor reeds bestuursrechterlijk beoordeelde gedragingen.",
+  "limits": "4 geeft partijverzoek weer.6 is aanvullende opmerking, geen vernietiging of beoordeling concreet ombudsmanbesluit. Oude WWV en Beroepswet niet als huidig recht gebruikt; huidige9:22(d) afzonderlijk vergeleken.",
+  "later_treatment_exhaustively_checked": false
+}
