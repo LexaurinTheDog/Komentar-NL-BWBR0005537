@@ -124,5 +124,16 @@
     "De 2018-verjaringsanalyse is niet als huidig recht gebruikt; de Wav-percentages uit 2022 zijn historische context; 2026:911 betreft deels oud omgevingsrecht.",
     "Eerdere beperkingen over de niet onderzochte ministeriële stopregeling, specifieke toezichtsregels en het eindresultaat van de civiele woonbootzaak blijven bestaan.",
     "Tekstidentiteit, minimumlengte en herhalingscontrole bewijzen geen juridische kwaliteit; geen externe professionele goedkeuring."
-  ]
+  ],
+  "strict_validator": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 502913,
+    "errors": [
+      "krátký/chybějící komentář u 308 jednotek: ['art-5:51(0<400)', 'art-5:52(0<120)', 'art-5:53(0<400)', 'art-5:54(0<120)', 'art-6:1(0<400)', 'art-6:2(0<400)', 'art-6:3(0<400)', 'art-6:4(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  }
 }
