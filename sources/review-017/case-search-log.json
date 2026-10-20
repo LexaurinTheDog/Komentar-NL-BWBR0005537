@@ -1,0 +1,62 @@
+{
+  "checked_at": "2026-10-20T18:05:03.929416+00:00",
+  "method": "Gerichte onafhankelijke controle van alle zes in de toegewezen commentaren gebruikte ECLIs, met nieuw opgehaalde primaire XML en controle van de volledige gepubliceerde body en lokale corpusversie.",
+  "queries": [
+    {
+      "ecli": "ECLI:NL:RVS:2013:1026",
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2013:1026",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2013-1026.md",
+      "found_local": true
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2021:870",
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2021:870",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2021-870.md",
+      "found_local": true
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2026:929",
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:929",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-929.md",
+      "found_local": true
+    },
+    {
+      "ecli": "ECLI:NL:GHARL:2020:3942",
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:GHARL:2020:3942",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/gharl/ecli-nl-gharl-2020-3942.md",
+      "found_local": false
+    },
+    {
+      "ecli": "ECLI:NL:RBDHA:2013:BZ9560",
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBDHA:2013:BZ9560",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rbdha/ecli-nl-rbdha-2013-bz9560.md",
+      "found_local": false
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2021:953",
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2021:953",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2021-953.md",
+      "found_local": true
+    }
+  ],
+  "retained_authorities": [
+    "ECLI:NL:RVS:2013:1026",
+    "ECLI:NL:RVS:2021:870",
+    "ECLI:NL:RVS:2026:929",
+    "ECLI:NL:GHARL:2020:3942",
+    "ECLI:NL:RBDHA:2013:BZ9560",
+    "ECLI:NL:RVS:2021:953"
+  ],
+  "new_authorities": [],
+  "firecrawl": {
+    "status": "authenticated_zero_credits",
+    "attempt": "scrape official dated Awb URL",
+    "result": "Insufficient credits; no content extracted; direct official HTTP/XML used successfully."
+  },
+  "web_tool_attempt": "Official Wettenbank date/history pages returned cache miss in web tool; raw direct HTTP succeeded with validated bodies.",
+  "limitations": [
+    "Selectieve hercontrole, geen uitputtende nieuwe rechtspraakrecherche of latere-behandelingscontrole.",
+    "Twee corpuskopieën niet aangetroffen op hun nationale ECLI-pad; officiële volledige tekst leidend.",
+    "Voor acht technische of schakelbepalingen geen afzonderlijke nieuwe uitspraak toegevoegd; dit bewijst geen afwezigheid van relevante rechtspraak."
+  ]
+}

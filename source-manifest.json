@@ -4475,14 +4475,189 @@
     "bytes": 4692
   },
   {
+    "path": "sources/review-017/ECLI-NL-GHARL-2020-3942.txt",
+    "sha256": "4dc9e134d7b0c2384d554378845d0693358943dde72c775c09751e7fca3db088",
+    "bytes": 11521
+  },
+  {
+    "path": "sources/review-017/ECLI-NL-GHARL-2020-3942.xml",
+    "sha256": "4bf61c964396d309fbdce228e602db48012813102cd4f51dec5069fe12aeb7aa",
+    "bytes": 18362
+  },
+  {
+    "path": "sources/review-017/ECLI-NL-RBDHA-2013-BZ9560.txt",
+    "sha256": "a7d9743e7bbba448a2ef60615911c6789aa61af2b4c92eadfa3f91a44d9c50f6",
+    "bytes": 11840
+  },
+  {
+    "path": "sources/review-017/ECLI-NL-RBDHA-2013-BZ9560.xml",
+    "sha256": "e1610fb791c8b49e7e55fcd2dd8a0992f4c74c8de65cd3030bbef611fd78ef51",
+    "bytes": 17569
+  },
+  {
+    "path": "sources/review-017/ECLI-NL-RVS-2013-1026-local.md",
+    "sha256": "8fa008550d7cef20e463abc63e6af86e7fcf24470f30c9bdac8f1abb92a9fd55",
+    "bytes": 14377
+  },
+  {
+    "path": "sources/review-017/ECLI-NL-RVS-2013-1026.txt",
+    "sha256": "d026ea54b335ab1e5dc2eaa0f49a51b0f15b96d57a43a1801f0493b35b79e3e3",
+    "bytes": 13268
+  },
+  {
+    "path": "sources/review-017/ECLI-NL-RVS-2013-1026.xml",
+    "sha256": "ff583f1c3f410821b15a41d3611c54aef88b70a5a5deb70a4c843958e0f019c6",
+    "bytes": 19332
+  },
+  {
+    "path": "sources/review-017/ECLI-NL-RVS-2021-870-local.md",
+    "sha256": "dc74bc0e984a7077d638e68f4d286421df5f0a410c9b560933b06d5d4880e8c8",
+    "bytes": 8021
+  },
+  {
+    "path": "sources/review-017/ECLI-NL-RVS-2021-870.txt",
+    "sha256": "cecfdd3a7fd866ee3b6358b4bf26b9e4b5757b4844d92e41ee375b2e7eb738d1",
+    "bytes": 6999
+  },
+  {
+    "path": "sources/review-017/ECLI-NL-RVS-2021-870.xml",
+    "sha256": "e656bc4be459d8f5801a8b0280f10da44768a3b9174ff40c20a5af16398459b6",
+    "bytes": 11587
+  },
+  {
+    "path": "sources/review-017/ECLI-NL-RVS-2021-953-local.md",
+    "sha256": "1fcad31ec6b258a211fae03da6cf3d1d59a722de9d215a84073f641ac005034d",
+    "bytes": 38233
+  },
+  {
+    "path": "sources/review-017/ECLI-NL-RVS-2021-953.txt",
+    "sha256": "418485ed3beac2a603808e91d04f9411b9aaebc1383b226832b9fdeab9589108",
+    "bytes": 36417
+  },
+  {
+    "path": "sources/review-017/ECLI-NL-RVS-2021-953.xml",
+    "sha256": "aa14a663993a5f38cc3939743060ea23ac1fb1e4573c4d9ef6240db7c254c770",
+    "bytes": 44640
+  },
+  {
+    "path": "sources/review-017/ECLI-NL-RVS-2026-929-local.md",
+    "sha256": "f63ebeab78a1421fe3921850e0a7b0cae65cba6f5d1f809a954fdbe53ee6194b",
+    "bytes": 39590
+  },
+  {
+    "path": "sources/review-017/ECLI-NL-RVS-2026-929.txt",
+    "sha256": "7c1290fd79973585465eeb377b0460e267f6ff0aefd1f380ec98caab9b328968",
+    "bytes": 37599
+  },
+  {
+    "path": "sources/review-017/ECLI-NL-RVS-2026-929.xml",
+    "sha256": "dc70a69a50227d80124f34edcc0a1b430677bddfc2bce6fb614da419c2f74f77",
+    "bytes": 45131
+  },
+  {
+    "path": "sources/review-017/assigned-source-records.json",
+    "sha256": "87509673b9417a2ecb88b47cddfbf3c564cdc866fda95c1caa37a15b8d3d7ca4",
+    "bytes": 21947
+  },
+  {
+    "path": "sources/review-017/authority-review.json",
+    "sha256": "1effc8041d98c42f8999d97bb83f1b2f8c58cdeaaf9776e7624cad57177e2095",
+    "bytes": 8876
+  },
+  {
+    "path": "sources/review-017/before.json",
+    "sha256": "3d8ee4029052ec363a95a3bac04e89bf3bde85b9c9f7d3fb1c8de891c30bf177",
+    "bytes": 664923
+  },
+  {
+    "path": "sources/review-017/case-search-log.json",
+    "sha256": "5ef85a75bc0659fffca5afd632d77edf5834d3815cded8b1dceeeca11016add1",
+    "bytes": 2918
+  },
+  {
+    "path": "sources/review-017/coverage-recheck.json",
+    "sha256": "701a97b055d26694463e75b111d6daa900c461ecd40dbd88fae26e7056260e8e",
+    "bytes": 24663
+  },
+  {
+    "path": "sources/review-017/current.html",
+    "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+    "bytes": 4204181
+  },
+  {
+    "path": "sources/review-017/editorial-notes.json",
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "bytes": 3
+  },
+  {
+    "path": "sources/review-017/historical-comparison.json",
+    "sha256": "9f8fa301135b782feb19d09ed6746c722867de8b77895538afbfb70294c28c1a",
+    "bytes": 1494
+  },
+  {
+    "path": "sources/review-017/history.html",
+    "sha256": "36d1358b82ab4b22999bda91b641dfc840f5d1f5dd0197604fbe2b4e7c15ccd2",
+    "bytes": 1755568
+  },
+  {
+    "path": "sources/review-017/internal-crossrefs.json",
+    "sha256": "d37618f53101acd757e22e5e70529080de82c4d6241cccf8bf97b1e09a60396e",
+    "bytes": 46610
+  },
+  {
+    "path": "sources/review-017/preflight-result.json",
+    "sha256": "9a07a5edf55f9df4297e1cca4d7589f19c928235605645f21982f634db87e550",
+    "bytes": 5173
+  },
+  {
+    "path": "sources/review-017/prior-preflight-result.json",
+    "sha256": "4c1b0c4d43b7eb761bebe9fcd061cdcdb858ae908c6958435d150dc84b29698c",
+    "bytes": 119670
+  },
+  {
+    "path": "sources/review-017/prior-review-result.json",
+    "sha256": "292658b55818b9f65ca8f88dc7b570f01ad8e82e8ae9aeb67b300c051c7fd024",
+    "bytes": 14366
+  },
+  {
+    "path": "sources/review-017/prior-review-technical.json",
+    "sha256": "9cb8cbf1a86182b3fad0e54f885968e3b48f9cc5973168b1991b85941c713b63",
+    "bytes": 1759
+  },
+  {
+    "path": "sources/review-017/prior-status.json",
+    "sha256": "c4754228dccfb130c4ab3d94da708f09a410d5e7d3e5c05f5925c186a3252937",
+    "bytes": 23999
+  },
+  {
+    "path": "sources/review-017/review-result.json",
+    "sha256": "1a7665d29e529d9f1d6594657586b66e977be97501dbaa54643ceccf89295adb",
+    "bytes": 14963
+  },
+  {
+    "path": "sources/review-017/selected.xml",
+    "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "bytes": 2622149
+  },
+  {
+    "path": "sources/review-017/technical-check.json",
+    "sha256": "3a5d790a78374d895c0c3a7ff21248551055561037f5b57dbfa8a861d91b0cea",
+    "bytes": 1790
+  },
+  {
+    "path": "sources/review-017/verification.json",
+    "sha256": "cc97f5d667481ebe3c7dfcc8d03cfd61cc60dca5109032e37a4ff0bb5c38206c",
+    "bytes": 4707
+  },
+  {
     "path": "sources/structural-inventory.json",
     "sha256": "9f4631e4a7cf252d0a1785d04ae3a072a198d3a430bae6df2bb11487b179414d",
     "bytes": 22075
   },
   {
     "path": "sources/verification.json",
-    "sha256": "42e61633d33bd20540f7c61a3ac2f837398788b1650127208b1fc1b9a1c8f9e1",
-    "bytes": 292605
+    "sha256": "62abc56464ebcd62744a48f929a505a7d0f884174cd760e2cd63b715eb5c9365",
+    "bytes": 302985
   },
   {
     "path": "sources/version-analysis.json",

@@ -1,0 +1,108 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T18:02:56.762889+00:00",
+    "path": "sources/review-017/current.html",
+    "bytes": 4204181,
+    "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+    "content_type": "text/html;charset=UTF-8",
+    "accessed_at": "2026-10-20T18:02:55.823565+00:00",
+    "path": "sources/review-017/history.html",
+    "bytes": 1755568,
+    "sha256": "36d1358b82ab4b22999bda91b641dfc840f5d1f5dd0197604fbe2b4e7c15ccd2",
+    "accepted_format": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T18:02:56.071122+00:00",
+    "path": "sources/review-017/selected.xml",
+    "bytes": 2622149,
+    "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "xml_root": "toestand",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2013:1026",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2013:1026",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T18:02:54.918632+00:00",
+    "path": "sources/review-017/ECLI-NL-RVS-2013-1026.xml",
+    "bytes": 19332,
+    "sha256": "ff583f1c3f410821b15a41d3611c54aef88b70a5a5deb70a4c843958e0f019c6",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2021:870",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2021:870",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T18:02:55.055028+00:00",
+    "path": "sources/review-017/ECLI-NL-RVS-2021-870.xml",
+    "bytes": 11587,
+    "sha256": "e656bc4be459d8f5801a8b0280f10da44768a3b9174ff40c20a5af16398459b6",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:929",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:929",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T18:02:55.294027+00:00",
+    "path": "sources/review-017/ECLI-NL-RVS-2026-929.xml",
+    "bytes": 45131,
+    "sha256": "dc70a69a50227d80124f34edcc0a1b430677bddfc2bce6fb614da419c2f74f77",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:GHARL:2020:3942",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:GHARL:2020:3942",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T18:02:55.478172+00:00",
+    "path": "sources/review-017/ECLI-NL-GHARL-2020-3942.xml",
+    "bytes": 18362,
+    "sha256": "4bf61c964396d309fbdce228e602db48012813102cd4f51dec5069fe12aeb7aa",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2021:953",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2021:953",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T18:02:55.722980+00:00",
+    "path": "sources/review-017/ECLI-NL-RVS-2021-953.xml",
+    "bytes": 44640,
+    "sha256": "aa14a663993a5f38cc3939743060ea23ac1fb1e4573c4d9ef6240db7c254c770",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBDHA:2013:BZ9560",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBDHA:2013:BZ9560",
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-20T18:02:55.858145+00:00",
+    "path": "sources/review-017/ECLI-NL-RBDHA-2013-BZ9560.xml",
+    "bytes": 17569,
+    "sha256": "e1610fb791c8b49e7e55fcd2dd8a0992f4c74c8de65cd3030bbef611fd78ef51",
+    "xml_root": "open-rechtspraak",
+    "accepted_format": true
+  }
+]

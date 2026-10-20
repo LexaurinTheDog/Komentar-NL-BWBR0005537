@@ -1,0 +1,164 @@
+[
+  {
+    "ecli": "ECLI:NL:RVS:2013:1026",
+    "supported_units": [
+      "art-7:12",
+      "art-7:13"
+    ],
+    "precise_locations": "r.o. 1.1–1.2; context 4, 6–8",
+    "case_card": "case-cards/ECLI-NL-RVS-2013-1026.md",
+    "full_published_body_read": true,
+    "independent_review": true,
+    "official_snapshot": "sources/review-017/ECLI-NL-RVS-2013-1026.xml",
+    "sha256": "ff583f1c3f410821b15a41d3611c54aef88b70a5a5deb70a4c843958e0f019c6",
+    "full_text_read": true,
+    "assessment": "Volledige uitspraak gelezen. R.o. 1.1–1.2 steunen kwalificatie van een werkelijke 7:13-commissie en onderscheid eigen motivering/verwijzingsmotivering. Geen algemene vrijstelling van verstrekking van advies. Hoger beroep ongegrond; vernietiging met instandgelaten rechtsgevolgen bij rechtbank bevestigd. Oude WRO en toenmalige vertrouwensleer uitsluitend context.",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2013-1026.md",
+    "local_exists": true,
+    "local_sha256": "8fa008550d7cef20e463abc63e6af86e7fcf24470f30c9bdac8f1abb92a9fd55",
+    "normalized_full_official_body_in_local": true,
+    "author_snapshot_identical": true,
+    "review_scope": "Only the supported assigned ids in this second-pass batch; no external professional approval.",
+    "embedded_material_check": {
+      "footnotes": 0,
+      "tables": 0,
+      "annexes": 0,
+      "external_attached_decisions_used": false
+    }
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2021:870",
+    "supported_units": [
+      "art-7:14a"
+    ],
+    "precise_locations": "r.o. 3–8, in het bijzonder 6",
+    "case_card": "case-cards/ECLI-NL-RVS-2021-870.md",
+    "full_published_body_read": true,
+    "independent_review": true,
+    "official_snapshot": "sources/review-017/ECLI-NL-RVS-2021-870.xml",
+    "sha256": "e656bc4be459d8f5801a8b0280f10da44768a3b9174ff40c20a5af16398459b6",
+    "full_text_read": true,
+    "assessment": "Volledige verzetuitspraak gelezen. R.o. 3–8, met name 6: oorspronkelijke aanvrager krijgt één dwangsom, geen aandeel per afzonderlijk derdenbezwaar. Verzet ongegrond. Oude 4:17 lid 7 nu lid 6; huidige 7:14a inhoudelijk vergeleken. Geen rechtstreeks oordeel over 7:27a geclaimd.",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2021-870.md",
+    "local_exists": true,
+    "local_sha256": "dc74bc0e984a7077d638e68f4d286421df5f0a410c9b560933b06d5d4880e8c8",
+    "normalized_full_official_body_in_local": true,
+    "author_snapshot_identical": true,
+    "review_scope": "Only the supported assigned ids in this second-pass batch; no external professional approval.",
+    "embedded_material_check": {
+      "footnotes": 0,
+      "tables": 0,
+      "annexes": 0,
+      "external_attached_decisions_used": false
+    }
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2026:929",
+    "supported_units": [
+      "art-7:15"
+    ],
+    "precise_locations": "r.o. 12, 17.1–18; context 1, 19 en dictum",
+    "case_card": "case-cards/ECLI-NL-RVS-2026-929.md",
+    "full_published_body_read": true,
+    "independent_review": true,
+    "official_snapshot": "sources/review-017/ECLI-NL-RVS-2026-929.xml",
+    "sha256": "dc70a69a50227d80124f34edcc0a1b430677bddfc2bce6fb614da419c2f74f77",
+    "full_text_read": true,
+    "assessment": "Volledig gelezen, inclusief voorwerk, r.o. 1, 12, 17.1–18, 19, 21 en dictum. Herroeping en tijdig verzoek, erkende kostenplicht; rechter voorziet in weigering en kostenvergoeding. Toerekenbare onrechtmatigheid blijft afzonderlijke voorwaarde. Historisch Wabo-recht, tijdelijke voortzetting vergunningen en afgewezen termijnschade zijn onderscheiden. Datum/ECLI-inconsistentie in 7.2 buiten gebruikte kostenstelling niet overgenomen.",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-929.md",
+    "local_exists": true,
+    "local_sha256": "f63ebeab78a1421fe3921850e0a7b0cae65cba6f5d1f809a954fdbe53ee6194b",
+    "normalized_full_official_body_in_local": true,
+    "author_snapshot_identical": true,
+    "review_scope": "Only the supported assigned ids in this second-pass batch; no external professional approval.",
+    "embedded_material_check": {
+      "footnotes": 0,
+      "tables": 0,
+      "annexes": 0,
+      "external_attached_decisions_used": false
+    }
+  },
+  {
+    "ecli": "ECLI:NL:GHARL:2020:3942",
+    "supported_units": [
+      "art-7:16",
+      "art-7:17",
+      "art-7:19",
+      "art-7:21"
+    ],
+    "precise_locations": "r.o. 7–14, in het bijzonder 12–13; context 1–6 en 15–24",
+    "case_card": "case-cards/ECLI-NL-GHARL-2020-3942.md",
+    "full_published_body_read": true,
+    "independent_review": true,
+    "official_snapshot": "sources/review-017/ECLI-NL-GHARL-2020-3942.xml",
+    "sha256": "4bf61c964396d309fbdce228e602db48012813102cd4f51dec5069fe12aeb7aa",
+    "full_text_read": true,
+    "assessment": "Volledig arrest en dictum gelezen. R.o. 7–14: na handhaving hoorrecht geen afstand door latere stilte; geen fysieke zitting, ontbrekend verslag als bewijsgegeven en toenmalige openbaarheid bij telefonisch horen. Kantonrechter en officier vernietigd, oorspronkelijke sanctie blijft staan. Historische kostenafwijzing niet als huidige algemene 7:28-regel; stukken bij kantonrechter niet als toepassing 7:18 gebruikt.",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/gharl/ecli-nl-gharl-2020-3942.md",
+    "local_exists": false,
+    "local_sha256": null,
+    "normalized_full_official_body_in_local": null,
+    "author_snapshot_identical": true,
+    "review_scope": "Only the supported assigned ids in this second-pass batch; no external professional approval.",
+    "embedded_material_check": {
+      "footnotes": 0,
+      "tables": 0,
+      "annexes": 0,
+      "external_attached_decisions_used": false
+    }
+  },
+  {
+    "ecli": "ECLI:NL:RBDHA:2013:BZ9560",
+    "supported_units": [
+      "art-7:25",
+      "art-7:26",
+      "art-7:28"
+    ],
+    "precise_locations": "overwegingen na «De rechtbank overweegt allereerst», «Ad 1»–«Ad 5», slot en dictum; geen genummerde r.o.",
+    "case_card": "case-cards/ECLI-NL-RBDHA-2013-BZ9560.md",
+    "full_published_body_read": true,
+    "independent_review": true,
+    "official_snapshot": "sources/review-017/ECLI-NL-RBDHA-2013-BZ9560.xml",
+    "sha256": "e1610fb791c8b49e7e55fcd2dd8a0992f4c74c8de65cd3030bbef611fd78ef51",
+    "full_text_read": true,
+    "assessment": "Volledig gelezen. Algemene passage en Ad 1–5: mislukte schikking ontslaat beroepsorgaan niet van inhoudelijke beoordeling. Ad 2 vereist vernietiging in zoverre en beslissing over 7:28-kosten, niet automatisch volledige vergoeding. Rechtbank vernietigt 7:26-beslissing en verlangt nieuwe beslissing/onderzoek, sluit financieel geschil niet zelf af. Oude onderwijsregeling en bedragen uitsluitend context.",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rbdha/ecli-nl-rbdha-2013-bz9560.md",
+    "local_exists": false,
+    "local_sha256": null,
+    "normalized_full_official_body_in_local": null,
+    "author_snapshot_identical": true,
+    "review_scope": "Only the supported assigned ids in this second-pass batch; no external professional approval.",
+    "embedded_material_check": {
+      "footnotes": 0,
+      "tables": 0,
+      "annexes": 0,
+      "external_attached_decisions_used": false
+    }
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2021:953",
+    "supported_units": [
+      "art-8:1"
+    ],
+    "precise_locations": "r.o. 4.3–4.10; context 10.1–10.3 en 14–17",
+    "case_card": "case-cards/ECLI-NL-RVS-2021-953.md",
+    "full_published_body_read": true,
+    "independent_review": true,
+    "official_snapshot": "sources/review-017/ECLI-NL-RVS-2021-953.xml",
+    "sha256": "aa14a663993a5f38cc3939743060ea23ac1fb1e4573c4d9ef6240db7c254c770",
+    "full_text_read": true,
+    "assessment": "Volledig gelezen, inclusief r.o. 4.3–4.10, 10, 14–17 en dictum. Afdelingsuitleg Europese uitspraak, geen zelfstandig ongelezen EU-arrest als bron. Niet-belanghebbende met wettelijke omgevingsrechtelijke zienswijzeroute, ook verschoonbaar geen/late zienswijze. Geen algemene actio popularis, geen louter procedurele-grondenbeperking. Relativiteit blijft; beroepen alsnog ongegrond; wijzigingsbesluit blijft voor nader onderzoek open. Oude sectorwetten geen actuele vergunningregeling.",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2021-953.md",
+    "local_exists": true,
+    "local_sha256": "1fcad31ec6b258a211fae03da6cf3d1d59a722de9d215a84073f641ac005034d",
+    "normalized_full_official_body_in_local": true,
+    "author_snapshot_identical": true,
+    "review_scope": "Only the supported assigned ids in this second-pass batch; no external professional approval.",
+    "embedded_material_check": {
+      "footnotes": 0,
+      "tables": 0,
+      "annexes": 0,
+      "external_attached_decisions_used": false
+    }
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T18:00:02.515171+00:00",
+  "checked_at": "2026-10-20T18:07:00.477606+00:00",
   "shared_builder": {
     "command": [
       "python3",
@@ -10,7 +10,7 @@
     "stdout": "",
     "stderr": "CHYBÍ komentář k 248 jednotkám, např.: ['art-8:2', 'art-8:3', 'art-8:4', 'art-8:5', 'art-8:6', 'art-8:7', 'art-8:8', 'art-8:9', 'art-8:10', 'art-8:10a']\n"
   },
-  "checkpoint_method": "Render all actually authored units in affected chapters 16–18 using the unchanged shared loader and quote function. Preserve every other output chapter. The shared full-book completion gate is unchanged.",
-  "bounded_authoring_complete": true,
+  "checkpoint_method": "Existing _checkpoint.py renders only actually written units as an expressly incomplete manuscript; shared builder and validator unchanged.",
+  "scope_review_complete": true,
   "whole_book_complete": false
 }

@@ -1,0 +1,719 @@
+[
+  {
+    "id": "art-1:2",
+    "label": "Artikel 1:2",
+    "title": "",
+    "chapter": 1,
+    "structure": [
+      "Hoofdstuk 1 Inleidende bepalingen",
+      "Titel 1.1 Definities en reikwijdte"
+    ],
+    "text": "1 Onder belanghebbende wordt verstaan: degene wiens belang rechtstreeks bij een besluit is betrokken.\n\n2 Ten aanzien van bestuursorganen worden de hun toevertrouwde belangen als hun belangen beschouwd.\n\n3 Ten aanzien van rechtspersonen worden als hun belangen mede beschouwd de algemene en collectieve belangen die zij krachtens hun doelstellingen en blijkens hun feitelijke werkzaamheden in het bijzonder behartigen.",
+    "notes": [],
+    "official_path": "/Hoofdstuk1/Titeldeel1.1/Artikel1:2",
+    "effective_from": "1994-01-01",
+    "xml_label_id": "2813924"
+  },
+  {
+    "id": "art-1:3",
+    "label": "Artikel 1:3",
+    "title": "",
+    "chapter": 1,
+    "structure": [
+      "Hoofdstuk 1 Inleidende bepalingen",
+      "Titel 1.1 Definities en reikwijdte"
+    ],
+    "text": "1 Onder besluit wordt verstaan: een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling.\n\n2 Onder beschikking wordt verstaan: een besluit dat niet van algemene strekking is, met inbegrip van de afwijzing van een aanvraag daarvan.\n\n3 Onder aanvraag wordt verstaan: een verzoek van een belanghebbende, een besluit te nemen.\n\n4 Onder beleidsregel wordt verstaan: een bij besluit vastgestelde algemene regel, niet zijnde een algemeen verbindend voorschrift, omtrent de afweging van belangen, de vaststelling van feiten of de uitleg van wettelijke voorschriften bij het gebruik van een bevoegdheid van een bestuursorgaan.",
+    "notes": [
+      "Bij Stb. 2001/208 is bepaald dat met ingang van 11 mei 2001 de wijzigingen ook van toepassing zijn op de wetten genoemd in artikel VI, tweede lid van de Derde tranche Algemene wet bestuursrecht."
+    ],
+    "official_path": "/Hoofdstuk1/Titeldeel1.1/Artikel1:3",
+    "effective_from": "1998-01-01",
+    "xml_label_id": "2813934"
+  },
+  {
+    "id": "art-1:5",
+    "label": "Artikel 1:5",
+    "title": "",
+    "chapter": 1,
+    "structure": [
+      "Hoofdstuk 1 Inleidende bepalingen",
+      "Titel 1.1 Definities en reikwijdte"
+    ],
+    "text": "1 Onder het maken van bezwaar wordt verstaan: het gebruik maken van de ingevolge een wettelijk voorschrift bestaande bevoegdheid, voorziening tegen een besluit te vragen bij het bestuursorgaan dat het besluit heeft genomen.\n\n2 Onder het instellen van administratief beroep wordt verstaan: het gebruik maken van de ingevolge een wettelijk voorschrift bestaande bevoegdheid, voorziening tegen een besluit te vragen bij een ander bestuursorgaan dan hetwelk het besluit heeft genomen.\n\n3 Onder het instellen van beroep wordt verstaan: het instellen van administratief beroep, dan wel van beroep bij een bestuursrechter.",
+    "notes": [
+      "Deel C, artikel I, van Stb. 2012/682 bevat overgangsrecht m.b.t. deze wijziging."
+    ],
+    "official_path": "/Hoofdstuk1/Titeldeel1.1/Artikel1:5",
+    "effective_from": "2013-01-01",
+    "xml_label_id": "2813954"
+  },
+  {
+    "id": "art-2:24",
+    "label": "Artikel 2:24",
+    "title": "",
+    "chapter": 2,
+    "structure": [
+      "Hoofdstuk 2 Verkeer met bestuursorganen",
+      "Afdeling 2.3 Verkeer langs elektronische weg",
+      "Paragraaf 2.3.5 Wettelijke termijnen"
+    ],
+    "text": "Indien een bericht met toepassing van artikel 2:16, eerste lid, onder a, wordt behandeld, vangt een bij wettelijk voorschrift bepaalde behandeltermijn aan op het tijdstip van interne doorgeleiding, mits het bestuursorgaan de afzender onverwijld mededeling doet van de doorgeleiding en het tijdstip waarop de termijn aanvangt.",
+    "notes": [
+      "Artikel XV van Stb. 2025/445 bevat overgangsrecht m.b.t. deze wijziging."
+    ],
+    "official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.5/Artikel2:24",
+    "effective_from": "2026-01-01",
+    "xml_label_id": "16683534"
+  },
+  {
+    "id": "art-3:41",
+    "label": "Artikel 3:41",
+    "title": "",
+    "chapter": 5,
+    "structure": [
+      "Hoofdstuk 3 Algemene bepalingen over besluiten",
+      "Afdeling 3.6 Bekendmaking en mededeling"
+    ],
+    "text": "1 De bekendmaking van besluiten die tot een of meer belanghebbenden zijn gericht, geschiedt door toezending of uitreiking aan hen, onder wie begrepen de aanvrager.\n\n2 Indien de bekendmaking van het besluit niet kan geschieden op de wijze als voorzien in het eerste lid, geschiedt zij op een andere geschikte wijze.",
+    "notes": [
+      "Bij Stb. 2001/208 is bepaald dat met ingang van 11 mei 2001 de wijzigingen ook van toepassing zijn op de wetten genoemd in artikel VI, tweede lid van de Derde tranche Algemene wet bestuursrecht."
+    ],
+    "official_path": "/Hoofdstuk3/Afdeling3.6/Artikel3:41",
+    "effective_from": "1998-01-01",
+    "xml_label_id": "2814644"
+  },
+  {
+    "id": "art-3:45",
+    "label": "Artikel 3:45",
+    "title": "",
+    "chapter": 5,
+    "structure": [
+      "Hoofdstuk 3 Algemene bepalingen over besluiten",
+      "Afdeling 3.6 Bekendmaking en mededeling"
+    ],
+    "text": "1 Indien tegen een besluit bezwaar kan worden gemaakt of beroep kan worden ingesteld, wordt daarvan bij de bekendmaking en bij de mededeling van het besluit melding gemaakt.\n\n2 Hierbij wordt vermeld door wie, binnen welke termijn en bij welk orgaan bezwaar kan worden gemaakt of beroep kan worden ingesteld.",
+    "notes": [],
+    "official_path": "/Hoofdstuk3/Afdeling3.6/Artikel3:45",
+    "effective_from": "1994-01-01",
+    "xml_label_id": "2814684"
+  },
+  {
+    "id": "art-3:49",
+    "label": "Artikel 3:49",
+    "title": "",
+    "chapter": 5,
+    "structure": [
+      "Hoofdstuk 3 Algemene bepalingen over besluiten",
+      "Afdeling 3.7 Motivering"
+    ],
+    "text": "Ter motivering van een besluit of een onderdeel daarvan kan worden volstaan met een verwijzing naar een met het oog daarop uitgebracht advies, indien het advies zelf de motivering bevat en van het advies kennis is of wordt gegeven.",
+    "notes": [
+      "Bij Stb. 2001/208 is bepaald dat met ingang van 11 mei 2001 de wijzigingen ook van toepassing zijn op de wetten genoemd in artikel VI, tweede lid van de Derde tranche Algemene wet bestuursrecht."
+    ],
+    "official_path": "/Hoofdstuk3/Afdeling3.7/Artikel3:49",
+    "effective_from": "1998-01-01",
+    "xml_label_id": "2819154"
+  },
+  {
+    "id": "art-3:6",
+    "label": "Artikel 3:6",
+    "title": "",
+    "chapter": 4,
+    "structure": [
+      "Hoofdstuk 3 Algemene bepalingen over besluiten",
+      "Afdeling 3.3 Advisering"
+    ],
+    "text": "1 Indien aan de adviseur niet reeds bij wettelijk voorschrift een termijn is gesteld, kan het bestuursorgaan aangeven binnen welke termijn een advies wordt verwacht. Deze termijn mag niet zodanig kort zijn, dat de adviseur zijn taak niet naar behoren kan vervullen.\n\n2 Indien het advies niet tijdig wordt uitgebracht staat het enkele ontbreken daarvan niet in de weg aan het nemen van het besluit.",
+    "notes": [],
+    "official_path": "/Hoofdstuk3/Afdeling3.3/Artikel3:6",
+    "effective_from": "1995-07-26",
+    "xml_label_id": "2814254"
+  },
+  {
+    "id": "art-4:14",
+    "label": "Artikel 4:14",
+    "title": "",
+    "chapter": 6,
+    "structure": [
+      "Hoofdstuk 4 Bijzondere bepalingen over besluiten",
+      "Titel 4.1 Beschikkingen",
+      "Afdeling 4.1.3 Beslistermijn",
+      "§ 4.1.3.1 Beslistermijn"
+    ],
+    "text": "1 Indien een beschikking niet binnen de bij wettelijk voorschrift bepaalde termijn kan worden gegeven, deelt het bestuursorgaan dit aan de aanvrager mede en noemt het daarbij een zo kort mogelijke termijn waarbinnen de beschikking wel tegemoet kan worden gezien.\n\n2 Het eerste lid is niet van toepassing indien het bestuursorgaan na het verstrijken van de bij wettelijk voorschrift bepaalde termijn niet langer bevoegd is.\n\n3 Indien, bij het ontbreken van een bij wettelijk voorschrift bepaalde termijn, een beschikking niet binnen acht weken kan worden gegeven, deelt het bestuursorgaan dit binnen deze termijn aan de aanvrager mede en noemt het daarbij een redelijke termijn binnen welke de beschikking wel tegemoet kan worden gezien.",
+    "notes": [],
+    "official_path": "/Hoofdstuk4/Titeldeel4.1/Afdeling4.1.3/Paragraaf4.1.3.1/Artikel4:14",
+    "effective_from": "2009-10-01",
+    "xml_label_id": "2814864"
+  },
+  {
+    "id": "art-4:15",
+    "label": "Artikel 4:15",
+    "title": "",
+    "chapter": 6,
+    "structure": [
+      "Hoofdstuk 4 Bijzondere bepalingen over besluiten",
+      "Titel 4.1 Beschikkingen",
+      "Afdeling 4.1.3 Beslistermijn",
+      "§ 4.1.3.1 Beslistermijn"
+    ],
+    "text": "1 De termijn voor het geven van een beschikking wordt opgeschort met ingang van de dag na die waarop het bestuursorgaan:\n\na. de aanvrager krachtens artikel 4:5 uitnodigt de aanvraag aan te vullen, tot de dag waarop de aanvraag is aangevuld of de daarvoor gestelde termijn ongebruikt is verstreken, of\n\nb. de aanvrager mededeelt dat voor de beschikking op de aanvraag redelijkerwijs noodzakelijke informatie aan een buitenlandse instantie is gevraagd, tot de dag waarop deze informatie is ontvangen of verder uitstel niet meer redelijk is.\n\n2 De termijn voor het geven van een beschikking wordt voorts opgeschort:\n\na. gedurende de termijn waarvoor de aanvrager schriftelijk met uitstel heeft ingestemd,\n\nb. zolang de vertraging aan de aanvrager kan worden toegerekend, of\n\nc. zolang het bestuursorgaan door overmacht niet in staat is een beschikking te geven.\n\n3 In geval van overmacht deelt het bestuursorgaan zo spoedig mogelijk aan de aanvrager mede dat de beslistermijn is opgeschort, alsmede binnen welke termijn de beschikking wel tegemoet kan worden gezien.\n\n4 Indien de opschorting eindigt, doet het bestuursorgaan daarvan in de gevallen, bedoeld in het eerste lid, onderdeel b, of het tweede lid, onderdelen b en c, zo spoedig mogelijk mededeling aan de aanvrager, onder vermelding van de termijn binnen welke de beschikking alsnog moet worden gegeven.",
+    "notes": [],
+    "official_path": "/Hoofdstuk4/Titeldeel4.1/Afdeling4.1.3/Paragraaf4.1.3.1/Artikel4:15",
+    "effective_from": "2009-10-01",
+    "xml_label_id": "2814874"
+  },
+  {
+    "id": "art-4:17",
+    "label": "Artikel 4:17",
+    "title": "",
+    "chapter": 6,
+    "structure": [
+      "Hoofdstuk 4 Bijzondere bepalingen over besluiten",
+      "Titel 4.1 Beschikkingen",
+      "Afdeling 4.1.3 Beslistermijn",
+      "§ 4.1.3.2 Dwangsom bij niet tijdig beslissen"
+    ],
+    "text": "1 Indien een beschikking op aanvraag niet tijdig wordt gegeven, verbeurt het bestuursorgaan aan de aanvrager een dwangsom voor elke dag dat het in gebreke is, doch voor ten hoogste 42 dagen. De Algemene termijnenwet is op laatstgenoemde termijn niet van toepassing.\n\n2 De dwangsom bedraagt de eerste veertien dagen € 23 per dag, de daaropvolgende veertien dagen € 35 per dag en de overige dagen € 45 per dag.\n\n3 De eerste dag waarover de dwangsom verschuldigd is, is de dag waarop twee weken zijn verstreken na de dag waarop de termijn voor het geven van de beschikking is verstreken en het bestuursorgaan van de aanvrager een schriftelijke ingebrekestelling heeft ontvangen.\n\n4 Beroep tegen het niet tijdig geven van de beschikking schort de dwangsom niet op.\n\n5 Geen dwangsom is verschuldigd indien:\n\na. het bestuursorgaan onredelijk laat in gebreke is gesteld,\n\nb. de aanvrager geen belanghebbende is, of\n\nc. de aanvraag kennelijk niet-ontvankelijk of kennelijk ongegrond is.\n\n6 Indien er meer dan één aanvrager is, is de dwangsom aan ieder van de aanvragers voor een gelijk deel verschuldigd.",
+    "notes": [],
+    "official_path": "/Hoofdstuk4/Titeldeel4.1/Afdeling4.1.3/Paragraaf4.1.3.2/Artikel4:17",
+    "effective_from": "2026-01-01",
+    "xml_label_id": "2814904"
+  },
+  {
+    "id": "art-6:2",
+    "label": "Artikel 6:2",
+    "title": "",
+    "chapter": 15,
+    "structure": [
+      "Hoofdstuk 6 Algemene bepalingen over bezwaar en beroep",
+      "Afdeling 6.1 Inleidende bepalingen"
+    ],
+    "text": "Voor de toepassing van wettelijke voorschriften over bezwaar en beroep worden met een besluit gelijkgesteld:\n\na. de schriftelijke weigering een besluit te nemen, en\n\nb. het niet tijdig nemen van een besluit.",
+    "notes": [],
+    "official_path": "/Hoofdstuk6/Afdeling6.1/Artikel6:2",
+    "effective_from": "1994-01-01",
+    "xml_label_id": "2814984"
+  },
+  {
+    "id": "art-6:21",
+    "label": "Artikel 6:21",
+    "title": "",
+    "chapter": 15,
+    "structure": [
+      "Hoofdstuk 6 Algemene bepalingen over bezwaar en beroep",
+      "Afdeling 6.2 Overige algemene bepalingen"
+    ],
+    "text": "1 Het bezwaar of beroep kan schriftelijk worden ingetrokken.\n\n2 Tijdens het horen kan de intrekking ook mondeling geschieden.",
+    "notes": [],
+    "official_path": "/Hoofdstuk6/Afdeling6.2/Artikel6:21",
+    "effective_from": "1994-01-01",
+    "xml_label_id": "2815184"
+  },
+  {
+    "id": "art-6:22",
+    "label": "Artikel 6:22",
+    "title": "",
+    "chapter": 15,
+    "structure": [
+      "Hoofdstuk 6 Algemene bepalingen over bezwaar en beroep",
+      "Afdeling 6.2 Overige algemene bepalingen"
+    ],
+    "text": "Een besluit waartegen bezwaar is gemaakt of beroep is ingesteld, kan, ondanks schending van een geschreven of ongeschreven rechtsregel of algemeen rechtsbeginsel, door het orgaan dat op het bezwaar of beroep beslist in stand worden gelaten indien aannemelijk is dat de belanghebbenden daardoor niet zijn benadeeld.",
+    "notes": [
+      "Deel C, artikel I, van Stb. 2012/682 bevat overgangsrecht m.b.t. deze wijziging."
+    ],
+    "official_path": "/Hoofdstuk6/Afdeling6.2/Artikel6:22",
+    "effective_from": "2013-01-01",
+    "xml_label_id": "2815194"
+  },
+  {
+    "id": "art-6:23",
+    "label": "Artikel 6:23",
+    "title": "",
+    "chapter": 15,
+    "structure": [
+      "Hoofdstuk 6 Algemene bepalingen over bezwaar en beroep",
+      "Afdeling 6.2 Overige algemene bepalingen"
+    ],
+    "text": "1 Indien beroep kan worden ingesteld tegen de beslissing op het bezwaar of beroep, wordt daarvan bij de bekendmaking van de beslissing melding gemaakt.\n\n2 Hierbij wordt vermeld door wie, binnen welke termijn en bij welk orgaan beroep kan worden ingesteld.",
+    "notes": [],
+    "official_path": "/Hoofdstuk6/Afdeling6.2/Artikel6:23",
+    "effective_from": "1994-01-01",
+    "xml_label_id": "2815204"
+  },
+  {
+    "id": "art-6:6",
+    "label": "Artikel 6:6",
+    "title": "",
+    "chapter": 15,
+    "structure": [
+      "Hoofdstuk 6 Algemene bepalingen over bezwaar en beroep",
+      "Afdeling 6.2 Overige algemene bepalingen"
+    ],
+    "text": "Het bezwaar of beroep kan niet-ontvankelijk worden verklaard, indien:\n\na. niet is voldaan aan artikel 6:5 of aan enig ander bij de wet gesteld vereiste voor het in behandeling nemen van het bezwaar of beroep, of\n\nb. het bezwaar- of beroepschrift geheel of gedeeltelijk is geweigerd op grond van artikel 2:15,\n\nmits de indiener de gelegenheid heeft gehad het verzuim te herstellen binnen een hem daartoe gestelde termijn.",
+    "notes": [],
+    "official_path": "/Hoofdstuk6/Afdeling6.2/Artikel6:6",
+    "effective_from": "2004-07-01",
+    "xml_label_id": "2815034"
+  },
+  {
+    "id": "art-6:8",
+    "label": "Artikel 6:8",
+    "title": "",
+    "chapter": 15,
+    "structure": [
+      "Hoofdstuk 6 Algemene bepalingen over bezwaar en beroep",
+      "Afdeling 6.2 Overige algemene bepalingen"
+    ],
+    "text": "1 De termijn vangt aan met ingang van de dag na die waarop het besluit op de voorgeschreven wijze is bekendgemaakt.\n\n2 De termijn voor het indienen van een bezwaarschrift tegen een besluit waartegen alleen door een of meer bepaalde belanghebbenden administratief beroep kon worden ingesteld, vangt aan met ingang van de dag na die waarop de beroepstermijn ongebruikt is verstreken.\n\n3 De termijn voor het indienen van een beroepschrift tegen een besluit dat aan goedkeuring is onderworpen, vangt aan met ingang van de dag na die waarop het besluit, inhoudende de goedkeuring van dat besluit, op de voorgeschreven wijze is bekendgemaakt.\n\n4 De termijn voor het indienen van een beroepschrift tegen een besluit dat tot een of meer belanghebbenden is gericht en dat is voorbereid met toepassing van afdeling 3.4 vangt aan met ingang van de dag na die waarop het besluit overeenkomstig artikel 3:44, eerste lid, onderdeel a, ter inzage is gelegd.",
+    "notes": [],
+    "official_path": "/Hoofdstuk6/Afdeling6.2/Artikel6:8",
+    "effective_from": "2021-07-01",
+    "xml_label_id": "2815054"
+  },
+  {
+    "id": "art-7:1",
+    "label": "Artikel 7:1",
+    "title": "",
+    "chapter": 16,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.1 Bezwaarschrift voorafgaand aan beroep bij de bestuursrechter"
+    ],
+    "text": "1 Degene aan wie het recht is toegekend beroep bij een bestuursrechter in te stellen, dient alvorens beroep in te stellen bezwaar te maken, tenzij:\n\na. het besluit in bezwaar of in administratief beroep is genomen,\n\nb. het besluit aan goedkeuring is onderworpen,\n\nc. het besluit een goedkeuring of een weigering daarvan inhoudt,\n\nd. het besluit is voorbereid met toepassing van afdeling 3.4,\n\ne. het besluit is genomen op basis van een uitspraak waarin de bestuursrechter met toepassing van artikel 8:72, vierde lid, onderdeel a, heeft bepaald dat afdeling 3.4 geheel of gedeeltelijk buiten toepassing blijft,\n\nf. het beroep zich richt tegen het niet tijdig nemen van een besluit,\n\ng. het besluit is genomen op grond van een voorschrift als genoemd in de bij deze wet behorende Regeling rechtstreeks beroep dan wel het besluit anderszins in die regeling is omschreven.\n\n2 Tegen de beslissing op het bezwaar kan beroep worden ingesteld met toepassing van de voorschriften die gelden voor het instellen van beroep tegen het besluit waartegen bezwaar is gemaakt.",
+    "notes": [
+      "Abusievelijk is een wijzigingsopdracht geformuleerd die niet geheel juist is. Deel C, artikel I, van Stb. 2012/682 bevat overgangsrecht m.b.t. deze wijziging."
+    ],
+    "official_path": "/Hoofdstuk7/Afdeling7.1/Artikel7:1",
+    "effective_from": "2013-01-01",
+    "xml_label_id": "2815244"
+  },
+  {
+    "id": "art-7:10",
+    "label": "Artikel 7:10",
+    "title": "",
+    "chapter": 16,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.2 Bijzondere bepalingen over bezwaar"
+    ],
+    "text": "1 Het bestuursorgaan beslist binnen zes weken of – indien een commissie als bedoeld in artikel 7:13 is ingesteld – binnen twaalf weken, gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.\n\n2 De termijn wordt opgeschort gerekend vanaf de dag na die waarop de indiener is verzocht een verzuim als bedoeld in artikel 6:6 te herstellen, tot de dag waarop het verzuim is hersteld of de daarvoor gestelde termijn ongebruikt is verstreken.\n\n3 Het bestuursorgaan kan de beslissing voor ten hoogste zes weken verdagen.\n\n4 Verder uitstel is mogelijk voor zover:\n\na. alle belanghebbenden daarmee instemmen,\n\nb. de indiener van het bezwaarschrift daarmee instemt en andere belanghebbenden daardoor niet in hun belangen kunnen worden geschaad, of\n\nc. dit nodig is in verband met de naleving van wettelijke procedurevoorschriften.\n\n5 Indien toepassing is gegeven aan het tweede, derde of vierde lid, doet het bestuursorgaan hiervan schriftelijk mededeling aan belanghebbenden.",
+    "notes": [],
+    "official_path": "/Hoofdstuk7/Afdeling7.2/Artikel7:10",
+    "effective_from": "2009-10-01",
+    "xml_label_id": "2815344"
+  },
+  {
+    "id": "art-7:11",
+    "label": "Artikel 7:11",
+    "title": "",
+    "chapter": 16,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.2 Bijzondere bepalingen over bezwaar"
+    ],
+    "text": "1 Indien het bezwaar ontvankelijk is, vindt op grondslag daarvan een heroverweging van het bestreden besluit plaats.\n\n2 Voor zover de heroverweging daartoe aanleiding geeft, herroept het bestuursorgaan het bestreden besluit en neemt het voor zover nodig in de plaats daarvan een nieuw besluit.",
+    "notes": [],
+    "official_path": "/Hoofdstuk7/Afdeling7.2/Artikel7:11",
+    "effective_from": "1994-01-01",
+    "xml_label_id": "2815354"
+  },
+  {
+    "id": "art-7:12",
+    "label": "Artikel 7:12",
+    "title": "",
+    "chapter": 16,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.2 Bijzondere bepalingen over bezwaar"
+    ],
+    "text": "1 De beslissing op het bezwaar dient te berusten op een deugdelijke motivering, die bij de bekendmaking van de beslissing wordt vermeld. Daarbij wordt, indien ingevolge artikel 7:3 van het horen is afgezien, tevens aangegeven op welke grond dat is geschied.\n\n2 De beslissing wordt bekendgemaakt door toezending of uitreiking aan degenen tot wie zij is gericht. Betreft het een besluit dat niet tot een of meer belanghebbenden is gericht, dan wordt de beslissing tevens bekendgemaakt op dezelfde wijze als waarop dat besluit bekendgemaakt is, tenzij het bestreden besluit in stand wordt gelaten.\n\n3 Zo spoedig mogelijk na de bekendmaking van de beslissing wordt hiervan mededeling gedaan aan de belanghebbenden die in bezwaar of bij de voorbereiding van het bestreden besluit hun zienswijze naar voren hebben gebracht.\n\n4 Bij de mededeling, bedoeld in het derde lid, is artikel 6:23 van overeenkomstige toepassing en wordt met het oog op de aanvang van de beroepstermijn zo duidelijk mogelijk aangegeven wanneer de bekendmaking van de beslissing overeenkomstig het tweede lid heeft plaatsgevonden.",
+    "notes": [
+      "Deel C, artikel I, van Stb. 2012/682 bevat overgangsrecht m.b.t. deze wijziging."
+    ],
+    "official_path": "/Hoofdstuk7/Afdeling7.2/Artikel7:12",
+    "effective_from": "2013-01-01",
+    "xml_label_id": "2815364"
+  },
+  {
+    "id": "art-7:13",
+    "label": "Artikel 7:13",
+    "title": "",
+    "chapter": 16,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.2 Bijzondere bepalingen over bezwaar"
+    ],
+    "text": "1 Dit artikel is van toepassing indien ten behoeve van de beslissing op het bezwaar een adviescommissie is ingesteld:\n\na. die bestaat uit een voorzitter en ten minste twee leden,\n\nb. waarvan de voorzitter geen deel uitmaakt van en niet werkzaam is onder verantwoordelijkheid van het bestuursorgaan en\n\nc. die voldoet aan eventueel bij wettelijk voorschrift gestelde andere eisen.\n\n2 Indien een commissie over het bezwaar zal adviseren, deelt het bestuursorgaan dit zo spoedig mogelijk mede aan de indiener van het bezwaarschrift.\n\n3 Het horen geschiedt door de commissie. De commissie kan het horen opdragen aan de voorzitter of een lid dat geen deel uitmaakt van en niet werkzaam is onder verantwoordelijkheid van het bestuursorgaan.\n\n4 De commissie beslist over de toepassing van artikel 7:4, zesde lid, van artikel 7:5, tweede lid, en, voor zover bij wettelijk voorschrift niet anders is bepaald, van artikel 7:3.\n\n5 Een vertegenwoordiger van het bestuursorgaan wordt voor het horen uitgenodigd en wordt in de gelegenheid gesteld een toelichting op het standpunt van het bestuursorgaan te geven.\n\n6 Het advies van de commissie wordt schriftelijk uitgebracht en bevat een verslag van het horen.\n\n7 Indien de beslissing op het bezwaar afwijkt van het advies van de commissie, wordt in de beslissing de reden voor die afwijking vermeld en wordt het advies met de beslissing meegezonden.",
+    "notes": [],
+    "official_path": "/Hoofdstuk7/Afdeling7.2/Artikel7:13",
+    "effective_from": "2002-04-01",
+    "xml_label_id": "2815374"
+  },
+  {
+    "id": "art-7:14",
+    "label": "Artikel 7:14",
+    "title": "",
+    "chapter": 16,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.2 Bijzondere bepalingen over bezwaar"
+    ],
+    "text": "De artikelen 2:24 en 3:6, tweede lid, afdeling 3.4, de artikelen 3:41 tot en met 3:45, afdeling 3.7, met uitzondering van artikel 3:49 en titel 4.1, met uitzondering van de artikelen 4:14, eerste lid, en 4:15, eerste lid, onderdeel b, tweede lid, onderdelen b en c, derde lid en vierde lid en paragraaf 4.1.3.2, zijn niet van toepassing op besluiten op grond van deze afdeling.",
+    "notes": [],
+    "official_path": "/Hoofdstuk7/Afdeling7.2/Artikel7:14",
+    "effective_from": "2026-01-01",
+    "xml_label_id": "2815384"
+  },
+  {
+    "id": "art-7:14a",
+    "label": "Artikel 7:14a",
+    "title": "",
+    "chapter": 16,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.2 Bijzondere bepalingen over bezwaar"
+    ],
+    "text": "Indien door een ander dan de aanvrager bezwaar is gemaakt tegen een besluit op aanvraag, wordt de aanvrager voor de toepassing van paragraaf 4.1.3.2 gelijkgesteld met de indiener van het bezwaarschrift.",
+    "notes": [],
+    "official_path": "/Hoofdstuk7/Afdeling7.2/Artikel7:14a",
+    "effective_from": "2009-10-01",
+    "xml_label_id": "10168884"
+  },
+  {
+    "id": "art-7:16",
+    "label": "Artikel 7:16",
+    "title": "",
+    "chapter": 16,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.3 Bijzondere bepalingen over administratief beroep"
+    ],
+    "text": "1 Voordat een beroepsorgaan op het beroep beslist, stelt het belanghebbenden in de gelegenheid te worden gehoord.\n\n2 Het beroepsorgaan stelt daarvan in ieder geval de indiener van het beroepschrift op de hoogte, alsmede het bestuursorgaan dat het besluit heeft genomen en de belanghebbenden die bij de voorbereiding van het besluit of bij de behandeling van het bezwaarschrift hun zienswijze naar voren hebben gebracht.",
+    "notes": [],
+    "official_path": "/Hoofdstuk7/Afdeling7.3/Artikel7:16",
+    "effective_from": "1994-01-01",
+    "xml_label_id": "2815414"
+  },
+  {
+    "id": "art-7:17",
+    "label": "Artikel 7:17",
+    "title": "",
+    "chapter": 16,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.3 Bijzondere bepalingen over administratief beroep"
+    ],
+    "text": "Van het horen van een belanghebbende kan worden afgezien indien:\n\na. het beroep kennelijk niet-ontvankelijk is,\n\nb. het beroep kennelijk ongegrond is,\n\nc. de belanghebbende heeft verklaard geen gebruik te willen maken van het recht te worden gehoord, of\n\nd. de belanghebbende niet binnen een door het bestuursorgaan gestelde redelijke termijn verklaart dat hij gebruik wil maken van het recht te worden gehoord.",
+    "notes": [
+      "Deel C, artikel I, van Stb. 2012/682 bevat overgangsrecht m.b.t. deze wijziging."
+    ],
+    "official_path": "/Hoofdstuk7/Afdeling7.3/Artikel7:17",
+    "effective_from": "2013-01-01",
+    "xml_label_id": "2815424"
+  },
+  {
+    "id": "art-7:18",
+    "label": "Artikel 7:18",
+    "title": "",
+    "chapter": 16,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.3 Bijzondere bepalingen over administratief beroep"
+    ],
+    "text": "1 Tot tien dagen voor het horen kunnen belanghebbenden nadere stukken indienen.\n\n2 Het beroepsorgaan legt het beroepschrift en alle verder op de zaak betrekking hebbende stukken voorafgaand aan het horen gedurende ten minste een week voor belanghebbenden ter inzage.\n\n3 Bij de oproeping voor het horen worden belanghebbenden gewezen op het eerste lid en wordt vermeld waar en wanneer de stukken ter inzage zullen liggen.\n\n4 Belanghebbenden kunnen van deze stukken tegen vergoeding van ten hoogste de kosten afschriften verkrijgen.\n\n5 Voor zover de belanghebbenden daarmee instemmen, kan toepassing van het tweede lid achterwege worden gelaten.\n\n6 Het beroepsorgaan kan, al dan niet op verzoek van een belanghebbende, toepassing van het tweede lid voorts achterwege laten, voor zover geheimhouding om gewichtige redenen is geboden. Van de toepassing van deze bepaling wordt mededeling gedaan.\n\n7 Gewichtige redenen zijn in ieder geval niet aanwezig, voor zover ingevolge de Wet open overheid de verplichting bestaat een verzoek om informatie, vervat in deze stukken, in te willigen.\n\n8 Indien een gewichtige reden is gelegen in de vrees voor schade aan de lichamelijke of geestelijke gezondheid van een belanghebbende, kan inzage van de desbetreffende stukken worden voorbehouden aan een gemachtigde die hetzij advocaat hetzij arts is.",
+    "notes": [],
+    "official_path": "/Hoofdstuk7/Afdeling7.3/Artikel7:18",
+    "effective_from": "2022-05-01",
+    "xml_label_id": "2815434"
+  },
+  {
+    "id": "art-7:19",
+    "label": "Artikel 7:19",
+    "title": "",
+    "chapter": 16,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.3 Bijzondere bepalingen over administratief beroep"
+    ],
+    "text": "1 Het horen geschiedt door het beroepsorgaan.\n\n2 Bij of krachtens de wet kan het horen worden opgedragen aan een adviescommissie waarin een of meer leden zitting hebben die geen deel uitmaken van en niet werkzaam zijn onder verantwoordelijkheid van het beroepsorgaan.\n\n3 Het horen geschiedt in het openbaar, tenzij het beroepsorgaan op verzoek van een belanghebbende of om gewichtige redenen ambtshalve anders beslist.",
+    "notes": [],
+    "official_path": "/Hoofdstuk7/Afdeling7.3/Artikel7:19",
+    "effective_from": "1994-01-01",
+    "xml_label_id": "2815444"
+  },
+  {
+    "id": "art-7:2",
+    "label": "Artikel 7:2",
+    "title": "",
+    "chapter": 16,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.2 Bijzondere bepalingen over bezwaar"
+    ],
+    "text": "1 Voordat een bestuursorgaan op het bezwaar beslist, stelt het belanghebbenden in de gelegenheid te worden gehoord.\n\n2 Het bestuursorgaan stelt daarvan in ieder geval de indiener van het bezwaarschrift op de hoogte alsmede de belanghebbenden die bij de voorbereiding van het besluit hun zienswijze naar voren hebben gebracht.",
+    "notes": [],
+    "official_path": "/Hoofdstuk7/Afdeling7.2/Artikel7:2",
+    "effective_from": "1994-01-01",
+    "xml_label_id": "2815264"
+  },
+  {
+    "id": "art-7:20",
+    "label": "Artikel 7:20",
+    "title": "",
+    "chapter": 16,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.3 Bijzondere bepalingen over administratief beroep"
+    ],
+    "text": "1 Belanghebbenden worden in elkaars aanwezigheid gehoord.\n\n2 Ambtshalve of op verzoek kunnen belanghebbenden afzonderlijk worden gehoord, indien aannemelijk is dat gezamenlijk horen een zorgvuldige behandeling zal belemmeren of dat tijdens het horen feiten of omstandigheden bekend zullen worden waarvan geheimhouding om gewichtige redenen is geboden.\n\n3 Wanneer belanghebbenden afzonderlijk zijn gehoord, wordt ieder van hen op de hoogte gesteld van het verhandelde tijdens het horen buiten zijn aanwezigheid.\n\n4 Het beroepsorgaan kan, al dan niet op verzoek van een belanghebbende, toepassing van het derde lid achterwege laten, voor zover geheimhouding om gewichtige redenen is geboden. Artikel 7:18, zesde lid, tweede volzin, zevende en achtste lid, is van overeenkomstige toepassing.",
+    "notes": [],
+    "official_path": "/Hoofdstuk7/Afdeling7.3/Artikel7:20",
+    "effective_from": "1994-01-01",
+    "xml_label_id": "2815454"
+  },
+  {
+    "id": "art-7:21",
+    "label": "Artikel 7:21",
+    "title": "",
+    "chapter": 16,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.3 Bijzondere bepalingen over administratief beroep"
+    ],
+    "text": "Van het horen wordt een verslag gemaakt.",
+    "notes": [],
+    "official_path": "/Hoofdstuk7/Afdeling7.3/Artikel7:21",
+    "effective_from": "1994-01-01",
+    "xml_label_id": "2815464"
+  },
+  {
+    "id": "art-7:22",
+    "label": "Artikel 7:22",
+    "title": "",
+    "chapter": 16,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.3 Bijzondere bepalingen over administratief beroep"
+    ],
+    "text": "Op verzoek van de belanghebbende kunnen door hem meegebrachte getuigen en deskundigen worden gehoord.",
+    "notes": [],
+    "official_path": "/Hoofdstuk7/Afdeling7.3/Artikel7:22",
+    "effective_from": "2002-03-12",
+    "xml_label_id": "2815474"
+  },
+  {
+    "id": "art-7:23",
+    "label": "Artikel 7:23",
+    "title": "",
+    "chapter": 16,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.3 Bijzondere bepalingen over administratief beroep"
+    ],
+    "text": "Wanneer na het horen aan het beroepsorgaan feiten of omstandigheden bekend worden die voor de op het beroep te nemen beslissing van aanmerkelijk belang kunnen zijn, wordt dit aan belanghebbenden meegedeeld en worden zij in de gelegenheid gesteld daarover te worden gehoord.",
+    "notes": [],
+    "official_path": "/Hoofdstuk7/Afdeling7.3/Artikel7:23",
+    "effective_from": "1994-01-01",
+    "xml_label_id": "2815484"
+  },
+  {
+    "id": "art-7:24",
+    "label": "Artikel 7:24",
+    "title": "",
+    "chapter": 17,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.3 Bijzondere bepalingen over administratief beroep"
+    ],
+    "text": "1 Het beroepsorgaan beslist binnen zestien weken, gerekend vanaf de dag na die waarop de termijn voor het indienen van het beroepschrift is verstreken.\n\n2 Indien het beroepsorgaan evenwel behoort tot dezelfde rechtspersoon als het bestuursorgaan tegen welks besluit het beroep is gericht, beslist het binnen zes weken of – indien een commissie als bedoeld in artikel 7:19, tweede lid, is ingesteld – binnen twaalf weken, gerekend vanaf de dag na die waarop de termijn voor het indienen van het beroepschrift is verstreken.\n\n3 De termijn wordt opgeschort gerekend vanaf de dag na die waarop de indiener is verzocht een verzuim als bedoeld in artikel 6:6 te herstellen, tot de dag waarop het verzuim is hersteld of de daarvoor gestelde termijn ongebruikt is verstreken.\n\n4 Het beroepsorgaan kan de beslissing voor ten hoogste tien weken verdagen.\n\n5 In het geval, bedoeld in het tweede lid, kan het beroepsorgaan de beslissing echter voor ten hoogste zes weken verdagen.\n\n6 Verder uitstel is mogelijk voor zover:\n\na. alle belanghebbenden daarmee instemmen,\n\nb. de indiener van het beroepschrift daarmee instemt en andere belanghebbenden daardoor niet in hun belangen kunnen worden geschaad, of\n\nc. dit nodig is in verband met de naleving van wettelijke procedurevoorschriften.\n\n7 Indien toepassing is gegeven aan het derde, vierde, vijfde of zesde lid, doet het beroepsorgaan hiervan schriftelijk mededeling aan belanghebbenden.",
+    "notes": [],
+    "official_path": "/Hoofdstuk7/Afdeling7.3/Artikel7:24",
+    "effective_from": "2009-10-01",
+    "xml_label_id": "2815494"
+  },
+  {
+    "id": "art-7:25",
+    "label": "Artikel 7:25",
+    "title": "",
+    "chapter": 17,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.3 Bijzondere bepalingen over administratief beroep"
+    ],
+    "text": "Voor zover het beroepsorgaan het beroep ontvankelijk en gegrond acht, vernietigt het het bestreden besluit en neemt het voor zover nodig in de plaats daarvan een nieuw besluit.",
+    "notes": [],
+    "official_path": "/Hoofdstuk7/Afdeling7.3/Artikel7:25",
+    "effective_from": "1994-01-01",
+    "xml_label_id": "2815504"
+  },
+  {
+    "id": "art-7:26",
+    "label": "Artikel 7:26",
+    "title": "",
+    "chapter": 17,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.3 Bijzondere bepalingen over administratief beroep"
+    ],
+    "text": "1 De beslissing op het beroep dient te berusten op een deugdelijke motivering, die bij de bekendmaking van de beslissing wordt vermeld. Daarbij wordt, indien ingevolge artikel 7:17 van het horen is afgezien, tevens aangegeven op welke grond dat is geschied.\n\n2 Indien de beslissing afwijkt van het advies van een commissie als bedoeld in artikel 7:19, tweede lid, worden in de beslissing de redenen voor die afwijking vermeld en wordt het advies met de beslissing meegezonden.\n\n3 De beslissing wordt bekendgemaakt door toezending of uitreiking aan degenen tot wie zij is gericht. Betreft het een besluit dat niet tot een of meer belanghebbenden was gericht, dan wordt de beslissing bekendgemaakt op dezelfde wijze als waarop dat besluit bekendgemaakt is.\n\n4 Zo spoedig mogelijk na de bekendmaking van de beslissing wordt hiervan mededeling gedaan aan het bestuursorgaan tegen welks besluit het beroep was gericht, aan degenen tot wie het bestreden besluit was gericht en aan de belanghebbenden die in beroep hun zienswijze naar voren hebben gebracht.\n\n5 Bij de mededeling, bedoeld in het vierde lid, is artikel 6:23 van overeenkomstige toepassing en wordt met het oog op de aanvang van de beroepstermijn zo duidelijk mogelijk aangegeven wanneer de bekendmaking van de beslissing overeenkomstig het derde lid heeft plaatsgevonden.",
+    "notes": [],
+    "official_path": "/Hoofdstuk7/Afdeling7.3/Artikel7:26",
+    "effective_from": "1994-01-01",
+    "xml_label_id": "2815514"
+  },
+  {
+    "id": "art-7:27",
+    "label": "Artikel 7:27",
+    "title": "",
+    "chapter": 17,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.3 Bijzondere bepalingen over administratief beroep"
+    ],
+    "text": "De artikelen 2:24 en 3:6, tweede lid, afdeling 3.4, de artikelen 3:41 tot en met 3:45, afdeling 3.7, met uitzondering van artikel 3:49 en titel 4.1, met uitzondering van de artikelen 4:14, eerste lid, en 4:15, eerste lid, onderdeel b, tweede lid, onderdelen b en c, derde lid en vierde lid en paragraaf 4.1.3.2, zijn niet van toepassing op besluiten op grond van deze afdeling.",
+    "notes": [],
+    "official_path": "/Hoofdstuk7/Afdeling7.3/Artikel7:27",
+    "effective_from": "2026-01-01",
+    "xml_label_id": "2815524"
+  },
+  {
+    "id": "art-7:27a",
+    "label": "Artikel 7:27a",
+    "title": "",
+    "chapter": 17,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.3 Bijzondere bepalingen over administratief beroep"
+    ],
+    "text": "Indien het beroep tegen een besluit op aanvraag is ingesteld door een ander dan de aanvrager, wordt de aanvrager voor de toepassing van paragraaf 4.1.3.2 gelijkgesteld met degene die het beroep heeft ingesteld.",
+    "notes": [],
+    "official_path": "/Hoofdstuk7/Afdeling7.3/Artikel7:27a",
+    "effective_from": "2009-10-01",
+    "xml_label_id": "10168894"
+  },
+  {
+    "id": "art-7:28",
+    "label": "Artikel 7:28",
+    "title": "",
+    "chapter": 17,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.3 Bijzondere bepalingen over administratief beroep"
+    ],
+    "text": "1 Voor de behandeling van het beroep is geen recht verschuldigd.\n\n2 De kosten, die de belanghebbende in verband met de behandeling van het beroep redelijkerwijs heeft moeten maken, worden door het bestuursorgaan uitsluitend vergoed op verzoek van de belanghebbende voor zover het bestreden besluit wordt herroepen wegens aan het bestuursorgaan te wijten onrechtmatigheid. In dat geval stelt het beroepsorgaan de vergoeding vast die het bestuursorgaan verschuldigd is.\n\n3 Indien aan de belanghebbende in verband met het beroep een toevoeging is verleend op grond van de Wet op de rechtsbijstand, betaalt het bestuursorgaan de toe te kennen vergoeding aan de rechtsbijstandverlener. De rechtsbijstandverlener stelt de belanghebbende zoveel mogelijk schadeloos voor de door deze voldane eigen bijdrage. De rechtsbijstandverlener doet aan de Raad voor rechtsbijstand opgave van een kostenvergoeding door het bestuursorgaan.\n\n4 Het verzoek wordt gedaan voordat het beroepsorgaan op het beroep heeft beslist. Het beroepsorgaan beslist op het verzoek bij de beslissing op het beroep.\n\n5 Bij algemene maatregel van bestuur worden nadere regels gesteld over de kosten waarop de vergoeding uitsluitend betrekking kan hebben en over de wijze waarop het bedrag van de kosten wordt vastgesteld.",
+    "notes": [],
+    "official_path": "/Hoofdstuk7/Afdeling7.3/Artikel7:28",
+    "effective_from": "2025-07-01",
+    "xml_label_id": "2815534"
+  },
+  {
+    "id": "art-7:3",
+    "label": "Artikel 7:3",
+    "title": "",
+    "chapter": 16,
+    "structure": [
+      "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+      "Afdeling 7.2 Bijzondere bepalingen over bezwaar"
+    ],
+    "text": "Van het horen van een belanghebbende kan worden afgezien indien:\n\na. het bezwaar kennelijk niet-ontvankelijk is,\n\nb. het bezwaar kennelijk ongegrond is,\n\nc. de belanghebbende heeft verklaard geen gebruik te willen maken van het recht te worden gehoord,\n\nd. de belanghebbende niet binnen een door het bestuursorgaan gestelde redelijke termijn verklaart dat hij gebruik wil maken van het recht te worden gehoord, of\n\ne. aan het bezwaar volledig tegemoet wordt gekomen en andere belanghebbenden daardoor niet in hun belangen kunnen worden geschaad.",
+    "notes": [
+      "Deel C, artikel I, van Stb. 2012/682 bevat overgangsrecht m.b.t. deze wijziging."
+    ],
+    "official_path": "/Hoofdstuk7/Afdeling7.2/Artikel7:3",
+    "effective_from": "2013-01-01",
+    "xml_label_id": "2815274"
+  },
+  {
+    "id": "art-8:1",
+    "label": "Artikel 8:1",
+    "title": "",
+    "chapter": 18,
+    "structure": [
+      "Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter",
+      "Titel 8.1 Algemene bepalingen over het beroep in eerste aanleg",
+      "Afdeling 8.1.1 Bevoegdheid"
+    ],
+    "text": "Een belanghebbende kan tegen een besluit beroep instellen bij de bestuursrechter.",
+    "notes": [
+      "Deel C, artikel I, van Stb. 2012/682 bevat overgangsrecht m.b.t. deze wijziging."
+    ],
+    "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.1/Artikel8:1",
+    "effective_from": "2013-01-01",
+    "xml_label_id": "2815574"
+  },
+  {
+    "id": "art-8:3",
+    "label": "Artikel 8:3",
+    "title": "",
+    "chapter": 18,
+    "structure": [
+      "Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter",
+      "Titel 8.1 Algemene bepalingen over het beroep in eerste aanleg",
+      "Afdeling 8.1.1 Bevoegdheid"
+    ],
+    "text": "1 Geen beroep kan worden ingesteld tegen een besluit:\n\na. inhoudende een algemeen verbindend voorschrift of een beleidsregel,\n\nb. inhoudende de intrekking of de vaststelling van de inwerkingtreding van een algemeen verbindend voorschrift of een beleidsregel,\n\nc. inhoudende de goedkeuring van een besluit, inhoudende een algemeen verbindend voorschrift of een beleidsregel of de intrekking of de vaststelling van de inwerkingtreding van een algemeen verbindend voorschrift of een beleidsregel.\n\n2 Geen beroep kan worden ingesteld tegen een besluit ter voorbereiding van een privaatrechtelijke rechtshandeling.",
+    "notes": [
+      "Deel C, artikel I, van Stb. 2012/682 bevat overgangsrecht m.b.t. deze wijziging."
+    ],
+    "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.1/Artikel8:3",
+    "effective_from": "2013-01-01",
+    "xml_label_id": "2815594"
+  },
+  {
+    "id": "art-8:5",
+    "label": "Artikel 8:5",
+    "title": "",
+    "chapter": 18,
+    "structure": [
+      "Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter",
+      "Titel 8.1 Algemene bepalingen over het beroep in eerste aanleg",
+      "Afdeling 8.1.1 Bevoegdheid"
+    ],
+    "text": "1 Geen beroep kan worden ingesteld tegen een besluit als bedoeld in artikel 1 van de bij deze wet behorende Bevoegdheidsregeling bestuursrechtspraak.\n\n2 Geen beroep kan worden ingesteld tegen een besluit waartegen administratief beroep kan worden ingesteld of door de belanghebbende kon worden ingesteld.",
+    "notes": [
+      "Deel C, artikel I, van Stb. 2012/682 bevat overgangsrecht m.b.t. deze wijziging."
+    ],
+    "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.1/Artikel8:5",
+    "effective_from": "2013-01-01",
+    "xml_label_id": "2815614"
+  },
+  {
+    "id": "art-8:6",
+    "label": "Artikel 8:6",
+    "title": "",
+    "chapter": 18,
+    "structure": [
+      "Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter",
+      "Titel 8.1 Algemene bepalingen over het beroep in eerste aanleg",
+      "Afdeling 8.1.1 Bevoegdheid"
+    ],
+    "text": "1 Het beroep kan worden ingesteld bij de rechtbank, tenzij een andere bestuursrechter bevoegd is ingevolge hoofdstuk 2 van de bij deze wet behorende Bevoegdheidsregeling bestuursrechtspraak dan wel ingevolge een ander wettelijk voorschrift.\n\n2 Bij elk van de bestuursrechters, genoemd in hoofdstuk 2 van de bij deze wet behorende Bevoegdheidsregeling bestuursrechtspraak, kan beroep worden ingesteld tegen een besluit waarover die rechter in hoger beroep oordeelt, indien hij toepassing heeft gegeven aan artikel 8:113, tweede lid.",
+    "notes": [
+      "Deel C, artikel I, van Stb. 2012/682 bevat overgangsrecht m.b.t. deze wijziging."
+    ],
+    "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.1/Artikel8:6",
+    "effective_from": "2013-01-01",
+    "xml_label_id": "2815624"
+  },
+  {
+    "id": "art-8:69a",
+    "label": "Artikel 8:69a",
+    "title": "",
+    "chapter": 21,
+    "structure": [
+      "Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter",
+      "Titel 8.2 Behandeling van het beroep in eerste aanleg",
+      "Afdeling 8.2.6 Uitspraak"
+    ],
+    "text": "De bestuursrechter vernietigt een besluit niet op de grond dat het in strijd is met een geschreven of ongeschreven rechtsregel of een algemeen rechtsbeginsel, indien deze regel of dit beginsel kennelijk niet strekt tot bescherming van de belangen van degene die zich daarop beroept.",
+    "notes": [
+      "Deel C, artikel I, van Stb. 2012/682 bevat overgangsrecht m.b.t. deze wijziging."
+    ],
+    "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.6/Artikel8:69a",
+    "effective_from": "2013-01-01",
+    "xml_label_id": "11992904"
+  }
+]

@@ -14,3 +14,10 @@ De Afdeling oordeelt dat de gelijkstelling in 7:14a de aanvrager dezelfde mogeli
 De uitspraak citeert de toenmalige verdeelbepaling als artikel 4:17 lid 7. De hier gecontroleerde Awb-toestand bevat die regel in lid 6. Artikel 7:14a zelf is tekstueel gelijk gebleven tegenover de geciteerde bepaling. De toelichting neemt geen historische lidnummering als actuele verwijzing over. De kaart behandelt geen zelfstandig oordeel over 7:27a en geen algemene samenhangregel voor alle dwangsombesluiten. De eigen lezing van Abax wordt uitdrukkelijk van het verworpen oordeel onderscheiden.
 
 De volledige officiële gepubliceerde body is gelezen; geen ingebedde wettelijke bijlage of voetnoottekst is door de extractie weggelaten. Aangehechte externe bestanden zijn niet als zelfstandige autoriteiten gebruikt. De [lokale corpuscontrole](../sources/author-7-12-8-1/local-search-log.json) onderscheidt vier volledig overeenstemmende bodies en twee niet aangetroffen versies. Het onderzoek is selectief, zonder uitputtende latere-behandelingscontrole. Dit is een auteursbronkaart, geen onafhankelijke tweede beoordeling.
+
+
+## Afgebakende tweede beoordeling — review 017
+
+Op 20 oktober 2026 opnieuw volledig gelezen ter controle van uitsluitend art-7:14a. Volledige verzetuitspraak gelezen. R.o. 3–8, met name 6: oorspronkelijke aanvrager krijgt één dwangsom, geen aandeel per afzonderlijk derdenbezwaar. Verzet ongegrond. Oude 4:17 lid 7 nu lid 6; huidige 7:14a inhoudelijk vergeleken. Geen rechtstreeks oordeel over 7:27a geclaimd.
+
+[Opnieuw opgehaalde officiële XML](../sources/review-017/ECLI-NL-RVS-2021-870.xml), [volledig leesbestand](../sources/review-017/ECLI-NL-RVS-2021-870.txt), [HTTP-resultaat, tijdstip en SHA-256](../sources/review-017/verification.json), [review en lokale corpuscontrole](../sources/review-017/authority-review.json). Geen uitputtende latere-behandelingscontrole of externe professionele goedkeuring.
