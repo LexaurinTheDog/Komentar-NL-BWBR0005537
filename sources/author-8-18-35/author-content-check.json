@@ -1,0 +1,135 @@
+{
+  "checked_at": "2026-10-20T18:39:30.437073+00:00",
+  "kind": "author_self_check",
+  "independent_review": false,
+  "units_checked": 20,
+  "checked_ids": [
+    "art-8:18",
+    "art-8:19",
+    "art-8:20",
+    "art-8:21",
+    "art-8:22",
+    "art-8:23",
+    "art-8:24",
+    "art-8:25",
+    "art-8:26",
+    "art-8:27",
+    "art-8:28",
+    "art-8:28a",
+    "art-8:29",
+    "art-8:30",
+    "art-8:31",
+    "art-8:32",
+    "art-8:32a",
+    "art-8:33",
+    "art-8:34",
+    "art-8:35"
+  ],
+  "checks": [
+    {
+      "id": "art-8:18",
+      "specific_distinctions": "Zes leden: meervoudig zonder gewraakte, horen, kennelijk-afdoening sinds januari 2026, openbare gemotiveerde beslissing, misbruik, rechtsmiddelverbod. Nummerafwijking in RVS2026:3129 gemeld; geen toepassing zonder zitting in die zaak aangenomen.",
+      "example_checked": true
+    },
+    {
+      "id": "art-8:19",
+      "specific_distinctions": "Rechterlijk initiatief, 8:15-maatstaf, schriftelijk/mondeling en schorsing; onderscheiden van berusting.",
+      "example_checked": true
+    },
+    {
+      "id": "art-8:20",
+      "specific_distinctions": "Andere meervoudige kamer, spoed, motivering en mededeling; verschillen in zitting/openbaarheid tegenover 8:18; geen rechtsmiddel; afdelingschecklist.",
+      "example_checked": true
+    },
+    {
+      "id": "art-8:21",
+      "specific_distinctions": "Civiele vertegenwoordiging, uitzondering machtiging 1:349, redelijke belangenwaardering, voorlopige vertegenwoordiger en verval. Geen automatische onbekwaamheid door ziekte of hulpbehoefte.",
+      "example_checked": true
+    },
+    {
+      "id": "art-8:22",
+      "specific_distinctions": "Gerichte overeenkomstige verwijzingen 25/27/31 Fw, boedelpositie, geen automatische algehele schorsing, verschil insolventievormen; uitzondering eerdere zittingsuitnodiging alleen genoemde regels en wettelijke faillietverklaring.",
+      "example_checked": true
+    },
+    {
+      "id": "art-8:23",
+      "specific_distinctions": "Aangewezen collegeleden, betrokken ministers Kroon, bestuursorgaan blijft partij; machtiging en concrete persoonlijke oproeping afzonderlijk.",
+      "example_checked": true
+    },
+    {
+      "id": "art-8:24",
+      "specific_distinctions": "Bijstand/vertegenwoordiging, facultatieve schriftelijke machtiging, advocatenuitzondering, opdrachtbereik, 6:6-herstel en 6:17; geen advocatenplicht uit dit artikel.",
+      "example_checked": true
+    },
+    {
+      "id": "art-8:25",
+      "specific_distinctions": "Ernstige bezwaren, uiterste maatregel, hoor/kennisgeving en vervangingstermijn, zaak/instantiebeperking en rechtsmiddel via einduitspraak volgens HR; uitzondering advocaten.",
+      "example_checked": true
+    },
+    {
+      "id": "art-8:26",
+      "specific_distinctions": "Belanghebbendheid, drie initiatieven, sluitingstijdstip, foutieve toelating niet altijd vernietiging, geen reparatie eigen beroepstermijn; Staatscourant en aanvullende aankondiging.",
+      "example_checked": true
+    },
+    {
+      "id": "art-8:27",
+      "specific_distinctions": "Gerichte oproeping persoonlijk of vertegenwoordigd, informatieplicht en waarschuwing, bepaalde bestuurders/collegeleden; boete en vertrouwelijkheid als grenzen.",
+      "example_checked": true
+    },
+    {
+      "id": "art-8:28",
+      "specific_distinctions": "Rechterlijk schriftelijk verzoek, geen uniforme termijn, begrijpelijk antwoord en onmogelijkheid onderscheiden; wettelijke uitzonderingen.",
+      "example_checked": true
+    },
+    {
+      "id": "art-8:28a",
+      "specific_distinctions": "Beboete partij en verklaringen omtrent overtreding, rechterlijke cautie vooraf, geen algemene documentvrijstelling of vrijstelling verschijnen; toegelaten zwijgen geen 8:31-verzuim.",
+      "example_checked": true
+    },
+    {
+      "id": "art-8:29",
+      "specific_distinctions": "Alle zes leden afzonderlijk; weigeren/beperken, Woo ondergrens, concrete afweging, verval plicht/toestemming/verwijzing; Woo lid6 slechts opgevraagde stukken. Historische 2020-overzichtsbeslissing niet als volledige actuele Woo-procedure gebruikt.",
+      "example_checked": true
+    },
+    {
+      "id": "art-8:30",
+      "specific_distinctions": "Benoemde 8:47-deskundige versus partijrapport, opdrachtgrenzen, geen zelfstandige feitelijke dwangbevoegdheid; informatie en zienswijze afzonderlijk.",
+      "example_checked": true
+    },
+    {
+      "id": "art-8:31",
+      "specific_distinctions": "Vier medewerkingsplichten, bestaan verplichting vóór gevolgtrekking, relevante redenen en passend gevolg; HR-hoorwaarborg; geen boete of automatische gegrondheid.",
+      "example_checked": true
+    },
+    {
+      "id": "art-8:32",
+      "specific_distinctions": "Gezondheid partij versus privacy ander, advocaat/arts/bijzonder toegelaten gemachtigde, verschil uitsluitend rechterlijke inzage 8:29 en vertegenwoordigde inzage 8:32.",
+      "example_checked": true
+    },
+    {
+      "id": "art-8:32a",
+      "specific_distinctions": "Vooraf gericht verzoek naar stelling en passage, kan-bevoegdheid, geen directe algehele niet-ontvankelijkheid, verhouding 8:69 en 8:42; afdelingschecklist.",
+      "example_checked": true
+    },
+    {
+      "id": "art-8:33",
+      "specific_distinctions": "Rechterlijk opgeroepen getuige versus partij, inhoud oproeping; precieze selectieve Rv-verwijzingen, verschoning, dwang en verhoor op afstand; eigen facultatieve eedregel.",
+      "example_checked": true
+    },
+    {
+      "id": "art-8:34",
+      "specific_distinctions": "Aanvaarde benoeming, onpartijdigheid/beste weten, methode/taakgrenzen, 8:47-reactie; alleen Rv165(2)b/(3), geen familieverschoning overgenomen.",
+      "example_checked": true
+    },
+    {
+      "id": "art-8:35",
+      "specific_distinctions": "Aanvaarding én oproeping, onpartijdige vertolking onderscheiden vertegenwoordiging; Rv172/178 en oproepinhoud; geen algemene kostenclaim; praktische rolchecklist.",
+      "example_checked": true
+    }
+  ],
+  "unresolved_blockers": [],
+  "limitations": [
+    "Zelfcontrole door de auteur, geen onafhankelijke tweede beoordeling.",
+    "Geen uitputtend rechtspraakonderzoek of individuele praktijktoepassing."
+  ]
+}

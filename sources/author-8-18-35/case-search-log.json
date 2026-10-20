@@ -1,0 +1,54 @@
+{
+  "checked_at": "2026-10-20T18:37:00.499967+00:00",
+  "firecrawl": {
+    "setup": "Authenticated; 0 credits",
+    "probe_url": "https://firecrawl.dev",
+    "result": "Insufficient credits; exit 1; no extraction obtained.",
+    "evidence": "sources/author-8-18-35/firecrawl-attempt.log"
+  },
+  "primary_discovery_queries": [
+    "site.raadvanstate.nl \"8:29\" \"2020:1367\"",
+    "site.rechtspraak.nl \"8:25\" \"2020\" \"weigeren\"",
+    "site.raadvanstate.nl \"8:18\" \"2026\" \"kennelijk\"",
+    "site.raadvanstate.nl \"2020:1367\" \"Uitspraak\"",
+    "site.rechtspraak.nl \"8:26\" \"belanghebbende\" \"2023\"",
+    "site.rechtspraak.nl \"8:31\" \"2018:672\"",
+    "site.rechtspraak.nl \"8:18\" \"2026\" \"kennelijk\""
+  ],
+  "discovery_sources": [
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:1730",
+    "https://www.raadvanstate.nl/uitspraken/@125725/202005229-1-a3/",
+    "https://www.rechtspraak.nl/binaries/content/assets/documenten/jurisprudentienieuwsbrief/jnb-2023-45-8-december-2023.pdf"
+  ],
+  "method": "Search snippets and newsletter only for discovery; used holdings verified by full official XML and actual full-body reading. Exact ECLI local corpus checks separate. Third-party discovery hits not treated as legal authority.",
+  "selected_and_read": [
+    "ECLI:NL:HR:2020:1730",
+    "ECLI:NL:RVS:2020:1367",
+    "ECLI:NL:RVS:2023:4471",
+    "ECLI:NL:HR:2018:672",
+    "ECLI:NL:RVS:2026:3129"
+  ],
+  "cases_not_selected": "Other search hits, including PHR conclusions and commercial annotations, not used as independent authority.",
+  "no_individually_verified_case_added_for": [
+    "art-8:19",
+    "art-8:20",
+    "art-8:21",
+    "art-8:22",
+    "art-8:23",
+    "art-8:24",
+    "art-8:27",
+    "art-8:28",
+    "art-8:28a",
+    "art-8:30",
+    "art-8:32",
+    "art-8:32a",
+    "art-8:33",
+    "art-8:34",
+    "art-8:35"
+  ],
+  "limitations": [
+    "Selectief onderzoek; geen uitputtende rechtspraakdekking.",
+    "Geen uitspraak toegevoegd bij technische bepalingen zonder een in deze batch voldoende geverifieerde zelfstandige autoriteit. Dat is geen bewijs dat zulke rechtspraak ontbreekt.",
+    "Twee lokale HR-derivaten bevatten niet de hele officiële body onder louter witruimtenormalisatie; officiële volledige XML is leidend en volledig gelezen."
+  ]
+}

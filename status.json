@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T18:27:53.562723+00:00",
+  "updated_at": "2026-10-20T18:39:30.437073+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -17,12 +17,12 @@
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
     "review_verified_at": "2026-10-20T18:26:51.661006+00:00",
     "review_evidence": "sources/review-018/verification.json",
-    "author_batch_verified_at": "2026-10-20T18:20:12.916310+00:00",
-    "author_batch_evidence": "sources/author-8-2-17/verification.json"
+    "author_batch_verified_at": "2026-10-20T18:39:30.437073+00:00",
+    "author_batch_evidence": "sources/author-8-18-35/verification.json"
   },
   "official_articles": 584,
   "total_units": 588,
-  "completed_units": 360,
+  "completed_units": 380,
   "completed_ids": [
     "aanhef",
     "art-1:1",
@@ -383,9 +383,7 @@
     "art-8:14",
     "art-8:15",
     "art-8:16",
-    "art-8:17"
-  ],
-  "missing_commentary_ids": [
+    "art-8:17",
     "art-8:18",
     "art-8:19",
     "art-8:20",
@@ -405,7 +403,9 @@
     "art-8:32a",
     "art-8:33",
     "art-8:34",
-    "art-8:35",
+    "art-8:35"
+  ],
+  "missing_commentary_ids": [
     "art-8:36",
     "art-8:36a",
     "art-8:36b",
@@ -686,7 +686,12 @@
       "ECLI:NL:RVS:2022:2221",
       "ECLI:NL:RVS:2023:2969",
       "ECLI:NL:RVS:2025:2001",
-      "ECLI:NL:RVS:2017:2719"
+      "ECLI:NL:RVS:2017:2719",
+      "ECLI:NL:HR:2020:1730",
+      "ECLI:NL:RVS:2020:1367",
+      "ECLI:NL:RVS:2023:4471",
+      "ECLI:NL:HR:2018:672",
+      "ECLI:NL:RVS:2026:3129"
     ],
     "fetched_not_yet_assessed": [],
     "scope": "selective",
@@ -732,53 +737,35 @@
         "ECLI:NL:RVS:2020:452",
         "ECLI:NL:RVS:2022:285"
       ]
+    },
+    "author_8_18_35": {
+      "read_and_used": [
+        "ECLI:NL:HR:2020:1730",
+        "ECLI:NL:RVS:2020:1367",
+        "ECLI:NL:RVS:2023:4471",
+        "ECLI:NL:HR:2018:672",
+        "ECLI:NL:RVS:2026:3129"
+      ],
+      "evidence": "sources/author-8-18-35/used-cases.json",
+      "scope": "selective"
     }
   },
   "coverage": true,
   "validation_result": {
     "complete": false,
-    "reason": "228 ontbrekende toelichtingen buiten de toegewezen reviewbatch; alle twintig toegewezen eenheden beoordeeld.",
-    "not_independent_review": false,
-    "strict_validator": {
-      "repo": "Komentar-NL-BWBR0005537",
-      "units": 588,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 700375,
-      "errors": [
-        "krátký/chybějící komentář u 228 jednotek: ['art-8:18(0<400)', 'art-8:19(0<400)', 'art-8:20(0<400)', 'art-8:21(0<400)', 'art-8:22(0<400)', 'art-8:23(0<400)', 'art-8:24(0<400)', 'art-8:25(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
-    },
-    "independent_review_scope": "Exactly twenty ids in review-result.json; earlier 340 independently reviewed units preserved. Whole book incomplete.",
-    "validated_at": "2026-10-20T18:27:53.562723+00:00",
-    "evidence": "strict-validation.json",
-    "bounded_review_passed": true,
-    "scoped_review_complete": true,
-    "scoped_technical_ok": true,
+    "reason": "208 eenheden buiten deze auteursbatch missen commentaar; de globale eindcontroles blijven daarop geblokkeerd.",
+    "not_independent_review": true,
     "whole_book_complete": false,
-    "assigned_batch_passed": true,
-    "bounded_author_batch": {
-      "complete": true,
-      "assigned_units": 20,
-      "evidence": "batch-7-12-8-1-validation.json",
-      "independent_review": false
-    },
-    "bounded_review": {
-      "complete": true,
-      "assigned_units": 20,
-      "evidence": "review-017-validation.json",
-      "independent_review": true
-    }
+    "bounded_author_passed": true,
+    "evidence": "batch-8-18-35-validation.json"
   },
   "remaining_limitations": [
-    "Uitsluitend de twintig genoemde eenheden onafhankelijk inhoudelijk beoordeeld; geen hele-boekvoltooiing.",
-    "228 eenheden buiten deze opdracht blijven ongeschreven en zonder tweede beoordeling.",
-    "Vier bestaande officiële uitspraken volledig opnieuw gelezen; rechtspraakonderzoek en latere-behandelingscontrole zijn selectief.",
-    "Afzonderlijke amicusreacties en aangehechte rechtbankuitspraak bij IsoSun niet als zelfstandige autoriteiten onderzocht; historisch materieel natuurrecht geen actuele 2026-handleiding.",
-    "Geen concreet forum op basis van de volledige externe rechtbankenrangorde aangewezen; Wet op de rechterlijke indeling niet integraal zelfstandig onderzocht.",
-    "Firecrawl heeft nul resterende credits; rechtstreekse officiële HTTP-downloads zijn geslaagd.",
-    "Tekstidentiteit, lengte en herhalingscontrole bewijzen op zichzelf geen juridische kwaliteit."
+    "208 eenheden buiten deze afgebakende auteursopdracht blijven ongeschreven.",
+    "De twintig nieuwe toelichtingen bij 8:18–8:35 wachten op een onafhankelijke tweede beoordeling. Bestaande reviewgegevens zijn behouden.",
+    "Selectief rechtspraakonderzoek, zonder volledige controle van vervolgprocedures of alle latere verwijzingen.",
+    "Nummerafwijking in RVS:2026:3129 gemeld; huidige wet rechtstreeks getoetst. Historische Wob-procedure niet als volledige actuele Woo-regel gebruikt.",
+    "Twee lokale HR-derivaten bevatten niet de volledige officiële body bij witruimtenormalisatie; de volledige primaire XML is opgehaald en gelezen.",
+    "Technische lengte-, tekst- en herhalingscontroles certificeren geen juridische kwaliteit."
   ],
   "preflight": {
     "complete": true,
@@ -808,31 +795,30 @@
   "last_author_batch": {
     "task": "bounded_author",
     "ids": [
-      "art-8:2",
-      "art-8:3",
-      "art-8:4",
-      "art-8:5",
-      "art-8:6",
-      "art-8:7",
-      "art-8:8",
-      "art-8:9",
-      "art-8:10",
-      "art-8:10a",
-      "art-8:11",
-      "art-8:12",
-      "art-8:12a",
-      "art-8:12b",
-      "art-8:13",
-      "art-8:13a",
-      "art-8:14",
-      "art-8:15",
-      "art-8:16",
-      "art-8:17"
+      "art-8:18",
+      "art-8:19",
+      "art-8:20",
+      "art-8:21",
+      "art-8:22",
+      "art-8:23",
+      "art-8:24",
+      "art-8:25",
+      "art-8:26",
+      "art-8:27",
+      "art-8:28",
+      "art-8:28a",
+      "art-8:29",
+      "art-8:30",
+      "art-8:31",
+      "art-8:32",
+      "art-8:32a",
+      "art-8:33",
+      "art-8:34",
+      "art-8:35"
     ],
     "completed_units": 20,
-    "evidence": "batch-8-2-17-result.json",
-    "independently_reviewed": true,
-    "independent_review_evidence": "review-result.json"
+    "evidence": "batch-8-18-35-result.json",
+    "independently_reviewed": false
   },
   "bounded_independent_review": {
     "complete": true,

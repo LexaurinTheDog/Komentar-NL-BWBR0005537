@@ -1,0 +1,67 @@
+[
+  {
+    "ecli": "ECLI:NL:HR:2020:1730",
+    "court": "Hoge Raad",
+    "date": "2020-11-06",
+    "docket": "19/05365",
+    "paragraphs": "2.2.2–2.2.6; toepassing 2.3.1–2.3.5; dictum",
+    "supported_units": [
+      "art-8:25"
+    ],
+    "case_card": "case-cards/ECLI-NL-HR-2020-1730.md",
+    "official_full_text_read": true,
+    "sha256": "fe6dbdcfa0b910de959c78f74120b646ac02fa7bc875dbcf47b3064e221e9919"
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2020:1367",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State",
+    "date": "2020-06-10",
+    "docket": "202001087/2/A3 en 202001097/2/A3",
+    "paragraphs": "7–14 en 17; concrete toepassing 18–19; context 1–6, 15–16 en dictum",
+    "supported_units": [
+      "art-8:29"
+    ],
+    "case_card": "case-cards/ECLI-NL-RVS-2020-1367.md",
+    "official_full_text_read": true,
+    "sha256": "aa5c73a49722f6379607819c80b7063d2226620af8bc582ccf45d5f7114ee979"
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2023:4471",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State",
+    "date": "2023-12-06",
+    "docket": "202100814/1/R3",
+    "paragraphs": "5–5.1; voor context gehele uitspraak 1–11.2 en dictum",
+    "supported_units": [
+      "art-8:26"
+    ],
+    "case_card": "case-cards/ECLI-NL-RVS-2023-4471.md",
+    "official_full_text_read": true,
+    "sha256": "93e3a552bcc7b31c415bff8c3e566a81f9880e6d325a37b142ff3486f2a65be8"
+  },
+  {
+    "ecli": "ECLI:NL:HR:2018:672",
+    "court": "Hoge Raad",
+    "date": "2018-05-04",
+    "docket": "16/04237",
+    "paragraphs": "3.4.2 onder v; context 3.1–3.6, 4–6 en dictum",
+    "supported_units": [
+      "art-8:31"
+    ],
+    "case_card": "case-cards/ECLI-NL-HR-2018-672.md",
+    "official_full_text_read": true,
+    "sha256": "3ab65005dcd07f0e770d5a390e43e7546c424b8aebe9a1751ed840021561aef8"
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2026:3129",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State",
+    "date": "2026-05-29",
+    "docket": "202505467/3/A2",
+    "paragraphs": "5–9 en dictum; context procesverloop en 1–4",
+    "supported_units": [
+      "art-8:18"
+    ],
+    "case_card": "case-cards/ECLI-NL-RVS-2026-3129.md",
+    "official_full_text_read": true,
+    "sha256": "5aee7cc5db472bd68af0ff28bf893227b5e3754712514cca4e964b10d52e139e"
+  }
+]

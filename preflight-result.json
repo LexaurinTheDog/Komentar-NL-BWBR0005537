@@ -115,7 +115,7 @@
   },
   "unresolved_blockers": [],
   "limitations": [
-    "Source/parser completeness does not complete the manuscript; status.json records 228 missing commentaries.",
+    "Source/parser completeness does not complete the manuscript; status.json records 208 missing commentaries.",
     "The bounded independent review covers only the twenty ids in review-result.json; this source check does not review the remaining units.",
     "Conditional digital-procedure applicability remains proceeding-specific.",
     "The history table and two separate historical XML states were checked; not all historical states were downloaded."
@@ -3256,5 +3256,78 @@
       "Not all historical snapshots downloaded; previous and selected states compared separately.",
       "Case-specific applicability of conditional digital procedures remains."
     ]
+  },
+  "author_8_18_35_recheck": {
+    "complete": true,
+    "scope": "Source preflight for authoring exactly articles 8:18–8:35; no whole-book content review.",
+    "decisive_date": "2026-10-19",
+    "batch_authoring_date": "2026-10-20",
+    "official_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+    "verified_at": "2026-10-20T18:29:05.255645+00:00",
+    "version_evidence": {
+      "effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 15-08-2026 t/m heden.",
+      "latest_effective_on_decisive_date": "2026-08-15",
+      "latest_effective_on_recheck": "2026-08-15",
+      "first_future_change": "2027-01-01",
+      "selected_xml_identical_to_canonical": true,
+      "history_rows_evidence": "sources/author-8-18-35/history-rows.json",
+      "http_evidence": "sources/author-8-18-35/verification.json"
+    },
+    "historical_versions_checked": {
+      "previous": "2026-08-01_0",
+      "previous_xml": "sources/preflight/previous-official.xml",
+      "previous_sha256": "04d8986ae1ad30cc84a00bfd91d1ca79a3ea6a0be48aeaf5bcb1fc5e606ebc66",
+      "selected": "2026-08-15_0",
+      "assigned_changed_ids": [],
+      "historical_versions_concatenated": false,
+      "conditional_variants_preserved_separately": true
+    },
+    "annexes_checked": [
+      {
+        "annex": "1",
+        "official_path": "/Bijlage1",
+        "expected_child_ids": [],
+        "disposition": "Volledige ongenummerde normatieve lijst als bijlage-1 behouden.",
+        "evidence_path": "sources/author-8-18-35/selected.xml"
+      },
+      {
+        "annex": "2",
+        "official_path": "/Bijlage2",
+        "expected_child_ids": [
+          "bijlage-2-art-1",
+          "bijlage-2-art-2",
+          "bijlage-2-art-3",
+          "bijlage-2-art-4",
+          "bijlage-2-art-5",
+          "bijlage-2-art-6",
+          "bijlage-2-art-7",
+          "bijlage-2-art-8",
+          "bijlage-2-art-9",
+          "bijlage-2-art-10",
+          "bijlage-2-art-11",
+          "bijlage-2-art-12"
+        ],
+        "disposition": "Alle genummerde artikelen afzonderlijk opgenomen.",
+        "evidence_path": "sources/author-8-18-35/selected.xml"
+      },
+      {
+        "annex": "3",
+        "official_path": "/Bijlage3",
+        "expected_child_ids": [
+          "bijlage-3-art-1",
+          "bijlage-3-art-2"
+        ],
+        "disposition": "Alle genummerde artikelen afzonderlijk opgenomen.",
+        "evidence_path": "sources/author-8-18-35/selected.xml"
+      }
+    ],
+    "coverage": {
+      "expected_units": 588,
+      "parsed_units": 588,
+      "missing": [],
+      "duplicates": [],
+      "evidence": "sources/author-8-18-35/coverage-recheck.json"
+    },
+    "unresolved_blockers": []
   }
 }

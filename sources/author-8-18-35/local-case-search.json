@@ -1,0 +1,46 @@
+{
+  "checked_at": "2026-10-20T18:29:30.343000+00:00",
+  "method": "Targeted exact ECLI lookup in national corpus after primary-source discovery; full official XML downloaded separately.",
+  "cases": [
+    {
+      "ecli": "ECLI:NL:HR:2020:1730",
+      "official_snapshot": "sources/author-8-18-35/ECLI-NL-HR-2020-1730.xml",
+      "sha256": "fe6dbdcfa0b910de959c78f74120b646ac02fa7bc875dbcf47b3064e221e9919",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2020-1730.md",
+      "local_exists": true,
+      "normalized_full_body_in_local": false
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2020:1367",
+      "official_snapshot": "sources/author-8-18-35/ECLI-NL-RVS-2020-1367.xml",
+      "sha256": "aa5c73a49722f6379607819c80b7063d2226620af8bc582ccf45d5f7114ee979",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2020-1367.md",
+      "local_exists": true,
+      "normalized_full_body_in_local": true
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2023:4471",
+      "official_snapshot": "sources/author-8-18-35/ECLI-NL-RVS-2023-4471.xml",
+      "sha256": "93e3a552bcc7b31c415bff8c3e566a81f9880e6d325a37b142ff3486f2a65be8",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2023-4471.md",
+      "local_exists": true,
+      "normalized_full_body_in_local": true
+    },
+    {
+      "ecli": "ECLI:NL:HR:2018:672",
+      "official_snapshot": "sources/author-8-18-35/ECLI-NL-HR-2018-672.xml",
+      "sha256": "3ab65005dcd07f0e770d5a390e43e7546c424b8aebe9a1751ed840021561aef8",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2018-672.md",
+      "local_exists": true,
+      "normalized_full_body_in_local": false
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2026:3129",
+      "official_snapshot": "sources/author-8-18-35/ECLI-NL-RVS-2026-3129.xml",
+      "sha256": "5aee7cc5db472bd68af0ff28bf893227b5e3754712514cca4e964b10d52e139e",
+      "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-3129.md",
+      "local_exists": true,
+      "normalized_full_body_in_local": true
+    }
+  ]
+}

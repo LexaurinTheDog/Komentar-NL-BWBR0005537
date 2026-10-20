@@ -1,0 +1,12 @@
+{
+  "checked_at": "2026-10-20T18:39:30.437073+00:00",
+  "bounded_author_technical_ok": true,
+  "authored_units": 20,
+  "preserved_prior_commentaries": 360,
+  "whole_book_complete": false,
+  "global_missing_commentaries": 208,
+  "strict_validator": "Execution after output checkpoint commit; final result appended separately.",
+  "source_text_agreement": 1.0,
+  "independent_coverage": "coverage-evidence.json",
+  "independent_review": false
+}
