@@ -790,19 +790,20 @@
   "coverage": true,
   "validation_result": {
     "whole_book_complete": false,
-    "bounded_author_passed": true,
+    "bounded_review_passed": true,
     "strict_validator": {
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 919351,
+      "commentary_chars": 921025,
       "errors": [
         "krátký/chybějící komentář u 128 jednotek: ['art-8:86(0<400)', 'art-8:87(0<400)', 'art-8:88(0<400)', 'art-8:89(0<400)', 'art-8:90(0<400)', 'art-8:91(0<400)', 'art-8:92(0<400)', 'art-8:93(0<400)']"
       ],
       "warnings": [],
       "ok": false
     },
-    "evidence": "batch-8-71-85-validation.json"
+    "strict_validation_file": "strict-validation.json",
+    "review_evidence": "batch-review-023-validation.json"
   },
   "remaining_limitations": [
     "128 eenheden buiten deze batch missen nog commentaar.",

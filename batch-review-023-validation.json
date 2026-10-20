@@ -59,5 +59,18 @@
     "parsed_units": 588,
     "missing": [],
     "duplicates": []
-  }
+  },
+  "strict_validator": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 921025,
+    "errors": [
+      "krátký/chybějící komentář u 128 jednotek: ['art-8:86(0<400)', 'art-8:87(0<400)', 'art-8:88(0<400)', 'art-8:89(0<400)', 'art-8:90(0<400)', 'art-8:91(0<400)', 'art-8:92(0<400)', 'art-8:93(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "strict_validator_exit_code": 1,
+  "strict_validation_limit": "Only128 missing commentaries outside assigned batch; no assigned-unit error."
 }
