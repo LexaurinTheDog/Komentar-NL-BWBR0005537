@@ -1,0 +1,42 @@
+{
+  "complete": true,
+  "kind": "bounded_author",
+  "authored_ids": [
+    "art-10:38",
+    "art-10:39",
+    "art-10:40",
+    "art-10:41",
+    "art-10:42",
+    "art-10:43",
+    "art-10:44",
+    "art-10:45",
+    "art-11:1",
+    "art-11:2",
+    "art-11:3",
+    "art-11:4",
+    "wetsluiting",
+    "bijlage-1",
+    "bijlage-2-art-1",
+    "bijlage-2-art-2",
+    "bijlage-2-art-3",
+    "bijlage-2-art-4",
+    "bijlage-2-art-5",
+    "bijlage-2-art-6"
+  ],
+  "completed_units": 20,
+  "total_assigned": 20,
+  "written_book_units": 580,
+  "total_book_units": 588,
+  "whole_book_complete": false,
+  "independent_review": false,
+  "source_preflight": "sources/author-10-38-annex6/preflight-result.json",
+  "validation": "batch-10-38-annex6-validation.json",
+  "unresolved_blockers": [],
+  "limitations": [
+    "Acht eenheden buiten deze batch nog ongeschreven.",
+    "Deze twintig toelichtingen wachten op onafhankelijke tweede beoordeling.",
+    "Selectieve rechtspraak; latere behandeling niet uitputtend gecontroleerd.",
+    "Nieuwe HTML-opvragen mislukten; geldingsbewijs uit bewaarde succesvolle officiële antwoorden van dezelfde auteursdag en nieuwe identieke XML.",
+    "Technische validatie bewijst geen juridische kwaliteit."
+  ]
+}

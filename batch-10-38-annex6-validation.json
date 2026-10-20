@@ -1,0 +1,27 @@
+{
+  "bounded_author_technical_ok": true,
+  "assigned_units": 20,
+  "preserved_prior_commentaries": 560,
+  "commented_book_units": 580,
+  "remaining_unwritten": 8,
+  "strict_validator": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1126403,
+    "errors": [
+      "krátký/chybějící komentář u 8 jednotek: ['bijlage-2-art-7(0<400)', 'bijlage-2-art-8(0<400)', 'bijlage-2-art-9(0<400)', 'bijlage-2-art-10(0<400)', 'bijlage-2-art-11(0<400)', 'bijlage-2-art-12(0<400)', 'bijlage-3-art-1(0<400)', 'bijlage-3-art-2(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "shared_builder": {
+    "exit_code": 1,
+    "stderr": "CHYBÍ komentář k 8 jednotkám, např.: ['bijlage-2-art-7', 'bijlage-2-art-8', 'bijlage-2-art-9', 'bijlage-2-art-10', 'bijlage-2-art-11', 'bijlage-2-art-12', 'bijlage-3-art-1', 'bijlage-3-art-2']\n"
+  },
+  "build_method": "Shared builder invoked and refuses 8 missing out-of-scope commentaries. Affected chapters 27–30 rendered using unchanged shared load_units/load_commentary/quote functions; no placeholders added.",
+  "source_text_agreement": 1.0,
+  "whole_book_complete": false,
+  "independent_review": false,
+  "post_checkpoint_validation": true
+}

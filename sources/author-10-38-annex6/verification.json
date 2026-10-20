@@ -1,0 +1,79 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+    "accessed_at": "2026-10-20T22:51:39.518988+00:00",
+    "http_status": "200",
+    "curl_exit": 0,
+    "error": "",
+    "path": "sources/author-10-38-annex6/selected.xml",
+    "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "bytes": 2622149,
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537/2026-10-21",
+    "accessed_at": "2026-10-20T22:52:00.902625+00:00",
+    "http_status": "000",
+    "curl_exit": 92,
+    "error": "curl: (92) HTTP/2 stream 1 was not closed cleanly: PROTOCOL_ERROR (err 1)\n",
+    "path": "sources/author-10-38-annex6/current.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0,
+    "accepted_format": false
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie?view=changes",
+    "accessed_at": "2026-10-20T22:52:01.052419+00:00",
+    "http_status": "000",
+    "curl_exit": 92,
+    "error": "curl: (92) HTTP/2 stream 1 was not closed cleanly: PROTOCOL_ERROR (err 1)\n",
+    "path": "sources/author-10-38-annex6/history.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0,
+    "accepted_format": false
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/zoeken?type=uitspraak&max=10&return=DOC&subject=http%3A%2F%2Fpsi.rechtspraak.nl%2Frechtsgebied%23bestuursrecht&modified=2026-01-01T00%3A00%3A00",
+    "accessed_at": "2026-10-20T22:52:01.209396+00:00",
+    "http_status": "200",
+    "curl_exit": 0,
+    "error": "",
+    "path": "sources/author-10-38-annex6/case-search.xml",
+    "sha256": "c2b1def5a9cb2d2395a6b5d40bfb549c199c5d806f3d763f64317e8cde8c8ead",
+    "bytes": 6455,
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+    "accessed_at": "2026-10-20T22:55:50.659838+00:00",
+    "http_status": "000",
+    "curl_exit": 52,
+    "error": "curl: (52) Empty reply from server\n",
+    "path": "sources/author-10-38-annex6/current-retry.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0,
+    "accepted_format": false
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie?view=changes",
+    "accessed_at": "2026-10-20T22:55:51.062316+00:00",
+    "http_status": "000",
+    "curl_exit": 52,
+    "error": "curl: (52) Empty reply from server\n",
+    "path": "sources/author-10-38-annex6/history-retry.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0,
+    "accepted_format": false
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CRVB:2013:2659",
+    "accessed_at": "2026-10-20T22:55:51.201232+00:00",
+    "http_status": "200",
+    "curl_exit": 0,
+    "error": "",
+    "path": "sources/author-10-38-annex6/CRVB-2013-2659.xml",
+    "sha256": "4e951a36eadd874fc638f12bb980d9f27dea63451ffc3c88c595f1ee66d401b1",
+    "bytes": 29709,
+    "accepted_format": true
+  }
+]

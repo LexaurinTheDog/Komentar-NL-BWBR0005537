@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-21",
+  "web_queries": [
+    "site.uitspraken.rechtspraak.nl \"10:42\" \"10:41\"",
+    "site.uitspraken.rechtspraak.nl \"11:3\" \"bijlage\" bevoegd"
+  ],
+  "official_api_search_snapshot": "sources/author-10-38-annex6/case-search.xml",
+  "search_scope": "Selectieve webzoekactie plus algemene API-verkenning; geen uitputtende zoekactie per artikel.",
+  "local_corpus_root": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak",
+  "selected": "ECLI:NL:CRVB:2013:2659",
+  "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/crvb/ecli-nl-crvb-2013-2659.md",
+  "local_sha256": "bfe8b1c8d8f17b501a092f4e2631ac066014e8a362d027827f376d97447922a1",
+  "primary_full_text_read": true,
+  "local_full_text_read": true,
+  "comparison": "Zelfde procedure, relevante overwegingen 4.1–4.7 en inhoudelijke uitkomst; leesafschrift laat aparte XML-nummerelementen weg, corpuskopie behoudt ze. Corpusmetadata verwijst ten onrechte naar Wet bescherming persoonsgegevens; niet overgenomen.",
+  "supported_units": [
+    "art-11:3"
+  ],
+  "selected_paragraphs": [
+    "4.1 partijstandpunt",
+    "4.2–4.3 algemeen kader",
+    "4.4–4.7 beperkte uitzondering en conclusie",
+    "dictum context"
+  ],
+  "other_assigned_units": "Geen afzonderlijke voldoende relevante geverifieerde uitspraak geselecteerd.",
+  "limitations": [
+    "Geen uitputtende controle van latere behandeling.",
+    "Historische Wpb en WWB niet als actuele materiële regels gebruikt."
+  ]
+}

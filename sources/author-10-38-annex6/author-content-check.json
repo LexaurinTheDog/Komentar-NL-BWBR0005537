@@ -1,0 +1,154 @@
+{
+  "independent_review": false,
+  "units": [
+    {
+      "id": "art-10:38",
+      "chars": 1828,
+      "source_read": true,
+      "fictional_example": true,
+      "author_meaning_check": "10:38: goedkeuring en rechtsmiddelen; alleen lid 1 via 10:45"
+    },
+    {
+      "id": "art-10:39",
+      "chars": 1982,
+      "source_read": true,
+      "fictional_example": true,
+      "author_meaning_check": "10:39: vier leden, termijn, schorsing, goedkeuring en specifieke Europese uitzondering"
+    },
+    {
+      "id": "art-10:40",
+      "chars": 1381,
+      "source_read": true,
+      "fictional_example": true,
+      "author_meaning_check": "10:40: schorsing geëindigd, ook opheffing; onderscheid rechterlijke voorziening"
+    },
+    {
+      "id": "art-10:41",
+      "chars": 1795,
+      "source_read": true,
+      "fictional_example": true,
+      "author_meaning_check": "10:41: overleggelegenheid, geen instemming; motivering inhoud overleg"
+    },
+    {
+      "id": "art-10:42",
+      "chars": 1955,
+      "source_read": true,
+      "fictional_example": true,
+      "author_meaning_check": "10:42: alle rechtsgevolgen, behoud, geen automatische civiele nietigheid; contract en schade"
+    },
+    {
+      "id": "art-10:43",
+      "chars": 1409,
+      "source_read": true,
+      "fictional_example": true,
+      "author_meaning_check": "10:43: onderzoeksdoel en bevoegd orgaan"
+    },
+    {
+      "id": "art-10:44",
+      "chars": 1699,
+      "source_read": true,
+      "fictional_example": true,
+      "author_meaning_check": "10:44: duur, één verlenging, totaaljaar, voortduring en opheffing"
+    },
+    {
+      "id": "art-10:45",
+      "chars": 2246,
+      "source_read": true,
+      "fictional_example": true,
+      "author_meaning_check": "10:45: selectieve verwijzing; geen lid 4 van 10:39"
+    },
+    {
+      "id": "art-11:1",
+      "chars": 1150,
+      "source_read": true,
+      "fictional_example": true,
+      "author_meaning_check": "11:1: vervallen slot en redactionele overgangsnotitie"
+    },
+    {
+      "id": "art-11:2",
+      "chars": 1838,
+      "source_read": true,
+      "fictional_example": true,
+      "author_meaning_check": "11:2: verplicht jaarlijks versus facultatief, index en afronding; geen ongeverifieerde tarieven"
+    },
+    {
+      "id": "art-11:3",
+      "chars": 2304,
+      "source_read": true,
+      "fictional_example": true,
+      "author_meaning_check": "11:3: bekendmaking besluit versus uitspraak; primaire zaak inclusief uitzonderingsuitkomst"
+    },
+    {
+      "id": "art-11:4",
+      "chars": 1147,
+      "source_read": true,
+      "fictional_example": true,
+      "author_meaning_check": "11:4: citeertitel en onderscheid bijlageartikel"
+    },
+    {
+      "id": "wetsluiting",
+      "chars": 1682,
+      "source_read": true,
+      "fictional_example": true,
+      "author_meaning_check": "wetsluiting: historische ondertekenaars en verschil uitgifte/inwerkingtreding"
+    },
+    {
+      "id": "bijlage-1",
+      "chars": 3665,
+      "source_read": true,
+      "fictional_example": true,
+      "author_meaning_check": "bijlage 1: geen bezwaar versus geen beroep, beperkende clausules, Wft boete, Vw zelfstandig besluit"
+    },
+    {
+      "id": "bijlage-2-art-1",
+      "chars": 3961,
+      "source_read": true,
+      "fictional_example": true,
+      "author_meaning_check": "bijlage 2 artikel 1: asymmetrische uitsluitingen, appelpersoon, weigering en niet-tijdig, Omgevingswet nuances"
+    },
+    {
+      "id": "bijlage-2-art-2",
+      "chars": 3429,
+      "source_read": true,
+      "fictional_example": true,
+      "author_meaning_check": "bijlage 2 artikel 2: eerste/enige aanleg, geen automatische bezwaaruitzondering; specifieke grondslagen"
+    },
+    {
+      "id": "bijlage-2-art-3",
+      "chars": 2248,
+      "source_read": true,
+      "fictional_example": true,
+      "author_meaning_check": "bijlage 2 artikel 3: ambtelijke hoedanigheid en oorlogsuitkeringen; AOR tegenover artikel 6"
+    },
+    {
+      "id": "bijlage-2-art-4",
+      "chars": 3735,
+      "source_read": true,
+      "fictional_example": true,
+      "author_meaning_check": "bijlage 2 artikel 4: economische rechter slechts wettelijk; temporele BW-categorie; bronverwijzing 8.3 behouden en verklaard"
+    },
+    {
+      "id": "bijlage-2-art-5",
+      "chars": 1435,
+      "source_read": true,
+      "fictional_example": true,
+      "author_meaning_check": "bijlage 2 artikel 5: hof als rechter van beroep op uitspraak op bezwaar, geen veronderstelde rechtbankfase"
+    },
+    {
+      "id": "bijlage-2-art-6",
+      "chars": 3199,
+      "source_read": true,
+      "fictional_example": true,
+      "author_meaning_check": "bijlage 2 artikel 6: relatieve concentratie versus zittingsplaats; Wav-boete uitgezonderd; Vw-artikelen tegenover artikel 2"
+    }
+  ],
+  "all_prior_commentaries_preserved": true,
+  "prior_count": 560,
+  "high_similarity_pairs": [],
+  "unresolved_blockers": [],
+  "limitations": [
+    "Auteurscontrole, geen onafhankelijke tweede beoordeling.",
+    "Lengte en gelijkenis bewijzen geen juridische kwaliteit.",
+    "Selectieve jurisprudentie; geen volledige nacontrole van latere behandeling."
+  ]
+}

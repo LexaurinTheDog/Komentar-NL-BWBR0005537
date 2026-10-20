@@ -1,0 +1,126 @@
+{
+  "assigned_output_checks": [
+    {
+      "id": "art-10:38",
+      "exact_statutory_quote_present": true,
+      "exact_commentary_present": true,
+      "chars": 1828
+    },
+    {
+      "id": "art-10:39",
+      "exact_statutory_quote_present": true,
+      "exact_commentary_present": true,
+      "chars": 1982
+    },
+    {
+      "id": "art-10:40",
+      "exact_statutory_quote_present": true,
+      "exact_commentary_present": true,
+      "chars": 1381
+    },
+    {
+      "id": "art-10:41",
+      "exact_statutory_quote_present": true,
+      "exact_commentary_present": true,
+      "chars": 1795
+    },
+    {
+      "id": "art-10:42",
+      "exact_statutory_quote_present": true,
+      "exact_commentary_present": true,
+      "chars": 1955
+    },
+    {
+      "id": "art-10:43",
+      "exact_statutory_quote_present": true,
+      "exact_commentary_present": true,
+      "chars": 1409
+    },
+    {
+      "id": "art-10:44",
+      "exact_statutory_quote_present": true,
+      "exact_commentary_present": true,
+      "chars": 1699
+    },
+    {
+      "id": "art-10:45",
+      "exact_statutory_quote_present": true,
+      "exact_commentary_present": true,
+      "chars": 2246
+    },
+    {
+      "id": "art-11:1",
+      "exact_statutory_quote_present": true,
+      "exact_commentary_present": true,
+      "chars": 1150
+    },
+    {
+      "id": "art-11:2",
+      "exact_statutory_quote_present": true,
+      "exact_commentary_present": true,
+      "chars": 1838
+    },
+    {
+      "id": "art-11:3",
+      "exact_statutory_quote_present": true,
+      "exact_commentary_present": true,
+      "chars": 2304
+    },
+    {
+      "id": "art-11:4",
+      "exact_statutory_quote_present": true,
+      "exact_commentary_present": true,
+      "chars": 1147
+    },
+    {
+      "id": "wetsluiting",
+      "exact_statutory_quote_present": true,
+      "exact_commentary_present": true,
+      "chars": 1682
+    },
+    {
+      "id": "bijlage-1",
+      "exact_statutory_quote_present": true,
+      "exact_commentary_present": true,
+      "chars": 3665
+    },
+    {
+      "id": "bijlage-2-art-1",
+      "exact_statutory_quote_present": true,
+      "exact_commentary_present": true,
+      "chars": 3961
+    },
+    {
+      "id": "bijlage-2-art-2",
+      "exact_statutory_quote_present": true,
+      "exact_commentary_present": true,
+      "chars": 3429
+    },
+    {
+      "id": "bijlage-2-art-3",
+      "exact_statutory_quote_present": true,
+      "exact_commentary_present": true,
+      "chars": 2248
+    },
+    {
+      "id": "bijlage-2-art-4",
+      "exact_statutory_quote_present": true,
+      "exact_commentary_present": true,
+      "chars": 3735
+    },
+    {
+      "id": "bijlage-2-art-5",
+      "exact_statutory_quote_present": true,
+      "exact_commentary_present": true,
+      "chars": 1435
+    },
+    {
+      "id": "bijlage-2-art-6",
+      "exact_statutory_quote_present": true,
+      "exact_commentary_present": true,
+      "chars": 3199
+    }
+  ],
+  "ok": true,
+  "total": 20
+}
