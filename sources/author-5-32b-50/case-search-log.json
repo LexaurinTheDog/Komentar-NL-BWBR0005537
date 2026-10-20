@@ -1,0 +1,147 @@
+{
+  "checked_at": "2026-10-20T16:48:42.069053+00:00",
+  "scope": "Selective research; full official text of three used decisions read; no claim of exhaustive cases or subsequent procedural history.",
+  "web_queries": [
+    "site.raadvanstate.nl 5:32b dwangsom redelijke verhouding 5:37 deugdelijke controleerbare vaststelling",
+    "site.rechtspraak.nl 5:42 2025 overleden boete onherroepelijke",
+    "site.rechtspraak.nl 5:41 5:46 verwijtbaarheid 2022 50% Wav",
+    "site.raadvanstate.nl \"13 juli 2022\" \"verwijtbaarheid\" \"ECLI\"",
+    "site.raadvanstate.nl \"5:37a\" \"2025\"",
+    "site.raadvanstate.nl \"5:34\" \"onmogelijkheid\" \"2026\""
+  ],
+  "search_result_policy": "Only primary official full text relied on; search snippets and commercial annotations not authorities.",
+  "used_cases": [
+    {
+      "ecli": "ECLI:NL:RVS:2018:105",
+      "court": "Afdeling bestuursrechtspraak van de Raad van State",
+      "date": "2018-01-17",
+      "docket": "201609888/1/A1",
+      "paragraphs": [
+        "9.1",
+        "9.2"
+      ],
+      "supported_units": [
+        "art-5:37"
+      ],
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2018:105",
+      "official_snapshot": "sources/author-5-32b-50/ECLI-NL-RVS-2018-105.xml",
+      "official_sha256": "70c0aa931d6f564a7bbfec4bc6db3a4f57571232441a097a45449471987566f9",
+      "official_full_text_read": true,
+      "local_snapshot": "sources/author-5-32b-50/ECLI-NL-RVS-2018-105-local.md",
+      "local_sha256": "45d3a3615b1f1c871b53c15f97a79e4a77dba2062d785df0e8bafce406503df2",
+      "normalized_body_in_local": true
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2022:1973",
+      "court": "Afdeling bestuursrechtspraak van de Raad van State",
+      "date": "2022-07-13",
+      "docket": "202006623/1/V6",
+      "paragraphs": [
+        "3.2",
+        "3.3",
+        "7.1",
+        "7.2",
+        "8",
+        "9.1",
+        "9.2",
+        "10"
+      ],
+      "supported_units": [
+        "art-5:41",
+        "art-5:46"
+      ],
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2022:1973",
+      "official_snapshot": "sources/author-5-32b-50/ECLI-NL-RVS-2022-1973.xml",
+      "official_sha256": "635c200ba45a7fa4256864a55ccb403f9a4c4bc4843766de15c55d69ec2cb686",
+      "official_full_text_read": true,
+      "local_snapshot": "sources/author-5-32b-50/ECLI-NL-RVS-2022-1973-local.md",
+      "local_sha256": "a792094903eaebc5dde8758c9f71e88811a519f7aa27a89f2a28b65b06282848",
+      "normalized_body_in_local": true
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2026:911",
+      "court": "Afdeling bestuursrechtspraak van de Raad van State",
+      "date": "2026-02-18",
+      "docket": "202304089/1/R3",
+      "paragraphs": [
+        "8.3",
+        "5.1",
+        "12",
+        "16.1"
+      ],
+      "supported_units": [
+        "art-5:34",
+        "art-5:37",
+        "art-5:39"
+      ],
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:911",
+      "official_snapshot": "sources/author-5-32b-50/ECLI-NL-RVS-2026-911.xml",
+      "official_sha256": "247e6a7ecf59f80e06dc0959d05cd1b0d10761cba4bce4987fc8f20f48a6e8e0",
+      "official_full_text_read": true,
+      "local_snapshot": "sources/author-5-32b-50/ECLI-NL-RVS-2026-911-local.md",
+      "local_sha256": "a0415c6a62d6c44e36c0d24517a4528182c0c39d2af4700980bd329247fac45c",
+      "normalized_body_in_local": true
+    }
+  ],
+  "local_search": {
+    "command": [
+      "rg",
+      "-l",
+      "5:34|5:37a",
+      "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs",
+      "-g",
+      "*2025*",
+      "-g",
+      "*2026*"
+    ],
+    "exit_code": 0,
+    "result_count": 159,
+    "paths_evidence": "sources/author-5-32b-50/local-search-paths.txt",
+    "specific_5_37a_exit_code": 1,
+    "specific_5_37a_hits": []
+  },
+  "downloaded_not_used": [
+    {
+      "ecli": "ECLI:NL:RVS:2026:900",
+      "reason": "Rijgeschiktheidszaak: topic mismatch, not a source for 5:34; no holding imported."
+    }
+  ],
+  "web_results_not_used": [
+    {
+      "url": "https://www.raadvanstate.nl/uitspraken/@125985/202006932-3-a3-202002668-2-a3-en/",
+      "reason": "Advocate-general conclusion, not treated as holding of the court."
+    },
+    {
+      "url": "https://www.raadvanstate.nl/uitspraken/@156277/202306360-1-r3/",
+      "reason": "Potentially relevant result; not separately verified in full and not cited."
+    }
+  ],
+  "units_without_separate_verified_case": [
+    "art-5:32b",
+    "art-5:33",
+    "art-5:35",
+    "art-5:36",
+    "art-5:37a",
+    "art-5:38",
+    "art-5:40",
+    "art-5:42",
+    "art-5:43",
+    "art-5:44",
+    "art-5:45",
+    "art-5:47",
+    "art-5:48",
+    "art-5:49",
+    "art-5:50"
+  ],
+  "no_case_inference": "No separate sufficiently verified decision added for the remaining units; no assertion that case law is absent.",
+  "historical_limits": [
+    "2018:105 limitation discussion predates 2021 amendments and is excluded from current-law analysis.",
+    "2022:1973 concerns superseded Wav policy; only differentiation reasoning is used, no current universal percentage tariff.",
+    "2026:911 applies historical Wabo/Wnb context. Its paragraph 15.1 says 5:35a; the canonical Awb identifies the rule as 5:35(2). The typo is not reproduced as law; commentary does not rely on this paragraph."
+  ],
+  "firecrawl": {
+    "status": "Authenticated, zero remaining credits",
+    "setup_request_failed": "sources/author-5-32b-50/firecrawl-attempt.log",
+    "fallback": "Successful direct official HTTP downloads with SHA-256 and format validation."
+  }
+}

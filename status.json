@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T16:39:24.178734+00:00",
+  "updated_at": "2026-10-20T16:51:35.575671+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -17,12 +17,12 @@
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
     "review_verified_at": "2026-10-20T16:35:07.960510+00:00",
     "review_evidence": "sources/review-013/verification.json",
-    "author_batch_verified_at": "2026-10-20T16:32:49.812418+00:00",
-    "author_batch_evidence": "sources/author-5-18-32a/verification.json"
+    "author_batch_verified_at": "2026-10-20T16:51:35.575671+00:00",
+    "author_batch_evidence": "sources/author-5-32b-50/verification.json"
   },
   "official_articles": 584,
   "total_units": 588,
-  "completed_units": 260,
+  "completed_units": 280,
   "completed_ids": [
     "aanhef",
     "art-1:1",
@@ -283,9 +283,7 @@
     "art-5:31c",
     "art-5:31d",
     "art-5:32",
-    "art-5:32a"
-  ],
-  "missing_commentary_ids": [
+    "art-5:32a",
     "art-5:32b",
     "art-5:33",
     "art-5:34",
@@ -305,7 +303,9 @@
     "art-5:47",
     "art-5:48",
     "art-5:49",
-    "art-5:50",
+    "art-5:50"
+  ],
+  "missing_commentary_ids": [
     "art-5:51",
     "art-5:52",
     "art-5:53",
@@ -661,7 +661,10 @@
       "ECLI:NL:RBMNE:2026:4469",
       "ECLI:NL:CBB:2026:95",
       "ECLI:NL:RVS:2025:545",
-      "ECLI:NL:GHDHA:2024:1447"
+      "ECLI:NL:GHDHA:2024:1447",
+      "ECLI:NL:RVS:2018:105",
+      "ECLI:NL:RVS:2022:1973",
+      "ECLI:NL:RVS:2026:911"
     ],
     "fetched_not_yet_assessed": [
       "ECLI:NL:CBB:2024:31"
@@ -671,8 +674,8 @@
   "coverage": true,
   "validation_result": {
     "complete": false,
-    "reason": "328 eenheden buiten deze auteursbatch hebben geen commentaar; volledige gedeelde bouw blijft geblokkeerd.",
-    "not_independent_review": false,
+    "reason": "308 eenheden buiten deze auteursbatch missen commentaar; volledige gedeelde bouw blijft geblokkeerd.",
+    "not_independent_review": true,
     "strict_validator": {
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
@@ -684,11 +687,11 @@
       "warnings": [],
       "ok": false
     },
-    "independent_review_scope": "Current batch exactly twenty ids in review-result.json; previous 240 preserved separately. Whole-book review incomplete.",
+    "independent_review_scope": "Earlier 260 reviewed units preserved; newly authored 5:32b–5:50 not independently reviewed.",
     "validated_at": "2026-10-20T16:34:10.295897+00:00",
     "evidence": "strict-validation.json",
-    "bounded_review_passed": true,
-    "scoped_review_complete": true,
+    "bounded_review_passed": false,
+    "scoped_review_complete": false,
     "scoped_technical_ok": true,
     "whole_book_complete": false,
     "assigned_batch_passed": true,
@@ -700,12 +703,12 @@
     }
   },
   "remaining_limitations": [
-    "Uitsluitend de twintig exact genoemde eenheden zijn inhoudelijk beoordeeld; het boek is onvoltooid.",
-    "328 eenheden buiten deze opdracht missen nog commentaar en tweede beoordeling.",
-    "Drie bestaande uitspraken volledig herlezen; rechtspraak- en lokale corpuscontrole selectief, zonder uitputtende controle van latere behandeling of onherroepelijkheid.",
-    "De woonbootzaak is een civiel tussenarrest; het uiteindelijke schadebedrag is niet onderzocht. Lokale GHDHA-kopie ontbreekt; officiële volledige tekst beschikbaar.",
-    "De ministeriële stopregeling, alle bijzondere toezichtsregelingen en toepasselijke lagere uitzonderingen zijn niet afzonderlijk geïnventariseerd.",
-    "Technische tekstdekking, lengte en herhalingschecks bewijzen geen juridische kwaliteit. Geen externe professionele goedkeuring."
+    "308 eenheden buiten deze auteursopdracht zijn nog ongeschreven.",
+    "De nieuwe twintig toelichtingen bij 5:32b–5:50 wachten op een onafhankelijke tweede beoordeling; de eerdere 260 en hun reviewstaat zijn behouden.",
+    "Rechtspraakonderzoek is selectief; geen uitputtend onderzoek van latere behandeling, alle sectorregels of huidige Wav-boetetarieven.",
+    "De 2018-verjaringsanalyse is niet als huidig recht gebruikt; de Wav-percentages uit 2022 zijn historische context; 2026:911 betreft deels oud omgevingsrecht.",
+    "Eerdere beperkingen over de niet onderzochte ministeriële stopregeling, specifieke toezichtsregels en het eindresultaat van de civiele woonbootzaak blijven bestaan.",
+    "Tekstidentiteit, minimumlengte en herhalingscontrole bewijzen geen juridische kwaliteit; geen externe professionele goedkeuring."
   ],
   "preflight": {
     "complete": true,
@@ -716,31 +719,30 @@
   "last_author_batch": {
     "task": "bounded_author",
     "ids": [
-      "art-5:18",
-      "art-5:19",
-      "art-5:20",
-      "art-5:21",
-      "art-5:22",
-      "art-5:23",
-      "art-5:24",
-      "art-5:25",
-      "art-5:26",
-      "art-5:27",
-      "art-5:28",
-      "art-5:29",
-      "art-5:30",
-      "art-5:31",
-      "art-5:31a",
-      "art-5:31b",
-      "art-5:31c",
-      "art-5:31d",
-      "art-5:32",
-      "art-5:32a"
+      "art-5:32b",
+      "art-5:33",
+      "art-5:34",
+      "art-5:35",
+      "art-5:36",
+      "art-5:37",
+      "art-5:37a",
+      "art-5:38",
+      "art-5:39",
+      "art-5:40",
+      "art-5:41",
+      "art-5:42",
+      "art-5:43",
+      "art-5:44",
+      "art-5:45",
+      "art-5:46",
+      "art-5:47",
+      "art-5:48",
+      "art-5:49",
+      "art-5:50"
     ],
     "completed_units": 20,
-    "evidence": "batch-5-18-32a-result.json",
-    "independently_reviewed": true,
-    "review_evidence": "review-result.json"
+    "evidence": "batch-5-32b-50-result.json",
+    "independently_reviewed": false
   },
   "bounded_independent_review": {
     "complete": true,

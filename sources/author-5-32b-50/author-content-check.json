@@ -1,0 +1,114 @@
+{
+  "kind": "author_self_check_not_independent_review",
+  "checked_at": "2026-10-20T16:50:06.853673+00:00",
+  "complete": true,
+  "units_checked": 20,
+  "checks": [
+    {
+      "id": "art-5:32b",
+      "checked_against": "sources/author-5-32b-50/assigned-source-records.json",
+      "notes": "All three calculation modes distinguished; maximum and both proportionality criteria; no backdoor increase at collection; remedial character; concrete counting example."
+    },
+    {
+      "id": "art-5:33",
+      "checked_against": "sources/author-5-32b-50/assigned-source-records.json",
+      "notes": "Automatic forfeiture distinguished from collection decision; six weeks per amount; no reset by invoice; one-year limitation not augmented by six weeks."
+    },
+    {
+      "id": "art-5:34",
+      "checked_against": "sources/author-5-32b-50/assigned-source-records.json",
+      "notes": "Three remedies matched to temporary/permanent and partial/total impossibility; no automatic suspension; 911 holds no demonstrated impossibility, only possible later retroactive relief; one-year no-forfeiture request separately explained."
+    },
+    {
+      "id": "art-5:35",
+      "checked_against": "sources/author-5-32b-50/assigned-source-records.json",
+      "notes": "One year per amount; condition on nominal limitation day and pending/open challenge to the last; relation to 5:37a and title 4.4; actual Article II transition from 2020/500, old case excluded."
+    },
+    {
+      "id": "art-5:36",
+      "checked_against": "sources/author-5-32b-50/assigned-source-records.json",
+      "notes": "Repealed slot retained; no historic rule reconstructed as current; example of stale form reference; proportionately shorter explanation."
+    },
+    {
+      "id": "art-5:37",
+      "checked_against": "sources/author-5-32b-50/assigned-source-records.json",
+      "notes": "Decision before reminder; actual evidence tied to specific forfeiture; 2018:105 allegations not accepted facts; heavy collection interest with exceptions; third-party request and four weeks separately."
+    },
+    {
+      "id": "art-5:37a",
+      "checked_against": "sources/author-5-32b-50/assigned-source-records.json",
+      "notes": "Positive decision interrupts; new term via 4:110; request extension and refusal/nondecision procedural protections distinguished; three endpoints; suspension duration; no blanket protection for every collection dispute."
+    },
+    {
+      "id": "art-5:38",
+      "checked_against": "sources/author-5-32b-50/assigned-source-records.json",
+      "notes": "Consequential automatic lapse only insofar modification undermines collection; temporal effect of withdrawal; new aligned decision not enlargement; limitation preserved."
+    },
+    {
+      "id": "art-5:39",
+      "checked_against": "sources/author-5-32b-50/assigned-source-records.json",
+      "notes": "Contestation condition and copy requirement; judicial referral; provisional relief application not automatic stay; 911 illustrates actual referral and later concentration; section-end checklist."
+    },
+    {
+      "id": "art-5:40",
+      "checked_against": "sources/author-5-32b-50/assigned-source-records.json",
+      "notes": "Punitive unconditional payment vs remedial contingent payment; definition not grant of power; financial-entitlement exclusion not absence of all safeguards; two parallel decisions example."
+    },
+    {
+      "id": "art-5:41",
+      "checked_against": "sources/author-5-32b-50/assigned-source-records.json",
+      "notes": "Offence and culpability assessed separately; absent vs diminished culpability; no absence-of-intent immunity; Wav case contextual proof differentiation, no universal percentages."
+    },
+    {
+      "id": "art-5:42",
+      "checked_against": "sources/author-5-32b-50/assigned-source-records.json",
+      "notes": "All of subsection 2 retained: nonfinal entire penalty lapses, final unpaid part lapses; paid final part not automatically refunded; identify actual offender and not confuse director death with legal-person death; 2025 change orthographic only."
+    },
+    {
+      "id": "art-5:43",
+      "checked_against": "sources/author-5-32b-50/assigned-source-records.json",
+      "notes": "Prior penalty need not first be final; notification 5:50(2)(a) distinguished from (b); identity of offender/conduct/norm context; no reclassification solely by administrative split."
+    },
+    {
+      "id": "art-5:44",
+      "checked_against": "sources/author-5-32b-50/assigned-source-records.json",
+      "notes": "Prosecution plus hearing-start or issued strafbeschikking; mandatory referral with statute/OM exceptions; refusal or no response within thirteen weeks; current subsection 1 remains relevant; no claim that mere reporting triggers bar."
+    },
+    {
+      "id": "art-5:45",
+      "checked_against": "sources/author-5-32b-50/assigned-source-records.json",
+      "notes": "5:53 applicability rather than amount actually imposed; statutory exception; three/five years; event not discovery/report; tolling not restarting; collection limitation separately."
+    },
+    {
+      "id": "art-5:46",
+      "checked_against": "sources/author-5-32b-50/assigned-source-records.json",
+      "notes": "Legal maximum, discretionary vs legally fixed amounts, policy not legislation; all four subsections; culpability and financial circumstances; Sr 1(2) officially checked; 2022 percentages historically bounded."
+    },
+    {
+      "id": "art-5:47",
+      "checked_against": "sources/author-5-32b-50/assigned-source-records.json",
+      "notes": "Actual hof order under 12i, not complaint or conviction, triggers lapse; person/fact identity; no finality condition added; repayment mechanics not invented; general-subsection checklist."
+    },
+    {
+      "id": "art-5:48",
+      "checked_against": "sources/author-5-32b-50/assigned-source-records.json",
+      "notes": "Optional baseline vs mandatory 5:53 regime; every report requirement; final service deadline vs earlier 5:50 invitation; authentic Sv152 report substitutes for procedure but does not prove guilt by itself."
+    },
+    {
+      "id": "art-5:49",
+      "checked_against": "sources/author-5-32b-50/assigned-source-records.json",
+      "notes": "Request-based access and copies of underlying factual basis before final decision; not all government records; functional understandable-language requirement, not automatic full translation of every sheet; relation to oral interpreter."
+    },
+    {
+      "id": "art-5:50",
+      "checked_against": "sources/author-5-32b-50/assigned-source-records.json",
+      "notes": "Conditional structure not universal hearing duty; report with invitation, interpreter; self-incrimination rule 5:10a; written no-penalty vs prosecutorial referral distinguished, each connected to 5:43/44."
+    }
+  ],
+  "unresolved_material_issues_in_assigned_draft": [],
+  "limitations": [
+    "Author check; a fresh process must independently review all twenty units.",
+    "Selective cases; no exhaustive later history or sector-law audit.",
+    "Minimum length is not legal quality certification."
+  ]
+}
