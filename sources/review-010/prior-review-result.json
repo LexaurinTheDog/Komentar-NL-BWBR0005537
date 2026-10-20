@@ -1,0 +1,192 @@
+{
+  "complete": true,
+  "task": "bounded_independent_second_pass",
+  "scope": "Exactly articles 4:72–4:91; not whole-book completion.",
+  "reviewed_at": "2026-10-20T15:25:19.060536+00:00",
+  "decisive_date": "2026-10-19",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "art-4:72",
+    "art-4:73",
+    "art-4:74",
+    "art-4:75",
+    "art-4:76",
+    "art-4:77",
+    "art-4:78",
+    "art-4:79",
+    "art-4:80",
+    "art-4:81",
+    "art-4:82",
+    "art-4:83",
+    "art-4:84",
+    "art-4:85",
+    "art-4:86",
+    "art-4:87",
+    "art-4:88",
+    "art-4:89",
+    "art-4:90",
+    "art-4:91"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "unit_id": "art-4:72",
+      "status": "corrected",
+      "review": "Alle vijf leden gelezen. Vastgestelde subsidie tegenover voorschotten, herkomst reserve en rendement/veiligheid onderscheiden. Verwijzing naar 4:41 lid 2 c/d/e volledig gemaakt, inclusief intrekking. Volledig gelezen ABRvS 2019:1476 verduidelijkt rechtstreekse vergoedingsplicht en verwerpt rechtbankredenering over 4:41 lid 1; aankondiging en concreet vergoedingsbesluit onderscheiden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:73",
+      "status": "retained_after_review",
+      "review": "Volledige eenzinsnorm gelezen. Jaarlijkse vaststelling bij meerjarige verlening en afzonderlijke jaarbedragen juist. Samenhang met 4:67 en 4:74 behouden; geen heropening van reeds vastgestelde jaren zonder eigen grond.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:74",
+      "status": "corrected",
+      "review": "Zes maanden vanaf boekjaareinde en beide uitzonderingen gelezen. Meerjarige uitzondering mag niet worden vervangen door stilzwijgende zesmaandenplicht. Periodieke gegevens en jaarlijkse vaststelling onderscheiden. Concrete stappen 4:44 leden 3/4 toegevoegd; te laat is niet automatisch nihil.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:75",
+      "status": "corrected",
+      "review": "Beide leden gelezen. Financieel verslag en activiteitenverslag apart; jaarrekening vervangt uitsluitend financieel verslag. Definitie BW2:361 lid 1 officieel geverifieerd; 4:45 lid 2 en activiteitgerichte uitsplitsing behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:76",
+      "status": "corrected",
+      "review": "Alle vijf leden en onderdelen gelezen. Volledige subsidieafhankelijkheid en toepasselijkheid leden 2–5 expliciet. Verantwoorde oordeelsvorming, voorbehoud solvabiliteit/liquiditeit, balans op jaareinde, exploitatiesaldo over jaar en twee vergelijkingen onderscheiden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:77",
+      "status": "retained_after_review",
+      "review": "Hele norm gelezen. Overwegende inkomstenbron is niet hetzelfde als uitsluitend subsidiemiddelen; toepasselijkverklaring 4:76 vereist. Geen ongestaafd percentage ingevoerd. Overige verantwoordingsplichten blijven mogelijk. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:78",
+      "status": "corrected",
+      "review": "Vijf leden gelezen. Accountant volgens BW2:393 lid 1 en vereiste registeraantekening toegevoegd; geen gewone boekhouder als equivalent. Wettelijke verslagvoorschriften, beperkte verenigbaarheid activiteitenverslag, schriftelijke verklaring bij aanvraag en vrijstelling/ontheffing onderscheiden. Verklaring met beperking niet als foutloze goedkeuring gepresenteerd.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:79",
+      "status": "corrected",
+      "review": "Drie leden gelezen. Uitbreiding opdracht vereist voorschrift of verlening. Herkomst, reikwijdte en intensiteit van aanwijzing expliciet. Schriftelijk nalevingsoordeel is eigen inhoudelijk vereiste; onterechte suggestie van steeds verplicht los document verwijderd.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:80",
+      "status": "corrected",
+      "review": "Volledige norm gelezen. Aard/omvang, doelenvergelijking en verklaring verschillen behouden. Niet ieder gehoopt effect als verplicht resultaat behandeld. Voorbeeld aangevuld met onderscheid 4:46 lid 2 a/b en noodzaak motivering vaststellingsgevolg; checklist behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:81",
+      "status": "corrected",
+      "review": "Beide leden gelezen. Eigen, onder verantwoordelijkheid uitgeoefende en door orgaan gedelegeerde bevoegdheid juist. Geen materiële bevoegdheid door beleid. Delegatieverhouding verduidelijkt met daadwerkelijk gelezen 10:16 lid 1; individuele instructie niet verward met beleidsregels.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:82",
+      "status": "corrected",
+      "review": "Hele norm gelezen. Verwijzing naar vaste gedragslijn alleen voor zover beleidsregel; concrete draagkracht en 4:84 blijven relevant. Bekendmaking/inwerkingtreding via 3:40 toegevoegd; verborgen interne tekst voldoet niet vanzelf.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:83",
+      "status": "corrected",
+      "review": "Hele norm gelezen. Wettelijke bron van onderliggende bevoegdheid, zo mogelijk-vermelding en bevoegdheid tot beleidsregels onderscheiden. Bekendmaking volgens 3:42 afzonderlijk; gebrek in vermelding niet automatisch als ontbrekende bevoegdheid behandeld.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:84",
+      "status": "corrected",
+      "review": "Hele norm en volledig officieel Harderwijk-arrest gelezen. R.o. 7.11/8.1 en 11.3/11.4 ondersteunen bestaande tekst: ook verdisconteerde omstandigheden, zelfde evenredigheidsmaatstaven, onvolledig onderzoek niet automatisch verbod van elke sluiting. Begrenzing tot behandelde discretionaire context behouden. Praktische titelchecklist toegevoegd.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:85",
+      "status": "retained_after_review",
+      "review": "Drie leden en twee alternatieve toegangen gelezen. Publiekrechtelijke oorsprong tegenover contract, betaling voor aanvraagbehandeling en rechterlijk opgelegde betalingsplicht onderscheiden. Geen zelfstandige terugvorderings- of dwangbevelbevoegdheid geconstrueerd. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:86",
+      "status": "retained_after_review",
+      "review": "Beide leden en onderdelen gelezen. Vaststelling, bedrag en termijn; materiële grondslag afzonderlijk. Beschikking hoeft geen los document te zijn. 4:88 en precieze afwijkingen voorschot 4:95 leden 2/3 gecontroleerd. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:87",
+      "status": "retained_after_review",
+      "review": "Beide leden gelezen. Zes weken na voorgeschreven bekendmaking, later tijdstip bij beschikking, andere wettelijke termijn en voorschotuitzondering onderscheiden. Beslis-/bezwaar-/betaaltermijn gescheiden. CRVB 2016:3597 volledig gelezen; r.o. 4.3–4.7 draagt contextgebonden uitleg, geen actuele WW-termijn geclaimd. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:88",
+      "status": "retained_after_review",
+      "review": "Drie leden gelezen. Wettelijke uitzondering plus betalingstermijn; lid 3 uitsluitend betalingsplicht bestuursorgaan, redelijke verzoektermijn en spoed afzonderlijk. CRVB 2026:384 volledig inclusief bijlage gelezen; rechtbankredenering in 2.2 niet vereenzelvigd met Raad in 4.6/4.7. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:89",
+      "status": "retained_after_review",
+      "review": "Vier leden gelezen. Rekening door schuldeiser bestemd, verschillende afwijkingsgronden valuta/betaalwijze, creditering en betaling aan ander onderscheiden. GHARL 2017:7881 volledig gelezen; r.o. 4.8 draagt creditregel, fiscale betekeningskosten niet veralgemeniseerd. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:90",
+      "status": "retained_after_review",
+      "review": "Beide leden gelezen. Bezwaarlijkheid naar oordeel orgaan en beide betalingsrichtingen; geen absoluut recht op cash. Kwitantie door schuldeiser behoudens wettelijke uitzondering, praktische bewijsgegevens als advies gemarkeerd. Afzonderlijk uitstel 4:94 correct. Behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:91",
+      "status": "retained_after_review",
+      "review": "Beide leden gelezen. Betalingskosten schuldenaar; discretionaire inhouding alleen bij betalend orgaan en schuldeiser buiten EU behoudens voorschrift. Invorderingskosten, valuta en verrekening gescheiden; fictief rekenvoorbeeld en betaalroutechecklist juist. Behouden.",
+      "resolved": true
+    }
+  ],
+  "limitations": [
+    "Uitsluitend artikelen 4:72–4:91 inhoudelijk beoordeeld; geen voltooiing van het hele boek.",
+    "Vijf officiële uitspraken volledig gelezen, vier reeds aanwezig en één nieuw toegevoegd; selectie zonder uitputtende citatie- of latere-behandelingscontrole.",
+    "Bij vijftien overige toegewezen artikelen geen afzonderlijke voldoende relevante volledig geverifieerde uitspraak toegevoegd; geen claim dat rechtspraak ontbreekt.",
+    "Historische provinciale, fiscale en socialezekerheidsregels dienen alleen als casuscontext en zijn niet als huidig bijzonder recht overgenomen.",
+    "CRVB 2026:384 is lokaal gevonden maar volledige tekstidentiteit met het corpus is niet bevestigd; de volledige officiële XML is de gebruikte autoriteit. GHARL 2017:7881 niet lokaal gevonden.",
+    "Firecrawl had nul credits; officiële bronnen rechtstreeks opgehaald, met selectieve web- en lokale corpusrecherche.",
+    "160 overige geschreven toelichtingen behouden zonder herbeoordeling; lengte en herhalingschecks bewijzen geen juridische kwaliteit."
+  ],
+  "changed_ids": [
+    "art-4:72",
+    "art-4:74",
+    "art-4:75",
+    "art-4:76",
+    "art-4:78",
+    "art-4:79",
+    "art-4:80",
+    "art-4:81",
+    "art-4:82",
+    "art-4:83",
+    "art-4:84"
+  ],
+  "unchanged_ids": [
+    "art-4:73",
+    "art-4:77",
+    "art-4:85",
+    "art-4:86",
+    "art-4:87",
+    "art-4:88",
+    "art-4:89",
+    "art-4:90",
+    "art-4:91"
+  ],
+  "source_preflight": "preflight-result.json",
+  "technical_support": "review-technical.json",
+  "case_law_evidence": "sources/review-009/case-search-log.json",
+  "every_assigned_unit_read_against_source": true,
+  "outside_scope_commentaries_preserved": true,
+  "whole_book_complete": false
+}

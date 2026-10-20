@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T15:36:59.020996+00:00",
+  "checked_at": "2026-10-20T15:43:29.911346+00:00",
   "shared_builder": {
     "command": [
       "python3",
@@ -10,22 +10,7 @@
     "stdout": "",
     "stderr": "CHYBÍ komentář k 388 jednotkám, např.: ['art-4:111', 'art-4:112', 'art-4:113', 'art-4:114', 'art-4:115', 'art-4:116', 'art-4:117', 'art-4:118', 'art-4:119', 'art-4:120']\n"
   },
-  "checkpoint_method": "Use shared quotation/loading functions to render substantive existing text in affected chapters 9 and 10. Shared complete-book gate is unchanged.",
-  "bounded_authoring_complete": true,
-  "whole_book_complete": false,
-  "shared_strict_validation": {
-    "exit_code": 1,
-    "result": {
-      "repo": "Komentar-NL-BWBR0005537",
-      "units": 588,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 331413,
-      "errors": [
-        "krátký/chybějící komentář u 388 jednotek: ['art-4:111(0<400)', 'art-4:112(0<400)', 'art-4:113(0<400)', 'art-4:114(0<400)', 'art-4:115(0<120)', 'art-4:116(0<400)', 'art-4:117(0<400)', 'art-4:118(0<120)']"
-      ],
-      "warnings": [],
-      "ok": false
-    },
-    "evidence": "batch-4-92-110-validation.json"
-  }
+  "checkpoint_method": "Existing _checkpoint.py renders only substantive written commentary as explicitly incomplete; shared completion gate unchanged.",
+  "scope_review_complete": true,
+  "whole_book_complete": false
 }

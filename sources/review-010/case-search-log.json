@@ -1,0 +1,35 @@
+{
+  "checked_at": "2026-10-20T15:41:14.194929+00:00",
+  "scope": "Selective verification of four existing cited judgments; no new authority claimed.",
+  "author_research_evidence": "sources/author-4-92-110/case-search-log.json",
+  "fresh_local_discovery_log": "sources/review-010/local-search-log.json",
+  "official_full_texts_read": [
+    "ECLI:NL:HR:2015:817",
+    "ECLI:NL:CBB:2019:29",
+    "ECLI:NL:RVS:2026:211",
+    "ECLI:NL:RVS:2022:3143"
+  ],
+  "units_without_separate_verified_case": [
+    "art-4:92",
+    "art-4:93",
+    "art-4:94",
+    "art-4:95",
+    "art-4:96",
+    "art-4:97",
+    "art-4:98",
+    "art-4:99",
+    "art-4:100",
+    "art-4:101",
+    "art-4:103",
+    "art-4:104",
+    "art-4:107",
+    "art-4:108",
+    "art-4:109"
+  ],
+  "limits": [
+    "Firecrawl status checked: no credits. Direct official retrieval used.",
+    "No exhaustive search for subsequent treatment.",
+    "The internal calendar tension in RVS 2026:211 r.o. 6.2 is disclosed and no concrete date is used as a calculation precedent.",
+    "Older dwangsom outcomes are not transferred to current article 5:35 without its later extension rule."
+  ]
+}

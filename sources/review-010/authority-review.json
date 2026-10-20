@@ -1,0 +1,93 @@
+[
+  {
+    "ecli": "ECLI:NL:HR:2015:817",
+    "court": "Hoge Raad",
+    "date": "2015-04-03",
+    "docket": "14/00186",
+    "paragraphs": [
+      "3.3",
+      "3.4.2",
+      "3.5.2",
+      "3.5.3",
+      "3.6.2"
+    ],
+    "supported_ids": [
+      "art-4:105",
+      "art-4:106"
+    ],
+    "fully_read": true,
+    "fresh_official_xml": "sources/review-010/ECLI-NL-HR-2015-817.xml",
+    "sha256": "138e039440773997e273aea73406bd109bae94e36c9027cf2663942fdcecfd60",
+    "unchanged_from_author_source": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2015-817.md",
+    "local_found": true,
+    "local_sha256": "14ed6466d1300aa720ced6be5559fd6bd9b912475ef01c5f8a76dc518da6e088",
+    "full_official_body_contained_in_local": false
+  },
+  {
+    "ecli": "ECLI:NL:CBB:2019:29",
+    "court": "College van Beroep voor het bedrijfsleven",
+    "date": "2019-01-22",
+    "docket": "17/1437",
+    "paragraphs": [
+      "5.2",
+      "5.3",
+      "5.4",
+      "5.5",
+      "6"
+    ],
+    "supported_ids": [
+      "art-4:106",
+      "art-4:110"
+    ],
+    "fully_read": true,
+    "fresh_official_xml": "sources/review-010/ECLI-NL-CBB-2019-29.xml",
+    "sha256": "ec544081a620cbe276b9b9febc7db29c92c6bda33d5cba6d3c3dcaaa5411a14b",
+    "unchanged_from_author_source": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/cbb/ecli-nl-cbb-2019-29.md",
+    "local_found": true,
+    "local_sha256": "dff15cdf5055d005290c326377d8077960865662206d13731e6518c2901fa6d9",
+    "full_official_body_contained_in_local": false
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2026:211",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State",
+    "date": "2026-01-14",
+    "docket": "202403580/1/A2",
+    "paragraphs": [
+      "6.2"
+    ],
+    "supported_ids": [
+      "art-4:102"
+    ],
+    "fully_read": true,
+    "fresh_official_xml": "sources/review-010/ECLI-NL-RVS-2026-211.xml",
+    "sha256": "2a196c39ff53c433815b595da42a503d43785c78ea68d32e15493c9c82f30f77",
+    "unchanged_from_author_source": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2026-211.md",
+    "local_found": true,
+    "local_sha256": "a7c37f5887f6fc4015d13391ddf42c3cd00f4a7ee6456bd571ffc1ced76879c6",
+    "full_official_body_contained_in_local": true
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2022:3143",
+    "court": "Afdeling bestuursrechtspraak van de Raad van State",
+    "date": "2022-11-02",
+    "docket": "202107089/1/V6",
+    "paragraphs": [
+      "3.6",
+      "3.7"
+    ],
+    "supported_ids": [
+      "art-4:94a"
+    ],
+    "fully_read": true,
+    "fresh_official_xml": "sources/review-010/ECLI-NL-RVS-2022-3143.xml",
+    "sha256": "d4d51b00c79632fb5db75f602012a20f813c73f3978a0f2df1d496acdfa433b5",
+    "unchanged_from_author_source": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2022-3143.md",
+    "local_found": true,
+    "local_sha256": "82ff26548217a428d6bab25405efd00b8e6dbf77d869203d38441bc6e4ab5bf4",
+    "full_official_body_contained_in_local": true
+  }
+]
