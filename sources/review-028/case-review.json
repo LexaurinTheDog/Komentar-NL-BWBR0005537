@@ -1,0 +1,25 @@
+{
+  "ecli": "ECLI:NL:RVS:2008:BC2506",
+  "court": "Afdeling bestuursrechtspraak Raad van State",
+  "date": "2008-01-23",
+  "docket": "200700877/1",
+  "full_text_read": true,
+  "paragraphs": [
+    "2.1",
+    "2.2",
+    "2.3",
+    "2.3.1",
+    "2.3.2",
+    "2.4",
+    "dictum"
+  ],
+  "supported_ids": [
+    "art-10:35"
+  ],
+  "official_snapshot": "sources/review-028/case.xml",
+  "sha256": "c752b2ebaccaf6207b856813db2f856c1e506e4ff86d04eb8c7cd664511b1d3e",
+  "holding": "NAVO-afspraken kunnen algemeen belang vormen, maar ontheffingsvereiste maakt dienen ervan niet onmogelijk; ook geen strijd met wet of algemeen rechtsbeginsel. Vernietigingsbesluit Kroon vernietigd.",
+  "context_limits": "Oude WRO, PML en specifieke provinciale grondslag historische context; geen huidige materiële rechtsregel of algemeen verbod nationale belangen.2.3.1 is Kroonbetoog;2.3.2 rechterlijk oordeel.",
+  "prior_primary_snapshot_agreement": true,
+  "later_treatment_exhaustive": false
+}

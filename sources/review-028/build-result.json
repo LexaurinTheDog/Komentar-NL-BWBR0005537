@@ -1,0 +1,5 @@
+{
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 28 jednotkám, např.: ['art-10:38', 'art-10:39', 'art-10:40', 'art-10:41', 'art-10:42', 'art-10:43', 'art-10:44', 'art-10:45', 'art-11:1', 'art-11:2']\n"
+}

@@ -1,185 +1,181 @@
 {
   "complete": true,
-  "kind": "bounded_second_pass",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "art-9:34",
-    "art-9:35",
-    "art-9:36",
-    "art-9:36a",
-    "art-10:1",
-    "art-10:2",
-    "art-10:3",
-    "art-10:4",
-    "art-10:5",
-    "art-10:6",
-    "art-10:7",
-    "art-10:8",
-    "art-10:9",
-    "art-10:10",
-    "art-10:11",
-    "art-10:12",
-    "art-10:13",
-    "art-10:14",
-    "art-10:15",
-    "art-10:16"
+    "art-10:17",
+    "art-10:18",
+    "art-10:19",
+    "art-10:20",
+    "art-10:21",
+    "art-10:22",
+    "art-10:23",
+    "art-10:25",
+    "art-10:26",
+    "art-10:27",
+    "art-10:28",
+    "art-10:29",
+    "art-10:30",
+    "art-10:31",
+    "art-10:32",
+    "art-10:33",
+    "art-10:34",
+    "art-10:35",
+    "art-10:36",
+    "art-10:37"
   ],
   "changed_commentary_ids": [
-    "art-9:36",
-    "art-10:9",
-    "art-10:16"
+    "art-10:35"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "art-9:34",
+      "id": "art-10:17",
       "checked_against_full_source": true,
       "disposition": "retained",
-      "review": "Alle drie leden: plaatsbezoek, redelijke noodzakelijkheid, bewonerstoestemming, medewerking en proces-verbaal. Geen beslagbevoegdheid afgeleid; behouden.",
-      "commentary_chars": 1605
+      "review": "Enige volzin: verlies eigen uitoefening binnen gedelegeerd bereik, tegenover mandaat10:7. Intrekking en beleidsregels correct onderscheiden; categorievoorbeeld behouden.",
+      "commentary_chars": 1482
     },
     {
-      "id": "art-9:35",
+      "id": "art-10:18",
       "checked_against_full_source": true,
       "disposition": "retained",
-      "review": "Beide leden en drie geadresseerden: schriftelijke bevindingen vóór einde onderzoek, reactietermijn door ombudsman, geen goedkeuringsrecht. Reactie op feitelijke fout terecht onderscheiden van oordeel; behouden.",
-      "commentary_chars": 1540
+      "review": "Enige volzin: te allen tijde intrekken van overdracht, geen automatische aantasting eerdere concrete besluiten. Werkingsmoment en lopende dossiers met overgangsrecht correct; behouden.",
+      "commentary_chars": 1513
     },
     {
-      "id": "art-9:36",
-      "checked_against_full_source": true,
-      "disposition": "corrected",
-      "review": "Alle vier leden gelezen: rapport en oordeel, Woo5.1, geschonden behoorlijkheidsnorm, drie ontvangers, redelijke termijn en gemotiveerd niet volgen aanbeveling. Woo5.1 volledig nagelezen; absolute en relatieve uitzonderingen onderscheiden in correctie. Inwerking4juni2026 bevestigd in officiële XML-brondata.",
-      "commentary_chars": 1723
-    },
-    {
-      "id": "art-9:36a",
+      "id": "art-10:19",
       "checked_against_full_source": true,
       "disposition": "retained",
-      "review": "Beide leden: niet in rapport opgenomen onderzoeksinformatie niet openbaar; doorzending Woo-verzoek alleen voor door bestuursorgaan verstrekte informatie. Geen automatische openbaarheid bij ontvanger; ingangsdatum rechtstreeks geverifieerd; behouden.",
-      "commentary_chars": 1942
+      "review": "Enige volzin: zowel delegatiebesluit als vindplaats verplicht. Eigen verantwoordelijkheid versus namens, vermeldingsgebrek versus ontbrekende bevoegdheid; behouden.",
+      "commentary_chars": 1493
     },
     {
-      "id": "art-10:1",
+      "id": "art-10:20",
       "checked_against_full_source": true,
       "disposition": "retained",
-      "review": "Enige definitie: besluiten namens orgaan versus tekenen, volmacht/machtiging en delegatie. Geen zelfstandige bevoegdheid gecreëerd; behouden.",
-      "commentary_chars": 1535
+      "review": "Alle drie leden: derdenoverdracht, uitzondering10:16, bijzondere beleidsregelbasis oorspronkelijke orgaan, twee informatiegerechtigden. Geen individuele instructies uit informatieplicht afgeleid; behouden.",
+      "commentary_chars": 1563
     },
     {
-      "id": "art-10:2",
+      "id": "art-10:21",
       "checked_against_full_source": true,
       "disposition": "retained",
-      "review": "Enige volzin: toerekening uitsluitend binnen grenzen, bedragvoorbeeld en mogelijk herstel afzonderlijk. Geen automatische heling gesuggereerd; behouden.",
-      "commentary_chars": 1501
+      "review": "Enige volzin met slotclausule: andere handelingen, eigen verantwoordelijkheid en overeenkomstige delegatievoorwaarden.10:19 alleen voor zover aard handeling toelaat.10:12 correct onderscheiden; behouden.",
+      "commentary_chars": 2103
     },
     {
-      "id": "art-10:3",
+      "id": "art-10:22",
       "checked_against_full_source": true,
       "disposition": "retained",
-      "review": "Alle vier leden en letters a–c: hoofdregel/wet/aard; drie verboden categorieën; uitzondering alleen a; bezwaar/rechtstreeks beroep persoonscheiding; boeterapporteur bij5:53. Volledige aangehaalde uitspraak gelezen; rechterlijke vaststelling5.3 onderscheiden van collegebetoog5. Behouden.",
-      "commentary_chars": 1937
+      "review": "Beide leden: wettelijke attributie aan onder verantwoordelijkheid werkende persoon/college; algemene en individuele instructies en inlichtingen op verzoek. Geen zelfstandige vervangingsbevoegdheid verantwoordelijke orgaan; behouden.",
+      "commentary_chars": 1641
     },
     {
-      "id": "art-10:4",
+      "id": "art-10:23",
       "checked_against_full_source": true,
       "disposition": "retained",
-      "review": "Beide leden: instemming externe gemandateerde en zo nodig verantwoordelijke; wettelijke uitzondering zonder vrijstelling overige eisen. Behouden.",
-      "commentary_chars": 1485
+      "review": "Enige verwijzing: wettelijke attributie andere handelingen met vereiste verantwoordelijkheidsrelatie. Geen intrekking wettelijke toedeling als mandaat of automatische appellabiliteit; behouden.",
+      "commentary_chars": 1573
     },
     {
-      "id": "art-10:5",
+      "id": "art-10:25",
       "checked_against_full_source": true,
       "disposition": "retained",
-      "review": "Beide leden: algemeen en gevalsmandaat; schriftelijkheid algemeen en extern gevalsmandaat. Interne vastlegging als advies geformuleerd; behouden.",
+      "review": "Enige definitie: toestemming ander bestuursorgaan voor inwerkingtreding reeds genomen besluit. Onderscheid voorafgaande toestemming10:32 en andere inwerkingtredingseisen; behouden.",
+      "commentary_chars": 1489
+    },
+    {
+      "id": "art-10:26",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Enige grondslageis: bij of krachtens wet bepaalde gevallen, anders dan10:34. Convenant/overleg niet zonder wettelijke grondslag als preventief veto; behouden.",
       "commentary_chars": 1504
     },
     {
-      "id": "art-10:6",
+      "id": "art-10:27",
       "checked_against_full_source": true,
       "disposition": "retained",
-      "review": "Beide leden: algemene en individuele instructies en inlichtingen op verzoek; onderscheid omvang mandaat/instructie en wettelijke grenzen. Behouden.",
-      "commentary_chars": 1483
+      "review": "Beide grondcategorieën: strijd recht of in bijzondere wet neergelegde grond. Geen algemeenbelanggrond geïmporteerd uit10:35. Overleg en rechterlijke grenzen correct; behouden.",
+      "commentary_chars": 1513
     },
     {
-      "id": "art-10:7",
+      "id": "art-10:28",
       "checked_against_full_source": true,
       "disposition": "retained",
-      "review": "Enige volzin: behouden eigen bevoegdheid, niet eerst algemeen mandaat intrekken; geldig besluit al aan orgaan toegerekend en geen vrije dubbele beslissing. Behouden.",
-      "commentary_chars": 1468
+      "review": "Beide rechterlijke situaties en mede dragende rechtsgronden gelezen. Kracht gewijsde expliciet bij uitvoering; andere zelfstandige grond niet zonder meer uitgesloten. Partijstelling onderscheiden; behouden.",
+      "commentary_chars": 1591
     },
     {
-      "id": "art-10:8",
+      "id": "art-10:29",
       "checked_against_full_source": true,
       "disposition": "retained",
-      "review": "Beide leden: te allen tijde intrekken; algemeen schriftelijk; geen automatisch verval eerdere besluiten en werking/bekendmaking apart. Behouden.",
-      "commentary_chars": 1472
+      "review": "Beide leden: deelbaarheid naar aard en inhoud; geen tijdelijkheid, voorwaarden of intrekking goedkeuring. Wijzigen onderliggend besluit apart; financieel voorbeeld behouden.",
+      "commentary_chars": 1504
     },
     {
-      "id": "art-10:9",
+      "id": "art-10:30",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Beide leden: vooraf gelegenheid overleg, geen overeenstemmingsvereiste; motivering verwijst naar besproken inhoud. Uitnodiging en inhoudelijke behandeling correct; behouden.",
+      "commentary_chars": 1507
+    },
+    {
+      "id": "art-10:31",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Alle vier leden: verzending/bekendmaking dertien weken, eenmaal verdagen, bijzondere adviesvariant zes maanden in plaats van lid2, positieve fictie tenzij afwijking.3:5 en4:20a–f volledig nagelezen; behouden.",
+      "commentary_chars": 1844
+    },
+    {
+      "id": "art-10:32",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Beide leden: toestemming vóór nemen besluit, overeenkomstige afdeling en expliciet termijn stellen. Onderscheid tijdelijke goedkeuring10:29 juist; voorbeeld gewijzigde inhoud/late vaststelling behouden.",
+      "commentary_chars": 2037
+    },
+    {
+      "id": "art-10:33",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Enige toepassingsvoorwaarde: vernietiging ander orgaan buiten administratief beroep. Geen eigen bevoegdheid, bezwaar of rechterlijke vernietiging.10:38 en10:41 nagelezen; behouden.",
+      "commentary_chars": 1473
+    },
+    {
+      "id": "art-10:34",
+      "checked_against_full_source": true,
+      "disposition": "retained",
+      "review": "Enige formeelwettelijke bevoegdheidsvoorwaarde; bewust onderscheid bij of krachtens10:26. Bevoegdheid gaat vóór gronden10:35; behouden.",
+      "commentary_chars": 1423
+    },
+    {
+      "id": "art-10:35",
       "checked_against_full_source": true,
       "disposition": "corrected",
-      "review": "Beide leden: toestemming ondermandaat plus daadwerkelijke verlening, overeenkomstige toepassing en beperktere eigen grens. Terminologie voorbeeld aangepast van machtigt naar verleent mandaat, in lijn met10:12.",
-      "commentary_chars": 1535
+      "review": "Beide vernietigingsgronden gelezen. Volledige uitspraak BC2506 en dictum herlezen;2.3.1 Kroonbetoog versus2.3.2 rechter. Verduidelijkt dat kwalificatie NAVO-belang aanvaard is maar concrete strijd ontbreekt. Historisch materieel recht niet als actueel gebruikt.",
+      "commentary_chars": 2212
     },
     {
-      "id": "art-10:10",
+      "id": "art-10:36",
       "checked_against_full_source": true,
       "disposition": "retained",
-      "review": "Enige volzin: namens welk bestuursorgaan, geen vervanging bevoegdheidsbasis; ondermandaat oorspronkelijke orgaan en afwijkende eis10:19. Behouden.",
-      "commentary_chars": 1522
+      "review": "Enige deelbaarheidseis: gedeeltelijke instandhouding strookt aard/inhoud.10:42 lid2 rechtsgevolgen versus behouden deel besluit correct onderscheiden; behouden.",
+      "commentary_chars": 1423
     },
     {
-      "id": "art-10:11",
+      "id": "art-10:37",
       "checked_against_full_source": true,
       "disposition": "retained",
-      "review": "Beide leden: ondertekening door ander van eigen besluit orgaan; wet/aard en kenbaarheid eigen besluitvorming. Geen inhoudelijk beslisrecht door tekenbevoegdheid; behouden.",
-      "commentary_chars": 1432
-    },
-    {
-      "id": "art-10:12",
-      "checked_against_full_source": true,
-      "disposition": "retained",
-      "review": "Enige volzin: interne verantwoordelijkheidsrelatie, volmacht privaatrecht en machtiging overige handelingen. Geen nieuwe materiële bevoegdheid of bezwaar tegen iedere handeling; behouden.",
-      "commentary_chars": 2038
-    },
-    {
-      "id": "art-10:13",
-      "checked_against_full_source": true,
-      "disposition": "retained",
-      "review": "Enige definitie: overdracht bestaande besluitbevoegdheid/eigen verantwoordelijkheid, onderscheiden mandaat/attributie.10:14–19 nagelezen; behouden.",
-      "commentary_chars": 1548
-    },
-    {
-      "id": "art-10:14",
-      "checked_against_full_source": true,
-      "disposition": "retained",
-      "review": "Enige verbod: geen delegatie aan ondergeschikten; daadwerkelijke juridische verhouding en wettelijke basis afzonderlijk. Geen financiële afhankelijkheid automatisch hiërarchie; behouden.",
-      "commentary_chars": 1516
-    },
-    {
-      "id": "art-10:15",
-      "checked_against_full_source": true,
-      "disposition": "retained",
-      "review": "Enige eis: wettelijk voorschrift als basis, concrete omvang en ontvanger, overeenkomst onvoldoende.10:15 niet als zelfstandige delegatiegrondslag gebruikt; behouden.",
-      "commentary_chars": 1553
-    },
-    {
-      "id": "art-10:16",
-      "checked_against_full_source": true,
-      "disposition": "corrected",
-      "review": "Beide leden: uitsluitend beleidsregels als sturingsvorm, geen concrete instructie; informatieplicht apart,4:84 en10:17–18 gelezen. Eerste zin aangescherpt zodat uitsluitend niet iedere andere invloed, zoals informatievragen, uitsluit.",
-      "commentary_chars": 1639
+      "review": "Beide rechterlijke situaties, mede dragende rechtsgronden en kracht gewijsde bij uitvoering. Geen algemeen verbod later toezicht, geen omzeiling rechterlijke rechtsgrond via etiket algemeen belang.10:28 juist parallel; behouden.",
+      "commentary_chars": 1629
     }
   ],
   "limitations": [
-    "Precies twintig toegewezen eenheden beoordeeld; geen boekvoltooiing.",
-    "48 eenheden buiten deze batch zonder commentaar.",
-    "Selectieve rechtspraak; geen uitputtende latere-behandelingscontrole.",
-    "Geen externe professionele goedkeuring; technische validatie bewijst geen juridische kwaliteit."
+    "Alleen exact twintig toegewezen artikelen inhoudelijk beoordeeld.",
+    "28 eenheden buiten deze opdracht missen commentaar; boek onvoltooid.",
+    "Selectieve rechtspraak; geen uitputtende controle latere behandeling.",
+    "Geen externe professionele goedkeuring."
   ],
   "whole_book_complete": false,
-  "source_preflight": "sources/review-027/preflight-result.json",
-  "case_evidence": "sources/review-027/case-review.json",
-  "reviewed_at": "2026-10-20T22:41:17.843945+00:00"
+  "source_preflight": "sources/review-028/preflight-result.json",
+  "reviewed_at": "2026-10-20T22:49:51.073741+00:00"
 }
