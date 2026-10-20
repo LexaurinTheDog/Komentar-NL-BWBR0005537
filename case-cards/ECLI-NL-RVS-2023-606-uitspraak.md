@@ -1,0 +1,9 @@
+# ABRvS 15 februari 2023 — ECLI:NL:RVS:2023:606 — uitspraak en herstel
+
+Zaak 202101013/1/R2. Ondersteunt artikelen 8:72 en 8:80a. [Volledige officiële XML](https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2023:606), [snapshot](../sources/author-8-71-85/ECLI-NL-RVS-2023-606.xml), [leesextract](../sources/author-8-71-85/ECLI-NL-RVS-2023-606.txt), [HTTP en hashes](../sources/author-8-71-85/verification.json), [selectielog en corpusvergelijking](../sources/author-8-71-85/case-search-log.json).
+
+De volledige uitspraak is gelezen. Bij het bestemmingsplan voor een gymzaal onderscheidt de Afdeling een alsnog gegeven motivering over de alternatieve locatie van onvoldoende onderzoek naar geluid- en lichthinder. In4.5 acht zij herstel van het eerstgenoemde gebrek niet meer nodig en houdt zij beoordeling van instandlating van rechtsgevolgen voor de einduitspraak open. Zij spreekt daar nog geen definitieve instandlating uit. Overweging6.9 bevat het eigen rechterlijke oordeel over ontbrekend onderzoek; de betogen van appellant in6 zijn daarmee niet integraal als juist aanvaard.
+
+In8 en het dictum krijgt de raad krachtens8:51d een opdracht binnen26 weken nader onderzoek te doen en de aanvaardbaarheid nader te motiveren; wijziging van het besluit is mogelijk. De uitkomst moet worden meegedeeld en een nieuw of gewijzigd besluit voorgeschreven worden bekendgemaakt. In9 blijven kosten en griffierecht voor de einduitspraak gereserveerd.
+
+Deze tussenuitspraak illustreert de concretisering van herstel en het onderscheid tussen motiveringsherstel en definitieve afdoening. Zij is geen eindvernietiging, geen algemene toestemming elk gebrek ter zitting te repareren en geen directe toepassing van de facultatieve lus van8:51a. De oude materiële ruimtelijke regels worden niet als huidig recht gebruikt. Geen uitputtende rechtspraak- of latere-behandelingscontrole. Dit is auteurswerk, geen onafhankelijke tweede beoordeling.

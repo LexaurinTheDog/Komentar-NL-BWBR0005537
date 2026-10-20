@@ -1,0 +1,27 @@
+{
+  "bounded_author_technical_ok": true,
+  "assigned_units": 20,
+  "preserved_prior_commentaries": 440,
+  "commented_book_units": 460,
+  "remaining_unwritten": 128,
+  "strict_validator": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 919351,
+    "errors": [
+      "krátký/chybějící komentář u 128 jednotek: ['art-8:86(0<400)', 'art-8:87(0<400)', 'art-8:88(0<400)', 'art-8:89(0<400)', 'art-8:90(0<400)', 'art-8:91(0<400)', 'art-8:92(0<400)', 'art-8:93(0<400)']",
+      "necommitnuté změny v repu"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "shared_builder": {
+    "exit_code": 1,
+    "stderr": "CHYBÍ komentář k 128 jednotkám, např.: ['art-8:86', 'art-8:87', 'art-8:88', 'art-8:89', 'art-8:90', 'art-8:91', 'art-8:92', 'art-8:93', 'art-8:94', 'art-8:95']\n"
+  },
+  "build_method": "Shared builder refuses out-of-scope missing commentary; affected partial chapter rendered with its unchanged load_units/load_commentary/quote functions.",
+  "source_text_agreement": 1.0,
+  "whole_book_complete": false,
+  "independent_review": false
+}

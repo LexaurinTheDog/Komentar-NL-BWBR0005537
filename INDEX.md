@@ -1,6 +1,6 @@
 # INDEX — Onvoltooid werkmanuscript
 
-440 van 588 commentaareenheden geschreven. De volledige brondekking is afzonderlijk verantwoord.
+460 van 588 commentaareenheden geschreven. De volledige brondekking is afzonderlijk verantwoord.
 
 - [Inleiding](00-inleiding.md)
 - [Bronnen](SOURCES.md)
@@ -27,3 +27,6 @@
 - [Hoofdstuk 8 Partijen, getuigen, deskundigen, tolken en digitaal procederen](19-deel-19.md) — 26/26
 - [Hoofdstuk 8 Verzending, griffierecht en vooronderzoek](20-deel-20.md) — 25/25
 - [Hoofdstuk 8 Vereenvoudigde behandeling, verzet en niet tijdig beslissen](21-deel-21.md) — 25/25
+
+
+[Auteurscheckpoint 8:71–8:85](batch-8-71-85-result.json): twintig nieuwe toelichtingen; boek onvoltooid.
