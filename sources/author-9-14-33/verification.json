@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537",
+    "accessed_at": "2026-10-20T22:28:46.680519+00:00",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+    "content_type": "text/html;charset=UTF-8",
+    "path": "sources/author-9-14-33/current.html",
+    "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+    "bytes": 4204181,
+    "accepted_format": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+    "accessed_at": "2026-10-20T22:28:47.608309+00:00",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+    "content_type": "text/html;charset=UTF-8",
+    "path": "sources/author-9-14-33/history.html",
+    "sha256": "9b1ca84d6136be54bf2cb668191e9d651c5a787e1ab053d0850cd0507fafbf37",
+    "bytes": 1762757,
+    "accepted_format": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+    "accessed_at": "2026-10-20T22:28:48.274379+00:00",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+    "content_type": "application/xml",
+    "path": "sources/author-9-14-33/selected.xml",
+    "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "bytes": 2622149,
+    "accepted_format": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CRVB:2011:BU3479",
+    "accessed_at": "2026-10-20T22:29:17.477439+00:00",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CRVB:2011:BU3479",
+    "content_type": "application/xml",
+    "path": "sources/author-9-14-33/ECLI-NL-CRVB-2011-BU3479.xml",
+    "sha256": "46a96fdae1e98a734c62fa3082c1788af1acc2c647223d0f579035646905d779",
+    "bytes": 11899,
+    "accepted_format": true,
+    "xml_root": "open-rechtspraak"
+  }
+]

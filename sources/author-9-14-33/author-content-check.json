@@ -1,0 +1,155 @@
+{
+  "independent_review": false,
+  "units": [
+    {
+      "id": "art-9:14",
+      "chars": 1413,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:15",
+      "chars": 1502,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:16",
+      "chars": 1678,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:17",
+      "chars": 1288,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:18",
+      "chars": 1388,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:19",
+      "chars": 1464,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:20",
+      "chars": 1424,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:21",
+      "chars": 1368,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:22",
+      "chars": 2171,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:23",
+      "chars": 2214,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:24",
+      "chars": 1660,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:25",
+      "chars": 1411,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:26",
+      "chars": 1415,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:27",
+      "chars": 1868,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:28",
+      "chars": 1538,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:29",
+      "chars": 1411,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:30",
+      "chars": 1437,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:31",
+      "chars": 1927,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:32",
+      "chars": 1563,
+      "source_read": true,
+      "fictional_example": true
+    },
+    {
+      "id": "art-9:33",
+      "chars": 1515,
+      "source_read": true,
+      "fictional_example": true
+    }
+  ],
+  "all_prior_commentaries_preserved": true,
+  "prior_count": 500,
+  "high_similarity_pairs": [],
+  "checks": [
+    "9:14 general instructions versus individual outcome",
+    "9:15 four paragraphs: receipt, hearing, hearing exceptions, report and advice",
+    "9:16 deviation reasons and advice enclosure",
+    "9:17 statutory ombudsman versus internal committee",
+    "9:18 third-party request versus duty to investigate",
+    "9:19 forwarding and6:15(3)",
+    "9:20 reasonable exception and complaint-handling exception",
+    "9:21 chapter2 exception and special forwarding",
+    "9:22 all grounds a–f, exception for non-timely decision, judicial boundary",
+    "9:23 all grounds a–m distinguished from incompetence",
+    "9:24 both paragraphs and alternative time anchors",
+    "9:25 commencement versus cessation notice recipients",
+    "9:26 own motion cannot bypass9:22",
+    "9:27 propriety, judicial grounds and non-executorial recommendation",
+    "9:28 requirements, necessary translation and repair",
+    "9:29 involvement versus source witness",
+    "9:30 three parties and manner of explanation",
+    "9:31 all six paragraphs, policy routing, documents, justified refusal versus limited access",
+    "9:32 expert commission, call, civil servant expert referral and witness/interpreter oath",
+    "9:33 summoned persons, payer and public-service task exception"
+  ],
+  "unresolved_blockers": [],
+  "limitations": [
+    "Author check, not independent review.",
+    "Length and similarity checks are not evidence of legal quality."
+  ]
+}

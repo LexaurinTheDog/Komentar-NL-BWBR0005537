@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-21",
+  "web_queries": [
+    "site.rechtspraak.nl \"9:22\" \"ombudsman\"",
+    "site.rechtspraak.nl \"9:27\" \"ombudsman\""
+  ],
+  "web_result": "No directly usable judicial full text selected from search results; commercial annotations not used.",
+  "local_corpus_search": {
+    "root": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak",
+    "terms": [
+      "ombudsman",
+      "artikel 9:22",
+      "artikel 9:27",
+      "artikel 9:31"
+    ],
+    "selected": "ECLI:NL:CRVB:2011:BU3479",
+    "read_also": [
+      "ECLI:NL:CRVB:2011:BU3458",
+      "ECLI:NL:RVS:2026:770"
+    ],
+    "rejected_reason": "BU3458 is companion case adding no distinct point; RVS2026:770 concerns Woo/verzet, not the assigned ombudsman provisions."
+  },
+  "primary_full_text_read": true,
+  "selected_paragraphs": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "dictum"
+  ],
+  "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/crvb/ecli-nl-crvb-2011-bu3479.md",
+  "local_sha256": "acb896148ddbb1dcf7a2afc4ff37612db32fe482999df8d0998d11d4ceaa14bc",
+  "supported_units": [
+    "art-9:22"
+  ],
+  "remaining_units": "No separately sufficiently relevant verified judicial decision selected; analysis rests on verified statutory text.",
+  "limits": [
+    "Selective corpus and official database research, not exhaustive.",
+    "No claim of full citator or subsequent-treatment search.",
+    "Historical social-security rules not presented as current law."
+  ]
+}
