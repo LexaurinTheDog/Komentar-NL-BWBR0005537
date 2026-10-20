@@ -17,5 +17,23 @@
     "ok": false
   },
   "independent_review": false,
-  "whole_book_complete": false
+  "whole_book_complete": false,
+  "strict_validator": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1151800,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "official_xml_comparison_errors": 0,
+  "independent_structure_coverage": {
+    "expected": 588,
+    "parsed": 588,
+    "missing": [],
+    "duplicates": []
+  },
+  "broken_local_links": 0,
+  "exact_repeated_long_passages": 0
 }

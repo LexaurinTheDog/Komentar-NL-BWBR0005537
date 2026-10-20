@@ -794,14 +794,13 @@
   },
   "coverage": true,
   "validation_result": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
     "verbatim_ratio": 1.0,
-    "commentary_coverage": 588,
-    "shared_builder_exit_code": 0,
-    "strict_before_commit_ok": false,
-    "strict_before_commit_errors": [
-      "necommitnuté změny v repu"
-    ],
-    "evidence": "batch-annex7-end-validation.json"
+    "commentary_chars": 1151800,
+    "errors": [],
+    "warnings": [],
+    "ok": true
   },
   "remaining_limitations": [
     "Acht nieuwe eenheden wachten op onafhankelijke tweede beoordeling.",
@@ -1591,5 +1590,6 @@
       "Nieuwe HTML-verzoeken mislukten; bewaarde officiële antwoorden van dezelfde auteursdag en nieuwe identieke XML gebruikt.",
       "Technische validatie bewijst geen juridische kwaliteit."
     ]
-  }
+  },
+  "validation_evidence": "batch-annex7-end-validation.json"
 }
