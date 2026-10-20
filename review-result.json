@@ -286,5 +286,25 @@
     "The review identifies retained historical digital-communication law for statutory transition cases; it does not create commentary on all historical versions.",
     "Only assigned units reviewed; 415 other units remain unwritten and full-book builder/validator must still fail for that reason.",
     "Technical length, repetition, link and wording checks support but do not replace the recorded substantive review."
-  ]
+  ],
+  "validation_result": {
+    "assigned_scope_checks_passed": true,
+    "statutory_agreement": 1.0,
+    "coverage_expected": 588,
+    "coverage_parsed": 588,
+    "broken_local_links": 0,
+    "whole_book_strict_validator": {
+      "repo": "Komentar-NL-BWBR0005537",
+      "units": 588,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 211978,
+      "errors": [
+        "krátký/chybějící komentář u 415 jednotek: ['art-4:85(0<400)', 'art-4:86(0<400)', 'art-4:87(0<400)', 'art-4:88(0<400)', 'art-4:89(0<400)', 'art-4:90(0<400)', 'art-4:91(0<400)', 'art-4:92(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "whole_book_builder_exit": 1,
+    "reason_for_full_book_failure": "415 missing commentaries outside the assigned review batch."
+  }
 }

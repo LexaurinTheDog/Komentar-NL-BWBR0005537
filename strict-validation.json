@@ -2,7 +2,7 @@
   "repo": "Komentar-NL-BWBR0005537",
   "units": 588,
   "verbatim_ratio": 1.0,
-  "commentary_chars": 201251,
+  "commentary_chars": 211978,
   "errors": [
     "krátký/chybějící komentář u 415 jednotek: ['art-4:85(0<400)', 'art-4:86(0<400)', 'art-4:87(0<400)', 'art-4:88(0<400)', 'art-4:89(0<400)', 'art-4:90(0<400)', 'art-4:91(0<400)', 'art-4:92(0<400)']"
   ],
