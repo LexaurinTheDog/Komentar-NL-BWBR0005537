@@ -69,5 +69,15 @@
   ],
   "source_preflight": "sources/review-030/preflight-result.json",
   "coverage_evidence": "sources/review-030/coverage-recheck.json",
-  "case_review": "sources/review-030/case-review.json"
+  "case_review": "sources/review-030/case-review.json",
+  "technical_validation": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1152030,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "validation_scope": "Validator toetst technisch alle588 records; inhoudelijke review uitsluitend de acht reviewed_ids."
 }
