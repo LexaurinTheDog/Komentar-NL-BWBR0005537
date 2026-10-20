@@ -637,14 +637,15 @@
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 220870,
+      "commentary_chars": 226483,
       "errors": [
         "krátký/chybějící komentář u 415 jednotek: ['art-4:85(0<400)', 'art-4:86(0<400)', 'art-4:87(0<400)', 'art-4:88(0<400)', 'art-4:89(0<400)', 'art-4:90(0<400)', 'art-4:91(0<400)', 'art-4:92(0<400)']"
       ],
       "warnings": [],
       "ok": false
     },
-    "independent_review_scope": "Current batch exactly twenty ids in review-result.json; prior forty preserved separately. Whole-book review incomplete."
+    "independent_review_scope": "Current batch exactly twenty ids in review-result.json; prior forty preserved separately. Whole-book review incomplete.",
+    "validated_at": "2026-10-20T14:25:29.711291+00:00"
   },
   "remaining_limitations": [
     "415 commentaareenheden nog ongeschreven.",
