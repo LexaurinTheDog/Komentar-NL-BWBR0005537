@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2026:4455</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-10-15T10:23:19</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-07-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2026-08-05</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">202301742/1/R1</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht_omgevingsrecht">Bestuursrecht; Omgevingsrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>ABkort 2026/214</rdf:li>
+          <rdf:li>Milieurecht Totaal 2026/8007</rdf:li>
+          <rdf:li>NJB 2026/1595</rdf:li>
+          <rdf:li>STAB-OGR-Updates.nl 2026-0223</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2026:4455">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2026:4455</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-07-29T12:02:36</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-08-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2026:4455 Raad van State , 05-08-2026 / 202301742/1/R1</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2026:4455:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>BACT B.V. heeft op grond van artikel 8:55f, eerste lid, van de Algemene wet bestuursrecht (Awb) beroep ingesteld tegen het uitblijven van de bekendmaking van een volgens haar van rechtswege gegeven omgevingsvergunning voor de verbouw en uitbreiding van een bestaand gebouw op het perceel Mijnsherenweg 8 in De Kwakel. Op 19 augustus 2022 heeft BACT een omgevingsvergunning aangevraagd voor het verbouwen en uitbreiden van het bestaande gebouw aan de Mijnsherenweg 8 in De Kwakel om daarin een datacenter te realiseren. Het gebouw was voorheen in gebruik als distributiecentrum en groothandel. Het perceel heeft in het bestemmingsplan "Landelijk gebied - Glastuinbouwgebied" de bestemming "Bedrijf". Bij brief van 13 oktober 2022 heeft het college aan BACT medegedeeld dat op haar aanvraag de uitgebreide voorbereidingsprocedure van toepassing is en dat de beslistermijn in verband daarmee zes maanden bedraagt. BACT heeft op 30 december 2022 beroep ingesteld bij de rechtbank tegen het volgens haar niet tijdig bekendmaken van een van rechtswege gegeven omgevingsvergunning. De rechtbank heeft dat beroep bij uitspraak van 6 februari 2023 gegrond verklaard en heeft het college opgedragen om de van rechtswege gegeven omgevingsvergunning bekend te maken. Het college is het niet eens met deze uitspraak en heeft hiertegen hoger beroep ingesteld.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2026:4455:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>202301742/1/R1.</para>
+    <para>Datum uitspraak: 5 augustus 2026</para>
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para>Uitspraak op het hoger beroep van:</para>
+    <para>het college van burgemeester en wethouders van Uithoorn (hierna: het college),</para>
+    <para>appellant,</para>
+    <para>tegen de uitspraak van de voorzieningenrechter van de rechtbank Amsterdam (hierna: de rechtbank) van 6 februari 2023 in zaken nrs. 22/6356 en 22/6358 in het geding tussen:</para>
+    <para>BACT B.V.</para>
+    <para>en</para>
+    <para>het college.</para>
+    <para>Procesverloop</para>
+    <para>BACT B.V. heeft op grond van artikel 8:55f, eerste lid, van de Algemene wet bestuursrecht (Awb) beroep ingesteld tegen het uitblijven van de bekendmaking van een volgens haar van rechtswege gegeven omgevingsvergunning voor de verbouw en uitbreiding van een bestaand gebouw op het perceel Mijnsherenweg 8 in De Kwakel.</para>
+    <para>Bij uitspraak van 6 februari 2023 heeft de rechtbank, voor zover hier van belang, het beroep gegrond verklaard en het college opgedragen om binnen 14 dagen na verzending van deze uitspraak op de wettelijk voorgeschreven wijze bekend te maken dat de door BACT aangevraagde omgevingsvergunning van rechtswege is gegeven.</para>
+    <para>Tegen deze uitspraak heeft het college hoger beroep ingesteld.</para>
+    <para>BACT en het college van gedeputeerde staten van de provincie Noord-Holland (het college van gedeputeerde staten) hebben schriftelijke uiteenzettingen gegeven.</para>
+    <para>BACT heeft een nader stuk ingediend.</para>
+    <para>De Afdeling heeft de zaak op een zitting behandeld op 12 november 2025, waar BACT, vertegenwoordigd door [gemachtigden], bijgestaan door mr. M.M. Brinkman, mr. T. van Wissen en mr. V. van der Stap, rechtsbijstandverleners in Amsterdam, en het college, vertegenwoordigd door S.D. Meulenbelt, bijgestaan door mr. S.A.B. Boer, advocaat in Amsterdam, zijn verschenen. Verder is het college van gedeputeerde staten, vertegenwoordigd door mr. B. de Boer, op de zitting verschenen.</para>
+    <para>Overwegingen</para>
+    <para>Overgangsrecht inwerkingtreding Omgevingswet</para>
+    <para>1.       Op 1 januari 2024 zijn de Omgevingswet en de Invoeringswet Omgevingswet in werking getreden. Als een aanvraag om een omgevingsvergunning is ingediend vóór het tijdstip van inwerkingtreding van de Omgevingswet, dan blijft op grond van artikel 4.3, aanhef en onder a, van de Invoeringswet Omgevingswet het recht zoals dat gold onmiddellijk vóór dat tijdstip van toepassing tot het besluit op die aanvraag onherroepelijk wordt, met uitzondering van artikel 3.9, derde lid, eerste zin, van de Wet algemene bepalingen omgevingsrecht (hierna: de Wabo).</para>
+    <para>De aanvraag om een omgevingsvergunning is ingediend op 19 augustus 2022. Dat betekent dat in dit geval de Wabo, zoals die gold vóór 1 januari 2024, van toepassing blijft.</para>
+    <para>Inleiding</para>
+    <para>2.       Op 19 augustus 2022 heeft BACT een omgevingsvergunning aangevraagd voor het verbouwen en uitbreiden van het bestaande gebouw aan de Mijnsherenweg 8 in De Kwakel om daarin een datacenter te realiseren. Het gebouw was voorheen in gebruik als distributiecentrum en groothandel. Het perceel heeft in het bestemmingsplan "Landelijk gebied - Glastuinbouwgebied" (hierna: het bestemmingsplan) de bestemming "Bedrijf".</para>
+    <para>Bij brief van 13 oktober 2022 heeft het college aan BACT medegedeeld dat op haar aanvraag de uitgebreide voorbereidingsprocedure van toepassing is en dat de beslistermijn in verband daarmee zes maanden bedraagt. BACT heeft op 30 december 2022 beroep ingesteld bij de rechtbank tegen het volgens haar niet tijdig bekendmaken van een van rechtswege gegeven omgevingsvergunning. De rechtbank heeft dat beroep bij uitspraak van 6 februari 2023 gegrond verklaard en heeft het college opgedragen om de van rechtswege gegeven omgevingsvergunning bekend te maken. Het college is het niet eens met deze uitspraak en heeft hiertegen hoger beroep ingesteld.</para>
+    <para>Kunnen alle hogerberoepsgronden worden besproken?</para>
+    <para>3.       Volgens BACT voert het college in hoger beroep voor het eerst aan dat op de aanvraag de uitgebreide voorbereidingsprocedure van toepassing is, omdat voor het bouwplan een omgevingsvergunning voor het oprichten van een inrichting nodig is, en omdat de aanvraag in strijd is met het bestemmingsplan op onderdelen die niet in beroep aan de orde zijn gesteld. Volgens BACT is dit in strijd met de grondentrechter en moeten die delen van het hoger beroep daarom buiten beschouwing worden gelaten.</para>
+    <para>3.1.    In omgevingsrechtelijke zaken geldt een grondentrechter tussen beroep en hoger beroep. Dat betekent dat in hoger beroep in een omgevingsrechtelijke zaak in beginsel alleen gronden kunnen worden aangedragen die ook in beroep zijn aangevoerd (zie de uitspraak van de Afdeling van 17 juli 2024, ECLI:NL:RVS:2024:2853, onder 10.3). Maar dit geldt alleen voor een partij die zowel in de beroepsprocedure bij de rechtbank als in de hogerberoepsprocedure tegen de uitspraak bij de Afdeling appellant is. Dat is hier niet het geval. Het college was namelijk verweerder in de procedure bij de rechtbank en komt nu op tegen het oordeel van die rechtbank. De Afdeling ziet dan ook geen aanleiding om een deel van wat het college in hoger beroep heeft aangevoerd buiten beschouwing te laten.</para>
+    <para>Relevante wettelijke bepalingen</para>
+    <para>4.       De relevante wettelijke bepalingen zijn opgenomen in de bijlage die deel uitmaakt van deze uitspraak.</para>
+    <para>Het betoog van het college</para>
+    <para>5.       Het college betoogt dat de rechtbank ten onrechte heeft overwogen dat er een omgevingsvergunning van rechtswege is gegeven. Volgens het college heeft de rechtbank namelijk miskend dat op de aanvraag moet worden beslist met toepassing van de uitgebreide voorbereidingsprocedure als bedoeld in afdeling 3.4 van de Awb.</para>
+    <para>Dit is volgens het college in de eerste plaats het geval, omdat de aanvraag onlosmakelijk is verbonden met de omgevingsvergunningplichtige activiteit als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wabo, het oprichten van een inrichting. Dit betreft volgens het college een activiteit die onlosmakelijk is verbonden met de aangevraagde activiteit als bedoeld in artikel 2.1, eerste lid, aanhef en onder a, van de Wabo, zodat artikel 2.7 van de Wabo er volgens het college aan in de weg staat dat deze activiteiten separaat worden aangevraagd en vergund. Bovendien is dan het college van gedeputeerde staten bevoegd gezag en niet het college.</para>
+    <para>In de tweede plaats is dit volgens het college het geval, omdat de aanvraag in strijd is met het bestemmingsplan en er alleen met toepassing van artikel 2.12, eerste lid, aanhef en onder a, onder 3˚, van de Wabo, een omgevingsvergunning zou kunnen worden verleend. Ook dan geldt volgens het college de uitgebreide voorbereidingsprocedure.</para>
+    <para>5.1.    Op grond van artikel 3.7, eerste lid, van de Wabo, gelezen in samenhang met artikel 3.10, eerste lid, van de Wabo, is op een aanvraag om een omgevingsvergunning de reguliere voorbereidingsprocedure van toepassing, tenzij de uitgebreide voorbereidingsprocedure geldt. De vraag is welke voorbereidingsprocedure van toepassing is. Het antwoord op die vraag is afhankelijk van de activiteit die is aangevraagd. Dat is geregeld in artikel 3.10, eerste lid, van de Wabo. De Wabo schrijft dwingend voor welke procedure op een aanvraag om omgevingsvergunning van toepassing is. Het college heeft hierin dus geen keuze, maar moet de voorbereidingsprocedure toepassen die de Wabo voorschrijft.</para>
+    <para>Bij de reguliere voorbereidingsprocedure kan wel een vergunning van rechtswege zijn gegeven, bij de uitgebreide voorbereidingsprocedure kan dat niet. In paragraaf 4.1.3.3 van de Awb is de beschikking van rechtswege geregeld. Die paragraaf geldt ook voor vergunningen van rechtswege. Als de Wabo bepaalt dat de uitgebreide voorbereidingsprocedure van afdeling 3.4 van de Awb van toepassing is, dan bepaalt artikel 3:10, vierde lid, van de Awb dat paragraaf 4.1.3.3 van die wet niet van toepassing is.</para>
+    <para>Als de reguliere voorbereidingsprocedure moet worden toegepast, dan is een omgevingsvergunning van rechtswege gegeven, als het bestuursorgaan niet binnen de wettelijk gestelde termijn een besluit op de aanvraag heeft genomen. Dat is geregeld in artikel 3.9, derde lid, van de Wabo in combinatie met artikel 4:20b, eerste lid, van de Awb. Deze wettelijk gestelde termijn bedraagt volgens artikel 3.9, eerste lid, aanhef, van de Wabo, acht weken, tenzij, gelet op artikel 3.9, tweede lid, van de Wabo, binnen deze acht weken de termijn wordt verlengd met ten hoogste zes weken. Deze verlenging heeft hier niet plaatsgevonden.</para>
+    <para>5.2.    Niet in geschil is dat het college geen besluit heeft genomen op de aanvraag van BACT binnen de termijn die geldt op grond van de reguliere voorbereidingsprocedure. Als de reguliere voorbereidingsprocedure van toepassing is op de aanvraag van BACT, dan is aan haar van rechtswege een omgevingsvergunning gegeven. Dit is anders, als moet worden geoordeeld dat op de aanvraag van BACT de uitgebreide voorbereidingsprocedure van toepassing is. Dan is aan BACT geen omgevingsvergunning van rechtswege gegeven.</para>
+    <para>5.3.    De Afdeling zal hierna bespreken of de rechtbank terecht tot het oordeel is gekomen dat hier de reguliere voorbereidingsprocedure van toepassing was en in of zij het verlengde daarvan terecht heeft geoordeeld dat van rechtswege een vergunning is gegeven. Hiervoor is allereerst van belang wat BACT precies heeft aangevraagd. Vervolgens speelt de vraag in hoeverre het voor de te volgen procedure van belang is of sprake is van onlosmakelijk samenhangende activiteiten waardoor (mogelijk) ook een omgevingsvergunning is vereist voor het oprichten van een inrichting. Daarna zal de Afdeling bespreken of de aanvraag in strijd is met het bestemmingsplan.</para>
+    <para>Onlosmakelijk samenhangende activiteiten</para>
+    <para>6.       Het college voert aan dat de rechtbank niet heeft onderkend dat de aanvraag onlosmakelijk samenhangt, in de zin van artikel 2.7 van de Wabo, met de omgevingsvergunningplichtige activiteit als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wabo, het oprichten van een inrichting. Het college wijst in dat verband op het totaal geïnstalleerd motorisch vermogen van het datacenter en het thermisch ingangsvermogen van de dieselgeneratoren. Volgens het college is de uitgebreide voorbereidingsprocedure daarom op de aanvraag van toepassing.</para>
+    <para>6.1.    Op grond van artikel 2.1, eerste lid, aanhef en onder e, van de Wabo, is een omgevingsvergunning vereist voor het oprichten van een inrichting.</para>
+    <para>Op grond van artikel 3.10, eerste lid, aanhef en onder c, van de Wabo, is de uitgebreide voorbereidingsprocedure van toepassing als de aanvraag geheel of gedeeltelijk betrekking heeft op het oprichten van een inrichting.</para>
+    <para>Op grond van artikel 2.7, eerste lid, van de Wabo draagt de aanvrager van een omgevingsvergunning er zorg voor dat de aanvraag betrekking heeft op alle onlosmakelijke activiteiten binnen het betrokken project.</para>
+    <para>6.2.    De Afdeling ziet geen grond voor het oordeel dat de rechtbank heeft miskend dat artikel 2.7 van de Wabo in de weg staat aan een omgevingsvergunning van rechtswege voor het bouwen van een datacenter in de zin van artikel 2.1, eerste lid, aanhef en onder a, van de Wabo. Daartoe overweegt de Afdeling het volgende.</para>
+    <para>6.3.    De Afdeling stelt aan de hand van het aanvraagformulier van BACT vast dat zij alleen een omgevingsvergunning voor de activiteit bouwen heeft aangevraagd in de zin van artikel 2.1, eerste lid, aanhef en onder a, van de Wabo. BACT heeft daarbij niet ook een omgevingsvergunning aangevraagd voor het oprichten van een inrichting in de zin van artikel 2.1, eerste lid, aanhef en onder e, van de Wabo.</para>
+    <para>Wanneer een aanvraag voor een activiteit op grond van artikel 2.1, eerste lid, van de Wabo, in de zin van artikel 2.7 van de Wabo onlosmakelijk samenhangt met een andere activiteit die niet is aangevraagd, moet het college de aanvrager op grond van artikel 4:5 van de Awb in de gelegenheid stellen zijn aanvraag aan te vullen. Het college heeft BACT, alhoewel de activiteiten in artikel 2.1, aanhef en onder a en e, van de Wabo onlosmakelijk samenhangen, daartoe niet in de gelegenheid gesteld. Bij brief van 13 oktober 2022 heeft het college BACT juist nadrukkelijk geïnformeerd dat haar aanvraag voldoet aan de indieningsvereisten en inhoudelijk kon worden beoordeeld. Op een aanvraag voor een omgevingsvergunning voor de activiteit bouwen als bedoeld in artikel 2.1, eerste lid, aanhef en onder a, van de Wabo is op grond van artikel 3.7, eerste lid, van de Wabo de reguliere voorbereidingsprocedure van toepassing en kan er een vergunning van rechtswege ontstaan.</para>
+    <para>Voor zover voor het realiseren van het datacenter een omgevingsvergunning voor het oprichten van een inrichting als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wabo is vereist - wat daar ook van zij -, maakt artikel 2.7 van de Wabo niet dat de aanvraag voor de bouwvergunning daar ook van rechtswege betrekking op heeft (zie ter vergelijking de uitspraak van de Afdeling van 9 december 2015, ECLI:NL:RVS:2015:3762, onder 13 en 14).</para>
+    <para>De vraag of een omgevingsvergunning voor de activiteit als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wabo in dit geval vereist is, laat de Afdeling in deze procedure dan ook verder buiten beschouwing. Deze procedure gaat uitsluitend over de vraag of de rechtbank het college terecht heeft opgedragen de - naar gesteld - van rechtswege gegeven omgevingsvergunning bekend te maken (zie hierover onder 12).</para>
+    <para>Het betoog slaagt niet.</para>
+    <para>Toetsing aan het bestemmingsplan</para>
+    <para>7.       Uit artikel 3.10, eerste lid, aanhef en onder a, in samenhang gelezen met artikel 2.12 eerste lid, aanhef en onder a, onder 3o, van de Wabo volgt dat de uitgebreide voorbereidingsprocedure van toepassing is op gevallen waarin een aanvraag om een omgevingsvergunning in strijd is met het bestemmingsplan en geen omgevingsvergunning kan worden verleend met toepassing van de regels over afwijking in het plan zelf of omdat het een geval betreft dat bij algemene maatregel van bestuur is aangewezen. Als de omgevingsvergunning voor afwijking van het bestemmingsplan met toepassing van artikel 2.12, eerste lid, aanhef en onder a, onder 1° en/of 2°, van de Wabo kan worden verleend, is de reguliere voorbereidingsprocedure van toepassing.</para>
+    <para>- Maximale oppervlakte bedrijfsgebouwen</para>
+    <para>7.1.    Het college voert aan dat de rechtbank ten onrechte heeft geoordeeld dat het bouwplan in overeenstemming is met de in het bestemmingsplan maximaal toegestane oppervlakte aan te realiseren bedrijfsgebouwen. Volgens het college heeft de rechtbank bij het bepalen van de totale oppervlakte aan bedrijfsgebouwen ten onrechte de bestaande bedrijfswoning en de overstek buiten beschouwing gelaten.</para>
+    <para>7.2.    In artikel 1.14 van de planregels is "bedrijfsgebouw" gedefinieerd als: "een gebouw dat dient voor de uitoefening van een of meer bedrijfsactiviteiten;"</para>
+    <para>In artikel 1.15 van de planregels is "bedrijfswoning" gedefinieerd als:</para>
+    <para>"een woning in of bij ene gebouw of op of bij een terrein, uitsluitend bedoelt voor het huisvesten van één afzonderlijk huishouden;"</para>
+    <para>In artikel 5.2.2 van de planregels is bepaald dat de bebouwde oppervlakte van bedrijfsgebouwen niet meer mag bedragen dan op de verbeelding is aangegeven.</para>
+    <para>7.3.    Op grond van artikel 5.2.2, onder a, van de planregels in samenhang bezien met de verbeelding geldt voor het bouwen van bedrijfsgebouwen dat het bebouwd oppervlakte niet meer mag bedragen dan op de verbeelding is aangegeven. Op de verbeelding van het bestemmingsplan is aan het perceel plaatselijk bekend als Mijnsherenweg 8 in De Kwakel de bestemming "Bedrijf" toegekend met onder meer de aanduiding "maximum bebouwd oppervlak (m2): 21444". Het bouwplan wijzigt de bestaande bebouwing zodat er een bedrijfsgebouw met een oppervlakte van 21.011 m2 ontstaat. Daarbij is het zogenoemde overstek met een oppervlakte van 103 m2 niet meegerekend. De overstek wordt gevormd door de tweede bouwlaag die voor een deel doorloopt waar de gevel van de eerste bouwlaag is geëindigd. Daarnaast staan er op het perceel twee bedrijfswoningen met oppervlaktes van onderscheidenlijk 234 m2 en 176 m2.</para>
+    <para>7.4.    De rechtbank heeft terecht overwogen dat het bouwplan niet de maximaal toegestane oppervlakte voor bedrijfsgebouwen van 12.444 m2 overschrijdt.</para>
+    <para>Gelet op artikel 1.14 van de planregels heeft de rechtbank de bedrijfswoningen terecht niet als bedrijfsgebouwen aangemerkt. Op grond van artikel 1.14 van de planregels is een gebouw een bedrijfsgebouw als dit dient voor de uitoefening van een of meer bedrijfsactiviteiten. Een bedrijfswoning is op grond van artikel 1.15 van de planregels uitsluitend bedoeld voor het huisvesten van één afzonderlijk huishouden. Uit de planregels blijkt niet dat het huisvesten van het huishouden valt aan te merken als de uitoefening van een bedrijfsactiviteit.</para>
+    <para>Of de overstek als bedrijfsgebouw moet worden aangemerkt, kan in het midden blijven. Immers, ook als dit het geval zou zijn, dan zou het bouwplan de maximum oppervlakte niet overschrijden, omdat de totale oppervlakte aan bedrijfsgebouwen dan zou zijn: 21.011 m2 + 103 m2 = 21.114 m2.</para>
+    <para>Het betoog slaagt in zoverre niet.</para>
+    <para>- Bestemmingsomschrijving bedrijf</para>
+    <para>7.5.    Het college voert aan dat de rechtbank ten onrechte heeft geoordeeld dat het gebruik van het aangevraagde bouwwerk als datacenter in overeenstemming is met de bestemmingsomschrijving van de bestemming "Bedrijf". Volgens het college kan een datacenter namelijk niet worden aangemerkt als een bedrijf in de zin van het bestemmingsplan. Het feit dat "datacenters" in de bijlage bij de planregels als bedrijfsactiviteit staat vermeld, is volgens het college niet van belang, omdat in die bijlage ook andere activiteiten staan die niet als bedrijfsactiviteit zijn aan te merken.</para>
+    <para>7.6.    Voor het antwoord op de vraag of een bouwplan in strijd is met het bestemmingsplan zijn de op de verbeelding aangegeven bestemming(en) en aanduiding(en) en de daarbij behorende regels bepalend. Vanwege de rechtszekerheid moet een planregel letterlijk worden uitgelegd. Als die op zichzelf niet duidelijk is en ook niet in samenhang met de andere planregels (systematiek), dan komt betekenis toe aan de niet bindende plantoelichting. Die plantoelichting kan namelijk meer inzicht geven in de bedoeling van de planwetgever.</para>
+    <para>7.7.    De rechtbank heeft terecht geen aanleiding gezien voor het oordeel dat het bouwplan in strijd is met artikel 5.1, onder a, van de planregels.</para>
+    <para>In artikel 5.1 van de planregels staat dat de voor "Bedrijf" aangewezen gronden bestemd zijn voor: "a. bedrijven in milieucategorie 1 en 2 uit de bij de regels behorende Staat van Bedrijfsactiviteiten 1". In de bijlage bij de planregels "Staat van Bedrijfsactiviteiten 1" staan verschillende bedrijfsactiviteiten in milieucategorie 1 en 2 genoemd. "Datacenters" is een van de bedrijfsactiviteiten die in de bijlage vermeld staat met milieucategorie 2. Een datacenter ter plaatse van de gronden met de bestemming "Bedrijf" is op grond van de planregels daarom toegestaan. De planregeling is in zoverre op zichzelf duidelijk.</para>
+    <para>Het betoog slaagt niet.</para>
+    <para>- Geluidszoneringsplicht</para>
+    <para>7.8.    Het college voert aan dat de rechtbank niet heeft onderkend dat het datacenter een geluidszoneringsplichtige inrichting is in de zin van de planregels. Het gebruik van het datacenter is volgens het college daarom in strijd met het bestemmingsplan. Volgens het college heeft BACT in de aanvraag namelijk onjuist berekend wat het totaal geïnstalleerd motorisch vermogen is van de installaties in het datacenter.</para>
+    <para>7.9.    In artikel 5.3.3 van de planregels is bepaald dat het gebruik van gronden als geluidszoneringsplichtige inrichting in strijd is met het bestemmingsplan. Het begrip "geluidszoneringsplichtige inrichting" is niet gedefinieerd in de planregels.</para>
+    <para>7.10.  Het college verwijst voor de uitleg van "geluidszoneringsplichtige inrichtingen" naar artikel 41, derde lid, van de Wet geluidhinder (hierna: de Wgh). De Afdeling volgt die uitleg van de planregels. In dat artikel van de Wgh is de grondslag neergelegd om bij algemene maatregel van bestuur de categorie inrichtingen aan te wijzen die in belangrijke mate geluidhinder kunnen veroorzaken. Op grond van artikel 2.1, derde lid, van het Bor, in samenhang gelezen met het eerste lid, aanhef en onder a, onderdeel D, van bijlage I van het Bor, is daartoe aangewezen, voor zover hier van belang, de inrichtingen als bedoeld in categorie 1.3, onder a, onderdeel C, van bijlage I van het Bor, te weten: inrichtingen waar een of meer elektromotoren of verbrandingsmotoren aanwezig zijn met een totaal geïnstalleerd motorisch vermogen van 15 MW of meer, voor zover deze motoren gelijktijdig in gebruik zijn.</para>
+    <para>7.11.  Bij de aanvraag is een notitie van Cauberg Huygen van 3 maart 2022 gevoegd. In deze notitie staat dat het totaal geïnstalleerd motorisch vermogen in het datacenter dat gelijktijdig in gebruik is 11,7 MW bedraagt en dat er daarmee geen sprake is van een geluidszoneringsplichtige inrichting. Daarbij is rekening gehouden met het motorisch vermogen van de koelinstallaties en de dieselgeneratoren. Voor het vermogen van de 42 koelinstallaties is ervan uitgegaan dat deze gelijktijdig zijn ingeschakeld voor maximaal 80%, omdat deze op een deellast zijn aangesloten. Volgens de notitie hebben de koelinstallaties daarmee een gezamenlijk motorisch vermogen van 9,5 MW. Voor het vermogen van de 42 dieselgeneratoren is ervan uitgegaan dat hiervan onder normale omstandigheden maximaal één gelijktijdig in gebruik is met een motorisch vermogen van 2,2 MW. Dit is volgens de notitie het geval, omdat de dieselgeneratoren onder normale omstandigheden één voor één worden getest en alleen gezamenlijk inschakelen wanneer het reguliere stroomnetwerk uitvalt.</para>
+    <para>7.12.  Het college voert aan dat in de notitie van Cauberg Huygen ten onrechte is uitgegaan van een deellast van 80% voor de koelunits, terwijl volgens het college het totale motorische vermogen van de koelunits in de berekening betrokken had moeten worden. Volgens het college is het totaal geïnstalleerd motorisch vermogen dat gelijktijdig in gebruik is, daarom 14,128 MW. Omdat dit in de buurt komt van de grens van 15 MW en nog niet vaststaat wat de representatieve bedrijfssituatie precies zal zijn, is het volgens het college op basis van de aanvraag daarom niet uitgesloten dat er sprake is van een geluidszoneringsplichtige inrichting.</para>
+    <para>7.13.  Op grond van het eerste lid, aanhef en onder a, van onderdeel D, en categorie 1.3, onder a, onderdeel C, van bijlage I van het Bor geldt dat alleen het totaal geïnstalleerd motorisch vermogen van belang is voor zover dat gelijktijdig in gebruik is. Partijen zijn er terecht van uitgegaan dat het volledige vermogen van de dieselgeneratoren, dat alleen maar in incidentele gevallen in werking treedt, in dit verband niet wordt meegerekend (zie de nota van toelichting bij onderdeel D van bijlage I van het Bor: Stb. 2015, 337, blz. 228).</para>
+    <para>Of bij de berekening van het motorisch vermogen van de koelunits terecht van een deellast is uitgegaan, kan in het midden blijven, omdat niet in geschil is dat ook als wordt uitgegaan van het totale motorische vermogen van de koelunits, het totaal geïnstalleerd motorisch vermogen dat gelijktijdig in gebruik is onder de 15 MW blijft. Volgens het college is het vermogen in dat geval immers 14,128 MW. De enkele omstandigheid dat dit vermogen enigszins in de buurt komt van 15 MW, maakt niet dat er strijd is met artikel 5.3.3 van de planregels.</para>
+    <para>Het betoog slaagt niet.</para>
+    <para>Conclusie hoger beroep</para>
+    <para>8.       Het voorgaande betekent dat de rechtbank terecht heeft geoordeeld dat aan BACT van rechtswege een omgevingsvergunning is gegeven voor de activiteit als bedoeld in artikel 2.1, eerste lid, aanhef en onder a, van de Wabo voor het bouwen van een datacenter en dat het college gehouden is die omgevingsvergunning bekend te maken. De Afdeling overweegt daarbij dat zij in deze procedure geen oordeel geeft over de vraag of voor het realiseren van dat datacenter nog andere omgevingsvergunningen zijn vereist. Indien en voor zover dat het geval is, zal BACT die vergunningen nog moeten aanvragen.</para>
+    <para>9.       Het hoger beroep is ongegrond. De Afdeling bevestigt de uitspraak van de rechtbank.</para>
+    <para>10.     Het college moet de proceskosten vergoeden.</para>
+    <para>Zijn de besluiten op bezwaar van 11 oktober 2023 onderwerp van het geding?</para>
+    <para>11.     Op 17 februari 2023 heeft het college uitvoering gegeven aan de opdracht in de uitspraak van de rechtbank en heeft de van rechtswege gegeven beschikking tot verlening van een omgevingsvergunning bekendgemaakt. Tegen dat besluit hebben het college van gedeputeerde staten en de colleges van burgemeester en wethouder van de gemeentes Aalsmeer, Haarlemmermeer, en Amstelveen, bezwaar gemaakt. Bij besluiten van 11 oktober 2023 heeft het college een aantal van die bezwaren gegrond verklaard, heeft het college de van rechtswege gegeven beschikking herroepen en heeft het de aanvraag van BACT doorgezonden aan het college van gedeputeerde staten, omdat dat bestuursorgaan volgens het college bevoegd is om op de aanvraag te beslissen. Tegen die besluiten heeft BACT weliswaar bij de rechtbank beroep ingesteld, maar zij stelt zich primair op het standpunt dat de besluiten van 11 oktober 2023 op grond van artikel 6:19, eerste lid van de Awb, gelezen in samenhang met artikel 6:24 van de Awb, van rechtswege onderwerp van dit geding zijn.</para>
+    <para>12.     BACT heeft op grond van artikel 8:55f, eerste lid, van de Awb, beroep ingesteld tegen het niet tijdig bekendmaken van een van rechtswege gegeven beschikking. In deze hogerberoepsprocedure is de vraag behandeld of de rechtbank terecht heeft geoordeeld dat het college heeft nagelaten een van rechtswege gegeven beschikking tot verlening van een omgevingsvergunning bekend te maken. Om die rechtsvraag te beantwoorden is vastgesteld of aan BACT daadwerkelijk van rechtswege een beschikking is gegeven. Dat is het geval. Maar die van rechtswege gegeven beschikking zelf ligt in deze procedure niet ter beoordeling voor. Het gaat hier namelijk niet om een besluit tot intrekking, wijziging of vervanging van een bestreden besluit. Daarom heeft het hoger beroep, anders dan uit eerdere rechtspraak van de Afdeling zou kunnen worden afgeleid, niet op grond van artikel 6:19 in samenhang bezien met artikel 6:24 van de Awb van rechtswege ook betrekking op de besluiten van 11 oktober 2023.</para>
+    <para>Beslissing</para>
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para>I.        bevestigt de aangevallen uitspraak;</para>
+    <para>II.       veroordeelt het college van burgemeester en wethouders van Uithoorn tot vergoeding van bij BACT B.V. in verband met de behandeling van het hoger beroep opgekomen proceskosten tot een bedrag van € 1.868,00 geheel toe te rekenen aan door een derde beroepsmatige verleende rechtsbijstand;</para>
+    <para>III.      bepaalt dat van het college van burgemeester en wethouders van Uithoorn een griffierecht van € 548,00 wordt geheven.</para>
+    <para>Aldus vastgesteld door mr. P.H.A. Knol, voorzitter, en mr. C.C.W. Lange en mr. J. Gundelach, leden, in tegenwoordigheid van mr. J.I. van der Schoot, griffier.</para>
+    <para>w.g. Knol</para>
+    <para>voorzitter</para>
+    <para>w.g. Van der Schoot</para>
+    <para>griffier</para>
+    <para>Uitgesproken in het openbaar op 5 augustus 2026</para>
+    <para>749-1082</para>
+    <para> </para>
+    <para>Bijlage</para>
+    <para> </para>
+    <para>Algemene wet bestuursrecht</para>
+    <para>§ 4.1.3.3. Positieve fictieve beschikking bij niet tijdig beslissen</para>
+    <para>Artikel 4:20a</para>
+    <para>1.       Deze paragraaf is van toepassing indien dit bij wettelijk voorschrift is bepaald.</para>
+    <para>2.       Paragraaf 4.1.3.2 is niet van toepassing indien deze paragraaf van toepassing is.</para>
+    <para>Artikel 4:20b</para>
+    <para>1.       Indien niet tijdig op de aanvraag tot het geven van een beschikking is beslist, is de gevraagde beschikking van rechtswege gegeven.</para>
+    <para>2.       De verlening van rechtswege geldt als een beschikking. […]</para>
+    <para>Artikel 4:20c</para>
+    <para>1.       Het bestuursorgaan maakt de beschikking bekend binnen twee weken nadat zij van rechtswege is gegeven.</para>
+    <para>2.       Bij de bekendmaking en mededeling van de beschikking wordt vermeld dat de beschikking van rechtswege is gegeven.</para>
+    <para>Artikel 4:20d</para>
+    <para>1.       Indien het bestuursorgaan de beschikking niet overeenkomstig artikel 4:20c binnen twee weken heeft bekendgemaakt, verbeurt het na een daarop volgende ingebrekestelling door de aanvrager een dwangsom vanaf de dag dat twee weken zijn verstreken sinds die ingebrekestelling.</para>
+    <para>2.       De dwangsom wordt berekend overeenkomstig artikel 4:17, eerste en tweede lid.</para>
+    <para>3.       De artikelen 4:17, vierde lid, en zesde lid, onder a en b, en 4:18 tot en met 4:20 zijn van overeenkomstige toepassing.</para>
+    <para>Artikel 4:20e</para>
+    <para>Indien in een wettelijk voorschrift of een beleidsregel is bepaald dat in een beschikking steeds bepaalde voorschriften worden opgenomen, dan maken deze ook deel uit van de beschikking van rechtswege.</para>
+    <para>Artikel 6:19</para>
+    <para>1.       Het bezwaar of beroep heeft van rechtswege mede betrekking op een besluit tot intrekking, wijziging of vervanging van het bestreden besluit, tenzij partijen daarbij onvoldoende belang hebben.</para>
+    <para>2.       Het eerste lid geldt ook indien het bezwaar is gemaakt of het beroep is ingesteld nadat het bestuursorgaan het bestreden besluit heeft ingetrokken, gewijzigd of vervangen.</para>
+    <para>3.       Het bestuursorgaan stelt het nieuwe besluit onverwijld ter beschikking aan het orgaan waarbij het beroep aanhangig is.</para>
+    <para>4.       Indien een ander orgaan een bezwaar- of beroepschrift tegen het nieuwe besluit ontvangt, zendt het dit met toepassing van artikel 6:15, eerste en tweede lid, door.</para>
+    <para>5.       De bestuursrechter kan het beroep tegen het nieuwe besluit echter verwijzen naar een ander orgaan, indien behandeling door dit orgaan gewenst is.</para>
+    <para>6.       Intrekking of vervanging van het bestreden besluit staat niet in de weg aan vernietiging van dat besluit indien de indiener van het bezwaar- of beroepschrift daarbij belang heeft.</para>
+    <para>Wet algemene bepalingen omgevingsrecht</para>
+    <para>Artikel 2.1</para>
+    <para>1.       Het is verboden zonder omgevingsvergunning een project uit te voeren, voor zover dat geheel of gedeeltelijk bestaat uit:</para>
+    <para>a.       het bouwen van een bouwwerk,</para>
+    <para>[…]</para>
+    <para>c.       het gebruiken van gronden of bouwwerken in strijd met een bestemmingsplan, een beheersverordening, een exploitatieplan, de regels gesteld krachtens artikel 4.1, derde lid, of 4.3, derde lid, van de Wet ruimtelijke ordening of een voorbereidingsbesluit voor zover toepassing is gegeven aan artikel 3.7, vierde lid, tweede volzin, van die wet,</para>
+    <para>[…]</para>
+    <para>e.</para>
+    <para>1°.     het oprichten,</para>
+    <para>2°.     het veranderen of veranderen van de werking of</para>
+    <para>3°.     het in werking hebben</para>
+    <para>van een inrichting of mijnbouwwerk, […]</para>
+    <para>Artikel 2.7</para>
+    <para>1.       Onverminderd het bepaalde in de artikelen 2.10, tweede lid, en 2.11, tweede lid, draagt de aanvrager van een omgevingsvergunning er zorg voor dat de aanvraag betrekking heeft op alle onlosmakelijke activiteiten binnen het betrokken project. In afwijking van de eerste volzin en onverminderd artikel 2.5 kan, indien één van die onlosmakelijke activiteiten een activiteit is als bedoeld in artikel 2.1, eerste lid, onder c, voor die activiteit voorafgaand aan en los van de overige onlosmakelijke activiteiten een aanvraag om een omgevingsvergunning worden ingediend. […]</para>
+    <para>§ 3.2. De reguliere voorbereidingsprocedure</para>
+    <para>Artikel 3.7</para>
+    <para>1.       Deze paragraaf is van toepassing op de voorbereiding van besluiten, tenzij paragraaf 3.3 daarop van toepassing is.</para>
+    <para>2.       In afwijking van het eerste lid is deze paragraaf tevens van toepassing op de voorbereiding van een besluit als bedoeld in artikel 3.10, derde lid.</para>
+    <para>Artikel 3.8</para>
+    <para>Het bevoegd gezag geeft bij de toepassing van titel 4.1 van de Algemene wet bestuursrecht tevens onverwijld kennis van de aanvraag om een omgevingsvergunning op de in artikel 12 van de Bekendmakingswet bepaalde wijze. Het vermeldt daarbij de in artikel 3.1, tweede lid, bedoelde datum waarop de aanvraag is ontvangen.</para>
+    <para>Artikel 3.9</para>
+    <para>1.       Het bevoegd gezag beslist op de aanvraag om een omgevingsvergunning binnen acht weken na de datum van ontvangst van de aanvraag. Tegelijkertijd met of zo spoedig mogelijk na de bekendmaking:</para>
+    <para>a.       doet het mededeling van die beschikking op de wijze waarop het overeenkomstig artikel 3.8 kennis heeft gegeven van de aanvraag, en</para>
+    <para>b.       zendt het in bij algemene maatregel van bestuur aangewezen categorieën gevallen de daarbij aangewezen bestuursorganen een afschrift van die beschikking.</para>
+    <para>2.       Het bevoegd gezag kan de in het eerste lid bedoelde termijn eenmaal met ten hoogste zes weken verlengen. Het maakt zijn besluit daartoe bekend binnen de eerstbedoelde termijn. Het doet daarvan tevens zo spoedig mogelijk mededeling op de wijze waarop het overeenkomstig artikel 3.8 kennis heeft gegeven van de aanvraag.</para>
+    <para>3.       Paragraaf. 4.1.3.3 van de Algemene wet bestuursrecht is, met uitzondering van de artikelen 4:20b, derde lid, en 4:20f, van toepassing op de voorbereiding van de beslissing op de aanvraag. Bij algemene maatregel van bestuur kunnen categorieën gevallen worden aangewezen waarin de voorbereiding van de beslissing op een aanvraag wegens strijd met een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie is uitgezonderd van de toepassing van de eerste volzin.</para>
+    <para>4.       Het bevoegd gezag doet zo spoedig mogelijk mededeling van de bekendmaking, bedoeld in artikel 4:20c van de Algemene wet bestuursrecht, op de wijze waarop het overeenkomstig artikel 3.8 kennis heeft gegeven van de aanvraag.</para>
+    <para>§ 3.3. De uitgebreide voorbereidingsprocedure</para>
+    <para>Artikel 3.10</para>
+    <para>1.       Afdeling 3.4 van de Algemene wet bestuursrecht is van toepassing op de voorbereiding van de beschikking op de aanvraag om een omgevingsvergunning, indien de aanvraag geheel of gedeeltelijk betrekking heeft op:</para>
+    <para>a.       een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, voor zover er strijd is met het bestemmingsplan of een beheersverordening en slechts vergunning kan worden verleend met toepassing van artikel 2.12, eerste lid, onder a, onder 3°;</para>
+    <para>b.       een activiteit als bedoeld in artikel 2.1, eerste lid, onder d;</para>
+    <para>c.       een activiteit als bedoeld in artikel 2.1, eerste lid, onder e;</para>
+    <para>d.       een activiteit als bedoeld in artikel 2.1, eerste lid, onder f, voor zover voor die activiteit krachtens artikel 2.26, derde lid, een adviseur is aangewezen;</para>
+    <para>e.       een geval waarin een verklaring vereist is, als bedoeld in artikel 2.27;</para>
+    <para>f.        een geval dat behoort tot een bij algemene maatregel van bestuur aangewezen categorie met mogelijk belangrijke gevolgen voor de fysieke leefomgeving of de belangen van derden;</para>
+    <para>g.       een activiteit als bedoeld in artikel 2.19, voor zover dat in het betrokken wettelijk voorschrift is aangegeven. […]</para>
+    <para>Wet geluidhinder</para>
+    <para>Artikel 41</para>
+    <para>1.       Een krachtens artikel 40 vastgestelde zone kan uitsluitend worden gewijzigd of opgeheven bij vaststelling of wijziging van een bestemmingsplan, met dien verstande dat opheffing alleen kan plaatsvinden wanneer de bestemming van het betrokken terrein zodanig is gewijzigd dat het geen industrieterrein meer is.</para>
+    <para>2.       Een wijziging van een zone kan er niet toe strekken dat enig gebied waarbinnen met inachtneming van de al verleende omgevingsvergunningen voor activiteiten met betrekking tot een inrichting als bedoeld in artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht en de daaraan verbonden voorschriften een hogere geluidsbelasting, vanwege het industrieterrein, optreedt dan 50 dB(A), ophoudt van de zone deel uit te maken.</para>
+    <para>3.       Een opgeheven zone bestaat voort zolang zich op het terrein een of meer inrichtingen bevinden, behorende tot een bij algemene maatregel van bestuur aan te wijzen categorie van inrichtingen die in belangrijke mate geluidhinder kunnen veroorzaken.</para>
+    <para>4.       Onverminderd het eerste lid kan de gemeenteraad bij besluit de begrenzing van een industrieterrein, waarop de vastgestelde zone is gebaseerd, vastleggen.</para>
+    <para>Besluit omgevingsrecht</para>
+    <para>Artikel 2.1. Inrichting</para>
+    <para>1.       Als categorieën inrichtingen als bedoeld in artikel 1.1, derde lid, van de Wet milieubeheer worden aangewezen de categorieën inrichtingen in bijlage I, onderdeel B, en onderdeel C.</para>
+    <para>2.       Als categorieën vergunningplichtige inrichtingen worden aangewezen de categorieën inrichtingen waartoe een IPPC-installatie behoort en de categorieën inrichtingen die als zodanig zijn aangewezen in bijlage I, onderdeel B, en onderdeel C.</para>
+    <para>3.       Als categorieën inrichtingen als bedoeld in artikel 41, derde lid, van de Wet geluidhinder, die in belangrijke mate geluidhinder kunnen veroorzaken, worden aangewezen de categorieën inrichtingen in bijlage I, onderdeel D.</para>
+    <para>4.       In afwijking van het eerste lid heeft de aanwijzing geen betrekking op inrichtingen voor de uitoefening van detailhandel, voor zover die aanwijzing uitsluitend zou gelden omdat in de inrichting stoffen, preparaten of andere producten worden op- of overgeslagen, die zijn genoemd in bijlage I, onderdeel C, onder de categorieën 4.1, onder b tot en met f, 6.1, 8.1, 9.1, 11.1, met uitzondering van asbest en asbesthoudende producten, 12.1, 15 of 16.1.</para>
+    <para>Bijlage I bij het Besluit omgevingsrecht</para>
+    <para>Onderdeel C</para>
+    <para>Categorie 1</para>
+    <para>1.1.    Inrichtingen waar:</para>
+    <para>a.       een of meer elektromotoren aanwezig zijn met een vermogen of een gezamenlijk vermogen groter dan 1,5 kW, met dien verstande, dat bij de berekening van het gezamenlijk vermogen een elektromotor met een vermogen van 0,25 kW of minder buiten beschouwing blijft;</para>
+    <para>[…]</para>
+    <para>1.4.    Als categorieën vergunningplichtige inrichtingen als bedoeld in artikel 2.1, tweede lid, worden inrichtingen aangewezen:</para>
+    <para>[…]</para>
+    <para>c.       waar een of meer elektromotoren of verbrandingsmotoren aanwezig zijn met een totaal geïnstalleerd motorisch vermogen van 15 MW of meer met uitzondering van windturbines; […]</para>
+    <para>Onderdeel D</para>
+    <para>1.       Als categorieën inrichtingen als bedoeld in artikel 41 van de Wet geluidhinder, die in belangrijke mate geluidhinder kunnen veroorzaken, worden aangewezen de categorieën inrichtingen die als zodanig zijn aangewezen in bijlage I, onderdeel C, onder:</para>
+    <para>a.       1.3, onder a, voor zover deze motoren gelijktijdig in gebruik zijn, en onder b, voor zover het thermisch vermogen 75 MW of meer bedraagt, c, onder 1° en 2°, en d, waarbij voor de toepassing van onderdeel 1.3 veiligheidsfakkels ten behoeve van de opsporing en winning van aardgas buiten beschouwing blijven,</para>
+    <para>Planregels van het bestemmingsplan "Landelijk gebied - Glastuinbouwgebied"</para>
+    <para>Artikel 1 Begrippen</para>
+    <para>1.11 bebouwing:</para>
+    <para>één of meer gebouwen en/of bouwwerken geen gebouwen zijnde;</para>
+    <para>1.14 bedrijfsgebouw:</para>
+    <para>een gebouw dat dient voor de uitoefening van een of meer bedrijfsactiviteiten;</para>
+    <para>1.15 bedrijfswoning:</para>
+    <para>een woning in of bij ene gebouw of op of bij een terrein, uitsluitend bedoelt voor het huisvesten van één afzonderlijk huishouden;</para>
+    <para>Artikel 2 Wijze van meten</para>
+    <para>2.5 de oppervlakte van een bouwwerk:</para>
+    <para>tussen de buitenwerkse gevelvlakken en/of het hart van de scheidingsmuren, neerwaarts geprojecteerd op het gemiddelde niveau van het afgewerkte bouwterrein ter plaatse van het bouwwerk;</para>
+    <para>Artikel 5 bedrijf</para>
+    <para>5.1 Bestemmingsomschrijving</para>
+    <para>De voor 'Bedrijf' aangewezen gronden zijn bestemd voor:</para>
+    <para>a.       bedrijven in milieucategorie 1 en 2 uit de bij de regels behorende Staat van Bedrijfsactiviteiten 1;</para>
+    <para>5.2.2 Bedrijfsgebouwen</para>
+    <para>Voor het bouwen van bedrijfsgebouwen gelden de volgende bepalingen:</para>
+    <para>a.       het bebouwd oppervlakte mag niet meer bedragen dan op de verbeelding is aangegeven;</para>
+    <para>5.2.3 Bedrijfswoningen</para>
+    <para>Voor het bouwen van bedrijfswoningen, inclusief aan- en uitbouwen, gelden de volgende bepalingen:</para>
+    <para>a.       per bouwvlak is één bedrijfswoning toegestaan, tenzij:</para>
+    <para>1.       op de verbeelding is aangegeven, met de aanduiding 'bedrijfswoning uitgesloten', dat een bedrijfswoning niet is toegestaan;</para>
+    <para>b.       de inhoud van de bedrijfswoning, inclusief aan- en uitbouwen, mag niet meer bedragen dan 750 m3;</para>
+    <para>c.       de goothoogte mag niet meer bedragen dan 4 meter;</para>
+    <para>d.       de bouwhoogte mag niet meer bedragen dan 10 meter.</para>
+    <para>5.3.3 Strijdig gebruik</para>
+    <para>Onder strijdig als bedoeld in 2.1 lid 1 onder c van de Wabo wordt in ieder geval verstaan het gebruik of het laten gebruiken van gebouwen en/of onbebouwde gronden als:</para>
+    <para>geluidszoneringsplichtige inrichtingen.</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>

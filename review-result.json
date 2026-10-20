@@ -1,189 +1,189 @@
 {
   "complete": true,
-  "scope": "Bounded independent substantive second pass of exactly twenty assigned units; not whole-book completion.",
-  "reviewed_at": "2026-10-20T14:40:03.272447+00:00",
+  "task": "bounded_independent_second_pass",
+  "scope": "Exactly assigned twenty units; not whole-book completion.",
+  "reviewed_at": "2026-10-20T14:48:26.559447+00:00",
   "decisive_date": "2026-10-19",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "art-3:49",
-    "art-3:50",
-    "art-4:1",
-    "art-4:2",
-    "art-4:3",
-    "art-4:3a",
-    "art-4:4",
-    "art-4:5",
-    "art-4:6",
-    "art-4:7",
-    "art-4:8",
-    "art-4:9",
-    "art-4:10",
-    "art-4:11",
-    "art-4:12",
-    "art-4:13",
-    "art-4:14",
-    "art-4:15",
-    "art-4:16",
-    "art-4:17"
+    "art-4:18",
+    "art-4:19",
+    "art-4:20",
+    "art-4:20a",
+    "art-4:20b",
+    "art-4:20c",
+    "art-4:20d",
+    "art-4:20e",
+    "art-4:20f",
+    "art-4:21",
+    "art-4:22",
+    "art-4:23",
+    "art-4:24",
+    "art-4:25",
+    "art-4:26",
+    "art-4:27",
+    "art-4:28",
+    "art-4:29",
+    "art-4:30",
+    "art-4:31"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "unit_id": "art-3:49",
-      "status": "retained_after_review",
-      "review": "Alle drie voorwaarden voor verwijzing naar advies gelezen: uitgebracht met het oog op het besluit, eigen motivering in advies en kennisgeving daarvan. Verantwoordelijkheid orgaan, gedeeltelijke motivering en relatie met 3:5/3:9 correct. Technisch fictief voorbeeld passend; behouden.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-3:50",
-      "status": "retained_after_review",
-      "review": "Wettelijke adviesgrond, concrete afwijking en vermelding met redenen gecontroleerd. Afbakening informeel advies en verwijzingen 3:8/3:43 juist. Veiligheidsvoorbeeld en hoofdstukchecklist behouden; geen bindend advies of veto aangenomen.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-4:1",
+      "unit_id": "art-4:18",
       "status": "corrected",
-      "review": "Schriftelijkheid, bevoegd orgaan en bijzondere afwijkingsmogelijkheid gecontroleerd. Elektronisch recht onder 2:13 verduidelijkt; kanaalgebrek onder 2:16 van weigering onder 2:15 onderscheiden. Doorzendbeperking van 2:3 lid 3 toegevoegd. Bijzondere/tijdelijke uitzonderingen blijven zaakafhankelijk.",
+      "review": "Wettelijke tweewekentermijn, laatste dwangsomdag, afzonderlijk besluitkarakter en controleerbare berekening gelezen. Betaling en rente onderscheiden van vaststelling met 4:87/4:100 en volledig gelezen 2026:4448. Bronafwijkingen in datums en dagentelling niet als rekenvoorbeeld overgenomen.",
       "resolved": true
     },
     {
-      "unit_id": "art-4:2",
+      "unit_id": "art-4:19",
       "status": "corrected",
-      "review": "Beide leden en alle minimumeisen gecontroleerd. Noodzaak en redelijke beschikbaarheid cumulatief behouden. Onjuiste categorische herstelopdracht vervangen door voorwaardelijke herstelplicht bij voorgenomen buitenbehandelingstelling; discretionaire keuze en elektronische ondertekening onder 2:18 verduidelijkt.",
+      "review": "Alle vier leden gecontroleerd: betwisting, bezwaar/beroep/hoger beroep, verwijzing, afschrift en voorlopige voorziening. Hoofdprocedurevoorwaarde en afzonderlijke gewone route verduidelijkt. Eigen rechterlijke toepassing in 2026:4448 gelezen; wettelijke vertragingdwangsom van handhavingslast onderscheiden.",
       "resolved": true
     },
     {
-      "unit_id": "art-4:3",
+      "unit_id": "art-4:20",
       "status": "retained_after_review",
-      "review": "Beide leden gelezen: concrete afweging privacy/bedrijfsgegevens en uitsluitend wettelijk aangewezen verplichte gegevens als uitsluiting. Standaardvragenlijst niet als wettelijke grondslag behandeld; onderscheid verstrekking en verdere bescherming juist. Fictief subsidievoorbeeld behouden.",
+      "review": "Vijfjaarsbevoegdheidsgrens vanaf dag na vaststellingsbeschikking, onverschuldigde betaling, discretionaire formulering en dubbelbetalingsvoorbeeld gecontroleerd. Geen algemene terugvorderingsgrond of aanvang bij uitbetaling afgeleid; behouden.",
       "resolved": true
     },
     {
-      "unit_id": "art-4:3a",
-      "status": "retained_after_review",
-      "review": "Vervallen status, ingangsdatum 1 januari 2026 en bronmetadata rechtstreeks in XML gecontroleerd. Geen historische ontvangstbevestigingsnorm als actuele artikelinhoud overgenomen. Verwijzing naar geselecteerd 2:17 gelezen; behouden.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-4:4",
-      "status": "retained_after_review",
-      "review": "Beide leden gecontroleerd: bevoegd vaststellend orgaan, voorrang wettelijk voorschrift, noodzakelijkheid en kenbare vrijwilligheid. Digitaal verplicht veld voor optioneel telefoonnummer correct geproblematiseerd. Geen zelfstandige materiële weigeringsbevoegdheid afgeleid; behouden.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-4:5",
+      "unit_id": "art-4:20a",
       "status": "corrected",
-      "review": "Alle vijf leden gelezen. Drie behandelgronden, gerichte herstelkans, afzonderlijke noodzaak van vertaling/samenvatting en vierwekengrens uitgewerkt. Nieuwe lid-5-uitzondering verklaard met alle drie grenzen van 2:16 lid 1. Fictief tekeningvoorbeeld onderscheidt onvolledigheid van inhoudelijke onvergunbaarheid.",
+      "review": "Beide leden en 3:10 lid 4 gecontroleerd. Bijzondere toepasselijkverklaring en uitsluiting gewone dwangsom behouden. Gedeeltelijke toepasselijkverklaring en dwingende procedurekeuze met 2026:4455 toegelicht; oud Wabo-geval niet naar nieuwe Omgevingswetaanvragen veralgemeniseerd.",
       "resolved": true
     },
     {
-      "unit_id": "art-4:6",
+      "unit_id": "art-4:20b",
       "status": "corrected",
-      "review": "Beide leden en volledige teksten van vier ondersteunende uitspraken gelezen. Twee heroverwegingsroutes, nova/beschikbaarheid, eigen rechterlijke toets en evidente onredelijkheid uitgewerkt. Tussenuitspraak niet als definitieve inwilliging gepresenteerd; boete- en oude inburgeringscontext begrensd. Fictief documentvoorbeeld en afdelingschecklist toegevoegd.",
+      "review": "Ontstaan, besluitkarakter en afzonderlijke derde dag gelezen. Onaantastbaarheid daarvan onderscheiden, juiste aanvraagomvang, opschorting en standaardvoorschriften getoetst. 2026:4455 beperkt tot ontstaan/bekendmaking bouwtoestemming; bijzondere uitsluiting van lid 3 zichtbaar, andere vergunningen niet als verkregen behandeld.",
       "resolved": true
     },
     {
-      "unit_id": "art-4:7",
-      "status": "retained_after_review",
-      "review": "Beide cumulatieve voorwaarden, gehele/gedeeltelijke afwijzing en uitzondering geringe betekenis gecontroleerd. Gegevens moeten aanvrager betreffen en afwijken van eigen gegevens; geen algemene gespreksplicht voor louter juridische afwijzing verzonnen. Registervoorbeeld en verwijzingen behouden.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-4:8",
-      "status": "retained_after_review",
-      "review": "Beide leden gelezen; niet-aanvrager, verwachte bedenkingen, hem betreffende gegevens en niet zelf verstrekt onderscheiden van 4:7. Wettelijke informatieplicht niet met informeel verzoek verward. Controleverslagvoorbeeld en uitzonderingen 4:11/4:12 correct; behouden.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-4:9",
-      "status": "retained_after_review",
-      "review": "Eigen keuze schriftelijk/mondeling gecontroleerd. Geen verplicht dubbel horen, geen automatisch toepasselijke verslagplicht van 3:17 en geen keuze over bestaan van hoorplicht aangenomen. Bruikbare uitnodiging en fictieve mondelinge correctie passend; behouden.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-4:10",
-      "status": "retained_after_review",
-      "review": "Expliciete vervallen plaats en ontbreken van actuele operationele inhoud in XML gecontroleerd. Verwijzingen naar 4:9 en 4:11–4:12 passend; geen vroegere hoorregel ingevuld. Behouden.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-4:11",
+      "unit_id": "art-4:20c",
       "status": "corrected",
-      "review": "Alle drie uitzonderingen en begrenzing voor zover gelezen. Eerdere gelegenheid zonder nieuwe feiten, vereiste spoed en noodzakelijke onaangekondigdheid gescheiden. Abstract voorbeeld vervangen door concrete fictieve acute instortingscasus, met aandacht voor eventuele snelle reactie.",
+      "review": "Twee weken vanaf ontstaan en verplichte vermelding bij bekendmaking én mededeling gecontroleerd. Beroep niet tijdig bekendmaken volgens 8:55f/6:12 toegevoegd en met 2026:4455 begrensd: latere besluiten op bezwaar tegen vergunning niet automatisch deel van bekendmakingsgeding.",
       "resolved": true
     },
     {
-      "unit_id": "art-4:12",
+      "unit_id": "art-4:20d",
       "status": "corrected",
-      "review": "Twee cumulatieve voorwaarden en alle onderdelen van lid 2 gecontroleerd. Specifieke subsidiegrondslagen 4:35, 4:51 en 4:46 lid 2 gelezen en benoemd. Uitsluiting van uitzondering niet als zelfstandige hoorplicht gepresenteerd. Afdelingschecklist toegevoegd.",
+      "review": "Alle drie leden gelezen, opvolgende tweeweekse perioden en toepasselijke verwijzing naar 4:17 lid 5 onder a en b gecontroleerd. Huidige dagstaffel, maximum 42 dagen en € 1.442 uitgewerkt. Afwijkende oudere ledenverwijzing in uitspraakbijlage niet in actuele wetstekst geïmporteerd.",
       "resolved": true
     },
     {
-      "unit_id": "art-4:13",
+      "unit_id": "art-4:20e",
       "status": "retained_after_review",
-      "review": "Beide leden gelezen. Wettelijke en redelijke termijn gescheiden, acht weken niet als gegarandeerde minimumwachttijd voor orgaan behandeld. Alleen tijdige mededeling onder 4:14 lid 3 in passende categorie gebruikt; opschorting zelfstandig beoordeeld. Behouden.",
+      "review": "Steeds voorgeschreven voorwaarden uit wettelijk voorschrift of beleidsregel, automatische inhoud, afbakening losse praktijk en latere correctie volgens 4:20f gecontroleerd. Fictieve meldplicht passend en geen onbeperkte nieuwe bevoegdheid afgeleid; behouden.",
       "resolved": true
     },
     {
-      "unit_id": "art-4:14",
-      "status": "corrected",
-      "review": "Alle drie leden gecontroleerd: zo kort mogelijke verwachte termijn, bevoegdheidsverlies als uitsluiting en binnen acht weken meegedeelde redelijke termijn zonder wettelijke beslistermijn. Nieuw fictief zeswekenvoorbeeld verduidelijkt dat een vertragingsbrief op zichzelf niet verlengt.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-4:15",
-      "status": "corrected",
-      "review": "Alle vier leden en vijf opschortingsgronden gelezen. Dag na mededeling bij buitenlandse vraag, noodzaak, eindgronden, schriftelijke instemmingsperiode en verplichte eindmededeling verduidelijkt. Fictief buitenlands registervoorbeeld toegevoegd; overlappende perioden niet dubbel geteld.",
-      "resolved": true
-    },
-    {
-      "unit_id": "art-4:16",
+      "unit_id": "art-4:20f",
       "status": "retained_after_review",
-      "review": "Vervallen status rechtstreeks in XML gecontroleerd. Geen actuele termijnbevoegdheid of oud regime herleefd. Route naar 4:17 of 4:20a als eerst te bepalen toepasselijk stelsel juist; behouden.",
+      "review": "Alle leden gelezen: ernstige gevolgen algemeen belang, noodzakelijkheid, zes weken vanaf bekendmaking en volledige wettelijke schadeplicht op deze grond. Voorbeeld benoemt concreet risico; andere intrekkingsgronden vereisen eigen basis. Titelchecklist passend; behouden.",
       "resolved": true
     },
     {
-      "unit_id": "art-4:17",
+      "unit_id": "art-4:21",
       "status": "corrected",
-      "review": "Alle zes leden, staffel en rekenkundige maximumsom gecontroleerd. Beschikking op aanvraag, ontvangen geldige ingebrekestelling, twee weken, uitzondering 42 dagen en drie uitsluitingen onderscheiden. Volledig gelezen uitspraak 2014:4682 toegevoegd zonder oude Wob-termijn of bedragen over te nemen. Verdeling, 4:18 en uitsluiting onder 4:20a lid 2 verduidelijkt.",
+      "review": "Alle vier leden en elementen subsidiedefinitie gelezen. Lid-2-uitzonderingen voor belastingen, premies en bijdragen nu concreet vermeld; lid 3 regeling uitsluitend voor publiekrechtelijke rechtspersonen en lid 4 bekostiging behouden. Opdrachtgrens getoetst aan 2025:3399 zonder algemene regel uit ontbreken document af te leiden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:22",
+      "status": "retained_after_review",
+      "review": "Bedrag, tijdvak en bepaald wettelijk voorschrift gecontroleerd. Individueel maximum en begrotingspost van plafond onderscheiden; fictieve bedragen niet als wetstekst gepresenteerd. Verwijzingen 4:25–4:27 juist; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:23",
+      "status": "corrected",
+      "review": "Alle leden/letters gelezen. Vier jaar zelfstandige AMvB, overbrugging met tijdig wetsvoorstel, Europese programma-instellingen, benoemde begrotingsontvanger/maximumbedrag en incidentele vier jaar afzonderlijk uitgewerkt. Verslagplicht beperkt tot a/d. Begrotingssubsidie en mededinging met 2025:3399 toegevoegd; acht weken als rechterlijke bijzondere route, niet wettelijke algemene termijn.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:24",
+      "status": "retained_after_review",
+      "review": "Vijfjaarlijkse gepubliceerde evaluatie voor wettelijk geregelde subsidie en wettelijke afwijkingsmogelijkheid gelezen. Doeltreffendheid/effecten gescheiden van administratie en vaststelling; verwijzingen 4:42/4:50/4:51 gecontroleerd. Geen automatische beëindiging bij negatief resultaat; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:25",
+      "status": "retained_after_review",
+      "review": "Alle drie leden: wettelijke grondslag, verplichte weigering voor zover plafondoverschrijding en temporele beperking bij late besluitvorming/bezwaar/beroep gecontroleerd. Geen ongeclausuleerde aanspraak of nieuw onbeperkt budget afgeleid. Voorbeeld en verdelingsverband passend; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:26",
+      "status": "corrected",
+      "review": "Beide leden en vooraf kenbare wettelijke methode gecontroleerd. 2018:2310 volledig gelezen en uitzonderlijke herstel-loting toegevoegd: aantoonbare systeemstoring, ontbrekende eerlijke rangorde en rechtsgrond met terugwerkende kracht. Geen vrije wijzigingsbevoegdheid. Praktische fictieve dossiercontrole toegevoegd.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:27",
+      "status": "retained_after_review",
+      "review": "Bekendmaking voor tijdvak, latere eerste grens/verlaging en bescherming voordien ingediende aanvragen gelezen. Interne vaststelling en bekendmaking onderscheiden; 4:28 als bijzondere cumulatieve uitzondering behouden. Geen automatische toekenning uit plafondbescherming; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:28",
+      "status": "retained_after_review",
+      "review": "Alle drie cumulatieve voorwaarden gelezen: wettelijk vroeg aanvraagmoment, verlaging door begrotingsvaststelling/goedkeuring en vooraf gepubliceerde waarschuwing met gevolgen. Latere losse waarschuwing niet als automatisch herstel behandeld. Afbakening 4:34 begrotingsvoorwaarde correct; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:29",
+      "status": "corrected",
+      "review": "Aanvraag vóór afloop onderscheiden van tijdstip van verleningsbesluit; orgaan kan ook later op tijdige aanvraag verlenen. Mogelijkheid wettelijke afwijking, facultatief tweefasenmodel en verwijzingen 4:42/4:43 gecontroleerd. Verlening, vaststelling, betaling en voorschot blijven gescheiden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:30",
+      "status": "retained_after_review",
+      "review": "Beide leden gelezen: omschrijving activiteiten in beschikking en alleen aangekondigde nadere uitwerking. Uitwerking van wezenlijke vervanging onderscheiden, vergelijking 4:40 gecontroleerd. Bijeenkomstenvoorbeeld begrenst latere verwachtingen bij vaststelling; behouden.",
+      "resolved": true
+    },
+    {
+      "unit_id": "art-4:31",
+      "status": "corrected",
+      "review": "Bedrag of bepaalbare formule en bij ontbreken bedrag in beginsel individueel maximum gelezen. Niet gelijk aan 4:22 plafond. Overeenkomstige vaststelling als 4:46-uitgangspunt toegevoegd: maximum geen vrije budgetheroverweging, lager bedrag vergt toepasselijke grond of reeds verleende formule.",
       "resolved": true
     }
   ],
   "limitations": [
-    "Uitsluitend de twintig toegewezen eenheden inhoudelijk beoordeeld in deze batch; het hele boek is onvoltooid.",
-    "Selectieve rechtspraakrecherche; geen volledige inventaris van latere rechtspraak, bijzondere wetten of lagere regelingen.",
-    "Voor achttien eenheden is geen afzonderlijke voldoende relevante uitspraak geverifieerd en overgenomen; dit betekent niet dat er geen relevante rechtspraak bestaat.",
-    "De oude Wob-bedragen en termijnen en de oude materiële GBA- en inburgeringsregelingen worden niet als huidig recht beschreven.",
-    "De uitspraak van 17 juni 2026 is een tussenuitspraak; geen latere einduitspraak onderzocht. De officiële bron bevat afwijkende besluitdata in procesverloop en dictum; niet gebruikt voor termijnberekening.",
-    "Geen individueel dossier of concrete kalenderdeadline beoordeeld. Lengte-, herhalings- en tekstchecks bewijzen geen juridische kwaliteit."
+    "Only these twenty assigned units underwent this substantive second pass; whole-book completion is not claimed.",
+    "415 units still lack commentary; the strict whole-book validator and shared final builder remain unsatisfied for that reason.",
+    "Selective judicial research; no exhaustive later-treatment, lower-regulation or temporary-exception survey.",
+    "The four case cards preserve source anomalies, older judicial-annex numbering and transitional Wabo context; these do not supply current statutory wording.",
+    "Length, link and equality checks are technical evidence and do not certify legal quality or external professional approval."
   ],
   "changed_ids": [
-    "art-4:1",
-    "art-4:2",
-    "art-4:5",
-    "art-4:6",
-    "art-4:11",
-    "art-4:12",
-    "art-4:14",
-    "art-4:15",
-    "art-4:17"
+    "art-4:18",
+    "art-4:19",
+    "art-4:20a",
+    "art-4:20b",
+    "art-4:20c",
+    "art-4:20d",
+    "art-4:21",
+    "art-4:23",
+    "art-4:26",
+    "art-4:29",
+    "art-4:31"
   ],
   "unchanged_ids": [
-    "art-3:49",
-    "art-3:50",
-    "art-4:3",
-    "art-4:3a",
-    "art-4:4",
-    "art-4:7",
-    "art-4:8",
-    "art-4:9",
-    "art-4:10",
-    "art-4:13",
-    "art-4:16"
+    "art-4:20",
+    "art-4:20e",
+    "art-4:20f",
+    "art-4:22",
+    "art-4:24",
+    "art-4:25",
+    "art-4:27",
+    "art-4:28",
+    "art-4:30"
   ],
   "source_preflight": "preflight-result.json",
   "technical_support": "review-technical.json",
-  "case_law_evidence": "sources/review-005/case-search-log.json",
+  "case_law_evidence": "sources/review-006/case-search-log.json",
   "every_assigned_unit_read_against_source": true,
   "outside_scope_commentaries_preserved": true,
   "whole_book_complete": false

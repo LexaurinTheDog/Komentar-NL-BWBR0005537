@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2018:2310",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2018:2310",
+    "content_type": "application/xml",
+    "path": "sources/review-006/case-2018-2310.xml",
+    "accessed_at": "2026-10-20T14:42:44.159999+00:00",
+    "sha256": "28b150fd1c35c00cf9850d39bf7a82fcc5e51acf07aa333450ceccf72f90a155",
+    "bytes": 23553,
+    "accepted_format": true,
+    "xml_root": "open-rechtspraak"
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2025:3399",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2025:3399",
+    "content_type": "application/xml",
+    "path": "sources/review-006/case-2025-3399.xml",
+    "accessed_at": "2026-10-20T14:42:44.380035+00:00",
+    "sha256": "ac015d127fc6380e67936c743c8cd50923cc3dd0a9732c6955b98af459627962",
+    "bytes": 30807,
+    "accepted_format": true,
+    "xml_root": "open-rechtspraak"
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:4448",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:4448",
+    "content_type": "application/xml",
+    "path": "sources/review-006/case-2026-4448.xml",
+    "accessed_at": "2026-10-20T14:42:44.588145+00:00",
+    "sha256": "5e55de0fcbcaa3f105a3ff7a46014d4cc763b6d598e8e39ad4ae79e525d618f4",
+    "bytes": 34366,
+    "accepted_format": true,
+    "xml_root": "open-rechtspraak"
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:4455",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2026:4455",
+    "content_type": "application/xml",
+    "path": "sources/review-006/case-2026-4455.xml",
+    "accessed_at": "2026-10-20T14:42:45.350248+00:00",
+    "sha256": "e33e0c3fe6ea42c1b7dd2f9fb99b4d6e2ec56d16cb55474c99a59d1aaa066ff2",
+    "bytes": 49321,
+    "accepted_format": true,
+    "xml_root": "open-rechtspraak"
+  }
+]

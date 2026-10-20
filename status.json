@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T14:40:39.279310+00:00",
+  "updated_at": "2026-10-20T14:48:26.559447+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -15,8 +15,8 @@
     "verified_at": "2026-10-20T13:47:01.778268+00:00",
     "current_recheck_date": "2026-10-20",
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
-    "review_verified_at": "2026-10-20T14:34:14.372575+00:00",
-    "review_evidence": "sources/review-005/verification.json"
+    "review_verified_at": "2026-10-20T14:42:15.855138+00:00",
+    "review_evidence": "sources/review-006/verification.json"
   },
   "official_articles": 584,
   "total_units": 588,
@@ -628,7 +628,11 @@
       "ECLI:NL:RVS:2016:3131",
       "ECLI:NL:RVS:2014:4682",
       "ECLI:NL:RVS:2026:925",
-      "ECLI:NL:RVS:2026:3492"
+      "ECLI:NL:RVS:2026:3492",
+      "ECLI:NL:RVS:2018:2310",
+      "ECLI:NL:RVS:2025:3399",
+      "ECLI:NL:RVS:2026:4448",
+      "ECLI:NL:RVS:2026:4455"
     ],
     "fetched_not_yet_assessed": [
       "ECLI:NL:CBB:2024:31"
@@ -651,17 +655,15 @@
       "warnings": [],
       "ok": false
     },
-    "independent_review_scope": "Current batch exactly twenty ids in review-result.json; prior eighty preserved separately. Whole-book review incomplete.",
+    "independent_review_scope": "Current batch exactly twenty ids in review-result.json; prior hundred preserved separately. Whole-book review incomplete.",
     "validated_at": "2026-10-20T14:33:04.678262+00:00"
   },
   "remaining_limitations": [
     "415 commentaareenheden nog ongeschreven.",
-    "100 eenheden in vijf batches beoordeeld; 488 eenheden nog zonder tweede inhoudelijke beoordeling.",
-    "Selectieve rechtspraakrecherche; geen volledige inventaris van latere rechtspraak, bijzondere wetten of lagere regelingen.",
-    "Voor achttien eenheden is geen afzonderlijke voldoende relevante uitspraak geverifieerd en overgenomen; dit betekent niet dat er geen relevante rechtspraak bestaat.",
-    "De oude Wob-bedragen en termijnen en de oude materiële GBA- en inburgeringsregelingen worden niet als huidig recht beschreven.",
-    "De uitspraak van 17 juni 2026 is een tussenuitspraak; geen latere einduitspraak onderzocht. De officiële bron bevat afwijkende besluitdata in procesverloop en dictum; niet gebruikt voor termijnberekening.",
-    "Geen individueel dossier of concrete kalenderdeadline beoordeeld. Lengte-, herhalings- en tekstchecks bewijzen geen juridische kwaliteit."
+    "120 eenheden in zes batches beoordeeld; 468 eenheden nog zonder tweede inhoudelijke beoordeling.",
+    "Selective judicial research; no exhaustive later-treatment, lower-regulation or temporary-exception survey.",
+    "The four case cards preserve source anomalies, older judicial-annex numbering and transitional Wabo context; these do not supply current statutory wording.",
+    "Length, link and equality checks are technical evidence and do not certify legal quality or external professional approval."
   ],
   "preflight": {
     "complete": true,
@@ -681,26 +683,26 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "art-3:49",
-      "art-3:50",
-      "art-4:1",
-      "art-4:2",
-      "art-4:3",
-      "art-4:3a",
-      "art-4:4",
-      "art-4:5",
-      "art-4:6",
-      "art-4:7",
-      "art-4:8",
-      "art-4:9",
-      "art-4:10",
-      "art-4:11",
-      "art-4:12",
-      "art-4:13",
-      "art-4:14",
-      "art-4:15",
-      "art-4:16",
-      "art-4:17"
+      "art-4:18",
+      "art-4:19",
+      "art-4:20",
+      "art-4:20a",
+      "art-4:20b",
+      "art-4:20c",
+      "art-4:20d",
+      "art-4:20e",
+      "art-4:20f",
+      "art-4:21",
+      "art-4:22",
+      "art-4:23",
+      "art-4:24",
+      "art-4:25",
+      "art-4:26",
+      "art-4:27",
+      "art-4:28",
+      "art-4:29",
+      "art-4:30",
+      "art-4:31"
     ],
     "evidence": "review-result.json",
     "technical_evidence": "review-technical.json",
@@ -708,7 +710,7 @@
   },
   "cumulative_independent_review": {
     "complete": false,
-    "units_reviewed": 100,
+    "units_reviewed": 120,
     "reviewed_ids": [
       "aanhef",
       "art-1:1",
@@ -809,11 +811,31 @@
       "art-4:14",
       "art-4:15",
       "art-4:16",
-      "art-4:17"
+      "art-4:17",
+      "art-4:18",
+      "art-4:19",
+      "art-4:20",
+      "art-4:20a",
+      "art-4:20b",
+      "art-4:20c",
+      "art-4:20d",
+      "art-4:20e",
+      "art-4:20f",
+      "art-4:21",
+      "art-4:22",
+      "art-4:23",
+      "art-4:24",
+      "art-4:25",
+      "art-4:26",
+      "art-4:27",
+      "art-4:28",
+      "art-4:29",
+      "art-4:30",
+      "art-4:31"
     ],
-    "prior_cumulative_evidence": "sources/review-005/prior-status.json",
-    "prior_batch_evidence": "sources/review-005/prior-review-result.json",
+    "prior_cumulative_evidence": "sources/review-006/prior-status.json",
+    "prior_batch_evidence": "sources/review-006/prior-review-result.json",
     "current_batch_evidence": "review-result.json",
-    "remaining_units": 488
+    "remaining_units": 468
   }
 }

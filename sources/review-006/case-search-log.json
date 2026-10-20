@@ -1,0 +1,78 @@
+{
+  "searched_at": "2026-10-20T14:46:44.988194+00:00",
+  "scope": "Selective primary official and local national corpus research for exactly twenty assigned units.",
+  "queries": [
+    "site.raadvanstate.nl/uitspraken/ \"4:20b\" \"4:20f\"",
+    "site.raadvanstate.nl/uitspraken/ \"4:26\" \"gelijke kansen\"",
+    "site.raadvanstate.nl/uitspraken/ \"4:18\" \"4:19\" \"2026\"",
+    "site.raadvanstate.nl/uitspraken/ \"4:20\" \"2026\" \"4455\"",
+    "site.raadvanstate.nl/uitspraken/ \"4:26\" \"2026\" \"subsidie\"",
+    "site.raadvanstate.nl/uitspraken/ \"4:21\" \"4:23\" \"2026\""
+  ],
+  "discovery_urls": [
+    "https://www.raadvanstate.nl/uitspraken/@110183/201706123-1-a2/",
+    "https://www.raadvanstate.nl/uitspraken/@159814/202406199-1-r1-en-202500794-1-r1/",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:4455"
+  ],
+  "local_search": "sources/review-006/local-search-log.json",
+  "local_comparison": "sources/review-006/local-official-case-comparison.json",
+  "fully_read": [
+    {
+      "ecli": "ECLI:NL:RVS:2018:2310",
+      "snapshot": "sources/review-006/case-2018-2310.xml",
+      "supported_units": [
+        "art-4:26"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2025:3399",
+      "snapshot": "sources/review-006/case-2025-3399.xml",
+      "supported_units": [
+        "art-4:21",
+        "art-4:23"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2026:4448",
+      "snapshot": "sources/review-006/case-2026-4448.xml",
+      "supported_units": [
+        "art-4:18",
+        "art-4:19"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2026:4455",
+      "snapshot": "sources/review-006/case-2026-4455.xml",
+      "supported_units": [
+        "art-4:20a",
+        "art-4:20b",
+        "art-4:20c"
+      ]
+    }
+  ],
+  "no_separate_verified_case_adopted_for": [
+    "art-4:20",
+    "art-4:20d",
+    "art-4:20e",
+    "art-4:20f",
+    "art-4:22",
+    "art-4:24",
+    "art-4:25",
+    "art-4:27",
+    "art-4:28",
+    "art-4:29",
+    "art-4:30",
+    "art-4:31"
+  ],
+  "excluded": [
+    "Third-party editorial summaries were discovery aids only and were not used as authorities.",
+    "201406676/2/A3 search result is an advocate-general conclusion, not treated as a judicial holding.",
+    "Other cases mentioned in the four judgments were not independently read and are not standalone authorities here."
+  ],
+  "limitations": [
+    "Selective research, not an exhaustive later-treatment survey.",
+    "Firecrawl status checked: zero credits. Official HTTP, judicial full-text XML and web search used instead.",
+    "Technical units for which no sufficiently relevant independently read case was selected remain supported by their statutory text.",
+    "Wabo transition context, older numbering in the judicial annex and source anomalies are expressly bounded in the case cards."
+  ]
+}
