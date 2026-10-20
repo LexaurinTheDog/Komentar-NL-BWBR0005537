@@ -10,8 +10,7 @@
     "verbatim_ratio": 1.0,
     "commentary_chars": 983993,
     "errors": [
-      "krátký/chybějící komentář u 88 jednotek: ['art-9:14(0<400)', 'art-9:15(0<400)', 'art-9:16(0<400)', 'art-9:17(0<400)', 'art-9:18(0<400)', 'art-9:19(0<400)', 'art-9:20(0<400)', 'art-9:21(0<120)']",
-      "necommitnuté změny v repu"
+      "krátký/chybějící komentář u 88 jednotek: ['art-9:14(0<400)', 'art-9:15(0<400)', 'art-9:16(0<400)', 'art-9:17(0<400)', 'art-9:18(0<400)', 'art-9:19(0<400)', 'art-9:20(0<400)', 'art-9:21(0<120)']"
     ],
     "warnings": [],
     "ok": false
@@ -23,5 +22,6 @@
   "build_method": "Shared builder refuses out-of-scope missing commentary; affected chapters rendered with unchanged shared load_units/load_commentary/quote functions.",
   "source_text_agreement": 1.0,
   "whole_book_complete": false,
-  "independent_review": false
+  "independent_review": false,
+  "post_checkpoint_validation": true
 }
