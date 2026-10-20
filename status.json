@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T19:03:56.062757+00:00",
+  "updated_at": "2026-10-20T19:04:55.647116+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -764,26 +764,27 @@
   "coverage": true,
   "validation_result": {
     "complete": false,
-    "reason": "188 ontbrekende commentaren buiten deze auteursbatch.",
+    "reason": "188 ontbrekende toelichtingen buiten de toegewezen reviewbatch; alle twintig toegewezen eenheden beoordeeld.",
     "not_independent_review": false,
     "whole_book_complete": false,
     "bounded_author_passed": true,
-    "evidence": "batch-8-36-44-validation.json",
+    "evidence": "strict-validation.json",
     "strict_validator": {
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 794197,
+      "commentary_chars": 795823,
       "errors": [
         "krátký/chybějící komentář u 188 jednotek: ['art-8:45(0<400)', 'art-8:45a(0<400)', 'art-8:46(0<400)', 'art-8:47(0<400)', 'art-8:48(0<400)', 'art-8:49(0<120)', 'art-8:50(0<400)', 'art-8:51(0<400)']"
       ],
       "warnings": [],
       "ok": false
     },
-    "validated_at": "2026-10-20T18:58:49.654928+00:00",
+    "validated_at": "2026-10-20T19:04:55.647116+00:00",
     "source_text_agreement": 1.0,
     "output_clean_at_strict_check": true,
-    "independent_review_scope": "Exactly twenty ids in review-result.json; all other 380 reviewed commentaries preserved. Whole book incomplete."
+    "independent_review_scope": "Exactly twenty ids in review-result.json; all other 380 reviewed commentaries preserved. Whole book incomplete.",
+    "assigned_batch_passed": true
   },
   "remaining_limitations": [
     "Precies twintig toegewezen eenheden inhoudelijk herbeoordeeld; geen gehele-boekreview of voltooiing.",
@@ -802,18 +803,18 @@
     "scope": "Source and parser only; manuscript incomplete."
   },
   "technical_audit": {
-    "checked_at": "2026-10-20T18:47:10.136388+00:00",
+    "checked_at": "2026-10-20T19:04:15.830080+00:00",
     "independent_review": false,
     "official_text_units_compared": 588,
     "official_xml_text_errors": [],
     "source_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
-    "commented_units": 380,
+    "commented_units": 400,
     "total_units": 588,
-    "commentary_chars": 749793,
+    "commentary_chars": 795823,
     "commentary_minimum_length_failures": [],
     "exact_repeated_paragraphs": [],
     "exact_repeated_long_sentences": [],
-    "local_links_checked": 1246,
+    "local_links_checked": 1337,
     "broken_local_links": [],
     "limitations": [
       "Geen inhoudelijke of onafhankelijke juridische kwaliteitscertificering.",
