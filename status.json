@@ -800,10 +800,9 @@
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 1082057,
+      "commentary_chars": 1082072,
       "errors": [
-        "krátký/chybějící komentář u 28 jednotek: ['art-10:38(0<400)', 'art-10:39(0<400)', 'art-10:40(0<120)', 'art-10:41(0<400)', 'art-10:42(0<400)', 'art-10:43(0<120)', 'art-10:44(0<400)', 'art-10:45(0<400)']",
-        "necommitnuté změny v repu"
+        "krátký/chybějící komentář u 28 jednotek: ['art-10:38(0<400)', 'art-10:39(0<400)', 'art-10:40(0<120)', 'art-10:41(0<400)', 'art-10:42(0<400)', 'art-10:43(0<120)', 'art-10:44(0<400)', 'art-10:45(0<400)']"
       ],
       "warnings": [],
       "ok": false
