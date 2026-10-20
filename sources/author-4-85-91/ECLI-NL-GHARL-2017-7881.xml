@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:GHARL:2017:7881</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-08-04T09:30:45</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2017-09-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Gerechtshof_Arnhem-Leeuwarden" scheme="overheid.RechterlijkeMacht">Gerechtshof Arnhem-Leeuwarden</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2017-09-05</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">16/00846</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Arnhem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht_belastingrecht">Bestuursrecht; Belastingrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:HR:2018:355" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/latereAanleg">Cassatie: ECLI:NL:HR:2018:355</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>V-N Vandaag 2017/2214</rdf:li>
+          <rdf:li>V-N 2017/60.19.5</rdf:li>
+          <rdf:li>NLF 2017/2313</rdf:li>
+          <rdf:li>NLF 2017/2313</rdf:li>
+          <rdf:li>FutD 2017-2376</rdf:li>
+          <rdf:li>Viditax (FutD) 2017092218</rdf:li>
+          <rdf:li>Viditax (FutD) 2018031617</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:GHARL:2017:7881">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:GHARL:2017:7881</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2017-09-20T09:58:36</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2017-09-22</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:GHARL:2017:7881 Gerechtshof Arnhem-Leeuwarden , 05-09-2017 / 16/00846</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:GHARL:2017:7881:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Invordering. Dwangbevel. Betekeningskosten terecht?</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:GHARL:2017:7881:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">GERECHTSHOF ARNHEM - LEEUWARDEN</bridgehead>
+    <para>Belastingkamer</para>
+    <para>locatie Arnhem</para>
+    <para>nummer 16/00846</para>
+    <para>uitspraakdatum: 5 september 2017</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Uitspraak van de vijfde meervoudige belastingkamer</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>op het hoger beroep van</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [X] </emphasis>te <emphasis role="bold">[Z]</emphasis> (hierna: belanghebbende)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen de uitspraak van de rechtbank Gelderland van 3 juni 2016, nummer AWB 15/7231, in het geding tussen belanghebbende en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>de <emphasis role="bold">ontvanger </emphasis>van de<emphasis role="bold"> Belastingdienst/Kantoor Utrecht</emphasis> (hierna: de Ontvanger)</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Ontstaan en loop van het geding</title>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Aan belanghebbende is een dwangbevel toegezonden, waarbij € 51 aan betekeningskosten in rekening zijn gebracht.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>De Ontvanger heeft bij uitspraak op bezwaar het bezwaar ongegrond verklaard.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Belanghebbende is tegen die uitspraak in beroep gekomen bij de rechtbank Gelderland (hierna: de Rechtbank). De Rechtbank heeft het beroep ongegrond verklaard.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para>Belanghebbende heeft tegen de uitspraak van de Rechtbank hoger beroep ingesteld.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5.</nr>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 23 juni 2017. Van de zitting is een proces-verbaal opgemaakt, dat aan deze uitspraak is gehecht.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Vaststaande feiten</title>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>Aan belanghebbende is met dagtekening 23 januari 2015 een voorlopige aanslag in de inkomstenbelasting/premie volksverzekeringen opgelegd van € 254.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>De Ontvanger heeft met dagtekening 8 april 2015 een aanmaning aan belanghebbende gezonden. Hierbij is € 7 aan aanmaningskosten in rekening gebracht.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <para>Op 1 mei 2015 is aan belanghebbende per post een dwangbevel verzonden. Ter zake van de betekening van dit dwangbevel is € 51 aan kosten in rekening gebracht.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4.</nr>
+      <para>Belanghebbende heeft op 1 mei 2015 een bedrag van € 261 overgemaakt naar de rekening van de Belastingdienst. Dit bedrag is op 4 mei 2015 op deze rekening bijgeschreven.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>3</nr>Geschil</title>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>In geschil is of de Ontvanger terecht de kosten van betekening van het dwangbevel in rekening heeft gebracht.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>Belanghebbende beantwoordt deze vraag ontkennend, de Ontvanger bevestigend.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>4</nr>Beoordeling van het geschil</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Aanmaning</emphasis>
+      </para>
+    </parablock>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Artikel 11 van de Invorderingswet 1990 (hierna: IW 1990) bepaalt dat indien de belastingschuldige een belastingaanslag niet binnen de gestelde termijn betaalt, de ontvanger hem schriftelijk aanmaant om alsnog binnen twee weken na de dagtekening van de aanmaning te betalen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Ingevolge artikel 1 van de Kostenwet invordering rijksbelastingen (hierna: de Kostenwet) worden ter zake van het verrichten van werkzaamheden voor de invordering van bedragen op grond van de bepalingen van de IW 1990 aan degene die in gebreke is gebleven het verschuldigde tijdig te betalen, kosten in rekening gebracht.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>Op grond van artikel 7, tweede lid, van de Kostenwet kan een bezwaar of beroep tegen de door de ontvanger of de belastingdeurwaarder in rekening gebrachte kosten niet zijn gegrond op de stelling dat de aanmaning niet is ontvangen, tenzij degene van wie de kosten worden gevorderd aannemelijk maakt dat ontvangst redelijkerwijs moet worden betwijfeld.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>Belanghebbende betwist niet dat de Ontvanger de aanmaning heeft verzonden, maar heeft gesteld dat hij deze om onverklaarbare redenen niet heeft ontvangen. In een geval als het onderhavige is het in beginsel aan de Ontvanger aannemelijk te maken dat de aanmaning belanghebbende heeft bereikt. De omstandigheid dat per post verzonden stukken in de regel op het daarop vermelde adres van de geadresseerde worden bezorgd of aangeboden, rechtvaardigt evenwel het vermoeden van ontvangst of aanbieding van de aanmaning op dat adres (HR 15 december 2006, nr. 41.882, ECLI:NL:HR:2006:AZ4416). Om dit vermoeden te ontzenuwen, is voldoende dat op grond van hetgeen belanghebbende aanvoert, ontvangst van de aanmaning redelijkerwijs moet worden betwijfeld.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <para>Belanghebbende is er niet in geslaagd dit vermoeden te ontzenuwen. Daartoe overweegt het Hof het volgende. Belanghebbende, die stelt geen aanmaning te hebben ontvangen, heeft wel een bedrag van € 261 betaald, zijnde het bedrag van de voorlopige aanslag van € 254, vermeerderd met € 7 aanmaningskosten. Dat belanghebbende, zoals hij ter zitting heeft gesteld, uit eigen beweging, zonder dat hij een aanmaning heeft ontvangen, aanmaningskosten gaat betalen enkel vanwege het feit dat hij bekend is met de werkwijze bij de belastingdienst, acht het Hof niet geloofwaardig. Zeker niet nu belanghebbende voor het eerst kort voor de zitting van het Hof heeft gesteld dat hij geen aanmaning heeft ontvangen. Belanghebbende heeft geen afdoende verklaring gegeven waarom hij dit niet in een eerder stadium naar voren heeft gebracht. Het Hof acht derhalve aannemelijk dat de aanmaning op het adres van belanghebbende is ontvangen.</para>
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Dwangbevel</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.6.</nr>
+      <para>Indien de belastingplichtige na de aanmaning in gebreke blijft, kan de invordering ingevolge artikel 12 van de IW 1990 geschieden bij een door de ontvanger uit te vaardigen dwangbevel.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.7.</nr>
+      <para>Artikel 13, tweede lid, van de IW 1990 bepaalt dat de betekening van het dwangbevel ook kan geschieden door het ter post bezorgen van een voor de belastingschuldige bestemd afschrift van het dwangbevel door de ontvanger. Alsdan geldt als datum van betekening de dag van terpostbezorging en zijn de met het dwangbevel gemoeide kosten van betekening door de belastingschuldige verschuldigd op de dag van terpostbezorging (Kamerstukken II 2002-2003, 29 035, nr. 3, p. 29).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.8.</nr>
+      <para>Belanghebbende stelt dat hij het bedrag van de voorlopige aanslag op 1 mei 2015 heeft betaald en dat hij het dwangbevel op 4 mei 2015 heeft ontvangen. Daardoor is tijdig – want vóór ontvangst van het dwangbevel – betaald en heeft de Ontvanger ten onrechte betekeningskosten in rekening gebracht, aldus belanghebbende. Het Hof overweegt dienaangaande als volgt. Betaling geschiedt op grond van artikel 4:89, derde lid, van de Algemene wet bestuursrecht op het tijdstip waarop het verschuldigde bedrag op de rekening van de schuldeiser is gecrediteerd. In het onderhavige geval is de belastingaanslag derhalve betaald op 4 mei 2015. Aangezien betekening van het dwangvel op 1 mei 2015 is geschied door terpostbezorging, is de belastingaanslag betaald nadat betekening van het dwangbevel heeft plaatsgevonden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.9.</nr>
+      <para>Nu niet is gesteld of gebleken dat de hoogte van de betekeningskosten in strijd is met artikel 3 van de Kostenwet en deze kosten – zoals hiervoor overwogen – zijn verschuldigd bij de betekening van het dwangbevel op 1 mei 2015, leidt dit tot de conclusie dat de Ontvanger terecht € 51 terecht aan betekeningskosten in rekening heeft gebracht.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Slotsom</emphasis>
+          <?linebreak?>Op grond van het vorenstaande is het hoger beroep ongegrond. </para>
+      </parablock>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>5</nr>Griffierecht en proceskosten</title>
+    <para />
+    <parablock>
+      <para>Het Hof ziet geen aanleiding voor vergoeding van het griffierecht of een veroordeling in de proceskosten.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>6</nr>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het Hof bevestigt de uitspraak van de Rechtbank.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.E. Keulemans, voorzitter, mr. R.A.V. Boxem en mr. G.B.A. Brummer, in tegenwoordigheid van mr. E.D. Postema als griffier.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De beslissing is op 5 september 2017 in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>De griffier,	De voorzitter,</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>(E.D. Postema)	(A.E. Keulemans)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschriften zijn aangetekend per post verzonden op: 11 september 2017</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Tegen deze uitspraak kunnen beide partijen binnen zes weken na de verzenddatum beroep in cassatie instellen bij 	</para>
+      <para>
+        <emphasis role="bold">de Hoge Raad der Nederlanden (belastingkamer), </emphasis>
+      </para>
+      <para>
+        <emphasis role="bold">	Postbus 20303, </emphasis>
+      </para>
+      <para>
+        <emphasis role="bold">	2500 EH  Den Haag. </emphasis>
+      </para>
+      <para>Daarbij moet het volgende in acht worden genomen:</para>
+    </parablock>
+    <para>1. bij het beroepschrift wordt een afschrift van deze uitspraak overgelegd;</para>
+    <para>2 - het beroepschrift moet ondertekend zijn en ten minste het volgende vermelden:</para>
+    <parablock>
+      <para>	a. de naam en het adres van de indiener;</para>
+      <para>	b. de dagtekening;</para>
+      <para>	c. een omschrijving van de uitspraak waartegen het beroep in cassatie is gericht;</para>
+      <para>	d. de gronden van het beroep in cassatie.</para>
+      <para>Voor het instellen van beroep in cassatie is griffierecht verschuldigd. Na het instellen van beroep in cassatie ontvangt de indiener een nota griffierecht van de griffier van de Hoge Raad. In het cassatieberoepschrift kan de Hoge Raad verzocht worden om de wederpartij te veroordelen in de proceskosten.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

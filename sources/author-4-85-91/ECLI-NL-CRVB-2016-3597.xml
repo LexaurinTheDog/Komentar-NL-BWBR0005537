@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CRVB:2016:3597</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T03:41:55</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2016-09-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Centrale_Raad_van_Beroep" scheme="overheid.RechterlijkeMacht">Centrale Raad van Beroep</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2016-09-28</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">15/2175 WW</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht_socialezekerheidsrecht">Bestuursrecht; Socialezekerheidsrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537">Algemene wet bestuursrecht</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=4:87">Algemene wet bestuursrecht 4:87</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005537&amp;artikel=4:98">Algemene wet bestuursrecht 4:98</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>BA 2016/252</rdf:li>
+          <rdf:li>NJB 2016/1908</rdf:li>
+          <rdf:li>USZ 2016/410</rdf:li>
+          <rdf:li>SZR-Updates.nl 2016-0993</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CRVB:2016:3597">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CRVB:2016:3597</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2016-09-28T14:24:54</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2016-09-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CRVB:2016:3597 Centrale Raad van Beroep , 28-09-2016 / 15/2175 WW</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CRVB:2016:3597:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Wettelijke rente. Schadevergoeding. In het geval een bestuursorgaan een onrechtmatig besluit vervangt door een nieuw besluit gaat de wettelijke rente in nadat de oorspronkelijke beslis- en betalingstermijn tezamen zijn verstreken. Appellant heeft terecht erop gewezen dat de rechtbank een fout heeft gemaakt door te rekenen met een beslistermijn van zes weken. Appellant heeft er verder terecht op gewezen dat de rechtbank van een onjuiste betalingstermijn is uitgegaan.</para>
+        <para>Het bedrag aan wettelijke rente blijft ver onder het in artikel 4:98, tweede lid, van de Awb genoemde minimumbedrag van € 10,-. De aangevallen uitspraak, voor zover die betrekking heeft op toewijzing van wettelijke rente en, in verband met die toewijzing op vergoeding van griffierecht en proceskosten zal worden vernietigd. De Raad zal zelf in de zaak voorzien en het verzoek van betrokkene om vergoeding van wettelijke rente af wijzen.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CRVB:2016:3597:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <para>15/2175 WW </para>
+  <parablock>
+    <para>Datum uitspraak: 28 september 2016</para>
+  </parablock>
+  <parablock>
+    <para>Centrale Raad van Beroep</para>
+    <para>Meervoudige kamer</para>
+  </parablock>
+  <parablock>
+    <para>Uitspraak op het hoger beroep tegen de uitspraak van de rechtbank Den Haag van </para>
+    <para>10 februari 2015, 14/8856 (aangevallen uitspraak)</para>
+  </parablock>
+  <parablock>
+    <para>Partijen:</para>
+  </parablock>
+  <parablock>
+    <para>de Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen (appellant)</para>
+  </parablock>
+  <parablock>
+    <para>
+      [Betrokkene] te [woonplaats] (betrokkene)</para>
+  </parablock>
+  <parablock>
+    <para>PROCESVERLOOP</para>
+    <para>Appellant heeft hoger beroep ingesteld.</para>
+  </parablock>
+  <parablock>
+    <para>Namens betrokkene heeft mr. J.M. Breevoort een verweerschrift ingediend.</para>
+  </parablock>
+  <parablock>
+    <para>Appellant heeft op verzoek van de Raad nadere stukken ingezonden.</para>
+  </parablock>
+  <parablock>
+    <para>Het onderzoek ter zitting heeft plaatsgevonden op 17 augustus 2016. Appellant heeft zich laten vertegenwoordigen door mr. P.A.L. Nieuwenhuis, advocaat. Betrokkene en <?linebreak?>mr. Breevoort zijn niet verschenen.</para>
+  </parablock>
+  <section role="overwegingen">
+    <title>OVERWEGINGEN</title>
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Betrokkene heeft met een op 27 november 2013 door appellant ontvangen formulier een uitkering aangevraagd op grond van hoofdstuk IV van de Werkloosheidswet (WW). Bij besluit van 19 december 2013 heeft appellant op deze aanvraag afwijzend beslist. Nadat betrokkene tegen het besluit van 19 december 2013 bezwaar had gemaakt, heeft appellant bij besluit van 1 juli 2014 vastgesteld dat betrokkene recht heeft op uitkering wegens betalingsonmacht van de werkgever over de periode van 1 oktober 2013 tot en met <?linebreak?>8 november 2013. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Betrokkene heeft appellant bij brief van 26 juni 2014 – voor zover in dit geding van belang – verzocht om hem over het na te betalen bedrag aan WW-uitkering wettelijke rente te vergoeden. Bij besluit van 1 augustus 2014 heeft appellant het verzoek om schadevergoeding afgewezen. Betrokkene heeft appellant bij brief van 18 augustus 2014 laten weten het met deze afwijzing niet eens te zijn. Appellant heeft de brief van 18 augustus 2014 doorgezonden aan de rechtbank.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>De rechtbank heeft de brief van 18 augustus 2014 aangemerkt als een verzoek als bedoeld in artikel 8:88, eerste lid, van de Algemene wet bestuursrecht (Awb).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>Bij de aangevallen uitspraak, voor zover in hoger beroep van belang, heeft de rechtbank geoordeeld dat appellant aan betrokkene wettelijke rente over de nabetaalde WW-uitkering verschuldigd is over de periode van 1 februari 2014 tot 3 juli 2014. Daarbij is de rechtbank ervan uitgegaan dat appellant op de aanvraag van betrokkene had moeten hebben beslist op <?linebreak?>9 januari 2014 en dat wettelijke rente is verschuldigd vanaf de eerste dag van de kalendermaand volgend op die waarin de beslistermijn is verstreken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Appellant heeft in hoger beroep het oordeel van de rechtbank over de verschuldigdheid van wettelijke rente ter discussie gesteld en betoogd dat de rechtbank hem ten onrechte tot vergoeding van wettelijke rente heeft veroordeeld. Volgens appellant heeft de rechtbank in de eerste plaats een fout gemaakt door in overweging 6.6 van de aangevallen uitspraak de beslistermijn van artikel 127a, derde lid, van de WW op zes weken te stellen in plaats van op zes maanden. In de tweede plaats heeft de rechtbank miskend dat de betalingstermijn van een uitkering op grond van hoofdstuk IV van de WW zes weken is en niet wordt bepaald door artikel 33, eerste lid, van de WW. Appellant heeft de uitkering op 4 juli 2014 aan betrokkene betaald en dat was voor het einde van de voor die betaling geldende termijn. </para>
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>Betrokkene heeft in hoger beroep naar voren gebracht dat appellant, voorafgaande aan de aanvraag van betrokkene, al op 16 november 2013 een verzoek van de curator om overname van de betalingsverplichtingen van zijn gefailleerde werkgever moet hebben ontvangen. De uitkering is hem op 7 juli 2014 betaald. Volgens betrokkene heeft hij over de periode van <?linebreak?>25 juni 2014 tot en met 7 juli 2014 recht op wettelijke rente.</para>
+      <para />
+      <parablock>
+        <para>4. De Raad komt tot de volgende beoordeling.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Voor de toepasselijke wettelijke bepalingen wordt verwezen naar de overwegingen 4.1 tot en met 4.4 en 4.10 van de aangevallen uitspraak. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Niet in geschil is dat het door appellant in bezwaar niet gehandhaafde besluit van <?linebreak?>19 december 2013 onrechtmatig was en de grondslag kan zijn voor vergoeding van schade. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>De verschuldigdheid van schadevergoeding in de vorm van wettelijke rente is sinds 1 juli 2013 geregeld in Titel 4.4, Afdeling 4.4.2, van de Awb. In overweging 6.4 van de aangevallen uitspraak heeft de rechtbank terecht tot uitgangspunt genomen dat, in het geval een bestuursorgaan een onrechtmatig besluit vervangt door een nieuw besluit, de wettelijke rente ingaat nadat de oorspronkelijke beslis- en betalingstermijn tezamen zijn verstreken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>Partijen zijn het erover eens dat voor appellant een beslistermijn gold van zes maanden. Deze termijn volgt uit artikel 127a, derde lid, van de WW. Appellant heeft terecht erop gewezen dat de rechtbank een fout heeft gemaakt door te rekenen met een termijn van zes weken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <para>Partijen zijn het ook erover eens dat de betalingstermijn van een uitkering op grond van hoofdstuk IV van de WW zes weken is. In de uitspraak van 15 oktober 2014 (ECLI:NL:CRVB:2014:3556) heeft de Raad overwogen dat het eenmalige karakter van een betaling van een dergelijke uitkering meebrengt dat op grond van artikel 4:87, eerste lid, van de Awb een betalingstermijn geldt van zes weken en dat bij de bepaling van die betalingstermijn geen betekenis toekomt aan de in artikel 33, eerste lid, van de WW genoemde termijn. Appellant heeft er daarom terecht op gewezen dat de rechtbank van een onjuiste betalingstermijn is uitgegaan.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.6.</nr>
+      <para>Partijen worden nog verdeeld gehouden door de vraag of de begindatum van de beslistermijn 16 november 2013 is (standpunt van betrokkene) of 27 november 2013 (standpunt van appellant). Op grond van artikel 127a, derde lid, van de WW bepaalt de ontvangst van de aanvraag de begindatum van de beslistermijn. Met het namens de curator getekende werkgeversformulier “Overname loonbetaling” is aan appellant informatie verstrekt over onder meer het bedrijf van de werkgever en de toepasselijke arbeidsvoorwaarden. Over de aan betrokkene onbetaald gebleven bedragen aan loon en onkostenvergoeding bevat het formulier geen informatie; zelfs de naam van betrokkene als werknemer wordt niet genoemd. Betrokkene heeft de uitkering aangevraagd met het formulier “Aanvraag overname betalingsverplichtingen vanwege betalingsonmacht werkgever”, dat hij op 26 november 2013 heeft ondertekend en dat, blijkens een vermelding onderaan het formulier, is ingenomen door een medewerker van appellant op 27 november 2013. Dat betekent dat de beslistermijn op 27 november 2013 is gestart.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.7.</nr>
+      <parablock>
+        <para>Uitgaande van 27 november 2013 als startdatum van de beslistermijn van zes maanden en een betalingstermijn van zes weken zou appellant over de na te betalen WW-uitkering vanaf </para>
+        <para>7 juli 2014 wettelijke rente verschuldigd worden. Appellant heeft een betaaloverzicht ingebracht dat 4 juli 2014 als adviesdatum voor de betaling vermeldt. Op grond van artikel 4:89, derde lid, van de Awb geschiedt betaling door bijschrijving op een bankrekening op het tijdstip waarop de rekening van de schuldeiser wordt gecrediteerd. Betrokkene heeft zijn stelling dat het door appellant te betalen bedrag pas op 7 juli 2014 op zijn bankrekening is bijgeschreven niet met bewijs onderbouwd. Als zou worden aangenomen dat appellant pas op de dag na afloop van de betalingstermijn het (netto equivalent van) een bedrag van <?linebreak?>€ 19.942,75 (het totaalbedrag van de door appellant berekende uitkering) heeft betaald, volgt uit artikel 4:98, tweede lid, van de Awb nog steeds dat appellant geen wettelijke rente verschuldigd is. Het bedrag aan wettelijke rente blijft in dat geval ver onder het in dat artikel genoemde minimumbedrag van € 10,-.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.8.</nr>
+      <para>Het hoger beroep van appellant slaagt. De aangevallen uitspraak, voor zover die betrekking heeft op toewijzing van wettelijke rente en, in verband met die toewijzing op vergoeding van griffierecht en proceskosten zal worden vernietigd. De Raad zal zelf in de zaak voorzien en het verzoek van betrokkene om vergoeding van wettelijke rente af wijzen.</para>
+      <para />
+      <parablock>
+        <para>5. Voor een veroordeling in de proceskosten bestaat geen aanleiding. </para>
+      </parablock>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>BESLISSING</title>
+    <para>De Centrale Raad van Beroep</para>
+    <para />
+    <itemizedlist mark="-">
+      <listitem>
+        <para>vernietigt de aangevallen uitspraak voor zover daarbij het verzoek om schadevergoeding bestaande uit wettelijke rente is toegewezen, appellant is opgedragen aan betrokkene het betaalde griffierecht te vergoeden en appellant is veroordeeld in de proceskosten van betrokkene; </para>
+      </listitem>
+      <listitem>
+        <para>wijst het verzoek om veroordeling tot vergoeding van wettelijke rente af.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door G.A.J. van den Hurk als voorzitter en H.G. Rottier en <?linebreak?>M. Greebe als leden, in tegenwoordigheid van H.J. Dekker als griffier. De beslissing is uitgesproken in het openbaar op 28 september 2016.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>					(getekend) G.A.J. van den Hurk</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>					(getekend) H.J. Dekker</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </section>
+  <bridgehead>NW</bridgehead>
+</uitspraak>
+</open-rechtspraak>

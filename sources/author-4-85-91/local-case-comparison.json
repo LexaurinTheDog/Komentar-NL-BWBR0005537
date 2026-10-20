@@ -1,0 +1,16 @@
+[
+  {
+    "ecli": "ECLI:NL:CRVB:2016:3597",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/crvb/ecli-nl-crvb-2016-3597.md",
+    "local_sha256": "287f89a2cc1120461118f9b4c4d264f74d3ca5b4aaf432a4c52a62b2295c98d8",
+    "full_body_whitespace_equal": true,
+    "disposition": "Volledige uitspraak gelijk bij negeren van witruimte."
+  },
+  {
+    "ecli": "ECLI:NL:CRVB:2026:384",
+    "local_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/crvb/ecli-nl-crvb-2026-384.md",
+    "local_sha256": "18793bf4646df581d3efca128065a562e1b00df70b512f5537c9c5e9328f329e",
+    "full_body_whitespace_equal": false,
+    "disposition": "Lokale tekst is vanaf PROCESVERLOOP volledig gelijk; officieel extra voorwerk en SAMENVATTING afzonderlijk gelezen."
+  }
+]

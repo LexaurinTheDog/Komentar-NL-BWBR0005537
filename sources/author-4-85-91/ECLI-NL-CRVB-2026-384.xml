@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CRVB:2026:384</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-06-17T12:00:26</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-04-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Centrale_Raad_van_Beroep" scheme="overheid.RechterlijkeMacht">Centrale Raad van Beroep</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2026-03-24</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">23/2207 TONK</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht_socialezekerheidsrecht">Bestuursrecht; Socialezekerheidsrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>USZ 2026/144 met annotatie van mr. dr. R. Stijnen</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CRVB:2026:384">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CRVB:2026:384</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-04-02T21:11:23</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-04-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CRVB:2026:384 Centrale Raad van Beroep , 24-03-2026 / 23/2207 TONK</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CRVB:2026:384:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Niet-ontvankelijke beroepen wegens niet tijdig beslissen. Ingebrekestelling. Niet onredelijk laat. Aan betaling ligt besluit ten grondslag. Zelf voorzien. Vaststelling dwangsom. Van communicatie tussen appellant en het college, waaruit kon worden afgeleid dat vóór de indiening van het beroepschrift door appellant geen concreet uitzicht op besluitvorming over het al dan niet verbeuren van een dwangsom meer bestond, is niet gebleken. Ook voor het overige kan niet worden gezegd dat het uitzicht op besluitvorming daarover verloren is gegaan voordat het beroep werd ingesteld. Onder deze omstandigheden kan niet worden geoordeeld dat appellant onredelijk lang heeft gewacht met het indienen van zijn beroepschrift. Het toekenningsbesluit is zichtbaar geworden in de uitbetaling op de bankrekening van appellant. Gelet op het telefoongesprek en op het feit dat de in dat gesprek aangekondigde uitbetaling vervolgens enkele dagen later ook daadwerkelijk heeft plaatsgevonden, is er aanleiding om in dit specifieke geval aansluiting te zoeken bij de rechtspraak dat aan een betaling van een uitkering een besluit tot zodanige betaling ten grondslag ligt. Dit betekent dat op het moment dat appellant beroep instelde tegen het niet tijdig beslissen op de aanvraag, het college al een besluit op die aanvraag had genomen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CRVB:2026:384:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>23/2207 TONK, 23/2818 BBZ</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Datum uitspraak: 24 maart 2026</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Centrale Raad van Beroep</para>
+      <para>Meervoudige kamer</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Uitspraak op de hoger beroepen tegen de uitspraken van de rechtbank Gelderland van 22 juni 2023, 23/586 (aangevallen uitspraak 1) en 23/587 (aangevallen uitspraak 2)</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Partijen:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [appellant] te [woonplaats] (appellant)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>het college van burgemeester en wethouders van Arnhem (college)</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">SAMENVATTING</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De zaak die ziet op aangevallen uitspraak 1 gaat over de vraag of het beroep van appellant tegen het niet tijdig nemen van een dwangsombesluit terecht niet-ontvankelijk is verklaard omdat dit onredelijk laat is ingediend. Appellant heeft aangevoerd dat het beroep niet onredelijk laat is ingediend en daarom wel ontvankelijk is en hij verzoekt de Raad vast te stellen dat het college een dwangsom heeft verbeurd. Appellant krijgt hierin gelijk. De zaak die ziet op aangevallen uitspraak 2 gaat over de vraag of het beroep van appellant tegen het niet tijdig beslissen op een aanvraag om energietoeslag terecht niet-ontvankelijk is verklaard. Appellant heeft aangevoerd dat het college in gebreke is geweest een besluit op zijn aanvraag te nemen, dat zijn beroep tegen het niet tijdig nemen van een besluit ontvankelijk is en dat het college ook in deze zaak een dwangsom heeft verbeurd. Appellant krijgt hierin geen gelijk.</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>PROCESVERLOOP</title>
+    <para />
+    <parablock>
+      <para>Appellant heeft hoger beroepen ingesteld. Het college heeft verweerschriften ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Raad heeft de zaken behandeld op een zitting van 13 januari 2026. Appellant is verschenen en werd bijgestaan door [naam] . Het college heeft zich laten vertegenwoordigen door M.M.J. de Vries en E. Okubazghi.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>OVERWEGINGEN</title>
+    <para />
+  </section>
+  <section>
+    <title>Inleiding</title>
+    <para />
+    <parablock>
+      <para>1. De Raad gaat uit van de volgende in deze gedingen van belang zijnde feiten en omstandigheden.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">23/2207 TONK</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Op 6 december 2021 heeft appellant een aanvraag ingediend om een tegemoetkoming op grond van de Regeling tijdelijke ondersteuning noodzakelijke kosten. Appellant heeft het college op 21 februari 2022 in gebreke gesteld wegens het niet tijdig beslissen op die aanvraag. Met een besluit van 22 februari 2022, verzonden op 16 maart 2022, heeft het college beslist op de aanvraag en de tegemoetkoming toegekend.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Het college heeft met dit op 16 maart 2022 toegezonden besluit geen besluit genomen over de verschuldigdheid en de hoogte van een dwangsom. Appellant heeft het college op 1 mei 2022 in gebreke gesteld wegens het niet tijdig nemen van een dwangsombesluit. Op 23 januari 2023 heeft appellant beroep ingesteld tegen het niet tijdig nemen van een dwangsombesluit.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">23/2818 BBZ</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Op 28 juli 2022 heeft appellant bij het college een aanvraag ingediend om toekenning van een eenmalige energietoeslag 2022 (energietoeslag) op grond van artikel 35, vierde lid, van de Participatiewet (PW). Appellant heeft het college op 11 oktober 2022 in gebreke gesteld wegens het niet tijdig beslissen op die aanvraag. Op 13 oktober 2022 heeft een medewerker van de gemeente Arnhem telefonisch contact opgenomen met appellant over de ingebrekestelling. De medewerker heeft van dat telefonisch contact de volgende notitie gemaakt:</para>
+      <para />
+      <parablock>
+        <para>“[Appellant] gesproken n.a.v. zijn ingebrekestelling over zijn aanvraag eenmalige energietoeslag. Er is een besluit genomen op zijn aanvraag en deze is toegekend. Hij krijgt ongeveer binnen 2 weken het besluit toegestuurd en de energietoeslag op zijn rekening.”</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op 17 oktober 2022 heeft het college de gevraagde energietoeslag tot een bedrag van € 1.550,- aan appellant uitbetaald.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para>Op 23 januari 2023 heeft appellant beroep ingesteld tegen het niet tijdig nemen van een besluit op zijn aanvraag.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Uitspraken van de rechtbank</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>De rechtbank heeft met aangevallen uitspraak 1 het beroep tegen het niet tijdig beslissen op het verzoek een dwangsombesluit te nemen niet-ontvankelijk verklaard, omdat het beroep onredelijk laat is ingesteld. De rechtbank heeft daartoe overwogen dat appellant niet aannemelijk heeft gemaakt dat van hem niet kon worden verwacht dat hij met enige voortvarendheid – hooguit binnen een paar maanden na zijn bericht van 1 mei 2022 en het verstrijken van de daarbij gestelde termijn van twee dagen – dat beroepschrift zou indienen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>De rechtbank heeft met aangevallen uitspraak 2 het beroep tegen het niet tijdig beslissen op de aanvraag niet-ontvankelijk verklaard, omdat het college met de betaling van de energietoeslag op 17 oktober 2022 niet in gebreke is geweest tijdig een besluit te nemen. De rechtbank heeft daartoe overwogen dat de betaling van de energietoeslag moet worden aangemerkt als de betaling van een uitkering met een publiekrechtelijk karakter. De daarmee gemoeide handelingen kunnen naar het oordeel van de rechtbank, in het licht van het bepaalde in artikel 4:88, eerste lid, van de Algemene wet bestuursrecht (Awb), worden aangemerkt als een besluit. Met het ontvangen van het bedrag was het appellant duidelijk dat aan hem de energietoeslag was toegekend. Omdat het een vaststaand bedrag betrof, kon er verder geen onduidelijkheid zijn over de vraag of het bedrag wel juist was. Dat betekent dat het college met de betaling van de energietoeslag op 17 oktober 2022 op dat moment ‘als het ware’ een besluit heeft genomen. Nu daarmee niet langer is voldaan aan het vereiste van artikel 6:12, tweede lid, onder a, van de Awb kon appellant ook geen beroep instellen tegen het niet tijdig beslissen op de aanvraag tot toekenning van de energietoeslag. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De standpunten van appellant</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Appellant is het met aangevallen uitspraak 1 niet eens. Hij voert aan dat het beroep niet onredelijk laat is ingediend en dat hij recht heeft op een dwangsom.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <parablock>
+        <para>Appellant is het met aangevallen uitspraak 2 ook niet eens. Hij voert aan dat het beroep ontvankelijk is en dat hij recht heeft op een dwangsom. Volgens appellant heeft de rechtbank de uitbetaling van de aangevraagde energietoeslag ten onrechte aangemerkt als een besluit op zijn aanvraag. Daarnaast stelt appellant dat de rechtbank ten onrechte heeft geoordeeld dat het voor hem duidelijk was dat de energietoeslag definitief was toegekend.</para>
+        <para>
+          <emphasis role="bold italic">Het oordeel van de Raad</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>4. De Raad beoordeelt of de rechtbank terecht de beroepen niet-ontvankelijk heeft verklaard aan de hand van wat appellant in hoger beroep heeft aangevoerd, de beroepsgronden. De Raad komt tot het oordeel dat het hoger beroep tegen aangevallen uitspraak 1 slaagt en het hoger beroep tegen aangevallen uitspraak 2 niet. Hierna legt de Raad uit hoe hij tot dit oordeel komt en welke gevolgen dit oordeel heeft. De wettelijke regels die voor de beoordeling van de hoger beroepen belangrijk zijn, zijn te vinden in de bijlage bij deze uitspraak.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Aangevallen uitspraak 1 (23/2207 TONK): niet tijdig nemen van een dwangsombesluit</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Van een onredelijk laat ingediend beroepschrift, als bedoeld in artikel 6:12, vierde lid, van de Awb, is geen sprake, zodat de rechtbank het beroep ten onrechte niet-ontvankelijk heeft verklaard. Hiertoe wordt als volgt overwogen.</para>
+      <para />
+      <paragroup>
+        <nr>4.2.1.</nr>
+        <para>In de memorie van antwoord bij het wetsvoorstel Awb<footnote-ref linkend="_d86a5e22-fce9-479c-bb45-d40153a92d0e" /> heeft de wetgever zich als volgt uitgelaten over het onredelijk laat indienen van een beroepschrift:</para>
+        <para />
+        <parablock>
+          <para>“De term «onredelijk laat» in het derde lid van artikel 6.2.6 [nu artikel 6:12, vierde lid, van de Awb] beoogt te voorkomen dat een bezwaar of beroep nog ontvankelijk is nadat de belanghebbende zolang heeft stilgezeten dat eenieder erop mocht vertrouwen dat hij van beroep zou afzien. Zonder deze bepaling zou de termijn voor bezwaar en beroep tegen het niet beslissen op een aanvraag geen einde nemen. Wanneer gezegd kan worden dat het bezwaar of beroep onredelijk laat is, zal van de omstandigheden afhangen. Het zal echter niet vlug worden aangenomen: men kan de belanghebbende in het algemeen niet verwijten dat hij stilzit omdat hij erop vertrouwt dat het bestuur nog wel zal voldoen aan zijn verplichting een</para>
+          <para>besluit te nemen.”</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.2.2.</nr>
+        <para>In de memorie van toelichting bij het wetsvoorstel dwangsom bij niet tijdig beslissen<footnote-ref linkend="_4de422be-2605-4afc-a4ef-8ac77c549031" />, zoals gewijzigd naar aanleiding van het advies van de Raad van State, staat het volgende over het onredelijk laat indienen van een beroepschrift:</para>
+        <para />
+        <parablock>
+          <para>“Wat onredelijk laat is, kan niet in zijn algemeenheid worden bepaald. Daarvoor is niet zonder meer doorslaggevend wanneer de oorspronkelijke aanvraag of het bezwaar is ingediend. Wel is van belang of en hoe er nadien van gedachten is gewisseld tussen aanvrager en bestuursorgaan.”</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.2.3.</nr>
+        <para>Uit de geschiedenis van de totstandkoming van artikel 6:12, vierde lid, van de Awb valt dus af te leiden dat niet zozeer de periode van het indienen van het beroep bepalend is, maar wel of er – ondanks de duur van het wachten – nog uitzicht op besluitvorming bestaat. Pas als dat uitzicht verloren is gegaan, mag niet onredelijk lang worden gewacht tot het instellen van beroep. Hierbij is de onderlinge communicatie tussen een betrokkene en het bestuursorgaan van belang en meer in het bijzonder nog of betrokkene op grond daarvan nog een besluit kon verwachten of niet. In dat laatste geval – met name in de situatie dat het bestuursorgaan zelf aangeeft dat het geen besluit zal nemen – kan van een kortere termijn worden uitgegaan. Eén en ander heeft de Raad in eerdere uitspraken tot uitdrukking gebracht.<footnote-ref linkend="_f88a08b3-e5a7-4d94-8afe-57d4be624cf3" /></para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.2.4.</nr>
+        <para>Van communicatie tussen appellant en het college, waaruit kon worden afgeleid dat vóór de indiening van het beroepschrift door appellant geen concreet uitzicht op besluitvorming over het al dan niet verbeuren van een dwangsom meer bestond, is niet gebleken. Ook voor het overige kan niet worden gezegd dat het uitzicht op besluitvorming daarover verloren is gegaan voordat het beroep werd ingesteld. Het college heeft appellant namelijk op geen enkel moment medegedeeld dat geen dwangsombesluit meer zal worden genomen. Ter zitting heeft het college erkend dat een dergelijk besluit wel had moeten worden genomen, maar dat dit per abuis is vergeten. Onder deze omstandigheden kan niet worden geoordeeld dat appellant onredelijk lang heeft gewacht met het indienen van zijn beroepschrift.</para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>Gelet op 4.1 tot en met 4.2.4 was het beroep van appellant van 23 januari 2023 tegen het niet tijdig nemen van een dwangsombesluit, anders dan de rechtbank heeft geoordeeld, wel ontvankelijk. De Raad ziet geen aanleiding om de zaak terug te wijzen naar de rechtbank en zal daarom de zaak met toepassing van artikel 8:116 van de Awb zelf afdoen. Daartoe wordt het volgende overwogen.</para>
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <parablock>
+        <para>Ervan uitgaande dat appellant niet onredelijk lang heeft gewacht met het instellen van beroep tegen het niet tijdig nemen van een dwangsombesluit, is niet in geschil dat het college nog altijd niet heeft beslist over het al dan niet verbeuren van een dwangsom. Ook is niet in geschil dat het college, na de ingebrekestelling van appellant van 21 februari 2022, met de bekendmaking van het besluit op de aanvraag op 16 maart 2022 negen dagen te laat heeft beslist op die aanvraag. Gelet op artikel 4:17, tweede lid, van de Awb heeft het college over die periode een dwangsom van (9 x € 23,- =) € 207,- verbeurd. De rechtbank had dus het beroep gegrond moeten verklaren en de hoogte van de door het college verschuldigde dwangsom op dat bedrag moeten vaststellen.</para>
+        <para>
+          <emphasis role="italic">Aangevallen uitspraak 2 (23/2818 BBZ): niet tijdig nemen van een besluit op de aanvraag om een eenmalige energietoeslag</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <para>In deze zaak is tussen partijen in geschil of het college tijdig een besluit op de aanvraag van appellant om toekenning van de energietoeslag heeft genomen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.6.</nr>
+      <para>Bij de beantwoording van de vraag of het college een besluit op deze aanvraag heeft genomen komt, anders dan de rechtbank oordeelde en zoals appellant terecht aanvoert, geen betekenis toe aan artikel 4:88, eerste lid, van de Awb. Het gaat in deze zaak immers om een aanvraag om toekenning van een energietoeslag als bedoeld in artikel 35, vierde lid, van de PW. Deze toeslag wordt bij beschikking vastgesteld. Een specifiek wettelijk voorschrift dat de toeslag kan worden betaald zonder dat deze bij beschikking is vastgesteld, ontbreekt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.7.</nr>
+      <para>De Raad ziet echter geen aanleiding om aangevallen uitspraak 2 om die reden te vernietigen, omdat hij het oordeel van de rechtbank onderschrijft dat het beroep van appellant tegen het niet tijdig nemen van een besluit op zijn aanvraag om een energietoeslag nietontvankelijk is. Daartoe wordt als volgt overwogen.</para>
+      <para />
+      <paragroup>
+        <nr>4.7.1.</nr>
+        <para>Appellant heeft met zijn ingebrekestelling bereikt dat het college aan hem de energietoeslag heeft betaald op 17 oktober 2022. Het is vaste rechtspraak dat aan een betaling van een uitkering een besluit tot zodanige betaling ten grondslag ligt.<footnote-ref linkend="_2a549ae7-0086-417e-8e9d-89a795019f0e" /> Tegen een dergelijk besluit, dat in de regel – wanneer een (ander) geschrift van het bestuursorgaan waarin de daartoe strekkende beslissing is neergelegd, ontbreekt – zichtbaar wordt in een salaris- of uitkeringsspecificatie, kan bezwaar worden gemaakt en vervolgens beroep worden ingesteld. Indien bij de specificatie niet geheel is voldaan aan de eisen die ingevolge de Awb worden gesteld aan de motivering en de bekendmaking van besluiten, wordt volgens diezelfde rechtspraak door die gebreken het besluitkarakter niet aangetast.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.7.2.</nr>
+        <para>In dit geval is het besluit tot toekenning van de energietoeslag zichtbaar geworden in de uitbetaling op de bankrekening van appellant, welke uitbetaling is gevolgd op een betaalopdracht van het college. Gelet op het telefoongesprek van 13 oktober 2022 en op het feit dat de in dat gesprek aangekondigde uitbetaling vervolgens enkele dagen later ook daadwerkelijk heeft plaatsgevonden, onder vermelding van ‘wintertoeslag’, is er aanleiding om in dit specifieke geval aansluiting te zoeken bij de in 4.7.1 genoemde rechtspraak. Anders dan appellant aanvoert, was er geen reden om te twijfelen of mogelijk sprake was van een voorschot. Appellant is verteld dat de aanvraag was toegekend, het bedrag dat is uitbetaald is het maximaal toe te kennen bedrag aan energietoeslag en bij de betaling is geen enkel voorbehoud gemaakt (bijvoorbeeld door de vermelding van het woord ‘voorschot’). Dit betekent dat op het moment dat appellant beroep instelde tegen het niet tijdig beslissen op de aanvraag om een eenmalige energietoeslag, het college al een besluit op die aanvraag had genomen. Volgens artikel 6:12, tweede lid, onder a, van de Awb kon appellant geen beroep meer instellen tegen het niet tijdig beslissen op zijn aanvraag.</para>
+        <para />
+      </paragroup>
+    </paragroup>
+  </section>
+  <section>
+    <title>Conclusie en gevolgen</title>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Uit 4.1 tot en met 4.4 volgt dat het hoger beroep tegen aangevallen uitspraak 1 slaagt en dat die uitspraak moet worden vernietigd. De Raad verklaart het beroep tegen het niet tijdig nemen van een dwangsombesluit gegrond. De Raad zal met toepassing van artikel 8:55c van de Awb de door het college aan appellant verschuldigde dwangsom vaststellen op € 207,-.</para>
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <parablock>
+        <para>Uit 4.5 tot en met 4.7.2 volgt dat het hoger beroep tegen aangevallen uitspraak 2 niet slaagt en dat die uitspraak moet worden bevestigd met verbetering van de gronden.</para>
+        <para>
+          <emphasis role="italic">Proceskosten en griffierecht</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>In zaak 23/2207 TONK krijgt appellant een vergoeding voor de reiskosten die hij in beroep en in hoger beroep heeft moeten maken tot een bedrag van in totaal € 44,26. Appellant krijgt daarnaast een vergoeding voor de verletkosten in hoger beroep. Niet in geschil is dat deze kostenvergoeding in totaal moet worden vastgesteld op € 400,-. Appellant krijgt ook het in zaak 23/2207 TONK door hem in beroep en hoger beroep betaalde griffierecht vergoed.</para>
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>Omdat het hoger beroep in zaak 23/2818 BBZ niet slaagt krijgt appellant geen vergoeding voor zijn proceskosten, nog daargelaten dat hij in zaak 23/2207 TONK al een vergoeding krijgt voor zijn reis- en verletkosten. Gelet op de verbetering van gronden, krijgt hij in deze zaak wel het in hoger beroep betaalde griffierecht vergoed.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>BESLISSING</title>
+    <para />
+    <parablock>
+      <para>De Centrale Raad van Beroep</para>
+      <para>
+        <emphasis role="italic">In zaak 23/2207 TONK</emphasis>
+      </para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>vernietigt aangevallen uitspraak 1;</para>
+      </listitem>
+      <listitem>
+        <para>verklaart het beroep gegrond;</para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat het college aan appellant een dwangsom verschuldigd is van € 207,-;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt het college in de proceskosten van appellant tot een bedrag van € 444,26;</para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat het college aan appellant het in beroep en in hoger beroep betaalde griffierecht van in totaal € 186,- vergoedt.</para>
+      </listitem>
+    </itemizedlist>
+    <bridgehead role="italic">In zaak 23/2818 BBZ</bridgehead>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>bevestigt aangevallen uitspraak 2;</para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat het college aan appellant het in hoger beroep betaalde griffierecht van € 136,- vergoedt.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door W.F. Claessens als voorzitter en P.W. van Straalen en <?linebreak?>C.F.E. van Olden-Smit als leden, in tegenwoordigheid van B.F.C. Wiedenhof als griffier. De beslissing is uitgesproken in het openbaar op 24 maart 2026.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>						(getekend) W.F. Claessens</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>						(getekend) B.F.C. Wiedenhof</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Bijlage: voor deze uitspraak belangrijke wettelijke regels</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Algemene wet bestuursrecht</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Artikel 4:17 </emphasis>
+      </para>
+    </parablock>
+    <para>1. Indien een beschikking op aanvraag niet tijdig wordt gegeven, verbeurt het bestuursorgaan aan de aanvrager een dwangsom voor elke dag dat het in gebreke is, doch voor ten hoogste 42 dagen. De Algemene termijnenwet is op laatstgenoemde termijn niet van toepassing.</para>
+    <para>2. De dwangsom bedraagt de eerste veertien dagen € 23 per dag, de daaropvolgende veertien dagen € 35 per dag en de overige dagen € 45 per dag.</para>
+    <para>3. De eerste dag waarover de dwangsom verschuldigd is, is de dag waarop twee weken zijn verstreken na de dag waarop de termijn voor het geven van de beschikking is verstreken en het bestuursorgaan van de aanvrager een schriftelijke ingebrekestelling heeft ontvangen.</para>
+    <para>4. (…).</para>
+    <para>5. Geen dwangsom is verschuldigd indien:</para>
+    <para>a. het bestuursorgaan onredelijk laat in gebreke is gesteld,</para>
+    <para>b. (…)</para>
+    <para>c. (…).</para>
+    <para>(…).</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Artikel 4:18 </emphasis>
+      </para>
+      <para>Het bestuursorgaan stelt de verschuldigdheid en de hoogte van de dwangsom bij beschikking vast binnen twee weken na de laatste dag waarover de dwangsom verschuldigd was.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Artikel 4:88</emphasis>
+        <?linebreak?>1. Bij wettelijk voorschrift kan worden bepaald dat een geldsom moet worden betaald zonder dat dit bij beschikking is vastgesteld.<?linebreak?>(…).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Artikel 6:2</emphasis>
+        <?linebreak?>Voor de toepassing van wettelijke voorschriften over bezwaar en beroep worden met een besluit gelijk gesteld:</para>
+    </parablock>
+    <para>a. (…), en</para>
+    <para>b. het niet tijdig nemen van een besluit.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Artikel 6:12 </emphasis>
+      </para>
+    </parablock>
+    <para>1. Indien het beroep is gericht tegen het niet tijdig nemen van een besluit dan wel het niet tijdig bekendmaken van een van rechtswege verleende beschikking, is het niet aan een termijn gebonden.</para>
+    <para>2. Het beroepschrift kan worden ingediend zodra:</para>
+    <para>a. het bestuursorgaan in gebreke is tijdig een besluit te nemen of een van rechtswege verleende beschikking bekend te maken, en</para>
+    <para>b. twee weken zijn verstreken na de dag waarop belanghebbende het bestuursorgaan schriftelijk heeft medegedeeld dat het in gebreke is.</para>
+    <para> 3. (…).</para>
+    <para>4. Het beroep is niet-ontvankelijk indien het beroepschrift onredelijk laat is ingediend.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Participatiewet</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Artikel 35</emphasis>
+        <?linebreak?>1. Onverminderd paragraaf 2.2, heeft de alleenstaande of het gezin recht op bijzondere bijstand voor zover de alleenstaande of het gezin niet beschikt over de middelen om te voorzien in de uit bijzondere omstandigheden voortvloeiende noodzakelijke kosten van het bestaan en deze kosten naar het oordeel van het college niet kunnen worden voldaan uit de bijstandsnorm, de individuele inkomenstoeslag, bedoeld in artikel 36, de studietoeslag, bedoeld in artikel 36b, het vermogen en het inkomen voor zover dit meer bedraagt dan de bijstandsnorm, waarbij artikel 31, tweede lid, en artikel 34, tweede lid, niet van toepassing zijn. Het college bepaalt het begin en de duur van de periode waarover het vermogen en het inkomen in aanmerking wordt genomen. </para>
+      <para>2.(…). </para>
+      <para>3.(…). </para>
+    </parablock>
+    <para>4. In afwijking van het eerste lid kan bijzondere bijstand ook aan een alleenstaande of een gezin worden verleend in de vorm van een eenmalige energietoeslag, zonder dat wordt nagegaan of die alleenstaande of dat gezin in dat jaar een sterk gestegen energierekening had: </para>
+    <para>a. voor het jaar 2022, die kan worden verstrekt tot en met 30 juni 2023; </para>
+    <parablock>
+      <para>b.(…). </para>
+      <para>5.(…).</para>
+    </parablock>
+    <para>6. De in het vierde lid bedoelde toeslag kan in afwijking van artikel 43, eerste lid, ambtshalve worden vastgesteld. </para>
+    <para>(…).</para>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <footnote id="_d86a5e22-fce9-479c-bb45-d40153a92d0e" label="1">
+    <para> Kamerstukken II, 1990/91, 21 221, nr. 5, blz. 90.</para>
+  </footnote>
+  <footnote id="_4de422be-2605-4afc-a4ef-8ac77c549031" label="2">
+    <para> Kamerstukken II, 2004/05, 29 934, nr. 3, blz. 8.</para>
+  </footnote>
+  <footnote id="_f88a08b3-e5a7-4d94-8afe-57d4be624cf3" label="3">
+    <para>Zie bijvoorbeeld de uitspraken van 26 februari 2004, ECLI:NL:CRVB:2004:AO4639, van 13 februari 2014, ECLI:NL:CRVB:2014:422, en van 5 augustus 2025, ECLI:NL:CRVB:2025:1224.</para>
+    <para />
+  </footnote>
+  <footnote id="_2a549ae7-0086-417e-8e9d-89a795019f0e" label="4">
+    <para> Zie bijvoorbeeld de uitspraak van 1 maart 2001, ECLI:NL:CRVB:2001:AB0558.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

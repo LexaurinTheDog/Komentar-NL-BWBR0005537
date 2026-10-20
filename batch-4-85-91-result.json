@@ -1,0 +1,79 @@
+{
+  "complete": true,
+  "kind": "bounded_author",
+  "authored_ids": [
+    "art-4:85",
+    "art-4:86",
+    "art-4:87",
+    "art-4:88",
+    "art-4:89",
+    "art-4:90",
+    "art-4:91"
+  ],
+  "completed_units": 7,
+  "total_assigned": 7,
+  "written_book_units": 180,
+  "total_book_units": 588,
+  "whole_book_complete": false,
+  "independent_review": false,
+  "source_preflight": "sources/author-4-85-91/preflight-result.json",
+  "technical_support": "sources/author-4-85-91/technical-check.json",
+  "case_law_sources": [
+    {
+      "ecli": "ECLI:NL:GHARL:2017:7881",
+      "supported_ids": [
+        "art-4:89"
+      ],
+      "paragraphs": [
+        "4.7",
+        "4.8",
+        "4.9"
+      ],
+      "origin": "Official web discovery; no local copy located."
+    },
+    {
+      "ecli": "ECLI:NL:CRVB:2016:3597",
+      "supported_ids": [
+        "art-4:87"
+      ],
+      "paragraphs": [
+        "4.3",
+        "4.4",
+        "4.5",
+        "4.6",
+        "4.7"
+      ],
+      "origin": "Official web discovery and complete local body comparison."
+    },
+    {
+      "ecli": "ECLI:NL:CRVB:2026:384",
+      "supported_ids": [
+        "art-4:88"
+      ],
+      "paragraphs": [
+        "4.6",
+        "4.7",
+        "4.7.1",
+        "4.7.2"
+      ],
+      "origin": "Local national corpus, then complete official XML including header and statutory appendix."
+    }
+  ],
+  "shared_builder": {
+    "command": [
+      "python3",
+      "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
+      "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537"
+    ],
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "CHYBÍ komentář k 408 jednotkám, např.: ['art-4:92', 'art-4:93', 'art-4:94', 'art-4:94a', 'art-4:95', 'art-4:96', 'art-4:97', 'art-4:98', 'art-4:99', 'art-4:100']\n"
+  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "Only the seven assigned units authored; 408 other units remain unwritten.",
+    "No independent review of this new batch.",
+    "Selective case-law research; no exhaustive later-treatment check.",
+    "Shared full-book builder and validator must continue to report incomplete coverage."
+  ]
+}

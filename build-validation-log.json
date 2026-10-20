@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T15:09:37.499680+00:00",
+  "checked_at": "2026-10-20T15:18:19.197211+00:00",
   "shared_builder": {
     "command": [
       "python3",
@@ -8,31 +8,9 @@
     ],
     "exit_code": 1,
     "stdout": "",
-    "stderr": "CHYBÍ komentář k 415 jednotkám, např.: ['art-4:85', 'art-4:86', 'art-4:87', 'art-4:88', 'art-4:89', 'art-4:90', 'art-4:91', 'art-4:92', 'art-4:93', 'art-4:94']\n"
+    "stderr": "CHYBÍ komentář k 408 jednotkám, např.: ['art-4:92', 'art-4:93', 'art-4:94', 'art-4:94a', 'art-4:95', 'art-4:96', 'art-4:97', 'art-4:98', 'art-4:99', 'art-4:100']\n"
   },
-  "checkpoint_method": "Existing _checkpoint.py renders substantive written commentary as explicitly incomplete; shared completion gate unchanged.",
-  "scope_review_complete": true,
-  "whole_book_complete": false,
-  "strict_validator": {
-    "command": [
-      "python3",
-      "/Volumes/LaCie/open-commentary/_tools/validate.py",
-      "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537"
-    ],
-    "checked_at": "2026-10-20T15:10:48.421873+00:00",
-    "exit_code": 1,
-    "result": {
-      "repo": "Komentar-NL-BWBR0005537",
-      "units": 588,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 263880,
-      "errors": [
-        "krátký/chybějící komentář u 415 jednotek: ['art-4:85(0<400)', 'art-4:86(0<400)', 'art-4:87(0<400)', 'art-4:88(0<400)', 'art-4:89(0<400)', 'art-4:90(0<400)', 'art-4:91(0<400)', 'art-4:92(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
-    },
-    "stderr": "",
-    "output_git_clean_at_check": true
-  }
+  "checkpoint_method": "Render only existing substantive commentary in chapter 9 with the established incomplete-checkpoint layout; no missing-unit scaffolds.",
+  "bounded_authoring_complete": true,
+  "whole_book_complete": false
 }

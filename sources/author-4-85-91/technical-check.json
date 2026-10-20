@@ -1,0 +1,32 @@
+{
+  "checked_at": "2026-10-20T15:17:05.985956+00:00",
+  "assigned_ids": [
+    "art-4:85",
+    "art-4:86",
+    "art-4:87",
+    "art-4:88",
+    "art-4:89",
+    "art-4:90",
+    "art-4:91"
+  ],
+  "new_commentaries": 7,
+  "existing_commentaries_preserved": 173,
+  "completed_units": 180,
+  "total_units": 588,
+  "assigned_lengths": {
+    "art-4:85": 2374,
+    "art-4:86": 2439,
+    "art-4:87": 2581,
+    "art-4:88": 3075,
+    "art-4:89": 2652,
+    "art-4:90": 2430,
+    "art-4:91": 2841
+  },
+  "statutory_wording_agreement": 1.0,
+  "statutory_records_unchanged": true,
+  "duplicate_delimiters": false,
+  "repeated_paragraphs": [],
+  "no_placeholders": true,
+  "independent_review": false,
+  "ok": true
+}

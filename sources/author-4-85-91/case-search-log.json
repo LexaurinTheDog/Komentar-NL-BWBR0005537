@@ -1,0 +1,80 @@
+{
+  "searched_at": "2026-10-20T15:18:19.197211+00:00",
+  "scope": "Selective research for exactly articles 4:85–4:91; no exhaustive case-law or later-treatment claim.",
+  "firecrawl": {
+    "attempted_query": "site.uitspraken.rechtspraak.nl \"4:88\" \"4:85\"",
+    "result": "Insufficient credits; direct official retrieval and web search used."
+  },
+  "web_queries": [
+    "site:uitspraken.rechtspraak.nl \"4:88\" \"4:85\"",
+    "site:uitspraken.rechtspraak.nl \"4:89\" \"gecrediteerd\""
+  ],
+  "official_full_texts_read": [
+    {
+      "ecli": "ECLI:NL:GHARL:2017:7881",
+      "supported_ids": [
+        "art-4:89"
+      ],
+      "paragraphs": [
+        "4.7",
+        "4.8",
+        "4.9"
+      ],
+      "origin": "Official web discovery; no local copy located."
+    },
+    {
+      "ecli": "ECLI:NL:CRVB:2016:3597",
+      "supported_ids": [
+        "art-4:87"
+      ],
+      "paragraphs": [
+        "4.3",
+        "4.4",
+        "4.5",
+        "4.6",
+        "4.7"
+      ],
+      "origin": "Official web discovery and complete local body comparison."
+    },
+    {
+      "ecli": "ECLI:NL:CRVB:2026:384",
+      "supported_ids": [
+        "art-4:88"
+      ],
+      "paragraphs": [
+        "4.6",
+        "4.7",
+        "4.7.1",
+        "4.7.2"
+      ],
+      "origin": "Local national corpus, then complete official XML including header and statutory appendix."
+    }
+  ],
+  "not_used": [
+    {
+      "ecli": "ECLI:NL:CBB:2021:366",
+      "reason": "Only partially screened; matching article numbers concern Wft, not the assigned Awb payment rules."
+    },
+    {
+      "ecli": "ECLI:NL:PHR:2014:2111",
+      "reason": "Search hit not read in full; not used as a judicial holding."
+    },
+    {
+      "ecli": "ECLI:NL:PHR:2015:2303",
+      "reason": "Search hit not read in full; not used as a judicial holding."
+    }
+  ],
+  "technical_units_without_separate_authority": [
+    "art-4:85",
+    "art-4:86",
+    "art-4:90",
+    "art-4:91"
+  ],
+  "limitations": [
+    "No separate fully verified case added for those four units; this does not imply absence of relevant cases.",
+    "No exhaustive later-treatment review.",
+    "Historical special-law and costs rules not represented as current general law."
+  ],
+  "local_search_evidence": "sources/author-4-85-91/local-search-log.json",
+  "corpus_comparison": "sources/author-4-85-91/local-case-comparison.json"
+}
