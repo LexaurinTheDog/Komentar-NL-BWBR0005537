@@ -1,0 +1,16 @@
+{
+  "exit_code": 1,
+  "result": {
+    "repo": "Komentar-NL-BWBR0005537",
+    "units": 588,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1126442,
+    "errors": [
+      "krátký/chybějící komentář u 8 jednotek: ['bijlage-2-art-7(0<400)', 'bijlage-2-art-8(0<400)', 'bijlage-2-art-9(0<400)', 'bijlage-2-art-10(0<400)', 'bijlage-2-art-11(0<400)', 'bijlage-2-art-12(0<400)', 'bijlage-3-art-1(0<400)', 'bijlage-3-art-2(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "bounded_review_complete": true,
+  "whole_book_complete": false
+}
