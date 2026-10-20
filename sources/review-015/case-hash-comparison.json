@@ -1,0 +1,38 @@
+[
+  {
+    "file": "sources/review-015/ECLI-NL-CBB-2024-31.xml",
+    "sha256": "14c4220b00829f5103bd46e334a515fcbf8224524049b0c1eb275fd880e7ba2d",
+    "identical_author_snapshot": true,
+    "chars": 31647
+  },
+  {
+    "file": "sources/review-015/ECLI-NL-CBB-2026-406.xml",
+    "sha256": "765e63015941892d134ad099260e408c627b028473d2061a62afb215136fede2",
+    "identical_author_snapshot": true,
+    "chars": 4432
+  },
+  {
+    "file": "sources/review-015/ECLI-NL-CRVB-2021-1500.xml",
+    "sha256": "87cc3ec490e54cc7220ff1540b418d8dae370d74ccb6be675fb7e4b243eb733e",
+    "identical_author_snapshot": true,
+    "chars": 12799
+  },
+  {
+    "file": "sources/review-015/ECLI-NL-RVS-2020-1682.xml",
+    "sha256": "835b91497961888c0f04367b67d08eb8f1ca82fbef13e58ff2b0a835ef042f7c",
+    "identical_author_snapshot": true,
+    "chars": 26387
+  },
+  {
+    "file": "sources/review-015/ECLI-NL-RVS-2021-1232.xml",
+    "sha256": "b45cf38963a3f3362b221291b8471202f257b5d487ca1ae96cb57a3ffa14bcfa",
+    "identical_author_snapshot": true,
+    "chars": 14736
+  },
+  {
+    "file": "sources/review-015/ECLI-NL-RVS-2021-786.xml",
+    "sha256": "aa90d6c8385de18e6cad589577bfb242a0706f4aacd44e0409ab70bc70b29c39",
+    "identical_author_snapshot": true,
+    "chars": 46901
+  }
+]

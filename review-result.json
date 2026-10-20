@@ -1,240 +1,240 @@
 {
   "complete": true,
   "kind": "bounded_independent_review",
-  "reviewed_at": "2026-10-20T17:01:14.283033+00:00",
+  "reviewed_at": "2026-10-20T17:25:35.172497+00:00",
   "decisive_date": "2026-10-19",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "art-5:32b",
-    "art-5:33",
-    "art-5:34",
-    "art-5:35",
-    "art-5:36",
-    "art-5:37",
-    "art-5:37a",
-    "art-5:38",
-    "art-5:39",
-    "art-5:40",
-    "art-5:41",
-    "art-5:42",
-    "art-5:43",
-    "art-5:44",
-    "art-5:45",
-    "art-5:46",
-    "art-5:47",
-    "art-5:48",
-    "art-5:49",
-    "art-5:50"
+    "art-5:51",
+    "art-5:52",
+    "art-5:53",
+    "art-5:54",
+    "art-6:1",
+    "art-6:2",
+    "art-6:3",
+    "art-6:4",
+    "art-6:5",
+    "art-6:6",
+    "art-6:7",
+    "art-6:8",
+    "art-6:9",
+    "art-6:10",
+    "art-6:11",
+    "art-6:12",
+    "art-6:13",
+    "art-6:14",
+    "art-6:15",
+    "art-6:16"
   ],
   "corrected_ids": [
-    "art-5:33",
-    "art-5:37",
-    "art-5:39",
-    "art-5:42",
-    "art-5:43",
-    "art-5:46"
+    "art-6:5",
+    "art-6:6",
+    "art-6:7",
+    "art-6:11",
+    "art-6:12",
+    "art-6:14"
   ],
   "retained_ids": [
-    "art-5:32b",
-    "art-5:34",
-    "art-5:35",
-    "art-5:36",
-    "art-5:37a",
-    "art-5:38",
-    "art-5:40",
-    "art-5:41",
-    "art-5:44",
-    "art-5:45",
-    "art-5:47",
-    "art-5:48",
-    "art-5:49",
-    "art-5:50"
+    "art-5:51",
+    "art-5:52",
+    "art-5:53",
+    "art-5:54",
+    "art-6:1",
+    "art-6:2",
+    "art-6:3",
+    "art-6:4",
+    "art-6:8",
+    "art-6:9",
+    "art-6:10",
+    "art-6:13",
+    "art-6:15",
+    "art-6:16"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "art-5:32b",
+      "id": "art-5:51",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "retained",
-      "finding": "Drie leden gelezen: bedrag ineens/per tijdseenheid/per overtreding, afzonderlijk totaalplafond en redelijke verhouding tot belang/werking. Geen boetestrafmaat geïmporteerd. Nachtvoorbeeld dwingt duidelijke afbakening van de verbeuringswijze; 5:32a en samenloopverbod 5:6 gecontroleerd. Behouden.",
+      "finding": "Beide leden gelezen: dertien weken vanaf dagtekening rapport, specifieke OM-opschorting vanaf voorlegging tot herstel bevoegdheid, geen algemene herstart. RvS 2021:1232 volledig gelezen; termijn van orde en afwijzing van matiging correct weergegeven. Aanvullend rapport bewijst geen zelfstandige herstartregel; verval 5:45 en totale procedureduur onderscheiden. Behouden.",
       "resolved": true
     },
     {
-      "id": "art-5:33",
+      "id": "art-5:52",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Naam en bedrag, allebei in de boetebeschikking, gelezen. Identiteit van rechtspersoon niet met handelsnaam of holding vereenzelvigd; 5:9 en 4:86 gecontroleerd. Herkenbare verschrijving onderscheiden van verkeerde keuze overtreder, zonder algemene nietigheidsclaim. Vennootschapsvoorbeeld passend. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:53",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Alle drie leden gelezen: mogelijke boete boven €340, wettelijke afwijking, verplicht rapport/proces-verbaal en zienswijze. De uiteindelijk gematigde boete verandert de procedure niet vanzelf. Verwijzingen 5:45 en 10:3 lid 4, inzage en toezending gecontroleerd. Geen sectorale afwijking verzonnen. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-5:54",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Hele norm gelezen. Overeenkomstige toepassing op andere bestraffende sancties afhankelijk van wettelijk voorschrift; geen zelfstandige sanctiebevoegdheid uit de schakel afgeleid. Voorwaardelijk sectorvoorbeeld en checklist dekken bevoegdheid, voorbereiding en rechtsbescherming zonder een niet onderzochte concrete sanctie geldend te verklaren. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:1",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Hoofdstukken 6 en 7 en de voorwaarde van elders geopende rechtsbescherming gecontroleerd. Geen toepassing van hoofdstuk 8 of nieuw algemeen beroep tegen feitelijke handelingen uit deze bepaling afgeleid. Verschil met wettelijke gelijkstelling 6:2 en het bijzondere-handelingvoorbeeld correct. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:2",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Beide onderdelen gelezen. Schriftelijke weigering om te beslissen onderscheiden van inhoudelijke afwijzing, niet tijdig beslissen van een fictieve vergunning. Termijn, eventuele opschorting en bestaan van besluitplicht vereist. 6:12, 7:1 lid 1 f en 4:17 afzonderlijk getoetst. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:3",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Gehele voorbereidingsregel en tenzij-clausule gelezen. Rechtstreeks zelfstandig geraakt belang vereist; gewone proceslast niet automatisch voldoende. Aanvechtbaarheid onderscheiden van gebrekkigheid van de voorbereiding en latere toets bij eindbesluit. Procesvolgordevoorbeeld blijft voorwaardelijk en pretendeert geen nieuwe appellabiliteitsregel. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:4",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Drie leden gelezen: bezwaar bij besluitnemer, administratief beroep bij beroepsorgaan en beroep bij bestuursrechter. Geschrift, inhoud boven opschrift, voorafgaand bezwaar 7:1 en doorzenden 6:15 gecontroleerd. Elektronisch regime afhankelijk van ontvanger; telefoon niet als algemeen geldig bezwaar gepresenteerd. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:5",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "corrected",
-      "finding": "Hele bepaling gelezen. Zes weken vanaf verbeurte, niet de betalingsbrief of invorderingsbeschikking; verjaring loopt afzonderlijk. Aangescherpt dat de feitelijke herhaling het verbeuringsmoment bepaalt: een latere ontdekking/controle verschuift dit niet. Het voorbeeld bewaart de afzonderlijke betaaltermijnen.",
+      "finding": "Alle leden en a–d gelezen. Ondertekening, identificatie, dagtekening, besluit en gronden, afschrift zo mogelijk en noodzakelijke vertaling gedekt. Aangevuld met functionele elektronische handtekening onder 2:18 bij bestuursorganen en afzonderlijke rechterlijke digitale regeling; ontbreken natte handtekening niet automatisch gebrek. Pro forma geeft geen nieuwe indieningstermijn.",
       "resolved": true
     },
     {
-      "id": "art-5:34",
-      "source_checked": true,
-      "all_paragraphs_checked": true,
-      "disposition": "retained",
-      "finding": "Beide leden en RvS 2026:911 volledig gelezen. Onmogelijkheid onderscheiden van onwil/kosten; opheffing, opschorting en vermindering passend bij aard en duur. Geen automatische schorsing of kwijtschelding. Terugwerkende opheffing is een mogelijke uitkomst van een verzoek, geen in die uitspraak verleende opheffing. Jaar zonder verbeurte leidt niet van rechtswege tot verval. Behouden.",
-      "resolved": true
-    },
-    {
-      "id": "art-5:35",
-      "source_checked": true,
-      "all_paragraphs_checked": true,
-      "disposition": "retained",
-      "finding": "Beide leden, Stb. 2020/500 I D/II en inwerkingtreding Stb. 2021/68 gelezen. Jaar na verbeurtedag, geen optelling van zes weken; verlenging bij nog openstaand/aanhangig rechtsmiddel tegen de last. Stuiting en verlenging gescheiden. Oude invorderingsbeschikkingen afzonderlijk onder overgangsrecht. Geen foutieve verwijzing 5:35a uit de 2026-uitspraak overgenomen. Behouden.",
-      "resolved": true
-    },
-    {
-      "id": "art-5:36",
-      "source_checked": true,
-      "all_paragraphs_checked": true,
-      "disposition": "retained",
-      "finding": "Officiële vervallen plaats en overgangsnoot gelezen; Stb. 2009/264 III–IV gecontroleerd. Geen historische bevoegdheid als huidig recht gepresenteerd. Sjabloonvoorbeeld leidt tot onderzoek van de echte grondslag, niet tot stilzwijgende reconstructie van vervallen tekst. Behouden.",
-      "resolved": true
-    },
-    {
-      "id": "art-5:37",
+      "id": "art-6:6",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "corrected",
-      "finding": "Alle drie leden en volledige RvS 2018:105/2026:911 gelezen. Besluit vóór aanmaning, vier weken op verzoek, concrete bewijsbasis en bijzondere omstandigheden behandeld. Aangevuld met deskundigheid van de waarnemer en mogelijkheid van foto’s/andere bewijsdragers uit 2018:105 r.o. 9.1. Signalen blijven onderscheiden van bewezen handel; oude verjaringspassages niet toegepast.",
+      "finding": "Beide gronden en verplichte voorafgaande herstelgelegenheid gelezen. Kan blijft facultatieve consequentie na herstel; tijdigheid afzonderlijk. Materiële precisering: uitzondering voor bezwaar in 2:16 lid 1 heft lid 2 voor geheel niet aangewezen kanalen niet op. Voor behouden vroegere afdeling 2.3 verwijzing naar artikel XV Stb. 2025/445 en 2:7 toegevoegd. Geen onbeperkt digitaal indieningsrecht aangenomen.",
       "resolved": true
     },
     {
-      "id": "art-5:37a",
-      "source_checked": true,
-      "all_paragraphs_checked": true,
-      "disposition": "retained",
-      "finding": "Vier leden en alle drie onderdelen van lid 3 gelezen. Positieve invorderingsbeschikking stuit; verzoek/afwijzing/niet-tijdige beslissing kunnen verlengen; schorsing door voorzieningenrechter heeft eigen duurregel. 4:110 bevestigt aanvang volgende dag en oorspronkelijke termijn. Geen automatische stuiting door enkel verzoek of herleving na voltooide verjaring. Overgangsrecht 2020/500 II gecontroleerd. Behouden.",
-      "resolved": true
-    },
-    {
-      "id": "art-5:38",
-      "source_checked": true,
-      "all_paragraphs_checked": true,
-      "disposition": "retained",
-      "finding": "Beide leden gelezen. Alleen verval voor zover intrekking/wijziging dragende last de bestaande invordering aantast; toekomstige wijziging wist eerdere verbeurte niet automatisch uit. Nieuwe beschikking moet met gewijzigde last overeenstemmen. Terugwerkend verschoven termijn en herberekening in het fictieve voorbeeld passend. Behouden.",
-      "resolved": true
-    },
-    {
-      "id": "art-5:39",
+      "id": "art-6:7",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "corrected",
-      "finding": "Alle vier leden en procesverloop/r.o. 12 van 2026:911 gelezen. Betwiste invordering, verwijzingsbevoegdheid, afschrift zo mogelijk en voorlopige voorziening volledig. Verduidelijkt dat zonder procedure tegen de last de gewone rechtsmiddelen tegen invordering openblijven; 6:7/7:1/8:1 gecontroleerd. Nog openstaand rechtsmiddel tegen de last onderscheiden van het heropenen van een onaantastbare last.",
+      "finding": "Hele zeswekenregel en actuele ATW gelezen; duur, aanvang en indiening gescheiden, kalenderweken en einddagverlenging juist. Volledige CRvB 2021:1500 en CBB 2024:31 gelezen. Aangevuld dat derdebelanghebbenden de eerdere ontvankelijkverklaring wel kunnen bestrijden: afschaffing ambtshalve toets eerdere fase beschermt niet tegen ieder partijbetoog.",
       "resolved": true
     },
     {
-      "id": "art-5:40",
+      "id": "art-6:8",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "retained",
-      "finding": "Beide leden gelezen. Bestraffend karakter en onvoorwaardelijke geldplicht samen vereist; verbeurde dwangsom niet daardoor achteraf boete. Definitie geen boetebevoegdheid. Uitsluiting intrekking/wijziging financiële aanspraak niet verward met vrijstelling van algemene rechtswaarborgen. Subsidie/boetevoorbeeld verlangt twee afzonderlijke grondslagen. Behouden.",
+      "finding": "Alle vier leden gelezen. Dag na juiste bekendmaking, bijzondere bezwaartermijn na ongebruikte beperkte administratieve beroepstermijn, goedkeuringsbesluit en terinzagelegging bij afdeling 3.4 afzonderlijk behandeld. 3:41 en 3:44 gecontroleerd. Verzend- versus inzagevoorbeeld kiest het passende lid; geen gelijkstelling dagtekening en bekendmaking. Behouden.",
       "resolved": true
     },
     {
-      "id": "art-5:41",
+      "id": "art-6:9",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "retained",
-      "finding": "Hele norm en RvS 2022:1973 r.o. 7.2/8 gelezen. Bewijs overtreding onderscheiden van verwijtbaarheid; geen opzet is niet vanzelf geen enkel verwijt. Afwezigheid sluit boete uit, vermindering raakt hoogte. Sectorale bewijsuitwerking uit Wav-zaak niet als universele percentages gepresenteerd. Stageprogramma’s zonder feitelijk toezicht waren geen aanvaarde uitsluitingsgrond. Behouden.",
+      "finding": "Beide leden gelezen; ontvangsthoofdregel en cumulatieve tijdige terpostbezorging/ontvangst uiterlijk binnen week behouden. Volledige RvS 2020:1682 gelezen: ACM-geregistreerde vervoerder en bewijsvermoeden bij ontbrekend/onleesbaar stempel juist. Geen extra digitale week, actuele vervoerdersregistratie of onmogelijke novemberdatum uit de bron overgenomen. Behouden.",
       "resolved": true
     },
     {
-      "id": "art-5:42",
+      "id": "art-6:10",
+      "source_checked": true,
+      "all_paragraphs_checked": true,
+      "disposition": "retained",
+      "finding": "Beide leden met a/b gelezen. Bestaand maar nog niet bekendgemaakt besluit onderscheiden van redelijke indruk dat reeds beslist was. Geen algemene ontvankelijkheid wegens verwachte afwijzing. Aanhouden tot termijnbegin, overige ontvankelijkheidseisen en grens met zienswijze/stilzitten behandeld. Voorbeeld berust op werkelijk bestaand besluit. Behouden.",
+      "resolved": true
+    },
+    {
+      "id": "art-6:11",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "corrected",
-      "finding": "Beide leden gelezen: overleden vóór oplegging, verval van nog niet onherroepelijke boete en onbetaalde deel van definitieve boete correct onderscheiden. Geen discretionaire kwijtschelding. Toegevoegd dat wijzigingsdatum 1 juli 2025 enkel spelling voorzover/voor zover betreft; Stb. 2025/124 I A en 155 rechtstreeks gelezen. Geen nieuwe materiële overlijdensregel uit metadata afgeleid.",
+      "finding": "Gehele norm en volledige CBB 2024:31/2026:406 gelezen. Individueel kader, geringe verwijtbaarheid, bewijsregie, spoedig handelen en specifieke zeswekenlijn juist. Geen algemene coulance of automatische termijn na herstel. Aangevuld met r.o. 5.2: niet-professionele hulpverlener eveneens in beginsel risico indiener, maar gewone contextuele maatstaf bij bijzondere omstandigheden. Historische digitale zaak vervangt actuele regels niet.",
       "resolved": true
     },
     {
-      "id": "art-5:43",
+      "id": "art-6:12",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "corrected",
-      "finding": "Hele norm en exacte verwijzing naar 5:50 lid 2 a gelezen. Eerste boete hoeft niet onherroepelijk te zijn; dezelfde overtreder/overtreding, latere zelfstandige gedragingen en verschil met strafrechtelijke route gescheiden. Aangevuld met volledig gelezen RvS 2026:5621 r.o. 6.1–6.2: niet melden en tewerkstellen zonder vereist loon waren onderscheiden gedragingen. Geen algemene uitzondering voor een andere normnaam geconstrueerd.",
+      "finding": "Alle vier leden en beide onderdelen lid 2 gelezen. Geen gewone indieningstermijn, wel verstreken besluit-/bekendmakingstermijn, schriftelijke ingebrekestelling en twee weken, plus grens onredelijk laat. Tekst aangescherpt: lid 3 formuleert de uitzondering specifiek voor niet tijdig nemen van een besluit; beide vormen uit lid 1 niet ongelezen vereenzelvigd. Dwangsom en vergunning van rechtswege afzonderlijk.",
       "resolved": true
     },
     {
-      "id": "art-5:44",
+      "id": "art-6:13",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "retained",
-      "finding": "Drie leden met beide onderdelen lid 3 gelezen. Strafvervolging én begonnen terechtzitting of strafbeschikking blokkeren; onderzoek/contact alleen niet. Voorlegging tenzij wettelijke/OM-afspraak; bericht van afzien of dertien weken zonder reactie gecontroleerd. Geen automatische vrijstelling van overige boetevoorwaarden; 5:51 lid 2 opschorting afzonderlijk. Behouden.",
+      "finding": "Hele norm en volledige RvS 2021:786 gelezen. Verwijtbare gemiste voorfase tegenover Aarhus/omgevingsrechtelijke openbare voorbereiding; ook onderdelentrechter betrokken. Geen opheffing alle bezwaarplichten, automatische toegang niet-belanghebbenden of inhoudelijk gelijk uit ontvankelijkheid. Huidige tekst officieel ongewijzigd; historische sectorwetten niet als huidige opsomming gebruikt. Behouden.",
       "resolved": true
     },
     {
-      "id": "art-5:45",
-      "source_checked": true,
-      "all_paragraphs_checked": true,
-      "disposition": "retained",
-      "finding": "Drie leden en 5:53 gelezen. Vijf versus drie jaar hangt af van toepasselijke wettelijke procedure, niet het uiteindelijk gematigde boetebedrag. Grens meer dan €340 en wettelijke afwijkingsmogelijkheid correct. Overtredingsmoment niet vervangen door ontdekking of rapport; opschorting tot onherroepelijkheid geen nieuwe termijn door stuiting. Geldschuldverjaring apart. Behouden.",
-      "resolved": true
-    },
-    {
-      "id": "art-5:46",
+      "id": "art-6:14",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "corrected",
-      "finding": "Vier leden gelezen. Maximum, individuele afstemming, vast wettelijk bedrag versus beleidsnorm en bijzondere omstandigheden onderscheiden; geen verwijtbaarheid 5:41 gaat vooraf. Historische Wav-uitspraak 2022:1973 volledig herlezen, bedragen/uitkomst juist. Sr 1 lid 2 in actuele versie en geschiedenis gecontroleerd. Nieuwe volledige uitspraak 2026:5621 r.o. 5.1–5.4 toegevoegd voor individuele toets ondanks redelijk beleid; geen huidige sectorale tariefclaim.",
+      "finding": "Beide leden gelezen: schriftelijke bevestiging en zo spoedig mogelijke kennisgeving beroep aan besluitnemer. Ontvangst niet met definitieve ontvankelijkheid verward. Aangescherpt dat uitzonderingen op elektronische bevestiging onder 2:17 lid 1 niet vanzelf zelfstandige verplichting van 6:14 schrappen; toepasselijk overgangsregime afzonderlijk. Voorbeeld en beide ontvangers correct.",
       "resolved": true
     },
     {
-      "id": "art-5:47",
+      "id": "art-6:15",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "retained",
-      "finding": "Hele bepaling en alle leden Sv 12i gelezen. Het daadwerkelijke vervolgingsbevel voor dezelfde persoon/feit veroorzaakt verval; enkele klacht of latere activiteit niet. Geen strafrechtelijke eindveroordeling vereist en geen voorbehoud van onherroepelijkheid in de Awb-norm. Terugbetalingsprocedure niet verzonnen. Sv-versie 1 juli 2026 gecontroleerd. Behouden.",
+      "finding": "Alle drie leden gelezen. Verplichte spoedige doorzending, ontvangstdatum en gelijktijdig bericht, verwisseling bezwaar/beroep en oorspronkelijke indieningstijd gedekt. Kennelijk onredelijk gebruik onderscheiden van gewone vergissing. Geen nieuwe termijn voor al te late eerste indiening; intern verkeerd digitaal kanaal afzonderlijk. Overgangsnoot 2016/288 gelezen. Behouden.",
       "resolved": true
     },
     {
-      "id": "art-5:48",
+      "id": "art-6:16",
       "source_checked": true,
       "all_paragraphs_checked": true,
       "disposition": "retained",
-      "finding": "Vier leden met a–c gelezen. Facultatief rapport versus verplichte zware procedure 5:53; dagtekening, naam, overtreding/voorschrift en zo nodig plaats/tijd constatering. Uiterste toezending bij boete versus eerder bij zienswijze 5:50 duidelijk. Proces-verbaal Sv 152 rechtstreeks gelezen; niet elk lokaal gelijknamig stuk kwalificeert. Geen onaantastbaar bewijs aan rapport toegedicht. Behouden.",
-      "resolved": true
-    },
-    {
-      "id": "art-5:49",
-      "source_checked": true,
-      "all_paragraphs_checked": true,
-      "disposition": "retained",
-      "finding": "Beide leden gelezen. Desgevraagde inzage en zelf vervaardigen afschriften ook bij voornemen; gegevensbasis ruimer dan het rapport, geen algemeen recht op alle bestuursinformatie. Begrijpelijke taal naar redelijke verdedigingsbehoefte en zoveel mogelijk zorg onderscheiden van integraal vertaalrecht. Meetvoorbeeld verlangt inzage in werkelijk relevante grondslag. Behouden.",
-      "resolved": true
-    },
-    {
-      "id": "art-5:50",
-      "source_checked": true,
-      "all_paragraphs_checked": true,
-      "disposition": "retained",
-      "finding": "Twee leden met alle vier letteronderdelen gelezen. Voorwaardelijke regeling bij geboden zienswijze onderscheiden van verplichte mogelijkheid onder 5:53 lid 3. Rapport bij uitnodiging, functionele tolkbehoefte, afzonderlijk 5:10a en schriftelijke vervolgmelding gecontroleerd. Afzien onder a heeft 5:43-gevolg; alsnog OM onder b niet daarmee gelijkgesteld. Voorbeeld vereist heldere schriftelijke keuze. Behouden.",
+      "finding": "Gehele hoofdregel en wettelijke uitzondering gelezen. Geen automatische schorsing door bezwaar/beroep of verzoek om voorziening; inwerkingtreding 3:40 en spoed/connexiteit 8:81 onderscheiden. Betalingsuitstel heeft eigen grondslag 4:94. Fictieve last en afsluitende werkcontrole blijven binnen deze twintig artikelen. Behouden.",
       "resolved": true
     }
   ],
   "limitations": [
-    "Alleen de twintig exact genoemde eenheden zijn in deze zelfstandige tweede beoordeling gelezen; dit is geen gehele boekreview.",
-    "308 eenheden buiten deze opdracht wachten op auteurswerk en tweede beoordeling.",
-    "Vier volledige primaire uitspraken gelezen; selectief onderzoek, geen uitputtende controle van vervolgzaken of actuele sectorale boeteregels.",
-    "De nieuwe uitspraak 2026:5621 ontbreekt op het overeenkomstige lokale corpuspad; officiële volledige tekst beschikbaar.",
-    "De historische Wav-percentages en het oude omgevingsrecht blijven expliciet contextgebonden. De bronfouten in 2026:911 zijn niet tot wettelijke regels verheven.",
-    "Technische tekstovereenstemming, lengte- en herhalingscontroles bewijzen geen juridische kwaliteit. Geen externe professionele goedkeuring."
+    "Precies de twintig genoemde eenheden zijn inhoudelijk beoordeeld; geen review van het gehele boek. De eerdere 280 commentaren zijn behouden.",
+    "288 eenheden buiten deze opdracht missen nog commentaar; volledige bouw en strikte eindvalidatie blijven daarom geblokkeerd.",
+    "Zes volledige officiële uitspraken selectief herlezen; geen uitputtend onderzoek van alle latere behandeling, sectorale afwijkingen of actuele registratie van postvervoerders.",
+    "Lokale CBB 2024:31 mist voorwerk vóór Procesverloop; de volledige officiële versie is gelezen en het resterende lokale body komt overeen.",
+    "Geen volledige kalender van krachtens ATW artikel 3 lid 3 gelijkgestelde dagen; geen concrete einddagberekening gepubliceerd. Digitale toepasselijkheid vergt per zaak overgangs- en sectorcontrole.",
+    "Historische sanctie-, Wmo-, TVL-, woning- en planregels in de uitspraken zijn context, geen actuele sectorale normstelling.",
+    "Bronovereenstemming, minimumlengte en herhalingscontrole bewijzen geen juridische kwaliteit. Dit is geen externe professionele goedkeuring."
   ],
   "whole_book_complete": false,
   "evidence": {
-    "source_preflight": "sources/review-014/preflight-result.json",
-    "assigned_source_records": "sources/review-014/assigned-source-records.json",
-    "official_http": "sources/review-014/verification.json",
-    "additional_http": "sources/review-014/additional-verification.json",
-    "new_authority_http": "sources/review-014/authority-additional-verification.json",
-    "historical_comparison": "sources/review-014/historical-comparison.json",
-    "external_version": "sources/review-014/external-version-check.json",
-    "transitional_records": "sources/review-014/transitional-records.json",
-    "internal_crossrefs": "sources/review-014/internal-crossrefs.json",
-    "authorities": "sources/review-014/authority-review.json",
-    "search_log": "sources/review-014/case-search-log.json",
+    "source_preflight": "sources/review-015/preflight-result.json",
+    "assigned_source_records": "sources/review-015/assigned-source-records.json",
+    "official_http": "sources/review-015/verification.json",
+    "additional_http": "sources/review-015/additional-verification.json",
+    "historical_comparison": "sources/review-015/historical-comparison.json",
+    "external_version": "sources/review-015/external-version-check.json",
+    "transitional_records": "sources/review-015/transitional-records.json",
+    "internal_crossrefs": "sources/review-015/internal-crossrefs.json",
+    "authorities": "sources/review-015/authority-review.json",
+    "search_log": "sources/review-015/case-search-log.json",
     "technical": "review-technical.json",
-    "prior_review": "sources/review-014/prior-review-result.json"
+    "prior_review": "sources/review-015/prior-review-result.json"
   }
 }

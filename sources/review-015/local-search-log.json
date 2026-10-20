@@ -1,0 +1,130 @@
+{
+  "checked_at": "2026-10-20T17:23:54.051040+00:00",
+  "method": "Targeted ECLI lookup and whitespace comparison to the full official body, plus exploratory rg discovery. Identical local text was not treated as a separate judicial authority.",
+  "cases": [
+    {
+      "ecli": "ECLI:NL:RVS:2021:1232",
+      "court": "Raad van State",
+      "date": "2021-06-09",
+      "docket": "202002852/1/A3",
+      "paragraphs": "6",
+      "supported_units": [
+        "art-5:51"
+      ],
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2021:1232",
+      "official_xml": "sources/review-015/ECLI-NL-RVS-2021-1232.xml",
+      "sha256": "b45cf38963a3f3362b221291b8471202f257b5d487ca1ae96cb57a3ffa14bcfa",
+      "full_text_read": true,
+      "read_scope": "Full official judgment, including available annex, tables and disposition; cited reasoning checked against commentary.",
+      "unchanged_from_author_snapshot": true,
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2021-1232.md",
+      "local_found": true,
+      "local_sha256": "8803f886716c0ade51c3561a4fc6df1ee4233d388d5cd5f4930b8170cf477619",
+      "full_official_body_in_local": true
+    },
+    {
+      "ecli": "ECLI:NL:CRVB:2021:1500",
+      "court": "Centrale Raad van Beroep",
+      "date": "2021-07-09",
+      "docket": "20/754 WMO15",
+      "paragraphs": "4.1–4.7",
+      "supported_units": [
+        "art-6:7"
+      ],
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CRVB:2021:1500",
+      "official_xml": "sources/review-015/ECLI-NL-CRVB-2021-1500.xml",
+      "sha256": "87cc3ec490e54cc7220ff1540b418d8dae370d74ccb6be675fb7e4b243eb733e",
+      "full_text_read": true,
+      "read_scope": "Full official judgment, including available annex, tables and disposition; cited reasoning checked against commentary.",
+      "unchanged_from_author_snapshot": true,
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/crvb/ecli-nl-crvb-2021-1500.md",
+      "local_found": true,
+      "local_sha256": "238645372cddc55daaec375570b83823a5c3ab2f83242709ee13cdfc3e08ab75",
+      "full_official_body_in_local": true
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2020:1682",
+      "court": "Raad van State",
+      "date": "2020-07-15",
+      "docket": "201904417/1/A3",
+      "paragraphs": "4.1–4.3",
+      "supported_units": [
+        "art-6:9"
+      ],
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2020:1682",
+      "official_xml": "sources/review-015/ECLI-NL-RVS-2020-1682.xml",
+      "sha256": "835b91497961888c0f04367b67d08eb8f1ca82fbef13e58ff2b0a835ef042f7c",
+      "full_text_read": true,
+      "read_scope": "Full official judgment, including available annex, tables and disposition; cited reasoning checked against commentary.",
+      "unchanged_from_author_snapshot": true,
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2020-1682.md",
+      "local_found": true,
+      "local_sha256": "41686e88e9a500b64e891bee13b2329331be1e7e646cff12b002b8ed5ab8ce0c",
+      "full_official_body_in_local": true
+    },
+    {
+      "ecli": "ECLI:NL:CBB:2024:31",
+      "court": "College van Beroep voor het bedrijfsleven",
+      "date": "2024-01-30",
+      "docket": "22/1049",
+      "paragraphs": "2.2–3.5; 4.1–5.2; 6–7.3; 8–12",
+      "supported_units": [
+        "art-6:11",
+        "art-6:7"
+      ],
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CBB:2024:31",
+      "official_xml": "sources/review-015/ECLI-NL-CBB-2024-31.xml",
+      "sha256": "14c4220b00829f5103bd46e334a515fcbf8224524049b0c1eb275fd880e7ba2d",
+      "full_text_read": true,
+      "read_scope": "Full official judgment, including available annex, tables and disposition; cited reasoning checked against commentary.",
+      "unchanged_from_author_snapshot": true,
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/cbb/ecli-nl-cbb-2024-31.md",
+      "local_found": true,
+      "local_sha256": "442d56368b2f0d230b1f1b598eb6d80e9a5edae9d3be00efa817b00f3f0db5d6",
+      "full_official_body_in_local": false,
+      "official_body_from_Procesverloop_in_local": true,
+      "limitation": "Local corpus omits official front matter. Full official front matter independently read; all reasoning and disposition match after whitespace normalization."
+    },
+    {
+      "ecli": "ECLI:NL:CBB:2026:406",
+      "court": "College van Beroep voor het bedrijfsleven",
+      "date": "2026-09-01",
+      "docket": "24/931",
+      "paragraphs": "3–6",
+      "supported_units": [
+        "art-6:11"
+      ],
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:CBB:2026:406",
+      "official_xml": "sources/review-015/ECLI-NL-CBB-2026-406.xml",
+      "sha256": "765e63015941892d134ad099260e408c627b028473d2061a62afb215136fede2",
+      "full_text_read": true,
+      "read_scope": "Full official judgment, including available annex, tables and disposition; cited reasoning checked against commentary.",
+      "unchanged_from_author_snapshot": true,
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/cbb/ecli-nl-cbb-2026-406.md",
+      "local_found": true,
+      "local_sha256": "f0d759688278865ac1b8748b5f790b57c146d04021addd64eec707ebccecf835",
+      "full_official_body_in_local": true
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2021:786",
+      "court": "Raad van State",
+      "date": "2021-04-14",
+      "docket": "201908374/1/R3",
+      "paragraphs": "4.3–4.11; context 5.1–5.2, 8.4 en 12–15",
+      "supported_units": [
+        "art-6:13"
+      ],
+      "official_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RVS:2021:786",
+      "official_xml": "sources/review-015/ECLI-NL-RVS-2021-786.xml",
+      "sha256": "aa90d6c8385de18e6cad589577bfb242a0706f4aacd44e0409ab70bc70b29c39",
+      "full_text_read": true,
+      "read_scope": "Full official judgment, including available annex, tables and disposition; cited reasoning checked against commentary.",
+      "unchanged_from_author_snapshot": true,
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2021-786.md",
+      "local_found": true,
+      "local_sha256": "3d9c9348697194f05a936e65e40acd54f3bdc3a34c8367dcb6ea4e7e27136113",
+      "full_official_body_in_local": true
+    }
+  ],
+  "discovery_evidence": "sources/review-015/local-matches.txt"
+}

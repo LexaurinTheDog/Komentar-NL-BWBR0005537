@@ -1,0 +1,2416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/schema/op-xsd-2012-2">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2016-288/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Wet 13 juli 2016 tot wijziging van het Wetboek van Burgerlijke Rechtsvordering en de Algemene wet bestuursrecht in verband met vereenvoudiging en digitalisering van het procesrecht</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+          <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is om het Wetboek van Burgerlijke Rechtsvordering en de Algemene wet bestuursrecht te wijzigen in verband met vereenvoudiging en digitalisering van het procesrecht;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">I</nr>
+          </kop>
+          <wat type="wijziging">Het Wetboek van Burgerlijke Rechtsvordering wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Artikel 2 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">2</nr>
+                </kop>
+                <al>De Nederlandse rechter heeft rechtsmacht in zaken waarbij een vordering is ingesteld, indien de verweerder zijn woonplaats of gewone verblijfplaats heeft in Nederland.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 3 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">3</nr>
+                </kop>
+                <al>De Nederlandse rechter heeft rechtsmacht in zaken waarbij een verzoek is ingediend, met uitzondering van zaken als bedoeld in de artikelen 4 en 5, indien:</al>
+                <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>hetzij de verzoeker of, indien er meer verzoekers zijn, een van hen, hetzij een van de in de procesinleiding genoemde belanghebbenden in Nederland zijn woonplaats of gewone verblijfplaats heeft,</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>het verzoek betrekking heeft op een geding waarbij tevens een vordering is of wordt ingesteld ten aanzien waarvan de Nederlandse rechter rechtsmacht heeft, of</al>
+                  </li>
+                  <li>
+                    <li.nr>c.</li.nr>
+                    <al>de zaak anderszins voldoende met de rechtssfeer van Nederland verbonden is.</al>
+                  </li>
+                </lijst>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>In artikel 6, onderdeel a, wordt «eis» vervangen door: vordering.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>Artikel 7 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">7</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Indien in zaken waarbij een vordering is ingesteld de Nederlandse rechter ten aanzien van een van de verweerders rechtsmacht heeft, komt hem deze ook toe ten aanzien van in hetzelfde geding betrokken andere verweerders, mits tussen de vorderingen tegen de onderscheiden verweerders een zodanige samenhang bestaat, dat redenen van doelmatigheid een gezamenlijke behandeling rechtvaardigen.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Indien in zaken waarbij een vordering is ingesteld de Nederlandse rechter rechtsmacht heeft, komt hem deze ook toe ten aanzien van een verzoek, tegenvordering of tegenverzoek en ten aanzien van een vordering tot vrijwaring, voeging of tussenkomst, tenzij onvoldoende samenhang bestaat met de oorspronkelijke vordering.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>Artikel 9 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In onderdeel a wordt «gedaagde» vervangen door: verweerder.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In onderdeel c wordt «die bij dagvaarding moet worden ingeleid» vervangen door: waarbij uitsluitend een vordering is ingesteld.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">F</lidnr>
+            <wat>Artikel 11 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">11</nr>
+                </kop>
+                <al>Het verweer dat de Nederlandse rechter geen rechtsmacht heeft, wordt in zaken waarbij een vordering is ingesteld gevoerd vóór alle weren ten gronde, op straffe van verval van het recht daartoe.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">G</lidnr>
+            <wat>In artikel 12 komt de laatste volzin te luiden: Indien het een zaak betreft waarbij een vordering is ingesteld, is artikel 11 van overeenkomstige toepassing.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">H</lidnr>
+            <wat>In het opschrift van de derde afdeling van de eerste titel van het Eerste Boek wordt «voorschriften» vervangen door: beginselen.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">I</lidnr>
+            <wat>Artikel 19 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Voor de tekst wordt de aanduiding «1.» geplaatst.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Er wordt een tweede lid toegevoegd dat luidt:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>De rechter neemt ambtshalve of op verlangen van een van de partijen alle beslissingen die nodig zijn voor een goed verloop van de procedure.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">J</lidnr>
+            <wat>Artikel 22 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">22</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>De rechter kan in alle gevallen en in elke stand van de procedure partijen of een van hen bevelen bepaalde stellingen toe te lichten of bepaalde, op de zaak betrekking hebbende bescheiden over te leggen.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Partijen kunnen dit, indien daarvoor gewichtige redenen zijn, weigeren of de rechter mededelen dat uitsluitend hij kennis zal mogen nemen van de toelichting onderscheidenlijk de bescheiden.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>De rechter beslist of de in het tweede lid bedoelde weigering onderscheidenlijk de beperking van de kennisneming gerechtvaardigd is.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>Indien de rechter beslist dat de weigering onderscheidenlijk de beperking niet gerechtvaardigd is, kan hij daaruit de gevolgtrekking maken die hij geraden acht.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>Indien de rechter heeft beslist dat de weigering gerechtvaardigd is, vervalt de verplichting.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">6.</lidnr>
+                  <al>Indien de rechter heeft beslist dat de beperking van de kennisneming gerechtvaardigd is, kan hij slechts met toestemming van de andere partijen mede op de grondslag van die toelichting onderscheidenlijk die bescheiden uitspraak doen. Indien de toestemming wordt geweigerd, wordt de zaak verwezen naar een andere kamer.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Ja</lidnr>
+            <wat>Na artikel 22 worden twee artikelen ingevoegd, die luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">22a</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>De rechter kan, indien de vrees bestaat dat kennisneming van stukken door een partij haar lichamelijke of geestelijke gezondheid zou schaden, bepalen dat deze kennisneming is voorbehouden aan een gemachtigde die advocaat of arts is dan wel daarvoor van de rechter bijzondere toestemming heeft gekregen.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>De rechter kan, indien kennisneming van stukken door een partij de persoonlijke levenssfeer van een ander onevenredig zou schaden, bepalen dat deze kennisneming is voorbehouden aan een gemachtigde die advocaat of arts is dan wel daarvoor van de rechter bijzondere toestemming heeft gekregen.</al>
+                </lid>
+              </artikel>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">22b</nr>
+                </kop>
+                <al>De rechter kan door partijen verschafte gegevens en bescheiden buiten beschouwing laten indien zij op zijn verzoek niet aangeven ter toelichting of staving van welke stelling de gegevens of bescheiden zijn bedoeld en welk onderdeel daartoe van belang is.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">K</lidnr>
+            <wat>In artikel 27, eerste en tweede lid, wordt «terechtzitting» vervangen door: zitting.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">L</lidnr>
+            <wat>Artikel 28 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Artikel 28 wordt, onder vernummering van artikel 29 tot artikel 28, vernummerd tot artikel 29.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Het derde lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Onder vonnissen, arresten en beschikkingen zijn begrepen stukken die bij de uitspraak zijn gevoegd. Van andere tot een procesdossier behorende stukken wordt geen afschrift of uittreksel aan derden verstrekt.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In het vijfde lid wordt «die wordt vastgesteld» vervangen door: dat wordt vastgesteld.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">M</lidnr>
+            <wat>In artikel 28, eerste lid, onder a (nieuw), wordt «terechtzitting» telkens vervangen door: zitting.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">N</lidnr>
+            <wat>Na artikel 30 wordt een nieuwe afdeling ingevoegd, die luidt:</wat>
+            <wijziging>
+              <wijzig-divisie soort="afdeling" opmaak="default">
+                <kop kopopmaak="vet">
+                  <label>Derde afdeling</label>
+                  <nr status="officieel">A.</nr>
+                  <titel>Algemene voorschriften voor procedures</titel>
+                </kop>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">30a</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>De eiser of verzoeker stelt zijn vordering in of dient zijn verzoek in door middel van een procesinleiding.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>De procedures waarin een vordering wordt ingesteld, worden in dit wetboek aangeduid als vorderingsprocedures. De procedures waarin een verzoek wordt ingediend, worden in dit wetboek aangeduid als verzoekprocedures.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>De procesinleiding vermeldt ten minste:</al>
+                    <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>de naam en in geval van een natuurlijke persoon tevens de voornamen van de eiser of verzoeker, de door eiser gekozen woonplaats in Nederland, respectievelijk de woonplaats of, bij gebreke daarvan, het werkelijk verblijf van de verzoeker,</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>de naam en woonplaats van de verweerder bij de vordering, dan wel de bij de verzoeker bekende namen en woonplaats van belanghebbenden,</al>
+                      </li>
+                      <li>
+                        <li.nr>c.</li.nr>
+                        <al>de dag waarop in de vorderingsprocedure de verweerder ten laatste als verweerder kan verschijnen, welke dag ligt ten minste vier weken en uiterlijk zes maanden na de dag van indiening van de procesinleiding bij de rechter, dan wel in geval van toepassing van artikel 113, ten minste twee weken en uiterlijk zes maanden na de dag van betekening van de procesinleiding bij de verweerder,</al>
+                      </li>
+                      <li>
+                        <li.nr>d.</li.nr>
+                        <al>de vordering of het verzoek en de gronden waarop het berust,</al>
+                      </li>
+                      <li>
+                        <li.nr>e.</li.nr>
+                        <al>de naam en het kantooradres van de gemachtigde of de advocaat, indien die door de eiser of verzoeker wordt aangewezen,</al>
+                      </li>
+                      <li>
+                        <li.nr>f.</li.nr>
+                        <al>de door de verweerder tegen de vordering of de door de belanghebbende tegen het verzoek aangevoerde verweren en de gronden daarvoor,</al>
+                      </li>
+                      <li>
+                        <li.nr>g.</li.nr>
+                        <al>de bewijsmiddelen waarover de eiser of verzoeker kan beschikken tot staving van de betwiste gronden van zijn vordering of verzoek, en de getuigen die hij daartoe kan doen horen, alsmede</al>
+                      </li>
+                      <li>
+                        <li.nr>h.</li.nr>
+                        <al>de aanwijzing van de bevoegde rechter die van de zaak kennisneemt.</al>
+                      </li>
+                    </lijst>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4.</lidnr>
+                    <al>De procesinleiding wordt ondertekend. In zaken waarin partijen in persoon kunnen procederen, geschiedt ondertekening door de eiser of verzoeker of door zijn gemachtigde. In zaken waarin partijen niet in persoon kunnen procederen, geschiedt ondertekening door de advocaat.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">30b</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Het instellen van een vordering en het indienen van een verzoek kunnen worden gecombineerd in één procesinleiding, mits tussen de vordering en het verzoek voldoende samenhang bestaat en de Nederlandse rechter bevoegd is van beide kennis te nemen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>In geval van toepassing van het eerste lid zijn de bepalingen van de vorderingsprocedure van toepassing, tenzij de aard van de bepalingen zich daartegen verzet of tenzij de wet of de rechter met het oog op een goede procesorde, anders bepaalt.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Het vorige lid is niet van toepassing op de gevolgen van het niet tijdig betalen van griffierechten en op het instellen van hoger beroep en cassatie.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4.</lidnr>
+                    <al>De rechter splitst een zaak in twee of meer zaken indien een vordering en een verzoek zich naar zijn oordeel niet lenen voor gezamenlijke behandeling. In de beslissing tot splitsing vermeldt de rechter, voor zover van toepassing, het bijkomende griffierecht dat ingevolge artikel 8 van de Wet griffierechten burgerlijke zaken van partijen wordt geheven en binnen welke termijn dit griffierecht of dit verhoogde griffierecht betaald dient te worden. De gesplitste zaken worden voortgezet in de stand waarin zij zich bevinden op het moment van de splitsing.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">30c</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>De eiser of verzoeker dient de procesinleiding langs elektronische weg in bij de rechter. Partijen dienen gedurende de procedure ook overige stukken langs elektronische weg in, tenzij de rechter anders bepaalt. Anderen dan partijen, die bij de procedure worden betrokken, dienen stukken langs elektronische weg in, tenzij de wet of de rechter anders bepaalt.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Waar dit wetboek voorschrijft dat handelingen schriftelijk geschieden, wordt hieraan langs elektronische weg voldaan, tenzij dit wetboek of de rechter anders bepaalt.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Onder een elektronische handtekening wordt verstaan een handtekening die bestaat uit elektronische gegevens die gehecht zijn aan of logisch verbonden zijn met andere elektronische gegevens en die worden gebruikt door de ondertekenaar om te ondertekenen. Waar in dit wetboek ondertekening is voorgeschreven, is aan dit vereiste voldaan indien het stuk is ondertekend met een elektronische handtekening die voldoet aan bij of krachtens algemene maatregel van bestuur te stellen eisen. Een stuk dat langs elektronische weg is ingediend in het digitale systeem voor gegevensverwerking van de gerechten geldt als ondertekend. Dit lid is niet van toepassing op akten als bedoeld in artikel 156 en op de ondertekening van documenten in een arbitrageprocedure ingevolge het Vierde Boek.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4.</lidnr>
+                    <al>De verplichting tot indiening van stukken langs elektronische weg, als bedoeld in het eerste en het tweede lid geldt niet voor natuurlijke personen en voor verenigingen waarvan de statuten niet zijn opgenomen in een notariële akte, tenzij zij worden vertegenwoordigd door een derde die beroepsmatig rechtsbijstand verleent. Bij algemene maatregel van bestuur kunnen andere uitzonderingen op de verplichting tot stukkenwisseling langs elektronische weg als bedoeld in het eerste en het tweede lid worden gemaakt.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">5.</lidnr>
+                    <al>De partij die niet verplicht is tot en geen gebruik maakt van stukkenwisseling langs elektronische weg, dient de stukken als bedoeld in het eerste lid in op papier en verricht de handelingen als bedoeld in het tweede lid op papier. De griffier stelt stukken en mededelingen op papier, of indien deze partij dit wenst langs elektronische weg, aan hem ter beschikking en stelt de door deze partij ingediende stukken ter beschikking van de overige partijen, met uitzondering van het oproepingsbericht in een vorderingsprocedure.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">6.</lidnr>
+                    <al>Indien niet is voldaan aan de verplichtingen die voortvloeien uit de wet of de algemene maatregel van bestuur als bedoeld in artikel 30f, stelt de rechter de desbetreffende partij in de gelegenheid dit verzuim te herstellen binnen een door hem te bepalen termijn. Maakt de eiser of verzoeker van deze gelegenheid geen gebruik, dan kan hij in de vordering of het verzoek niet ontvankelijk worden verklaard dan wel kan de rechter het stuk buiten beschouwing laten.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">7.</lidnr>
+                    <al>In afwijking van het voorgaande lid kan de rechter bepalen dat de procedure wordt voortgezet volgens de regels die gelden voor stukkenwisseling op papier.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">8.</lidnr>
+                    <al>Niet-ontvankelijkverklaring wegens het ten onrechte indienen van een procesinleiding op papier of het buiten beschouwing laten van een stuk omdat het ten onrechte op papier of na afloop van een termijn is ingediend, blijft achterwege indien redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">30d</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Als tijdstip waarop een bericht door de rechter langs elektronische weg is ontvangen, geldt het tijdstip waarop het bericht het digitale systeem voor gegevensverwerking van de gerechten heeft bereikt. Na elke indiening langs elektronische weg ontvangt de indiener een ontvangstbevestiging in het digitale systeem voor gegevensverwerking.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Als tijdstip waarop een bericht dat door de rechter is geplaatst in het in het eerste lid genoemde digitale systeem voor gegevensverwerking door de geadresseerde is ontvangen, geldt het tijdstip waarop de rechter de geadresseerde hierover een kennisgeving heeft verzonden buiten het digitale systeem voor gegevensverwerking.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Als tijdstip waarop een bericht dat door een partij of een andere betrokkene bij de procedure is geplaatst in het in het eerste lid genoemde digitale systeem voor gegevensverwerking door de andere partijen en betrokkenen bij de procedure is ontvangen, geldt het tijdstip waarop de rechter de betrokkenen hierover een kennisgeving heeft verzonden buiten het digitale systeem voor gegevensverwerking.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4.</lidnr>
+                    <al>Indien een partij of andere betrokkene bij de procedure afziet van digitale bereikbaarheid buiten het digitale systeem voor gegevensverwerking als bedoeld in het eerste lid, zodat de kennisgeving bedoeld in het tweede en derde lid niet kan worden gezonden, geldt als tijdstip waarop een bericht als bedoeld in deze leden door hem is ontvangen, het tijdstip waarop het bericht voor hem toegankelijk is geworden in het digitale systeem voor gegevensverwerking.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">30e</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Oproepingen door de rechter, processen-verbaal en afschriften van een vonnis of beschikking, alsmede andere berichten tussen het gerecht en partijen worden langs elektronische weg ter beschikking gesteld, tenzij artikel 30c, vijfde lid, van toepassing is.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Oproepingen die bij brief geschieden, vermelden de datum van de verzending. Deze vermelding geschiedt niet slechts op de envelop.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">30f</nr>
+                  </kop>
+                  <al>Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het elektronisch verkeer met de rechter, het digitale systeem voor gegevensverwerking en de verschoonbaarheid van termijnoverschrijdingen wegens verstoring van het digitale systeem voor gegevensverwerking van de gerechten of van de toegang tot dit systeem.</al>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">30g</nr>
+                  </kop>
+                  <al>Oproepingen van derden als partij in het geding geschieden met inachtneming van de termijnen die gelden voor de bezorging of betekening van de procesinleiding bij de belanghebbende of verweerder. Indien de oproeping niet geschiedt bij dezelfde procesinleiding waarmee de belanghebbende of verweerder in de procedure is betrokken, wordt de procesinleiding, waarmee de belanghebbende of verweerder in de procedure is betrokken, met de oproeping bij de derde bezorgd of betekend. Artikel 111, tweede lid, aanhef en onderdelen a, b, d, e, en g, artikel 128, tweede, derde en vierde lid en artikel 276 zijn van overeenkomstige toepassing.</al>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">30h</nr>
+                  </kop>
+                  <al>Indien de behandeling van een zaak wordt aangehouden, blijft een hernieuwde oproeping van of mededeling aan diegenen, aan wie de dag en het uur reeds mondeling ter zitting waren medegedeeld, achterwege.</al>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">30i</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Iedere verweerder in een vorderingsprocedure en iedere belanghebbende in een verzoekprocedure kan binnen de daarvoor geldende termijn zijn met redenen omkleed verweer schriftelijk bij de rechter indienen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>In zaken waarin partijen in persoon kunnen procederen, kan verweer ook mondeling bij de rechter worden gevoerd en kunnen conclusies en akten ook mondeling ter zitting worden genomen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Indien een partij tijdens een zitting mondeling verweer als bedoeld in het vorige lid heeft gevoerd zonder dat de wederpartij of haar gemachtigde daarbij aanwezig was, zendt de griffier een weergave van de zakelijke inhoud ervan aan de wederpartij of aan haar gemachtigde, tenzij de rechter toezending niet noodzakelijk acht.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4.</lidnr>
+                    <al>De verweerder brengt alle excepties en zijn verweer ten principale tegelijk naar voren, op straffe van verval van niet aangevoerde excepties en, indien niet ten principale verweer is gevoerd, van het recht om dat alsnog te doen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">5.</lidnr>
+                    <al>In afwijking van het vierde lid kunnen zij die beroep willen doen op de termijn van artikel 104 van Boek 1 of van artikel 185 van Boek 4 van het Burgerlijk Wetboek, hun verweer tot dit beroep beperken.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">6.</lidnr>
+                    <al>Het verweerschrift vermeldt de bewijsmiddelen waarover verweerder of belanghebbende kan beschikken tot staving van de gronden van zijn verweer, en de getuigen die hij daartoe kan doen horen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">7.</lidnr>
+                    <al>Het verweerschrift wordt ondertekend. In zaken waarin partijen in persoon kunnen procederen, geschiedt ondertekening door de eiser of verzoeker of door zijn gemachtigde. In zaken waarin partijen niet in persoon kunnen procederen, geschiedt ondertekening door de advocaat.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">8.</lidnr>
+                    <al>Het verweerschrift mag een tegenvordering of tegenverzoek bevatten, tenzij de oorspronkelijke eiser of verzoeker is opgetreden in hoedanigheid en de tegenvordering of het tegenverzoek hem persoonlijk zou betreffen of omgekeerd. Artikel 30a, derde lid, onder f en g, is van overeenkomstige toepassing.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">9.</lidnr>
+                    <al>De eiser of verzoeker en overige verweerders of belanghebbenden kunnen tegen een tegenvordering of tegenverzoek een verweerschrift indienen indien zij elkaars wederpartij zijn. De termijn voor het indienen van dit verweerschrift bedraagt in vorderingsprocedures voor de kantonrechter vier weken, in andere vorderingsprocedures zes weken, tenzij de wet of de rechter anders bepaalt. In verzoekzaken is artikel 282, eerste lid, van toepassing. De zaken betreffende de vordering of het verzoek en de tegenvordering of het tegenverzoek worden tegelijk behandeld en bij vonnis of beschikking beslist, tenzij de rechter anders bepaalt.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">30j</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Zo spoedig mogelijk nadat verweerder in de procedure is verschenen als bedoeld in artikel 114, dan wel na ontvangst van de procesinleiding in een verzoekprocedure, bepaalt de rechter de dag en het uur waarop de mondelinge behandeling plaatsvindt. De termijn tussen de uitnodiging van partijen en de mondelinge behandeling is ten minste drie weken, tenzij sprake is van een behandeling in kort geding.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>In verzoekprocedures beveelt de rechter oproeping van de verzoeker en voor zover nodig van de in de procesinleiding genoemde belanghebbenden. Bovendien kan hij te allen tijde belanghebbenden, bekende of onbekende, doen oproepen. In geval van een procesinleiding waarbij zowel een vordering is ingesteld als een verzoek is ingediend, beveelt de rechter ook de oproeping van de belanghebbende die tevens verweerder bij de vordering is.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>De griffier roept de eiser of verzoeker en de verweerder of belanghebbenden, bedoeld in het tweede lid, op voor de plaats en de dag en het uur waarop de mondelinge behandeling plaatsvindt.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4.</lidnr>
+                    <al>De oproepingen van belanghebbenden gaan vergezeld van een afschrift van de procesinleiding, tenzij een oproeping op andere wijze dan bij brief of exploot geschiedt, of de rechter anders bepaalt; in deze gevallen bevat de oproeping een korte omschrijving van het verzoek.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">5.</lidnr>
+                    <al>Het eerste en tweede lid zijn niet van toepassing indien de rechter zich in een verzoekprocedure aanstonds onbevoegd verklaart, de eiser of verzoeker aanstonds niet-ontvankelijk in zijn vordering of verzoek verklaart, of het verzoek toewijst.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">6.</lidnr>
+                    <al>De rechter kan met instemming of op verlangen van partijen de mondelinge behandeling achterwege laten en uitspraak doen. In kantonzaken kan de rechter bepalen dat de mondelinge behandeling achterwege blijft indien geen van de partijen, nadat zij zijn gewezen op hun recht te worden gehoord, binnen een door hem gestelde redelijke termijn heeft verklaard dat zij gebruik wil maken van dit recht.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">30k</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Tijdens de mondelinge behandeling stelt de rechter partijen in de gelegenheid hun stellingen toe te lichten en kan de rechter:</al>
+                    <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>partijen verzoeken hem inlichtingen te geven,</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>partijen gelegenheid geven hun stellingen nader te onderbouwen,</al>
+                      </li>
+                      <li>
+                        <li.nr>c.</li.nr>
+                        <al>een schikking beproeven,</al>
+                      </li>
+                      <li>
+                        <li.nr>d.</li.nr>
+                        <al>met partijen overleggen hoe het vervolg van de procedure zal verlopen, en</al>
+                      </li>
+                      <li>
+                        <li.nr>e.</li.nr>
+                        <al>die aanwijzingen geven of die proceshandelingen bevelen die hij geraden acht,</al>
+                      </li>
+                    </lijst>
+                    <al>voor zover de rechter dit in overeenstemming acht met de eisen van een goede procesorde.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Met voorafgaande toestemming van de rechter kunnen tijdens de mondelinge behandeling getuigen en partijdeskundigen worden gehoord. De negende afdeling van de tweede titel is van overeenkomstige toepassing, onverminderd artikel 284, eerste lid.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Voor zover mogelijk bericht de griffier partijen tevoren over het doel van de mondelinge behandeling.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4.</lidnr>
+                    <al>Partijen verschijnen op de mondelinge behandeling in persoon of bij gemachtigde. In zaken waarin zij niet in persoon kunnen procederen, verschijnen zij bij advocaat. De rechter kan verschijning in persoon bevelen. Partijen die in persoon verschijnen, mogen zich laten bijstaan door hun gemachtigde. In zaken waarin partijen niet in persoon kunnen procederen, is de gemachtigde een advocaat.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">5.</lidnr>
+                    <al>Onverminderd artikel 85, dienen processtukken en andere stukken zoveel mogelijk onmiddellijk bij de indiening van de procesinleiding onderscheidenlijk het verweerschrift en tot uiterlijk tien dagen voor de mondelinge behandeling te worden ingediend, tenzij de wet een andere termijn voorschrijft. Stukken die na die termijn of ter zitting worden ingediend, worden door de rechter buiten beschouwing gelaten, tenzij artikel 30c, achtste lid, van toepassing is of de goede procesorde zich daartegen verzet.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">6.</lidnr>
+                    <al>Indien met het oog op de mondelinge behandeling een bevel als bedoeld in artikel 22 wordt gegeven, moeten de stukken uiterlijk op een door de rechter te bepalen dag vóór de datum van de mondelinge behandeling zijn ingediend en aan de wederpartij ter beschikking zijn gesteld.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">30l</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Tijdens de mondelinge behandeling ondervraagt de rechter partijen. Partijen kunnen elkaar vragen stellen, behoudens de bevoegdheid van de rechter om te beletten dat aan een bepaalde vraag gevolg wordt gegeven.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Een verklaring omtrent door haar te bewijzen feiten kan in het voordeel van de partij die haar aflegde geen bewijs opleveren. Overigens kan de rechter uit de afgelegde verklaringen, uit een niet-verschijnen op de mondelinge behandeling of uit een weigering om te antwoorden of het proces-verbaal te ondertekenen de gevolgtrekking maken die hij geraden acht, behoudens artikel 154.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">30m</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Indien een schikking tot stand komt, eindigt de procedure. Van de zitting waarop een schikking is bereikt, wordt een proces-verbaal opgemaakt, dat door de rechter en partijen of hun tot dat doel bijzonderlijk gevolmachtigden wordt ondertekend en waarin de verbintenissen die partijen ten gevolge van die schikking op zich nemen, worden neergelegd. De uitgifte van dit proces-verbaal geschiedt in executoriale vorm.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Indien geen schikking tot stand komt, bepaalt de rechter wat de volgende proceshandeling zal zijn.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">30n</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>De rechter maakt van de mondelinge behandeling proces-verbaal op:</al>
+                    <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>indien hij dit ambtshalve of op verzoek van een partij die daarbij belang heeft, bepaalt, of</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>op verzoek van de hogerberoepsrechter of de Hoge Raad.</al>
+                      </li>
+                    </lijst>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Het proces-verbaal bevat ten minste de namen van de rechter of de rechters die de zaak behandelt onderscheidenlijk behandelen, die van partijen en van hun vertegenwoordigers of gemachtigden die op de mondelinge behandeling zijn verschenen, en die van de getuigen, deskundigen en tolken die op de mondelinge behandeling zijn verschenen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Het proces-verbaal houdt een zakelijke samenvatting in van het verhandelde ter zitting.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4.</lidnr>
+                    <al>De rechter kan bepalen dat de verklaring van een partij, getuige of deskundige geheel in het proces-verbaal zal worden opgenomen. In dat geval wordt de verklaring onverwijld op schrift gesteld en aan de partij, getuige of deskundige voorgehouden. Deze mag daarin wijzigingen aanbrengen, die op schrift worden gesteld en aan de partij, getuige of deskundige worden voorgelezen. De verklaring wordt door de partij, getuige of deskundige ondertekend. Heeft ondertekening niet plaats, dan wordt de reden daarvan in het proces-verbaal vermeld.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">5.</lidnr>
+                    <al>Het proces-verbaal wordt door de rechter ondertekend. Bij verhindering van de rechter wordt dit in het proces-verbaal vermeld.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">6.</lidnr>
+                    <al>De griffier stelt het proces-verbaal ter beschikking van partijen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">7.</lidnr>
+                    <al>De rechter kan bepalen dat het proces-verbaal, bedoeld in het eerste en derde lid en in de artikelen 180, eerste lid, 198, vijfde lid, en 201, vierde lid, wordt vervangen door een door of namens hem gemaakte beeld- of geluidsopname. In dat geval kan de hogerberoepsrechter of de Hoge Raad alsnog verzoeken om een schriftelijke weergave van het proces-verbaal.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">8.</lidnr>
+                    <al>Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de toepassing van beeld- en geluidsopnamen.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">30o</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Indien dit met het oog op artikel 19 of met het oog op een goede instructie van de zaak noodzakelijk is, kan de rechter op verzoek van een partij toestaan of ambtshalve bepalen dat, in afwijking van of aanvulling op hetgeen in deze afdeling is bepaald:</al>
+                    <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>termijnen worden verlengd of verkort,</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>partijen schriftelijk reageren op elkaars standpunten,</al>
+                      </li>
+                      <li>
+                        <li.nr>c.</li.nr>
+                        <al>de mondelinge behandeling wordt aangehouden of in alle gevallen en in elke stand van het geding een mondelinge behandeling of andere zitting wordt gehouden,</al>
+                      </li>
+                      <li>
+                        <li.nr>d.</li.nr>
+                        <al>voor, tijdens of na een mondelinge behandeling stukken worden ingediend en dat partijen daarop schriftelijk reageren.</al>
+                      </li>
+                    </lijst>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>De rechter bepaalt de termijnen voor proceshandelingen als bedoeld in het eerste lid, onder b, c en d.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">30p</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>De rechter kan, indien alle partijen op de mondelinge behandeling zijn verschenen, tijdens of na de mondelinge behandeling ter zitting mondeling uitspraak doen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>In afwijking van de artikelen 230 en 287 bestaat de mondelinge uitspraak uit de beslissing en de gronden van de beslissing.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Van de mondelinge uitspraak wordt door de rechter een proces-verbaal opgemaakt.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4.</lidnr>
+                    <al>Het proces-verbaal wordt door de rechter ondertekend. Bij verhindering van de rechter wordt dit in het proces-verbaal vermeld.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">5.</lidnr>
+                    <al>De rechter stelt binnen twee weken na de mondelinge uitspraak een afschrift van het proces-verbaal ter beschikking van partijen. Het afschrift dat wordt verstrekt aan een partij die tot tenuitvoerlegging van de uitspraak kan overgaan, is in executoriale vorm opgemaakt.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">30q</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Tenzij mondeling uitspraak wordt gedaan, doet de rechter in kantonzaken binnen vier weken en in andere zaken binnen zes weken na afloop van de mondelinge behandeling schriftelijk uitspraak.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>In bijzondere omstandigheden kan de rechter de termijnen, genoemd in het eerste lid, verlengen. Bij een verlenging wordt mededeling gedaan aan partijen van de datum van de uitspraak.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Op gezamenlijk verlangen van de in het geding verschenen partijen kan de rechter de uitspraak uitstellen of achterwege laten.</al>
+                  </lid>
+                </artikel>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">O</lidnr>
+            <wat>Artikel 31 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het tweede lid wordt «op de minuut van het vonnis, het arrest of de beschikking gesteld» vervangen door: in het vonnis, het arrest of de beschikking verwerkt.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Het tweede lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Van het verbeterde vonnis of arrest of de verbeterde beschikking stelt de griffier op de dag van de uitspraak aan de in de oorspronkelijke procedure verschenen partijen een afschrift ter beschikking, zo nodig opgemaakt in executoriale vorm. Een eerder verstrekt afschrift opgemaakt in executoriale vorm verliest hierdoor zijn kracht. Was de executie reeds aangevangen, dan kan deze met inachtneming van de verbetering worden voortgezet op grond van een na de verbetering afgegeven afschrift opgemaakt in executoriale vorm.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">P</lidnr>
+            <wat>Artikel 33 vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Q</lidnr>
+            <wat>Artikel 34 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">34</nr>
+                </kop>
+                <al>Wanneer een procedure na verwijzing of toepassing van een rechtsmiddel voor een andere rechter wordt voortgezet, stelt de griffier van het gerecht waar de procedure aanhangig was afschriften van het vonnis, het arrest of de beschikking en de op de procedure betrekking hebbende stukken ambtshalve ter beschikking van de griffier van het gerecht waar de procedure wordt voortgezet.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">R</lidnr>
+            <wat>In artikel 35, tweede lid, wordt «betreffende het verloop van de procedure» vervangen door: betreffende het verloop van de procedure, de opmaak en inrichting van de door partijen in het geding te brengen stukken,.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">S</lidnr>
+            <wat>In de artikelen 37, tweede lid, 39, eerste lid, 40, tweede lid, en 42, eerst lid, wordt «terechtzitting» vervangen door: zitting.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">T</lidnr>
+            <wat>In het opschrift van de vijfde A afdeling van de eerste titel van het Eerste Boek wordt «de Commissie van de Europese Gemeenschappen» vervangen door: de Europese Commissie.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">U</lidnr>
+            <wat>Artikel 44a wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste, tweede en derde lid wordt «de Commissie van de Europese Gemeenschappen» telkens vervangen door: de Europese Commissie.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het eerste lid wordt «roldatum» vervangen door: termijn.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">V</lidnr>
+            <wat>Het opschrift van de achtste afdeling van de eerste titel van het Eerste Boek komt te luiden:</wat>
+            <wijziging>
+              <wijzig-divisie soort="afdeling" opmaak="default">
+                <kop kopopmaak="vet">
+                  <titel>Achtste afdeling. Verbeteren of aanvullen van de procesinleiding en verwijzing</titel>
+                </kop>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">W</lidnr>
+            <wat>Artikel 69 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">69</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Indien een vordering is ingesteld volgens de regels van de verzoekprocedure of een verzoek is ingediend volgens de regels van de vorderingsprocedure, deelt de rechter, zo nodig, de eiser of verzoeker mede dat deze op eigen kosten binnen een termijn van twee weken de procesinleiding dient te verbeteren of aan te vullen en dat eiser zo nodig de verweerder dient op te roepen binnen een termijn van vier weken. De procedure is aanhangig vanaf de oorspronkelijke dag van indiening van de procesinleiding.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>De rechter stelt partijen, zo nodig, in de gelegenheid hun stellingen aan de dan toepasselijke procesregels aan te passen.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Tegen een beslissing ingevolge het eerste en tweede lid staat geen hogere voorziening open.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">X</lidnr>
+            <wat>Artikel 70 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid wordt «administratieve rechter» vervangen door: bestuursrechter.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het eerste en tweede lid wordt «aanlegger» telkens vervangen door: eiser of verzoeker.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Y</lidnr>
+            <wat>Het vierde en vijfde lid van artikel 71 komen te luiden:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>In de beslissing tot verwijzing vermeldt de rechter:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <?xpp qa?>
+                    <?xpp lead;-1?>
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>op welke wijze partijen in de procedure moeten verschijnen,</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>voor zover van toepassing, het griffierecht of het verhoogde griffierecht dat ingevolge artikel 8 van de Wet griffierechten burgerlijke zaken van partijen wordt geheven en binnen welke termijn dit griffierecht of dit verhoogde griffierecht betaald dient te worden,</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>de informatie als bedoeld in artikel 111, tweede lid, onderdelen f en g, en</al>
+                    </li>
+                    <li>
+                      <li.nr>d.</li.nr>
+                      <al>de stand van het geding waarin het wordt verwezen.</al>
+                    </li>
+                  </lijst>
+                  <al>In het geval van een vorderingsprocedure vermeldt de rechter tevens de datum voor de volgende proceshandeling en beveelt de rechter, indien tegen de verweerder verstek is verleend, dat deze datum door de eiser bij exploot aan de verweerder wordt aangezegd onder betekening van de beslissing tot verwijzing.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>Tegen een verwijzing en tegen het achterwege laten van verwijzing staat geen voorziening open.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Z</lidnr>
+            <wat>In artikel 73 wordt «eerste zin» vervangen door: onder a en b.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">AA</lidnr>
+            <wat>Artikel 74 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">74</nr>
+                </kop>
+                <al>Na verwijzing wordt een procedure in de stand waarin zij zich bij de verwijzing bevindt, voortgezet voor de rechter naar wie de zaak is verwezen. Een lagere rechter is aan de verwijzing gebonden, een hogere rechter niet.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">BB</lidnr>
+            <wat>In artikel 77, tweede lid, wordt «die bij dagvaarding moet worden ingeleid» vervangen door: waarbij een vordering is ingesteld.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">CC</lidnr>
+            <wat>In het opschrift van de tweede titel van het Eerste Boek wordt «dagvaardingsprocedure» vervangen door: vorderingsprocedure.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">DD</lidnr>
+            <wat>In artikel 78 vervallen de aanduiding «1.» en het tweede lid.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">EE</lidnr>
+            <wat>Artikel 82 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">82</nr>
+                </kop>
+                <al>In zaken waarin partijen in persoon kunnen procederen, kunnen verweerschrift, conclusies en akten ook ter zitting worden genomen, dan wel door indiening ter griffie tot uiterlijk de dag voor de zitting of een andere door de rechter bepaalde datum.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">FF</lidnr>
+            <wat>Artikel 84 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste en tweede lid wordt «terechtzitting» telkens gewijzigd in: zitting.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het tweede lid wordt «zendt de griffier zo spoedig mogelijk een afschrift van deze stukken aan de wederpartij» vervangen door: stelt de griffier zo spoedig mogelijk een afschrift van deze stukken aan de wederpartij ter beschikking.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In het derde lid wordt «zendt de griffier een weergave van de zakelijke inhoud van de conclusie aan de wederpartij of aan haar gemachtigde» vervangen door: stelt de griffier een weergave van de zakelijke inhoud van de conclusie aan de wederpartij of aan haar gemachtigde ter beschikking.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">4.</nr>
+              <wat>Het vierde lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>In zaken waarin partijen niet in persoon kunnen procederen, is artikel 30k, vijfde lid van overeenkomstige toepassing.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">GG</lidnr>
+            <wat>Artikel 85 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid wordt «dagvaarding» vervangen door: procesinleiding, verweerschrift.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Het derde lid vervalt, onder vernummering van het vierde lid tot het derde lid.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In het derde lid (nieuw) wordt «van dit artikel» vervangen door «van dit artikel of van artikel 30k, vijfde lid» en wordt «dat de wederpartij geen afschrift van het stuk heeft ontvangen» vervangen door: dat de wederpartij het stuk niet heeft ontvangen.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">HH</lidnr>
+            <wat>De artikelen 87 tot en met 92 vervallen.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">II</lidnr>
+            <wat>In artikel 93, onderdeel a, wordt «de dag van dagvaarding» vervangen door: de dag waarop de zaak aanhangig is gemaakt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">JJ</lidnr>
+            <wat>Het tweede en derde lid van artikel 94 komen te luiden:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Indien een zaak meer dan één vordering of verzoek betreft en ten minste één daarvan een vordering of verzoek is als bedoeld in artikel 93 onder c of d, worden deze vorderingen en verzoeken alle door de kantonrechter behandeld en beslist, voor zover de samenhang tussen de vorderingen en verzoeken zich tegen afzonderlijke behandeling verzet.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>In het geval van een vordering of verzoek en een tegenvordering of tegenverzoek, waarbij ten minste één vordering of verzoek een vordering of verzoek betreft als bedoeld in artikel 93 onder c of d, is het tweede lid van overeenkomstige toepassing.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">KK</lidnr>
+            <wat>In artikel 95 wordt «eis» vervangen door: vordering.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">LL</lidnr>
+            <wat>Artikel 96 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Voor de tekst wordt de aanduiding «1.» geplaatst.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Er wordt een lid toegevoegd, dat luidt:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Indien slechts een van partijen zich tot de kantonrechter wendt voor toepassing van het eerste lid, wordt aan haar keuze slechts gevolg gegeven indien alle andere partijen de kantonrechter berichten dat zij instemmen met deze keuze.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">MM</lidnr>
+            <wat>Artikel 97, eerste lid, wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>«een zaak in reconventie» wordt vervangen door: een tegenvordering of tegenverzoek.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>«de zaak in conventie» wordt vervangen door: de vordering.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>«tussen de vorderingen» wordt vervangen door: tussen de vorderingen of tussen de vordering en het verzoek.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">NN</lidnr>
+            <wat>In artikel 99, eerste en tweede lid, wordt «gedaagde» telkens vervangen door: verweerder.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">OO</lidnr>
+            <wat>In artikel 107 wordt «gedaagden» telkens vervangen door: verweerders.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">PP</lidnr>
+            <wat>Artikel 109 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Voor de tekst wordt de aanduiding «2.» geplaatst.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Toegevoegd wordt een lid, dat luidt:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>In zaken waarbij zowel een vordering is ingesteld als een verzoek is ingediend, is bevoegd de rechter van de woonplaats van de verweerder bij de vordering, tenzij het verzoek niet behoort tot diens absolute bevoegdheid of tenzij de wet, met uitzondering van artikel 262, anders bepaalt. In dat geval wordt de zaak gesplitst overeenkomstig artikel 30b, vierde lid.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In het tweede lid (nieuw) wordt «de artikelen 99 tot en met 108» vervangen door «de artikelen 99 tot en met 108 en het eerste lid» en wordt «de rechter te ’s-Gravenhage» vervangen door: de rechter van de rechtbank Den Haag.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">QQ</lidnr>
+            <wat>In het artikel 110, tweede lid, komt de tweede zin te luiden: Artikel 74 is van toepassing.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">RR</lidnr>
+            <wat>In het opschrift van de vierde afdeling van de tweede titel van het Eerste Boek wordt «Dagvaarding» vervangen door: Oproeping.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">SS</lidnr>
+            <wat>De artikelen 111 tot en met 115 komen te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">111</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>De griffier stuurt de eiser een oproepingsbericht na ontvangst van de procesinleiding.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>In het oproepingsbericht neemt de griffier de inhoud en de datum van indiening van de procesinleiding op en vermeldt hij ten minste:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>in zaken waarin partijen in persoon kunnen procederen: de wijze waarop de verweerder in de procedure moet verschijnen, te weten in persoon of vertegenwoordigd door een gemachtigde en de wijze waarop en de termijn waarbinnen de verweerder zich kan verweren, zoals bepaald in de artikelen 30i, tweede lid, en 82;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>in zaken waarin partijen niet in persoon kunnen procederen: de wijze waarop de verweerder in de procedure moet verschijnen, te weten vertegenwoordigd door een advocaat;</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>de dag waarop de verweerder ten laatste zijn verweerschrift kan indienen, welke dag in kantonzaken vier weken en in andere zaken zes weken ligt na de dag waarop hij als verweerder in de procedure is verschenen als bedoeld in artikel 114;</al>
+                    </li>
+                    <li>
+                      <li.nr>d.</li.nr>
+                      <al>de in artikel 139 genoemde rechtsgevolgen die intreden indien de verweerder bij een vordering niet verschijnt in de procedure als verweerder als bedoeld in artikel 114, of, behalve in kantonzaken of zaken in kort geding, het door zijn verschijning verschuldigde griffierecht niet tijdig voldoet;</al>
+                    </li>
+                    <li>
+                      <li.nr>e.</li.nr>
+                      <al>indien er verschillende verweerders zijn, het in artikel 140, derde lid, genoemde rechtsgevolg dat intreedt indien niet alle verweerders op de voorgeschreven wijze in de procedure verschijnen;</al>
+                    </li>
+                    <li>
+                      <li.nr>f.</li.nr>
+                      <al>indien het een zaak betreft met verschillende verweerders, de mededeling dat van partijen die bij dezelfde advocaat verschijnen en gelijkluidende stukken indienen of gelijkluidend verweer voeren, op basis van artikel 15 van de Wet griffierechten burgerlijke zaken slechts eenmaal een gezamenlijk griffierecht wordt geheven;</al>
+                    </li>
+                    <li>
+                      <li.nr>g.</li.nr>
+                      <al>de mededeling of van verweerders bij verschijning in de procedure een griffierecht zal worden geheven en binnen welke termijn dit griffierecht betaald dient te worden met verwijzing naar een vindplaats van de meest recente bijlage behorende bij de Wet griffierechten burgerlijke zaken waarin de hoogte van de griffierechten staan vermeld. Hierbij wordt vermeld dat van een persoon die onvermogend is, een bij of krachtens de wet vastgesteld griffierecht wordt geheven, indien hij op het tijdstip waarop het griffierecht wordt geheven heeft overgelegd:</al>
+                      <lijst type="expliciet" nummerbreedte="3-cijferig" start="1" level="single" nr-sluiting=".">
+                        <li>
+                          <li.nr>1°.</li.nr>
+                          <al>het besluit tot toevoeging, bedoeld in artikel 29 van de Wet op de rechtsbijstand, of indien dit niet mogelijk is ten gevolge van omstandigheden die redelijkerwijs niet aan hem zijn toe te rekenen, de aanvraag als bedoeld in artikel 24, tweede lid, van de Wet op de Rechtsbijstand, dan wel</al>
+                        </li>
+                        <li>
+                          <li.nr>2°.</li.nr>
+                          <al>een verklaring van het bestuur van de raad voor rechtsbijstand, als bedoeld in artikel 7, derde lid, onder 3, van de Wet op de rechtsbijstand, waaruit blijkt dat zijn inkomen niet meer bedraagt dan de inkomens, bedoeld in de algemene maatregel van bestuur krachtens artikel 35, tweede lid, van die wet;</al>
+                        </li>
+                      </lijst>
+                    </li>
+                    <li>
+                      <li.nr>h.</li.nr>
+                      <al>in geval van kort geding, de plaats, de dag en het uur van de mondelinge behandeling.</al>
+                    </li>
+                  </lijst>
+                </lid>
+              </artikel>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">112</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Het oproepingsbericht als bedoeld in artikel 111 wordt bij de verweerder bij exploot betekend of door eiser op andere wijze bezorgd, binnen twee weken na de dag van indiening van de procesinleiding, tenzij de wet anders bepaalt. Het exploot van betekening van het oproepingsbericht wordt door de eiser ingediend uiterlijk op de dag, voorafgaande aan de dag waarop de verweerder ten laatste kan verschijnen, tenzij verweerder eerder is verschenen.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Heeft de eiser het oproepingsbericht bezorgd op andere wijze, bedoeld in het eerste lid, en verschijnt de verweerder niet uiterlijk op de laatste dag waarop hij diende te verschijnen, dan kan eiser binnen twee weken na de dag waarop verweerder uiterlijk diende te verschijnen, het oproepingsbericht doen betekenen bij de verweerder. De termijn om te verschijnen als bedoeld in artikel 30a, derde lid, onder c, wordt in dat geval verlengd met vier weken na de laatste dag waarop de verweerder diende te verschijnen, bedoeld in de eerste volzin.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Indien eiser de oproeping bij exploot als bedoeld in het tweede lid achterwege laat, wordt hij niet-ontvankelijk verklaard in zijn vordering.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>Het eerste en tweede lid zijn ook van toepassing indien de procesinleiding zowel een vordering als een verzoek bevat.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>Indien het tweede lid van toepassing is, kunnen het oproepingsbericht en de procesinleiding door de deurwaarder worden verbeterd of aangevuld, met uitzondering van wijziging van eis. In dat geval vervangen dit gewijzigde oproepingsbericht en deze gewijzigde procesinleiding het eerdere oproepingsbericht onderscheidenlijk de eerdere procesinleiding. De termijn om te verschijnen als bedoeld in de laatste volzin van het tweede lid, wordt in het oproepingsbericht gewijzigd.</al>
+                </lid>
+              </artikel>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">113</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>In afwijking van artikel 112 kan de eiser een oproepingsbericht bij exploot laten betekenen alvorens hij de procesinleiding indient.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>De deurwaarder stelt het oproepingsbericht op overeenkomstig artikel 30a, derde lid, en artikel 111, tweede lid, onder a tot en met h, en neemt de inhoud van de procesinleiding op in het oproepingsbericht.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Na betekening van het oproepingsbericht dient eiser onverwijld het exploot van betekening, het oproepingsbericht en de procesinleiding in.</al>
+                </lid>
+              </artikel>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">114</nr>
+                </kop>
+                <al>Een verweerder geldt als in de procedure verschenen:</al>
+                <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>in zaken voor de kantonrechter, indien hij binnen de termijn, genoemd in artikel 30a, derde lid, onder c, de griffie schriftelijk bericht dat hij in de procedure betrokken wenst te worden of zijn verweerschrift indient,</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>in zaken voor de voorzieningenrechter, indien hij verschijnt op de mondelinge behandeling,</al>
+                  </li>
+                  <li>
+                    <li.nr>c.</li.nr>
+                    <al>in alle overige zaken, indien hij binnen de termijn, genoemd in artikel 30a, derde lid, onder c, advocaat stelt.</al>
+                  </li>
+                </lijst>
+              </artikel>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">115</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Indien de verweerder een bekende woonplaats of een bekend werkelijk verblijf buiten Nederland heeft in een Staat waar de in artikel 56, eerste lid, bedoelde verordening van toepassing is, of in een Staat die in Europa is gelegen en die partij is bij het op 15 november 1965 te 's-Gravenhage tot stand gekomen Verdrag inzake de betekening en de kennisgeving in het buitenland van gerechtelijke en buitengerechtelijke stukken in burgerlijke en in handelszaken (<extref doc="trb-1966-91" soort="document" status="actief">Trb. 1966, 91</extref>), is de termijn om te verschijnen in afwijking van artikel 30a, derde lid, onder c, ten minste zes weken en is de termijn tussen de betekening bij de verweerder en het verstrijken van de termijn om te verschijnen ten minste vier weken.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Indien de verweerder noch in Nederland, noch in een Staat als bedoeld in het eerste lid, een bekende woonplaats of een bekend werkelijk verblijf heeft, is de termijn om te verschijnen in afwijking van artikel 30a, derde lid, onder c, ten minste vier maanden en is de termijn tussen de betekening bij de verweerder en het verstrijken van de termijn om te verschijnen ten minste drie maanden.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Indien de verweerder in Nederland geen bekende woonplaats of bekend werkelijk verblijf heeft, is de termijn om te verschijnen in afwijking van artikel 30a, derde lid, onder c en in afwijking van het eerste en tweede lid ten minste drie weken en is de termijn tussen de kennisgeving aan de verweerder en het verstrijken van de termijn om te verschijnen ten minste twee weken, indien het exploot in Nederland wordt gedaan aan de verweerder in persoon, dan wel aan een door de verweerder voor deze zaak gekozen woonplaats.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">TT</lidnr>
+            <wat>Artikel 116, eerste lid, komt te luiden:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Indien in rechte worden opgeroepen houders van aandelen of andere effecten die niet op naam staan of waarvan de houders niet bij naam bekend zijn, is de termijn om te verschijnen, in afwijking van artikel 30a, derde lid, onder c, ten minste zes weken.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">UU</lidnr>
+            <wat>Artikel 117 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>«de artikelen 114, 115 en 116» wordt vervangen door: de artikelen 30a, derde lid, onder c, 115 en 116.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>het exploot van dagvaarding» wordt vervangen door: de procesinleiding of het exploot.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">VV</lidnr>
+            <wat>Artikel 118 vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">WW</lidnr>
+            <wat>Artikel 119 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">119</nr>
+                </kop>
+                <al>Wordt het exploot gedaan met toepassing van artikel 56, dan vangt de termijn van verschijning aan op de dag, volgend op de datum van verzending als bedoeld in het tweede lid, onder a, van dat artikel. Bij het bepalen van de termijn van verschijning wordt de datum van verschijning niet meegerekend.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">XX</lidnr>
+            <wat>Artikel 120 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het tweede en derde lid komen als volgt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Een gebrek in een exploot van betekening van het oproepingsbericht dat nietigheid meebrengt, kan bij exploot, uitgebracht voor de datum van verschijning van verweerder, worden hersteld.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Bij het uitbrengen van dat exploot moeten de voor de oproeping voorgeschreven termijnen in acht worden genomen, tenzij de rechter anders bepaalt.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het vierde lid wordt «artikel 111, tweede lid» vervangen door: artikel 30a, derde lid onder f en g.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">YY</lidnr>
+            <wat>Artikel 121 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">121</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Verschijnt de verweerder niet in het geding hoewel hem dat bij exploot was aangezegd, en blijkt aan de rechter dat het exploot lijdt aan een gebrek dat nietigheid meebrengt, dan verleent de rechter geen verstek tegen hem.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>In het geval bedoeld in het eerste lid bepaalt de rechter een nieuwe uiterste datum voor verschijning en beveelt hij dat deze door de eiser bij exploot aan de verweerder wordt aangezegd met herstel van het gebrek en met inachtneming van artikel 120, derde lid, op kosten van de eiser.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Is echter aannemelijk dat het exploot van betekening van het oproepingsbericht de verweerder als gevolg van het gebrek niet heeft bereikt, dan spreekt de rechter de nietigheid van het exploot uit.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">ZZ</lidnr>
+            <wat>Het eerste lid van artikel 122 komt te luiden:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Verschijnt de verweerder in het geding, of komt hij, na bij verstek te zijn veroordeeld, in verzet, en beroept hij zich op de nietigheid van het exploot van betekening van het oproepingsbericht, dan verwerpt de rechter dat beroep indien naar zijn oordeel het gebrek de verweerder niet onredelijk in zijn belangen heeft geschaad.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">AAA</lidnr>
+            <wat>In artikel 123, eerste tot en met vierde lid, wordt «gedaagde» telkens vervangen door: verweerder.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">BBB</lidnr>
+            <wat>In het opschrift van de vijfde afdeling van de tweede titel van het Eerste Boek wordt «het geding» vervangen door: de procedure.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">CCC</lidnr>
+            <wat>Artikel 125 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">125</nr>
+                </kop>
+                <al>Het geding is aanhangig met ingang van de dag waarop de procesinleiding is ingediend als bedoeld in artikel 30a, eerste lid.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">DDD</lidnr>
+            <wat>De artikelen 126 en 127 vervallen.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">EEE</lidnr>
+            <wat>In het artikel 127a, tweede lid, wordt «gedaagde» vervangen door: verweerder.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">FFF</lidnr>
+            <wat>Artikel 128 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">128</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Indien de verweerder bij gemachtigde of bij advocaat procedeert, deelt hij de naam en het adres van de gemachtigde of de naam en het kantooradres van de advocaat mede zodra hij in de procedure verschijnt als bedoeld in artikel 114.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Indiening van het verweerschrift geschiedt niet dan nadat de verweerder het verschuldigde griffierecht heeft voldaan. De rechter houdt de zaak aan zolang de verweerder het griffierecht niet heeft voldaan en de termijn genoemd in artikel 3, derde lid, van de Wet griffierechten burgerlijke zaken nog loopt.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Indien de verschenen verweerder het griffierecht niet tijdig heeft voldaan, zijn de artikelen 139 tot en met 142 van toepassing behalve in het geval dat artikel 127a, tweede lid, van toepassing is.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>Artikel 127a, derde en vierde lid, is van overeenkomstige toepassing.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">GGG</lidnr>
+            <wat>In artikel 129 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">129</nr>
+                </kop>
+                <al>Zolang de rechter nog niet heeft medegedeeld binnen welke termijn hij eindvonnis zal wijzen, kan de eiser te allen tijde zijn vordering verminderen.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">HHH</lidnr>
+            <wat>Artikel 130, eerste lid, wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>«geen eindvonnis heeft gewezen» wordt vervangen door: niet heeft medegedeeld binnen welke termijn hij eindvonnis zal wijzen.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>«akte ter rolle» wordt vervangen door: akte.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>«gedaagde» wordt vervangen door: verweerder.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">III</lidnr>
+            <wat>De artikelen 131, 132, 133, 134, 135, 136, 137, 138 alsmede het opschrift van de zesde afdeling van de tweede titel van het Eerste Boek vervallen.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">JJJ</lidnr>
+            <wat>Artikel 139 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <?xpp qa?>
+              <?xpp lead;-1?>
+              <wat>De zinsnede «Indien de gedaagde niet op de eerste of op een door de rechter nader bepaalde roldatum in het geding verschijnt dan wel verzuimt advocaat te stellen» wordt vervangen door: Indien het oproepingsbericht is betekend en de verweerder niet in de procedure verschijnt.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">KKK</lidnr>
+            <wat>Artikel 140 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid wordt «gedaagden» telkens vervangen door: verweerders.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het tweede lid wordt «gedaagde» telkens vervangen door: verweerder.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In het vierde lid wordt «artikel 118» vervangen door: artikel 30g.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">LLL</lidnr>
+            <wat>In artikel 141 wordt «een dagvaarding die» vervangen door: een exploot dat.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">MMM</lidnr>
+            <wat>In artikel 142 wordt «gedaagde» vervangen door: verweerder.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">NNN</lidnr>
+            <wat>Artikel 143 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het eerste lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>De verweerder die bij verstek is veroordeeld, kan daartegen verzet doen door het indienen van een procesinleiding als bedoeld in artikel 30a, eerste lid.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het tweede lid wordt «Het verzet moet worden gedaan bij exploot van dagvaarding» vervangen door «Het oproepingbericht als bedoeld in artikel 111 wordt betekend bij exploot» en wordt «gedaagde» vervangen door: verweerder.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">OOO</lidnr>
+            <wat>Artikel 146 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">146</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Op het exploot van verzet zijn artikel 30a, derde lid, onder a, c, e en h, en artikel 111, tweede lid, onder a en b, van overeenkomstige toepassing, met dien verstande dat niet vermeld hoeft te worden de wijze waarop de oorspronkelijk eiser verweer kan voeren.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Indien een tegenvordering wordt ingesteld, vermeldt het exploot deze vordering met de gronden daarvan. Artikel 30a, derde lid, onder f en g, is van overeenkomstige toepassing.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">PPP</lidnr>
+            <wat>Artikel 147 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid wordt «conclusie van antwoord» vervangen door: verweerschrift.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het tweede, derde en vierde lid wordt «gedaagde» telkens vervangen door: verweerder.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In het tweede lid wordt «op de eerste roldatum van het verzet» vervangen door: binnen de daarvoor door de rechter gestelde termijn.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">QQQ</lidnr>
+            <wat>In artikel 170, eerste lid, wordt «week» telkens vervangen door: tien dagen.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">RRR</lidnr>
+            <wat>Artikel 208 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">208</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Incidentele vorderingen worden ingesteld bij procesinleiding, verweerschrift of bij met redenen omklede conclusie. De artikelen 85, 86 en 128 zijn van toepassing. De rechter kan in afwijking van artikel 30k, vijfde lid, termijnen vaststellen voor het indienen van incidentele vorderingen.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Incidentele vorderingen worden zoveel mogelijk tegelijk ingesteld.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">SSS</lidnr>
+            <wat>In artikel 209 wordt «de dag waarop de zaak weer op de rol zal komen» vervangen door: de volgende proceshandeling.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">TTT</lidnr>
+            <wat>Artikel 210 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid wordt «gedaagde» vervangen door «verweerder» en wordt «de voor het nemen van de conclusie van antwoord bepaalde roldatum» vervangen door: op de voor het verweer bepaalde datum.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Het tweede lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Indien de eiser meent gronden te hebben om iemand in vrijwaring op te roepen, neemt hij zijn daartoe strekkende, met redenen omklede conclusie uiterlijk op de datum, op zijn verzoek bepaald bij de verschijning van partijen ter zitting op de voet van artikel 30j. Vindt geen verschijning van partijen op de voet van artikel 114 plaats, dan neemt de eiser zijn conclusie uiterlijk op de daarvoor door de rechter bepaalde datum.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In het derde lid wordt «weer op de rol zullen komen» vervangen door: worden voortgezet.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">4.</nr>
+              <wat>In het vierde lid wordt in de eerste volzin «de dagvaarding in vrijwaring» vervangen door «de oproeping in vrijwaring» en wordt in de tweede volzin «dagvaarding» telkens vervangen door: procesinleiding.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">5.</nr>
+              <wat>In het vijfde lid wordt «de zaak weer op de rol zal komen» vervangen door «de zaak zal worden voortgezet» en wordt «terechtzitting» vervangen door: zitting.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">UUU</lidnr>
+            <wat>Artikel 215 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">215</nr>
+                </kop>
+                <al>In geval in de hoofdzaak en in de zaak in vrijwaring een zelfde datum voor de uitspraak is bepaald, wordt daarin gelijktijdig beslist. Indien dit niet het geval is, wordt op vordering van de oorspronkelijke eiser of verweerder de hoofdzaak afzonderlijk beslist.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">VVV</lidnr>
+            <wat>In artikel 216 wordt «gedagvaard» vervangen door: opgeroepen.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">WWW</lidnr>
+            <wat>Artikel 218 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">218</nr>
+                </kop>
+                <al>Deze vordering wordt ingesteld bij incidentele conclusie vóór of op de datum waarop het verweer moet worden ingediend of, indien van toepassing, waarop ingevolge artikel 30o, eerste lid, onder b, de laatste schriftelijke uitwisseling van standpunten plaatsvindt.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">XXX</lidnr>
+            <wat>Artikel 220 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid wordt de laatste volzin vervangen door: In deze zaken kan de rechter ook ambtshalve naar die andere rechter verwijzen, nadat partijen hierover zijn gehoord. Verwijzing is ook mogelijk indien één der zaken bij de kantonrechter in behandeling is en de andere niet. Van verknochte zaken kan ook sprake zijn als de ene zaak een vordering betreft en de andere zaak een verzoek.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het tweede lid wordt «dagvaarding» vervangen door «procesinleiding» en wordt «antwoord» vervangen door: verweer.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In het derde lid wordt «gedaagde» vervangen door «verweerder» en wordt «voor het nemen van de conclusie van antwoord bepaalde roldatum» vervangen door: voor het indienen van het verweer bepaalde datum.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">4.</nr>
+              <wat>In het vierde lid wordt «een nieuwe roldatum» vervangen door «een nieuwe datum voor de volgende proceshandeling,» wordt «gedaagde» telkens vervangen door «verweerder» en wordt «de nieuwe roldatum» vervangen door: de nieuwe datum.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">5.</nr>
+              <wat>In het zesde lid wordt «eerste zin» vervangen door: onder a en b.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">YYY</lidnr>
+            <wat>In artikel 221 vervallen de zinsnedes «tegen de dag waarop zij de zaak ter rolle wil doen dienen» en «voor dagvaarding» vervallen.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">ZZZ</lidnr>
+            <wat>In artikel 222, eerste lid, wordt aan het slot een zin toegevoegd, die luidt: In deze zaken kan de rechter ook ambtshalve tot voeging overgaan. Van verknochte zaken kan ook sprake zijn als de ene zaak een vordering betreft en de andere zaak een verzoek.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">AAAA</lidnr>
+            <wat>In artikel 225, tweede lid, komt de eerste volzin te luiden: Schorsing vindt plaats door een daartoe strekkende akte.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">BBBB</lidnr>
+            <wat>Artikel 227 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het eerste lid, aanhef en onderdeel a, komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Indien schorsing heeft plaatsgevonden als bedoeld in artikel 225, tweede lid, wordt het geding hervat in de stand waarin dit zich bij de schorsing bevond:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>doordat degene die het geding heeft geschorst, in de tot de schorsing strekkende akte verklaart dat het geding wordt hervat;</al>
+                    </li>
+                  </lijst>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het eerste lid, onderdeel b, vervallen de woorden «ter rolle».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>Het tweede lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>De rechter bepaalt de te verrichten proceshandeling en stelt partijen hiervan in kennis, met vermelding van de toepasselijke termijnen.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">CCCC</lidnr>
+            <wat>Artikel 228 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid wordt «een daartoe strekkende akte ter rolle neemt, dan wel bij exploot verklaart dat het geding wordt hervat» vervangen door: een daartoe strekkende akte neemt.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Aan het slot van het tweede lid wordt een volzin toegevoegd, die luidt: De akte genoemd in het eerste lid bevat de mededeling van de schorsing van het geding en de schorsingsoorzaak en de aanzegging dat een andere advocaat moet worden gesteld.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">DDDD</lidnr>
+            <wat>Artikel 229 vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">EEEE</lidnr>
+            <wat>Artikel 230 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid, onderdeel c, wordt «dagvaarding» vervangen door: procesinleiding</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Het tweede lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Indien tegen de verweerder of, bij meer verweerders, tegen hen allen verstek is verleend en de vorderingen van de eiser geheel of gedeeltelijk worden toegewezen, kan ten aanzien van de ingevolge het eerste lid, onder a, c, e en f, te vermelden gegevens worden volstaan door bij het vonnis een afschrift van het betekende oproepingsbericht te voegen.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">FFFF</lidnr>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In artikel 231, eerste lid, wordt «gedaagde» vervangen door: verweerder.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het tweede lid wordt «artikel 28, vijfde en zesde lid» vervangen door: artikel 29, vijfde en zesde lid.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">GGGG</lidnr>
+            <wat>Artikel 232, tweede lid, komt te luiden:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Van de artikelen 230 en 231, eerste lid, kan, voor zover nodig, worden afgeweken indien een tussenvonnis wordt gewezen ter beslissing op een incidentele vordering en de wederpartij te kennen geeft tegen toewijzing geen bezwaar te hebben.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">HHHH</lidnr>
+            <wat>In artikel 237, vijfde lid, wordt «gedaagde» vervangen door: verweerder.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">IIII</lidnr>
+            <wat>In het opschrift van de eerste paragraaf van de dertiende afdeling van de tweede titel van het Eerste Boek wordt «op de rol» vervangen door: ter griffie.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">JJJJ</lidnr>
+            <wat>In artikel 246, eerste en tweede lid, wordt «op de rol» telkens vervangen door: ter griffie.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">KKKK</lidnr>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In artikel 247 wordt «op de rol» vervangen door: ter griffie.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Er wordt een tweede onderdeel toegevoegd, dat luidt:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>In het vierde lid wordt «Artikel 28, vijfde en zesde lid» vervangen door: artikel 29, vijfde en zesde lid.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">LLLL</lidnr>
+            <wat>Artikel 249 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het eerste lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Zolang de verweerder geen verweerschrift heeft ingediend, kan de eiser afstand doen van de instantie.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het tweede lid wordt «gedaagde» vervangen door: verweerder.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">MMMM</lidnr>
+            <wat>Artikel 250 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het eerste lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Afstand van instantie wordt schriftelijk gedaan.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het vierde lid wordt «gedaagde» vervangen door: verweerder.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">NNNN</lidnr>
+            <wat>Artikel 251 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste tot en met vijfde lid wordt «roldatum» telkens vervangen door: datum.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het vijfde lid wordt «op de rol» vervangen door: ter griffie.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">OOOO</lidnr>
+            <wat>Artikel 254 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het tweede lid wordt in de eerste volzin «dagvaarding» vervangen door «oproeping» en wordt in de derde volzin «dagvaarding» vervangen door: oproepingsbericht.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het tweede en derde lid wordt «terechtzitting» telkens vervangen door: zitting.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In het vierde lid wordt «tweede en zesde lid» vervangen door: tweede en derde lid.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">PPPP</lidnr>
+            <wat>Artikel 255 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid wordt «gedaagde» vervangen door: verweerder.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het tweede lid wordt «terechtzitting» vervangen door «zitting» en wordt aan het slot een zin toegevoegd die luidt: Artikel 112, tweede lid, is niet van toepassing.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In het derde lid wordt «In andere korte gedingen niet ingeleid met een dagvaarding» vervangen door: In andere kort gedingen waarbij niet een vordering is ingesteld.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">QQQQ</lidnr>
+            <wat>In het opschrift van de derde titel van het Eerste Boek wordt «verzoekschriftprocedure» vervangen door: verzoekprocedure.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">RRRR</lidnr>
+            <wat>Artikel 261 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">261</nr>
+                </kop>
+                <al>Voor zover uit de wet niet anders voortvloeit, is deze titel van toepassing op alle zaken waarbij een verzoek wordt ingediend, alsmede op zaken waarin de rechter ambtshalve een beschikking geeft.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">SSSS</lidnr>
+            <wat>Artikel 262 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">262</nr>
+                </kop>
+                <al>Tenzij de wet anders bepaalt, is bevoegd de rechter van de woonplaats van hetzij de verzoeker of één van de verzoekers, hetzij één van de in de procesinleiding genoemde belanghebbenden dan wel, als zodanige woonplaats in Nederland niet bekend is, de rechter van het werkelijk verblijf van één van hen.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">TTTT</lidnr>
+            <wat>In de artikelen 263 en 267 wordt «de rechter te ’s-Gravenhage» vervangen door: de rechter van de rechtbank Den Haag.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">UUUU</lidnr>
+            <wat>Artikel 268 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid wordt «met een verzoekschrift moeten worden ingeleid» vervangen door: door indiening van een verzoek moeten worden ingeleid.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het tweede lid wordt na «volzin» ingevoegd: , van Boek 1 van het Burgerlijk Wetboek.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">VVVV</lidnr>
+            <wat>Artikel 269 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">269</nr>
+                </kop>
+                <al>Wijzen de artikelen 109, eerste lid, en 262 tot en met 268 geen bevoegde rechter aan, dan is de rechter van de rechtbank Den Haag bevoegd.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">WWWW</lidnr>
+            <wat>Artikel 271 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">271</nr>
+                </kop>
+                <al>De oproeping van verzoekers of van in de procedure verschenen belanghebbenden geschiedt schriftelijk door de griffier. De rechter kan nader bepalen hoe deze oproeping geschiedt.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">XXXX</lidnr>
+            <wat>De artikelen 273 en 274 vervallen.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">YYYY</lidnr>
+            <wat>Artikel 276 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het eerste lid vervalt, onder vernummering van het tweede en derde lid tot het eerste en tweede lid.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het eerste lid (nieuw) wordt «De oproeping bevat tevens» vervangen door: De oproeping bevat, naast het bepaalde in artikel 30j, derde en vierde lid,.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">ZZZZ</lidnr>
+            <wat>Het opschrift «Vierde afdeling. Verloop van de procedure» vervalt na artikel 277 en wordt ingevoegd na artikel 279.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">AAAAA</lidnr>
+            <wat>Artikel 278 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">278</nr>
+                </kop>
+                <al>In zaken betreffende een nalatenschap vermeldt de procesinleiding tevens de laatste woonplaats van de overledene of de reden waarom deze vermelding niet mogelijk is.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">BBBBB</lidnr>
+            <wat>Artikel 279 vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">CCCCC</lidnr>
+            <wat>In artikel 280 wordt «het verzoekschrift» vervangen door: de procesinleiding.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">DDDDD</lidnr>
+            <wat>In artikel 281, eerste lid, wordt «het verzoekschrift» vervangen door: de procesinleiding.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">EEEEE</lidnr>
+            <wat>Artikel 282 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">282</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Iedere belanghebbende kan tot tien dagen voor de aanvang van de mondelinge behandeling of, indien de rechter dit toestaat, op een later moment een verweerschrift indienen, tenzij de wet een andere termijn voorschrijft. De artikelen 30a, derde lid, onderdelen a en d, en vierde lid, en 278 zijn van overeenkomstige toepassing. Indien de rechter toestaat dat een verweerschrift wordt ingediend op de mondelinge behandeling, dan verstrekt belanghebbende ter zitting een afschrift aan de verzoeker en de andere opgeroepen belanghebbenden.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>De griffier roept, voor zover dat nog niet is geschied, hen die een verweerschrift hebben ingediend op tegen de dag van de mondelinge behandeling.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">FFFFF</lidnr>
+            <wat>Artikel 283 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">283</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Zolang de rechter nog niet heeft bepaald binnen welke termijn hij de eindbeschikking zal geven, is de verzoeker bevoegd het verzoek of de gronden daarvan te verminderen, dan wel schriftelijk te veranderen of te vermeerderen. In het geval van verandering of vermeerdering is artikel 130 van overeenkomstige toepassing.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>De verzoeker kan zijn verzoek intrekken, tenzij een belanghebbende een tegenverzoek of tegenvordering heeft ingesteld. De artikelen 249, tweede en derde lid, en 250 zijn van overeenkomstige toepassing.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">GGGGG</lidnr>
+            <wat>In artikel 284, vierde lid, wordt «het verzoekschrift» vervangen door: de procesinleiding.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">HHHHH</lidnr>
+            <wat>Artikel 285 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid wordt «verzoekschrift» vervangen door «procesinleiding» en wordt aan het slot een zin toegevoegd, die luidt: Van verknochte zaken kan ook sprake zijn als de ene zaak een vordering betreft en de andere zaak een verzoek.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het tweede lid wordt «verzoekschriften» vervangen door: procesinleidingen.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">IIIII</lidnr>
+            <wat>Artikel 286 vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">JJJJJ</lidnr>
+            <wat>In artikel 287, tweede lid, wordt «het verzoekschrift» vervangen door: de procesinleiding.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">KKKKK</lidnr>
+            <wat>In artikel 290, eerste lid, wordt «het verzoekschrift» vervangen door: de procesinleiding.</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">II</nr>
+          </kop>
+          <wat type="wijziging">De <nadruk type="vet">Algemene wet bestuursrecht</nadruk> wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 6:15, eerste lid, wordt «nadat daarop de datum van ontvangst is aangetekend» vervangen door: onder vermelding van de datum van ontvangst.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 6:17 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>«zendt» wordt vervangen door: stelt.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Na «in ieder geval» wordt ingevoegd: ter beschikking.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>In artikel 6:19, derde lid, wordt «doet onverwijld mededeling van het nieuwe besluit» vervangen door: stelt het nieuwe besluit onverwijld ter beschikking.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>Artikel 6:20, tweede lid, wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>«deelt» wordt vervangen door: stelt.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>«mede» wordt vervangen door: ter beschikking.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>In artikel 7:1a, vijfde lid, wordt «nadat daarop de datum van ontvangst is aangetekend» vervangen door: onder vermelding van de datum van ontvangst.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">F</lidnr>
+            <wat>In artikel 8:13, derde lid, wordt «toegezonden» vervangen door: ter beschikking gesteld.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">G</lidnr>
+            <wat>Na artikel 8:32 wordt een artikel ingevoegd, dat luidt:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">8:32a</nr>
+                </kop>
+                <al>De bestuursrechter kan door partijen verschafte gegevens en bescheiden buiten beschouwing laten indien zij op zijn verzoek niet aangeven ter toelichting of staving van welke stelling de gegevens en bescheiden zijn bedoeld en welk onderdeel daartoe van belang is.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">H</lidnr>
+            <wat>Na artikel 8:36 wordt een nieuwe afdeling ingevoegd, die luidt:</wat>
+            <wijziging>
+              <wijzig-divisie soort="afdeling" opmaak="default">
+                <kop kopopmaak="vet">
+                  <label>Afdeling</label>
+                  <nr status="officieel">8.1.6a</nr>
+                  <titel>Verkeer langs elektronische weg met de bestuursrechter</titel>
+                </kop>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8:36a</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Beroep wordt langs elektronische weg ingesteld.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Partijen en andere betrokkenen dienen ook de overige stukken langs elektronische weg in, tenzij de bestuursrechter anders bepaalt. Artikel 6:9 is van overeenkomstige toepassing.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Het eerste en het tweede lid zijn van overeenkomstige toepassing op het indienen van verzoeken en het doen van verzet.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4.</lidnr>
+                    <al>Het eerste lid is van overeenkomstige toepassing indien een bestuursorgaan een bezwaarschrift doorzendt op grond van artikel 7:1a, vijfde of zesde lid.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">5.</lidnr>
+                    <al>Indien niet is voldaan aan de verplichtingen die voortvloeien uit het eerste tot en met derde lid of de algemene maatregel van bestuur, bedoeld in artikel 8:36f, eerste lid, stelt de bestuursrechter de desbetreffende partij of andere betrokkene in de gelegenheid dit verzuim te herstellen binnen een door hem te bepalen termijn. Maakt de partij of andere betrokkene van deze gelegenheid geen gebruik, dan kan het beroep niet-ontvankelijk worden verklaard dan wel kan de bestuursrechter het stuk buiten beschouwing laten.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">6.</lidnr>
+                    <al>In afwijking van het vijfde lid kan de bestuursrechter bepalen dat de procedure wordt voortgezet volgens de regels die gelden voor stukkenwisseling op papier.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">7.</lidnr>
+                    <al>De bestuursrechter betrekt na afloop van de termijn ingediende stukken als bedoeld in het tweede lid bij zijn beslissing indien redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8:36b</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>De verplichting tot procederen langs elektronische weg geldt niet voor natuurlijke personen en voor verenigingen waarvan de statuten niet zijn opgenomen in een notariële akte, tenzij zij worden vertegenwoordigd door een derde die beroepsmatig rechtsbijstand verleent.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Bij algemene maatregel van bestuur kunnen andere uitzonderingen worden gemaakt op de verplichting tot stukkenwisseling langs elektronische weg bedoeld in artikel 8:36a.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Indien een partij niet verplicht is langs elektronische weg te procederen en niet langs elektronische weg procedeert, dient zij de stukken in op papier. De griffier stelt stukken en mededelingen op papier, of indien deze partij dit wenst langs elektronische weg, aan hem ter beschikking en stelt de door deze partij ingediende stukken ter beschikking van de overige partijen.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8:36c</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Als tijdstip waarop een bericht door de bestuursrechter langs elektronische weg is ontvangen, geldt het tijdstip waarop het bericht het digitale systeem voor gegevensverwerking van de bestuursrechter heeft bereikt. Na elke indiening langs elektronische weg ontvangt de indiener een ontvangstbevestiging in het digitale systeem voor gegevensverwerking.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Als tijdstip waarop een bericht dat door de bestuursrechter is geplaatst in het in het eerste lid genoemde digitale systeem voor gegevensverwerking door de geadresseerde is ontvangen, geldt het tijdstip waarop de bestuursrechter de geadresseerde hierover een kennisgeving heeft verzonden buiten het digitale systeem voor gegevensverwerking.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Als tijdstip waarop een bericht dat door een partij of een andere betrokkene bij de procedure is geplaatst in het in het eerste lid genoemde digitale systeem voor gegevensverwerking door de andere partijen en betrokkenen bij de procedure is ontvangen, geldt het tijdstip waarop de bestuursrechter de betrokkenen hierover een kennisgeving heeft verzonden buiten het digitale systeem voor gegevensverwerking.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4.</lidnr>
+                    <al>Indien een partij of andere betrokkene bij de procedure afziet van digitale bereikbaarheid buiten het digitale systeem voor gegevensverwerking als bedoeld in het eerste lid, zodat de kennisgeving bedoeld in het tweede en derde lid niet kan worden gezonden, geldt als tijdstip waarop een bericht als bedoeld in deze leden door hem is ontvangen, het tijdstip waarop het bericht voor hem toegankelijk is geworden in het digitale systeem voor gegevensverwerking.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8:36d</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Onder een elektronische handtekening wordt verstaan een handtekening die bestaat uit elektronische gegevens die gehecht zijn aan of logisch verbonden zijn met andere elektronische gegevens en die worden gebruikt door de ondertekenaar om te ondertekenen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Waar in de hoofdstukken 6 en 8 voor het verkeer met de bestuursrechter ondertekening is voorgeschreven is aan dit vereiste voldaan indien het stuk is ondertekend met een elektronische handtekening die voldoet aan bij of krachtens algemene maatregel van bestuur te stellen eisen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Een beroepschrift of verzoekschrift dat langs elektronische weg is ingediend in het digitale systeem voor gegevensverwerking van de bestuursrechter, geldt als ondertekend.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8:36e</nr>
+                  </kop>
+                  <al>De bestuursrechter kan bepalen dat een door of namens hem gemaakte beeld- of geluidsopname van een zakelijke samenvatting van:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>het geven van inlichtingen bedoeld in artikel 8:44,</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>het maken van mondelinge opmerkingen bedoeld in artikel 8:45a, tweede lid,</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>het onderzoek ter plaatse bedoeld in de artikelen 8:50 en 8:51, en</al>
+                    </li>
+                    <li>
+                      <li.nr>d.</li.nr>
+                      <al>de zitting bedoeld in artikel 8:61,</al>
+                    </li>
+                  </lijst>
+                  <al>het proces-verbaal bedoeld in deze artikelen, dan wel de aantekening van het verhandelde ter zitting bedoeld in artikel 8:61, tweede lid, vervangt.</al>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">8:36f</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het elektronisch verkeer met de bestuursrechter, het digitale systeem voor gegevensverwerking en de verschoonbaarheid van termijnoverschrijdingen wegens verstoring van het digitale systeem voor gegevensverwerking van de rechterlijke instanties of van de toegang tot dit systeem.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van beeld- en geluidsopnamen.</al>
+                  </lid>
+                </artikel>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">I</lidnr>
+            <wat>Voor artikel 8:37 wordt in afdeling 8.1.7 een artikel ingevoegd, dat luidt:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">8:36g</nr>
+                </kop>
+                <al>De verzending van berichten door de griffier geschiedt langs elektronische weg, met uitzondering van de berichtgeving aan een partij als bedoeld in artikel 8:36b, die te kennen heeft gegeven deze op papier te willen ontvangen.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">J</lidnr>
+            <wat>Het eerste en tweede lid van artikel 8:37 komen te luiden:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Oproepingen, de uitnodiging om op een zitting van de bestuursrechter te verschijnen, de uitnodiging om te verklaren of van het recht ter zitting te worden gehoord gebruik wordt gemaakt, alsmede de verzending van een afschrift van de uitspraak en van het proces-verbaal van de mondelinge uitspraak aan een geadresseerde voor wie de verplichting tot digitaal procederen als bedoeld in artikel 8:36a niet geldt en die niet digitaal procedeert, geschieden door de griffier bij aangetekende brief, tenzij de bestuursrechter anders bepaalt.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Voor het overige geschiedt de verzending van stukken aan geadresseerden als bedoeld in het eerste lid door de griffier bij gewone brief, tenzij de bestuursrechter anders bepaalt.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">K</lidnr>
+            <wat>In artikel 8:38, eerste en tweede lid, vervalt telkens: of bij brief met ontvangstbevestiging.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">L</lidnr>
+            <wat>Artikel 8:40a vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">M</lidnr>
+            <wat>Artikel 8:42 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het eerste lid komt als volgt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Binnen vier weken na de dag van verzending van de gronden van het beroepschrift aan het bestuursorgaan zendt dit de op de zaak betrekking hebbende stukken aan de bestuursrechter en kan het een verweerschrift indienen. Indien de bestuursrechter om een verweerschrift heeft verzocht, dient het bestuursorgaan binnen vier weken een verweerschrift in.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het tweede lid wordt «termijn» vervangen door: termijnen.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">N</lidnr>
+            <wat>In artikel 8:52, tweede lid, onderdeel b wordt «termijn» vervangen door: termijnen.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">O</lidnr>
+            <wat>Artikel 8:57, eerste lid, komt als volgt te luiden:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>De bestuursrechter kan bepalen dat het onderzoek ter zitting achterwege blijft indien geen van de partijen, nadat zij zijn gewezen op hun recht ter zitting te worden gehoord, binnen een door hem gestelde redelijke termijn heeft verklaard dat zij gebruik wil maken van dit recht.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">P</lidnr>
+            <wat>In artikel 8:60, vierde lid, wordt «een week» vervangen door: tien dagen.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Q</lidnr>
+            <wat>In artikel 8:61 wordt, onder vernummering van het negende lid tot tiende lid, een lid ingevoegd, dat luidt:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">9.</lidnr>
+                  <al>Nadat de bestuursrechter toepassing heeft gegeven aan artikel 8:36e, kan de hogerberoepsrechter of de Hoge Raad verzoeken een schriftelijke weergave van de gesproken tekst van de beeld- of geluidsopname op te stellen.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">R</lidnr>
+            <wat>Artikel 8:64, vijfde lid, komt als volgt te luiden:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>De bestuursrechter kan bepalen dat de nadere zitting achterwege blijft indien geen van de partijen, nadat zij zijn gewezen op hun recht ter zitting te worden gehoord, binnen een door hem gestelde redelijke termijn heeft verklaard dat zij gebruik wil maken van dit recht. Artikel 8:57, tweede en derde lid, is van toepassing.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">S</lidnr>
+            <wat>Artikel 8:78 komt als volgt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">8:78</nr>
+                </kop>
+                <al>De uitspraak geschiedt in het openbaar.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">T</lidnr>
+            <wat>Artikel 8:79, eerste lid, komt als volgt te luiden:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Binnen twee weken na de dagtekening van de uitspraak stelt de griffier kosteloos een afschrift van de uitspraak of van het proces-verbaal van de mondelinge uitspraak ter beschikking van partijen.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">U</lidnr>
+            <wat>Artikel 8:107 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het tweede lid wordt «zendt» vervangen door «stelt» en wordt na «mededeling» ingevoegd: ter beschikking.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het derde lid wordt «zendt» vervangen door «stelt» en wordt na «zitting» ingevoegd: ter beschikking.</wat>
+              <artikel status="goed">
+                <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">III</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Ten aanzien van een procedure bij de civiele rechter waarbij het exploot voor de datum van inwerkingtreding van deze wet rechtsgeldig is betekend, blijft het recht van toepassing zoals dat voor die datum gold.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Ten aanzien van een procedure bij de civiele rechter waarbij voor de datum van inwerkingtreding van deze wet een verzoekschrift bij de rechter is ingediend, een beroepschrift bij het gerechtshof is ingediend of een verzoekschrift bij de Hoge Raad is ingediend, blijft het recht van toepassing zoals dat gold voor de inwerkingtreding van deze wet.</al>
+                </lid>
+              </artikel>
+              <artikel status="goed">
+                <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">IV</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Het recht zoals dit gold voor het tijdstip van inwerkingtreding van de verplichting om langs elektronische weg te procederen, blijft van toepassing op:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>beroep tegen een voor dat tijdstip bekendgemaakt besluit,</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>hoger beroep, verzet of beroep in cassatie tegen een voor dat tijdstip bekendgemaakte uitspraak van de bestuursrechter,</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>een voor dat tijdstip ingesteld beroep wegens niet tijdig beslissen,</al>
+                    </li>
+                    <li>
+                      <li.nr>d.</li.nr>
+                      <al>een voor dat tijdstip ingediend verzoek om schadevergoeding als bedoeld in artikel 8:88, eerste lid, van de Algemene wet bestuursrecht, en</al>
+                    </li>
+                    <li>
+                      <li.nr>e.</li.nr>
+                      <al>een voor dat tijdstip ingediend verzoek om herziening van een uitspraak van de bestuursrechter.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Het eerste lid is van overeenkomstige toepassing op een verzoek aan de bestuursrechter om voorlopige voorziening of om opheffing of wijziging daarvan.</al>
+                </lid>
+              </artikel>
+              <artikel status="goed">
+                <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">IVa</nr>
+                </kop>
+                <al>Onze Minister van Veiligheid en Justitie zendt in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties binnen drie jaar na het tijdstip waarop de laatste fase van de invoering van de verplichting om langs elektronische weg te procederen, in werking is getreden, bedoeld in artikel V, eerste en tweede lid, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.</al>
+              </artikel>
+              <artikel status="goed">
+                <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">V</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, voor verschillende vorderingen, verzoeken en besluiten en voor de verschillende gerechten en verschillende bestuursrechters verschillend kan worden vastgesteld.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Zolang de verplichting om langs elektronische weg te procederen nog niet bij alle gerechten en bestuursrechters voor alle zaken in werking is getreden, bepaalt de rechter naar wie een zaak wordt doorgestuurd, verwezen of teruggewezen, zo nodig op welke wijze die zaak wordt behandeld of voortgezet.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+        </slotformulering>
+        <histnoot type="parlementair">
+          <al>Kamerstuk <dossierref dossier="34059">34 059</dossierref></al>
+        </histnoot>
+        <gegeven>
+          <label>Gegeven te </label>
+          <dagtekening>
+            <plaats>Paros,</plaats>
+            <datum isodatum="2016-07-13">13 juli 2016</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van Veiligheid en Justitie,</functie>
+          <naam>
+            <voornaam>G.A. van der</voornaam>
+            <achternaam>Steur</achternaam>
+          </naam>
+        </ondertekening>
+        <ondertekening>
+          <functie>De Minister van Binnenlandse Zaken en Koninkrijksrelaties,</functie>
+          <naam>
+            <voornaam>S.A.</voornaam>
+            <achternaam>Blok</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2016-07-21">Uitgegeven de <nadruk type="cur">eenentwintigste</nadruk> juli 2016</datum>
+          <ondertekening>
+            <functie>De Minister van Veiligheid en Justitie,</functie>
+            <naam>
+              <voornaam>G.A. van der</voornaam>
+              <achternaam>Steur</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

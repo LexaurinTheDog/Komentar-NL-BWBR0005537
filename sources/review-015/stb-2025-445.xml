@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                      xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+   <metadata>
+      <meta name="DCTERMS.publisher" scheme="OVERHEID.Ministerie"
+            content="Ministerie van Justitie en Veiligheid"/>
+      <meta name="DC.creator" scheme="OVERHEID.Ministerie"
+            content="Ministerie van Financiën"/>
+      <meta name="DCTERMS.isReplacedBy" scheme="OVERHEIDop.StbID" content=""/>
+      <meta name="OVERHEIDop.configuratie" scheme=""
+            content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-StbWet-Web/1.13/xml/MC-OEP-StbWet-Web.xml"/>
+      <meta name="OVERHEIDop.steltVast" scheme="" content=""/>
+      <meta name="DCTERMS.hasPart" scheme="" content=""/>
+      <meta name="DCTERMS.isRequiredBy" scheme="OVERHEIDop.StbID" content=""/>
+      <meta name="OVERHEIDop.ketenID" scheme="" content=""/>
+      <meta name="DC.type" scheme="OVERHEIDop.Staatsblad" content="Wet"/>
+      <meta name="DCTERMS.relation" scheme="" content=""/>
+      <meta name="OVERHEIDop.materieelUitgewerkt" scheme="DCTERMS.W3CDTF" content=""/>
+      <meta name="OVERHEIDop.versieInformatie" scheme="" content=""/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Staatsblad"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype"
+            content="ministerie"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda"
+            content="Financiën | Belasting"/>
+      <meta name="DC.title"
+            content="Wet van 17 december 2025, houdende wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2026)"/>
+      <meta name="OVERHEIDop.jaargang" scheme="DCTERMS.W3CDTF" content="2025"/>
+      <meta name="DC.identifier" scheme="OVERHEIDop.StbID" content="stb-2025-445"/>
+      <meta name="OVERHEIDop.publicationIssue" content="445"/>
+      <meta name="DCTERMS.alternative" content="Overige fiscale maatregelen 2026"/>
+      <meta name="OVERHEIDop.datumOndertekening" scheme="DCTERMS.W3CDTF"
+            content="2025-12-17"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-12-23"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-12-23"/>
+      <meta name="OVERHEIDop.behandeldDossier" content="36813"/>
+   </metadata>
+   <kop>
+      <titel>Staatsblad</titel>
+      <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+   </kop>
+   <staatsblad>
+      <intitule>Wet van 17 december 2025, houdende wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2026)</intitule>
+      <wet-besluit>
+         <aanhef>
+            <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+            <considerans>
+               <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+               <considerans.al>Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2026 wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen aan te brengen;</considerans.al>
+            </considerans>
+            <afkondiging>
+               <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+            </afkondiging>
+         </aanhef>
+         <wettekst>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">I</nr>
+               </kop>
+               <wat type="wijziging">De Wet inkomstenbelasting 2001 wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>[<nadruk type="cur">Vervallen</nadruk>]</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>Artikel 3.42, vierde lid, aanhef, komt te luiden: </wat>
+                  <wijziging>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">4.</lidnr>
+                           <al>Energie-investeringen worden voor ten hoogste de volgende bedragen in aanmerking genomen, met dien verstande dat het totale bedrag aan energie-investeringen dat per belastingplichtige per jaar in aanmerking wordt genomen niet meer bedraagt dan € 151.000.000:.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>In artikel 4.6, onderdeel e, wordt «onderdeel f» vervangen door «onderdeel e».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">D</lidnr>
+                  <wat>In artikel 4.13, vijfde lid, wordt «zesde lid» vervangen door «vierde lid».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">E</lidnr>
+                  <wat>In artikel 4.41, derde lid, derde zin, wordt «verwijdende en de verkrijgende vennootschap» vervangen door «verdwijnende en de verkrijgende vennootschap houdt».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">F</lidnr>
+                  <wat>Artikel 10a.4 wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>Het opschrift komt te luiden: </wat>
+                     <artikeltekst>
+                        <al>Overgangsbepaling bij artikel 3.20 in verband met de wijziging van artikel 3.20 per 1 januari 2017.</al>
+                     </artikeltekst>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>Het tweede tot en met vierde lid vervallen, onder vernummering van het vijfde lid tot tweede lid. </wat>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">G</lidnr>
+                  <wat>In artikel 10b.1 vervallen het tweede lid alsmede de aanduiding «1.» voor het eerste lid.</wat>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">II</nr>
+               </kop>
+               <wat type="wijziging">In de Wet inkomstenbelasting 2001 vervalt met ingang van 1 januari 2031 artikel 10a.4, tweede lid, onder vernummering van het derde lid tot tweede lid.</wat>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">III</nr>
+               </kop>
+               <wat type="wijziging">[<nadruk type="cur">Vervallen</nadruk>]</wat>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">IV</nr>
+               </kop>
+               <wat type="wijziging">De Wet op de loonbelasting 1964 wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>In artikel 10a, negende lid, wordt «vierde lid, onderdeel a» vervangen door «vierde lid, onderdeel b». </wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>[<nadruk type="cur">Vervallen</nadruk>]</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>Artikel 35o komt te luiden:</wat>
+                  <wijziging>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">35o</nr>
+                        </kop>
+                        <al>Artikel 38q, derde en vierde lid, vervalt met ingang van 1 januari 2028.</al>
+                     </artikel>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">D</lidnr>
+                  <wat>Artikel 36c, tweede tot en met vierde lid, vervalt, onder vernummering van het vijfde lid tot tweede lid.</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">E</lidnr>
+                  <wat>Artikel 38b wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>In het derde lid wordt «onderdelen d of e» vervangen door «onderdelen d of e,» en vervalt «, van deze wet».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>Er wordt een lid toegevoegd, luidende:</wat>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">4.</lidnr>
+                           <al>Het tweede lid is niet van toepassing op:</al>
+                           <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                              <li>
+                                 <li.nr>a.</li.nr>
+                                 <al>een aanspraak ingevolge een wezenpensioenregeling als bedoeld in artikel 18c zoals dat luidde op 30 juni 2023 die is ontstaan of waarvan de uitkeringen zijn ingegaan voor het tijdstip waarop die aanspraak is omgezet in een aanspraak ingevolge een premieovereenkomst als bedoeld in artikel 10 van de Pensioenwet of artikel 28 van de Wet verplichte beroepspensioenregeling;</al>
+                              </li>
+                              <li>
+                                 <li.nr>b.</li.nr>
+                                 <al>een aanspraak ingevolge een nabestaandenoverbruggingspensioenregeling als bedoeld in artikel 18f zoals dat luidde op 30 juni 2023 waarvan de uitkeringen zijn ingegaan voor het tijdstip waarop die aanspraak is omgezet in een aanspraak ingevolge een premieovereenkomst als bedoeld in artikel 10 van de Pensioenwet of artikel 28 van de Wet verplichte beroepspensioenregeling;</al>
+                              </li>
+                              <li>
+                                 <li.nr>c.</li.nr>
+                                 <al>een aanspraak ingevolge een overbruggingspensioenregeling als bedoeld in artikel 38f zoals dat luidde op 30 juni 2023 waarvan de uitkeringen zijn ingegaan voor het tijdstip waarop die aanspraak is omgezet in een aanspraak ingevolge een premieovereenkomst als bedoeld in artikel 10 van de Pensioenwet of artikel 28 van de Wet verplichte beroepspensioenregeling.</al>
+                              </li>
+                           </lijst>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">F</lidnr>
+                  <wat>Aan artikel 38d wordt een lid toegevoegd, luidende: </wat>
+                  <wijziging>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">3.</lidnr>
+                           <al>Artikel 18d, derde lid, is van overeenkomstige toepassing op een prepensioenregeling als bedoeld in het eerste lid waarvan de uitkeringen zijn ingegaan voor het tijdstip waarop die aanspraak is omgezet in een aanspraak ingevolge een premieovereenkomst als bedoeld in artikel 10 van de Pensioenwet of artikel 28 van de Wet verplichte beroepspensioenregeling.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">G</lidnr>
+                  <wat>Aan artikel 38q wordt een lid toegevoegd, luidende:</wat>
+                  <wijziging>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">4.</lidnr>
+                           <al>Het derde lid is uitsluitend van toepassing voor op 25 april 2025 bestaande regelingen waarin de opbouw niet of niet volledig is gekoppeld aan een franchise.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">V</nr>
+               </kop>
+               <wat type="wijziging">In de Wet op de loonbelasting 1964 vervalt met ingang van 1 januari 2031 artikel 36c, tweede lid, onder vernummering van het derde lid tot tweede lid.</wat>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">VI</nr>
+               </kop>
+               <wat type="wijziging">[<nadruk type="cur">Vervallen</nadruk>]</wat>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">VII</nr>
+               </kop>
+               <wat type="wijziging">De Wet op de vennootschapsbelasting 1969 wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>In artikel 2, twaalfde lid, wordt «twaalfde lid» vervangen door «elfde lid».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>Aan artikel 15bd, tweede lid, onderdeel b, wordt toegevoegd «of natuurlijke personen».</wat>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">VIII</nr>
+               </kop>
+               <wat type="wijziging">In de Wet bronbelasting 2021 wordt in artikel 2.1, zevende lid, «twaalfde lid» vervangen door «elfde lid».</wat>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">IX</nr>
+               </kop>
+               <wat type="wijziging">De Wet op belastingen van rechtsverkeer wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>In artikel 9, vijfde lid, tweede zin, wordt na «bedrag aan belasting» ingevoegd «is ten minste gelijk aan het bedrag aan belasting ingevolge de toepassing van het vierde lid, maar».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>In artikel 13, vierde lid, tweede zin, wordt na «bedrag aan belasting» ingevoegd «is ten minste gelijk aan het bedrag aan belasting ingevolge de toepassing van het eerste lid, maar».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>In artikel 14, derde lid, wordt «zevende» vervangen door «achtste».</wat>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">X</nr>
+               </kop>
+               <wat type="wijziging">De Wet op de belasting van personenauto’s en motorrijwielen 1992 wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>In artikel 6, derde lid, wordt «onder 3°» vervangen door «onder 2°».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>In artikel 16b, tweede lid, wordt «tabellen» vervangen door «tabel».</wat>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XI</nr>
+               </kop>
+               <wat type="wijziging">In de Wet op de motorrijtuigenbelasting 1994 vervalt hoofdstuk VI.</wat>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XII</nr>
+               </kop>
+               <wat type="wijziging">Artikel 10 van de Wet belasting zware motorrijtuigen wordt als volgt gewijzigd:</wat>
+               <wijziging>
+                  <nr status="officieel">1.</nr>
+                  <wat>In het eerste lid wordt in de tabel in kolom 4 «€ 318» vervangen door «€ 319».  </wat>
+               </wijziging>
+               <wijziging>
+                  <nr status="officieel">2.</nr>
+                  <wat>In het tweede lid wordt in de tabel in kolom 4 «€ 127» vervangen door «€ 124».</wat>
+               </wijziging>
+               <wijziging>
+                  <nr status="officieel">3.</nr>
+                  <wat>In het derde lid wordt in de tabel in kolom 4 «€ 11» vervangen door «€ 12».</wat>
+               </wijziging>
+               <wijziging>
+                  <nr status="officieel">4.</nr>
+                  <wat>In het vierde lid wordt in de tabel in kolom 4 «€ 11» vervangen door «€ 12» en «€ 3» door «€ 4».</wat>
+               </wijziging>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XIII</nr>
+               </kop>
+               <wat type="wijziging">In de Wet belastingen op milieugrondslag wordt in artikel 64, vierde en vijfde lid, «21 juli 2008» vervangen door «6 september 2025».</wat>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XIV</nr>
+               </kop>
+               <wat type="wijziging">In de Algemene douanewet komt artikel 1:6 te luiden:</wat>
+               <wijziging>
+                  <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">1:6</nr>
+                     </kop>
+                     <lid>
+                        <lidnr status="officieel">1.</lidnr>
+                        <al>De artikelen 2:13, 2:21, derde lid, 2:22, 2:23 en 2:25 van de Algemene wet bestuursrecht zijn niet van toepassing.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2.</lidnr>
+                        <al>De artikelen 2:7, tweede lid, 2:8, 2:10, 2:11, 2:12 en 2:17, eerste lid, van de Algemene wet bestuursrecht zijn niet van toepassing voor zover:</al>
+                        <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>informatie wordt uitgewisseld met marktdeelnemers met behulp van elektronische gegevensverwerkingstechnieken als bedoeld in artikel 6 van het Douanewetboek van de Unie;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>gedelegeerde handelingen zijn vastgesteld als bedoeld in artikel 7, onderdeel b, van het Douanewetboek van de Unie; of</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>bij regelingen als bedoeld in artikel 1:1, tweede, vierde en vijfde lid, het verkeer langs elektronische weg wordt geregeld.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3.</lidnr>
+                        <al>In afwijking van artikelen 2:7 en 2:8 van de Algemene wet bestuursrecht voor zover deze artikelen toepassing vinden kunnen bij ministeriële regeling berichten worden aangewezen waarvoor, alsmede omstandigheden waaronder, het berichtenverkeer uitsluitend langs elektronische weg plaatsvindt dan wel uitsluitend langs andere dan elektronische weg plaatsvindt.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4.</lidnr>
+                        <al>Titel 5.2 van de Algemene wet bestuursrecht is niet van toepassing.</al>
+                     </lid>
+                  </artikel>
+               </wijziging>
+            </wijzig-artikel>
+            <artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XV</nr>
+               </kop>
+               <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Afdeling 2.3 van de Algemene wet bestuursrecht zoals die luidde voor inwerkingtreding van artikel I, onderdeel D, van de Wet modernisering elektronisch bestuurlijk verkeer blijft van toepassing op:</al>
+                  <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                     <li>
+                        <li.nr>a.</li.nr>
+                        <al>de Wet compensatie wegens selectie aan de poort;</al>
+                     </li>
+                     <li>
+                        <li.nr>b.</li.nr>
+                        <al>de Wet hersteloperatie toeslagen;</al>
+                     </li>
+                     <li>
+                        <li.nr>c.</li.nr>
+                        <al>regelingen die zijn gegrond op andere wetten dan een belastingwet als bedoeld in artikel 2, eerste lid, onderdeel a, van de Algemene wet inzake rijksbelastingen en ter zake waarvan aan een functionaris van de rijksbelastingdienst mandaat, volmacht of machtiging is verleend;</al>
+                     </li>
+                     <li>
+                        <li.nr>d.</li.nr>
+                        <al>beleidsregels betreffende het verlenen van uitstel van betaling voor de invordering van rijksbelastingen die door de COVID-19-pandemie zijn veroorzaakt.</al>
+                     </li>
+                  </lijst>
+               </lid>
+               <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Bij ministeriële regeling kan worden bepaald dat in afwijking van artikel 2:7, eerste lid, van de Algemene wet bestuursrecht het berichtenverkeer met de directeur, de inspecteur of de ontvanger, bedoeld in artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen of het bestuur van ’s Rijks belastingen, bedoeld in artikel 2, vierde lid, van die wet, niet op elektronische wijze plaatsvindt.</al>
+               </lid>
+            </artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XVI</nr>
+               </kop>
+               <wat type="wijziging">De Invorderingswet 1990 wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>In artikel 70b, tweede lid, wordt «eenentwintigste lid» vervangen door «tweeëntwintigste lid».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>In artikel 70g, vijfde lid, wordt «zevende lid» vervangen door «zesde lid».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>In artikel 70h, vijfde lid, wordt «zevende lid» vervangen door «zesde lid».</wat>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XVII</nr>
+               </kop>
+               <wat type="wijziging">In de Wet aanpassing fonds voor gemene rekening en vrijgestelde beleggingsinstelling wordt na artikel IXa een artikel ingevoegd, luidende:</wat>
+               <wijziging>
+                  <artikel status="goed">
+                     <kop>
+                        <label>ARTIKEL</label>
+                        <nr status="officieel">IXB</nr>
+                     </kop>
+                     <lid>
+                        <lidnr status="officieel">1.</lidnr>
+                        <al>Indien een lichaam daarvoor kiest wordt dat lichaam met ingang van 1 januari 2025 niet aangemerkt als fonds voor gemene rekening of lichaam opgericht of aangegaan naar het recht van een andere staat dat een met een fonds voor gemene rekening vergelijkbare rechtsvorm heeft, mits:</al>
+                        <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>dat lichaam zonder toepassing van dit artikel met ingang van 1 januari 2025 belastingplichtig zou zijn op grond van artikel 2, eerste lid, onderdeel f, van de Wet op de vennootschapsbelasting 1969, onderscheidenlijk artikel 3, eerste lid, onderdeel a, van die wet;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>onmiddellijk voorafgaand aan 1 januari 2025 dat lichaam niet belastingplichtig was op grond van artikel 2 of 3 van de Wet op de vennootschapsbelasting 1969 en de bezittingen en schulden alsmede de opbrengsten en kosten van dat lichaam aan de participanten van dat lichaam werden toegerekend; en</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>ingeval dat lichaam niet aan de in artikel IXa, onderdeel d, opgenomen voorwaarde voldoet, de participanten aan wie de bezittingen en schulden alsmede de opbrengsten en kosten van dat lichaam als gevolg van de keuze, bedoeld in de aanhef, op grond van artikel 2.14bis, eerste of tweede lid, van de Wet inkomstenbelasting 2001 gedurende het jaar 2025 worden toegerekend uiterlijk op 28 februari 2026 instemmen met die keuze van dat lichaam.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2.</lidnr>
+                        <al>Het eerste lid is van overeenkomstige toepassing indien een lichaam is opgericht of aangegaan op of na 1 januari 2025, met dien verstande dat voor 1 januari 2025 wordt gelezen het moment waarop dat lichaam is opgericht of aangegaan en dat de voorwaarde die is opgenomen in het eerste lid, onderdeel b niet van toepassing is.</al>
+                     </lid>
+                  </artikel>
+               </wijziging>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XVIII</nr>
+               </kop>
+               <wat type="wijziging">In de Wet aanpassing fonds voor gemene rekening en vrijgestelde beleggingsinstelling vervalt met ingang van 1 januari 2028 artikel IXb.</wat>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XIX</nr>
+               </kop>
+               <wat type="wijziging">In de Wet aanpassing fiscale bedrijfsopvolgingsfaciliteiten 2025 wordt artikel IV, onderdeel C, als volgt gewijzigd: </wat>
+               <wijziging>
+                  <nr status="officieel">1.</nr>
+                  <wat>Onderdeel 2 vervalt.</wat>
+               </wijziging>
+               <wijziging>
+                  <nr status="officieel">2.</nr>
+                  <wat>In het in onderdeel 3 opgenomen vijfde lid wordt «vierde zin» vervangen door «derde zin».</wat>
+               </wijziging>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XX</nr>
+               </kop>
+               <wat type="wijziging">In artikel 25, tweede lid, van de Wet inkomstenbelasting BES wordt «25.113» vervangen door «26.552» en wordt «3.204» vervangen door «3.270». Voorts wordt «2.060» vervangen door «2.158».</wat>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XXI</nr>
+               </kop>
+               <wat type="wijziging">In het Belastingplan 2025 wordt in artikel LVIIIA «vierde lid» vervangen door «eerste lid».</wat>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XXII</nr>
+               </kop>
+               <wat type="wijziging">In Overige fiscale maatregelen 2026 vervallen in artikel XV met ingang van 1 januari 2030 het tweede lid alsmede de aanduiding «1» voor het eerste lid.</wat>
+            </wijzig-artikel>
+            <artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XXIII</nr>
+               </kop>
+               <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Deze wet treedt in werking met ingang van 1 januari 2026, met dien verstande dat:</al>
+                  <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                     <li>
+                        <li.nr>a.</li.nr>
+                        <al>artikel I, onderdeel G, toepassing vindt nadat artikel 10b.1 van de Wet inkomstenbelasting 2001 is toegepast;</al>
+                     </li>
+                     <li>
+                        <li.nr>b.</li.nr>
+                        <al>artikel I, onderdelen C en E, artikel IV, onderdelen E, onder 2, en F, artikel VII, onderdeel A, artikel VIII, artikel XVI, onderdelen B en C, artikel XVII, en artikel XXI terugwerken tot en met 1 januari 2025;</al>
+                     </li>
+                     <li>
+                        <li.nr>c.</li.nr>
+                        <al>artikel I, onderdeel D, terugwerkt tot en met 1 januari 2023, waarbij artikel I, onderdeel D, geen toepassing vindt voor het jaar 2024;</al>
+                     </li>
+                     <li>
+                        <li.nr>d.</li.nr>
+                        <al>artikel IV, onderdelen A en E, onder 1, en artikel XVI, onderdeel A, terugwerken tot en met 1 januari 2023;</al>
+                     </li>
+                     <li>
+                        <li.nr>e.</li.nr>
+                        <al>artikel IV, onderdeel C, toepassing vindt nadat artikel 35o van de Wet op de loonbelasting 1964 met ingang van 1 januari 2026 is toegepast;</al>
+                     </li>
+                     <li>
+                        <li.nr>f.</li.nr>
+                        <al>artikel IX, onderdeel C, toepassing vindt voordat artikel XXA, onderdeel C, van het Belastingplan 2025 wordt toegepast en terugwerkt tot en met 1 januari 2025;</al>
+                     </li>
+                     <li>
+                        <li.nr>g.</li.nr>
+                        <al>artikel XII terugwerkt tot en met 25 maart 2025;</al>
+                     </li>
+                     <li>
+                        <li.nr>h.</li.nr>
+                        <al>artikel XIII terugwerkt tot en met 6 september 2025;</al>
+                     </li>
+                     <li>
+                        <li.nr>i.</li.nr>
+                        <al>artikel XIX toepassing vindt voordat artikel IV, onderdeel C, onder 2 en 3, van de Wet aanpassing bedrijfsopvolgingsfaciliteiten 2025 wordt toegepast.</al>
+                     </li>
+                  </lijst>
+               </lid>
+               <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>In afwijking van het eerste lid treedt artikel XIV in werking met ingang van de dag waarop artikel I, onderdeel D, van de Wet modernisering elektronisch bestuurlijk verkeer in werking treedt.</al>
+               </lid>
+               <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>In afwijking van het eerste lid treedt artikel XI in werking op het tijdstip waarop artikel 30 van de Wet vrachtwagenheffing in werking treedt.</al>
+               </lid>
+            </artikel>
+            <artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XXIV</nr>
+               </kop>
+               <al>Deze wet wordt aangehaald als: Overige fiscale maatregelen 2026.</al>
+            </artikel>
+         </wettekst>
+         <wetsluiting status="goed">
+            <slotformulering>
+               <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+            </slotformulering>
+            <histnoot type="parlementair">
+               <al>Kamerstuk <dossierref dossier="36813">36 813</dossierref>
+               </al>
+            </histnoot>
+            <gegeven>
+               <label>Gegeven te </label>
+               <dagtekening>
+                  <plaats>’s-Gravenhage,</plaats>
+                  <datum isodatum="2025-12-17">17 december 2025</datum>
+               </dagtekening>
+               <koning>Willem-Alexander</koning>
+            </gegeven>
+            <ondertekening>
+               <functie>De Staatssecretaris van Financiën,</functie>
+               <naam>
+                  <voornaam>E.H.J.</voornaam>
+                  <achternaam>Heijnen</achternaam>
+               </naam>
+            </ondertekening>
+            <uitgifte>
+               <datum isodatum="2025-12-23">Uitgegeven de <nadruk type="cur">drieëntwintigste</nadruk> december 2025</datum>
+               <ondertekening>
+                  <functie>De Minister van Justitie en Veiligheid,</functie>
+		                <naam>
+                     <voornaam>F. van</voornaam>
+                     <achternaam>Oosten</achternaam>
+                  </naam>
+		             </ondertekening>
+            </uitgifte>
+         </wetsluiting>
+      </wet-besluit>
+   </staatsblad>
+</officiele-publicatie>

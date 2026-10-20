@@ -1,0 +1,45 @@
+{
+  "checked_at": "2026-10-20T17:23:54.051040+00:00",
+  "scope": "Selective independent re-reading of six existing primary authorities; no newly discovered judgment added.",
+  "primary_full_text_read": [
+    "ECLI:NL:RVS:2021:1232",
+    "ECLI:NL:CRVB:2021:1500",
+    "ECLI:NL:RVS:2020:1682",
+    "ECLI:NL:CBB:2024:31",
+    "ECLI:NL:CBB:2026:406",
+    "ECLI:NL:RVS:2021:786"
+  ],
+  "discovery_command": [
+    "rg",
+    "-l",
+    "-i",
+    "6:11|6:13|5:51",
+    "/Volumes/LaCie/law-intake/eu/nl/rechtspraak"
+  ],
+  "local_discovery": "sources/review-015/local-matches.txt",
+  "direct_official_requests": "sources/review-015/verification.json",
+  "earlier_author_search": "sources/author-5-51-6-16/case-search-log.json",
+  "no_separate_case_added_for": [
+    "art-5:52",
+    "art-5:53",
+    "art-5:54",
+    "art-6:1",
+    "art-6:2",
+    "art-6:3",
+    "art-6:4",
+    "art-6:5",
+    "art-6:6",
+    "art-6:8",
+    "art-6:10",
+    "art-6:12",
+    "art-6:14",
+    "art-6:15",
+    "art-6:16"
+  ],
+  "limitations": [
+    "Exploratory local hits are not themselves verified authority; only the six listed full judgments are used.",
+    "No claim of exhaustive case-law coverage or absence of cases for technical units.",
+    "No current registration status of a concrete post carrier, complete ATW holiday calendar, or historical sector-law updating asserted.",
+    "Firecrawl status: authenticated with zero credits; direct official HTTP used."
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2009-264.xml",
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2009-264.xml",
+    "content_type": "text/xml",
+    "accessed_at": "2026-10-20T17:21:30.770364+00:00",
+    "path": "sources/review-015/stb-2009-264.xml",
+    "bytes": 124462,
+    "sha256": "af4f3ab5e3321978e314242c0f1785819027c3252832f80ae2f8e5237ecd6e2b",
+    "xml_root": "officiele-publicatie",
+    "accepted_format": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2012-682.xml",
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2012-682.xml",
+    "content_type": "text/xml",
+    "accessed_at": "2026-10-20T17:21:31.078594+00:00",
+    "path": "sources/review-015/stb-2012-682.xml",
+    "bytes": 569062,
+    "sha256": "cb7cf9a5570bcdb37a2ce72d9e06a8c6c617645611058165304bb3b470f78225",
+    "xml_root": "officiele-publicatie",
+    "accepted_format": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2016-288.xml",
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2016-288.xml",
+    "content_type": "text/xml",
+    "accessed_at": "2026-10-20T17:21:30.860794+00:00",
+    "path": "sources/review-015/stb-2016-288.xml",
+    "bytes": 154072,
+    "sha256": "82329ca5901ba46749999e33e112f276de470b9f8aacf5143a5889cf72521737",
+    "xml_root": "officiele-publicatie",
+    "accepted_format": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2024-321.xml",
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2024-321.xml",
+    "content_type": "text/xml",
+    "accessed_at": "2026-10-20T17:21:30.671332+00:00",
+    "path": "sources/review-015/stb-2024-321.xml",
+    "bytes": 4554,
+    "sha256": "8913c0fb1a44e6662cd80bd5db52efabfd860ba06a98e9a3f1e3426b2364296a",
+    "xml_root": "officiele-publicatie",
+    "accepted_format": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2025-445.xml",
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2025-445.xml",
+    "content_type": "text/xml",
+    "accessed_at": "2026-10-20T17:21:30.955186+00:00",
+    "path": "sources/review-015/stb-2025-445.xml",
+    "bytes": 35950,
+    "sha256": "08cba7004610854cfbfd66737b97843fa1f16100f1ea956b6a7b083fa5d34351",
+    "xml_root": "officiele-publicatie",
+    "accepted_format": true
+  }
+]
