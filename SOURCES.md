@@ -1,6 +1,6 @@
 # Bronnen en controlebewijs
 
-Gecontroleerd op 19 oktober 2026. Zie het [verificatieregister](sources/verification.json) voor de afzonderlijke toegangstijden, HTTP-statussen en hashes.
+Gecontroleerd op 19 oktober 2026 en voor deze bron- en parsercontrole opnieuw op 20 oktober 2026. Zie het [verificatieregister](sources/verification.json) voor de afzonderlijke toegangstijden, HTTP-statussen en hashes.
 
 - [Officiële actuele Wettenbank-ingang](https://wetten.overheid.nl/BWBR0005537), [lokale respons](sources/landing.html): verwijzing naar de versie van 15 augustus 2026 en expliciete geldigheidsverklaring op de raadpleegdatum.
 - [Officiële versie-informatie](https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie), [lokale respons](sources/version-information.html).
@@ -12,3 +12,7 @@ Gecontroleerd op 19 oktober 2026. Zie het [verificatieregister](sources/verifica
 Het [zoeklog](sources/case-search-log.json) onderscheidt opgehaalde bronnen van werkelijk in commentaar gebruikte uitspraken. ECLI:NL:CBB:2024:31 is opgehaald en in het lokale corpus aangetroffen, maar nog niet inhoudelijk verwerkt of als dragende autoriteit gebruikt. Aan het ophalen alleen wordt geen inhoudelijke verificatieclaim verbonden. Het [corpuslog](sources/cases/local-corpus-check.json) bewaart de locaties en hashes van de aangetroffen nationale corpusbestanden.
 
 De directe peildatum-URL gaf HTTP 404 en het metadata-XML-verzoek een lege HTTP 204-respons. Beide zijn als onbruikbare verzoekresultaten geregistreerd, niet als canonieke wetstekst. Het officiële XML-bestand is op root-element en BWB-identificatie gecontroleerd.
+
+De [nieuwe HTTP-responsen](sources/preflight/requests.json) bevatten afzonderlijke bodies, statuscodes, formaatcontrole en hashes. De [versieanalyse](sources/version-analysis.json) controleert het gehele officiële wijzigingenoverzicht en vergelijkt de XML van 1 augustus 2026 afzonderlijk met de geselecteerde versie van 15 augustus. Alleen in bijlage 2, artikelen 7 en 11, verschilt de aldus vergeleken normtekst. De oudere consolidatie wordt niet aan de geldende tekst toegevoegd. De herhaalde download van de geselecteerde XML is identiek aan de download bij aanvang van het auteurswerk.
+
+De [structuurinventaris](sources/structural-inventory.json), [noteninventaris](sources/notes-inventory.json), [bijlagendekking](annex-coverage.json) en [preflight-uitkomst](preflight-result.json) verantwoorden ook ongenummerde formules, structurele koppen, redactionele noten en uitdrukkelijk vervallen of nog niet in werking getreden plaatsen. Er zijn in deze officiële XML geen afzonderlijke voetnootelementen aangetroffen.

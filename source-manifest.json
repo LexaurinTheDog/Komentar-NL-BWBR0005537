@@ -1,8 +1,8 @@
 [
   {
     "path": "sources/canonical.txt",
-    "sha256": "4178e3c439311aa1b26fecd2f9b3eb2cede1d0d647ccf061b5973fe6a6881dac",
-    "bytes": 376477
+    "sha256": "7a3c38fde613177fe078f374a25bd153fec6af8f7ddbfd1f337be95fe59a7cf1",
+    "bytes": 377436
   },
   {
     "path": "sources/case-search-log.json",
@@ -46,8 +46,8 @@
   },
   {
     "path": "sources/change-map.json",
-    "sha256": "9272dfee27bcf7a51526abd9d3385a9d8d29b08433d956f87a9345b56555a43d",
-    "bytes": 12900
+    "sha256": "aca35ecf1f199378cf2bf56eab9e4b47e1cade150c74673d70a7d795f14d91fc",
+    "bytes": 13729
   },
   {
     "path": "sources/current.html",
@@ -75,6 +75,11 @@
     "bytes": 4204181
   },
   {
+    "path": "sources/notes-inventory.json",
+    "sha256": "665a5033cf8f6d5feb8ee4bd1ac09738a96ae9cf6a6f8000742fe069df6b928d",
+    "bytes": 108193
+  },
+  {
     "path": "sources/official-metadata.xml",
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "bytes": 0
@@ -85,9 +90,134 @@
     "bytes": 305734
   },
   {
-    "path": "sources/verification.json",
+    "path": "sources/preflight/baseline/_audit.py",
+    "sha256": "140436a28b8f1e7ccc07aa57c48153d395a4ec5df704e764e9edf35607bc6429",
+    "bytes": 4974
+  },
+  {
+    "path": "sources/preflight/baseline/_checkpoint.py",
+    "sha256": "361b177673a26128fc0fd74f00dbf17fc9ced805af6a804b17e8206c939aa0ab",
+    "bytes": 4200
+  },
+  {
+    "path": "sources/preflight/baseline/_completeness.py",
+    "sha256": "b4278c683ec59f47a8573e9b0377ecc3b3282a7ba7c710cafaadf8aee904766a",
+    "bytes": 2694
+  },
+  {
+    "path": "sources/preflight/baseline/_parse.py",
+    "sha256": "0fc8a2f3bd97dbf5d24118d1bdecdc411a007e2fe2095f6a02acc63147862fa7",
+    "bytes": 4846
+  },
+  {
+    "path": "sources/preflight/baseline/build-validation-log.json",
+    "sha256": "1397fbaf3b7bce25cce748821c4fe65ece72a9cfbbc57dd2d25db483c90341b8",
+    "bytes": 850
+  },
+  {
+    "path": "sources/preflight/baseline/coverage-evidence.json",
+    "sha256": "f7a86724f6e16718546d8ad47733ccb1174ddc8c5b796dd1830ee16df6303205",
+    "bytes": 21372
+  },
+  {
+    "path": "sources/preflight/baseline/manifest.json",
+    "sha256": "c86c7ca030432c2d8e87b340b85f75789be0e13a14b1663cb5dffe946036d86a",
+    "bytes": 3237
+  },
+  {
+    "path": "sources/preflight/baseline/meta.json",
+    "sha256": "fee92122ee3a9734cc069032b9117aa5b22311cd45cc7627e48dd5ee7be7aa40",
+    "bytes": 4459
+  },
+  {
+    "path": "sources/preflight/baseline/source-manifest.json",
+    "sha256": "407fcfc454189401b51be6fe7085e998042c1529e9d6107759e83f3dd7629f9f",
+    "bytes": 3110
+  },
+  {
+    "path": "sources/preflight/baseline/sources/canonical.txt",
+    "sha256": "4178e3c439311aa1b26fecd2f9b3eb2cede1d0d647ccf061b5973fe6a6881dac",
+    "bytes": 376477
+  },
+  {
+    "path": "sources/preflight/baseline/sources/change-map.json",
+    "sha256": "9272dfee27bcf7a51526abd9d3385a9d8d29b08433d956f87a9345b56555a43d",
+    "bytes": 12900
+  },
+  {
+    "path": "sources/preflight/baseline/sources/editorial-notes.json",
+    "sha256": "70292453ff54f0857600c3ad3beea4657948ef57f7d373784c0318404a4e724c",
+    "bytes": 72800
+  },
+  {
+    "path": "sources/preflight/baseline/sources/verification.json",
     "sha256": "38638eaf1c995bcc1e5456deee8e4cf838adb80495171152d80cde94aadf4b54",
     "bytes": 5757
+  },
+  {
+    "path": "sources/preflight/baseline/status.json",
+    "sha256": "3e5a147f5cb2dc0d653346175e8141989926d88fc079fb6846096c52f3b17a02",
+    "bytes": 11480
+  },
+  {
+    "path": "sources/preflight/baseline/strict-validation.json",
+    "sha256": "65f8066b803fd0b51dbc5c35cd6ecc2b7ab1a7da342b32536a5943c519fac9fa",
+    "bytes": 371
+  },
+  {
+    "path": "sources/preflight/baseline/technical-audit.json",
+    "sha256": "513a1099734fbcc977ebdd713afaa3d06455b4c92794c76d1d952d4fa4d4f748",
+    "bytes": 749
+  },
+  {
+    "path": "sources/preflight/baseline/units.jsonl",
+    "sha256": "eb8e238368243226c76ade758e9555ca83e6c1d3f38fe548935a009acd21f3d9",
+    "bytes": 640906
+  },
+  {
+    "path": "sources/preflight/current-landing.html",
+    "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+    "bytes": 4204181
+  },
+  {
+    "path": "sources/preflight/decisive-date.html",
+    "sha256": "039105fb83129a7c5771a9c950cb81de5278ecdc0f6c1b3df6bcfe740e9a2991",
+    "bytes": 8702
+  },
+  {
+    "path": "sources/preflight/previous-official.xml",
+    "sha256": "04d8986ae1ad30cc84a00bfd91d1ca79a3ea6a0be48aeaf5bcb1fc5e606ebc66",
+    "bytes": 2620315
+  },
+  {
+    "path": "sources/preflight/requests.json",
+    "sha256": "2daa4d274665ca8600fbbfcf157d9ac1977cf752543ae32635c05874bdb9b700",
+    "bytes": 5511
+  },
+  {
+    "path": "sources/preflight/selected-official.xml",
+    "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "bytes": 2622149
+  },
+  {
+    "path": "sources/preflight/version-information.html",
+    "sha256": "9c82878fb41b29d17380d2919af4acab8e9de8f546f395ae5c03bb19749a227a",
+    "bytes": 1748379
+  },
+  {
+    "path": "sources/structural-inventory.json",
+    "sha256": "9f4631e4a7cf252d0a1785d04ae3a072a198d3a430bae6df2bb11487b179414d",
+    "bytes": 22075
+  },
+  {
+    "path": "sources/verification.json",
+    "sha256": "0b4f75121ab5bbd9d5d6107103d43f28c947c9ddafd25b1c19493bdd4ff923ab",
+    "bytes": 12507
+  },
+  {
+    "path": "sources/version-analysis.json",
+    "sha256": "329fce80c7a0c131988b0e16481dc469bd0ff908feea2f077a6aa4d908729364",
+    "bytes": 512269
   },
   {
     "path": "sources/version-information.html",

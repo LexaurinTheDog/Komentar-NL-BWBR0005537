@@ -5,6 +5,7 @@
     "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871"
   },
   "expected_ids": [
+    "aanhef",
     "art-1:1",
     "art-1:2",
     "art-1:3",
@@ -576,6 +577,8 @@
     "art-11:2",
     "art-11:3",
     "art-11:4",
+    "wetsluiting",
+    "bijlage-1",
     "bijlage-2-art-1",
     "bijlage-2-art-2",
     "bijlage-2-art-3",
@@ -589,10 +592,10 @@
     "bijlage-2-art-11",
     "bijlage-2-art-12",
     "bijlage-3-art-1",
-    "bijlage-3-art-2",
-    "bijlage-1"
+    "bijlage-3-art-2"
   ],
   "parsed_ids": [
+    "aanhef",
     "art-1:1",
     "art-1:2",
     "art-1:3",
@@ -1164,6 +1167,7 @@
     "art-11:2",
     "art-11:3",
     "art-11:4",
+    "wetsluiting",
     "bijlage-1",
     "bijlage-2-art-1",
     "bijlage-2-art-2",
@@ -1184,23 +1188,72 @@
     {
       "annex": "1",
       "official_path": "/Bijlage1",
-      "title": "Bijlage \n     1 \n     Regeling rechtstreeks beroep ( artikel 7:1, eerste lid, onderdeel g )",
+      "title": "Bijlage 1 Regeling rechtstreeks beroep (artikel 7:1, eerste lid, onderdeel g)",
       "article_count": 0,
-      "disposition": "Afzonderlijke volledige bijlage-eenheid"
+      "expected_child_ids": [],
+      "expected_unit_ids": [
+        "bijlage-1"
+      ],
+      "direct_body_paragraph_count": 32,
+      "disposition": "Entire unnumbered operative schedule retained as a single unit; no paragraph omitted.",
+      "evidence_path": "sources/intake-official.xml",
+      "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871"
     },
     {
       "annex": "2",
       "official_path": "/Bijlage2",
-      "title": "Bijlage \n     2 \n     Bevoegdheidsregeling bestuursrechtspraak ( artikelen 8:5 ,  8:6 ,  8:7 ,  8:105  en  8:106 )",
+      "title": "Bijlage 2 Bevoegdheidsregeling bestuursrechtspraak (artikelen 8:5, 8:6, 8:7, 8:105 en 8:106)",
       "article_count": 12,
-      "disposition": "Alle genummerde artikelen als afzonderlijke eenheden, met bijlagevoorvoegsel"
+      "expected_child_ids": [
+        "bijlage-2-art-1",
+        "bijlage-2-art-2",
+        "bijlage-2-art-3",
+        "bijlage-2-art-4",
+        "bijlage-2-art-5",
+        "bijlage-2-art-6",
+        "bijlage-2-art-7",
+        "bijlage-2-art-8",
+        "bijlage-2-art-9",
+        "bijlage-2-art-10",
+        "bijlage-2-art-11",
+        "bijlage-2-art-12"
+      ],
+      "expected_unit_ids": [
+        "bijlage-2-art-1",
+        "bijlage-2-art-2",
+        "bijlage-2-art-3",
+        "bijlage-2-art-4",
+        "bijlage-2-art-5",
+        "bijlage-2-art-6",
+        "bijlage-2-art-7",
+        "bijlage-2-art-8",
+        "bijlage-2-art-9",
+        "bijlage-2-art-10",
+        "bijlage-2-art-11",
+        "bijlage-2-art-12"
+      ],
+      "direct_body_paragraph_count": 0,
+      "disposition": "All numbered annex articles retained separately with annex-prefixed identifiers.",
+      "evidence_path": "sources/intake-official.xml",
+      "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871"
     },
     {
       "annex": "3",
       "official_path": "/Bijlage3",
-      "title": "Bijlage \n     3 \n     Regeling verlaagd griffierecht ( artikelen 8:41  en  8:109 )",
+      "title": "Bijlage 3 Regeling verlaagd griffierecht (artikelen 8:41 en 8:109)",
       "article_count": 2,
-      "disposition": "Alle genummerde artikelen als afzonderlijke eenheden, met bijlagevoorvoegsel"
+      "expected_child_ids": [
+        "bijlage-3-art-1",
+        "bijlage-3-art-2"
+      ],
+      "expected_unit_ids": [
+        "bijlage-3-art-1",
+        "bijlage-3-art-2"
+      ],
+      "direct_body_paragraph_count": 0,
+      "disposition": "All numbered annex articles retained separately with annex-prefixed identifiers.",
+      "evidence_path": "sources/intake-official.xml",
+      "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871"
     }
   ],
   "missing_ids": [],
@@ -1208,8 +1261,12 @@
   "duplicate_expected_ids": [],
   "duplicate_parsed_ids": [],
   "official_article_count": 584,
-  "expected_count": 586,
-  "parsed_count": 586,
+  "expected_count": 588,
+  "parsed_count": 588,
+  "official_unnumbered_formulas": [
+    "aanhef",
+    "wetsluiting"
+  ],
   "repealed_units": [
     "art-3:30",
     "art-3:31",
@@ -1231,12 +1288,55 @@
     "art-8:73a",
     "art-11:1"
   ],
-  "conditional_variants": {
-    "art-8:36c": "Twee in de officiële consolidatie opgenomen toepassingsvarianten blijven afzonderlijk gemarkeerd; geen gelijktijdige ledenreeks."
+  "not_yet_effective_slots": [
+    {
+      "id": "art-2:10",
+      "status": "Includes explicit non-commencement indication, not a missing provision."
+    }
+  ],
+  "conditional_variants": [
+    {
+      "id": "art-8:36c--digitaal",
+      "official_lid_paths": [
+        "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid1_1",
+        "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid2_1",
+        "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid3_1",
+        "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid4_1"
+      ],
+      "disposition": "Conditional series preserved separately, not a historical version concatenation."
+    },
+    {
+      "id": "art-8:36c--overig",
+      "official_lid_paths": [
+        "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid1_2",
+        "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid2_2",
+        "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid3_2",
+        "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a/Artikel8:36c/Lid4_2"
+      ],
+      "disposition": "Conditional series preserved separately, not a historical version concatenation."
+    }
+  ],
+  "full_text_comparison": {
+    "units_compared": 588,
+    "errors": [],
+    "ok": true
+  },
+  "structural_headings": {
+    "checked": 126,
+    "missing": [],
+    "evidence": "sources/structural-inventory.json"
+  },
+  "footnote_disposition": {
+    "explicit_footnote_elements": 0,
+    "editorial_elements": 27,
+    "metadata_remarks": 455,
+    "evidence": "sources/notes-inventory.json",
+    "account": "No separate footnote elements in this XML. All editorial extra notes and metadata remarks are preserved in a separate inventory; replacement/status indications remain in the extracted wording."
   },
   "limitations": [
-    "Identifierdekking bewijst geen inhoudelijke juistheid van commentaar.",
-    "Niet in werking getreden leden en redactionele toelichtingen zijn afzonderlijk herkenbaar; operationele toepasselijkheid moet per procedure worden beoordeeld."
+    "Source coverage does not establish commentary quality or completion.",
+    "Conditional digital-procedure applicability must be assessed for the individual proceeding.",
+    "Historical versions are compared separately and never added to the effective unit inventory."
   ],
   "ok": true
 }

@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-19T17:06:19.713079+00:00",
+  "updated_at": "2026-10-20T13:48:59.642633+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -8,13 +8,16 @@
     "official_xml_http": 200,
     "valid_xml": true,
     "landing_http": 200,
-    "landing_effective_statement": "Geraadpleegd op 19-10-2026. Geldend van 15-08-2026 t/m heden.",
+    "landing_effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 15-08-2026 t/m heden.",
     "date_url_http": 404,
     "version_information_http": 200,
-    "evidence": "sources/verification.json"
+    "evidence": "sources/verification.json",
+    "verified_at": "2026-10-20T13:47:01.778268+00:00",
+    "current_recheck_date": "2026-10-20",
+    "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871"
   },
   "official_articles": 584,
-  "total_units": 586,
+  "total_units": 588,
   "completed_units": 172,
   "completed_ids": [
     "art-1:1",
@@ -191,6 +194,7 @@
     "art-4:84"
   ],
   "missing_commentary_ids": [
+    "aanhef",
     "art-4:85",
     "art-4:86",
     "art-4:87",
@@ -590,6 +594,7 @@
     "art-11:2",
     "art-11:3",
     "art-11:4",
+    "wetsluiting",
     "bijlage-1",
     "bijlage-2-art-1",
     "bijlage-2-art-2",
@@ -639,5 +644,10 @@
     "Geen uitputtende rechtspraakrecherche of inventaris van alle lagere en tijdelijke uitzonderingsregelingen.",
     "Technische identifierdekking vervangt geen juridische kwaliteitscontrole."
   ],
+  "preflight": {
+    "complete": true,
+    "evidence": "preflight-result.json",
+    "scope": "Source and parser only; manuscript incomplete."
+  },
   "technical_audit": "technical-audit.json"
 }

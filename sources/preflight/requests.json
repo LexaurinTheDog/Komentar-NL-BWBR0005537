@@ -1,0 +1,138 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537",
+    "accessed_at": "2026-10-20T13:43:21.686745+00:00",
+    "path": "sources/preflight/current-landing.html",
+    "http_status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+    "response_headers": {
+      "Server": "nginx",
+      "Date": "Tue, 20 Oct 2026 13:43:23 GMT",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "close",
+      "Content-Language": "en-US",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Content-Security-Policy": "frame-ancestors 'self'",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "Permissions-Policy": "accelerometer=(), camera=(), gyroscope=(), magnetometer=(), microphone=(), payment=()"
+    },
+    "bytes": 4204181,
+    "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+    "format_validation": {
+      "accepted_html": true
+    }
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+    "accessed_at": "2026-10-20T13:43:21.687290+00:00",
+    "path": "sources/preflight/version-information.html",
+    "http_status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+    "response_headers": {
+      "Server": "nginx",
+      "Date": "Tue, 20 Oct 2026 13:43:22 GMT",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "close",
+      "Content-Language": "en-US",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Content-Security-Policy": "frame-ancestors 'self'",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "Permissions-Policy": "accelerometer=(), camera=(), gyroscope=(), magnetometer=(), microphone=(), payment=()"
+    },
+    "bytes": 1748379,
+    "sha256": "9c82878fb41b29d17380d2919af4acab8e9de8f546f395ae5c03bb19749a227a",
+    "format_validation": {
+      "accepted_html": true
+    }
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+    "accessed_at": "2026-10-20T13:43:21.687409+00:00",
+    "path": "sources/preflight/selected-official.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+    "response_headers": {
+      "Server": "nginx",
+      "Date": "Tue, 20 Oct 2026 13:43:22 GMT",
+      "Content-Type": "application/xml",
+      "Content-Length": "2622149",
+      "Connection": "close",
+      "Last-Modified": "Tue, 29 Sep 2026 04:16:55 GMT",
+      "ETag": "\"6abb3bb7-2802c5\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "bytes": 2622149,
+    "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "format_validation": {
+      "valid_xml": true,
+      "root": "toestand",
+      "bwb_id": "BWBR0005537",
+      "consolidation_date": "2026-08-15",
+      "official_article_count": 584,
+      "accepted_statute_xml": true
+    }
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-01_0/xml/BWBR0005537_2026-08-01_0.xml",
+    "accessed_at": "2026-10-20T13:43:23.162047+00:00",
+    "path": "sources/preflight/previous-official.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-01_0/xml/BWBR0005537_2026-08-01_0.xml",
+    "response_headers": {
+      "Server": "nginx",
+      "Date": "Tue, 20 Oct 2026 13:43:23 GMT",
+      "Content-Type": "application/xml",
+      "Content-Length": "2620315",
+      "Connection": "close",
+      "Last-Modified": "Tue, 29 Sep 2026 04:16:20 GMT",
+      "ETag": "\"6abb3b94-27fb9b\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "bytes": 2620315,
+    "sha256": "04d8986ae1ad30cc84a00bfd91d1ca79a3ea6a0be48aeaf5bcb1fc5e606ebc66",
+    "format_validation": {
+      "valid_xml": true,
+      "root": "toestand",
+      "bwb_id": "BWBR0005537",
+      "consolidation_date": "2026-08-01",
+      "official_article_count": 584,
+      "accepted_statute_xml": true
+    }
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005537/2026-10-19",
+    "accessed_at": "2026-10-20T13:43:23.511194+00:00",
+    "path": "sources/preflight/decisive-date.html",
+    "http_status": 404,
+    "content_type": "text/html;charset=UTF-8",
+    "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-10-19",
+    "response_headers": {
+      "Server": "nginx",
+      "Date": "Tue, 20 Oct 2026 13:43:23 GMT",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "close",
+      "Content-Language": "en-US",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Content-Security-Policy": "frame-ancestors 'self'",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "Permissions-Policy": "accelerometer=(), camera=(), gyroscope=(), magnetometer=(), microphone=(), payment=()"
+    },
+    "bytes": 8702,
+    "sha256": "039105fb83129a7c5771a9c950cb81de5278ecdc0f6c1b3df6bcfe740e9a2991",
+    "format_validation": {
+      "accepted_html": false
+    }
+  }
+]

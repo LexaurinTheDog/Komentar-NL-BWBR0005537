@@ -1,0 +1,758 @@
+[
+  {
+    "official_path": "/Hoofdstuk1",
+    "heading": "Hoofdstuk 1 Inleidende bepalingen",
+    "represented": true,
+    "article_count": 9
+  },
+  {
+    "official_path": "/Hoofdstuk1/Titeldeel1.1",
+    "heading": "Titel 1.1 Definities en reikwijdte",
+    "represented": true,
+    "article_count": 6
+  },
+  {
+    "official_path": "/Hoofdstuk1/Titeldeel1.2",
+    "heading": "Titel 1.2 Uitvoering van bindende besluiten van organen van de Europese Unie",
+    "represented": true,
+    "article_count": 3
+  },
+  {
+    "official_path": "/Hoofdstuk2",
+    "heading": "Hoofdstuk 2 Verkeer met bestuursorganen",
+    "represented": true,
+    "article_count": 27
+  },
+  {
+    "official_path": "/Hoofdstuk2/Afdeling2.1",
+    "heading": "Afdeling 2.1 Algemene bepalingen",
+    "represented": true,
+    "article_count": 5
+  },
+  {
+    "official_path": "/Hoofdstuk2/Afdeling2.2",
+    "heading": "Afdeling 2.2 Gebruik van de taal in het bestuurlijk verkeer",
+    "represented": true,
+    "article_count": 1
+  },
+  {
+    "official_path": "/Hoofdstuk2/Afdeling2.3",
+    "heading": "Afdeling 2.3 Verkeer langs elektronische weg",
+    "represented": true,
+    "article_count": 21
+  },
+  {
+    "official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.1",
+    "heading": "Paragraaf 2.3.1 Algemeen",
+    "represented": true,
+    "article_count": 1
+  },
+  {
+    "official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.2",
+    "heading": "Paragraaf 2.3.2 Verzending door een bestuursorgaan",
+    "represented": true,
+    "article_count": 5
+  },
+  {
+    "official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.3",
+    "heading": "Paragraaf 2.3.3 Verzending aan een bestuursorgaan",
+    "represented": true,
+    "article_count": 6
+  },
+  {
+    "official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.4",
+    "heading": "Paragraaf 2.3.4 Tijdstip van verzending en ontvangst",
+    "represented": true,
+    "article_count": 2
+  },
+  {
+    "official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.5",
+    "heading": "Paragraaf 2.3.5 Wettelijke termijnen",
+    "represented": true,
+    "article_count": 4
+  },
+  {
+    "official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.6",
+    "heading": "Paragraaf 2.3.6 Bewijslast",
+    "represented": true,
+    "article_count": 1
+  },
+  {
+    "official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.7",
+    "heading": "Paragraaf 2.3.7 Tijdelijke afwijking van deze afdeling",
+    "represented": true,
+    "article_count": 1
+  },
+  {
+    "official_path": "/Hoofdstuk2/Afdeling2.3/Paragraaf2.3.8",
+    "heading": "Paragraaf 2.3.8 Regels over bewaren en vernietigen",
+    "represented": true,
+    "article_count": 1
+  },
+  {
+    "official_path": "/Hoofdstuk3",
+    "heading": "Hoofdstuk 3 Algemene bepalingen over besluiten",
+    "represented": true,
+    "article_count": 45
+  },
+  {
+    "official_path": "/Hoofdstuk3/Afdeling3.1",
+    "heading": "Afdeling 3.1 Inleidende bepalingen",
+    "represented": true,
+    "article_count": 1
+  },
+  {
+    "official_path": "/Hoofdstuk3/Afdeling3.2",
+    "heading": "Afdeling 3.2 Zorgvuldigheid en belangenafweging",
+    "represented": true,
+    "article_count": 3
+  },
+  {
+    "official_path": "/Hoofdstuk3/Afdeling3.3",
+    "heading": "Afdeling 3.3 Advisering",
+    "represented": true,
+    "article_count": 6
+  },
+  {
+    "official_path": "/Hoofdstuk3/Afdeling3.4",
+    "heading": "Afdeling 3.4 Uniforme openbare voorbereidingsprocedure",
+    "represented": true,
+    "article_count": 9
+  },
+  {
+    "official_path": "/Hoofdstuk3/Afdeling3.4a",
+    "heading": "Afdeling 3.4a Informatie over samenhangende besluiten",
+    "represented": true,
+    "article_count": 1
+  },
+  {
+    "official_path": "/Hoofdstuk3/Afdeling3.5",
+    "heading": "Afdeling 3.5 Coördinatie van samenhangende besluiten",
+    "represented": true,
+    "article_count": 14
+  },
+  {
+    "official_path": "/Hoofdstuk3/Afdeling3.6",
+    "heading": "Afdeling 3.6 Bekendmaking en mededeling",
+    "represented": true,
+    "article_count": 6
+  },
+  {
+    "official_path": "/Hoofdstuk3/Afdeling3.7",
+    "heading": "Afdeling 3.7 Motivering",
+    "represented": true,
+    "article_count": 5
+  },
+  {
+    "official_path": "/Hoofdstuk4",
+    "heading": "Hoofdstuk 4 Bijzondere bepalingen over besluiten",
+    "represented": true,
+    "article_count": 139
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.1",
+    "heading": "Titel 4.1 Beschikkingen",
+    "represented": true,
+    "article_count": 27
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.1/Afdeling4.1.1",
+    "heading": "Afdeling 4.1.1 De aanvraag",
+    "represented": true,
+    "article_count": 7
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.1/Afdeling4.1.2",
+    "heading": "Afdeling 4.1.2 De voorbereiding",
+    "represented": true,
+    "article_count": 6
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.1/Afdeling4.1.3",
+    "heading": "Afdeling 4.1.3 Beslistermijn",
+    "represented": true,
+    "article_count": 14
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.1/Afdeling4.1.3/Paragraaf4.1.3.1",
+    "heading": "§ 4.1.3.1 Beslistermijn",
+    "represented": true,
+    "article_count": 3
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.1/Afdeling4.1.3/Paragraaf4.1.3.2",
+    "heading": "§ 4.1.3.2 Dwangsom bij niet tijdig beslissen",
+    "represented": true,
+    "article_count": 5
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.1/Afdeling4.1.3/Paragraaf4.1.3.3",
+    "heading": "§ 4.1.3.3 Positieve fictieve beschikking bij niet tijdig beslissen",
+    "represented": true,
+    "article_count": 6
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.2",
+    "heading": "Titel 4.2 Subsidies",
+    "represented": true,
+    "article_count": 60
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.2/Afdeling4.2.1",
+    "heading": "Afdeling 4.2.1 Inleidende bepalingen",
+    "represented": true,
+    "article_count": 4
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.2/Afdeling4.2.2",
+    "heading": "Afdeling 4.2.2 Het subsidieplafond",
+    "represented": true,
+    "article_count": 4
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.2/Afdeling4.2.3",
+    "heading": "Afdeling 4.2.3 De subsidieverlening",
+    "represented": true,
+    "article_count": 8
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.2/Afdeling4.2.4",
+    "heading": "Afdeling 4.2.4 Verplichtingen van de subsidie-ontvanger",
+    "represented": true,
+    "article_count": 5
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.2/Afdeling4.2.5",
+    "heading": "Afdeling 4.2.5 De subsidievaststelling",
+    "represented": true,
+    "article_count": 6
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.2/Afdeling4.2.6",
+    "heading": "Afdeling 4.2.6 Intrekking en wijziging",
+    "represented": true,
+    "article_count": 4
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.2/Afdeling4.2.7",
+    "heading": "Afdeling 4.2.7 Betaling en terugvordering",
+    "represented": true,
+    "article_count": 6
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.2/Afdeling4.2.8",
+    "heading": "Afdeling 4.2.8 Per boekjaar verstrekte subsidies aan rechtspersonen",
+    "represented": true,
+    "article_count": 23
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.2/Afdeling4.2.8/Paragraaf4.2.8.1",
+    "heading": "Paragraaf 4.2.8.1 Inleidende bepalingen",
+    "represented": true,
+    "article_count": 2
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.2/Afdeling4.2.8/Paragraaf4.2.8.2",
+    "heading": "Paragraaf 4.2.8.2 De aanvraag",
+    "represented": true,
+    "article_count": 6
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.2/Afdeling4.2.8/Paragraaf4.2.8.3",
+    "heading": "Paragraaf 4.2.8.3 De subsidieverlening",
+    "represented": true,
+    "article_count": 2
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.2/Afdeling4.2.8/Paragraaf4.2.8.4",
+    "heading": "Paragraaf 4.2.8.4 Verplichtingen van de subsidie-ontvanger",
+    "represented": true,
+    "article_count": 5
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.2/Afdeling4.2.8/Paragraaf4.2.8.5",
+    "heading": "Paragraaf 4.2.8.5 De subsidievaststelling",
+    "represented": true,
+    "article_count": 8
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.3",
+    "heading": "Titel 4.3 Beleidsregels",
+    "represented": true,
+    "article_count": 4
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.4",
+    "heading": "Titel 4.4 Bestuursrechtelijke geldschulden",
+    "represented": true,
+    "article_count": 42
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.4/Afdeling4.4.1",
+    "heading": "Afdeling 4.4.1 Vaststelling en inhoud van de verplichting tot betaling",
+    "represented": true,
+    "article_count": 13
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.4/Afdeling4.4.2",
+    "heading": "Afdeling 4.4.2 Verzuim en wettelijke rente",
+    "represented": true,
+    "article_count": 7
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.4/Afdeling4.4.3",
+    "heading": "Afdeling 4.4.3 Verjaring",
+    "represented": true,
+    "article_count": 8
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.4/Afdeling4.4.4",
+    "heading": "Afdeling 4.4.4 Aanmaning en invordering bij dwangbevel",
+    "represented": true,
+    "article_count": 13
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.4/Afdeling4.4.4/Paragraaf4.4.4.1",
+    "heading": "Paragraaf 4.4.4.1 De aanmaning",
+    "represented": true,
+    "article_count": 2
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.4/Afdeling4.4.4/Paragraaf4.4.4.2",
+    "heading": "Paragraaf 4.4.4.2 Invordering bij dwangbevel",
+    "represented": true,
+    "article_count": 11
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.4/Afdeling4.4.5",
+    "heading": "Afdeling 4.4.5 Bezwaar en beroep",
+    "represented": true,
+    "article_count": 1
+  },
+  {
+    "official_path": "/Hoofdstuk4/Titeldeel4.5",
+    "heading": "Titel 4.5 Nadeelcompensatie",
+    "represented": true,
+    "article_count": 6
+  },
+  {
+    "official_path": "/Hoofdstuk5",
+    "heading": "Hoofdstuk 5 Handhaving",
+    "represented": true,
+    "article_count": 63
+  },
+  {
+    "official_path": "/Hoofdstuk5/Titeldeel5.1",
+    "heading": "Titel 5.1 Algemene bepalingen",
+    "represented": true,
+    "article_count": 11
+  },
+  {
+    "official_path": "/Hoofdstuk5/Titeldeel5.2",
+    "heading": "Titel 5.2 Toezicht op de naleving",
+    "represented": true,
+    "article_count": 11
+  },
+  {
+    "official_path": "/Hoofdstuk5/Titeldeel5.3",
+    "heading": "Titel 5.3 Herstelsancties",
+    "represented": true,
+    "article_count": 26
+  },
+  {
+    "official_path": "/Hoofdstuk5/Titeldeel5.3/Afdeling5.3.1",
+    "heading": "Afdeling 5.3.1 Last onder bestuursdwang",
+    "represented": true,
+    "article_count": 14
+  },
+  {
+    "official_path": "/Hoofdstuk5/Titeldeel5.3/Afdeling5.3.2",
+    "heading": "Afdeling 5.3.2 Last onder dwangsom",
+    "represented": true,
+    "article_count": 12
+  },
+  {
+    "official_path": "/Hoofdstuk5/Titeldeel5.4",
+    "heading": "Titel 5.4 Bestuurlijke boete",
+    "represented": true,
+    "article_count": 15
+  },
+  {
+    "official_path": "/Hoofdstuk5/Titeldeel5.4/Afdeling5.4.1",
+    "heading": "Afdeling 5.4.1 Algemene bepalingen",
+    "represented": true,
+    "article_count": 8
+  },
+  {
+    "official_path": "/Hoofdstuk5/Titeldeel5.4/Afdeling5.4.2",
+    "heading": "Afdeling 5.4.2 De procedure",
+    "represented": true,
+    "article_count": 7
+  },
+  {
+    "official_path": "/Hoofdstuk6",
+    "heading": "Hoofdstuk 6 Algemene bepalingen over bezwaar en beroep",
+    "represented": true,
+    "article_count": 24
+  },
+  {
+    "official_path": "/Hoofdstuk6/Afdeling6.1",
+    "heading": "Afdeling 6.1 Inleidende bepalingen",
+    "represented": true,
+    "article_count": 3
+  },
+  {
+    "official_path": "/Hoofdstuk6/Afdeling6.2",
+    "heading": "Afdeling 6.2 Overige algemene bepalingen",
+    "represented": true,
+    "article_count": 21
+  },
+  {
+    "official_path": "/Hoofdstuk7",
+    "heading": "Hoofdstuk 7 Bijzondere bepalingen over bezwaar en administratief beroep",
+    "represented": true,
+    "article_count": 31
+  },
+  {
+    "official_path": "/Hoofdstuk7/Afdeling7.1",
+    "heading": "Afdeling 7.1 Bezwaarschrift voorafgaand aan beroep bij de bestuursrechter",
+    "represented": true,
+    "article_count": 2
+  },
+  {
+    "official_path": "/Hoofdstuk7/Afdeling7.2",
+    "heading": "Afdeling 7.2 Bijzondere bepalingen over bezwaar",
+    "represented": true,
+    "article_count": 15
+  },
+  {
+    "official_path": "/Hoofdstuk7/Afdeling7.3",
+    "heading": "Afdeling 7.3 Bijzondere bepalingen over administratief beroep",
+    "represented": true,
+    "article_count": 14
+  },
+  {
+    "official_path": "/Hoofdstuk8",
+    "heading": "Hoofdstuk 8 Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter",
+    "represented": true,
+    "article_count": 146
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.1",
+    "heading": "Titel 8.1 Algemene bepalingen over het beroep in eerste aanleg",
+    "represented": true,
+    "article_count": 55
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.1",
+    "heading": "Afdeling 8.1.1 Bevoegdheid",
+    "represented": true,
+    "article_count": 9
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.2",
+    "heading": "Afdeling 8.1.2 Behandeling door een enkelvoudige, meervoudige of grote kamer",
+    "represented": true,
+    "article_count": 4
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.2a",
+    "heading": "Afdeling 8.1.2a Conclusie",
+    "represented": true,
+    "article_count": 1
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.2b",
+    "heading": "Afdeling 8.1.2b Opmerkingen door anderen dan partijen",
+    "represented": true,
+    "article_count": 1
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.3",
+    "heading": "Afdeling 8.1.3 Verwijzing, voeging en splitsing",
+    "represented": true,
+    "article_count": 3
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.4",
+    "heading": "Afdeling 8.1.4 Wraking en verschoning van rechters",
+    "represented": true,
+    "article_count": 6
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.5",
+    "heading": "Afdeling 8.1.5 Partijen",
+    "represented": true,
+    "article_count": 14
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6",
+    "heading": "Afdeling 8.1.6 Getuigen, deskundigen en tolken",
+    "represented": true,
+    "article_count": 4
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.6a",
+    "heading": "Afdeling 8.1.6a Verkeer langs elektronische weg met de bestuursrechter",
+    "represented": true,
+    "article_count": 7
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.7",
+    "heading": "Afdeling 8.1.7 Verzending van stukken",
+    "represented": true,
+    "article_count": 6
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.2",
+    "heading": "Titel 8.2 Behandeling van het beroep in eerste aanleg",
+    "represented": true,
+    "article_count": 60
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.1",
+    "heading": "Afdeling 8.2.1 Griffierecht",
+    "represented": true,
+    "article_count": 1
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.1a",
+    "heading": "Afdeling 8.2.1a Algemene bepaling",
+    "represented": true,
+    "article_count": 1
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.2",
+    "heading": "Afdeling 8.2.2 Vooronderzoek",
+    "represented": true,
+    "article_count": 11
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.2a",
+    "heading": "Afdeling 8.2.2a Bestuurlijke lus",
+    "represented": true,
+    "article_count": 4
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.3",
+    "heading": "Afdeling 8.2.3 Versnelde behandeling",
+    "represented": true,
+    "article_count": 2
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.4",
+    "heading": "Afdeling 8.2.4 Vereenvoudigde behandeling",
+    "represented": true,
+    "article_count": 3
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.4a",
+    "heading": "Afdeling 8.2.4a Beroep bij niet tijdig handelen",
+    "represented": true,
+    "article_count": 6
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.5",
+    "heading": "Afdeling 8.2.5 Onderzoek ter zitting",
+    "represented": true,
+    "article_count": 11
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.6",
+    "heading": "Afdeling 8.2.6 Uitspraak",
+    "represented": true,
+    "article_count": 19
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.2/Afdeling8.2.7",
+    "heading": "Afdeling 8.2.7 Tussenuitspraak",
+    "represented": true,
+    "article_count": 2
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.3",
+    "heading": "Titel 8.3 Voorlopige voorziening en onmiddellijke uitspraak in de hoofdzaak",
+    "represented": true,
+    "article_count": 7
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.4",
+    "heading": "Titel 8.4 Schadevergoeding",
+    "represented": true,
+    "article_count": 8
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.5",
+    "heading": "Titel 8.5 Hoger beroep",
+    "represented": true,
+    "article_count": 15
+  },
+  {
+    "official_path": "/Hoofdstuk8/Titeldeel8.6",
+    "heading": "Titel 8.6 Herziening",
+    "represented": true,
+    "article_count": 1
+  },
+  {
+    "official_path": "/Hoofdstuk9",
+    "heading": "Hoofdstuk 9 Klachtbehandeling",
+    "represented": true,
+    "article_count": 38
+  },
+  {
+    "official_path": "/Hoofdstuk9/Titeldeel9.1",
+    "heading": "Titel 9.1 Klachtbehandeling door een bestuursorgaan",
+    "represented": true,
+    "article_count": 17
+  },
+  {
+    "official_path": "/Hoofdstuk9/Titeldeel9.1/Afdeling9.1.1",
+    "heading": "Afdeling 9.1.1 Algemene bepalingen",
+    "represented": true,
+    "article_count": 3
+  },
+  {
+    "official_path": "/Hoofdstuk9/Titeldeel9.1/Afdeling9.1.2",
+    "heading": "Afdeling 9.1.2 De behandeling van klaagschriften",
+    "represented": true,
+    "article_count": 10
+  },
+  {
+    "official_path": "/Hoofdstuk9/Titeldeel9.1/Afdeling9.1.3",
+    "heading": "Afdeling 9.1.3 Aanvullende bepalingen voor een klachtadviesprocedure",
+    "represented": true,
+    "article_count": 4
+  },
+  {
+    "official_path": "/Hoofdstuk9/Titeldeel9.2",
+    "heading": "Titel 9.2 Klachtbehandeling door een ombudsman",
+    "represented": true,
+    "article_count": 21
+  },
+  {
+    "official_path": "/Hoofdstuk9/Titeldeel9.2/Afdeling9.2.1",
+    "heading": "Afdeling 9.2.1 Algemene bepalingen",
+    "represented": true,
+    "article_count": 5
+  },
+  {
+    "official_path": "/Hoofdstuk9/Titeldeel9.2/Afdeling9.2.2",
+    "heading": "Afdeling 9.2.2 Bevoegdheid",
+    "represented": true,
+    "article_count": 6
+  },
+  {
+    "official_path": "/Hoofdstuk9/Titeldeel9.2/Afdeling9.2.3",
+    "heading": "Afdeling 9.2.3 Procedure",
+    "represented": true,
+    "article_count": 9
+  },
+  {
+    "official_path": "/Hoofdstuk9/Titeldeel9.2/Afdeling9.2.4",
+    "heading": "Afdeling 9.2.4 Openbaarheid",
+    "represented": true,
+    "article_count": 1
+  },
+  {
+    "official_path": "/Hoofdstuk10",
+    "heading": "Hoofdstuk 10 Bepalingen over bestuursorganen",
+    "represented": true,
+    "article_count": 44
+  },
+  {
+    "official_path": "/Hoofdstuk10/Titeldeel10.1",
+    "heading": "Titel 10.1 Mandaat, delegatie en attributie",
+    "represented": true,
+    "article_count": 23
+  },
+  {
+    "official_path": "/Hoofdstuk10/Titeldeel10.1/Afdeling10.1.1",
+    "heading": "Afdeling 10.1.1 Mandaat",
+    "represented": true,
+    "article_count": 12
+  },
+  {
+    "official_path": "/Hoofdstuk10/Titeldeel10.1/Afdeling10.1.2",
+    "heading": "Afdeling 10.1.2 Delegatie",
+    "represented": true,
+    "article_count": 9
+  },
+  {
+    "official_path": "/Hoofdstuk10/Titeldeel10.1/Afdeling10.1.3",
+    "heading": "Afdeling 10.1.3 Attributie",
+    "represented": true,
+    "article_count": 2
+  },
+  {
+    "official_path": "/Hoofdstuk10/Titeldeel10.2",
+    "heading": "Titel 10.2 Toezicht op bestuursorganen",
+    "represented": true,
+    "article_count": 21
+  },
+  {
+    "official_path": "/Hoofdstuk10/Titeldeel10.2/Afdeling10.2.1",
+    "heading": "Afdeling 10.2.1 Goedkeuring",
+    "represented": true,
+    "article_count": 8
+  },
+  {
+    "official_path": "/Hoofdstuk10/Titeldeel10.2/Afdeling10.2.2",
+    "heading": "Afdeling 10.2.2 Vernietiging",
+    "represented": true,
+    "article_count": 10
+  },
+  {
+    "official_path": "/Hoofdstuk10/Titeldeel10.2/Afdeling10.2.3",
+    "heading": "Afdeling 10.2.3 Schorsing",
+    "represented": true,
+    "article_count": 3
+  },
+  {
+    "official_path": "/Hoofdstuk11",
+    "heading": "Hoofdstuk 11 Slotbepalingen",
+    "represented": true,
+    "article_count": 4
+  },
+  {
+    "official_path": "/Bijlage1",
+    "heading": "Bijlage 1 Regeling rechtstreeks beroep (artikel 7:1, eerste lid, onderdeel g)",
+    "represented": true,
+    "article_count": 0
+  },
+  {
+    "official_path": "/Bijlage2",
+    "heading": "Bijlage 2 Bevoegdheidsregeling bestuursrechtspraak (artikelen 8:5, 8:6, 8:7, 8:105 en 8:106)",
+    "represented": true,
+    "article_count": 12
+  },
+  {
+    "official_path": "/Bijlage2/Divisie1",
+    "heading": "Hoofdstuk 1 Van beroep uitgezonderde besluiten (artikel 8:5)",
+    "represented": true,
+    "article_count": 1
+  },
+  {
+    "official_path": "/Bijlage2/Divisie2",
+    "heading": "Hoofdstuk 2 Beroep in eerste aanleg bij een bijzondere bestuursrechter (artikelen 8:4, tweede lid, en 8:6)",
+    "represented": true,
+    "article_count": 4
+  },
+  {
+    "official_path": "/Bijlage2/Divisie3",
+    "heading": "Hoofdstuk 3 Beroep in eerste aanleg bij een andere rechtbank (artikel 8:7, derde lid)",
+    "represented": true,
+    "article_count": 3
+  },
+  {
+    "official_path": "/Bijlage2/Divisie4",
+    "heading": "Hoofdstuk 4 Hoger beroep (artikelen 8:105 en 8:106, eerste lid, onder a)",
+    "represented": true,
+    "article_count": 4
+  },
+  {
+    "official_path": "/Bijlage3",
+    "heading": "Bijlage 3 Regeling verlaagd griffierecht (artikelen 8:41 en 8:109)",
+    "represented": true,
+    "article_count": 2
+  }
+]

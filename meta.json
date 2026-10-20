@@ -170,5 +170,8 @@
     }
   ],
   "decisive_date": "2026-10-19",
-  "consolidation_date": "2026-08-15"
+  "consolidation_date": "2026-08-15",
+  "official_source_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+  "official_xml_path": "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537/sources/intake-official.xml",
+  "official_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871"
 }

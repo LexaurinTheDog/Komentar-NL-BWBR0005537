@@ -1,0 +1,72 @@
+[
+  {
+    "annex": "1",
+    "official_path": "/Bijlage1",
+    "title": "Bijlage 1 Regeling rechtstreeks beroep (artikel 7:1, eerste lid, onderdeel g)",
+    "article_count": 0,
+    "expected_child_ids": [],
+    "expected_unit_ids": [
+      "bijlage-1"
+    ],
+    "direct_body_paragraph_count": 32,
+    "disposition": "Entire unnumbered operative schedule retained as a single unit; no paragraph omitted.",
+    "evidence_path": "sources/intake-official.xml",
+    "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871"
+  },
+  {
+    "annex": "2",
+    "official_path": "/Bijlage2",
+    "title": "Bijlage 2 Bevoegdheidsregeling bestuursrechtspraak (artikelen 8:5, 8:6, 8:7, 8:105 en 8:106)",
+    "article_count": 12,
+    "expected_child_ids": [
+      "bijlage-2-art-1",
+      "bijlage-2-art-2",
+      "bijlage-2-art-3",
+      "bijlage-2-art-4",
+      "bijlage-2-art-5",
+      "bijlage-2-art-6",
+      "bijlage-2-art-7",
+      "bijlage-2-art-8",
+      "bijlage-2-art-9",
+      "bijlage-2-art-10",
+      "bijlage-2-art-11",
+      "bijlage-2-art-12"
+    ],
+    "expected_unit_ids": [
+      "bijlage-2-art-1",
+      "bijlage-2-art-2",
+      "bijlage-2-art-3",
+      "bijlage-2-art-4",
+      "bijlage-2-art-5",
+      "bijlage-2-art-6",
+      "bijlage-2-art-7",
+      "bijlage-2-art-8",
+      "bijlage-2-art-9",
+      "bijlage-2-art-10",
+      "bijlage-2-art-11",
+      "bijlage-2-art-12"
+    ],
+    "direct_body_paragraph_count": 0,
+    "disposition": "All numbered annex articles retained separately with annex-prefixed identifiers.",
+    "evidence_path": "sources/intake-official.xml",
+    "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871"
+  },
+  {
+    "annex": "3",
+    "official_path": "/Bijlage3",
+    "title": "Bijlage 3 Regeling verlaagd griffierecht (artikelen 8:41 en 8:109)",
+    "article_count": 2,
+    "expected_child_ids": [
+      "bijlage-3-art-1",
+      "bijlage-3-art-2"
+    ],
+    "expected_unit_ids": [
+      "bijlage-3-art-1",
+      "bijlage-3-art-2"
+    ],
+    "direct_body_paragraph_count": 0,
+    "disposition": "All numbered annex articles retained separately with annex-prefixed identifiers.",
+    "evidence_path": "sources/intake-official.xml",
+    "evidence_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871"
+  }
+]
