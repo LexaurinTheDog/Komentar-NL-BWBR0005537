@@ -2,9 +2,9 @@
   "repo": "Komentar-NL-BWBR0005537",
   "units": 588,
   "verbatim_ratio": 1.0,
-  "commentary_chars": 373595,
+  "commentary_chars": 416656,
   "errors": [
-    "krátký/chybějící komentář u 368 jednotek: ['art-4:131(0<400)', 'art-5:1(0<400)', 'art-5:2(0<400)', 'art-5:3(0<400)', 'art-5:4(0<400)', 'art-5:5(0<120)', 'art-5:6(0<120)', 'art-5:7(0<120)']"
+    "krátký/chybějící komentář u 348 jednotek: ['art-5:18(0<400)', 'art-5:19(0<400)', 'art-5:20(0<400)', 'art-5:21(0<400)', 'art-5:22(0<120)', 'art-5:23(0<120)', 'art-5:24(0<400)', 'art-5:25(0<400)']"
   ],
   "warnings": [],
   "ok": false

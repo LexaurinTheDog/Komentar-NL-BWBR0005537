@@ -674,15 +674,15 @@
       "repo": "Komentar-NL-BWBR0005537",
       "units": 588,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 373595,
+      "commentary_chars": 416656,
       "errors": [
-        "krátký/chybějící komentář u 368 jednotek: ['art-4:131(0<400)', 'art-5:1(0<400)', 'art-5:2(0<400)', 'art-5:3(0<400)', 'art-5:4(0<400)', 'art-5:5(0<120)', 'art-5:6(0<120)', 'art-5:7(0<120)']"
+        "krátký/chybějící komentář u 348 jednotek: ['art-5:18(0<400)', 'art-5:19(0<400)', 'art-5:20(0<400)', 'art-5:21(0<400)', 'art-5:22(0<120)', 'art-5:23(0<120)', 'art-5:24(0<400)', 'art-5:25(0<400)']"
       ],
       "warnings": [],
       "ok": false
     },
     "independent_review_scope": "The preserved earlier review evidence covers 220 prior units, not these twenty new units.",
-    "validated_at": "2026-10-20T16:03:47.937486+00:00",
+    "validated_at": "2026-10-20T16:17:00.040516+00:00",
     "evidence": "strict-validation.json",
     "bounded_review_passed": true,
     "scoped_review_complete": true,
@@ -692,13 +692,13 @@
     "bounded_author_batch": {
       "complete": true,
       "assigned_units": 20,
-      "evidence": "batch-4-111-130-validation.json",
+      "evidence": "batch-4-131-5-17-validation.json",
       "independent_review": false
     }
   },
   "remaining_limitations": [
     "Uitsluitend de twintig exact genoemde artikelen zijn in deze batch inhoudelijk beoordeeld; geen voltooiing van het gehele boek.",
-    "368 eenheden buiten deze opdracht missen nog commentaar en tweede beoordeling.",
+    "348 eenheden buiten deze auteursopdracht missen nog commentaar; de twintig nieuwe toelichtingen wachten daarnaast op tweede beoordeling.",
     "Rechtspraakcontrole is selectief; geen uitputtende vervolg- of cassatiecontrole.",
     "Drie gebruikte uitspraken ontbreken als individuele lokale corpusbestanden; volledige officiële Rechtspraak-XML is leidend.",
     "Het lokale CBb-bestand is niet als bytegelijke volledige officiële body aangemerkt.",

@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-10-20T16:15:31.684822+00:00",
-  "scope": "Exactly twenty assigned authoring units, excluding whole-book completion",
+  "checked_at": "2026-10-20T16:16:22.930354+00:00",
+  "scope": "Bounded authoring of exactly the twenty assigned articles; no claim of whole-book completion.",
   "assigned_ids": [
     "art-4:131",
     "art-5:1",
@@ -34,15 +34,35 @@
     "missing": [],
     "duplicates": []
   },
+  "local_links_checked": 602,
+  "broken_local_links": [],
+  "repeated_long_paragraphs": [],
+  "shared_strict_validation": {
+    "command": [
+      "python3",
+      "/Volumes/LaCie/open-commentary/_tools/validate.py",
+      "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0005537"
+    ],
+    "exit_code": 1,
+    "result": {
+      "repo": "Komentar-NL-BWBR0005537",
+      "units": 588,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 416656,
+      "errors": [
+        "krátký/chybějící komentář u 348 jednotek: ['art-5:18(0<400)', 'art-5:19(0<400)', 'art-5:20(0<400)', 'art-5:21(0<400)', 'art-5:22(0<120)', 'art-5:23(0<120)', 'art-5:24(0<400)', 'art-5:25(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    }
+  },
   "shared_build": "build-validation-log.json",
+  "output_git_clean_at_validation": true,
   "whole_book_complete": false,
   "remaining_unwritten_outside_assignment": 348,
   "limitations": [
-    "Fresh independent content review pending.",
-    "Whole-book shared build stops at missing commentaries outside assignment.",
-    "Minimum length is not proof of legal quality."
-  ],
-  "local_links_checked": 602,
-  "broken_local_links": [],
-  "repeated_long_paragraphs": []
+    "These are author checks; a fresh independent content review remains pending.",
+    "Whole-book validation fails only for 348 units outside this authoring batch.",
+    "Minimum length and absence of repetition are not proof of legal quality."
+  ]
 }
