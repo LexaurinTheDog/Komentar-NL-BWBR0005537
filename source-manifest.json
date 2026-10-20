@@ -1,5 +1,25 @@
 [
   {
+    "path": "sources/aanhef/current.html",
+    "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+    "bytes": 4204181
+  },
+  {
+    "path": "sources/aanhef/selected.xml",
+    "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+    "bytes": 2622149
+  },
+  {
+    "path": "sources/aanhef/verification.json",
+    "sha256": "36294d8551e0ff69b894a547500ad036b0cd7c08422cfe8a27fc644e32e8358b",
+    "bytes": 2563
+  },
+  {
+    "path": "sources/aanhef/version-information.html",
+    "sha256": "03a37677866f95bcfcf6a563a4c6b221bc3321792708199d0a0eb77883ef0d80",
+    "bytes": 1748379
+  },
+  {
     "path": "sources/canonical.txt",
     "sha256": "7a3c38fde613177fe078f374a25bd153fec6af8f7ddbfd1f337be95fe59a7cf1",
     "bytes": 377436
@@ -211,8 +231,8 @@
   },
   {
     "path": "sources/verification.json",
-    "sha256": "0b4f75121ab5bbd9d5d6107103d43f28c947c9ddafd25b1c19493bdd4ff923ab",
-    "bytes": 12507
+    "sha256": "bda33f2d57d1b33f61d3ded9fad9ff85b2418da94b2968af06c88461445c8db6",
+    "bytes": 15121
   },
   {
     "path": "sources/version-analysis.json",

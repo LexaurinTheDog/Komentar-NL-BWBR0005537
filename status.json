@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T13:49:48.875356+00:00",
+  "updated_at": "2026-10-20T13:53:36.981914+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -18,8 +18,9 @@
   },
   "official_articles": 584,
   "total_units": 588,
-  "completed_units": 172,
+  "completed_units": 173,
   "completed_ids": [
+    "aanhef",
     "art-1:1",
     "art-1:2",
     "art-1:3",
@@ -194,7 +195,6 @@
     "art-4:84"
   ],
   "missing_commentary_ids": [
-    "aanhef",
     "art-4:85",
     "art-4:86",
     "art-4:87",
@@ -649,5 +649,13 @@
     "evidence": "preflight-result.json",
     "scope": "Source and parser only; manuscript incomplete."
   },
-  "technical_audit": "technical-audit.json"
+  "technical_audit": "technical-audit.json",
+  "last_author_batch": {
+    "assigned_ids": [
+      "aanhef"
+    ],
+    "complete": true,
+    "evidence": "batch-aanhef-result.json",
+    "whole_book_complete": false
+  }
 }

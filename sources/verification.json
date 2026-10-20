@@ -242,6 +242,48 @@
       "format_validation": {
         "accepted_html": false
       }
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0005537",
+      "accessed_at": "2026-10-20T13:51:43.603399+00:00",
+      "path": "sources/aanhef/current.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15",
+      "bytes": 4204181,
+      "sha256": "db0a305eaf86340e1a810050f614fd5a7efdd1e0d4bd1bc9c9be66cf50267f73",
+      "format_validation": {
+        "accepted_statute_html": true
+      }
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+      "accessed_at": "2026-10-20T13:51:46.187644+00:00",
+      "path": "sources/aanhef/version-information.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "final_url": "https://wetten.overheid.nl/BWBR0005537/2026-08-15/0/informatie",
+      "bytes": 1748379,
+      "sha256": "03a37677866f95bcfcf6a563a4c6b221bc3321792708199d0a0eb77883ef0d80",
+      "format_validation": {
+        "accepted_statute_html": true
+      }
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+      "accessed_at": "2026-10-20T13:51:47.363648+00:00",
+      "path": "sources/aanhef/selected.xml",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml",
+      "bytes": 2622149,
+      "sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
+      "format_validation": {
+        "valid_xml": true,
+        "root": "toestand",
+        "bwb_id": "BWBR0005537",
+        "accepted_statute_xml": true
+      }
     }
   ],
   "verified_at": "2026-10-20T13:47:01.778268+00:00",
@@ -283,5 +325,26 @@
     "first_future_effective_date": "2027-01-01",
     "new_effective_dates_since_intake": [],
     "reason": "The official history and current effective statement retain the same consolidation as the 2 October intake and the 19 October authoring start. The XML refetch hash matches the original verified XML; intake omissions are parser/source-extraction repairs, not legislative amendments."
+  },
+  "aanhef_authoring_recheck": {
+    "assigned_ids": [
+      "aanhef"
+    ],
+    "verified_at": "2026-10-20T13:51:47.363648+00:00",
+    "decisive_date": "2026-10-19",
+    "current_recheck_date": "2026-10-20",
+    "effective_statement": "Geraadpleegd op 20-10-2026. Geldend van 15-08-2026 t/m heden.",
+    "latest_effective_on_decisive_date": "2026-08-15",
+    "latest_effective_on_recheck_date": "2026-08-15",
+    "first_future_change": "2027-01-01",
+    "selected_xml_identical_to_canonical_raw": true,
+    "aanhef_matches_unit": true,
+    "firecrawl": {
+      "attempted": true,
+      "result": "Insufficient credits; official HTTP bodies retrieved directly instead."
+    },
+    "limitations": [
+      "No new full-title preflight or independent legal review is claimed. Existing annex and historical-version evidence is preserved."
+    ]
   }
 }

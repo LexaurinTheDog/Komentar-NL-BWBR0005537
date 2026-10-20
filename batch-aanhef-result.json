@@ -1,0 +1,47 @@
+{
+  "kind": "author",
+  "complete": true,
+  "scope": "Only assigned aanhef commentary authored; manuscript remains incomplete.",
+  "assigned_ids": [
+    "aanhef"
+  ],
+  "completed_ids": [
+    "aanhef"
+  ],
+  "commentary_chars": 4206,
+  "previous_172_commentaries_preserved": true,
+  "added_commentary_ids": [
+    "aanhef"
+  ],
+  "source_evidence": "sources/aanhef/verification.json",
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T13:51:47.363648+00:00",
+  "source_unit_matches": true,
+  "duplicate_delimiters": [],
+  "author_content_check": {
+    "performed": true,
+    "independent": false,
+    "checked": [
+      "Historical titulature, considerans and enactment formula distinguished.",
+      "Constitutional reference explained from the aanhef without importing Czech law.",
+      "Internal references checked against selected official XML: articles 1:1, 1:3, 1:6, 3:1 and the repealed slot 11:1.",
+      "No authority to refuse a subsidy inferred from the opening formula.",
+      "Fictional example identified as fictional; practical reading checklist included.",
+      "No new judicial holding asserted."
+    ]
+  },
+  "new_case_law_sources": [],
+  "case_law_disposition": "No separate judgment relied on for this formal opening unit. No new case-law search or exhaustive coverage claimed.",
+  "unresolved_blockers": [],
+  "full_title": {
+    "total_units": 588,
+    "completed_units": 173,
+    "remaining_units": 415,
+    "complete": false
+  },
+  "limitations": [
+    "Author self-check only; independent second pass remains outstanding.",
+    "Shared full-book builder and validator still report 415 unassigned missing commentaries.",
+    "Character count, duplication scan and source matching do not establish legal quality."
+  ]
+}
