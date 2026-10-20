@@ -188,5 +188,14 @@
   "case_law_evidence": "sources/review-007/case-search-log.json",
   "every_assigned_unit_read_against_source": true,
   "outside_scope_commentaries_preserved": true,
-  "whole_book_complete": false
+  "whole_book_complete": false,
+  "validation": {
+    "assigned_units_pass": true,
+    "statutory_agreement": 1.0,
+    "whole_book_pass": false,
+    "whole_book_blocker": "415 un-written commentaries outside assigned scope",
+    "evidence": "strict-validation.json",
+    "output_checkpoint_commit": "0f081b6",
+    "work_checkpoint_commit": "0413b90"
+  }
 }
