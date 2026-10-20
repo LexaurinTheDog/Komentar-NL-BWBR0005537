@@ -234,5 +234,17 @@
     "search_log": "sources/review-011/case-search-log.json",
     "technical": "review-technical.json",
     "prior_review": "sources/review-011/prior-review-result.json"
+  },
+  "validation_result": {
+    "scoped_technical_ok": true,
+    "statutory_text_agreement": 1.0,
+    "coverage_expected": 588,
+    "coverage_parsed": 588,
+    "whole_book_strict_ok": false,
+    "whole_book_blocker": "368 unwritten units outside assigned review",
+    "strict_evidence": "strict-validation.json",
+    "build_evidence": "build-validation-log.json",
+    "local_links_checked": 547,
+    "broken_local_links": 0
   }
 }
