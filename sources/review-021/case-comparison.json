@@ -1,0 +1,62 @@
+[
+  {
+    "ecli": "ECLI:NL:CRVB:2017:2226",
+    "official_full_judgment_identical_to_author_snapshot": true,
+    "official_xml": "sources/review-021/ECLI-NL-CRVB-2017-2226.xml",
+    "sha256": "4363876548a9dd3aa9f55a290221fbde8a82d990177658ca6129c01449d58f57",
+    "full_judgment_read_at_review": true,
+    "supported_ids": [
+      "art-8:47"
+    ],
+    "local_source": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/crvb/ecli-nl-crvb-2017-2226.md",
+    "local_raw_source": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/_raw/crvb/ecli-nl-crvb-2017-2226.xml.gz",
+    "local_snapshot": "sources/review-021/ECLI-NL-CRVB-2017-2226-local.md",
+    "local_snapshot_sha256": "ffe7e392b7944db41bb56a6c27889e4283606846c0c591cc166b545d86bfadc5",
+    "local_raw_uncompressed_sha256": "4363876548a9dd3aa9f55a290221fbde8a82d990177658ca6129c01449d58f57",
+    "local_full_judgment_identical": true
+  },
+  {
+    "ecli": "ECLI:NL:CRVB:2016:4390",
+    "official_full_judgment_identical_to_author_snapshot": true,
+    "official_xml": "sources/review-021/ECLI-NL-CRVB-2016-4390.xml",
+    "sha256": "413c4d151c015b4b5a4ff09e879e9009fe0af5e481c3861a6d7944312c00c36e",
+    "full_judgment_read_at_review": true,
+    "supported_ids": [
+      "art-8:51a"
+    ],
+    "local_source": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/crvb/ecli-nl-crvb-2016-4390.md",
+    "local_raw_source": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/_raw/crvb/ecli-nl-crvb-2016-4390.xml.gz",
+    "local_snapshot": "sources/review-021/ECLI-NL-CRVB-2016-4390-local.md",
+    "local_snapshot_sha256": "4da909b6e81641fa34720a354dc2d4431b6700b8b4b40e3c3ce4a18c8ca09ea6",
+    "local_raw_uncompressed_sha256": "413c4d151c015b4b5a4ff09e879e9009fe0af5e481c3861a6d7944312c00c36e",
+    "local_full_judgment_identical": true
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2025:422",
+    "official_full_judgment_identical_to_author_snapshot": true,
+    "official_xml": "sources/review-021/ECLI-NL-RVS-2025-422.xml",
+    "sha256": "2df469160341350fe006f186e3a48332d6555acc40e8dc327e668a964daf146e",
+    "full_judgment_read_at_review": true,
+    "supported_ids": [
+      "art-8:51d"
+    ],
+    "local_source": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/rvs/ecli-nl-rvs-2025-422.md",
+    "local_raw_source": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/_raw/rvs/ecli-nl-rvs-2025-422.xml.gz",
+    "local_snapshot": "sources/review-021/ECLI-NL-RVS-2025-422-local.md",
+    "local_snapshot_sha256": "3dcc04cec078df2625d4485eb16c1d1447797adb51c1fbb1537a98b3cd049ba5",
+    "local_raw_uncompressed_sha256": "2df469160341350fe006f186e3a48332d6555acc40e8dc327e668a964daf146e",
+    "local_full_judgment_identical": true
+  },
+  {
+    "ecli": "ECLI:NL:RBZWB:2024:4150",
+    "official_full_judgment_identical_to_author_snapshot": true,
+    "official_xml": "sources/review-021/ECLI-NL-RBZWB-2024-4150.xml",
+    "sha256": "c21ecc5dace0105b91d4c57982f8e6494a0adcbe931c2401fa0c248c6c77f174",
+    "full_judgment_read_at_review": true,
+    "supported_ids": [
+      "art-8:54",
+      "art-8:55"
+    ],
+    "local_comparison": "Lower court corpus unavailable; new official full text used."
+  }
+]

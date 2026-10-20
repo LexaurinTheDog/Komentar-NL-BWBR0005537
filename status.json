@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T19:16:05.512736+00:00",
+  "updated_at": "2026-10-20T19:23:57.530789+00:00",
   "title": "Commentaar op de Algemene wet bestuursrecht",
   "decisive_date": "2026-10-19",
   "selected_official_version": "2026-08-15_0",
@@ -15,8 +15,8 @@
     "verified_at": "2026-10-20T13:47:01.778268+00:00",
     "current_recheck_date": "2026-10-20",
     "selected_xml_sha256": "5916d0e65a5f9bdfed69fd484f038c3cb4614289100cd92d70b4828030d7a871",
-    "review_verified_at": "2026-10-20T19:03:56.062757+00:00",
-    "review_evidence": "sources/review-020/verification.json",
+    "review_verified_at": "2026-10-20T19:23:57.530789+00:00",
+    "review_evidence": "sources/review-021/verification.json",
     "author_batch_verified_at": "2026-10-20T19:16:05.512736+00:00",
     "author_batch_evidence": "sources/author-8-45-55c/verification.json"
   },
@@ -781,7 +781,7 @@
     "whole_book_complete": false,
     "reason": "168 ontbrekende commentaren buiten deze auteursbatch.",
     "bounded_author_passed": true,
-    "not_independent_review": true,
+    "not_independent_review": false,
     "evidence": "batch-8-45-55c-validation.json",
     "strict_output": {
       "repo": "Komentar-NL-BWBR0005537",
@@ -795,14 +795,15 @@
       "ok": false
     },
     "verbatim_ratio": 1.0,
-    "strict_checked_at": "2026-10-20T19:17:07.907956+00:00"
+    "strict_checked_at": "2026-10-20T19:17:07.907956+00:00",
+    "independent_review_scope": "Exactly twenty assigned ids in review-result.json; other400 commentaries preserved."
   },
   "remaining_limitations": [
-    "168 eenheden buiten deze afgebakende auteursbatch zijn nog ongeschreven.",
-    "De twintig nieuwe toelichtingen8:45–8:55c wachten op onafhankelijke tweede beoordeling; bestaande400 beoordelingen zijn behouden.",
-    "Selectieve rechtspraak; geen uitputtende latere-behandelingscontrole of zelfstandige verificatie van alle in arresten aangehaalde autoriteiten.",
-    "Direct EUR-Lex HTTP202-responsen afgewezen; aanvullende browserextractie heeft geen blootgelegde HTTP-status. De geldende Awb en Rv zijn rechtstreeks geverifieerd.",
-    "Technische lengte- en tekstcontroles bewijzen geen juridische kwaliteit."
+    "168 eenheden buiten de toegewezen reviewbatch zijn nog ongeschreven; het gehele boek is niet voltooid.",
+    "Deze tweede beoordeling omvat uitsluitend de twintig exacte reviewed_ids; eerdere400 beoordelingen niet overgedaan.",
+    "Selectieve rechtspraakcontrole; geen uitputtende dekking, latere-behandelingscontrole of externe professionele goedkeuring.",
+    "Aanvullende EUR-Lex-browserextractie toont geen HTTP-status; directe Awb/Rv-responsen zijn wel met HTTP en hashes vastgelegd.",
+    "Lengte, tekstidentiteit en herhalingscontrole zijn technische waarborgen, geen bewijs van juridische kwaliteit."
   ],
   "preflight": {
     "complete": true,
@@ -855,32 +856,33 @@
     ],
     "completed_units": 20,
     "evidence": "batch-8-45-55c-result.json",
-    "independently_reviewed": false
+    "independently_reviewed": true,
+    "independent_review_evidence": "sources/review-021/review-result.json"
   },
   "bounded_independent_review": {
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "art-8:36",
-      "art-8:36a",
-      "art-8:36b",
-      "art-8:36c--digitaal",
-      "art-8:36c--overig",
-      "art-8:36d",
-      "art-8:36e",
-      "art-8:36ea",
-      "art-8:36f",
-      "art-8:36g",
-      "art-8:37",
-      "art-8:38",
-      "art-8:39",
-      "art-8:40",
-      "art-8:40a",
-      "art-8:41",
-      "art-8:41a",
-      "art-8:42",
-      "art-8:43",
-      "art-8:44"
+      "art-8:45",
+      "art-8:45a",
+      "art-8:46",
+      "art-8:47",
+      "art-8:48",
+      "art-8:49",
+      "art-8:50",
+      "art-8:51",
+      "art-8:51a",
+      "art-8:51b",
+      "art-8:51c",
+      "art-8:51d",
+      "art-8:52",
+      "art-8:53",
+      "art-8:54",
+      "art-8:54a",
+      "art-8:55",
+      "art-8:55a",
+      "art-8:55b",
+      "art-8:55c"
     ],
     "evidence": "review-result.json",
     "technical_evidence": "review-technical.json",
@@ -888,7 +890,7 @@
   },
   "cumulative_independent_review": {
     "complete": false,
-    "units_reviewed": 400,
+    "units_reviewed": 420,
     "reviewed_ids": [
       "aanhef",
       "art-1:1",
@@ -1289,12 +1291,32 @@
       "art-8:41a",
       "art-8:42",
       "art-8:43",
-      "art-8:44"
+      "art-8:44",
+      "art-8:45",
+      "art-8:45a",
+      "art-8:46",
+      "art-8:47",
+      "art-8:48",
+      "art-8:49",
+      "art-8:50",
+      "art-8:51",
+      "art-8:51a",
+      "art-8:51b",
+      "art-8:51c",
+      "art-8:51d",
+      "art-8:52",
+      "art-8:53",
+      "art-8:54",
+      "art-8:54a",
+      "art-8:55",
+      "art-8:55a",
+      "art-8:55b",
+      "art-8:55c"
     ],
-    "prior_cumulative_evidence": "sources/review-020/prior-status.json",
-    "prior_batch_evidence": "sources/review-020/prior-review-result.json",
+    "prior_cumulative_evidence": "sources/review-021/prior-status.json",
+    "prior_batch_evidence": "sources/review-021/prior-review-result.json",
     "current_batch_evidence": "review-result.json",
-    "remaining_units": 188
+    "remaining_units": 168
   },
   "unreviewed_authored_ids": []
 }

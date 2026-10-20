@@ -1,0 +1,39 @@
+[
+  {
+    "ecli": "ECLI:NL:CRVB:2017:2226",
+    "case_card": "case-cards/ECLI-NL-CRVB-2017-2226.md",
+    "source": "sources/author-8-45-55c/ECLI-NL-CRVB-2017-2226.xml",
+    "supported_ids": [
+      "art-8:47"
+    ],
+    "full_text_read": true
+  },
+  {
+    "ecli": "ECLI:NL:CRVB:2016:4390",
+    "case_card": "case-cards/ECLI-NL-CRVB-2016-4390.md",
+    "source": "sources/author-8-45-55c/ECLI-NL-CRVB-2016-4390.xml",
+    "supported_ids": [
+      "art-8:51a"
+    ],
+    "full_text_read": true
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2025:422",
+    "case_card": "case-cards/ECLI-NL-RVS-2025-422.md",
+    "source": "sources/author-8-45-55c/ECLI-NL-RVS-2025-422.xml",
+    "supported_ids": [
+      "art-8:51d"
+    ],
+    "full_text_read": true
+  },
+  {
+    "ecli": "ECLI:NL:RBZWB:2024:4150",
+    "case_card": "case-cards/ECLI-NL-RBZWB-2024-4150.md",
+    "source": "sources/author-8-45-55c/ECLI-NL-RBZWB-2024-4150.xml",
+    "supported_ids": [
+      "art-8:54",
+      "art-8:55"
+    ],
+    "full_text_read": true
+  }
+]

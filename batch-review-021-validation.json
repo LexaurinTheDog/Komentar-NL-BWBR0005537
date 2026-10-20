@@ -1,0 +1,30 @@
+{
+  "bounded_review_complete": true,
+  "reviewed_ids": [
+    "art-8:45",
+    "art-8:45a",
+    "art-8:46",
+    "art-8:47",
+    "art-8:48",
+    "art-8:49",
+    "art-8:50",
+    "art-8:51",
+    "art-8:51a",
+    "art-8:51b",
+    "art-8:51c",
+    "art-8:51d",
+    "art-8:52",
+    "art-8:53",
+    "art-8:54",
+    "art-8:54a",
+    "art-8:55",
+    "art-8:55a",
+    "art-8:55b",
+    "art-8:55c"
+  ],
+  "units_reviewed": 20,
+  "corrected_units": 5,
+  "retained_units": 15,
+  "whole_book_complete": false,
+  "phase": "Precommit technical audit; strict clean-tree result recorded after commit."
+}

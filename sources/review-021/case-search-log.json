@@ -1,0 +1,82 @@
+{
+  "checked_at": "2026-10-20T19:22:11.345372+00:00",
+  "method": "Four existing authorities re-fetched in full from primary Rechtspraak XML and read; three national corpus raw full-judgment elements compared exactly. Two targeted primary-domain searches about 8:55c/611g added as supplementary issue-spotting, without treating snippets as authority.",
+  "queries": [
+    "Exact ECLI primary retrieval: ECLI:NL:CRVB:2017:2226",
+    "Exact ECLI primary retrieval: ECLI:NL:CRVB:2016:4390",
+    "Exact ECLI primary retrieval: ECLI:NL:RVS:2025:422",
+    "Exact ECLI primary retrieval: ECLI:NL:RBZWB:2024:4150",
+    "site.rechtspraak.nl \"8:55c\" \"611g\" verjaring",
+    "site.rechtspraak.nl \"8:55c\" \"zes maanden\""
+  ],
+  "selected": [
+    {
+      "ecli": "ECLI:NL:CRVB:2017:2226",
+      "case_card": "case-cards/ECLI-NL-CRVB-2017-2226.md",
+      "source": "sources/author-8-45-55c/ECLI-NL-CRVB-2017-2226.xml",
+      "supported_ids": [
+        "art-8:47"
+      ],
+      "full_text_read": true
+    },
+    {
+      "ecli": "ECLI:NL:CRVB:2016:4390",
+      "case_card": "case-cards/ECLI-NL-CRVB-2016-4390.md",
+      "source": "sources/author-8-45-55c/ECLI-NL-CRVB-2016-4390.xml",
+      "supported_ids": [
+        "art-8:51a"
+      ],
+      "full_text_read": true
+    },
+    {
+      "ecli": "ECLI:NL:RVS:2025:422",
+      "case_card": "case-cards/ECLI-NL-RVS-2025-422.md",
+      "source": "sources/author-8-45-55c/ECLI-NL-RVS-2025-422.xml",
+      "supported_ids": [
+        "art-8:51d"
+      ],
+      "full_text_read": true
+    },
+    {
+      "ecli": "ECLI:NL:RBZWB:2024:4150",
+      "case_card": "case-cards/ECLI-NL-RBZWB-2024-4150.md",
+      "source": "sources/author-8-45-55c/ECLI-NL-RBZWB-2024-4150.xml",
+      "supported_ids": [
+        "art-8:54",
+        "art-8:55"
+      ],
+      "full_text_read": true
+    }
+  ],
+  "candidate_not_selected": [
+    {
+      "ecli": "ECLI:NL:RBZWB:2019:3946",
+      "snapshot": "sources/review-021/ECLI-NL-RBZWB-2019-3946.xml",
+      "review_extent": "Relevant verjaring section 2.18 examined from full primary XML; remaining numerous BPM merits and annex dispositions not fully reviewed.",
+      "reason": "Not cited or represented as fully reviewed authority. Clarification of 8:55c uses current statutory 4:18,4:104 and selective Rv incorporation; no broader case holding attributed."
+    }
+  ],
+  "no_separately_verified_case_selected_for": [
+    "art-8:45",
+    "art-8:45a",
+    "art-8:46",
+    "art-8:48",
+    "art-8:49",
+    "art-8:50",
+    "art-8:51",
+    "art-8:51b",
+    "art-8:51c",
+    "art-8:52",
+    "art-8:53",
+    "art-8:54a",
+    "art-8:55a",
+    "art-8:55b",
+    "art-8:55c"
+  ],
+  "limitations": [
+    "Selective authority review, no exhaustive case-law or later-treatment audit.",
+    "Four judgments distinguish actual holdings from party submissions, and leave historical substantive regimes separate.",
+    "No other cases quoted inside these judgments independently adopted.",
+    "Firecrawl credits exhausted; direct official downloads succeeded."
+  ]
+}
