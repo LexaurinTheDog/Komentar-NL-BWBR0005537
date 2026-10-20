@@ -12,5 +12,20 @@
   },
   "checkpoint_method": "Render only actually authored units in affected chapters 12 and 13 with the shared loader and quoting function. Missing whole-book commentaries remain missing; shared gate unchanged.",
   "bounded_authoring_complete": true,
-  "whole_book_complete": false
+  "whole_book_complete": false,
+  "shared_strict_validation": {
+    "exit_code": 1,
+    "result": {
+      "repo": "Komentar-NL-BWBR0005537",
+      "units": 588,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 458893,
+      "errors": [
+        "krátký/chybějící komentář u 328 jednotek: ['art-5:32b(0<400)', 'art-5:33(0<120)', 'art-5:34(0<400)', 'art-5:35(0<400)', 'art-5:36(0<120)', 'art-5:37(0<400)', 'art-5:37a(0<400)', 'art-5:38(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "evidence": "batch-5-18-32a-validation.json"
+  }
 }

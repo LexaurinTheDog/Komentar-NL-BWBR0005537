@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T16:33:31.084435+00:00",
+  "checked_at": "2026-10-20T16:34:10.295897+00:00",
   "scope": "Exactly twenty assigned articles, 5:18–5:32a including intermediate lettered units; author checkpoint only.",
   "assigned_ids": [
     "art-5:18",
@@ -47,8 +47,7 @@
       "verbatim_ratio": 1.0,
       "commentary_chars": 458893,
       "errors": [
-        "krátký/chybějící komentář u 328 jednotek: ['art-5:32b(0<400)', 'art-5:33(0<120)', 'art-5:34(0<400)', 'art-5:35(0<400)', 'art-5:36(0<120)', 'art-5:37(0<400)', 'art-5:37a(0<400)', 'art-5:38(0<400)']",
-        "necommitnuté změny v repu"
+        "krátký/chybějící komentář u 328 jednotek: ['art-5:32b(0<400)', 'art-5:33(0<120)', 'art-5:34(0<400)', 'art-5:35(0<400)', 'art-5:36(0<120)', 'art-5:37(0<400)', 'art-5:37a(0<400)', 'art-5:38(0<400)']"
       ],
       "warnings": [],
       "ok": false
@@ -66,5 +65,6 @@
   "broken_local_links": [],
   "repeated_long_paragraphs": [],
   "repeated_long_sentences": [],
-  "complete": true
+  "complete": true,
+  "output_git_clean_at_validation": true
 }
